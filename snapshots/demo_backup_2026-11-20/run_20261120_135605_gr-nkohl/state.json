@@ -1,0 +1,75 @@
+{
+  "status": "rendered",
+  "events": [
+    {
+      "at": "2026-11-20T13:56:05",
+      "status": "awaiting_recipes",
+      "detail": "Editor cli-test selected P2 (Grünkohl)"
+    },
+    {
+      "at": "2026-11-20T13:56:05",
+      "status": "drafting",
+      "detail": "Recipe agent writing recipes A and B"
+    },
+    {
+      "at": "2026-11-20T14:00:57",
+      "status": "drafting",
+      "detail": "Recipe agent writing recipes A and B"
+    },
+    {
+      "at": "2026-11-20T14:02:37",
+      "status": "drafted",
+      "detail": "2 recipes drafted by Kimi-K3.1-Pro in 100.26 s"
+    },
+    {
+      "at": "2026-11-20T14:06:29",
+      "status": "under_review",
+      "detail": "Code checks + review agent"
+    },
+    {
+      "at": "2026-11-20T14:07:10",
+      "status": "reviewed",
+      "detail": "A: v1 approved (90.0 P.); B: v1 approved (88.0 P.)"
+    },
+    {
+      "at": "2026-11-20T14:07:27",
+      "status": "under_review",
+      "detail": "Code checks + review agent"
+    },
+    {
+      "at": "2026-11-20T14:10:21",
+      "status": "reviewed",
+      "detail": "A: v2 approved (91.0 P.); B: v2 approved (90.0 P.)"
+    },
+    {
+      "at": "2026-11-20T14:14:23",
+      "status": "nutrition_running",
+      "detail": "Matching ingredients to the Swiss food database"
+    },
+    {
+      "at": "2026-11-20T14:14:38",
+      "status": "nutrition_ready",
+      "detail": "A: 775 kcal/Portion, Abdeckung 100%; B: 728 kcal/Portion, Abdeckung 100%"
+    },
+    {
+      "at": "2026-11-20T14:14:55",
+      "status": "nutrition_running",
+      "detail": "Matching ingredients to the Swiss food database"
+    },
+    {
+      "at": "2026-11-20T14:15:20",
+      "status": "nutrition_running",
+      "detail": "Matching ingredients to the Swiss food database"
+    },
+    {
+      "at": "2026-11-20T14:15:39",
+      "status": "nutrition_ready",
+      "detail": "A: 801 kcal/Portion, Abdeckung 100%; B: 727 kcal/Portion, Abdeckung 99%"
+    },
+    {
+      "at": "2026-11-20T14:23:27",
+      "status": "rendered",
+      "detail": "A: v2, 2 Seite(n); B: v2, 2 Seite(n)"
+    }
+  ]
+}

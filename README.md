@@ -16,6 +16,22 @@ pip install -r requirements.txt
 copy .env.example .env   # then fill in the keys (never commit .env)
 ```
 
+## Run
+
+```
+streamlit run app.py
+```
+Workflow in the app: Trends → Vorschläge & Auswahl → Rezepte → Review → Nährwerte → Rezeptkarten.
+Command-line equivalents: `python -m agents.trend_agent`, `python -m agents.proposal_agent`,
+`python -m agents.recipe_agent <run_id>`, `python -m agents.review_agent <run_id>`, `python -m agents.nutrition_agent <run_id>`.
+
+## Demo backup (no live APIs needed)
+
+`snapshots/` holds frozen trends, proposals and complete runs. Load one in the app sidebar
+("Demo-Backup") or with `python -m storage.snapshot restore demo_backup_2026-11-20`.
+Current files are backed up to `runs/_backup_<time>/` first. Save a new one with
+`python -m storage.snapshot save <name> [run_id]`.
+
 ## Layout
 
 ```

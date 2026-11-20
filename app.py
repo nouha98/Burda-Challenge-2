@@ -52,6 +52,21 @@ with st.sidebar:
         st.caption(f"Status: **{runs.state(st.session_state.run_id)['status']}**")
     else:
         st.caption("Noch keine Auswahl getroffen.")
+    st.divider()
+    with st.expander("Demo-Backup (Snapshot)"):
+        from storage import snapshot
+        snaps = snapshot.list_snapshots()
+        if not snaps:
+            st.caption("Kein Snapshot vorhanden.")
+        else:
+            snap = st.selectbox("Snapshot", snaps, format_func=lambda m: m["name"])
+            st.caption(f"Trends {snap['trends_generated_at']} · Vorschläge {snap['proposals_generated_at']} · "
+                       + ", ".join(r["proposal"].split(" ")[0] + " → " + r["status"] for r in snap["runs"]))
+            if st.button("Snapshot laden", help="Lädt feste Demo-Daten. Aktuelle Dateien werden vorher gesichert."):
+                res = snapshot.restore(snap["name"])
+                if res["restored_runs"]:
+                    st.session_state.run_id = res["restored_runs"][0]
+                st.rerun()
 
 run_id = st.session_state.run_id
 tab_trends, tab_props, tab_recipes, tab_review, tab_nutri, tab_cards = st.tabs(

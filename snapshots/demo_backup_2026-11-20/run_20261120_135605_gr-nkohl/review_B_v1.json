@@ -1,0 +1,85 @@
+{
+  "slot": "B",
+  "version": 1,
+  "verdict": "revise",
+  "score_total": 87.0,
+  "scores": {
+    "culinary_plausibility": 23.0,
+    "consistency": 23.0,
+    "brand_fit": 18.0,
+    "clarity": 14.0,
+    "differentiation": 9.0
+  },
+  "pass_rule": "no critical/major issues and score ≥ 85/100; minor findings on the first draft trigger one polishing revision",
+  "code_findings": [],
+  "llm_issues": [
+    {
+      "severity": "major",
+      "field": "steps.4",
+      "problem_de": "850 g Wurzelgemüse plus 300 g Grünkohl auf einem Blech sind deutlich zu viel: Der Grünkohl liegt zu dicht und dämpft, statt kross zu werden – genau das Kernversprechen des Titels wird so verfehlt. Der Serving-Tip beschreibt das Problem, löst es aber nicht.",
+      "fix_de": "Entweder auf zwei Bleche verteilen (Wurzelgemüse und Grünkohl getrennt, Grünkohl nach 30 Minuten dazuschieben) oder Grünkohl auf 200 g reduzieren und die Wurzelgemüsemenge auf 400 g Kartoffeln/250 g Möhren senken; im Text ergänzen: 'auf zwei Blechen verteilen, damit die Blätter kross werden'.",
+      "criterion": 3,
+      "source": "review_agent"
+    },
+    {
+      "severity": "minor",
+      "field": "steps.4",
+      "problem_de": "Grünkohl bei 220 °C Ober-/Unterhitze 12–15 Minuten zu rösten ist am oberen Limit; dünne Blattstellen und Spitzen verbrennen, bevor die Kartoffeln gar sind.",
+      "fix_de": "Im Text 'nach 8–10 Minuten prüfen' ergänzen und ggf. auf 200 °C senken bzw. das Blech eine Schiene tiefer schieben; alternativ Umluft 200 °C angeben, da diese gleichmäßiger bräunt.",
+      "criterion": 3,
+      "source": "review_agent"
+    },
+    {
+      "severity": "minor",
+      "field": "steps.4",
+      "problem_de": "duration_minutes (15) passt nicht exakt zur Textangabe '12–15 Minuten'; auch prep 20 + cook 45 = 65 Minuten gegenüber total_minutes 55 ist nur über die 'Inzwischen'-Überlappung erklärbar.",
+      "fix_de": "duration_minutes auf 12 setzen und total_minutes auf 60 anheben (15 Min. Vorbereitung vor dem Ofen + 45 Min. Garzeit) – dann sind Zeiten und Text widerspruchsfrei.",
+      "criterion": 6,
+      "source": "review_agent"
+    }
+  ],
+  "criteria": [
+    {
+      "no": 1,
+      "pass": true,
+      "comment_de": "Titel benennt Gericht und Kernversprechen präzise (Ofen-Grünkohl, Kartoffeln, Möhren, 'kross')."
+    },
+    {
+      "no": 2,
+      "pass": true,
+      "comment_de": "Keine Zwischenüberschriften nötig – das Rezept ist kurz, linear und ohne Gruppen."
+    },
+    {
+      "no": 3,
+      "pass": false,
+      "comment_de": "Mengen pro Person sind plausibel (250 g Kartoffeln, 175 g Möhren, 150 g Grünkohl), aber insgesamt 1,15 kg Gemüse sind für ein Blech zu viel."
+    },
+    {
+      "no": 4,
+      "pass": true,
+      "comment_de": "Alle Zutaten haben Mengen; nur Salz und Pfeffer stehen ohne Angabe – regelkonform."
+    },
+    {
+      "no": 5,
+      "pass": true,
+      "comment_de": "Alle Zutaten werden verwendet; das Öl ist korrekt auf 2 EL (Schritt 1) und 1 EL (Schritt 4) aufgeteilt."
+    },
+    {
+      "no": 6,
+      "pass": true,
+      "comment_de": "Mengen und Einheiten stimmen zwischen Liste und Schritten überein; nur die Zeitangabe in Schritt 4 weicht leicht vom Text ab."
+    },
+    {
+      "no": 7,
+      "pass": true,
+      "comment_de": "EL (Rapsöl) und TL (Paprikapulver, Meerrettich, Zitronensaft) sind korrekt unterschieden und verrechnet."
+    },
+    {
+      "no": 8,
+      "pass": true,
+      "comment_de": "Ofen wird in Schritt 1 rechtzeitig vorgeheizt, Wenden nach 15/30 Minuten und Grünkohl-Zugabe sind logisch getaktet."
+    }
+  ],
+  "summary_de": "Alltagstaugliches, gut getaktetes Ofengemüse mit klarem Saisonbezug, kurzer Zutatenliste und stimmiger Apfel-Meerrettich-Note – die Mengen sind pro Person plausibel. Vor der Veröffentlichung muss aber die Blechbeladung gelöst werden, sonst wird der Grünkohl gedämpft statt kross; Temperatur/Zeit für den Grünkohl und die Zeitangaben sollten nachgeschärft werden.",
+  "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+}

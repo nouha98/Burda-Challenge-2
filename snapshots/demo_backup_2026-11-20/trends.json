@@ -1,0 +1,4921 @@
+{
+  "generated_at": "2026-11-20T13:46:55",
+  "sources": {
+    "google_trends": {
+      "country": "DE",
+      "period": {
+        "start": "2026-10-18",
+        "end": "2026-11-18"
+      },
+      "files": [
+        "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+        "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+        "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+        "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv"
+      ]
+    },
+    "wikimedia": {
+      "live_window": {
+        "previous": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest": [
+          "2026-11-13",
+          "2026-11-19"
+        ]
+      },
+      "project": "de.wikipedia.org",
+      "fallback": "Wikimedia_Pageviews_Fallback_2026-11-18.xlsx"
+    }
+  },
+  "method": {
+    "grouping": "Google records grouped by the mapped German Wikipedia article (fallback spreadsheet mapping)",
+    "score": "T = 100*(0.65*G + 0.35*W); G = 0.6*p(growth)+0.4*p(interest) within Google cohort, best record per topic; W = 0.6*p(latest 7d views)+0.4*p(clipped log growth, +20 smoothing). Relative ranking within this dataset, not absolute demand.",
+    "classification_model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+  },
+  "limitations": [
+    "Google values are normalised (0-100), not search counts; a rising '0' is a rounded small value.",
+    "Google period (18 Oct-18 Nov) and Wikipedia window differ.",
+    "The November rise is partly seasonal (Advent/Christmas baking), not necessarily a lasting trend.",
+    "Several search terms can share one broad Wikipedia article."
+  ],
+  "candidates": [
+    {
+      "wikipedia_article": "Grünkohl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gr%C3%BCnkohl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "grünkohl rezept klassisch",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 650.0,
+          "increase_raw": "650 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 7
+        },
+        {
+          "term": "grünkohl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 200.0,
+          "increase_raw": "200 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 19
+        },
+        {
+          "term": "Curly kale (Vegetable)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 23,
+          "increase_percent": 190.0,
+          "increase_raw": "190 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 5
+        },
+        {
+          "term": "grünkohl rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 200.0,
+          "increase_raw": "200 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 22
+        }
+      ],
+      "id": "t6",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 3703,
+        "latest_7d_views": 3771,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gr%C3%BCnkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "classification": {
+        "id": "t6",
+        "name_de": "Grünkohl",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Saisonal typisches Wintergemüse, das besonders nach dem ersten Frost gesucht wird – klassisch mit Pinkel oder modern interpretierbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 80.4,
+        "T_note": "complete",
+        "G": 0.868,
+        "W": 0.684,
+        "best_google_growth_percent": 650.0,
+        "max_search_interest": 23,
+        "wikipedia_change": 0.018,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Gulasch",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gulasch",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rezept gulasch",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 44
+        },
+        {
+          "term": "gulasch rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 48
+        },
+        {
+          "term": "gulasch rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 10
+        },
+        {
+          "term": "rezept gulasch",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 11
+        },
+        {
+          "term": "Goulash (Soup)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 45,
+          "increase_percent": 7.0,
+          "increase_raw": "7 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 18
+        }
+      ],
+      "id": "t37",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1787,
+        "latest_7d_views": 2181,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gulasch/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t37",
+        "name_de": "Gulasch",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Herbstlicher Eintopf-Klassiker mit breitem Publikum; Varianten von ungarisch bis vegetarisch bieten Ansatzpunkte für Serien.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 79.4,
+        "T_note": "complete",
+        "G": 0.774,
+        "W": 0.832,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 45,
+        "wikipedia_change": 0.22,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Tiramisu",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Tiramisu",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "tiramisu rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 45
+        },
+        {
+          "term": "Tiramisu (Food)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 22,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 18
+        },
+        {
+          "term": "tiramisu rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 31
+        }
+      ],
+      "id": "t38",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1224,
+        "latest_7d_views": 1572,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Tiramisu/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t38",
+        "name_de": "Tiramisu",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Beliebtes Dessert, das sich mit Marzipan, Lebkuchen oder Spekulatius leicht zu Adventsvarianten weiterdenken lässt.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 77.3,
+        "T_note": "complete",
+        "G": 0.774,
+        "W": 0.771,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 22,
+        "wikipedia_change": 0.284,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Ragù alla bolognese",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Rag%C3%B9_alla_bolognese",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "bolognese rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 10.0,
+          "increase_raw": "10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 18
+        }
+      ],
+      "id": "t61",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1147,
+        "latest_7d_views": 1481,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Rag%C3%B9_alla_bolognese/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t61",
+        "name_de": "Bolognese",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Pasta-Klassiker mit starkem Suchinteresse; eignet sich für Grundrezept-Vergleiche und Varianten wie vegetarische Bolognese.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 73.5,
+        "T_note": "complete",
+        "G": 0.726,
+        "W": 0.751,
+        "best_google_growth_percent": 10.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.291,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Lebkuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Lebkuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "lebkuchen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 14
+        },
+        {
+          "term": "Gingerbread (Food)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 18,
+          "increase_percent": 250.0,
+          "increase_raw": "250 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 4
+        },
+        {
+          "term": "lebkuchen rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 36
+        }
+      ],
+      "id": "t11",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 2767,
+        "latest_7d_views": 3018,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Lebkuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t11",
+        "name_de": "Lebkuchen",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Altes Gewürzsgebäck mit langer Tradition, jetzt Saisonhöhepunkt – Rezeptklassiker plus moderne Varianten wie Lebkuchen-Tarte denkbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 73.1,
+        "T_note": "complete",
+        "G": 0.711,
+        "W": 0.768,
+        "best_google_growth_percent": 300.0,
+        "max_search_interest": 18,
+        "wikipedia_change": 0.091,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Spitzkohl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Spitzkohl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "spitzkohl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 40
+        },
+        {
+          "term": "spitzkohl rezepte",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 46
+        },
+        {
+          "term": "Pointed white cabbage (Plant)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 30,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 15
+        },
+        {
+          "term": "spitzkohl rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 23
+        }
+      ],
+      "id": "t33",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1281,
+        "latest_7d_views": 1321,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Spitzkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t33",
+        "name_de": "Spitzkohl",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Spitzkohl hat jetzt Saison; eignet sich für Salate, Pfannengerichte und ein modernes Wintergemüse-Kapitel.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 71.6,
+        "T_note": "complete",
+        "G": 0.805,
+        "W": 0.551,
+        "best_google_growth_percent": 30.0,
+        "max_search_interest": 30,
+        "wikipedia_change": 0.031,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Rosenkohl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Rosenkohl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rosenkohl rezepte",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 26
+        },
+        {
+          "term": "rosenkohl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 27
+        },
+        {
+          "term": "Brussels sprout",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 28,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 8
+        },
+        {
+          "term": "rosenkohl rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 39
+        },
+        {
+          "term": "rosenkohl rezepte",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 40
+        }
+      ],
+      "id": "t21",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1809,
+        "latest_7d_views": 1764,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Rosenkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t21",
+        "name_de": "Rosenkohl",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Klassisches Wintergemüse mit Imageproblem, das gerade gesucht wird – Chance für moderne Rezepte jenseits der kochenden Röschen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 71.2,
+        "T_note": "complete",
+        "G": 0.789,
+        "W": 0.568,
+        "best_google_growth_percent": 70.0,
+        "max_search_interest": 28,
+        "wikipedia_change": -0.025,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Vanillekipferl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Vanillekipferl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "vanillekipferl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 950.0,
+          "increase_raw": "950 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 4
+        },
+        {
+          "term": "Vanillekipferl",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 17,
+          "increase_percent": 850.0,
+          "increase_raw": "850 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 2
+        },
+        {
+          "term": "vanillekipferl rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 950.0,
+          "increase_raw": "950 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 35
+        }
+      ],
+      "id": "t3",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 516,
+        "latest_7d_views": 642,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Vanillekipferl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "classification": {
+        "id": "t3",
+        "name_de": "Vanillekipferl",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Der Adventsklassiker schlechthin, die Nachfrage nach dem Rezept ist jetzt auf dem Höhepunkt – unverzichtbar fürs Weihnachtsbacken.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 69.9,
+        "T_note": "complete",
+        "G": 0.751,
+        "W": 0.603,
+        "best_google_growth_percent": 950.0,
+        "max_search_interest": 17,
+        "wikipedia_change": 0.244,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kartoffel",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kartoffel",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Potato (Plant)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 72,
+          "increase_percent": -9.0,
+          "increase_raw": "-9 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 8
+        }
+      ],
+      "id": "t83",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 3719,
+        "latest_7d_views": 3819,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Kartoffel/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t83",
+        "name_de": "Kartoffeln",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Universelle Zutat mit breitem Rezept-Spektrum; im Herbst besonders stark für Eintöpfe, Gratin und Beilagen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 67.6,
+        "T_note": "complete",
+        "G": 0.66,
+        "W": 0.704,
+        "best_google_growth_percent": -9.0,
+        "max_search_interest": 72,
+        "wikipedia_change": 0.027,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Linzer Auge",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Linzer_Auge",
+      "mapping_methods": [
+        "redirect_resolved"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "spitzbuben rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 950.0,
+          "increase_raw": "950 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 3
+        }
+      ],
+      "id": "t2",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 225,
+        "latest_7d_views": 288,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Linzer_Auge/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "classification": {
+        "id": "t2",
+        "name_de": "Linzer Augen (Spitzbuben)",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Beliebtes Doppeldecker-Plätzchen mit Ribisel- oder Johannisbeermarmelade, das Suchinteresse steigt typisch in der Adventsbackzeit.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 65.8,
+        "T_note": "complete",
+        "G": 0.751,
+        "W": 0.484,
+        "best_google_growth_percent": 950.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.28,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Zimtstern",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Zimtstern",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "zimtsterne rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 600.0,
+          "increase_raw": "600 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 8
+        }
+      ],
+      "id": "t7",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 191,
+        "latest_7d_views": 309,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Zimtstern/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "classification": {
+        "id": "t7",
+        "name_de": "Zimtsterne",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Nussiges Mandelplätzchen mit Zimt, ein Adventsstandard, dessen Rezept gerade stark gesucht wird – perfekt fürs Backspecial.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 65.4,
+        "T_note": "complete",
+        "G": 0.697,
+        "W": 0.574,
+        "best_google_growth_percent": 600.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.618,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Lasagne",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Lasagne",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "lasagne rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 10.0,
+          "increase_raw": "10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 13
+        }
+      ],
+      "id": "t57",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 719,
+        "latest_7d_views": 754,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Lasagne/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t57",
+        "name_de": "Lasagne",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Dauerbrenner ohne Saisonalität; für Variationen interessant, aber redaktionell schon breit abgegrast.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 64.3,
+        "T_note": "complete",
+        "G": 0.726,
+        "W": 0.487,
+        "best_google_growth_percent": 10.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.049,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Husarenkrapferl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Husarenkrapferl",
+      "mapping_methods": [
+        "curated_corrected"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "engelsaugen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 1450.0,
+          "increase_raw": "1.450 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 2
+        }
+      ],
+      "id": "t1",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 75,
+        "latest_7d_views": 122,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Husarenkrapferl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "classification": {
+        "id": "t1",
+        "name_de": "Husarenkrapferl (Engelsaugen)",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Klassisches Weihnachtsplätzchen mit Marmeladenfüllung, viele suchen das Rezept unter dem Namen Engelsaugen – ideal für die Plätzchen-Redaktion.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 64.0,
+        "T_note": "complete",
+        "G": 0.774,
+        "W": 0.391,
+        "best_google_growth_percent": 1450.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.627,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": [
+          "low_wikipedia_baseline"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Aperol",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Aperol",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "hot aperol rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 550.0,
+          "increase_raw": "550 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 11
+        }
+      ],
+      "id": "t10",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1733,
+        "latest_7d_views": 1599,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Aperol/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t10",
+        "name_de": "Hot Aperol",
+        "kind": "drink",
+        "timing": "current",
+        "relevance_de": "Angewärmte Aperol-Variante als Winter-Trendgetränk, gute Idee für ein Rezept-Feature zu heißen Aperitif- Drinks in der dunklen Jahreszeit.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 61.0,
+        "T_note": "complete",
+        "G": 0.674,
+        "W": 0.49,
+        "best_google_growth_percent": 550.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.077,
+        "wikipedia_trend": "declining",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Edelkastanie",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Edelkastanie",
+      "mapping_methods": [
+        "redirect_resolved"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "maronensuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 29
+        }
+      ],
+      "id": "t23",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 3811,
+        "latest_7d_views": 4457,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Edelkastanie/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t23",
+        "name_de": "Maronen (Edelkastanie)",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Herbst-Winter-Zutat mit Tradition, die Suchanfragen zielen auf Maronensuppe – vielseitig von Suppe bis Dessert einsetzbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 60.4,
+        "T_note": "complete",
+        "G": 0.474,
+        "W": 0.843,
+        "best_google_growth_percent": 70.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.17,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kokosmakrone",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kokosmakrone",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "kokosmakronen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 550.0,
+          "increase_raw": "550 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 10
+        }
+      ],
+      "id": "t9",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 178,
+        "latest_7d_views": 240,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Kokosmakrone/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t9",
+        "name_de": "Kokosmakronen",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Einfache Makronen mit nur wenigen Zutaten, im Advent stark gesucht – auch als Variante mit Nüssen oder Schokolade denkbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 60.0,
+        "T_note": "complete",
+        "G": 0.674,
+        "W": 0.461,
+        "best_google_growth_percent": 550.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.348,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Chili con Carne",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Chili_con_Carne",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "chili con carne rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 9.0,
+          "increase_raw": "9 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 48
+        }
+      ],
+      "id": "t78",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1051,
+        "latest_7d_views": 1621,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Chili_con_Carne/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t78",
+        "name_de": "Chili con Carne",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Defte One-Pot-Küche passt zum Spätherbst; Potenzial für Varianten, Meal-Prep und Batch-Cooking-Storys.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 59.8,
+        "T_note": "complete",
+        "G": 0.474,
+        "W": 0.829,
+        "best_google_growth_percent": 9.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.542,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Brokkoli",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Brokkoli",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Broccoli (Vegetable)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 30,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 25
+        }
+      ],
+      "id": "t51",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1539,
+        "latest_7d_views": 1744,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Brokkoli/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t51",
+        "name_de": "Brokkoli",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Alltagsgemüse ohne Saisonhaken; taugt eher als Zutat in Rezepten als für eine eigenständige Story.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 58.9,
+        "T_note": "complete",
+        "G": 0.506,
+        "W": 0.745,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 30,
+        "wikipedia_change": 0.133,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Zimtschnecke",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Zimtschnecke",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "zimtschnecken rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 0.0,
+          "increase_raw": "0 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 15
+        }
+      ],
+      "id": "t59",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 377,
+        "latest_7d_views": 516,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Zimtschnecke/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t59",
+        "name_de": "Zimtschnecken",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Zimtig, gemütlich, adventstauglich: Zimtschnecken bieten jetzt hohe Rezeptrelevanz für Backserien und Kaffeekränzchen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 57.4,
+        "T_note": "complete",
+        "G": 0.553,
+        "W": 0.614,
+        "best_google_growth_percent": 0.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.369,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Mandelbaum",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Mandelbaum",
+      "mapping_methods": [
+        "redirect_resolved"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Almond (Food)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 14,
+          "increase_percent": 80.0,
+          "increase_raw": "80 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 7
+        }
+      ],
+      "id": "t43",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1498,
+        "latest_7d_views": 1709,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Mandelbaum/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t43",
+        "name_de": "Mandel",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Mandeln sind Kernzutat für Plätzchen und Marzipan – genau pünktlich zum beginnenden Adventsbacken relevant.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 57.0,
+        "T_note": "complete",
+        "G": 0.478,
+        "W": 0.742,
+        "best_google_growth_percent": 80.0,
+        "max_search_interest": 14,
+        "wikipedia_change": 0.141,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Käsekuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/K%C3%A4sekuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "käsekuchen rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 3.0,
+          "increase_raw": "3 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 26
+        }
+      ],
+      "id": "t65",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 582,
+        "latest_7d_views": 629,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/K%C3%A4sekuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t65",
+        "name_de": "Käsekuchen",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Evergreen-Backklassiker; saisonale Variationen mit Kürbis oder Apfel liefern konkrete Anknüpfungspunkte für Rezeptentwicklungen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 55.9,
+        "T_note": "complete",
+        "G": 0.6,
+        "W": 0.484,
+        "best_google_growth_percent": 3.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.081,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Rotkohl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Rotkohl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rotkohl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 70.0,
+          "increase_raw": "70 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 28
+        },
+        {
+          "term": "Red cabbage (Cabbage)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 18,
+          "increase_percent": 50.0,
+          "increase_raw": "50 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 10
+        }
+      ],
+      "id": "t22",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 901,
+        "latest_7d_views": 941,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Rotkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t22",
+        "name_de": "Rotkohl",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Typische Beilage zu Gans, Ente und Rouladen in der Festtagssaison – Rezept jetzt gefragt, auch als schnelle Variante interessant.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 55.6,
+        "T_note": "complete",
+        "G": 0.578,
+        "W": 0.516,
+        "best_google_growth_percent": 70.0,
+        "max_search_interest": 18,
+        "wikipedia_change": 0.044,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Spritzgebäck",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Spritzgeb%C3%A4ck",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "spritzgebäck rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 800.0,
+          "increase_raw": "800 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 5
+        }
+      ],
+      "id": "t4",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 244,
+        "latest_7d_views": 244,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Spritzgeb%C3%A4ck/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t4",
+        "name_de": "Spritzgebäck",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Buttriges Spritzgebäck aus dem Spritzbeutel gehört zu den meistgebackenen Plätzchen im Advent – gute Basis für Varianten-Rezepte.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 55.3,
+        "T_note": "complete",
+        "G": 0.728,
+        "W": 0.229,
+        "best_google_growth_percent": 800.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.0,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Stollen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Stollen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "christstollen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 15
+        },
+        {
+          "term": "stollen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 16
+        },
+        {
+          "term": "Stollen (Food)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 14,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 3
+        }
+      ],
+      "id": "t12",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 52,
+        "latest_7d_views": 131,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Stollen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t12",
+        "name_de": "Christstollen",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Der Weihnachtsstollen brauchtReifezeit und wird gerade intensiv gesucht – ideal für Tipps zum Backen, Aufbewahren und Verschenken.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 55.3,
+        "T_note": "complete",
+        "G": 0.621,
+        "W": 0.429,
+        "best_google_growth_percent": 300.0,
+        "max_search_interest": 14,
+        "wikipedia_change": 1.519,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": [
+          "low_wikipedia_baseline"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Pizza",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Pizza",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "pizzateig rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -5.0,
+          "increase_raw": "-5 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 34
+        }
+      ],
+      "id": "t70",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 2992,
+        "latest_7d_views": 5682,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Pizza/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t70",
+        "name_de": "Pizza",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Die Pizzateig-Suche zeigt Backinteresse am Grundrezept; Topping-Varianten und Ofen-Pizza bieten Umsetzungsraum in einem stark besetzten Thema.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 54.1,
+        "T_note": "complete",
+        "G": 0.3,
+        "W": 0.988,
+        "best_google_growth_percent": -5.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.899,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Bananenbrot",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Bananenbrot",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "bananenbrot rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 3.0,
+          "increase_raw": "3 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 19
+        }
+      ],
+      "id": "t62",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 208,
+        "latest_7d_views": 249,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Bananenbrot/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t62",
+        "name_de": "Bananenbrot",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Dauerbrenner beim Backpublikum; im Herbst mit Nüssen, Schokolade oder Gewürzen gut als Rezeptidee bespielbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 53.5,
+        "T_note": "complete",
+        "G": 0.6,
+        "W": 0.414,
+        "best_google_growth_percent": 3.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.197,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Waffel",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Waffel",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "belgische waffeln rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 50
+        },
+        {
+          "term": "waffeln rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 0.0,
+          "increase_raw": "0 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 12
+        },
+        {
+          "term": "waffelteig rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 10.0,
+          "increase_raw": "10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 41
+        },
+        {
+          "term": "Waffle (Dish)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 52,
+          "increase_percent": -4.0,
+          "increase_raw": "-4 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 17
+        }
+      ],
+      "id": "t41",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 317,
+        "latest_7d_views": 315,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Waffel/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t41",
+        "name_de": "Waffeln",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Waffeln und Waffelteig werden konstant gesucht; zuverlässige Evergreen-Basics, die sich saisonal leicht variieren lassen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 51.9,
+        "T_note": "complete",
+        "G": 0.64,
+        "W": 0.296,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 52,
+        "wikipedia_change": -0.006,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Gyros",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gyros",
+      "mapping_methods": [
+        "curated_corrected"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "gyrossuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 32
+        }
+      ],
+      "id": "t26",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1651,
+        "latest_7d_views": 1787,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gyros/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t26",
+        "name_de": "Gyros",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Griechisches Schichtfleisch als Grundlage der gesuchten Gyrossuppe – simpel, alltagstauglich und gut für ein schnelles Suppenrezept.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 51.4,
+        "T_note": "complete",
+        "G": 0.405,
+        "W": 0.716,
+        "best_google_growth_percent": 40.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.082,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Muffin",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Muffin",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "muffins rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 0.0,
+          "increase_raw": "0 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 20
+        }
+      ],
+      "id": "t63",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 282,
+        "latest_7d_views": 311,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Muffin/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t63",
+        "name_de": "Muffins",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Flexibles Backthema; herbstliche Muffins mit Apfel, Kürbis oder Maronen eignen sich für schnelle Kaffeetafel-Ideen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 50.8,
+        "T_note": "complete",
+        "G": 0.553,
+        "W": 0.426,
+        "best_google_growth_percent": 0.0,
+        "max_search_interest": 1,
+        "wikipedia_change": 0.103,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Bratapfel",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Bratapfel",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "bratapfel rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 120.0,
+          "increase_raw": "120 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 21
+        }
+      ],
+      "id": "t16",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 149,
+        "latest_7d_views": 218,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Bratapfel/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t16",
+        "name_de": "Bratapfel",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Warmer Gefüllter Apfel mit Marzipan und Zimt als Herbst-Winter-Dessert – Saison gerade absolut passend, viele Füll-Varianten möglich.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 50.7,
+        "T_note": "complete",
+        "G": 0.544,
+        "W": 0.438,
+        "best_google_growth_percent": 120.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.463,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Hühnersuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/H%C3%BChnersuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "hühnersuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 34
+        },
+        {
+          "term": "Chicken soup (Soup)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 16,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 14
+        },
+        {
+          "term": "hühnersuppe rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 43
+        }
+      ],
+      "id": "t28",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 218,
+        "latest_7d_views": 234,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/H%C3%BChnersuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t28",
+        "name_de": "Hühnersuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Hausmittel-Klassiker in der Erkältungszeit, jetzt typischerweise gesucht – vom Grundrezept bis zur asiatischen Variante vielseitig.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 50.0,
+        "T_note": "complete",
+        "G": 0.616,
+        "W": 0.284,
+        "best_google_growth_percent": 40.0,
+        "max_search_interest": 16,
+        "wikipedia_change": 0.073,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kartoffelsuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kartoffelsuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "kartoffelsuppe rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 9.0,
+          "increase_raw": "9 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 45
+        }
+      ],
+      "id": "t75",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 313,
+        "latest_7d_views": 403,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Kartoffelsuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t75",
+        "name_de": "Kartoffelsuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Suppensaison jetzt voll im Gange: deftige Kartoffelsuppe passt perfekt zum Spätherbst und zu regionalen Themen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 50.0,
+        "T_note": "complete",
+        "G": 0.474,
+        "W": 0.548,
+        "best_google_growth_percent": 9.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.288,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kürbisse",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/K%C3%BCrbisse",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "kürbis rezepte",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 21
+        },
+        {
+          "term": "Squash (Plant)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 79,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 5
+        }
+      ],
+      "id": "t64",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 2201,
+        "latest_7d_views": 1918,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/K%C3%BCrbisse/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t64",
+        "name_de": "Kürbis",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Kürbishochsaison im Spätherbst: Suppen, Ofengerichte und Backwerke sowie Resteverwertung nach Halloween bieten großes Rezeptpotenzial.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 49.9,
+        "T_note": "complete",
+        "G": 0.48,
+        "W": 0.533,
+        "best_google_growth_percent": -20.0,
+        "max_search_interest": 79,
+        "wikipedia_change": -0.129,
+        "wikipedia_trend": "declining",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Geflügelfleisch",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gefl%C3%BCgelfleisch",
+      "mapping_methods": [
+        "redirect_resolved"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Chicken (Poultry)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 72,
+          "increase_percent": -6.0,
+          "increase_raw": "-6 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 7
+        }
+      ],
+      "id": "t82",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 157,
+        "latest_7d_views": 139,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gefl%C3%BCgelfleisch/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t82",
+        "name_de": "Geflügel",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Mit Martinsgans und Festtagsbraten zeitlich perfekt; Hähnchenrezepte sind zugleich ein evergreen Umsetzungsraum.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 49.2,
+        "T_note": "complete",
+        "G": 0.72,
+        "W": 0.07,
+        "best_google_growth_percent": -6.0,
+        "max_search_interest": 72,
+        "wikipedia_change": -0.115,
+        "wikipedia_trend": "declining",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Lauch",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Lauch",
+      "mapping_methods": [
+        "curated_corrected"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Leek (Vegetable)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 21,
+          "increase_percent": 10.0,
+          "increase_raw": "10 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 26
+        }
+      ],
+      "id": "t52",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1306,
+        "latest_7d_views": 5232,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Lauch/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t52",
+        "name_de": "Lauch",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Saisonales Wintergemüse mit klarem Herbstfenster; ideal für Suppen, Tartes und Beilagen zum Wochenendessen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 49.1,
+        "T_note": "complete",
+        "G": 0.222,
+        "W": 0.991,
+        "best_google_growth_percent": 10.0,
+        "max_search_interest": 21,
+        "wikipedia_change": 3.006,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Pfannkuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Pfannkuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rezept pfannkuchen",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 5
+        },
+        {
+          "term": "pfannkuchen rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 6
+        },
+        {
+          "term": "pancakes rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -9.0,
+          "increase_raw": "-9 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 32
+        },
+        {
+          "term": "Pancake (Cake)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 95,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 4
+        }
+      ],
+      "id": "t55",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 994,
+        "latest_7d_views": 981,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Pfannkuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t55",
+        "name_de": "Pfannkuchen",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Evergreen-Grundrezept mit breitem Publikum; saisonale Twists wie Apfel oder Kürbis könnten Differenzierung bringen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 49.1,
+        "T_note": "complete",
+        "G": 0.52,
+        "W": 0.438,
+        "best_google_growth_percent": -9.0,
+        "max_search_interest": 95,
+        "wikipedia_change": -0.013,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Hackfleisch",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Hackfleisch",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Ground meat (Food)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 44,
+          "increase_percent": -1.0,
+          "increase_raw": "-1 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 20
+        }
+      ],
+      "id": "t88",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 554,
+        "latest_7d_views": 502,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Hackfleisch/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t88",
+        "name_de": "Hackfleisch",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Sehr nachgefragte Zutat für Hausmannskost wie Buletten, Bolognese und Aufläufe; immergrün stark bespielbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 48.8,
+        "T_note": "complete",
+        "G": 0.6,
+        "W": 0.281,
+        "best_google_growth_percent": -1.0,
+        "max_search_interest": 44,
+        "wikipedia_change": -0.094,
+        "wikipedia_trend": "declining",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Sauerkraut",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Sauerkraut",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "sauerkraut rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 8.0,
+          "increase_raw": "8 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 51
+        }
+      ],
+      "id": "t81",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1643,
+        "latest_7d_views": 1635,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Sauerkraut/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t81",
+        "name_de": "Sauerkraut",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Herbst-Winter-Klassiker, passend zu Gans und deftigen Gerichten; als Ferment auch wert als Gesundheitsthema.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 47.9,
+        "T_note": "complete",
+        "G": 0.434,
+        "W": 0.562,
+        "best_google_growth_percent": 8.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.005,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Nussecke",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Nussecke",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "nussecken rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 110.0,
+          "increase_raw": "110 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 23
+        }
+      ],
+      "id": "t18",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 150,
+        "latest_7d_views": 194,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Nussecke/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t18",
+        "name_de": "Nussecken",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Dreieckiges Nussgebäck mit Apricosen und Schokolade, fester Teil der Weihnachtsbacktradition – Rezept jetzt gefragt und lagerfähig.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 47.8,
+        "T_note": "complete",
+        "G": 0.528,
+        "W": 0.386,
+        "best_google_growth_percent": 110.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.293,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Nudel (Lebensmittel)",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Nudel_%28Lebensmittel%29",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Noodles (Food)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 57,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 14
+        }
+      ],
+      "id": "t85",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 784,
+        "latest_7d_views": 815,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Nudel_%28Lebensmittel%29/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t85",
+        "name_de": "Nudeln",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Universelle Zutat, Ausgangspunkt für viele Pasta- und Auflauf-Storys; saisonal neutral, aber ständig relevant.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 47.5,
+        "T_note": "complete",
+        "G": 0.47,
+        "W": 0.484,
+        "best_google_growth_percent": -10.0,
+        "max_search_interest": 57,
+        "wikipedia_change": 0.04,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Gebrannte Mandeln",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gebrannte_Mandeln",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "gebrannte mandeln rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 150.0,
+          "increase_raw": "150 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 20
+        }
+      ],
+      "id": "t15",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 186,
+        "latest_7d_views": 208,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gebrannte_Mandeln/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t15",
+        "name_de": "Gebrannte Mandeln",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Weihnachtsmarkt-Klassiker, dessen Rezept auch für zu Hause auf dem Herd gesucht wird – schnell gemacht, gut als kurzes Feature.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 46.9,
+        "T_note": "complete",
+        "G": 0.559,
+        "W": 0.301,
+        "best_google_growth_percent": 150.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.118,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Spätzle",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Sp%C3%A4tzle",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "spätzle rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 9.0,
+          "increase_raw": "9 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 33
+        }
+      ],
+      "id": "t69",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1180,
+        "latest_7d_views": 1151,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Sp%C3%A4tzle/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t69",
+        "name_de": "Spätzle",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Regionales Comfort Food; als Käsespätzle oder Beilage zu Braten gut für herbstliche Hausmannskost-Themen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 46.5,
+        "T_note": "complete",
+        "G": 0.474,
+        "W": 0.449,
+        "best_google_growth_percent": 9.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.025,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Carbonara",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Carbonara",
+      "mapping_methods": [
+        "redirect_resolved"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "carbonara rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -2.0,
+          "increase_raw": "-2 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 37
+        }
+      ],
+      "id": "t71",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1245,
+        "latest_7d_views": 1569,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Carbonara/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t71",
+        "name_de": "Carbonara",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Immergrüner Pasta-Klassiker; Grundrezept und die Zutaten-Debatte (Speck, Sahne) erzeugen Leserbindung und Rezeptpotenzial.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 46.4,
+        "T_note": "complete",
+        "G": 0.316,
+        "W": 0.739,
+        "best_google_growth_percent": -2.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.26,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Linsen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Linsen",
+      "mapping_methods": [
+        "curated_corrected"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Lentil (Legume)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 26,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 20
+        }
+      ],
+      "id": "t46",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 413,
+        "latest_7d_views": 469,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Linsen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t46",
+        "name_de": "Linsen",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Linsengerichte sind herbstliche Komfortküche: proteinreich, budgetfreundlich und gut als Bowl- oder Suppen-Story vermittelbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 45.6,
+        "T_note": "complete",
+        "G": 0.439,
+        "W": 0.487,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 26,
+        "wikipedia_change": 0.136,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Spinat",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Spinat",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Spinach (Vegetable)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 26,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 21
+        }
+      ],
+      "id": "t47",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 807,
+        "latest_7d_views": 834,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Spinat/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t47",
+        "name_de": "Spinat",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Ganzjährige Grundzutat ohne klaren Saisonhaken; im Herbst vor allem als Zutat für Bowls oder Pasta nutzbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 45.6,
+        "T_note": "complete",
+        "G": 0.439,
+        "W": 0.487,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 26,
+        "wikipedia_change": 0.033,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Wirsing",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Wirsing",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "wirsing rezepte",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 35
+        },
+        {
+          "term": "wirsing rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 36
+        },
+        {
+          "term": "Savoy cabbage (Cabbage)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 16,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 13
+        }
+      ],
+      "id": "t29",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1474,
+        "latest_7d_views": 1492,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Wirsing/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t29",
+        "name_de": "Wirsing",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Mildes Wintergemüse, das in der Saison gesucht wird – gute Gelegenheit für Rezepte über die klassischen Rouladen hinaus.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 45.0,
+        "T_note": "complete",
+        "G": 0.405,
+        "W": 0.533,
+        "best_google_growth_percent": 40.0,
+        "max_search_interest": 16,
+        "wikipedia_change": 0.012,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Franzbrötchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Franzbr%C3%B6tchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "franzbrötchen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 49
+        }
+      ],
+      "id": "t40",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 3389,
+        "latest_7d_views": 4003,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Franzbr%C3%B6tchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t40",
+        "name_de": "Franzbrötchen",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Hamburger Kultgebäck mit bundesweiter Nachfrage; gut für Backideen, im Advent etwa mit Marzipan oder Zimt.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 44.6,
+        "T_note": "complete",
+        "G": 0.221,
+        "W": 0.864,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.181,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Sauerbraten",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Sauerbraten",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "sauerbraten rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 39
+        }
+      ],
+      "id": "t32",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1491,
+        "latest_7d_views": 1625,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Sauerbraten/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t32",
+        "name_de": "Sauerbraten",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Klassischer Braten mit Festtagspotenzial; geschmorte Hausmannskost passt jetzt, moderne Varianten liefern Differenzierung.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 44.5,
+        "T_note": "complete",
+        "G": 0.321,
+        "W": 0.675,
+        "best_google_growth_percent": 30.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.09,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Rinderroulade",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Rinderroulade",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rinderrouladen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 38
+        },
+        {
+          "term": "Rinderroulade (Dish)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 16,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 12
+        }
+      ],
+      "id": "t31",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 598,
+        "latest_7d_views": 725,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Rinderroulade/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t31",
+        "name_de": "Rinderroulade",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Sonntagsklassiker für kalte Tage; Suchinteresse zeigt Raum für modernisierte Varianten, etwa mit Spitzkohl oder neuen Füllungen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 43.8,
+        "T_note": "complete",
+        "G": 0.35,
+        "W": 0.6,
+        "best_google_growth_percent": 30.0,
+        "max_search_interest": 16,
+        "wikipedia_change": 0.212,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Entenfleisch",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Entenfleisch",
+      "mapping_methods": [
+        "curated_corrected"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "entenbrust rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 100.0,
+          "increase_raw": "100 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 24
+        }
+      ],
+      "id": "t19",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 127,
+        "latest_7d_views": 138,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Entenfleisch/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t19",
+        "name_de": "Entenbrust",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Edles Geflügelstück, das zur Martins- und Vorweihnachtszeit als Festtagsbraten gesucht wird – gute Basis für ein Sonntagsbraten-Feature.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 41.6,
+        "T_note": "complete",
+        "G": 0.513,
+        "W": 0.235,
+        "best_google_growth_percent": 100.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.087,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Roulade",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Roulade",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rouladen rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 33
+        }
+      ],
+      "id": "t27",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 228,
+        "latest_7d_views": 271,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Roulade/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t27",
+        "name_de": "Rouladen",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Klassischer Sonntags- und Festtagsbraten, der in der kalten Jahreszeit als Comfort Food gesucht wird – Tradition plus moderne Varianten.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 41.6,
+        "T_note": "complete",
+        "G": 0.405,
+        "W": 0.435,
+        "best_google_growth_percent": 40.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.189,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Weckmann",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Weckmann",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "weckmann rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 17
+        }
+      ],
+      "id": "t13",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 339,
+        "latest_7d_views": 118,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Weckmann/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t13",
+        "name_de": "Weckmann",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Hefegebäck mit Pfeifenmann zur Martins- und Nikolauszeit, das jetzt genau im Suchfenster liegt – geografisch vor allem südwestdeutsch relevant.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 40.9,
+        "T_note": "complete",
+        "G": 0.621,
+        "W": 0.017,
+        "best_google_growth_percent": 300.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.652,
+        "wikipedia_trend": "declining",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Schokoladenkuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Schokoladenkuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "recipe chocolate cake",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 300.0,
+          "increase_raw": "300 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 18
+        },
+        {
+          "term": "Chocolate cake (Cake)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 18,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 11
+        }
+      ],
+      "id": "t14",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 107,
+        "latest_7d_views": 85,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Schokoladenkuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t14",
+        "name_de": "Schokoladenkuchen",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Immer gefragter Kuchenklassiker ohne festen Saisonanlass, gut als Grundrezept oder für Variationen wie Schoko-Nuss-Kuchen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 40.8,
+        "T_note": "complete",
+        "G": 0.621,
+        "W": 0.014,
+        "best_google_growth_percent": 300.0,
+        "max_search_interest": 18,
+        "wikipedia_change": -0.206,
+        "wikipedia_trend": "declining",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Blätterteig",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Bl%C3%A4tterteig",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Puff pastry (Pastry)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 23,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 22
+        }
+      ],
+      "id": "t48",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 536,
+        "latest_7d_views": 553,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Bl%C3%A4tterteig/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t48",
+        "name_de": "Blätterteig",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Vielseitiger Teig für schnelle Snacks und Adventsgebäck; hohe Rezeptflexibilität kurz vor der Backsaison.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 40.1,
+        "T_note": "complete",
+        "G": 0.394,
+        "W": 0.414,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 23,
+        "wikipedia_change": 0.032,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kulturapfel",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kulturapfel",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Apple (Fruit)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 40,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 26
+        }
+      ],
+      "id": "t94",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1546,
+        "latest_7d_views": 2371,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Kulturapfel/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t94",
+        "name_de": "Äpfel",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Deutsches Herbstobst aus der Ernte: ideal für Apfelkuchen, Bratapfel oder Chutney und aktuell hochrelevant für Rezeptentwicklung.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 39.7,
+        "T_note": "complete",
+        "G": 0.12,
+        "W": 0.91,
+        "best_google_growth_percent": -20.0,
+        "max_search_interest": 40,
+        "wikipedia_change": 0.534,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Flammkuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Flammkuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "flammkuchen rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 29
+        }
+      ],
+      "id": "t67",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1367,
+        "latest_7d_views": 1307,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Flammkuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t67",
+        "name_de": "Flammkuchen",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Schnelles, vielseitiges Gericht; saisonale Toppings mit Kürbis, Birne oder Ziegenkäse machen es zum Herbstrezept.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 39.3,
+        "T_note": "complete",
+        "G": 0.363,
+        "W": 0.449,
+        "best_google_growth_percent": -20.0,
+        "max_search_interest": 1,
+        "wikipedia_change": -0.044,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Rahm",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Rahm",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "Cream (Dairy product)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 44,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 21
+        }
+      ],
+      "id": "t89",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 824,
+        "latest_7d_views": 845,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Rahm/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t89",
+        "name_de": "Rahm (Sahne)",
+        "kind": "ingredient",
+        "timing": "evergreen",
+        "relevance_de": "Alltagstaugliche Basis-Zutat; relevant für Saucen, Aufläufe und herbstliche Comfort-Food-Rezepte, aber unselbständig.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 38.0,
+        "T_note": "complete",
+        "G": 0.33,
+        "W": 0.472,
+        "best_google_growth_percent": -10.0,
+        "max_search_interest": 44,
+        "wikipedia_change": 0.025,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Quiche",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Quiche",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "quiche rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 42
+        }
+      ],
+      "id": "t73",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 888,
+        "latest_7d_views": 1043,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Quiche/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t73",
+        "name_de": "Quiche",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Herzhafte Kuchen mit saisonalen Füllungen wie Kürbis, Pilzen oder Lauch; ideales Format für Herbstrezeptseiten.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 36.5,
+        "T_note": "complete",
+        "G": 0.221,
+        "W": 0.632,
+        "best_google_growth_percent": -10.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.175,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Linsensuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Linsensuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "linsensuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 40.0,
+          "increase_raw": "40 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 31
+        },
+        {
+          "term": "Lentil soup (Food)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 17,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 19
+        }
+      ],
+      "id": "t25",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 216,
+        "latest_7d_views": 232,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Linsensuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t25",
+        "name_de": "Linsensuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Herzhaftes Eintopf-Klassiker für die kalte Jahreszeit, jetzt stark gesucht – Klassiker plus modernisierte Varianten denkbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 36.2,
+        "T_note": "complete",
+        "G": 0.405,
+        "W": 0.281,
+        "best_google_growth_percent": 40.0,
+        "max_search_interest": 17,
+        "wikipedia_change": 0.074,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Gulaschsuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gulaschsuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "gulaschsuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 41
+        }
+      ],
+      "id": "t34",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 223,
+        "latest_7d_views": 265,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gulaschsuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t34",
+        "name_de": "Gulaschsuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Deftige Suppe für kalte Tage; eignet sich für Meal-Prep- und Familienrezepte mit hohem Alltagsnutzen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 35.5,
+        "T_note": "complete",
+        "G": 0.321,
+        "W": 0.42,
+        "best_google_growth_percent": 30.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.188,
+        "wikipedia_trend": "growing",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Crêpe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Cr%C3%AApe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "crepes rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -7.0,
+          "increase_raw": "-7 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 46
+        }
+      ],
+      "id": "t76",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 413,
+        "latest_7d_views": 463,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Cr%C3%AApe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t76",
+        "name_de": "Crepes",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Immergrünes Thema; saisonale Füllungen mit Apfel oder Zimt denkbar, aber insgesamt wenig saisonabhängig.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 35.0,
+        "T_note": "complete",
+        "G": 0.284,
+        "W": 0.472,
+        "best_google_growth_percent": -7.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.121,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Kaiserschmarrn",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Kaiserschmarrn",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "kaiserschmarrn rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -20.0,
+          "increase_raw": "-20 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 38
+        }
+      ],
+      "id": "t72",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1517,
+        "latest_7d_views": 1643,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Kaiserschmarrn/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t72",
+        "name_de": "Kaiserschmarrn",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Beliebte Süßspeise aus Österreich; passt als Comfort Food besonders in kalten Monaten und zu Alpen-Themen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 34.3,
+        "T_note": "complete",
+        "G": 0.158,
+        "W": 0.687,
+        "best_google_growth_percent": -20.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.083,
+        "wikipedia_trend": "growing",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Blumenkohl",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Blumenkohl",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "blumenkohl rezepte",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 49
+        }
+      ],
+      "id": "t79",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 1276,
+        "latest_7d_views": 1295,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Blumenkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t79",
+        "name_de": "Blumenkohl",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Frische-Saison endet im November: jetzt Rezeptideen wie gerösteter Blumenkohl oder Ofen-Gemüse ausspielen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 32.0,
+        "T_note": "complete",
+        "G": 0.221,
+        "W": 0.504,
+        "best_google_growth_percent": -10.0,
+        "max_search_interest": 0,
+        "wikipedia_change": 0.015,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Gnocchi",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Gnocchi",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "gnocchi rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 3.0,
+          "increase_raw": "3 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 44
+        }
+      ],
+      "id": "t74",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 225,
+        "latest_7d_views": 219,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gnocchi/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t74",
+        "name_de": "Gnocchi",
+        "kind": "dish",
+        "timing": "evergreen",
+        "relevance_de": "Gut bespielbar mit Herbst-Aromen wie Salbei-Butter oder Ofen-Gnocchi mit Kürbis; solider Rezeptklassiker.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 31.1,
+        "T_note": "complete",
+        "G": 0.395,
+        "W": 0.157,
+        "best_google_growth_percent": 3.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.027,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Kürbissuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/K%C3%BCrbissuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "rezept kürbissuppe",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -30.0,
+          "increase_raw": "-30 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 7
+        },
+        {
+          "term": "kürbissuppe rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -30.0,
+          "increase_raw": "-30 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 8
+        },
+        {
+          "term": "Pumpkin soup (Food)",
+          "signal_type": "top",
+          "source_kind": "topic",
+          "search_interest": 58,
+          "increase_percent": -30.0,
+          "increase_raw": "-30 %",
+          "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 13
+        }
+      ],
+      "id": "t56",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 289,
+        "latest_7d_views": 289,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/K%C3%BCrbissuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t56",
+        "name_de": "Kürbissuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Absoluter Herbst-Hit mit hohem Suchinteresse; saisonaler Aufhänger Nummer eins unter den aktuellen Rezeptthemen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 30.4,
+        "T_note": "complete",
+        "G": 0.316,
+        "W": 0.281,
+        "best_google_growth_percent": -30.0,
+        "max_search_interest": 58,
+        "wikipedia_change": 0.0,
+        "wikipedia_trend": "stable",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Brownie",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Brownie",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "brownie rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 8.0,
+          "increase_raw": "8 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 47
+        }
+      ],
+      "id": "t77",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 27,
+        "latest_7d_views": 23,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Brownie/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t77",
+        "name_de": "Brownies",
+        "kind": "baked_good",
+        "timing": "evergreen",
+        "relevance_de": "Große Zielgruppe bei Backrezepten; Varianten mit Nüssen oder Karamell lassen sich gut zu Herbstthemen verbinden.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 29.4,
+        "T_note": "complete",
+        "G": 0.434,
+        "W": 0.035,
+        "best_google_growth_percent": 8.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.148,
+        "wikipedia_trend": "declining",
+        "is_rising": true,
+        "flags": [
+          "low_wikipedia_baseline"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Erbsensuppe",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Erbsensuppe",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "erbsensuppe rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 30.0,
+          "increase_raw": "30 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 37
+        }
+      ],
+      "id": "t30",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 327,
+        "latest_7d_views": 305,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Erbsensuppe/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t30",
+        "name_de": "Erbsensuppe",
+        "kind": "dish",
+        "timing": "current",
+        "relevance_de": "Deftiger Eintopf zu kalten Tagen, typisch auch mit Wurst serviert – aktuelle Suche passt zur Suppenzeit, Varianten ohne Fleisch denkbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 29.1,
+        "T_note": "complete",
+        "G": 0.321,
+        "W": 0.235,
+        "best_google_growth_percent": 30.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.067,
+        "wikipedia_trend": "declining",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Apfelkuchen",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Apfelkuchen",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "apfelkuchen rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": -30.0,
+          "increase_raw": "-30 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 14
+        }
+      ],
+      "id": "t58",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 286,
+        "latest_7d_views": 262,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Apfelkuchen/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t58",
+        "name_de": "Apfelkuchen",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Äpfel sind frisch geerntet: Blech- und Streuselkuchen passt perfekt in den November.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 26.8,
+        "T_note": "complete",
+        "G": 0.316,
+        "W": 0.18,
+        "best_google_growth_percent": -30.0,
+        "max_search_interest": 1,
+        "wikipedia_change": -0.084,
+        "wikipedia_trend": "declining",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    },
+    {
+      "wikipedia_article": "Quittenbrot",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Quittenbrot",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "quittenbrot rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 20.0,
+          "increase_raw": "20 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 42
+        }
+      ],
+      "id": "t35",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 450,
+        "latest_7d_views": 449,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Quittenbrot/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:38"
+      },
+      "classification": {
+        "id": "t35",
+        "name_de": "Quittenbrot",
+        "kind": "baked_good",
+        "timing": "current",
+        "relevance_de": "Quitten haben gerade Saison: Quittenbrot ist eine regionale Besonderheit mit Nischencharme und nachhaltiger Verwertungsidee.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 25.7,
+        "T_note": "complete",
+        "G": 0.221,
+        "W": 0.325,
+        "best_google_growth_percent": 20.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.002,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      }
+    },
+    {
+      "wikipedia_article": "Moschus-Kürbis",
+      "wikipedia_url": "https://de.wikipedia.org/wiki/Moschus-K%C3%BCrbis",
+      "mapping_methods": [
+        "curated"
+      ],
+      "review_required": false,
+      "records": [
+        {
+          "term": "butternut kürbis rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": -10.0,
+          "increase_raw": "-10 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 50
+        }
+      ],
+      "id": "t80",
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 697,
+        "latest_7d_views": 628,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Moschus-K%C3%BCrbis/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:39"
+      },
+      "classification": {
+        "id": "t80",
+        "name_de": "Butternut-Kürbis",
+        "kind": "ingredient",
+        "timing": "current",
+        "relevance_de": "Butternut-Kürbis ist in der Saison; süße und herzhafte Rezepte wie Suppe, Ofengemüse oder Pasta sind topaktuell.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "scores": {
+        "T": 24.9,
+        "T_note": "complete",
+        "G": 0.221,
+        "W": 0.301,
+        "best_google_growth_percent": -10.0,
+        "max_search_interest": 0,
+        "wikipedia_change": -0.099,
+        "wikipedia_trend": "declining",
+        "is_rising": false,
+        "flags": [
+          "no_positive_google_growth"
+        ]
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "id": "t5",
+      "wikipedia_article": "Weihnachtsgebäck",
+      "classification": {
+        "id": "t5",
+        "name_de": "Weihnachtsplätzchen",
+        "kind": "broad_category",
+        "timing": "current",
+        "relevance_de": "Sammelkategorie ohne konkretes Gericht, aber starkes Signal für ein großes Rezept-Special bzw. eine Sammlung einzelner Plätzchenrezepte.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "weihnachtsplätzchen rezepte"
+      ]
+    },
+    {
+      "id": "t8",
+      "wikipedia_article": "Plätzchen",
+      "classification": {
+        "id": "t8",
+        "name_de": "Plätzchen-Grundrezept",
+        "kind": "broad_category",
+        "timing": "current",
+        "relevance_de": "Allgemeine Kategorie ohne konkretes Gericht, zeigt aber hohe Backlust – als Grundrezept-Aufmacher für ein Ausstechplätzchen-Special nutzbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "ausstechplätzchen rezept",
+        "butterplätzchen rezept",
+        "plätzchen rezept"
+      ]
+    },
+    {
+      "id": "t17",
+      "wikipedia_article": "Halloween",
+      "classification": {
+        "id": "t17",
+        "name_de": "Halloween",
+        "kind": "non_food",
+        "timing": "past_event",
+        "relevance_de": "Feiertagsanlass am 31. Oktober liegt hinter uns, konkrete Rezeptumsetzung wäre in diesem Suchfenster zu spät – nächstes Jahr erneut relevant.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: non_food",
+        "occasion already over"
+      ],
+      "terms": [
+        "halloween rezepte"
+      ]
+    },
+    {
+      "id": "t20",
+      "wikipedia_article": "Keks",
+      "classification": {
+        "id": "t20",
+        "name_de": "Kekse",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Sehr allgemeine Kategorie ohne konkretes Gericht, eignet sich allenfalls als Aufhänger für ein aktualisiertes Kekse-Special.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Biscuit (Food)",
+        "Cookie (Food)",
+        "cookies rezept",
+        "kekse rezept"
+      ]
+    },
+    {
+      "id": "t24",
+      "wikipedia_article": "Salzteig",
+      "classification": {
+        "id": "t24",
+        "name_de": "Salzteig",
+        "kind": "non_food",
+        "timing": "evergreen",
+        "relevance_de": "Bastelmasse aus Mehl und Salz, kein Lebensmittel – für Food-Rezepte irrelevant, höchstens als Kinder-Randnotiz im Winter-Special.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: non_food"
+      ],
+      "terms": [
+        "salzteig rezept"
+      ]
+    },
+    {
+      "id": "t36",
+      "wikipedia_article": "Norddeutscher Rundfunk",
+      "classification": {
+        "id": "t36",
+        "name_de": "NDR-Rezepte",
+        "kind": "brand_or_media",
+        "timing": "evergreen",
+        "relevance_de": "Keine Rezeptidee, aber aufschlussreich: NDR-Rezeptseiten zeigen, welche TV-Küche gerade gesucht wird – Konkurrenzbeobachtung.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "mapping flagged for review in source data",
+        "kind: brand_or_media"
+      ],
+      "terms": [
+        "ndr rezepte"
+      ]
+    },
+    {
+      "id": "t39",
+      "wikipedia_article": "Hier und heute",
+      "classification": {
+        "id": "t39",
+        "name_de": "Hier und heute (WDR)",
+        "kind": "brand_or_media",
+        "timing": "evergreen",
+        "relevance_de": "WDR-Sendung mit großer Rezept-Reichweite; zeigt, was das Publikum über TV sucht – eher Konkurrenzanalyse als Rezeptidee.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "mapping flagged for review in source data",
+        "kind: brand_or_media"
+      ],
+      "terms": [
+        "hier und heute rezepte"
+      ]
+    },
+    {
+      "id": "t42",
+      "wikipedia_article": "Suppe",
+      "classification": {
+        "id": "t42",
+        "name_de": "Suppe",
+        "kind": "broad_category",
+        "timing": "current",
+        "relevance_de": "Passt in die kalte Jahreszeit, ist aber zu unspezifisch für ein konkretes Rezept; taugt höchstens als Sammelklammer.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Soup (Type of dish)",
+        "suppen rezepte"
+      ]
+    },
+    {
+      "id": "t44",
+      "wikipedia_article": "Die Ernährungs-Docs",
+      "classification": {
+        "id": "t44",
+        "name_de": "Die Ernährungs-Docs",
+        "kind": "brand_or_media",
+        "timing": "evergreen",
+        "relevance_de": "Gesundheits-Show mit rezeptnahem Publikum; zeigt Nachfrage nach gesunder Alltagsküche – Inspirationsquelle statt eigenem Rezeptthema.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: brand_or_media"
+      ],
+      "terms": [
+        "Die Ernährungs-Docs (Television movie)"
+      ]
+    },
+    {
+      "id": "t45",
+      "wikipedia_article": "Veganismus",
+      "classification": {
+        "id": "t45",
+        "name_de": "Veganismus",
+        "kind": "diet_or_lifestyle",
+        "timing": "evergreen",
+        "relevance_de": "Ernährungsform mit stabilem Interesse; vor allem als Perspektive nutzbar, wenn Klassiker vegan neu gedacht werden.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: diet_or_lifestyle"
+      ],
+      "terms": [
+        "Veganism"
+      ]
+    },
+    {
+      "id": "t49",
+      "wikipedia_article": "Dessert",
+      "classification": {
+        "id": "t49",
+        "name_de": "Dessert",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Zu generisch für eine konkrete Rezeptentwicklung; höchstens als Rubrik oder Serienrahmen sinnvoll.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Dessert"
+      ]
+    },
+    {
+      "id": "t50",
+      "wikipedia_article": "Vegetarismus",
+      "classification": {
+        "id": "t50",
+        "name_de": "Vegetarismus",
+        "kind": "diet_or_lifestyle",
+        "timing": "evergreen",
+        "relevance_de": "Stabile Nachfrage nach vegetarischen Alltagsrezepten; liefert redaktionelle Perspektive, aber kein eigenes konkretes Thema.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: diet_or_lifestyle"
+      ],
+      "terms": [
+        "Vegetarianism"
+      ]
+    },
+    {
+      "id": "t53",
+      "wikipedia_article": "Kochrezept",
+      "classification": {
+        "id": "t53",
+        "name_de": "Kochrezept",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Zu unspezifisch; zeigt aber, dass schnelle Alltagsrezepte gesucht werden – Nutzen nur indirekt für die Planung.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "rezept",
+        "rezepte",
+        "schnelle rezepte"
+      ]
+    },
+    {
+      "id": "t54",
+      "wikipedia_article": "Chefkoch (Marke)",
+      "classification": {
+        "id": "t54",
+        "name_de": "Chefkoch.de",
+        "kind": "brand_or_media",
+        "timing": "evergreen",
+        "relevance_de": "Riesige Rezeptplattform eher als Konkurrenz; das Suchinteresse zeigt Alltagsküchen-Bedarf, bringt aber keine eigene Rezeptidee.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: brand_or_media"
+      ],
+      "terms": [
+        "Chefkoch.de",
+        "chefkoch",
+        "chefkoch rezepte"
+      ]
+    },
+    {
+      "id": "t60",
+      "wikipedia_article": "Fritteuse",
+      "classification": {
+        "id": "t60",
+        "name_de": "Airfryer (Heißluftfritteuse)",
+        "kind": "method_or_appliance",
+        "timing": "evergreen",
+        "relevance_de": "Air-Fryer-Suche zeigt Gerätekult: viele Rezeptideen lassen sich an den Trend andrehen, von Pommes bis Plätzchen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: method_or_appliance"
+      ],
+      "terms": [
+        "air fryer",
+        "airfryer rezepte"
+      ]
+    },
+    {
+      "id": "t66",
+      "wikipedia_article": "Kuchen",
+      "classification": {
+        "id": "t66",
+        "name_de": "Kuchen",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Als Oberbegriff zu unspezifisch für Einzelrezepte; höchstens als Klammer für Back-Themenhefte und Sammelstorys nutzbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Cake (Confectionery)",
+        "kuchen rezepte"
+      ]
+    },
+    {
+      "id": "t68",
+      "wikipedia_article": "Thermomix",
+      "classification": {
+        "id": "t68",
+        "name_de": "Thermomix",
+        "kind": "method_or_appliance",
+        "timing": "evergreen",
+        "relevance_de": "Gerät mit großer Fangemeinde; Thermomix-Anpassungen bewährter Rezepte erzeugen vermutlich viel Nutzung und Engagement.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: method_or_appliance"
+      ],
+      "terms": [
+        "Thermomix",
+        "thermomix rezepte"
+      ]
+    },
+    {
+      "id": "t84",
+      "wikipedia_article": "Sauce",
+      "classification": {
+        "id": "t84",
+        "name_de": "Sauce",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Zu allgemein für konkrete Rezeptentwicklung; höchstens als Klammer für Grundrezepte oder hausgemachte Saucen-Varianten nutzbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Sauce (Table sauce)"
+      ]
+    },
+    {
+      "id": "t86",
+      "wikipedia_article": "Backofen",
+      "classification": {
+        "id": "t86",
+        "name_de": "Backofen",
+        "kind": "method_or_appliance",
+        "timing": "evergreen",
+        "relevance_de": "Überall vorhanden und daher kaum eigenständiges Thema; nur indirekt nützlich, etwa für 'aus dem Ofen'-Storys.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: method_or_appliance"
+      ],
+      "terms": [
+        "Oven (Cooking appliance)"
+      ]
+    },
+    {
+      "id": "t87",
+      "wikipedia_article": "Fleisch",
+      "classification": {
+        "id": "t87",
+        "name_de": "Fleisch",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Zu breit für konkrete Rezeptideen; höchstens als Rahmen für saisonale Braten- und Schmor-Themen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Meat (Food)"
+      ]
+    },
+    {
+      "id": "t90",
+      "wikipedia_article": "Salat (Speise)",
+      "classification": {
+        "id": "t90",
+        "name_de": "Salat",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Als Speisentyp zu allgemein; im Spätherbst nur über konkrete Wintersalat-Ideen mit saisonalen Zutaten bedienbar.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Salad (Type of dish)"
+      ]
+    },
+    {
+      "id": "t91",
+      "wikipedia_article": "Backen",
+      "classification": {
+        "id": "t91",
+        "name_de": "Backen",
+        "kind": "method_or_appliance",
+        "timing": "current",
+        "relevance_de": "Zentrale Zubereitungsart der Saison: vom Apfelkuchen bis zum ersten Weihnachtsgebäck bietet Backen viele konkrete Rezeptideen für November.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: method_or_appliance"
+      ],
+      "terms": [
+        "Baking (Cooking method)"
+      ]
+    },
+    {
+      "id": "t92",
+      "wikipedia_article": "Pasta",
+      "classification": {
+        "id": "t92",
+        "name_de": "Pasta",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Als Oberbegriff zu generisch für ein einzelnes Rezept, liefert aber die Basis für saisonale Pasta-Gerichte mit Kürbis oder Pilzen.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Pasta (Food)"
+      ]
+    },
+    {
+      "id": "t93",
+      "wikipedia_article": "Brot",
+      "classification": {
+        "id": "t93",
+        "name_de": "Brot",
+        "kind": "broad_category",
+        "timing": "evergreen",
+        "relevance_de": "Brot allein ist zu generisch, doch konkretes Brotbacken mit Kürbis, Nüssen oder Sauerteig ergibt buttonbare Spätherbst-Rezepte.",
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      },
+      "excluded_because": [
+        "kind: broad_category"
+      ],
+      "terms": [
+        "Bread (Food)"
+      ]
+    }
+  ]
+}
