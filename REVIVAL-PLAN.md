@@ -9,12 +9,12 @@ This is a **second mode** next to the brief's workflow (trends → 5 proposals �
 | Topic | Decision |
 |---|---|
 | Relation to workflow | Second mode (new tab + CLI); new-recipe workflow unchanged |
-| Top 10 | One list across all trends, max. 2 recipes per trend |
+| Top N | **Top 5** (changed from 10), one list across all trends, **max. 1 recipe per trend** |
 | Trends used | Rising food trends (eligible topics with positive Google growth) |
 | Season/holiday mood | From today's date + season signals in the trends |
 | Season match | Bonus, not a filter (off-season recipes penalised, not excluded) |
 | Publication date | Ignored |
-| Images | FLUX for all 10 – **currently limited to 2 for testing** (`config/models.json` → `revival_max_images`, adjustable in the app) |
+| Images | FLUX for the top 5 – **currently limited to 2 for testing** (`config/models.json` → `revival_max_images`, adjustable in the app) |
 | Output | Image + A4 card per recipe; archive content shown unchanged |
 
 ## Data basis
@@ -65,3 +65,18 @@ The BFL API runs the prompt upsampler automatically; it cannot be switched off v
 
 - Ranking, season context, cards, app tab and CLI work; 21 tests pass.
 - Test run `runs/revival_20261120_151646`: images for ranks 1–2 (Grünkohl-Gnocchi-Auflauf, Grünkohlsalat), cards for all 10.
+
+## Hybrid search (added 2026-11-20)
+
+- **Embeddings:** `Qwen3-Embedding-8B` via the gateway (4,096 dims). Each archive recipe is embedded once from
+  title, category, labels, main ingredients and the start of the method (`ingest/archive_vectors.py`, cached in
+  `runs/cache/`, built in checkpoints of 320 recipes so an interrupted build resumes).
+- **Queries:** a bare trend word is too thin (test: "Spitzbuben" ranked a beef roast above Linzer cookies), so the
+  LLM writes a one-sentence description per trend (`agents/trend_queries.py`, cached), embedded with Qwen3's
+  query instruction.
+- **Hybrid relevance** (`scoring/hybrid.py`): 0.6 × semantic similarity calibrated per trend
+  (median → 0, 99.8th percentile → 1) + 0.4 × lexical (title 1.0, ingredient 0.4); minimum 0.35.
+- **Used in:** Archiv-Revival ranking and the proposals' archive check (closest recipes, most recent comparable
+  recipe). Keyword match counts stay lexical so repetition statistics remain comparable.
+- **Fallback:** without the vector index everything falls back to keyword matching (labelled in the output).
+- **Build time:** ~40–50 min once at current gateway speed (slower than the 3 s/32 texts measured in the first test).

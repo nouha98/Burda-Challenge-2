@@ -45,7 +45,9 @@ def _matches(text: str | None, terms: list[str]) -> bool:
     return bool(text) and any(t in text.lower() for t in terms)
 
 
-def check(candidate: dict, recipes: list[dict]) -> dict:
+def check(candidate: dict, recipes: list[dict], hybrid_hits: list[dict] | None = None) -> dict:
+    """Counts stay lexical (comparable over time); with `hybrid_hits` (scoring/hybrid.retrieve) the closest recipes
+    and the most recent comparable recipe also include semantically similar recipes without the keyword."""
     terms = search_terms(candidate)
     title_hits = [r for r in recipes if _matches(r["title"], terms) or _matches(r.get("subtitle"), terms)]
     ingr_hits = [r for r in recipes if r not in title_hits and any(
@@ -65,16 +67,28 @@ def check(candidate: dict, recipes: list[dict]) -> dict:
         return {"id": r["id"], "title": r["title"], "date_imported": r["date_imported"], "category": r["category"]}
 
     latest = title_hits[0] if title_hits else (ingr_hits[0] if ingr_hits else None)
+    semantic_only = [h for h in hybrid_hits or [] if h["match"] == "semantic"]
+    if hybrid_hits:
+        closest = [dict(brief(h["recipe"]), match=h["match"], relevance=h["relevance"]) for h in hybrid_hits[:6]]
+        strong_semantic = [h["recipe"] for h in semantic_only if h["relevance"] >= 0.5]
+        if not latest and strong_semantic:
+            latest = max(strong_semantic, key=lambda r: r["date_imported"] or "")
+    else:
+        closest = [brief(r) for r in title_hits[:6]] or [brief(r) for r in ingr_hits[:3]]
+    latest_match = "title" if title_hits else ("ingredient" if ingr_hits else "semantic")
     return {
         "search_terms": terms,
         "title_matches": len(title_hits),
         "title_matches_recent": sum(1 for r in title_hits if (r["date_imported"] or "") >= RECENT_SINCE),
         "ingredient_only_matches": len(ingr_hits),
-        "most_recent_comparable": dict(brief(latest), match="title" if title_hits else "ingredient") if latest else None,
-        "closest_recipes": [brief(r) for r in title_hits[:6]] or [brief(r) for r in ingr_hits[:3]],
+        "semantic_only_matches": len(semantic_only),
+        "most_recent_comparable": dict(brief(latest), match=latest_match) if latest else None,
+        "closest_recipes": closest,
         "recurring_ingredients": [n for n, _ in co.most_common(8)],
         "recurring_formats": [w for w, _ in fmt.most_common(6)],
-        "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+        "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); "
+                         + ("hybrid retrieval (embeddings + keywords); counts are keyword matches" if hybrid_hits
+                            else "lexical matching"),
     }
 
 

@@ -1,15 +1,18 @@
 """Archiv-Revival ranking: existing archive recipes that match rising trends and the current season mood.
 
 score = 100 * (0.55 * trend relevance + 0.35 * season fit + 0.10 * completeness)
-trend relevance = trend score T/100 * match strength (title 1.0, ingredient 0.4); a recipe keeps its best trend.
-Publication date is deliberately ignored. Max. 2 recipes per trend in the top list.
+trend relevance = trend score T/100 * hybrid relevance (scoring/hybrid.py: semantic + title/ingredient match);
+without vectors it falls back to lexical matching only. A recipe keeps its best trend.
+Publication date is deliberately ignored. Top 5, max. 1 recipe per trend.
 """
-from scoring.archive_match import _matches, search_terms
+import numpy as np
+
+from scoring.hybrid import retrieve
 from scoring.season import season_fit
 
 WEIGHTS = {"trend": 0.55, "season": 0.35, "complete": 0.10}
-STRENGTH = {"title": 1.0, "ingredient": 0.4}
-MAX_PER_TREND = 2
+TOP_N = 5
+MAX_PER_TREND = 1
 
 
 def completeness(r: dict) -> float:
@@ -19,22 +22,19 @@ def completeness(r: dict) -> float:
     return sum(checks) / len(checks)
 
 
-def rank(trend_candidates: list[dict], recipes: list[dict], ctx: dict, top_n: int = 10) -> list[dict]:
+def rank(trend_candidates: list[dict], recipes: list[dict], ctx: dict, top_n: int = TOP_N,
+         vectors: np.ndarray | None = None, query_vecs: dict | None = None) -> list[dict]:
+    """`recipes` must be in the same order as the rows of `vectors`."""
     best: dict[str, dict] = {}
     for c in trend_candidates:
-        terms = search_terms(c)
-        T = c["scores"]["T"]
-        for r in recipes:
-            if _matches(r["title"], terms) or _matches(r.get("subtitle"), terms):
-                match = "title"
-            elif any(_matches(i["name"], terms) for g in r["ingredient_groups"] for i in g["items"]):
-                match = "ingredient"
-            else:
-                continue
-            rel = T / 100 * STRENGTH[match]
+        qv = query_vecs.get(c["id"]) if query_vecs else None
+        for hit in retrieve(c, qv, recipes, vectors if qv is not None else None):
+            r = hit["recipe"]
+            rel = c["scores"]["T"] / 100 * hit["relevance"]
             if r["id"] not in best or rel > best[r["id"]]["trend_relevance"]:
                 best[r["id"]] = {"recipe": r, "trend": c["classification"]["name_de"], "trend_id": c["id"],
-                                 "trend_T": T, "match": match, "trend_relevance": rel}
+                                 "trend_T": c["scores"]["T"], "match": hit["match"], "semantic": hit["semantic"],
+                                 "hybrid_relevance": hit["relevance"], "trend_relevance": rel}
     scored = []
     for item in best.values():
         r = item["recipe"]

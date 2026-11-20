@@ -1,5 +1,6 @@
-"""Archiv-Revival: the 10 existing archive recipes that best match the rising trends and the current
-season/holiday mood, each with a new FLUX image and an A4 card (archive content unchanged).
+"""Archiv-Revival: the 5 existing archive recipes that best match the rising trends (hybrid search: embeddings +
+title/ingredient matches) and the current season/holiday mood, each with a new FLUX image and an A4 card
+(archive content unchanged).
 
 Run:  python -m agents.revival_agent           -> runs/revival_<time>/
       python -m agents.revival_agent --no-images   (ranking + cards only)
@@ -14,10 +15,13 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from agents.image_agent import generate_image, view_from_archive
+from agents.trend_queries import describe
+from ingest import archive_vectors
 from ingest.archive import build_index
 from rendering.card import card_from_archive, render
 from scoring import revival
 from scoring.season import season_context
+from services import embeddings
 from storage import runs
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,7 +37,9 @@ def _slug(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", (text or "").lower()).strip("-")[:30]
 
 
-def rank_now(day: dt.date | None = None) -> tuple[dict, list[dict]]:
+def rank_now(day: dt.date | None = None, semantic: bool = True, build_vectors: bool = True,
+             progress=print) -> tuple[dict, list[dict]]:
+    """semantic=False or a missing vector index -> lexical-only fallback (labelled in the context)."""
     trends = runs.read_json(runs.TRENDS)
     if not trends:
         raise RuntimeError("runs/trends.json missing – run the trend agent first")
@@ -41,11 +47,23 @@ def rank_now(day: dt.date | None = None) -> tuple[dict, list[dict]]:
     ctx = season_context(day or dt.date.today(), rising)
     ctx["trends_generated_at"] = trends["generated_at"]
     ctx["rising_trends"] = len(rising)
-    return ctx, revival.rank(rising, build_index(), ctx)
+    recipes = build_index()
+    vectors = query_vecs = None
+    if semantic:
+        ids, vectors = archive_vectors.load(build=build_vectors, progress=progress)
+        if vectors is not None:
+            by_id = {r["id"]: r for r in recipes}
+            recipes = [by_id[i] for i in ids]  # align recipe order with vector rows
+            descriptions = describe(rising, trends["generated_at"])
+            qv = embeddings.embed([descriptions[c["id"]] for c in rising], query=True)
+            query_vecs = {c["id"]: qv[k] for k, c in enumerate(rising)}
+            ctx["trend_descriptions"] = descriptions
+    ctx["retrieval"] = "hybrid (embeddings + title/ingredient)" if query_vecs else "lexical only (title/ingredient)"
+    return ctx, revival.rank(rising, recipes, ctx, vectors=vectors, query_vecs=query_vecs)
 
 
 def run(images: bool = True, max_images: int | None = None, progress=print) -> str:
-    ctx, top = rank_now()
+    ctx, top = rank_now(progress=progress)
     out = runs.RUNS / f"revival_{dt.datetime.now():%Y%m%d_%H%M%S}"
     out.mkdir(parents=True)
     items = []
@@ -53,18 +71,21 @@ def run(images: bool = True, max_images: int | None = None, progress=print) -> s
         r = t["recipe"]
         items.append({"rank": n, "recipe_id": r["id"], "title": r["title"], "category": r["category"],
                       "date_imported": r["date_imported"], "labels": r["labels"], "trend": t["trend"],
-                      "trend_T": t["trend_T"], "match": t["match"], "trend_relevance": round(t["trend_relevance"], 3),
+                      "trend_T": t["trend_T"], "match": t["match"], "semantic": t["semantic"],
+                      "hybrid_relevance": t["hybrid_relevance"], "trend_relevance": round(t["trend_relevance"], 3),
                       "season_fit": t["season_fit"], "season_labels": t["season_labels"],
                       "completeness": t["completeness"], "score": t["score"],
                       "file_stem": f"{n:02d}_{_slug(r['title'])}"})
     runs.write_json(out / "revival.json", {
         "generated_at": dt.datetime.now().isoformat(timespec="seconds"), "season_context": ctx,
         "method": {"score": "100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
-                   "trend_relevance": "trend score T/100 × match strength (title 1.0, ingredient 0.4)",
+                   "retrieval": ctx["retrieval"],
+                   "trend_relevance": "trend score T/100 × hybrid relevance; hybrid = 0.6 × calibrated semantic "
+                                      "similarity + 0.4 × lexical (title 1.0, ingredient 0.4)",
                    "season_fit": "best matching current label weight; 0.4 without season label; 0 if only off-season labels",
                    "diversity": f"max. {revival.MAX_PER_TREND} recipes per trend; publication date ignored"},
         "limitations": ["Archive = 5,000-recipe sample of 81,798; category labels exist for 3,354 recipes.",
-                        "Matching is lexical (title/ingredient names), not semantic.",
+                        "Semantic similarity is calibrated per trend; it ranks candidates but is not a proof of relevance.",
                         "Images are AI illustrations of archive recipes; the export contains no original photos."],
         "items": items})
     progress(f"Top {len(items)} ermittelt – {ctx['reason']}")

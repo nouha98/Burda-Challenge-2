@@ -18,7 +18,11 @@ from pathlib import Path
 
 from agents.brand_agent import assess, compute_scores, describe
 from ingest.archive import build_index
+from agents.trend_queries import describe
+from ingest import archive_vectors
 from scoring.archive_match import check
+from scoring.hybrid import retrieve
+from services import embeddings
 from scoring.trend_score import percentiles
 from services import brave
 from services.gateway import GatewayError, chat_json
@@ -100,8 +104,15 @@ def main() -> None:
 
     print("Archive check (5,000-recipe sample) + Brave context ...")
     recipes = build_index()
-    for c in pool:
-        c["archive"] = check(c, recipes)
+    ids, vectors = archive_vectors.load(build=True)
+    if vectors is not None:
+        by_id = {r["id"]: r for r in recipes}
+        recipes = [by_id[i] for i in ids]  # align with vector rows
+        descriptions = describe(pool, trends["generated_at"])
+        qv = embeddings.embed([descriptions[c["id"]] for c in pool], query=True)
+    for k, c in enumerate(pool):
+        hits = retrieve(c, qv[k], recipes, vectors, limit=50) if vectors is not None else None
+        c["archive"] = check(c, recipes, hits)
     with ThreadPoolExecutor(max_workers=4) as ex:
         for c, res in zip(pool, ex.map(lambda c: brave.search(f'{c["classification"]["name_de"]} Rezept'), pool)):
             c["brave"] = res

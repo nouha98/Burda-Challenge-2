@@ -448,19 +448,19 @@ with tab_cards:
 with tab_revival:
     from agents import revival_agent
     st.markdown("**Archiv-Revival:** Welche vorhandenen *das schmeckt!*-Rezepte passen zu den aktuell steigenden Trends "
-                "und zur Saison- bzw. Feiertagsstimmung? Top 10 aus dem Archiv, je mit neuem KI-Bild und A4-Karte "
-                "(Rezeptinhalt unverändert).")
+                "und zur Saison- bzw. Feiertagsstimmung? Hybride Suche (Embeddings + Titel/Zutaten), Top 5 aus dem Archiv – "
+                "je ein Rezept pro Trend, mit neuem KI-Bild und A4-Karte (Rezeptinhalt unverändert).")
     if not trends:
         st.info("Zuerst Trends recherchieren (Seitenleiste).")
     else:
-        ctx_preview, _ = revival_agent.rank_now()
+        ctx_preview, _ = revival_agent.rank_now(semantic=False)
         st.caption(f"Saison-Kontext: {ctx_preview['reason']} · Gewichte: "
                    + ", ".join(f"{k} {v:g}" for k, v in ctx_preview["weights"].items())
                    + " · außer Saison: " + ", ".join(ctx_preview["off_season"]))
         c1, c2 = st.columns([1, 3])
-        n_images = c2.number_input("Anzahl KI-Bilder (FLUX, je ca. 0,9 Credits; Testlimit)", 0, 10,
+        n_images = c2.number_input("Anzahl KI-Bilder (FLUX, je ca. 0,9 Credits; Testlimit)", 0, 5,
                                    revival_agent.MAX_IMAGES)
-        if c1.button("Top 10 aus dem Archiv holen", type="primary"):
+        if c1.button("Top 5 aus dem Archiv holen", type="primary"):
             box = st.empty()
             with st.spinner("Archiv durchsuchen, bewerten" + (f", {n_images} Bilder erzeugen" if n_images else "") + " …"):
                 name = revival_agent.run(images=n_images > 0, max_images=int(n_images), progress=lambda m: box.info(m))
@@ -471,7 +471,8 @@ with tab_revival:
             current = st.session_state.get("revival") if st.session_state.get("revival") in revivals else revivals[0]
             current = st.selectbox("Ergebnis", revivals, index=revivals.index(current))
             data = runs.read_json(runs.RUNS / current / "revival.json")
-            st.caption(f"{data['method']['score']} · {data['method']['trend_relevance']} · {data['method']['diversity']}")
+            st.caption(f"Suche: {data['method'].get('retrieval', 'lexical')} · {data['method']['score']} · "
+                       f"{data['method']['trend_relevance']} · {data['method']['diversity']}")
             for item in data["items"]:
                 with st.container(border=True):
                     img_col, txt_col = st.columns([1, 3])
@@ -482,8 +483,10 @@ with tab_revival:
                         img_col.caption(item.get("image_error") or "Kein Bild")
                     txt_col.markdown(f"**{item['rank']}. {item['title']}** · {item['score']:.1f} Punkte")
                     txt_col.markdown(
-                        f"Trend: **{item['trend']}** (T {item['trend_T']:.0f}, Treffer im "
-                        f"{'Titel' if item['match'] == 'title' else 'Zutaten'}) · Saison: "
+                        f"Trend: **{item['trend']}** (T {item['trend_T']:.0f}, Treffer: "
+                        f"{ {'title': 'Titel', 'ingredient': 'Zutaten', 'semantic': 'inhaltlich ähnlich (Embedding)'}.get(item['match'], item['match']) }"
+                        + (f", Ähnlichkeit {item['semantic']:.2f}" if item.get('semantic') is not None else "")
+                        + ") · Saison: "
                         f"{', '.join(item['season_labels']) or 'ohne Saison-Label'} (Fit {item['season_fit']:g}) · "
                         f"{item['category']} · im Archiv seit {item['date_imported']}")
                     card = runs.RUNS / current / item["card"] if item.get("card") else None
