@@ -225,12 +225,101 @@ with tab_recipes:
             cols = st.columns(2)
             for col, (slot, r) in zip(cols, recipes.items()):
                 with col, st.container(border=True):
-                    st.markdown(f"<span style='color:{GREEN};font-weight:bold'>Rezept {slot}</span>", unsafe_allow_html=True)
+                    badge = {"approved": "✅ freigegeben (Review)", "needs_editor_review": "⚠️ Redaktion prüfen",
+                             "draft": "📝 Entwurf"}.get(r.get("status"), r.get("status"))
+                    st.markdown(f"<span style='color:{GREEN};font-weight:bold'>Rezept {slot}</span> · {badge}",
+                                unsafe_allow_html=True)
                     render_recipe(r)
         with st.expander("Verlauf"):
             for e in runs.state(run_id)["events"]:
                 st.markdown(f"- `{e['at']}` **{e['status']}** {e['detail']}")
 
-for tab, block in ((tab_review, "Block 4"), (tab_nutri, "Block 5"), (tab_cards, "Block 6")):
+
+# ---------- Review loop ----------
+SEV_ICON = {"critical": "🛑", "major": "🔴", "minor": "🟡"}
+
+
+def recipe_changes(old: dict, new: dict) -> list[str]:
+    out = []
+    for f in ("title", "introduction", "servings", "serving_tip"):
+        if old.get(f) != new.get(f):
+            out.append(f"**{f}:** {old.get(f)} → {new.get(f)}")
+    if old.get("times") != new.get("times"):
+        out.append(f"**Zeiten:** {old.get('times')} → {new.get('times')}")
+    fmt = lambda i: f"{i.get('quantity') if i.get('quantity') is not None else ''} {i.get('unit') or ''} {i.get('name')}" \
+                    + (f" ({i['note']})" if i.get("note") else "")
+    oi = {i.get("id"): fmt(i) for i in old.get("ingredients", [])}
+    ni = {i.get("id"): fmt(i) for i in new.get("ingredients", [])}
+    for k in sorted(set(oi) | set(ni)):
+        if oi.get(k) != ni.get(k):
+            out.append(f"**Zutat:** {oi.get(k, '–')} → {ni.get(k, '–')}")
+    os_ = {s.get("number"): s.get("text") for s in old.get("steps", [])}
+    ns = {s.get("number"): s.get("text") for s in new.get("steps", [])}
+    for k in sorted(set(os_) | set(ns), key=lambda x: (x is None, x)):
+        if os_.get(k) != ns.get(k):
+            out.append(f"**Schritt {k} neu:** {ns.get(k, '– entfernt –')}")
+    return out
+
+
+with tab_review:
+    recipes = runs.latest_recipes(run_id) if run_id else {}
+    if not recipes:
+        st.info("Zuerst zwei Rezepte entwickeln (Tab „Rezepte“).")
+    else:
+        st.markdown("**Ablauf:** Code-Prüfung (Mengen, Verwendung aller Zutaten, Teilmengen, EL/TL, Zeiten, Portionen) → "
+                    "Review-Agent (DeepSeek-V4.1-Flash) nach der 8-Punkte-Checkliste + kulinarische Plausibilität → "
+                    "bei Befunden Korrektur durch den Rezept-Agenten → erneutes Review. **Maximal 2 Korrekturen.**")
+        reviewed = any(runs.run_dir(run_id).glob("review_*.json"))
+        if st.button("Review & Korrekturschleife starten (~1–3 Min.)" if not reviewed else "Review erneut ausführen",
+                     type="primary" if not reviewed else "secondary"):
+            from agents import review_agent
+            box = st.empty()
+            with st.spinner("Review läuft …"):
+                try:
+                    review_agent.review_loop(run_id, progress=lambda msg: box.info(msg))
+                except Exception as exc:
+                    st.error(f"Review fehlgeschlagen: {exc}")
+            st.rerun()
+        cols = st.columns(2)
+        for col, slot in zip(cols, ["A", "B"]):
+            with col:
+                history = runs.recipe_history(run_id, slot)
+                final = history[-1]
+                st.markdown(f"### Rezept {slot}: {final.get('title')}")
+                status = {"approved": "✅ Freigegeben nach Review", "needs_editor_review":
+                          "⚠️ Nach 2 Korrekturen noch offene Punkte – Redaktion prüfen"}.get(final.get("status"), "📝 Noch nicht geprüft")
+                st.markdown(f"**Status:** {status} · Version {final['version']}")
+                for r in history:
+                    rv = runs.read_json(runs.run_dir(run_id) / f"review_{slot}_v{r['version']}.json")
+                    if not rv:
+                        continue
+                    with st.container(border=True):
+                        verdict = "✅ bestanden" if rv["verdict"] == "pass" else "↩️ zur Korrektur"
+                        st.markdown(f"**Version {r['version']} – {verdict} – {rv['score_total']:.0f}/100 Punkte**")
+                        st.caption(rv.get("summary_de") or "")
+                        sc = rv["scores"]
+                        st.caption(f"Kulinarik {sc['culinary_plausibility']:.0f}/30 · Konsistenz {sc['consistency']:.0f}/25 · "
+                                   f"Marke {sc['brand_fit']:.0f}/20 · Klarheit {sc['clarity']:.0f}/15 · "
+                                   f"Abgrenzung {sc['differentiation']:.0f}/10")
+                        issues = rv["code_findings"] + rv["llm_issues"]
+                        if issues:
+                            for i in issues:
+                                src = "Code" if i["source"] == "code" else "Review"
+                                text = i.get("message_de") or i.get("problem_de")
+                                fix = f" → *{i['fix_de']}*" if i.get("fix_de") else ""
+                                st.markdown(f"{SEV_ICON.get(i['severity'], '')} **{src}:** {text}{fix}")
+                        else:
+                            st.markdown("Keine Befunde.")
+                        with st.expander("Checkliste (8 Kriterien)"):
+                            names = {c[0]: c[1] for c in __import__("agents.review_agent", fromlist=["CRITERIA"]).CRITERIA}
+                            st.dataframe(pd.DataFrame([{"Nr.": c.get("no"), "Kriterium": names.get(c.get("no"), ""),
+                                                        "OK": "✅" if c.get("pass") else "❌", "Kommentar": c.get("comment_de")}
+                                                       for c in rv["criteria"]]), hide_index=True, width="stretch")
+                for old, new in zip(history, history[1:]):
+                    with st.expander(f"Änderungen Version {old['version']} → {new['version']}", expanded=True):
+                        for line in recipe_changes(old, new) or ["Keine inhaltlichen Änderungen."]:
+                            st.markdown("- " + line)
+
+for tab, block in ((tab_nutri, "Block 5"), (tab_cards, "Block 6")):
     with tab:
         st.info(f"Folgt in {block}.")
