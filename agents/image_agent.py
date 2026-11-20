@@ -212,6 +212,12 @@ def generate_image(view: dict, path, agent: str = "image_brief", corrections: st
     if corrections:
         user += CORRECTION.format(fix=corrections)
     brief, meta = chat_json("recipe_author", SYSTEM, user, max_tokens=16000, agent=agent)  # 8000 ran out (finish=length)
+    if not isinstance(brief.get("prompt"), str) or not brief["prompt"].strip():
+        # Valid JSON but without the prompt field: ask once more instead of failing
+        brief, meta = chat_json("recipe_author", SYSTEM, user + "\n\nIMPORTANT: the JSON object must contain the field "
+                                "\"prompt\" with the complete English image caption.", max_tokens=16000, agent=agent)
+        if not isinstance(brief.get("prompt"), str) or not brief["prompt"].strip():
+            raise ValueError("image brief without 'prompt' after retry")
     job = flux.submit(brief["prompt"])
     # Save the job before polling so an interrupted generation can be resumed instead of paid for twice.
     runs.write_json(path.with_suffix(".pending.json"), {"job": job, "prompt": brief["prompt"], "model": flux.MODEL})
