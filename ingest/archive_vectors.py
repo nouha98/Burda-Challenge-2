@@ -3,7 +3,7 @@
 Document text per recipe: title, subtitle, category, editorial labels, main ingredients (pantry staples removed)
 and the beginning of the method. The cache is keyed by model and text version, so it rebuilds when either changes.
 
-Run:  python -m ingest.archive_vectors      (builds the cache, ~3–8 min once)
+Run:  python -m ingest.archive_vectors      (builds the cache once, ~17 min measured)
 """
 import hashlib
 import json

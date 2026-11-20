@@ -46,7 +46,7 @@ flowchart TD
     RV -->|"still failing after 2 revisions"| NER["needs_editor_review"]
     OK --> NA["Nutrition agent<br/>DB match (GLM) + arithmetic (code)"]
     NER --> NA
-    NA --> CARD["A4 HTML card (Jinja2)<br/>+ optional FLUX image (CLI)"]
+    NA --> CARD["A4 HTML card (Jinja2)<br/>+ FLUX image with image check (CLI)"]
 ```
 
 ### 2.2 Mode 2: Archiv-Revival
@@ -87,7 +87,7 @@ Model IDs as in `config/models.json`. If a role's model fails, every chat agent 
 | **Recipe agent** (`agents/recipe_agent.py`) | Writes recipes A and B in parallel (each knows the other's direction); revises a recipe from a review report | `recipe_author`: `tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro` | Proposal, editor spec, closest archive titles (not to be repeated), one archive recipe as style example, JSON format with `group` subheadings and per-step `uses` | `recipe_A_v1.json`, `recipe_B_v1.json`, later versions | Versioning, IDs, status, stripping „Unser Tipp:“ prefix |
 | **Review agent** (`agents/review_agent.py`) | Checks against the 8-point editorial checklist + culinary plausibility, gives issues (critical/major/minor) with fixes and 5 sub-scores | `reviewer`: `tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash` | Recipe JSON, other recipe's title, archive titles, editor spec, **code findings (must be adopted)** | `review_<slot>_v<n>.json` | Deterministic checks (`scoring/recipe_checks.py`), clamping sub-scores, pass rule, loop limit |
 | **Nutrition agent** (`agents/nutrition_agent.py`) | (1) proposes Swiss database search terms (Federkohl = Grünkohl, Rahm = Sahne …); (2) picks one DB ID **from a candidate list** per ingredient, with match type and confidence | `nutrition_match`: GLM-5.3-Flash | Ingredient names/notes; candidate lists from the real DB | `nutrition_<slot>_v<n>.json` | Exact matching, candidate search, ID validation, unit → gram conversion, all arithmetic, completeness flag |
-| **Image agent** (`agents/image_agent.py`) | Writes an English image brief: first the real-life look of each visible ingredient, then a prompt that follows `config/image_style.md` | Brief: `recipe_author` (Kimi-K3.1-Pro); image: `image`: `flux-3-image-klein` (BFL API) | Recipe (generated or archive) | `.jpg` + `.json` (prompt, seed, cost, model) | Submit/poll/download, saving the job before polling (resumable), bounded regeneration |
+| **Image agent** (`agents/image_agent.py`) | Writes a FLUX 3 brief in four steps – finished recipe result → visible ingredients with quantities, per-serving amounts and cooked appearance → final plating from the last step → photography (`config/image_style.md`) – and returns a positive full-scene caption (see 4.8) | Brief: `recipe_author` (Kimi-K3.1-Pro); image: `image`: `flux-3-image-klein` (BFL API) | Recipe (generated or archive) | `.jpg` + `.json` (prompt, seed, cost, model) | Submit/poll/download, saving the job before polling (resumable), bounded regeneration |
 | **Image check** (`agents/image_agent.validate_image`, `services/vision.py`) | Vision model describes the image **without the recipe**; review model compares the description with ingredients and steps → match/mismatch + fix instructions | `vision`: `tesseracted-labs-gmbh/google/gemma-4-31B-it` (fallback `vision_fallback`: `tesseracted-labs-gmbh/Qwen/Qwen3-VL-235B-A22B-Instruct-FP8`); comparison: `reviewer` (DeepSeek-V4.1-Flash) | Image (max. 768 px), recipe text | Verdict, missing/wrong/extra, description | Max. 1 regeneration; rejected images kept as `*_rejected1.jpg` |
 | **Revival review agent** (`agents/revival_editors.py`) | Per drawn recipe: `trend_match` strong/weak/none, `season_ok`, keep/replace; variety comment; optional `retrieve_again` | `reviewer`: DeepSeek-V4.1-Flash | 9 drawn recipes with trend description, category, season labels, ingredients, method | Review per round in `revival.json` | `trend_match = none` → always `replace` (enforced in code); only per-recipe verdicts decide; unknown trend IDs dropped; redraw and round limit |
 
@@ -276,6 +276,34 @@ In this run the review agent kept all 9 drawn recipes in round 1. It marked `var
 
 ---
 
+### 4.8 FLUX 3 image prompt (`agents/image_agent.py`, `services/flux.py`)
+
+Images come from **FLUX 3 Image Klein** (`flux-3-image-klein`, 1024 × 1024, ~6 s, 0.9 credits). The prompt is written by
+the recipe model (Kimi-K3.1-Pro) from the **final** recipe version, in a fixed order so that photography never changes
+what the recipe says:
+
+| Step | Content | Done in code vs. LLM |
+|---|---|---|
+| 1. Recipe result | One sentence: which complete dish, which cooked states, one plated serving or a whole family-style dish | LLM |
+| 2. Ingredients and proportions | Each visible ingredient with real-life cooked appearance (colour, surface, cut) and its **quantity – total and per serving** as a visual proportion anchor; leafy greens shrink when braised, grains swell; no invented counts or cut sizes | **Per-serving amounts calculated in code** (`ingredient_context`, `archive_ingredient_context`; ranges and unknown servings stay explicit) |
+| 3. Final plating | Base, toppings, accompaniments, layer order and vessel from the last step(s); styling may not reverse layers or add garnish | LLM, based on the recipe's last step |
+| 4. Photography | Cover style from the brand guide's top covers (`config/image_style.md`): high angle 60–75°, food fills the frame, bright natural daylight, calm warm-neutral background, true colours | LLM |
+
+- **Positive full-scene caption, max. 220 words:** FLUX 3 Klein runs its own prompt upsampler (always on via the API),
+  so the brief describes exactly what is in the photo instead of listing exclusions.
+- **German names are described, not named** (e.g. Pinkel → "pale grey-beige simmered grain sausage"), because the
+  image model does not reliably know regional foods.
+- **Provenance** saved next to every image: prompt, recipe result, ingredient context with quantities, final plating,
+  all recipe instructions, seed, job ID, credits, model.
+- **Image check (both modes):** the vision model (gemma-4-31B-it) describes the image without seeing the recipe; the
+  review model compares the description with ingredients and steps → `match` / `mismatch` with missing, wrong and extra
+  items and fix instructions → at most **1 regeneration**; still wrong → "Redaktion prüfen". Rejected images are kept.
+- **Live example (Grünkohl-Eintopf, new prompt):** attempt 1 was rejected (sausages browned as if fried, although the
+  recipe simmers them; stray lettering), attempt 2 fixed the sausages but showed whole kale leaves with thick stems
+  instead of wide strips → marked „Redaktion prüfen“, 1.8 credits. The check caught real deviations; FLUX does not always
+  follow detailed cut and cooking instructions.
+- Prompt design credit: the recipe-scaled FLUX 3 prompt was contributed by a teammate (commit `c3d0d2a`).
+
 ## 5. Data sources
 
 | Source | What it is | How it is used |
@@ -340,7 +368,7 @@ Notes for the presenter:
 - **LLM judgements:** brand, feasibility and gap ratings are LLM judgements against the brand guide, not reader research. The AI review does not replace a test kitchen.
 - **Nutrition:** database estimates, not lab values. Cooking losses are ignored. Piece and spoon weights are kitchen conventions. Some matches are "closest substitutes" (e.g. Pinkel → Blutwurst, low confidence).
 - **AI images:** illustrations, not original photos (the archive export has none). FLUX can show wrong components.
-- **Image check can miss details:** it compares a *text description* of the image with the recipe. It caught a known faulty Tiramisu image (ladyfingers on top instead of cocoa-dusted cream, per REVIVAL-PLAN.md), but it is not a pixel-level check. In the new-recipe workflow images are created via CLI (`python -m agents.image_agent <run_id> <slot>`) **without** this check and without an app button; the check runs in the Revival.
+- **Image check can miss details:** it compares a *text description* of the image with the recipe. It caught a known faulty Tiramisu image (ladyfingers on top instead of cocoa-dusted cream, per REVIVAL-PLAN.md), but it is not a pixel-level check. Both modes now run this check: in the new-recipe workflow images are created via CLI (`python -m agents.image_agent <run_id> <slot>`, no app button yet), in the Revival automatically.
 - **FLUX upsampler:** the BFL API always runs the prompt upsampler and it cannot be switched off (`prompt_upsampling`, `upsampling`, `pup` are rejected with HTTP 422). A comparison with and without it would need the open weights and a GPU.
 - **Revival:** the draw within the pool is random by design, so quality varies within the top 10. Variety across the drawn recipes is only commented on, not enforced. Images are limited to 2 per run by default (test limit).
 - **Hybrid search calibration** (99th percentile, 0.5 thresholds) was set by inspecting raw scores (e.g. Rosenkohl), not by a labelled evaluation.
@@ -353,7 +381,7 @@ Figures measured on 20 Nov 2026 (about 16:35). LLM token numbers are computed fr
 
 | Service | Unit | Measured usage | Notes |
 |---|---|---|---|
-| **BFL / FLUX** (`flux-3-image-klein`) | Credits | **0.9 credits per image** (`cost` in the API response, stored as `cost_credits`). 18 generations with recorded metadata in `runs/` = **15.3 credits** | Earlier `flux-2-pro` test jobs reported no cost. **The account balance (1,567,176.93 → 1,564,898.99 credits, −2,277.94) is *not* our cost:** the key was handed to all participants via QR code, so the account is very likely shared between teams. The per-job cost is the reliable figure |
+| **BFL / FLUX** (`flux-3-image-klein`) | Credits | **0.9 credits per image** (`cost` in the API response, stored as `cost_credits`). 20 generations with recorded metadata in `runs/` = **17.1 credits** | Earlier `flux-2-pro` test jobs reported no cost. **The account balance (1,567,176.93 → 1,564,898.99 credits, −2,277.94) is *not* our cost:** the key was handed to all participants via QR code, so the account is very likely shared between teams. The per-job cost is the reliable figure |
 | | Per run (estimate) | New-recipe workflow: 2 images ≈ **1.8 credits** (up to 3.6 with 1 regeneration each). Archiv-Revival: images for all 9 recipes ≈ **8.1** (up to 16.2); with the current limit of 2 images ≈ **1.8** | |
 | **Tesseracted gateway** (LLMs) | Tokens (no price list known) | **93 logged calls, 164,025 prompt + 494,279 completion tokens** (all runs on 20 Nov) | Completion tokens are high because all chat models are reasoning models |
 | **Embeddings** (Qwen3-Embedding-8B) | Tokens (estimate, not logged) | Archive index built once: 5,000 recipes × ~475 characters ≈ **0.6–0.7 M input tokens**, plus an interrupted first attempt of ~2,900 recipes; query embeddings are tiny | Not in `llm_log.jsonl` |
@@ -387,7 +415,7 @@ Biggest consumer: **Revival image briefs** (Kimi-K3.1-Pro), with 26 calls and 18
 
 ## 10. Tech stack, how to run, tests
 
-**Stack:** Python 3.12 · Streamlit (UI) · requests · pandas · openpyxl (Wikimedia fallback xlsx) · Jinja2 (cards) · numpy (vectors) · python-dotenv · Pillow (image resize for vision; installed as a Streamlit dependency) · pytest. Model access goes through the Tesseracted Labs OpenAI-compatible gateway (chat, embeddings, vision, streaming). Images come from the Black Forest Labs API, plus the Brave Search API and the Wikimedia REST API. Workflow state is kept in JSON files per run (`runs/<run_id>/`), with no database.
+**Stack:** Python 3.12 · Streamlit (UI) · requests · pandas · openpyxl (Wikimedia fallback xlsx) · Jinja2 (cards) · numpy (vectors) · python-dotenv · Pillow (image resize for vision) · pytest. Model access goes through the Tesseracted Labs OpenAI-compatible gateway (chat, embeddings, vision, streaming). Images come from the Black Forest Labs API, plus the Brave Search API and the Wikimedia REST API. Workflow state is kept in JSON files per run (`runs/<run_id>/`), with no database.
 
 **Setup and run**
 ```
@@ -406,11 +434,11 @@ python -m agents.proposal_agent                 # -> runs/proposals.json
 python -m agents.recipe_agent    <run_id>       # run_id is created by the editor's selection in the app
 python -m agents.review_agent    <run_id>
 python -m agents.nutrition_agent <run_id>
-python -m agents.image_agent     <run_id> <A|B> # optional FLUX image for a generated recipe
+python -m agents.image_agent     <run_id> <A|B> # FLUX image + image check for a generated recipe
 python -m agents.revival_agent [--seed N] [--no-images]   # -> runs/revival_<time>/
 python -m storage.snapshot list | save <name> [run_id ...] | restore <name>
 ```
 
-**Tests:** `.venv\Scripts\python -m pytest -q` → **31 passed** (20 Nov 2026). They cover German number parsing, percentiles, Wikipedia labels, all 150 Google records, recipe checks (unused/unknown ingredients, split quantities, EL/TL, missing quantities, servings and pair similarity), nutrition conversions and a hand-checked calculation, card rendering/pagination/escaping, hybrid calibration and lexical fallback, season calendar and Christmas boost, revival ranking, forced replace on `trend_match = none`, bounded image regeneration, a seeded, reproducible draw that respects exclusions, a failed review never counting as approval, and the proposal agent's imports.
+**Tests:** `.venv\Scripts\python -m pytest -q` → **38 passed** (20 Nov 2026). They cover German number parsing, percentiles, Wikipedia labels, all 150 Google records, recipe checks (unused/unknown ingredients, split quantities, EL/TL, missing quantities, servings and pair similarity), nutrition conversions and a hand-checked calculation, card rendering/pagination/escaping, hybrid calibration and lexical fallback, season calendar and Christmas boost, revival ranking, forced replace on `trend_match = none`, bounded image regeneration, a seeded, reproducible draw that respects exclusions, a failed review never counting as approval, the proposal agent's imports, the FLUX service payload and the image agent's per-serving quantity context.
 
-**Typical run times (from TASKS.md):** trends ~80 s · proposals ~2 min 15 s · recipes ~100 s · review 1–3 min · nutrition ~15–20 s · FLUX image ~6 s (0.9 credits). The archive embedding index is built once: ~17 min measured (REVIVAL-PLAN.md says ~40–50 min and the code docstring "~3–8 min"; the time depends on gateway speed).
+**Typical run times (from TASKS.md):** trends ~80 s · proposals ~2 min 15 s · recipes ~100 s · review 1–3 min · nutrition ~15–20 s · FLUX image ~6 s (0.9 credits). The archive embedding index is built once: ~17 min measured (depends on gateway speed).

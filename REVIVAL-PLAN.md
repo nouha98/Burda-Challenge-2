@@ -62,11 +62,11 @@ which needs a GPU.
 
 ## Status
 
-- 31 tests pass; app tab and CLI work.
+- 38 tests pass; app tab and CLI work.
 - Live runs: two draws on the same trends gave different recipes; the review loop replaced off-trend picks
   (e.g. "Rosenkohl-Eintopf" drawn for Grünkohl) and marked one remaining recipe „Redaktion prüfen“ after the round limit.
 - Image check verified on a known faulty image (Tiramisu with ladyfingers on top → "mismatch" with fix instructions).
-- Images for new recipes (`agents/image_agent.create_image`, CLI) do not yet run the image check; only the revival does.
+- Images for new recipes (`agents/image_agent.create_image`, CLI) now run the same image check as the revival.
 
 ## Limitations
 

@@ -47,6 +47,6 @@ scoring/     trend score, archive match, hybrid search, season, revival, recipe 
 rendering/   A4 recipe cards (template, logo, export)
 storage/     run folders, snapshots
 snapshots/   frozen demo data
-tests/       pytest (31 tests)
+tests/       pytest (38 tests)
 runs/        generated outputs (git-ignored)
 ```

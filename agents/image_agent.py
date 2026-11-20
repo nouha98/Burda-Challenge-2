@@ -273,10 +273,12 @@ def generate_validated(view: dict, path, max_regenerations: int = MAX_REGENERATI
 def create_image(run_id: str, slot: str) -> dict:
     recipe = runs.latest_recipes(run_id)[slot]
     path = image_path(run_id, recipe)
-    info = generate_image(view_from_generated(recipe), path)
+    # Same check as Archiv-Revival: image -> text -> comparison with the recipe, max. one regeneration
+    info = generate_validated(view_from_generated(recipe), path, progress=lambda m: None)
     info = {"slot": slot, "recipe_version": recipe["version"], **info}
     runs.write_json(path.with_suffix(".json"), info)
-    runs.log_event(run_id, "image_ready", f"{slot}: {info['image_model']} image for v{recipe['version']} ({info['seconds']} s)")
+    runs.log_event(run_id, "image_ready", f"{slot}: {info['image_model']} image for v{recipe['version']}, "
+                                          f"check {info['validation']} after {len(info['attempts'])} attempt(s)")
     return info
 
 
