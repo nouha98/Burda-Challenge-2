@@ -1,0 +1,242 @@
+{
+  "recipe_id": "run_20261120_135605_gr-nkohl_A",
+  "slot": "A",
+  "recipe_version": 2,
+  "servings": 2,
+  "source": "Schweizer Nährwertdatenbank – Generische Lebensmittel V 7.1",
+  "basis": "pro 100 g essbarer Anteil",
+  "lines": [
+    {
+      "ingredient_id": "i1",
+      "display": "500 g Grünkohl",
+      "grams": 500,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "13400",
+      "db_name": "Federkohl, roh",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Grünkohl heißt in der Schweiz Federkohl; rohe Zutat -> roh-Eintrag",
+      "contribution": {
+        "kcal": 220.0,
+        "kj": 915.0,
+        "fat_g": 4.5,
+        "carbs_g": 12.5,
+        "protein_g": 21.5
+      }
+    },
+    {
+      "ingredient_id": "i2",
+      "display": "400 g Kartoffeln",
+      "grams": 400,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "813",
+      "db_name": "Kartoffel, geschält, roh",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Mehligkochende Kartoffel entspricht roher Kartoffel; Sortenunterschied wird in der DB nicht geführt",
+      "contribution": {
+        "kcal": 304.0,
+        "kj": 1280.0,
+        "fat_g": 0.4,
+        "carbs_g": 62.4,
+        "protein_g": 8.0
+      }
+    },
+    {
+      "ingredient_id": "i3",
+      "display": "1 Stück Zwiebel",
+      "grams": 80,
+      "conversion_rule": "1 Stück ≈ 80 g (essbarer Anteil, Küchenkonvention)",
+      "conversion_confidence": "medium",
+      "db_id": "368",
+      "db_name": "Zwiebel, roh",
+      "match_type": "exact",
+      "match_confidence": "high",
+      "assumption_de": "Name stimmt mit dem Datenbankeintrag überein",
+      "contribution": {
+        "kcal": 31.2,
+        "kj": 130.4,
+        "fat_g": 0.5,
+        "carbs_g": 5.0,
+        "protein_g": 0.9
+      }
+    },
+    {
+      "ingredient_id": "i4",
+      "display": "250 g Kassler",
+      "grams": 250,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "718",
+      "db_name": "Rollschinken",
+      "match_type": "closest",
+      "match_confidence": "medium",
+      "assumption_de": "Kassler ist gepökeltes, geräuchertes Schweinefleisch; Rollschinken ist der nächstliegende gepökelte/geräucherte Schweinefleisch-Eintrag",
+      "contribution": {
+        "kcal": 452.5,
+        "kj": 1895.0,
+        "fat_g": 26.5,
+        "carbs_g": 3.0,
+        "protein_g": 50.8
+      }
+    },
+    {
+      "ingredient_id": "i5",
+      "display": "2 Stück Pinkel",
+      "grams": 250.0,
+      "conversion_rule": "Gewichtsangabe im Rezept („ca. 250 g; im Fleischfachhandel oder online erhältlich, ersatzweise zusätzlich 250 g Kassler“)",
+      "conversion_confidence": "high",
+      "db_id": "778",
+      "db_name": "Blutwurst",
+      "match_type": "closest",
+      "match_confidence": "low",
+      "assumption_de": "Pinkel (Grützwurst mit Hafer, Speck und Schweinefleisch) ist in der DB nicht enthalten; Blutwurst als körnige Wurst der grobste vertretbare Ersatz",
+      "contribution": {
+        "kcal": 372.5,
+        "kj": 1547.5,
+        "fat_g": 27.2,
+        "carbs_g": 6.2,
+        "protein_g": 25.5
+      }
+    },
+    {
+      "ingredient_id": "i6",
+      "display": "20 g Butterschmalz",
+      "grams": 20,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "50",
+      "db_name": "Bratbutter",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Butterschmalz ist reines Butterfett, identisch mit Bratbutter",
+      "contribution": {
+        "kcal": 177.0,
+        "kj": 728.0,
+        "fat_g": 19.7,
+        "carbs_g": 0.0,
+        "protein_g": 0.0
+      }
+    },
+    {
+      "ingredient_id": "i7",
+      "display": "500 ml Fleischbrühe",
+      "grams": 505.0,
+      "conversion_rule": "500 ml × Dichte 1,01 g/ml (Datenbank)",
+      "conversion_confidence": "high",
+      "db_id": "668",
+      "db_name": "Bouillon, Fleisch, zubereitet",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Fleischbrühe entspricht zubereiteter Fleischbouillon",
+      "contribution": {
+        "kcal": 25.2,
+        "kj": 101.0,
+        "fat_g": 1.5,
+        "carbs_g": 1.0,
+        "protein_g": 1.5
+      }
+    },
+    {
+      "ingredient_id": "i8",
+      "display": "1 Prise Piment",
+      "grams": 0.5,
+      "conversion_rule": "1 Prise ≈ 0,5 g (1 Prise ≈ 0,5 g)",
+      "conversion_confidence": "medium",
+      "db_id": null,
+      "db_name": null,
+      "match_type": "unmatched",
+      "match_confidence": "none",
+      "assumption_de": "Piment hat keinen eigenen Eintrag; als Gewürz in Kleinstmenge wird kein Ersatzgewürz (z. B. Zimt) angesetzt"
+    },
+    {
+      "ingredient_id": "i9",
+      "display": "1 EL mittelscharfer Senf",
+      "grams": 15,
+      "conversion_rule": "1 EL ≈ 15 g (Paste/Creme, gestrichen)",
+      "conversion_confidence": "medium",
+      "db_id": "13464",
+      "db_name": "Senf",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Senf ist als eigener Eintrag vorhanden; Schärfegrad (mittelscharf) wird in der DB nicht unterschieden",
+      "contribution": {
+        "kcal": 18.6,
+        "kj": 77.0,
+        "fat_g": 1.2,
+        "carbs_g": 0.6,
+        "protein_g": 1.1
+      }
+    },
+    {
+      "ingredient_id": "i10",
+      "display": "1 Prise Muskat",
+      "grams": 0.5,
+      "conversion_rule": "1 Prise ≈ 0,5 g (1 Prise ≈ 0,5 g)",
+      "conversion_confidence": "medium",
+      "db_id": null,
+      "db_name": null,
+      "match_type": "unmatched",
+      "match_confidence": "none",
+      "assumption_de": "Muskat hat keinen eigenen Eintrag; als Gewürz in Kleinstmenge wird kein Ersatzlebensmittel (z. B. Nüsse) angesetzt"
+    },
+    {
+      "ingredient_id": "i11",
+      "display": "Salz",
+      "grams": null,
+      "conversion_rule": "nach Geschmack – ohne Mengenangabe, nicht berechnet",
+      "conversion_confidence": "none",
+      "db_id": "14086",
+      "db_name": "Salz, Meersalz, Standard, weiss, ohne zugesetztes Jod und Fluor ",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Standard-Meersalz ohne Jod und Fluor entspricht am ehesten gewöhnlichem Kochsalz"
+    },
+    {
+      "ingredient_id": "i12",
+      "display": "Pfeffer",
+      "grams": null,
+      "conversion_rule": "nach Geschmack – ohne Mengenangabe, nicht berechnet",
+      "conversion_confidence": "none",
+      "db_id": null,
+      "db_name": null,
+      "match_type": "unmatched",
+      "match_confidence": "none",
+      "assumption_de": "Pfeffer hat keinen eigenen Eintrag; Pfefferminze ist ein anderes Gewürz und wird nicht als Ersatz angesetzt"
+    }
+  ],
+  "total": {
+    "kcal": 1601.0,
+    "kj": 6673.8,
+    "fat_g": 81.5,
+    "carbs_g": 90.8,
+    "protein_g": 109.2
+  },
+  "per_serving": {
+    "kcal": 801,
+    "kj": 3337,
+    "fat_g": 40.7,
+    "carbs_g": 45.4,
+    "protein_g": 54.6
+  },
+  "weight_coverage": 1.0,
+  "missing_values": [],
+  "unresolved": [
+    {
+      "display": "1 Prise Piment",
+      "reason": "Piment hat keinen eigenen Eintrag; als Gewürz in Kleinstmenge wird kein Ersatzgewürz (z. B. Zimt) angesetzt",
+      "weight_share": 0.0,
+      "major": false
+    },
+    {
+      "display": "1 Prise Muskat",
+      "reason": "Muskat hat keinen eigenen Eintrag; als Gewürz in Kleinstmenge wird kein Ersatzlebensmittel (z. B. Nüsse) angesetzt",
+      "weight_share": 0.0,
+      "major": false
+    }
+  ],
+  "complete": true,
+  "note_de": "Berechnete Schätzwerte aus der Datenbank, keine Labormessung. Garverluste nicht berücksichtigt; Salz und Pfeffer nach Geschmack nicht eingerechnet."
+}

@@ -1,0 +1,50 @@
+{
+  "file": "01_schweine-rahm-gulasch.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "e8494b5f-0b1f-401f-b367-ea904cb383cc",
+  "seed": 3517857339,
+  "cost_credits": 0.9,
+  "seconds": 6.3,
+  "prompt": "High-angle view of hot creamy pork stew with boiled flour dumplings in a large white serving bowl for four, filling the frame, a serving spoon resting in the food. Bite-sized pork shoulder chunks, about 3–4 cm, with seared medium-brown edges, greyish-brown braised sides and tender, coarse meat grain. Onion wedges very soft and partly collapsed, translucent cream to light golden-brown, glossy with sauce. Red pepper diamond-shaped pieces about 2–3 cm wide, deep tomato-red, slightly wrinkled and glossy, softened but recognisable. Boiled flour dumplings, irregular spoon-cut ovals about 4–5 cm long, opaque ivory-cream with a matte, slightly rough, dimpled surface; one cut open showing a fine, pale cooked crumb. Thick, spoonable reddish-orange cream sauce lightly coats everything. Faint steam, warm light-wood background, bright soft daylight, crisp magazine-cover realism. No garnish, text or people.",
+  "visible_ingredients": [
+    {
+      "name_de": "Schweineschulter",
+      "real_life_appearance": "Bite-sized pork shoulder chunks, about 3–4 cm, roughly 6–8 pieces per portion; seared medium-brown edges remain visible beneath the sauce, with greyish-brown braised sides, irregular cut shapes and a tender, coarse meat grain, not smooth or uniformly coloured like sausage meat."
+    },
+    {
+      "name_de": "Zwiebeln",
+      "real_life_appearance": "Onion wedges cooked for over an hour until very soft and partly collapsed, with about 6–8 visible wedge remnants per portion; translucent cream to light golden-brown strands and curved pieces about 2–4 cm long, slippery and glossy with sauce, never crisp or raw-white."
+    },
+    {
+      "name_de": "Rote Paprikaschoten",
+      "real_life_appearance": "Red pepper diamond-shaped pieces about 2–3 cm wide, roughly 8 pieces per portion; deep tomato-red skin, slightly wrinkled and glossy, softened after braising but still recognisable, with red-orange flesh and no charring."
+    },
+    {
+      "name_de": "Mehlklöße (aus Mehl, Eiern und Milch)",
+      "real_life_appearance": "Boiled flour dumplings, irregular spoon-cut ovals about 4–5 cm long, roughly 5–6 per portion; opaque ivory-cream with a matte, slightly rough, dimpled surface, dense and soft rather than golden, crispy or translucent. A cut dumpling shows a fine, pale cooked crumb."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "created_at": "2026-11-20T16:22:26",
+  "validation": "match",
+  "attempts": [
+    {
+      "attempt": 1,
+      "prompt": "High-angle view of hot creamy pork stew with boiled flour dumplings in a large white serving bowl for four, filling the frame, a serving spoon resting in the food. Bite-sized pork shoulder chunks, about 3–4 cm, with seared medium-brown edges, greyish-brown braised sides and tender, coarse meat grain. Onion wedges very soft and partly collapsed, translucent cream to light golden-brown, glossy with sauce. Red pepper diamond-shaped pieces about 2–3 cm wide, deep tomato-red, slightly wrinkled and glossy, softened but recognisable. Boiled flour dumplings, irregular spoon-cut ovals about 4–5 cm long, opaque ivory-cream with a matte, slightly rough, dimpled surface; one cut open showing a fine, pale cooked crumb. Thick, spoonable reddish-orange cream sauce lightly coats everything. Faint steam, warm light-wood background, bright soft daylight, crisp magazine-cover realism. No garnish, text or people.",
+      "seed": 3517857339,
+      "cost_credits": 0.9,
+      "check": {
+        "verdict": "match",
+        "missing": [],
+        "wrong": [],
+        "extra": [],
+        "summary_de": "Das Bild zeigt ein sämiges Schweine-Rahm-Gulasch mit Fleisch, Paprika, Zwiebeln und den laut Rezept zubereiteten Knödeln, passend zum Gericht.",
+        "fix_instructions_en": "",
+        "image_description": "Das Foto zeigt ein Gulasch-ähnliches Gericht in einer weißen, runden Schüssel. Ein silberner Metalllöffel befindet sich rechts im Gefäß und hebt Teile des Inhalts an.\n\nDie orange-rote, sämige Soße enthält:\n- Mehrere braune, geschmorte Fleischstücke in unregelmäßigen Würfelform (ca. 3–5 cm).\n- Oval geformte, weißliche, gekochte Knödel (ca. 4–6 cm lang); einer ist halbiert, sodass die innere Struktur sichtbar ist.\n- Rote, geschmorte Paprikastücke in quadratischen oder länglichen Schnitten (ca. 2 cm).\n- Gelblich-transparente, geschmorte Zwiebelspalten in bogenförmigen Schnitten.\n\nDie Zutaten sind gleichmäßig in der Soße verteilt. Über dem Gericht ist weißer Wasserdampf sichtbar. Das Gefäß steht auf einer hellbraunen Holzoberfläche. Es sind keine Personen, Hände, Texte oder Bildfehler erkennbar.",
+        "vision_model": "tesseracted-labs-gmbh/google/gemma-4-31B-it",
+        "check_model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+      }
+    }
+  ],
+  "status": "ok"
+}

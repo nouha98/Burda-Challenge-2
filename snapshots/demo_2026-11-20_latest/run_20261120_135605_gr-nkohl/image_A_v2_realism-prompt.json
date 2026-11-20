@@ -1,0 +1,39 @@
+{
+  "slot": "A",
+  "recipe_version": 2,
+  "file": "image_A_v2.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "7efad776-0d7a-4185-8ac5-c7a36d85017d",
+  "seed": 1543602791,
+  "cost_credits": 0.9,
+  "seconds": 6.2,
+  "prompt": "A two-portion kale, potato and smoked-pork stew in a wide, heavy dark enamel casserole. Tangled, tender dark-olive kale ribbons have crinkled, ruffled edges. Soft pale-yellow 3 cm potato chunks sit among them, several crushed into pulp lightly thickening the shallow cloudy brown broth; tiny translucent onion dice remain. Scattered 2 cm cured smoked-pork cubes have patchy browned exteriors and fibrous pale-pink meat, unlike boiled ham. Two 16 cm grey-tan curved sausages with wrinkled casings rest on top; one is cut open, revealing coarse grey-beige filling with visible oat grains and meat and fat flecks. Unstyled home cooking, irregular cuts, no garnish or extras. Natural window side light, 50 mm lens, 35° angle, f/4, sharp dish, softly blurred plain winter wooden-table setting, true colours, square format, centred with space around it. No text, logos, hands or people.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "After about 60 minutes of covered braising, the kale has collapsed into a large tangled mass per portion, with no countable pieces. Irregular folded ribbons and clumps, roughly 2–4 cm wide, are dark olive green with some brown-green areas. The leaves are very soft and moist but retain crinkled surfaces and curled, ruffled edges, distinguishing them from smooth, flat spinach or straight cabbage strips."
+    },
+    {
+      "name_de": "Kartoffeln",
+      "real_life_appearance": "Peeled, irregular chunks of about 3 cm, now pale yellow to beige, fork-tender and slightly rounded at the corners, with moist, matte, mealy surfaces. About 5–7 intact chunks remain visible per portion, while several others have been crushed into coarse starchy pulp among the greens. They are boiled and braised, with no roasted or fried brown crust."
+    },
+    {
+      "name_de": "Kassler",
+      "real_life_appearance": "Approximately 12–15 cubes per portion, cut to about 2 cm and partly submerged. These are pieces of smoked, cured whole-muscle pork: firm and fibrous, with pale pink cured meat inside, greyish beige smoked areas and uneven light-to-medium-brown seared patches outside. The cubes have slightly irregular, softened edges, not the smooth, uniform texture of boiled ham or luncheon meat."
+    },
+    {
+      "name_de": "Pinkel",
+      "real_life_appearance": "One sausage per portion, typically about 15–18 cm long and 2.5–3.5 cm thick, gently curved and slightly uneven. Gentle simmering leaves the casing greyish tan to dull brown, moist and lightly wrinkled, without frying browning; both remain intact rather than burst. A cut cross-section reveals a coarse grey-beige to brownish filling with visible oat grains and irregular small meat and fat particles, distinctly granular rather than the smooth, uniformly pink interior of a frankfurter."
+    },
+    {
+      "name_de": "Zwiebel",
+      "real_life_appearance": "The fine dice have mostly softened and partly disintegrated during braising. Occasional translucent pale-golden to beige pieces, about 2–4 mm, remain visible between the kale and in the broth; they are very soft, not crisp or darkly caramelised, and are too small and numerous to count per portion."
+    },
+    {
+      "name_de": "Fleischbrühe",
+      "real_life_appearance": "The cooking liquid remains as a moderate amount of cloudy light-to-medium brown broth around the base of the stew, sometimes with an olive tint from the greens. Crushed potato makes it lightly thickened and lightly coating rather than clear and watery, but it is not a smooth cream sauce or thick gravy. A few small, irregular fat droplets may sit on the surface."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "created_at": "2026-11-20T14:49:42"
+}

@@ -1,0 +1,144 @@
+{
+  "name": "demo_2026-11-20_latest",
+  "created_at": "2026-11-20T16:44:17",
+  "code_commit": "dbff4ef",
+  "trends_generated_at": "2026-11-20T13:46:55",
+  "wikimedia_window": {
+    "previous": [
+      "2026-11-06",
+      "2026-11-12"
+    ],
+    "latest": [
+      "2026-11-13",
+      "2026-11-19"
+    ]
+  },
+  "proposals_generated_at": "2026-11-20T13:53:35",
+  "proposals": [
+    "P1 Engelsaugen – Omas Lieblingsplätzchen neu entdeckt",
+    "P2 Grünkohl-Saison: deftiger Klassiker und moderne Ideen",
+    "P3 Linzer Augen: Grundrezept und Blech-Variante",
+    "P4 Spitzkohl-Saison: sanft geschmort und überbacken",
+    "P5 Gulasch: Ein Grundrezept, viele Wege"
+  ],
+  "runs": [
+    {
+      "run_id": "run_20261120_135605_gr-nkohl",
+      "proposal": "P2 Grünkohl-Saison: deftiger Klassiker und moderne Ideen",
+      "editor": "cli-test",
+      "status": "image_ready",
+      "recipes": {
+        "A": "v2 Grünkohl-Eintopf mit Pinkel und Kassler (approved)",
+        "B": "v2 Krosser Ofen-Grünkohl mit Kartoffeln und Möhren (approved)"
+      }
+    }
+  ],
+  "revivals": [
+    {
+      "revival_id": "revival_20261120_150829",
+      "seed": null,
+      "items": [
+        "Grünkohl-Gnocchi-Auflauf",
+        "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+        "Filet-Gulasch",
+        "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+        "Italienisches Tiramisu",
+        "Lebkuchen Tiramisu",
+        "Pasta mit Schwarzbier-Wild-Bolognese",
+        "Bananen-Weihnachtstraum",
+        "Bratapfel-Lebkuchen-Smoothie",
+        "Fischfilet mit Spitzkohl"
+      ],
+      "images": 0
+    },
+    {
+      "revival_id": "revival_20261120_151646",
+      "seed": null,
+      "items": [
+        "Grünkohl-Gnocchi-Auflauf",
+        "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+        "Filet-Gulasch",
+        "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+        "Italienisches Tiramisu",
+        "Lebkuchen Tiramisu",
+        "Pasta mit Schwarzbier-Wild-Bolognese",
+        "Bananen-Weihnachtstraum",
+        "Bratapfel-Lebkuchen-Smoothie",
+        "Fischfilet mit Spitzkohl"
+      ],
+      "images": 2
+    },
+    {
+      "revival_id": "revival_20261120_155907",
+      "seed": null,
+      "items": [
+        "Italienisches Tiramisu",
+        "Lebkuchen mit Zuckerguss",
+        "Winter-Minestrone mit Grünkohl",
+        "Rosenkohl-Risotto",
+        "Vanillekipferl"
+      ],
+      "images": 2
+    },
+    {
+      "revival_id": "revival_20261120_162027",
+      "seed": null,
+      "items": [
+        "Schweine-Rahm-Gulasch",
+        "Winter-Minestrone mit Grünkohl",
+        "Rosenkohl-Risotto",
+        "Italienisches Tiramisu",
+        "Lebkuchen mit Zuckerguss"
+      ],
+      "images": 2
+    },
+    {
+      "revival_id": "revival_20261120_162851",
+      "seed": 3483016102,
+      "items": [
+        "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+        "Grünkohl Quiche",
+        "Vegetarischer Grünkohl",
+        "Quitten-Wildgulasch",
+        "Weißkohl-Gulasch",
+        "Szegediner Gulasch",
+        "Lebkuchen Tiramisu",
+        "Lebkuchen-Tiramisu zu Weihnachten",
+        "Italienisches Tiramisu"
+      ],
+      "images": 0
+    },
+    {
+      "revival_id": "revival_20261120_162955",
+      "seed": 1210189959,
+      "items": [
+        "Grünkohl Quiche",
+        "Vegetarischer Grünkohl",
+        "Grünkohl-Gratin mit Rösti-Kruste",
+        "Quitten-Wildgulasch",
+        "Schweine-Rahm-Gulasch",
+        "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+        "Lebkuchen Tiramisu",
+        "Spekulatius-Tiramisu-Schnitten",
+        "Spekulatius-Apfel-Tiramisu"
+      ],
+      "images": 0
+    },
+    {
+      "revival_id": "revival_20261120_163131",
+      "seed": 3577343258,
+      "items": [
+        "Winter-Minestrone mit Grünkohl",
+        "Grünkohl Quiche",
+        "Grünkohlpfanne",
+        "Weißkohl-Gulasch",
+        "Filet-Gulasch",
+        "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+        "Tiramisu mit Lebkuchen",
+        "Tiramisu mit Granatapfelkernen",
+        "Lebkuchen-Tiramisu mit Mandarinen"
+      ],
+      "images": 0
+    }
+  ]
+}

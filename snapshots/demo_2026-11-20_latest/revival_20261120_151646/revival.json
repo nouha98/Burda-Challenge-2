@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-11-20T15:16:46",
+  "season_context": {
+    "date": "2026-11-20",
+    "season": "Herbst",
+    "weights": {
+      "Herbst": 1.0,
+      "Winter": 1.0,
+      "Advent": 1.0,
+      "Weihnachten": 1.0,
+      "Geschenke aus der Küche": 0.6,
+      "Silvester/ Neujahr": 0.3
+    },
+    "off_season": [
+      "Eis",
+      "Frühling",
+      "Grillen",
+      "Grillparty/ BBQ",
+      "Ostern",
+      "Sommer",
+      "Sommerparty"
+    ],
+    "trend_christmas_share": 0.23,
+    "reason": "Datum 20.11.2026: Herbst, Advent ab 29.11.; 23% der steigenden Trend-Punkte sind Weihnachtsspezialitäten",
+    "trends_generated_at": "2026-11-20T13:46:55",
+    "rising_trends": 50
+  },
+  "method": {
+    "score": "100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
+    "trend_relevance": "trend score T/100 × match strength (title 1.0, ingredient 0.4)",
+    "season_fit": "best matching current label weight; 0.4 without season label; 0 if only off-season labels",
+    "diversity": "max. 2 recipes per trend; publication date ignored"
+  },
+  "limitations": [
+    "Archive = 5,000-recipe sample of 81,798; category labels exist for 3,354 recipes.",
+    "Matching is lexical (title/ingredient names), not semantic.",
+    "Images are AI illustrations of archive recipes; the export contains no original photos."
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "recipe_id": "doc8894f1dit1ly0hw9ctv",
+      "title": "Grünkohl-Gnocchi-Auflauf",
+      "category": "Pasta und Nudelgerichte",
+      "date_imported": "2026-10-30",
+      "labels": [
+        "Backen/ Backofen",
+        "Familie",
+        "Winter"
+      ],
+      "trend": "Grünkohl",
+      "trend_T": 80.4,
+      "match": "title",
+      "trend_relevance": 0.804,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 89.2,
+      "file_stem": "01_gr-nkohl-gnocchi-auflauf",
+      "image": "01_gr-nkohl-gnocchi-auflauf.jpg",
+      "image_error": null,
+      "card": "01_gr-nkohl-gnocchi-auflauf.html"
+    },
+    {
+      "rank": 2,
+      "recipe_id": "doc82xd5x9k6k61n102sjp7",
+      "title": "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+      "category": "Salate",
+      "date_imported": "2025-10-22",
+      "labels": [
+        "Saison",
+        "Salat/ Bowl",
+        "Winter"
+      ],
+      "trend": "Grünkohl",
+      "trend_T": 80.4,
+      "match": "title",
+      "trend_relevance": 0.804,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 89.2,
+      "file_stem": "02_gr-nkohlsalat-mit-grapefruit-u",
+      "image": "02_gr-nkohlsalat-mit-grapefruit-u.jpg",
+      "image_error": null,
+      "card": "02_gr-nkohlsalat-mit-grapefruit-u.html"
+    },
+    {
+      "rank": 3,
+      "recipe_id": "doc849bil1f8ow1bfefb9w4",
+      "title": "Filet-Gulasch",
+      "category": "Fleisch und Geflügel",
+      "date_imported": "2026-01-23",
+      "labels": [
+        "Herzhaft",
+        "Kalorienarm (unter 500 kcal/ Portion)",
+        "Winter"
+      ],
+      "trend": "Gulasch",
+      "trend_T": 79.4,
+      "match": "title",
+      "trend_relevance": 0.794,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 88.7,
+      "file_stem": "03_filet-gulasch",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "03_filet-gulasch.html"
+    },
+    {
+      "rank": 4,
+      "recipe_id": "doc838w1a8sz6cy6exq18w2",
+      "title": "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+      "category": "Fleisch und Geflügel",
+      "date_imported": "2025-11-13",
+      "labels": [
+        "Hüttenküche",
+        "Winter",
+        "laktosefrei"
+      ],
+      "trend": "Gulasch",
+      "trend_T": 79.4,
+      "match": "title",
+      "trend_relevance": 0.794,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 88.7,
+      "file_stem": "04_pilzgulasch-mit-perlzwiebeln-i",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "04_pilzgulasch-mit-perlzwiebeln-i.html"
+    },
+    {
+      "rank": 5,
+      "recipe_id": "doc88asjcvvmp517s66zc39",
+      "title": "Italienisches Tiramisu",
+      "category": "Desserts und Süßspeisen",
+      "date_imported": "2026-11-02",
+      "labels": [
+        "Dessert/ Nachtisch",
+        "Italien",
+        "Weihnachten"
+      ],
+      "trend": "Tiramisu",
+      "trend_T": 77.3,
+      "match": "title",
+      "trend_relevance": 0.773,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 87.5,
+      "file_stem": "05_italienisches-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "05_italienisches-tiramisu.html"
+    },
+    {
+      "rank": 6,
+      "recipe_id": "doc835cd7gsi34b88w43yk",
+      "title": "Lebkuchen Tiramisu",
+      "category": "Weihnachten",
+      "date_imported": "2025-11-06",
+      "labels": [
+        "Einfach",
+        "Süß"
+      ],
+      "trend": "Tiramisu",
+      "trend_T": 77.3,
+      "match": "title",
+      "trend_relevance": 0.773,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 87.5,
+      "file_stem": "06_lebkuchen-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "06_lebkuchen-tiramisu.html"
+    },
+    {
+      "rank": 7,
+      "recipe_id": "doc86q93hkq11ws385usep",
+      "title": "Pasta mit Schwarzbier-Wild-Bolognese",
+      "category": "Pasta und Nudelgerichte",
+      "date_imported": "2026-07-15",
+      "labels": [
+        "Besonderes",
+        "Familie",
+        "Herbst"
+      ],
+      "trend": "Bolognese",
+      "trend_T": 73.5,
+      "match": "title",
+      "trend_relevance": 0.735,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Herbst"
+      ],
+      "completeness": 1.0,
+      "score": 85.4,
+      "file_stem": "07_pasta-mit-schwarzbier-wild-bol",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "07_pasta-mit-schwarzbier-wild-bol.html"
+    },
+    {
+      "rank": 8,
+      "recipe_id": "doc7jxo3i6u94w1jhtsg9n1",
+      "title": "Bananen-Weihnachtstraum",
+      "category": "Weihnachten",
+      "date_imported": "2022-03-01",
+      "labels": [
+        "Backen/ Backofen",
+        "Süß",
+        "Torte"
+      ],
+      "trend": "Lebkuchen",
+      "trend_T": 73.1,
+      "match": "title",
+      "trend_relevance": 0.731,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 85.2,
+      "file_stem": "08_bananen-weihnachtstraum",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "08_bananen-weihnachtstraum.html"
+    },
+    {
+      "rank": 9,
+      "recipe_id": "doc7imxx7f82dkrbbv666y",
+      "title": "Bratapfel-Lebkuchen-Smoothie",
+      "category": "Weihnachten",
+      "date_imported": "2021-11-30",
+      "labels": [
+        "Getränk",
+        "Süß",
+        "Weihnachten"
+      ],
+      "trend": "Lebkuchen",
+      "trend_T": 73.1,
+      "match": "title",
+      "trend_relevance": 0.731,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 85.2,
+      "file_stem": "09_bratapfel-lebkuchen-smoothie",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "09_bratapfel-lebkuchen-smoothie.html"
+    },
+    {
+      "rank": 10,
+      "recipe_id": "doc7k9f4y7oh77nxcisrb",
+      "title": "Fischfilet mit Spitzkohl",
+      "category": "Fisch und Meeresfrüchte",
+      "date_imported": "2022-03-24",
+      "labels": [
+        "Familie",
+        "Für Kinder",
+        "Hauptgericht",
+        "Mittel",
+        "Schnell/ schnelle Küche  (unter 30 Minuten)",
+        "Winter"
+      ],
+      "trend": "Spitzkohl",
+      "trend_T": 71.6,
+      "match": "title",
+      "trend_relevance": 0.716,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 84.4,
+      "file_stem": "10_fischfilet-mit-spitzkohl",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "10_fischfilet-mit-spitzkohl.html"
+    }
+  ]
+}

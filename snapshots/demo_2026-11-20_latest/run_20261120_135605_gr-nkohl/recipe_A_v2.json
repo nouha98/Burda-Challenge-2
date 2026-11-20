@@ -1,0 +1,237 @@
+{
+  "recipe_id": "run_20261120_135605_gr-nkohl_A",
+  "slot": "A",
+  "version": 2,
+  "proposal_id": "P2",
+  "language": "de",
+  "title": "Grünkohl-Eintopf mit Pinkel und Kassler",
+  "subtitle": "Der deftige Winterklassiker mit Kartoffeln, Senf und einer Spur Piment",
+  "introduction": "Wenn es draußen kalt wird, darf es im Topf gern kräftig zugehen: Grünkohl schmort hier mit Kartoffeln und Kassler in Fleischbrühe, die Pinkel garen in der letzten halben Stunde mit. Senf, Piment und Muskat runden den herzhaften Eintopf ab – ein richtig schönes Winteressen für zwei.",
+  "servings": 2,
+  "servings_unit": "Portionen",
+  "times": {
+    "prep_minutes": 20,
+    "cook_minutes": 75,
+    "total_minutes": 95
+  },
+  "ingredients": [
+    {
+      "id": "i1",
+      "group": null,
+      "name": "Grünkohl",
+      "quantity": 500,
+      "unit": "g",
+      "note": "geputzt, ohne dicke Blattrippen",
+      "optional": false
+    },
+    {
+      "id": "i2",
+      "group": null,
+      "name": "Kartoffeln",
+      "quantity": 400,
+      "unit": "g",
+      "note": "mehligkochend",
+      "optional": false
+    },
+    {
+      "id": "i3",
+      "group": null,
+      "name": "Zwiebel",
+      "quantity": 1,
+      "unit": "Stück",
+      "note": "mittelgroß",
+      "optional": false
+    },
+    {
+      "id": "i4",
+      "group": null,
+      "name": "Kassler",
+      "quantity": 250,
+      "unit": "g",
+      "note": "am Stück",
+      "optional": false
+    },
+    {
+      "id": "i5",
+      "group": null,
+      "name": "Pinkel",
+      "quantity": 2,
+      "unit": "Stück",
+      "note": "ca. 250 g; im Fleischfachhandel oder online erhältlich, ersatzweise zusätzlich 250 g Kassler",
+      "optional": false
+    },
+    {
+      "id": "i6",
+      "group": null,
+      "name": "Butterschmalz",
+      "quantity": 20,
+      "unit": "g",
+      "note": null,
+      "optional": false
+    },
+    {
+      "id": "i7",
+      "group": null,
+      "name": "Fleischbrühe",
+      "quantity": 500,
+      "unit": "ml",
+      "note": null,
+      "optional": false
+    },
+    {
+      "id": "i8",
+      "group": null,
+      "name": "Piment",
+      "quantity": 1,
+      "unit": "Prise",
+      "note": "gemahlen",
+      "optional": false
+    },
+    {
+      "id": "i9",
+      "group": null,
+      "name": "mittelscharfer Senf",
+      "quantity": 1,
+      "unit": "EL",
+      "note": null,
+      "optional": false
+    },
+    {
+      "id": "i10",
+      "group": null,
+      "name": "Muskat",
+      "quantity": 1,
+      "unit": "Prise",
+      "note": "frisch gerieben",
+      "optional": false
+    },
+    {
+      "id": "i11",
+      "group": null,
+      "name": "Salz",
+      "quantity": null,
+      "unit": null,
+      "note": null,
+      "optional": false
+    },
+    {
+      "id": "i12",
+      "group": null,
+      "name": "Pfeffer",
+      "quantity": null,
+      "unit": null,
+      "note": "frisch gemahlen",
+      "optional": false
+    }
+  ],
+  "steps": [
+    {
+      "number": 1,
+      "group": null,
+      "text": "Grünkohl waschen und die Blätter in breite Streifen schneiden. Kartoffeln schälen und in etwa 3 cm große Stücke schneiden. Zwiebel schälen und fein würfeln. Kassler in etwa 2 cm große Würfel schneiden.",
+      "uses": [],
+      "duration_minutes": 20,
+      "temperature": null
+    },
+    {
+      "number": 2,
+      "group": null,
+      "text": "Butterschmalz in einem großen, schweren Topf erhitzen. Kassler darin bei mittlerer Hitze rundherum 4–5 Minuten anbraten. Zwiebel zugeben und weitere 2 Minuten mitdünsten.",
+      "uses": [
+        {
+          "ingredient_id": "i6",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "ingredient_id": "i4",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient_id": "i3",
+          "quantity": 1,
+          "unit": "Stück"
+        }
+      ],
+      "duration_minutes": 7,
+      "temperature": null
+    },
+    {
+      "number": 3,
+      "group": null,
+      "text": "Grünkohl portionsweise in den Topf geben und jeweils kurz zusammenfallen lassen. Mit Fleischbrühe ablöschen, Piment einrühren und alles aufkochen. Zugedeckt bei schwacher Hitze 30 Minuten schmoren, dabei gelegentlich umrühren.",
+      "uses": [
+        {
+          "ingredient_id": "i1",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient_id": "i7",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "ingredient_id": "i8",
+          "quantity": 1,
+          "unit": "Prise"
+        }
+      ],
+      "duration_minutes": 35,
+      "temperature": null
+    },
+    {
+      "number": 4,
+      "group": null,
+      "text": "Kartoffeln unterrühren und die Pinkel zwischen Grünkohl und Kartoffeln legen. Zugedeckt bei schwacher Hitze weitere 30 Minuten sanft ziehen lassen, bis die Kartoffeln weich, der Grünkohl zart und die Pinkel durchgegart sind. Nicht kräftig kochen lassen, damit die Pinkel nicht platzen (Packungshinweis zur Garzeit ergänzend beachten).",
+      "uses": [
+        {
+          "ingredient_id": "i2",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient_id": "i5",
+          "quantity": 2,
+          "unit": "Stück"
+        }
+      ],
+      "duration_minutes": 30,
+      "temperature": null
+    },
+    {
+      "number": 5,
+      "group": null,
+      "text": "Pinkel herausnehmen. Senf und Muskat in den Eintopf rühren und wegen des salzigen Fleischs erst jetzt vorsichtig mit Salz und Pfeffer abschmecken. Für eine sämigere Konsistenz einige Kartoffelstücke im Topf zerdrücken. Pinkel zurück in den Topf legen und alles noch 3 Minuten bei schwacher Hitze heiß werden lassen.",
+      "uses": [
+        {
+          "ingredient_id": "i9",
+          "quantity": 1,
+          "unit": "EL"
+        },
+        {
+          "ingredient_id": "i10",
+          "quantity": 1,
+          "unit": "Prise"
+        },
+        {
+          "ingredient_id": "i11",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "ingredient_id": "i12",
+          "quantity": null,
+          "unit": null
+        }
+      ],
+      "duration_minutes": 3,
+      "temperature": null
+    }
+  ],
+  "serving_tip": "Der Eintopf lässt sich gut am Vortag zubereiten. Beim Aufwärmen nur langsam erhitzen und gelegentlich vorsichtig umrühren, damit die Pinkel nicht platzen.",
+  "status": "approved",
+  "model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "origin": "revision"
+}

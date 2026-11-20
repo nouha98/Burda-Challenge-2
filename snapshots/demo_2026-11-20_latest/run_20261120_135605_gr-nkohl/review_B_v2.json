@@ -1,0 +1,77 @@
+{
+  "slot": "B",
+  "version": 2,
+  "verdict": "pass",
+  "score_total": 90.0,
+  "scores": {
+    "culinary_plausibility": 27.0,
+    "consistency": 22.0,
+    "brand_fit": 18.0,
+    "clarity": 14.0,
+    "differentiation": 9.0
+  },
+  "pass_rule": "no critical/major issues and score ≥ 85/100; minor findings on the first draft trigger one polishing revision",
+  "code_findings": [],
+  "llm_issues": [
+    {
+      "severity": "minor",
+      "field": "times.total_minutes",
+      "problem_de": "Die Zeitangaben passen nicht zusammen: prep_minutes 20 + cook_minutes 45 ergeben 65 Minuten, angegeben sind aber total_minutes 60.",
+      "fix_de": "Entweder total_minutes auf 65 setzen oder cook_minutes auf 40–42 Minuten korrigieren (30 Min. Rösten + 12 Min. Grünkohlphase) und total_minutes bei 60 belassen.",
+      "criterion": 6,
+      "source": "review_agent"
+    },
+    {
+      "severity": "minor",
+      "field": "steps.4",
+      "problem_de": "1 EL Öl für 300 g Grünkohl (nach dem Entrippen ca. 200–250 g Blätter) ist sehr knapp – nicht alle Blätter werden benetzt, unbedeckte Blätter trocknen eher aus oder werden bitter statt kross.",
+      "fix_de": "Grünkohl mit 1,5–2 EL Öl mischen und das Öl in der Schüssel gründlich einmassieren; Gesamtmenge in der Zutatenliste entsprechend auf 3,5–4 EL anpassen. Alternativ die Blätter vor dem Mischen halbieren, damit sie flacher aufliegen.",
+      "criterion": 3,
+      "source": "review_agent"
+    }
+  ],
+  "criteria": [
+    {
+      "no": 1,
+      "pass": true,
+      "comment_de": "Titel und Untertitel treffen das Gericht exakt: Ofen-Blechgericht mit krossem Grünkohl, Kartoffeln, Möhren und Schmand-Dip."
+    },
+    {
+      "no": 2,
+      "pass": true,
+      "comment_de": "Keine Zwischenüberschriften nötig, die fünf Schritte sind selbsterklärend strukturiert."
+    },
+    {
+      "no": 3,
+      "pass": true,
+      "comment_de": "850 g Wurzelgemüse + 300 g Grünkohl für 2 Portionen ist großzügig, aber als sättigendes Blechgericht plausibel (Grünkohl verliert beim Rösten stark an Volumen)."
+    },
+    {
+      "no": 4,
+      "pass": true,
+      "comment_de": "Alle Zutaten haben Mengen; Salz und Pfeffer sind korrekt ohne Angabe."
+    },
+    {
+      "no": 5,
+      "pass": true,
+      "comment_de": "Alle elf Zutaten werden in den Schritten verwendet, inkl. Salz und Pfeffer in Schritten 1, 3 und 4."
+    },
+    {
+      "no": 6,
+      "pass": true,
+      "comment_de": "Öl korrekt aufgeteilt: 2 EL in Schritt 1 + 1 EL in Schritt 4 = 3 EL in der Liste. Einheiten durchgängig konsistent."
+    },
+    {
+      "no": 7,
+      "pass": true,
+      "comment_de": "EL und TL werden korrekt unterschieden und verrechnet (1 TL Paprikapulver, 2 TL Meerrettich, 1 TL Zitronensaft)."
+    },
+    {
+      "no": 8,
+      "pass": true,
+      "comment_de": "Backofen wird zuerst vorgeheizt, Grünkohl- und Schmandzubereitung liegen sinnvoll in der 30-minütigen Röstzeit."
+    }
+  ],
+  "summary_de": "Ein sauber aufgebautes, saisonales Ofen-Blechgericht mit kurzer Zutatenliste, das genau zur Zielgruppe passt und sich klar vom Grünkohl-Eintopf mit Pinkel und Kassler sowie von den Archivrezepten abgrenzt. Zu korrigieren sind nur die unstimmige Gesamtzeit und die knappe Ölmenge für den Grünkohl.",
+  "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+}

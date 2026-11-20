@@ -1,0 +1,66 @@
+{
+  "file": "02_winter-minestrone-mit-gr-nkohl.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "8c979e48-3f51-42f1-ae29-e6c91f334030",
+  "seed": 3456936188,
+  "cost_credits": 0.9,
+  "seconds": 6.3,
+  "prompt": "High-angle view (about 65°) of a hearty winter vegetable soup in a large white serving bowl, a ladle resting in it, the bowl's edges cut off by the frame. Warm medium-brown broth with golden olive-oil sheen, filled generously, faint steam. Dark olive-green wilted kale pieces with curled edges dispersed throughout; best beans, sausage coins and kale face the camera. Large creamy-white oval beans, slightly wrinkled skins, a few split. Thin coins of dark reddish-brown smoked dried sausage with fine white fat specks, firm edges. Small soft orange carrot dice, pale yellow-green celery cubes and translucent golden onion dice. Finely grated pale straw-yellow parmesan sprinkled on top, melting slightly. Bright soft natural daylight, crisp detail, true-to-life colours, warm palette of brown, golden, cream and small red accents, light warm wood background, linen napkin edge partly in frame, professional magazine cover photo.",
+  "visible_ingredients": [
+    {
+      "name_de": "Zwiebeln",
+      "real_life_appearance": "Fein gewürfelt, etwa 0,7 cm Würfel; nach 8–10 Min. Andünsten im Öl und 10 Min. Köcheln völlig weich und glasig-durchscheinend mit abgerundeten Kanten, blass gold Creme; ca. 25–30 kleine weiche Würfel pro Portion, die in der Brühe verteilt sind."
+    },
+    {
+      "name_de": "Möhren",
+      "real_life_appearance": "Geschält, fein gewürfelt etwa 0,8 cm; nach dem Schmoren und 10 Min. Köcheln weich, aber formstabil; Farbe ein leicht gemildertes, warmes Orange, nicht leuchtend; ca. 25–35 Würfel pro Portion."
+    },
+    {
+      "name_de": "Staudenssellerie",
+      "real_life_appearance": "Gewürfelt etwa 0,8 cm; blass gelbgrün mit feinen Fasersträngen an den Kanten; nach dem Schmoren weich und leicht glasig; ca. 15–20 Stück pro Portion."
+    },
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "Blätter ohne Strunk, 2–3 Min. blanchiert, ausgedrückt und in kleine Stücke gezupft (etwa 2–4 cm, unregelmäßig und zusammengedrückt), am Ende nur kurz aufgekocht: dunkles Olivgrün bis sattes Dunkelgrün – dunkler als roher Grünkohl, aber NICHT fast schwarz wie stundenlang geschmorter Grünkohl; welk, weich, runzelige krause Ränder; das mengenmäßig häufigeste feste Element, viele Stücke pro Portion."
+    },
+    {
+      "name_de": "Große weiße Bohnen (Dose)",
+      "real_life_appearance": "Große cremeweiße, ovale Bohnen (Cannellini-Art), etwa 2 cm lang und 1 cm breit, größer als Navy-Bohnen; nach 10 Min. Köcheln prall und weich, Haut etwas locker und runzelig, einzelne Bohnen aufgeplatzt mit mehlig-weißem Innerem; etwa 10–12 sichtbare Bohnen pro Portion."
+    },
+    {
+      "name_de": "Cabanossi",
+      "real_life_appearance": "Dünne (ca. 2 cm Durchmesser), feste, geräucherte Lufttrockenwurst, in ca. 5 mm dicke Scheiben geschnitten; Oberfläche/Je dunkel rotbraun bis mahagonifarbene Pökelhaut, Inneres feinkörnig, ziegelrot mit winzigen weißen Fettstippen; nach dem Köcheln bleiben die Scheiben dicht und stabil, Rand minimal aufgehellt, das Rauchfett gibt der Brühe kleine rötliche Öltropfen – NICHT ein glatter, heller Wiener, NICHT grobe Salami; ca. 8–10 Scheiben pro Portion."
+    },
+    {
+      "name_de": "Gemüsebrühe mit Olivenöl",
+      "real_life_appearance": "Ca. 1,5 l anspruchsvolle klare Gemüsebrühe, durch das geschmorte Gemüse und Wurstfett zu einem warmen mittleren Braun-Bernstein geworden, leicht getrübt vom Grünkohl und den Bohnen; Oberfläche mit feinen goldenen Olivenöltröpfchen und leichtem Glanz; löffelfähige Suppenkonsistenz, nicht angedickt."
+    },
+    {
+      "name_de": "Geriebener Parmesan",
+      "real_life_appearance": "2 EL fein geriebener Parmesan: kurze, krümelige, blass strohgelbe Späne, leicht zusammengeklumpt, auf die heiße Oberfläche gestreut, wo sie zu weichen, schmelzenden Punkten anfangen sich aufzulösen."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/zai-org/GLM-5.3",
+  "created_at": "2026-11-20T16:24:27",
+  "validation": "match",
+  "attempts": [
+    {
+      "attempt": 1,
+      "prompt": "High-angle view (about 65°) of a hearty winter vegetable soup in a large white serving bowl, a ladle resting in it, the bowl's edges cut off by the frame. Warm medium-brown broth with golden olive-oil sheen, filled generously, faint steam. Dark olive-green wilted kale pieces with curled edges dispersed throughout; best beans, sausage coins and kale face the camera. Large creamy-white oval beans, slightly wrinkled skins, a few split. Thin coins of dark reddish-brown smoked dried sausage with fine white fat specks, firm edges. Small soft orange carrot dice, pale yellow-green celery cubes and translucent golden onion dice. Finely grated pale straw-yellow parmesan sprinkled on top, melting slightly. Bright soft natural daylight, crisp detail, true-to-life colours, warm palette of brown, golden, cream and small red accents, light warm wood background, linen napkin edge partly in frame, professional magazine cover photo.",
+      "seed": 3456936188,
+      "cost_credits": 0.9,
+      "check": {
+        "verdict": "match",
+        "missing": [],
+        "wrong": [],
+        "extra": [],
+        "summary_de": "Die Suppe zeigt alle wesentlichen sichtbaren Komponenten des Rezepts – Grünkohl, weiße Bohnen, Möhren-, Selleriewürfel, Wurstscheiben und geriebenen Parmesan in gelbgrüner Brühe; die als Chorizo beschriebenen Scheiben entsprechen optisch der Cabanossi, daher passt das Bild.",
+        "fix_instructions_en": "",
+        "image_description": "Das Foto zeigt eine Gemüsesuppe in einer weißen, runden Schüssel. Eine silberfarbene Metallkelle schöpft Teile des Inhalts nach oben. Die gelbgrüne, flüssige Brühe enthält folgende Zutaten:\n\n- **Chorizo:** Dunkelrote, kreisrunde Scheiben, gebraten/gekocht, verteilt in der Suppe und in der Kelle.\n- **Weiße Bohnen:** Ganze, ovale, weißlich-beige Bohnen, verteilt in der Suppe und in der Kelle.\n- **Grünkohl:** Dunkelgrüne, krause Blattstücke, gekocht, obenauf und im Inneren.\n- **Karotten:** Orangefarbene, kleine Würfel, gekocht, verteilt im Inneren.\n- **Staudensellerie/Kohlrabi:** Hellgrüne bis gelbliche, kleine Würfel, gekocht, verteilt im Inneren.\n- **Käse:** Weißer, fein geriebener Käse, als Streusel über dem Grünkohl und den Wurstscheiben verteilt.\n\nÜber der Schüssel ist weißer Wasserdampf sichtbar. Das Gefäß steht auf einer Holzoberfläche; links liegt ein beiges Stofftuch. Keine Personen, Hände oder Text sichtbar.",
+        "vision_model": "tesseracted-labs-gmbh/google/gemma-4-31B-it",
+        "check_model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+      }
+    }
+  ],
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "slot": "A",
+  "recipe_version": 2,
+  "file": "image_A_v2.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "9ed0d947-76f6-41a4-9741-72bfeafd6416",
+  "seed": 3810209115,
+  "cost_credits": 0.9,
+  "seconds": 6.2,
+  "prompt": "High-angle view of a hearty kale stew for two in the cream-white enamel pot it was cooked in, on a light wooden table, a wooden serving spoon resting in it. Very dark olive, almost black-green braised kale in soft wide ribbons, silky, glistening with fat, bound in a thick, creamy brownish-green sauce from crushed potato, with soft golden onion bits. Soft cream-coloured potato chunks about 3 cm, edges slightly broken, hold their shape. On top: two plump curved groat sausages with smooth thin grey-beige casings, one halved open to show its coarse, crumbly grey-beige filling with visible oat groats and tiny white fat specks; cubes of smoked cured pork loin, pale pink with a golden-brown seared crust; gentle steam and a soft satiny sheen. Bright soft daylight, true colours, food fills the frame. No text, no people.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "Cut into wide strips and braised covered for a full hour: very dark olive green to almost black-green, completely wilted, soft and silky leaves with a light sheen of rendered fat, no crispness left; far darker than fresh curly kale."
+    },
+    {
+      "name_de": "Kartoffeln",
+      "real_life_appearance": "Peeled, roughly 3 cm chunks simmered in the pot for 30 minutes until soft: cream to pale yellow, edges slightly rounded and broken from stirring, chunks mostly hold their shape; a few pieces deliberately crushed and melting into the liquid to bind it."
+    },
+    {
+      "name_de": "Zwiebel",
+      "real_life_appearance": "Finely diced, sautéed golden in clarified butter, then braised for about an hour: fully soft, translucent, pale golden-brown, almost entirely melted into the sauce, visible only as small tender golden flecks."
+    },
+    {
+      "name_de": "Kassler",
+      "real_life_appearance": "Smoked, cured pork loin in about 2 cm cubes (roughly 10–12 cubes for 250 g), seared 4–5 minutes on all sides: pale pink cured meat with a golden-brown seared crust and a thin smoky-brown rim; firm and shape-holding after braising, unlike soft boiled ham."
+    },
+    {
+      "name_de": "Pinkel",
+      "real_life_appearance": "Two plump, gently bent sausages about 3–4 cm thick, simmered whole and carefully kept unburst: smooth, thin, pale greyish-brown casing (cooked-soup-sausage colour, not a red smoked skin); interior soft, coarse and grainy, grey-beige with visible oat groats and small white flecks of fat, crumbly like a groat-stuffed sausage, never smooth like a frankfurter."
+    },
+    {
+      "name_de": "Fleischbrühe",
+      "real_life_appearance": "Simmered down together with the crushed potatoes and kale into a thick, spoonable, murky brownish-green sauce that coats all components; no free watery liquid."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/zai-org/GLM-5.3",
+  "created_at": "2026-11-20T15:16:29"
+}

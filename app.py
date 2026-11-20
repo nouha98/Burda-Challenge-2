@@ -62,11 +62,16 @@ with st.sidebar:
         else:
             snap = st.selectbox("Snapshot", snaps, format_func=lambda m: m["name"])
             st.caption(f"Trends {snap['trends_generated_at']} · Vorschläge {snap['proposals_generated_at']} · "
-                       + ", ".join(r["proposal"].split(" ")[0] + " → " + r["status"] for r in snap["runs"]))
+                       + ", ".join(r["proposal"].split(" ")[0] + " → " + r["status"] for r in snap["runs"])
+                       + (f" · {len(snap.get('revivals', []))} Archiv-Revival-Ergebnisse" if snap.get("revivals") else ""))
             if st.button("Snapshot laden", help="Lädt feste Demo-Daten. Aktuelle Dateien werden vorher gesichert."):
                 res = snapshot.restore(snap["name"])
-                if res["restored_runs"]:
-                    st.session_state.run_id = res["restored_runs"][0]
+                editorial = [r for r in res["restored_runs"] if r.startswith("run_")]
+                revivals = sorted(r for r in res["restored_runs"] if r.startswith("revival_"))
+                if editorial:
+                    st.session_state.run_id = editorial[0]
+                if revivals:
+                    st.session_state.revival = revivals[-1]
                 st.rerun()
 
 run_id = st.session_state.run_id

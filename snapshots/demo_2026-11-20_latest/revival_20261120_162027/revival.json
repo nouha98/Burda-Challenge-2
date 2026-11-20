@@ -1,0 +1,813 @@
+{
+  "generated_at": "2026-11-20T16:24:43",
+  "season_context": {
+    "date": "2026-11-20",
+    "season": "Herbst",
+    "weights": {
+      "Herbst": 1.0,
+      "Winter": 1.0,
+      "Advent": 1.0,
+      "Weihnachten": 1.0,
+      "Geschenke aus der Küche": 0.6,
+      "Silvester/ Neujahr": 0.3
+    },
+    "off_season": [
+      "Eis",
+      "Frühling",
+      "Grillen",
+      "Grillparty/ BBQ",
+      "Ostern",
+      "Sommer",
+      "Sommerparty"
+    ],
+    "trend_christmas_share": 0.23,
+    "reason": "Datum 20.11.2026: Herbst, Advent ab 29.11.; 23% der steigenden Trend-Punkte sind Weihnachtsspezialitäten",
+    "trends_generated_at": "2026-11-20T13:46:55",
+    "rising_trends": 50,
+    "retrieval": "hybrid (embeddings + title/ingredient)"
+  },
+  "method": {
+    "pipeline": "retrieval per trend → selector agent → review agent (max. 2 correction rounds) → FLUX image → vision check → cards",
+    "retrieval": "hybrid (embeddings + title/ingredient)",
+    "score": "100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
+    "trend_relevance": "trend score T/100 × hybrid relevance (0.6 × semantic + 0.4 × lexical)",
+    "diversity": "5 different trends, max. 2 per archive category; publication date ignored"
+  },
+  "candidate_pool": {
+    "t6": {
+      "trend": "Grünkohl",
+      "description": "Grünkohl – krauses Wintergemüse mit dunkelgrünen, gefrorenen Blättern, klassisch mit Pinkel, Kassler und Kartoffeln geschmort, auch Braunkohl oder Blattkohl genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7mtvkm060czh1apgky9",
+          "title": "Winter-Minestrone mit Grünkohl",
+          "category": "Suppen und Eintöpfe",
+          "score": 84.5,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc8894f1dit1ly0hw9ctv",
+          "title": "Grünkohl-Gnocchi-Auflauf",
+          "category": "Pasta und Nudelgerichte",
+          "score": 82.1,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc82xd5x9k6k61n102sjp7",
+          "title": "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+          "category": "Salate",
+          "score": 68.9,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        }
+      ]
+    },
+    "t37": {
+      "trend": "Gulasch",
+      "description": "Gulasch – würziges Ragout aus geschmortem Rind- oder Schweinefleisch mit Zwiebeln, Paprika und Kümmel, typisch als Eintopf, Szegediner Art oder Gulaschsuppe.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc860ijq7sc1h1kh03sfub",
+          "title": "Schweine-Rahm-Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 77.4,
+          "match": "title",
+          "season_labels": [
+            "Herbst",
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc849bil1f8ow1bfefb9w4",
+          "title": "Filet-Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 69.8,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc81jo3l83ws36crtvw63",
+          "title": "Szegediner Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 67.7,
+          "match": "title",
+          "season_labels": []
+        }
+      ]
+    },
+    "t38": {
+      "trend": "Tiramisu",
+      "description": "Tiramisu – italienisches Dessert aus Schichten von mascarponehaltiger Sahnecreme und mit Espresso getränkten Löffelbiskuits, mit Kakaopulver bestäubt, typischerweise in Glas oder Form geschichtet.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc88asjcvvmp517s66zc39",
+          "title": "Italienisches Tiramisu",
+          "category": "Desserts und Süßspeisen",
+          "score": 85.8,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2ist52x6anrakb695",
+          "title": "Tiramisu mit Lebkuchen",
+          "category": "Weihnachten",
+          "score": 81.8,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7k58th3z48g1e5x0xdu0",
+          "title": "Tiramisu mit Granatapfelkernen",
+          "category": "Desserts und Süßspeisen",
+          "score": 70.7,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        }
+      ]
+    },
+    "t61": {
+      "trend": "Bolognese",
+      "description": "Bolognese – langsam geschmorte italienische Fleischsauce aus Rinderhack, Tomaten, Zwiebeln, Karotten und Sellerie, auch Ragù alla Bolognese genannt, klassisch zu Spaghetti oder Tagliatelle serviert.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc86q93hkq11ws385usep",
+          "title": "Pasta mit Schwarzbier-Wild-Bolognese",
+          "category": "Pasta und Nudelgerichte",
+          "score": 66.5,
+          "match": "title",
+          "season_labels": [
+            "Herbst"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2k1tm15dvzjht17pw",
+          "title": "Spaghetti Bolognese",
+          "category": "Pasta und Nudelgerichte",
+          "score": 64.4,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc83vxu344kte16edky1gsx",
+          "title": "Lasagne Bolognese",
+          "category": "Pasta und Nudelgerichte",
+          "score": 60.1,
+          "match": "title",
+          "season_labels": []
+        }
+      ]
+    },
+    "t11": {
+      "trend": "Lebkuchen",
+      "description": "Lebkuchen – Honigsüßes Gewürzgebäck mit Zimt, Nelken, Nüssen und Orangeat, weich oder hart gebacken, oft auf Oblaten, glasiert oder schokoliert, auch Pfefferkuchen genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc88eatzhnjzc3pfcvegy",
+          "title": "Lebkuchen mit Zuckerguss",
+          "category": "Weihnachten",
+          "score": 85.2,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7dbmysxk7896eu4uhpz",
+          "title": "Lebkuchen Grundrezept",
+          "category": "Weihnachten",
+          "score": 83.3,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2jzb3adsz1l60ohc0r",
+          "title": "Lebkuchen mit Marzipan",
+          "category": "Weihnachten",
+          "score": 81.9,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        }
+      ]
+    },
+    "t33": {
+      "trend": "Spitzkohl",
+      "description": "Spitzkohl – zarter Kohlkopf mit spitz zulaufenden, lockeren Blättern, auch Zuckerhut genannt, gern gedünstet, geschmort, als Rouladen oder Gemüsepfanne zubereitet.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7k9f4y7oh77nxcisrb",
+          "title": "Fischfilet mit Spitzkohl",
+          "category": "Fisch und Meeresfrüchte",
+          "score": 70.2,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc838puvj9zmu1dvgjl59d",
+          "title": "Spitzkohl-Eintopf mit Hackfleisch",
+          "category": "Suppen und Eintöpfe",
+          "score": 63.4,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc84mjyvi2g1536tnwnan",
+          "title": "Spitzkohl mit Hackfleisch",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 61.6,
+          "match": "title",
+          "season_labels": []
+        }
+      ]
+    },
+    "t21": {
+      "trend": "Rosenkohl",
+      "description": "Rosenkohl – kleine Kohlröschen an dicken Stielen, auch Kohlsprossen oder Brussels sprouts genannt, typisch mit Speck und Zwiebeln geschmort, überbacken oder als Beilage serviert.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc87anvu3ejs6jxcnv1o1a",
+          "title": "Rosenkohl-Risotto",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 83.7,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc838wfly8hav30xlg1as8",
+          "title": "Gerösteter Rosenkohl auf Tomatencreme",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 81.5,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc87and9yn07khet7p1nib",
+          "title": "Rosenkohl-Eintopf",
+          "category": "Suppen und Eintöpfe",
+          "score": 79.9,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        }
+      ]
+    },
+    "t3": {
+      "trend": "Vanillekipferl",
+      "description": "Vanillekipferl – österreichische Kipferl-Plätzchen aus Mürbeteig mit gemahlenen Mandeln oder Haselnüssen, gebogen wie Hörnchen und in Vanillezucker gewälzt, klassisches Weihnachtsgebäck.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc827aml41prd183lchpvu",
+          "title": "Vanillekipferl",
+          "category": "Weihnachten",
+          "score": 83.4,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2ifaxi6ufl8ysmfzl",
+          "title": "Vanillekipferln",
+          "category": "Weihnachten",
+          "score": 83.1,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7piif5sggc9hg74vnhg",
+          "title": "Feine Vanillekipferl",
+          "category": "Weihnachten",
+          "score": 82.7,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        }
+      ]
+    },
+    "t2": {
+      "trend": "Linzer Augen (Spitzbuben)",
+      "description": "Linzer Augen – Weihnachtsplätzchen aus nussigem Mürbeteig mit Zimt, mit roter Marmelade zusammengesetzt, das Lochplätzchen mit Puderzucker bestäubt, auch Spitzbuben genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7c2jzvea2khc5tczcq0",
+          "title": "Weihnachtskuchen Linzer Art",
+          "category": "Weihnachten",
+          "score": 66.7,
+          "match": "semantic",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2iv029tc51b9ggqcsm",
+          "title": "Spekulatius-Spitzbuben",
+          "category": "Weihnachten",
+          "score": 66.3,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7gvkokt8rqf1l97dl7wd",
+          "title": "Linzer Kipferl zu Weihnachten",
+          "category": "Weihnachten",
+          "score": 63.1,
+          "match": "semantic",
+          "season_labels": [
+            "Winter",
+            "Weihnachten"
+          ]
+        }
+      ]
+    },
+    "t7": {
+      "trend": "Zimtsterne",
+      "description": "Zimtsterne – Weihnachtsplätzchen aus gemahlenen Mandeln, Eiweiß, Zimt und Puderzucker, mit weißer Zuckerglasur überzogen oder als Glasurrahmen, sternförmig ausgestochen, teils Zimtplätzchen genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7c2k4bkyit41202s9cq0",
+          "title": "Zimtsterne in sternförmiger Geschenkschachtel",
+          "category": "Weihnachten",
+          "score": 81.0,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2imnbfexu65vkobig",
+          "title": "Zimtsterne mit zarter Zuckerkruste",
+          "category": "Weihnachten",
+          "score": 80.7,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2jynnjzg13n3nw86f",
+          "title": "Zimtsterne",
+          "category": "Weihnachten",
+          "score": 80.3,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        }
+      ]
+    },
+    "t57": {
+      "trend": "Lasagne",
+      "description": "Lasagne – italienischer Backofenauflauf aus breiten Nudelplatten, geschichtet mit Fleischsauce Ragù, Béchamelsauce und Parmesan, goldbraun überbacken, auch Lasagne alla Bolognese genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc871g2flymzbnnjj7rdq",
+          "title": "Lasagne-Topf",
+          "category": "Pasta und Nudelgerichte",
+          "score": 69.0,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc823m4c5pc2hrn0j5vfe",
+          "title": "Kürbis-Lasagne mit Hackbällchen",
+          "category": "Pasta und Nudelgerichte",
+          "score": 60.1,
+          "match": "title",
+          "season_labels": [
+            "Herbst"
+          ]
+        },
+        {
+          "recipe_id": "doc83vxu344kte16edky1gsx",
+          "title": "Lasagne Bolognese",
+          "category": "Pasta und Nudelgerichte",
+          "score": 59.4,
+          "match": "title",
+          "season_labels": []
+        }
+      ]
+    },
+    "t1": {
+      "trend": "Husarenkrapferl (Engelsaugen)",
+      "description": "Husarenkrapferl – kleine runde Kekse aus Butter-Mürbeteig, mit Marmelade gefüllt oder zusammengesetzt und mit Puderzucker bestäubt, auch Engelsaugen genannt, klassisches Weihnachtskrapferl.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7c2k4a9ufojbosaucd2",
+          "title": "Marzipankränze mit Marmelade (weihnachtlich)",
+          "category": "Weihnachten",
+          "score": 66.1,
+          "match": "semantic",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2ilgrvbwj16s5odbii",
+          "title": "Weihnachtskringel",
+          "category": "Weihnachten",
+          "score": 64.5,
+          "match": "semantic",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc82wer4olspj3hh8oyko",
+          "title": "Kleine Lebkuchen-Weihnachtskränze",
+          "category": "Weihnachten",
+          "score": 63.2,
+          "match": "semantic",
+          "season_labels": [
+            "Weihnachten",
+            "Winter",
+            "Geschenke aus der Küche"
+          ]
+        }
+      ]
+    }
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "selection": [
+        {
+          "recipe_id": "doc860ijq7sc1h1kh03sfub",
+          "title": "Schweine-Rahm-Gulasch",
+          "trend": "Gulasch",
+          "category": "Fleisch und Geflügel",
+          "why_de": "Klassisches Rahm-Gulasch mit Schweineschulter deckt den Gulasch-Trend völlig ab, ist ein sättigender Fleischklassiker mit hoher Zustimmung in der Zielgruppe und saisonal herbst-wintertauglich.",
+          "picked_by": "selector"
+        },
+        {
+          "recipe_id": "doc7mtvkm060czh1apgky9",
+          "title": "Winter-Minestrone mit Grünkohl",
+          "trend": "Grünkohl",
+          "category": "Suppen und Eintöpfe",
+          "why_de": "Die Winter-Minestrone macht Grünkohl als Wintergemüse zum Kern der Suppe und wird durch Cabanossi und Bohnen zu einem alltagstauglichen, fressigen Eintopf mit dem höchsten Treffer-Score.",
+          "picked_by": "selector"
+        },
+        {
+          "recipe_id": "doc87anvu3ejs6jxcnv1o1a",
+          "title": "Rosenkohl-Risotto",
+          "trend": "Rosenkohl",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "why_de": "Im cremigen Risotto steht Rosenkohl klar im Zentrum, das Gericht ist ein saisonales Veggie-Hauptgericht mit Nuss-Charakter, das ohne exotische Zutaten auskommt.",
+          "picked_by": "selector"
+        },
+        {
+          "recipe_id": "doc88asjcvvmp517s66zc39",
+          "title": "Italienisches Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Desserts und Süßspeisen",
+          "why_de": "Das klassische Tiramisu mit Espresso, Mascarpone und Marsala hat den höchsten Score der Kandidaten und ist als saisonales Dessert genau richtig für die Ausgabe zum Adventsbeginn.",
+          "picked_by": "selector"
+        },
+        {
+          "recipe_id": "doc88eatzhnjzc3pfcvegy",
+          "title": "Lebkuchen mit Zuckerguss",
+          "trend": "Lebkuchen",
+          "category": "Weihnachten",
+          "why_de": "Lebkuchen mit Zuckerguss ist der stärkste Treffer zum Weihnachtsgebäck-Trend und passt zur Ausgabe kurz vor Advent, wenn 23 Prozent der Trendpunkte Weihnachtsspezialitäten gelten.",
+          "picked_by": "selector"
+        }
+      ],
+      "variety_de": "Mit Fleisch-Klassiker, Gemüsesuppe, Veggie-Risotto, Dessert und Weihnachtsgebäck kommen fünf Trends in fünf verschiedenen Archiv-Kategorien unter, wobei drei sättigende herzhafte Gerichte die Basis bilden und ergänzt durch ein Advents-Dessert und Lebkuchen den Weihnachtsanteil der Trends abdecken.",
+      "validation_notes": [],
+      "review": {
+        "items": [
+          {
+            "recipe_id": "doc860ijq7sc1h1kh03sfub",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Gulasch ist der Kern des Gerichts, und ein sättigender Schmorbraten passt im November ideal zu Herbst/Winter sowie zum Fleisch-Schwerpunkt der Marke.",
+            "title": "Schweine-Rahm-Gulasch"
+          },
+          {
+            "recipe_id": "doc7mtvkm060czh1apgky9",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Grünkohl steht im Mittelpunkt, hat ab November Saison und der deftige Eintopf ist alltagstauglich und sättigend.",
+            "title": "Winter-Minestrone mit Grünkohl"
+          },
+          {
+            "recipe_id": "doc87anvu3ejs6jxcnv1o1a",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Rosenkohl prägt das Gericht, hat jetzt Saison und das Risotto ist ein sättigendes Alltagsrezept für höheres Kochniveau.",
+            "title": "Rosenkohl-Risotto"
+          },
+          {
+            "recipe_id": "doc88asjcvvmp517s66zc39",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Tiramisu ist der Trend-Kern und als klassisches Dessert mit kurzer Zutatenliste umsetzbar; das Weihnachtslabel trägt in der Vorweihnachtszeit, auch wenn es kein echtes Saisonrezept ist.",
+            "title": "Italienisches Tiramisu"
+          },
+          {
+            "recipe_id": "doc88eatzhnjzc3pfcvegy",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Lebkuchen ist die Weihnachtsspezialität schlechthin, hat jetzt Saison und bedient den stark steigenden Weihnachtstrend.",
+            "title": "Lebkuchen mit Zuckerguss"
+          }
+        ],
+        "variety_ok": true,
+        "variety_reason_de": "Fünf verschiedene Trends und fünf Gerichtsarten (Fleisch, Eintopf, Gemüse/Reis, Dessert, Weihnachtsgebäck) sorgen für Abwechslung; herzhaft dominiert, die zwei süßen Beiträge sind im Advent vertretbar.",
+        "retrieve_again": [],
+        "all_ok": true,
+        "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+      },
+      "excluded_before": []
+    }
+  ],
+  "limitations": [
+    "Archive = 5,000-recipe sample of 81,798; category labels exist for 3,354 recipes.",
+    "Semantic similarity ranks candidates; trend fit is judged by the review agent, not proven.",
+    "Images are AI illustrations of archive recipes; the export contains no original photos.",
+    "The image check compares a text description of the image with the recipe; it can miss details."
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "recipe_id": "doc860ijq7sc1h1kh03sfub",
+      "title": "Schweine-Rahm-Gulasch",
+      "category": "Fleisch und Geflügel",
+      "date_imported": "2026-05-26",
+      "labels": [
+        "Deutschland",
+        "Familie",
+        "Hauptgericht",
+        "Herbst",
+        "Herzhaft",
+        "Landhausküche",
+        "Landküche",
+        "Schmoren",
+        "Winter"
+      ],
+      "trend": "Gulasch",
+      "trend_T": 79.4,
+      "match": "title",
+      "semantic": 0.571,
+      "hybrid_relevance": 0.742,
+      "trend_relevance": 0.589,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Herbst",
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 77.4,
+      "why_de": "Klassisches Rahm-Gulasch mit Schweineschulter deckt den Gulasch-Trend völlig ab, ist ein sättigender Fleischklassiker mit hoher Zustimmung in der Zielgruppe und saisonal herbst-wintertauglich.",
+      "picked_by": "selector",
+      "review": {
+        "recipe_id": "doc860ijq7sc1h1kh03sfub",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Gulasch ist der Kern des Gerichts, und ein sättigender Schmorbraten passt im November ideal zu Herbst/Winter sowie zum Fleisch-Schwerpunkt der Marke.",
+        "title": "Schweine-Rahm-Gulasch"
+      },
+      "status": "approved",
+      "file_stem": "01_schweine-rahm-gulasch",
+      "image": "01_schweine-rahm-gulasch.jpg",
+      "image_error": null,
+      "image_check": {
+        "status": "ok",
+        "attempts": [
+          {
+            "attempt": 1,
+            "verdict": "match",
+            "summary_de": "Das Bild zeigt ein sämiges Schweine-Rahm-Gulasch mit Fleisch, Paprika, Zwiebeln und den laut Rezept zubereiteten Knödeln, passend zum Gericht.",
+            "missing": [],
+            "wrong": [],
+            "extra": [],
+            "rejected_file": null,
+            "image_description": "Das Foto zeigt ein Gulasch-ähnliches Gericht in einer weißen, runden Schüssel. Ein silberner Metalllöffel befindet sich rechts im Gefäß und hebt Teile des Inhalts an.\n\nDie orange-rote, sämige Soße enthält:\n- Mehrere braune, geschmorte Fleischstücke in unregelmäßigen Würfelform (ca. 3–5 cm).\n- Oval geformte, weißliche, gekochte Knödel (ca. 4–6 cm lang); einer ist halbiert, sodass die innere Struktur sichtbar ist.\n- Rote, geschmorte Paprikastücke in quadratischen oder länglichen Schnitten (ca. 2 cm).\n- Gelblich-transparente, geschmorte Zwiebelspalten in bogenförmigen Schnitten.\n\nDie Zutaten sind gleichmäßig in der Soße verteilt. Über dem Gericht ist weißer Wasserdampf sichtbar. Das Gefäß steht auf einer hellbraunen Holzoberfläche. Es sind keine Personen, Hände, Texte oder Bildfehler erkennbar."
+          }
+        ]
+      },
+      "card": "01_schweine-rahm-gulasch.html"
+    },
+    {
+      "rank": 2,
+      "recipe_id": "doc7mtvkm060czh1apgky9",
+      "title": "Winter-Minestrone mit Grünkohl",
+      "category": "Suppen und Eintöpfe",
+      "date_imported": "2022-09-20",
+      "labels": [
+        "Einfach",
+        "Einfrieren",
+        "Familie",
+        "Hauptgericht",
+        "Winter",
+        "Würstchen"
+      ],
+      "trend": "Grünkohl",
+      "trend_T": 80.4,
+      "match": "title",
+      "semantic": 0.821,
+      "hybrid_relevance": 0.893,
+      "trend_relevance": 0.718,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 84.5,
+      "why_de": "Die Winter-Minestrone macht Grünkohl als Wintergemüse zum Kern der Suppe und wird durch Cabanossi und Bohnen zu einem alltagstauglichen, fressigen Eintopf mit dem höchsten Treffer-Score.",
+      "picked_by": "selector",
+      "review": {
+        "recipe_id": "doc7mtvkm060czh1apgky9",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Grünkohl steht im Mittelpunkt, hat ab November Saison und der deftige Eintopf ist alltagstauglich und sättigend.",
+        "title": "Winter-Minestrone mit Grünkohl"
+      },
+      "status": "approved",
+      "file_stem": "02_winter-minestrone-mit-gr-nkohl",
+      "image": "02_winter-minestrone-mit-gr-nkohl.jpg",
+      "image_error": null,
+      "image_check": {
+        "status": "ok",
+        "attempts": [
+          {
+            "attempt": 1,
+            "verdict": "match",
+            "summary_de": "Die Suppe zeigt alle wesentlichen sichtbaren Komponenten des Rezepts – Grünkohl, weiße Bohnen, Möhren-, Selleriewürfel, Wurstscheiben und geriebenen Parmesan in gelbgrüner Brühe; die als Chorizo beschriebenen Scheiben entsprechen optisch der Cabanossi, daher passt das Bild.",
+            "missing": [],
+            "wrong": [],
+            "extra": [],
+            "rejected_file": null,
+            "image_description": "Das Foto zeigt eine Gemüsesuppe in einer weißen, runden Schüssel. Eine silberfarbene Metallkelle schöpft Teile des Inhalts nach oben. Die gelbgrüne, flüssige Brühe enthält folgende Zutaten:\n\n- **Chorizo:** Dunkelrote, kreisrunde Scheiben, gebraten/gekocht, verteilt in der Suppe und in der Kelle.\n- **Weiße Bohnen:** Ganze, ovale, weißlich-beige Bohnen, verteilt in der Suppe und in der Kelle.\n- **Grünkohl:** Dunkelgrüne, krause Blattstücke, gekocht, obenauf und im Inneren.\n- **Karotten:** Orangefarbene, kleine Würfel, gekocht, verteilt im Inneren.\n- **Staudensellerie/Kohlrabi:** Hellgrüne bis gelbliche, kleine Würfel, gekocht, verteilt im Inneren.\n- **Käse:** Weißer, fein geriebener Käse, als Streusel über dem Grünkohl und den Wurstscheiben verteilt.\n\nÜber der Schüssel ist weißer Wasserdampf sichtbar. Das Gefäß steht auf einer Holzoberfläche; links liegt ein beiges Stofftuch. Keine Personen, Hände oder Text sichtbar."
+          }
+        ]
+      },
+      "card": "02_winter-minestrone-mit-gr-nkohl.html"
+    },
+    {
+      "rank": 3,
+      "recipe_id": "doc87anvu3ejs6jxcnv1o1a",
+      "title": "Rosenkohl-Risotto",
+      "category": "Gemüse-, Kartoffel- und Reisgerichte",
+      "date_imported": "2026-08-24",
+      "labels": [
+        "Einfach",
+        "Hauptgericht",
+        "Vegetarisch",
+        "Winter"
+      ],
+      "trend": "Rosenkohl",
+      "trend_T": 71.2,
+      "match": "title",
+      "semantic": 0.981,
+      "hybrid_relevance": 0.989,
+      "trend_relevance": 0.704,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 83.7,
+      "why_de": "Im cremigen Risotto steht Rosenkohl klar im Zentrum, das Gericht ist ein saisonales Veggie-Hauptgericht mit Nuss-Charakter, das ohne exotische Zutaten auskommt.",
+      "picked_by": "selector",
+      "review": {
+        "recipe_id": "doc87anvu3ejs6jxcnv1o1a",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Rosenkohl prägt das Gericht, hat jetzt Saison und das Risotto ist ein sättigendes Alltagsrezept für höheres Kochniveau.",
+        "title": "Rosenkohl-Risotto"
+      },
+      "status": "approved",
+      "file_stem": "03_rosenkohl-risotto",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "03_rosenkohl-risotto.html"
+    },
+    {
+      "rank": 4,
+      "recipe_id": "doc88asjcvvmp517s66zc39",
+      "title": "Italienisches Tiramisu",
+      "category": "Desserts und Süßspeisen",
+      "date_imported": "2026-11-02",
+      "labels": [
+        "Dessert/ Nachtisch",
+        "Italien",
+        "Weihnachten"
+      ],
+      "trend": "Tiramisu",
+      "trend_T": 77.3,
+      "match": "title",
+      "semantic": 0.933,
+      "hybrid_relevance": 0.96,
+      "trend_relevance": 0.742,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 85.8,
+      "why_de": "Das klassische Tiramisu mit Espresso, Mascarpone und Marsala hat den höchsten Score der Kandidaten und ist als saisonales Dessert genau richtig für die Ausgabe zum Adventsbeginn.",
+      "picked_by": "selector",
+      "review": {
+        "recipe_id": "doc88asjcvvmp517s66zc39",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Tiramisu ist der Trend-Kern und als klassisches Dessert mit kurzer Zutatenliste umsetzbar; das Weihnachtslabel trägt in der Vorweihnachtszeit, auch wenn es kein echtes Saisonrezept ist.",
+        "title": "Italienisches Tiramisu"
+      },
+      "status": "approved",
+      "file_stem": "04_italienisches-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "04_italienisches-tiramisu.html"
+    },
+    {
+      "rank": 5,
+      "recipe_id": "doc88eatzhnjzc3pfcvegy",
+      "title": "Lebkuchen mit Zuckerguss",
+      "category": "Weihnachten",
+      "date_imported": "2026-11-09",
+      "labels": [],
+      "trend": "Lebkuchen",
+      "trend_T": 73.1,
+      "match": "title",
+      "semantic": 1.0,
+      "hybrid_relevance": 1.0,
+      "trend_relevance": 0.731,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 85.2,
+      "why_de": "Lebkuchen mit Zuckerguss ist der stärkste Treffer zum Weihnachtsgebäck-Trend und passt zur Ausgabe kurz vor Advent, wenn 23 Prozent der Trendpunkte Weihnachtsspezialitäten gelten.",
+      "picked_by": "selector",
+      "review": {
+        "recipe_id": "doc88eatzhnjzc3pfcvegy",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Lebkuchen ist die Weihnachtsspezialität schlechthin, hat jetzt Saison und bedient den stark steigenden Weihnachtstrend.",
+        "title": "Lebkuchen mit Zuckerguss"
+      },
+      "status": "approved",
+      "file_stem": "05_lebkuchen-mit-zuckerguss",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "05_lebkuchen-mit-zuckerguss.html"
+    }
+  ]
+}

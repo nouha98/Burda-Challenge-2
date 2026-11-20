@@ -1,0 +1,1703 @@
+{
+  "generated_at": "2026-11-20T13:53:35",
+  "trends_generated_at": "2026-11-20T13:46:55",
+  "method": {
+    "proposal_score": "P = 0.35*T + 0.30*B + 0.20*N + 0.15*F (0-100 each). B = 20*weighted 5 brand ratings; F = 20*mean of 4 feasibility ratings; N = 0.5*archive coverage room (relative to shortlist) + 0.5*gap fit. Ratings by LLM with anchored 0-5 scale; arithmetic in code.",
+    "diversity": "max. 2 baked goods and 1 drink among the 5"
+  },
+  "limitations": [
+    "Google values are normalised (0-100), not search counts; a rising '0' is a rounded small value.",
+    "Google period (18 Oct-18 Nov) and Wikipedia window differ.",
+    "The November rise is partly seasonal (Advent/Christmas baking), not necessarily a lasting trend.",
+    "Several search terms can share one broad Wikipedia article.",
+    "Archive check covers a 5,000-recipe sample of 81,798; date = CMS import date.",
+    "Brand, feasibility and gap ratings are LLM judgements against the brand guide, not reader research.",
+    "Brave results are context, not demand measurements."
+  ],
+  "proposals": [
+    {
+      "proposal_id": "P1",
+      "topic": "Husarenkrapferl (Engelsaugen)",
+      "kind": "baked_good",
+      "title_de": "Engelsaugen – Omas Lieblingsplätzchen neu entdeckt",
+      "teaser_de": "Zur Plätzchen-Saison sucht das Publikum verstärkt nach dem Klassiker unter dem Namen Engelsaugen – im Heftarchiv fehlt das Thema völlig. Damit lässt sich eine nachweisbare Content-Lücke genau dann schließen, wenn die Nachfrage ihren Höhepunkt hat.",
+      "trend_signal_de": "Google Trends zeigt für 'engelsaugen rezept' ein bestes Wachstum von 1450 %. Die Wikipedia-Seite zu Husarenkrapferl verzeichnet 122 Aufrufe in 7 Tagen (+63 %) – die Suchnachfrage fokussiert klar auf den Namen Engelsaugen.",
+      "brand_fit_de": "Ein traditionelles Weihnachtsplätzchen mit hohem Wiedererkennungswert passt direkt in die Plätzchen-Redaktion von 'das schmeckt!'. Der Nostalgie-Winkel (Omas Rezeptbuch) und moderne Füllungsvarianten bieten beides: Emotionalität und Servicenutzen.",
+      "related_recipes": [],
+      "repetition_risk_de": "Niedrig – weder unter Husarenkrapferl noch Engelsaugen existiert ein einziges Archivrezept, Wiederholung ist praktisch ausgeschlossen.",
+      "content_gap_de": "Das Archiv enthält 0 Rezepte zu diesem Thema (auch nicht in den letzten 24 Monaten) – eine komplette inhaltliche Lücke.",
+      "recipe_directions": [
+        {
+          "title_de": "Engelsaugen wie von Oma",
+          "idea_de": "Der klassische Mürbeteig-Klassiker mit Marmeladen-Kuppel und Puderzucker – genau das Rezept, das Nutzer unter 'engelsaugen rezept' suchen. Authentischer Aufmachungswinkel nach Omas Backbuch.",
+          "format": "Klassisches Plätzchen-Rezept (Mürbeteig, gebacken)"
+        },
+        {
+          "title_de": "Ein Teig, drei Füllungen",
+          "idea_de": "Auf Basis des Grundteigs eine Variantenstrecke mit Alltagfüllungen: Himbeer- oder Johannisbeerkonfitüre, Aprikosenmarmelade und Lemon Curd. Leser backen einmal und erhalten drei unterschiedliche Kekse für die Blech-Auswahl.",
+          "format": "Grundrezept mit Variantenstrecke (Sammel-/Serviceformat)"
+        }
+      ],
+      "open_questions_de": [
+        "Lead-Begriff im Titel: 'Engelsaugen' (stärkere Suchnachfrage) mit Nennung von 'Husarenkrapferl' im Text oder umgekehrt?",
+        "Wie stark setzen wir den Nostalgie-Winkel ('wie von Oma') fotografisch und textlich gegen ein modernes Styling?",
+        "Umfang: ein einzelnes Klassiker-Rezept oder die Variantenstrecke mit drei Füllungen als Seitenstrecke?",
+        "Regionale Namensgebung (Österreich und Teile Süddeutschlands) als kurzer Textrucksack aufbereiten?"
+      ],
+      "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+      "scores": {
+        "P": 81.7,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 64.0,
+          "B": 86.0,
+          "N": 100.0,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 100.0,
+          "gap_fit": 100.0
+        }
+      },
+      "evidence": {
+        "google_records": [
+          {
+            "term": "engelsaugen rezept",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 0,
+            "increase_percent": 1450.0,
+            "increase_raw": "1.450 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 2
+          }
+        ],
+        "wikimedia": {
+          "source": "live_api",
+          "traffic_filter": "all-access; all-agents",
+          "previous_period": [
+            "2026-11-06",
+            "2026-11-12"
+          ],
+          "latest_period": [
+            "2026-11-13",
+            "2026-11-19"
+          ],
+          "previous_7d_views": 75,
+          "latest_7d_views": 122,
+          "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Husarenkrapferl/daily/20261106/20261119",
+          "retrieved_at": "2026-11-20T13:45:37"
+        },
+        "trend_scores": {
+          "T": 64.0,
+          "T_note": "complete",
+          "G": 0.774,
+          "W": 0.391,
+          "best_google_growth_percent": 1450.0,
+          "max_search_interest": 0,
+          "wikipedia_change": 0.627,
+          "wikipedia_trend": "growing",
+          "is_rising": true,
+          "flags": [
+            "low_wikipedia_baseline"
+          ]
+        },
+        "trend_relevance_de": "Klassisches Weihnachtsplätzchen mit Marmeladenfüllung, viele suchen das Rezept unter dem Namen Engelsaugen – ideal für die Plätzchen-Redaktion.",
+        "brave": {
+          "query": "Husarenkrapferl (Engelsaugen) Rezept",
+          "freshness": "pm",
+          "retrieved_at": "2026-11-20T13:51:23",
+          "results": [
+            {
+              "title": "Engelsaugen wie von Oma – Lieblingsplätzchen",
+              "url": "https://www.chefkoch.de/rezepte/160601070188995/Engelsaugen.html",
+              "description": "Kreative Füllungen: Neben Himbeer- oder Johannisbeerkonfitüre eignen sich auch Lemon Curd, Aprikosenmarmelade oder nach dem Backen eingefüllte Nuss-Nougatcreme hervorragend, um farbliche und geschmackliche Abwechslung auf den Plätzchenteller zu bringen. Plätzchendosen richtig schichten: Damit die fruchtige Füllung nicht an den anderen Keksen kleben bleibt, die Engelsaugen in der Blechdose stets mit Lagen von Backpapier voneinander getrennt aufbewahren.",
+              "age": "17 hours ago"
+            },
+            {
+              "title": "Engelsaugen nach Omas Rezept | LECKER",
+              "url": "https://www.lecker.de/engelsaugen-22646.html",
+              "description": "Engelsaugen, auch Husarenkrapfen genannt, sind ein echter Plätzchen-Klassiker. Dank unserem Rezept aus Omas Backbuch gelingen die kleinen Mürbteig-Kuller mit fruchtiger Marmelade garantiert richtig lecker.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Engelsaugen: Plätzchen mit langer Tradition - Leckerschmecker",
+              "url": "https://www.leckerschmecker.me/engelsaugen-a-n/63743511447039",
+              "description": "Gut, dass Engelsaugen nicht überall so heißen. In Österreich und Teilen Süddeutschlands (unterhalb des sogenannten „Weißwurstäquators“) sind sie nämlich als Husarenkrapferl bekannt. Warum dem so ist, weiß niemand so richtig. Fest steht aber, dass sich die Rezeptur für die Kekse ...",
+              "age": "5 days ago"
+            },
+            {
+              "title": "Kaffeekekse",
+              "url": "https://www.kuchenglueckundgermgeschehen.at/post/kaffee-engelsaugen",
+              "description": "<strong>Statt Marmelade habe ich in die einfachen Kaffeekekse eine Creme aus weißer Schokokade und Espresso gegeben</strong>. Die Kaffee-Engelsaugen sind wunderbar weich und schmecken richtig herrlich nach Kaffee.",
+              "age": "1 month ago"
+            },
+            {
+              "title": "Engelsaugen: Mit diesem tollen Rezept gelingt der farbenfrohe Weihnachts-Klassiker",
+              "url": "https://www.gofeminin.de/lifestyle/kochen-backen/engelsaugen-1-s4053334.html",
+              "description": "Wie nennt ihr das, wenn das Abendrot den Himmel in der Adventszeit rötlich aufleuchten lässt? Meine Oma hat dann immer gesagt: „Die Engelchen backen Plätzchen“. Da wir den Engeln nicht die ganze Backarbeit überlassen können, kommt hier passend zum Thema ein Rezept für Engelsaugen.",
+              "age": "4 weeks ago"
+            }
+          ]
+        },
+        "archive": {
+          "search_terms": [
+            "engelsaug",
+            "engelsauge",
+            "engelsaugen",
+            "husarenkrapferl"
+          ],
+          "title_matches": 0,
+          "title_matches_recent": 0,
+          "ingredient_only_matches": 0,
+          "most_recent_comparable": null,
+          "closest_recipes": [],
+          "recurring_ingredients": [],
+          "recurring_formats": [],
+          "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+          "coverage_room_0_100": 100.0
+        },
+        "brand_assessment": {
+          "id": "t1",
+          "brand": {
+            "seasonality_regional": {
+              "score": 5,
+              "reason": "Alpenländischer Adventsklassiker; +1450 % Suchwachstum für 'engelsaugen rezept' belegt aktuelle Saisonrelevanz."
+            },
+            "ingredient_accessibility": {
+              "score": 5,
+              "reason": "Mürbeteig-Basics plus Marmelade, vollständig im Supermarkt erhältlich."
+            },
+            "everyday_practicality": {
+              "score": 3,
+              "reason": "Anlassbacken statt Alltag, jedoch einfacher als Ausstechplätzchen; gut fürs Adventswochenende."
+            },
+            "culinary_appeal": {
+              "score": 4,
+              "reason": "Mürbteig mit Marmeladenkern und Oma-Nostalgie; Cover-Schwäche bei Süßem dämpft leicht."
+            },
+            "magazine_style": {
+              "score": 4,
+              "reason": "Nostalgischer Heimatklassiker trifft die Kernzielgruppe; Backen-Cover-Vorbehalt bleibt leicht beachten."
+            }
+          },
+          "feasibility": {
+            "shopping": {
+              "score": 5,
+              "reason": "Nur Grundzutaten und eine Marmelarte nach Wahl nötig."
+            },
+            "equipment": {
+              "score": 5,
+              "reason": "Keine Ausstechformen nötig; Kugeln formen und eindrücken genügt."
+            },
+            "effort": {
+              "score": 4,
+              "reason": "Kugeln formen, Daumeneindruck, füllen: geringster Aufwand unter den Plätzchenkandidaten."
+            },
+            "recipe_development": {
+              "score": 4,
+              "reason": "Archivrezept-frei; Füll-Twists wie Johannisbeere oder Lemon Curd (Web-Belege) ermöglichen Neuentwicklung."
+            }
+          },
+          "archive": {
+            "gap_fit": {
+              "score": 5,
+              "reason": "Kein einziger Titel-Treffer in der 5.000er-Stichprobe; Thema vollständig offen bei starkem Interesse."
+            },
+            "content_gap_de": "Weder Husarenkrapferl noch Engelsaugen existieren im Archiv – eine komplette inhaltliche Lücke.",
+            "repetition_risk": "low",
+            "repetition_reason_de": "Null Archivtreffer, Wiederholung praktisch ausgeschlossen."
+          },
+          "unsuitable": false,
+          "unsuitable_reason_de": null,
+          "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+        }
+      }
+    },
+    {
+      "proposal_id": "P2",
+      "topic": "Grünkohl",
+      "kind": "ingredient",
+      "title_de": "Grünkohl-Saison: deftiger Klassiker und moderne Ideen",
+      "teaser_de": "Grünkohl ist das typische Wintergemüse und wird besonders nach dem ersten Frost gesucht. Die Ausgabe deckt die im Archiv fehlende deftig-klassische Auslegung und ergänzt schnelle, alltagsnahe Varianten.",
+      "trend_signal_de": "Google Trends zeigt das beste Wachstum mit 650 %, getrieben u. a. von „grünkohl rezept“ und „grünkohl rezept klassisch“. Wikipedia verzeichnet 3.771 Aufrufe in 7 Tagen (+2 %), im Archiv stehen 20 Rezepte mit Grünkohl im Titel, 11 davon aus den letzten 24 Monaten.",
+      "brand_fit_de": "Klares saisonales Winterthema mit hohem Suchdruck rund um klassische Rezepte. Die Verbindung aus deftigem Eintopf und modern-alltäglichen Formaten passt zur Vermittlungs- und Rezeptrolle der Redaktion.",
+      "related_recipes": [
+        {
+          "id": "doc8894f1dit1ly0hw9ctv",
+          "why_relevant_de": "Modernes Auflauf-Format, zeigt die bisherige Auslegung, vom geplanten Eintopf klar abgegrenzt."
+        },
+        {
+          "id": "doc85jzk7guddx1i5rpldnl",
+          "why_relevant_de": "Schnelles Pfannenformat als Gegenpol zum langsam geschmorten Klassiker."
+        },
+        {
+          "id": "doc85jzorxwnpc1kx8zdilr",
+          "why_relevant_de": "Vegetarische Basis, die die deftige Fleisch-Variante bewusst kontrastiert."
+        },
+        {
+          "id": "doc84brqxjdr614mr7rf93",
+          "why_relevant_de": "Pasta-Format aus dem Archiv, nicht erneut besetzen."
+        },
+        {
+          "id": "doc843qgv00na0ehcy81yod",
+          "why_relevant_de": "Getränke-/Smoothie-Format, zeigt die moderne Spanne des Themas."
+        },
+        {
+          "id": "doc82xd5x9k6k61n102sjp7",
+          "why_relevant_de": "Salat-Format mit Zitrus, belegt die moderne Archivkante."
+        }
+      ],
+      "repetition_risk_de": "Medium – 11 Rezepte in 24 Monaten sind viel; nur der fehlende deftig-klassische Eintopf plus klare Abgrenzung der Formate vermeidet Wiederholung.",
+      "content_gap_de": "Ein deftig-klassischer Grünkohleintopf mit Fleisch fehlt, da die Archivformate überwiegend modern sind (Salat, Smoothie, Pasta, Gnocchi).",
+      "recipe_directions": [
+        {
+          "title_de": "Grünkohl-Eintopf mit Pinkel und Kassler",
+          "idea_de": "Klassisch im Topf geschmorter Grünkohl mit Kartoffeln und Fleischbrühe, dazu Pinkel bzw. Kassler; abgeschmeckt mit Senf für die deftige Note, laut Web-Quellen passen auch Piment und Muskat. Besetzt exakt die Content-Lücke und antwortet auf die Suchanfrage „grünkohl rezept klassisch“.",
+          "format": "Eintopf / Schmorgericht"
+        },
+        {
+          "title_de": "Krosser Ofen-Grünkohl mit Kartoffeln und Möhren",
+          "idea_de": "Grünkohl auf dem Blech im Ofen geröstet, bis er kross ist, mit Kartoffeln und Möhren – beides häufige Archiv-Zutaten. Kürzere Zubereitung als der Eintopf und Neither Pfanne noch Auflauf, also deutlicher Abstand zu den bestehenden Formaten.",
+          "format": "Blechgericht / Ofengericht"
+        }
+      ],
+      "open_questions_de": [
+        "Ist Pinkel bundesweit genug verfügbar oder empfehlen wir als Standard Kassler und Mettenden, wie es die Web-Quellen nahelegen?",
+        "Bauen wir zu den Rezepten einen Basics-Kasten mit den Web-Tipps (Senf, Piment, Muskat) auf?",
+        "Wie viele Rezepte trägt die Ausgabe, ohne die hohe Archivdichte (11 in 24 Monaten) zu verstärken?"
+      ],
+      "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+      "scores": {
+        "P": 80.1,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 80.4,
+          "B": 93.0,
+          "N": 52.8,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 45.5,
+          "gap_fit": 60.0
+        }
+      },
+      "evidence": {
+        "google_records": [
+          {
+            "term": "grünkohl rezept klassisch",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 0,
+            "increase_percent": 650.0,
+            "increase_raw": "650 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 7
+          },
+          {
+            "term": "grünkohl rezept",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 200.0,
+            "increase_raw": "200 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 19
+          },
+          {
+            "term": "Curly kale (Vegetable)",
+            "signal_type": "rising",
+            "source_kind": "topic",
+            "search_interest": 23,
+            "increase_percent": 190.0,
+            "increase_raw": "190 %",
+            "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 5
+          },
+          {
+            "term": "grünkohl rezept",
+            "signal_type": "top",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 200.0,
+            "increase_raw": "200 %",
+            "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 22
+          }
+        ],
+        "wikimedia": {
+          "source": "live_api",
+          "traffic_filter": "all-access; all-agents",
+          "previous_period": [
+            "2026-11-06",
+            "2026-11-12"
+          ],
+          "latest_period": [
+            "2026-11-13",
+            "2026-11-19"
+          ],
+          "previous_7d_views": 3703,
+          "latest_7d_views": 3771,
+          "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gr%C3%BCnkohl/daily/20261106/20261119",
+          "retrieved_at": "2026-11-20T13:45:37"
+        },
+        "trend_scores": {
+          "T": 80.4,
+          "T_note": "complete",
+          "G": 0.868,
+          "W": 0.684,
+          "best_google_growth_percent": 650.0,
+          "max_search_interest": 23,
+          "wikipedia_change": 0.018,
+          "wikipedia_trend": "stable",
+          "is_rising": true,
+          "flags": []
+        },
+        "trend_relevance_de": "Saisonal typisches Wintergemüse, das besonders nach dem ersten Frost gesucht wird – klassisch mit Pinkel oder modern interpretierbar.",
+        "brave": {
+          "query": "Grünkohl Rezept",
+          "freshness": "pm",
+          "retrieved_at": "2026-11-20T13:51:21",
+          "results": [
+            {
+              "title": "Endlich wieder Grünkohl-Saison: Tipps, Tricks und tolle Rezepte - so schmeckt er richtig gut",
+              "url": "https://www.ndr.de/ratgeber/kochen/warenkunde/gruenkohl-mit-diesen-tricks-und-rezepten-schmeckt-er-noch-besser,gruenkohl548.html",
+              "description": "Abgeschmeckt wird mit Salz, Pfeffer und Senf, so bekommt er eine deftige Note. Auch Piment und Muskatnuss eignen sich zum Würzen. Serviert wird der Grünkohleintopf mit Salzkartoffeln oder kleinen Kartoffeln (Drillingen), die kurz in einer Pfanne mit Zucker karamellisiert werden.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Omas Grünkohl Rezept – deftig & klassisch | Rezeptliebe",
+              "url": "https://www.rezeptliebe.com/omas-gruenkohl-rezept-ganz-klassisch/",
+              "description": "Omas <strong>Grünkohl Rezept</strong>: klassisch, deftig &amp; mit Mettwurst. Perfekt für kalte Tage und einfach nachzukochen – Hausmannskost wie früher genießen.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Klassisches Grünkohl-Rezept mit Kassler und Pinkel - Leckerschmecker",
+              "url": "https://www.leckerschmecker.me/gruenkohl-rezept-klassisch-a-b/63743511320839",
+              "description": "Man isst den Grünkohl dort mit Kassler und Pinkel, einer fettreichen Grützwurst, aber auch Kochwurst, Mettenden eignen sich. Das Besondere an dem klassischen Rezept ist, dass die Würste zusammen mit dem Grünkohl gekocht werden und ihr feines Aroma so an den Kohl abgeben.",
+              "age": "1 hour ago"
+            },
+            {
+              "title": "Grünkohl Rezept klassisch: in 90 Minuten zart",
+              "url": "https://deavita.com/kochrezepte/gruenkohl-rezept-klassisch-kassler-90-minuten-2255843.html",
+              "description": "Drei Stunden Kochzeit machen Grünkohl graugrün und faserig. Besser sind <strong>2 Minuten Blanchieren und danach 90 Minuten zugedeckt bei kleinster Hitze mit Kassler und Mettenden</strong>. 2 EL Haferflocken binden am Ende.",
+              "age": "1 week ago"
+            },
+            {
+              "title": "Grünkohl Rezept klassisch: einfach kochen & genießen",
+              "url": "https://www.westfalia.de/blog/blog-13/grunkohl-rezept-klassisch-kochen-und-geniessen-6806",
+              "description": "Kurz erklärt: Für ein klassisches Grünkohlgericht <strong>dünsten Sie Zwiebeln in Schmalz, geben geputzten Grünkohl und Brühe dazu und lassen alles etwa 75 bis 90 Minuten sanft schmoren</strong>. Kasseler und Mettenden ziehen in der letzten halben Stunde mit.",
+              "age": "3 weeks ago"
+            }
+          ]
+        },
+        "archive": {
+          "search_terms": [
+            "grünkohl"
+          ],
+          "title_matches": 20,
+          "title_matches_recent": 11,
+          "ingredient_only_matches": 3,
+          "most_recent_comparable": {
+            "id": "doc8894f1dit1ly0hw9ctv",
+            "title": "Grünkohl-Gnocchi-Auflauf",
+            "date_imported": "2026-10-30",
+            "category": "Pasta und Nudelgerichte",
+            "match": "title"
+          },
+          "closest_recipes": [
+            {
+              "id": "doc8894f1dit1ly0hw9ctv",
+              "title": "Grünkohl-Gnocchi-Auflauf",
+              "date_imported": "2026-10-30",
+              "category": "Pasta und Nudelgerichte"
+            },
+            {
+              "id": "doc85jzk7guddx1i5rpldnl",
+              "title": "Grünkohlpfanne",
+              "date_imported": "2026-04-24",
+              "category": "Gemüse-, Kartoffel- und Reisgerichte"
+            },
+            {
+              "id": "doc85jzorxwnpc1kx8zdilr",
+              "title": "Vegetarischer Grünkohl",
+              "date_imported": "2026-04-24",
+              "category": "Gemüse-, Kartoffel- und Reisgerichte"
+            },
+            {
+              "id": "doc84brqxjdr614mr7rf93",
+              "title": "Grünkohl Pasta",
+              "date_imported": "2026-01-28",
+              "category": "Pasta und Nudelgerichte"
+            },
+            {
+              "id": "doc843qgv00na0ehcy81yod",
+              "title": "Grünkohl-Smoothie mit Ananas",
+              "date_imported": "2026-01-12",
+              "category": "Getränke"
+            },
+            {
+              "id": "doc82xd5x9k6k61n102sjp7",
+              "title": "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+              "date_imported": "2025-10-22",
+              "category": "Salate"
+            }
+          ],
+          "recurring_ingredients": [
+            "senf",
+            "fleischbrühe",
+            "kartoffeln",
+            "zitronensaft",
+            "zitronen",
+            "möhren",
+            "schlagsahne",
+            "feta"
+          ],
+          "recurring_formats": [
+            "salat",
+            "auflauf",
+            "smoothie",
+            "gnocchi",
+            "pfanne",
+            "pasta"
+          ],
+          "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+          "coverage_room_0_100": 45.5
+        },
+        "brand_assessment": {
+          "id": "t6",
+          "brand": {
+            "seasonality_regional": {
+              "score": 5,
+              "reason": "Heimisches Nach-Frost-Wintergemüse, +650 % Suchwachstum – Saisonthema perfekt jetzt in der Adventszeit."
+            },
+            "ingredient_accessibility": {
+              "score": 5,
+              "reason": "Grünkohl, Kartoffeln, Senf, Fleisch überall im Supermarkt; keine exotischen Zutaten nötig."
+            },
+            "everyday_practicality": {
+              "score": 4,
+              "reason": "Pfannen- und Pasta-Formate belegen Alltagstauglichkeit; klassisches Schmoren braucht mehr Zeit."
+            },
+            "culinary_appeal": {
+              "score": 5,
+              "reason": "Deftig, sättigend, mit Pinkel oder Kassler – deckt Großinteressen Saisonalität, Regionalität und Fleisch ab."
+            },
+            "magazine_style": {
+              "score": 4,
+              "reason": "Breite Formatvarianz (Pfanne, Pasta, Auflauf) mit kurzen Zutatenlisten; Salat und Smoothie im Archiv meiden."
+            }
+          },
+          "feasibility": {
+            "shopping": {
+              "score": 5,
+              "reason": "Normale Supermarkt-Komponenten; Fleischwurst-Sorten je nach Region variabel."
+            },
+            "equipment": {
+              "score": 5,
+              "reason": "Großer Topf oder Pfanne genügt; keine Spezialgeräte."
+            },
+            "effort": {
+              "score": 4,
+              "reason": "Klassisch lange Garzeit, aber moderne Kurzformate sind alltagstauglich lösbar."
+            },
+            "recipe_development": {
+              "score": 4,
+              "reason": "Klassisch-deftige Neuausrichtung gegenüber bestehenden modernen Archivformaten gut möglich."
+            }
+          },
+          "archive": {
+            "gap_fit": {
+              "score": 3,
+              "reason": "Elf Themenrezepte in 24 Monaten;然而 fehlt der deftig-klassische Ansatz mit Fleisch."
+            },
+            "content_gap_de": "Lücke: deftig-klassischer Grünkohleintopf mit Fleisch, denn die Archivformate sind überwiegend modern (Salat, Smoothie, Pasta, Gnocchi).",
+            "repetition_risk": "medium",
+            "repetition_reason_de": "Elf Rezepte in 24 Monaten sind viel; nur die klassisch-deftige Auslegung vermeidet Wiederholung."
+          },
+          "unsuitable": false,
+          "unsuitable_reason_de": null,
+          "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+        }
+      }
+    },
+    {
+      "proposal_id": "P3",
+      "topic": "Linzer Augen (Spitzbuben)",
+      "kind": "baked_good",
+      "title_de": "Linzer Augen: Grundrezept und Blech-Variante",
+      "teaser_de": "Zur Adventsbackzeit zieht das Suchinteresse an Spitzbuben wieder deutlich an, doch ein aktuelles klassisches Grundrezept fehlt in unserem Archiv seit 2020. Mit dem Klassiker plus einer Gitter-Schnitten-Variante vom Blech setzen wir das Suchthema umfassend um.",
+      "trend_signal_de": "Google Trends weist für 'spitzbuben rezept' ein bestes Wachstum von 950 % aus. Die Wikipedia-Seite zum Linzer Auge verzeichnete 288 Aufrufe in 7 Tagen (+28 %).",
+      "brand_fit_de": "Adventsbacken ist Kernterrain der Marke: ein sauber getestetes Grundrezept für den Doppeldecker-Klassiker passt zum saisonalen Heftprogramm und bedient die Nachfrage nach dem Suchbegriff. Die Blech-Variante ergänzt das Thema ohne Archivüberschneidung.",
+      "related_recipes": [
+        {
+          "id": "doc7c2iv029tc51b9ggqcsm",
+          "why_relevant_de": "Einziger Archiv-Titel zum Thema (Spitzbuben-Format, 2020) – zeigt, dass ein Grundrezept ohne Spekulatius-Twist seither fehlt."
+        }
+      ],
+      "repetition_risk_de": "Niedrig – laut Brand-Agent nur ein Treffer in der 5.000er-Stichprobe, zuletzt 2020, keine aktuellen Überschneidungen.",
+      "content_gap_de": "Das klassische Spitzbuben-/Linzer-Augen-Grundrezept fehlt seit 2020, eine zeitgemäße Gelee-Variante fehlt im Archiv komplett.",
+      "recipe_directions": [
+        {
+          "title_de": "Linzer Augen mit Ribisel-Marmelade – das Grundrezept",
+          "idea_de": "Mürbteig 1-2-3 mit kalter Butter und gemahlenen Mandeln, sauber ausgestochen und gleichmäßig blassgelb bei 170 °C gebacken; Boden und Deckel exakt aufeinanderpassend mit Ribisel- oder Johannisbeermarmelade füllen, mit Puderzucker bestäuben. Kurzer Praxisteil zu typischen Fehlern beim Ausstechen und Backen.",
+          "format": "Ausstechplätzchen"
+        },
+        {
+          "title_de": "Linzer Schnitten vom Blech mit Quitten- und Johannisbeergelee",
+          "idea_de": "Statt auszustechen: Teig auf dem Blech ausrollen, mit gelbem und rotem Gelee (z. B. Quitten- und Johannisbeergelee) bestreichen, Gitter-Deckel auflegen, backen und in Schnitten schneiden – die zeitgemäße Gelee-Variante, im Teig leicht mit Kardamom und Nelkenpulver gewürzt.",
+          "format": "Blechgebäck / Gitter-Schnitten"
+        }
+      ],
+      "open_questions_de": [
+        "Welche Füllung testen wir im Grundrezept – Ribisel-, Johannisbeer- oder auch Marillenmarmelade?",
+        "Soll der Faksteil zu typischen Fehlern beim Ausstechen fest im Rezepttext stehen?",
+        "Läuft die Blech-Variante ins saisonale Heft oder primär online zum Suchbegriff?"
+      ],
+      "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+      "scores": {
+        "P": 78.7,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 65.8,
+          "B": 86.0,
+          "N": 85.5,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 90.9,
+          "gap_fit": 80.0
+        }
+      },
+      "evidence": {
+        "google_records": [
+          {
+            "term": "spitzbuben rezept",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 0,
+            "increase_percent": 950.0,
+            "increase_raw": "950 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 3
+          }
+        ],
+        "wikimedia": {
+          "source": "live_api",
+          "traffic_filter": "all-access; all-agents",
+          "previous_period": [
+            "2026-11-06",
+            "2026-11-12"
+          ],
+          "latest_period": [
+            "2026-11-13",
+            "2026-11-19"
+          ],
+          "previous_7d_views": 225,
+          "latest_7d_views": 288,
+          "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Linzer_Auge/daily/20261106/20261119",
+          "retrieved_at": "2026-11-20T13:45:37"
+        },
+        "trend_scores": {
+          "T": 65.8,
+          "T_note": "complete",
+          "G": 0.751,
+          "W": 0.484,
+          "best_google_growth_percent": 950.0,
+          "max_search_interest": 0,
+          "wikipedia_change": 0.28,
+          "wikipedia_trend": "growing",
+          "is_rising": true,
+          "flags": []
+        },
+        "trend_relevance_de": "Beliebtes Doppeldecker-Plätzchen mit Ribisel- oder Johannisbeermarmelade, das Suchinteresse steigt typisch in der Adventsbackzeit.",
+        "brave": {
+          "query": "Linzer Augen (Spitzbuben) Rezept",
+          "freshness": "pm",
+          "retrieved_at": "2026-11-20T13:51:23",
+          "results": [
+            {
+              "title": "Spitzbuben",
+              "url": "https://www.chefkoch.de/rezepte/729551175678687/Spitzbuben.html",
+              "description": "Die Spitzbuben sind sauber ausgestochen und gleichmäßig blassgelb gebacken. Boden und Deckel passen genau aufeinander und in der Mitte blitzt durch das Loch das rote Johannisbeergelee hervor. ... Super lecker und nicht trocken. Da geb ich 5 Sterne und noch ein paar mehr. Vielen Dank für das tolle Rezept.",
+              "age": "2 days ago"
+            },
+            {
+              "title": "Spitzbuben Plätzchen – Rezept für süßen Weihnachtsklassiker",
+              "url": "https://www.inspirationsforall.com/de/spitzbuben/",
+              "description": "Zarter Mürbeteig und fruchtige Marmelade sind in den <strong>Linzer Augen</strong> vereint. In der Weihnachtsbäckerei dürfen sie auf keinen Fall fehlen. Meine Spitzbuben Plätzchen ohne Ei sind mit Mandeln und Zitronenabrieb verfeinert.",
+              "age": "3 weeks ago"
+            },
+            {
+              "title": "Linzer Augen Rezept: Teig, Ausstechen, Marmelade, Fehler – TIROLISH",
+              "url": "https://tirolish.at/blogs/news-rezepte-tiroler-kueche/linzer-augen-rezept",
+              "description": "Linzer Augen wie in Österreich: <strong>Mürbteig 1-2-3, kalte Butter, 170 °C, Ribisel- oder Marillenmarmelade</strong>, wann zusammensetzen und warum sie weich werden.",
+              "age": "4 days ago"
+            },
+            {
+              "title": "Linzer Augen Recipe: Austrian Jam Sandwich Cookies",
+              "url": "https://www.foodtour.info/linzer-augen-recipe/",
+              "description": "This tastes closer to a Linzer Torte. Nut-free 1-2-3 dough: Leave out the almonds and use 300 g flour, 200 g butter and 100 g icing sugar, the plain Austrian shortcrust many Viennese recipes use. Apricot filling: Swap the redcurrant jelly for smooth apricot jam. Sieve it first if it has fruit pieces. Spitzbuben: The Swiss and southern German cousin, usually made without egg yolk, with the windows cut as little faces.",
+              "age": "1 month ago"
+            },
+            {
+              "title": "Linzer Plätzchen nach Omas Rezept | LECKER",
+              "url": "https://www.lecker.de/linzer-plaetzchen-64115.html",
+              "description": "Typisch ist das kleine Guckloch im oberen Plätzchen, durch das die rote Marmelade hübsch hervorblitzt. Je nach Region sind sie auch als Linzer Augen, Spitzbuben oder Hildabrötchen bekannt. Die Rezepte ähneln sich zwar sehr, dennoch gibt es je nach Variante Unterschiede bei den Zutaten oder der typischen Form.",
+              "age": "1 week ago"
+            }
+          ]
+        },
+        "archive": {
+          "search_terms": [
+            "linzer aug",
+            "linzer auge",
+            "linzer augen",
+            "spitzbub",
+            "spitzbube",
+            "spitzbuben"
+          ],
+          "title_matches": 1,
+          "title_matches_recent": 0,
+          "ingredient_only_matches": 0,
+          "most_recent_comparable": {
+            "id": "doc7c2iv029tc51b9ggqcsm",
+            "title": "Spekulatius-Spitzbuben",
+            "date_imported": "2020-08-27",
+            "category": "Weihnachten",
+            "match": "title"
+          },
+          "closest_recipes": [
+            {
+              "id": "doc7c2iv029tc51b9ggqcsm",
+              "title": "Spekulatius-Spitzbuben",
+              "date_imported": "2020-08-27",
+              "category": "Weihnachten"
+            }
+          ],
+          "recurring_ingredients": [
+            "puderzucker zum bestäuben",
+            "geschälte, gemahlene mandeln",
+            "gemahlener zimt",
+            "gelbes und rotes gelee (z.b. quittengelee und johannisbeergelee",
+            "ei größe m",
+            "kardamom und nelkenpulver",
+            "mehl und mehl zum arbeiten",
+            "etwas abgeriebene zitronenschale (unbehandelt"
+          ],
+          "recurring_formats": [],
+          "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+          "coverage_room_0_100": 90.9
+        },
+        "brand_assessment": {
+          "id": "t2",
+          "brand": {
+            "seasonality_regional": {
+              "score": 5,
+              "reason": "Adventszeit jetzt; heimischer Klassiker, Suchwachstum 950 % für 'spitzbuben rezept' belegt die Saisonalität."
+            },
+            "ingredient_accessibility": {
+              "score": 5,
+              "reason": "Mehl, Butter, Mandeln, Marmelade, Puderzucker – alles Supermarktstandard, keine exotischen Zutaten."
+            },
+            "everyday_practicality": {
+              "score": 3,
+              "reason": "Ausstechen ist kein Alltagskochen, aber als Advents-Wochenendbacken für diese Zielgruppe gut machbar."
+            },
+            "culinary_appeal": {
+              "score": 4,
+              "reason": "Beliebter Frucht-Klassiker; Süßes läuft laut Cover-Hypothesen generell schwächer, daher keinen Fünfer."
+            },
+            "magazine_style": {
+              "score": 4,
+              "reason": "Heimisch, gehoben, kurze Zutatenliste – klarer Markenfit; leichte Dämpfung durch Backen-Vorbehalt."
+            }
+          },
+          "feasibility": {
+            "shopping": {
+              "score": 5,
+              "reason": "Alle Zutaten sind Standard-Supermarktware, keine Beschaffungshürde."
+            },
+            "equipment": {
+              "score": 5,
+              "reason": "Nur Backofen, Walze und Ausstechformen – normale Küchenausstattung genügt."
+            },
+            "effort": {
+              "score": 3,
+              "reason": "Mürbeteig, Ausstechen, Zusammensetzen: mittlerer, planbarer Aufwand, ideal fürs Wochenende."
+            },
+            "recipe_development": {
+              "score": 4,
+              "reason": "Archiv-Zutaten (Quitten-/Johannisbeergelee, Kardamom) bieten konkrete Ansätze für ein modernes Rezept."
+            }
+          },
+          "archive": {
+            "gap_fit": {
+              "score": 4,
+              "reason": "Nur ein Titelrezept (Spekulatius-Variante 2020); klassisches Grundrezept seit über zwei Jahren unbesetzt."
+            },
+            "content_gap_de": "Klassisches Spitzbuben-/Linzer-Augen-Grundrezept fehlt seit 2020; eine zeitgemäße Gelee-Variante fehlt im Archiv.",
+            "repetition_risk": "low",
+            "repetition_reason_de": "Nur ein Treffer in der 5.000er-Stichprobe, letzter 2020 – keine aktuellen Überschneidungen."
+          },
+          "unsuitable": false,
+          "unsuitable_reason_de": null,
+          "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+        }
+      }
+    },
+    {
+      "proposal_id": "P4",
+      "topic": "Spitzkohl",
+      "kind": "ingredient",
+      "title_de": "Spitzkohl-Saison: sanft geschmort und überbacken",
+      "teaser_de": "Spitzkohl hat jetzt Saison und ist als günstiges Wintergemüse ideal für Alltagsküche mit kurzen Zutatenlisten. Mit den im Archiv bislang fehlenden Formaten Schmorbeilage und Ofengericht lässt sich die Saison gezielt besetzen.",
+      "trend_signal_de": "Google Trends weist für Spitzkohl das beste Wachstum mit 30 % aus, die Suchbegriffe „spitzkohl rezept“ und „spitzkohl rezepte“ laufen punktuell dazu; die Wikipedia-Seite verzeichnet 1321 Aufrufe in 7 Tagen (+3 %). In der Archiv-Stichprobe (5000 Rezepte) trägt das Thema 12-mal im Titel, 8 Treffer entfallen auf die letzten 24 Monate.",
+      "brand_fit_de": "Saisonales, preiswertes Wintergemüse mit weniger Zutaten passt zum Leserzuschnitt von „das schmeckt!“. Das Thema trägt ein modernes Wintergemüse-Kapitel und besetzt Beilagen- und Ofenformate, die wir bisher nicht im Archiv haben.",
+      "related_recipes": [
+        {
+          "id": "doc87zuee4xx401ksejno3w",
+          "why_relevant_de": "Jüngster Archivtreffer (2026-10-12) und belegt die laufende Redaktionsaktivität; das Curry-Format wird im Paket nicht erneut angetreten."
+        },
+        {
+          "id": "doc83i4allxwwyjwf7e1sln",
+          "why_relevant_de": "Zeigt, dass Pfannenformate beim Spitzkohl gut besetzt sind – die neuen Ideen setzen bewusst auf Schmortopf und Ofen."
+        },
+        {
+          "id": "doc838puvj9zmu1dvgjl59d",
+          "why_relevant_de": "Klassischer Spitzkohl-Eintopf; die vorgeschlagene Senf-Rahm-Beilage differenziert sich als leichtes Schmorgericht klar davon."
+        },
+        {
+          "id": "doc870dbwz4vdt1gyg0flv",
+          "why_relevant_de": "Die Nudelschiene wurde erst kürzlich bedient (2026-08-04); deshalb ist im vorgeschlagenen Paket explizit keine Pasta vorgesehen."
+        }
+      ],
+      "repetition_risk_de": "Medium: 8 Treffer in 24 Monaten zeigen laufende Aktivität, doch die geringe Dichte lässt neue Formate wie Schmorgeschirr und Überbackenes zu.",
+      "content_gap_de": "Klassisch sanft geschmorte Beilagen (z. B. Senf-Rahm laut Web) und überbackene Ofengerichte fehlen im Archiv vollständig.",
+      "recipe_directions": [
+        {
+          "title_de": "Spitzkohl in Senf-Rahm",
+          "idea_de": "Spitzkohlviertel in Butterschmalz rundum anbraten, dann mit Sahne und Senf sanft schmoren, bis sie weich sind. Schlanke Beilage zu Kartoffeln oder Sonntagsbraten – laut Web-Befund ein gefragtes Format, das im Archiv noch nicht besetzt ist.",
+          "format": "Geschmorte Beilage (Schmortopf, auf dem Herd)"
+        },
+        {
+          "title_de": "Kartoffel-Spitzkohl-Gratin",
+          "idea_de": "Kartoffelscheiben und Spitzkohlstreifen schichten, mit Rahm und geriebenem Bergkäse übergießen und im Ofen goldbraun überbacken; dazu nur rote Zwiebeln und Muskat. Sättigendes vegetarisches Hauptgericht oder üppige Winterbeilage.",
+          "format": "Ofengericht (Gratin, überbacken)"
+        }
+      ],
+      "open_questions_de": [
+        "Overall-Aufbau: kurze Beilagen-Doppelseite oder kleines Wintergemüse-Kapitel mit Putz- und Schneidtipps?",
+        "Saisonfenster: Wie lange ist Spitzkohl lieferbar und welche Heft-Schlusstermine sind zu beachten?",
+        "Sollen beide Rezepte vegetarisch bleiben oder wünscht die Redaktion eine Fleisch-Anbindung (Beilage zum Braten)?",
+        "Soll online zusätzlich ein frisches Format (Salat) ausgespielt werden?"
+      ],
+      "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+      "scores": {
+        "P": 77.9,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 71.6,
+          "B": 90.0,
+          "N": 61.8,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 63.6,
+          "gap_fit": 60.0
+        }
+      },
+      "evidence": {
+        "google_records": [
+          {
+            "term": "spitzkohl rezept",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 30.0,
+            "increase_raw": "30 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 40
+          },
+          {
+            "term": "spitzkohl rezepte",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 0,
+            "increase_percent": 20.0,
+            "increase_raw": "20 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 46
+          },
+          {
+            "term": "Pointed white cabbage (Plant)",
+            "signal_type": "rising",
+            "source_kind": "topic",
+            "search_interest": 30,
+            "increase_percent": 30.0,
+            "increase_raw": "30 %",
+            "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 15
+          },
+          {
+            "term": "spitzkohl rezept",
+            "signal_type": "top",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 30.0,
+            "increase_raw": "30 %",
+            "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 23
+          }
+        ],
+        "wikimedia": {
+          "source": "live_api",
+          "traffic_filter": "all-access; all-agents",
+          "previous_period": [
+            "2026-11-06",
+            "2026-11-12"
+          ],
+          "latest_period": [
+            "2026-11-13",
+            "2026-11-19"
+          ],
+          "previous_7d_views": 1281,
+          "latest_7d_views": 1321,
+          "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Spitzkohl/daily/20261106/20261119",
+          "retrieved_at": "2026-11-20T13:45:38"
+        },
+        "trend_scores": {
+          "T": 71.6,
+          "T_note": "complete",
+          "G": 0.805,
+          "W": 0.551,
+          "best_google_growth_percent": 30.0,
+          "max_search_interest": 30,
+          "wikipedia_change": 0.031,
+          "wikipedia_trend": "stable",
+          "is_rising": true,
+          "flags": []
+        },
+        "trend_relevance_de": "Spitzkohl hat jetzt Saison; eignet sich für Salate, Pfannengerichte und ein modernes Wintergemüse-Kapitel.",
+        "brave": {
+          "query": "Spitzkohl Rezept",
+          "freshness": "pm",
+          "retrieved_at": "2026-11-20T13:51:22",
+          "results": [
+            {
+              "title": "Senf-Rahm-Spitzkohl Rezept - REWE.de",
+              "url": "https://www.rewe.de/rezepte/senf-rahm-spitzkohl/",
+              "description": "Hier kannst du uns Feedback zum Rezept geben. ... Wir zeigen dir, was du damit zubereiten kannst und helfen dir, weniger wegzuwerfen. ... <strong>Den Spitzkohl halbieren, vom Strunk befreien, vierteln, waschen und abtropfen lassen.</strong>",
+              "age": "1 month ago"
+            },
+            {
+              "title": "30+ beste Spitzkohl-Rezepte 2026 | HelloFresh",
+              "url": "https://www.hellofresh.de/recipes/vegetarische-rezepte/spitzkohl",
+              "description": "Damit eignet er sich perfekt für eine leichte und gesunde Küche und findet Platz in ganz unterschiedlichen Rezepten. In Eintöpfen, Pfannengerichten und Auflaufgerichten aus dem Ofen sorgt er für eine ungeahnte Frische und Leichtigkeit und schmeckt auch roh in Salaten. Dank der kurzen Garzeit ist der Spitzkohl perfekt für schnelle und einfache Gerichte aus der Pfanne oder dem Wok.",
+              "age": "3 weeks ago"
+            },
+            {
+              "title": "Spitzkohl zubereiten: So gelingt dir das Wintergemüse - Utopia.de",
+              "url": "https://utopia.de/ratgeber/spitzkohl-zubereiten-so-gelingt-dir-das-wintergemuese_157912/",
+              "description": "Backe den Spitzkohl ohne Deckel für weitere 20 Minuten. Überarbeitet von Laura Hintereder · Weiterlesen auf Utopia.de: Steckrüben-Rezepte: Das kannst du mit dem regionalen Wintergemüse zubereiten · Rosenkohl pflanzen: Tipps zu Standort, Pflege und Ernte ·",
+              "age": "3 weeks ago"
+            },
+            {
+              "title": "Kräftig, deftig, würzig: Spitzkohl aus dem Ofen mit Speck und Parmesan",
+              "url": "https://www.chefkoch.de/magazin/artikel/235141692016159-spitzkohl-speck-parmesan-ueberbacken-1",
+              "description": "Längs in etwa 6 Spalten schneiden. Den Strunk nur optional kürzen, da der Kohl zusammenhalten soll. <strong>Auflaufform (etwa 25 × 30 cm) mit Olivenöl bepinseln, die Spitzkohlspalten hineinlegen und die Speckwürfel darüber verteilen</strong>.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Spitzkohl aus dem Ofen: Voller Veggie-Röstaromen",
+              "url": "https://www.chefkoch.de/magazin/artikel/134589803130039-spitzkohl-aus-dem-ofen-4",
+              "description": "Sieht der geschmorte Spitzkohl aus dem Ofen nicht toll aus? Wir haben da das perfekte Rezept für das leckere Herbst- und Wintergericht. Fein gewürzt mit Miso, Knoblauch und Paprikapulver duftet die ganze Küche danach.",
+              "age": "4 weeks ago"
+            }
+          ]
+        },
+        "archive": {
+          "search_terms": [
+            "spitzkohl"
+          ],
+          "title_matches": 12,
+          "title_matches_recent": 8,
+          "ingredient_only_matches": 13,
+          "most_recent_comparable": {
+            "id": "doc87zuee4xx401ksejno3w",
+            "title": "Spitzkohlcurry",
+            "date_imported": "2026-10-12",
+            "category": "Gemüse-, Kartoffel- und Reisgerichte",
+            "match": "title"
+          },
+          "closest_recipes": [
+            {
+              "id": "doc87zuee4xx401ksejno3w",
+              "title": "Spitzkohlcurry",
+              "date_imported": "2026-10-12",
+              "category": "Gemüse-, Kartoffel- und Reisgerichte"
+            },
+            {
+              "id": "doc870dbwz4vdt1gyg0flv",
+              "title": "Spitzkohl-Nudel-Schnecken",
+              "date_imported": "2026-08-04",
+              "category": "Pasta und Nudelgerichte"
+            },
+            {
+              "id": "doc84mjyvi2g1536tnwnan",
+              "title": "Spitzkohl mit Hackfleisch",
+              "date_imported": "2026-02-18",
+              "category": "Gemüse-, Kartoffel- und Reisgerichte"
+            },
+            {
+              "id": "doc83i4allxwwyjwf7e1sln",
+              "title": "Schupfnudel-Pfanne mit Spitzkohl",
+              "date_imported": "2025-12-01",
+              "category": "Pasta und Nudelgerichte"
+            },
+            {
+              "id": "doc83fkt6uvl3n1jubyp7i",
+              "title": "Asia-Ente mit Basmatireis und Spitzkohl-Pickles",
+              "date_imported": "2025-11-26",
+              "category": "Fleisch und Geflügel"
+            },
+            {
+              "id": "doc838puvj9zmu1dvgjl59d",
+              "title": "Spitzkohl-Eintopf mit Hackfleisch",
+              "date_imported": "2025-11-13",
+              "category": "Suppen und Eintöpfe"
+            }
+          ],
+          "recurring_ingredients": [
+            "butterschmalz",
+            "kartoffeln",
+            "petersilie",
+            "rote zwiebeln",
+            "koriander",
+            "limetten",
+            "möhren",
+            "kokosmilch"
+          ],
+          "recurring_formats": [
+            "pfanne",
+            "curry",
+            "eintopf",
+            "salat",
+            "nudeln"
+          ],
+          "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+          "coverage_room_0_100": 63.6
+        },
+        "brand_assessment": {
+          "id": "t33",
+          "brand": {
+            "seasonality_regional": {
+              "score": 5,
+              "reason": "Heimisches Wintergemüse in Hochsaison; Suchbegriff 'spitzkohl rezept' wächst, trifft Großinteresse Saisonthemen."
+            },
+            "ingredient_accessibility": {
+              "score": 5,
+              "reason": "Standardware bei Rewe und HelloFresh gelistet; heimischer Anbau, keine exotischen Zutaten."
+            },
+            "everyday_practicality": {
+              "score": 4,
+              "reason": "Pfanne, Eintopf, Nudeln: Archivdominanz zeigt Alltagsformate mit kurzen Zutatenlisten."
+            },
+            "culinary_appeal": {
+              "score": 4,
+              "reason": "Mit Hackfleisch oder Schupfnudeln sättigend und 'fressig'; Salatanteil gering halten."
+            },
+            "magazine_style": {
+              "score": 4,
+              "reason": "Regionales Saisongemüse, alltagstauglich; Veggie-Nutzen als Nice-to-have passend."
+            }
+          },
+          "feasibility": {
+            "shopping": {
+              "score": 5,
+              "reason": "Im Supermarkt breit verfügbar, saisonal günstig; Web-Belege von REWE und HelloFresh."
+            },
+            "equipment": {
+              "score": 5,
+              "reason": "Pfanne, Topf, Ofen genügen; Archivformate brauchen nur Standardküche."
+            },
+            "effort": {
+              "score": 4,
+              "reason": "Schnelle Pfannen- und Eintopfformate sind alltagstauglich; Putzaufwand gering."
+            },
+            "recipe_development": {
+              "score": 4,
+              "reason": "Vielseitig einsetzbar (Pfanne, Curry, Ofen); modernes Wintergemüse-Kapitel gut entwickelbar."
+            }
+          },
+          "archive": {
+            "gap_fit": {
+              "score": 3,
+              "reason": "Nur 12 Archivrezepte, 8 aktuell; klassische Beilage-Zubereitung fehlt, Moderne Formate vorhanden."
+            },
+            "content_gap_de": "Klassisch sanft geschmorte Beilage (z. B. Senf-Rahm laut Web) und überbackenes Ofengericht fehlen im Archiv.",
+            "repetition_risk": "medium",
+            "repetition_reason_de": "8 Treffer in 24 Monaten zeigen Aktivität, doch geringe Dichte lässt neue Formate zu."
+          },
+          "unsuitable": false,
+          "unsuitable_reason_de": null,
+          "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+        }
+      }
+    },
+    {
+      "proposal_id": "P5",
+      "topic": "Gulasch",
+      "kind": "dish",
+      "title_de": "Gulasch: Ein Grundrezept, viele Wege",
+      "teaser_de": "Der herbstliche Eintopf-Klassiker erreicht ein breites Publikum – und das Archiv zeigt fast nur Varianten. Ein kompaktes Rindergulasch-Grundrezept plus eine schnelle Pfannen-Version schließen die Lücke ohne vierte Wiederholung im gleichen Format.",
+      "trend_signal_de": "Google Trends zeigt mit 20 % das beste Wachstum für die Suchbegriffe 'Goulash (Soup)', 'gulasch rezept' und 'rezept gulasch'; die Wikipedia-Seite verzeichnet 2181 Aufrufe in 7 Tagen (+22 %).",
+      "brand_fit_de": "Passend zur Herbstsaison und zum Service-Heimbereich: Der Themenkomplex von ungarisch bis vegetarisch bietet Ansatzpunkte für eine kleine Serie statt eines Einzelrezepts.",
+      "related_recipes": [
+        {
+          "id": "doc86b6htwrmdi19vifue4c",
+          "why_relevant_de": "Vorhandene Rind-Variante mit Pilzen, von der sich das geplante schlanke Grundrezept klar abgrenzen kann."
+        },
+        {
+          "id": "doc87btcderap11i1h62qwu",
+          "why_relevant_de": "Saisonale Herbstvariante mit Kürbis und Maronen, Anknüpfungspunkt für die Serienidee."
+        },
+        {
+          "id": "doc88e8hcsgnsx1h4szmjs6",
+          "why_relevant_de": "Belegt die vegane Leserschaft-Schiene innerhalb des Themas."
+        }
+      ],
+      "repetition_risk_de": "Hohes Wiederholungsrisiko: 23 Gulasch-Rezepte in den letzten 24 Monaten, ein weiteres Rezept im gewohnten Eintopf-/Suppenformat wirkt schnell redundant.",
+      "content_gap_de": "Es fehlt ein kompaktes klassisches Rindergulasch-Grundrezept mit kurzer Zutatenliste, da das Archiv überwiegend Varianten zeigt.",
+      "recipe_directions": [
+        {
+          "title_de": "Rindergulasch-Grundrezept zum Nachschlagen",
+          "idea_de": "Schlankes Meisterrezept mit kurzer Zutatenliste (Rind, Zwiebeln, Paprika, Tomatenmark, Lorbeer, Majoran) inklusive knackiger Technik-Anleitung zum Anbraten und Schmoren. Fachlich aufbereitet als Referenz, die Leserinnen aufbewahren.",
+          "format": "Schmorgericht im Topf"
+        },
+        {
+          "title_de": "Gulaschpfanne für unter der Woche",
+          "idea_de": "Dieselben Aromen, aber ohne zwei Stunden Schmorzeit: Gulasch-Würfel vom Schwein klein geschnitten und kurz in der Pfanne mit Paprika und Zwiebeln gebraten. Alltagstaugliche Antwort auf die high-repeat-Falle, weil das Format komplett neu ist.",
+          "format": "Pfannengericht"
+        }
+      ],
+      "open_questions_de": [
+        "Setzen wir das Grundrezept als aufbewahrbares Service-Blatt oder als klassische Rezeptseite?",
+        "Läuft die Pfannen-Variante im selben Heft oder erst als Folgestoff der Serie?",
+        "Wie stark verweisen wir redaktionell auf die bestehenden Varianten (Wild, vegan, Kürbis), um die Serie zu stützen, ohne zu wiederholen?"
+      ],
+      "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+      "scores": {
+        "P": 74.6,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 79.4,
+          "B": 91.0,
+          "N": 33.6,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 27.3,
+          "gap_fit": 40.0
+        }
+      },
+      "evidence": {
+        "google_records": [
+          {
+            "term": "rezept gulasch",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 20.0,
+            "increase_raw": "20 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 44
+          },
+          {
+            "term": "gulasch rezept",
+            "signal_type": "rising",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 20.0,
+            "increase_raw": "20 %",
+            "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 48
+          },
+          {
+            "term": "gulasch rezept",
+            "signal_type": "top",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 20.0,
+            "increase_raw": "20 %",
+            "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 10
+          },
+          {
+            "term": "rezept gulasch",
+            "signal_type": "top",
+            "source_kind": "query",
+            "search_interest": 1,
+            "increase_percent": 20.0,
+            "increase_raw": "20 %",
+            "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 11
+          },
+          {
+            "term": "Goulash (Soup)",
+            "signal_type": "top",
+            "source_kind": "topic",
+            "search_interest": 45,
+            "increase_percent": 7.0,
+            "increase_raw": "7 %",
+            "source_file": "searched_with_top-searches_topics_DE_20261018-1818_20261118-1818.csv",
+            "source_row": 18
+          }
+        ],
+        "wikimedia": {
+          "source": "live_api",
+          "traffic_filter": "all-access; all-agents",
+          "previous_period": [
+            "2026-11-06",
+            "2026-11-12"
+          ],
+          "latest_period": [
+            "2026-11-13",
+            "2026-11-19"
+          ],
+          "previous_7d_views": 1787,
+          "latest_7d_views": 2181,
+          "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gulasch/daily/20261106/20261119",
+          "retrieved_at": "2026-11-20T13:45:38"
+        },
+        "trend_scores": {
+          "T": 79.4,
+          "T_note": "complete",
+          "G": 0.774,
+          "W": 0.832,
+          "best_google_growth_percent": 20.0,
+          "max_search_interest": 45,
+          "wikipedia_change": 0.22,
+          "wikipedia_trend": "growing",
+          "is_rising": true,
+          "flags": []
+        },
+        "trend_relevance_de": "Herbstlicher Eintopf-Klassiker mit breitem Publikum; Varianten von ungarisch bis vegetarisch bieten Ansatzpunkte für Serien.",
+        "brave": {
+          "query": "Gulasch Rezept",
+          "freshness": "pm",
+          "retrieved_at": "2026-11-20T13:51:21",
+          "results": [
+            {
+              "title": "Das Gulasch Rezept, das einfach alle lieben",
+              "url": "https://www.familienkost.de/rezept_gulasch.html",
+              "description": "Nimm den Deckel anschließend ab und koche den Gulasch offen für weitere 30-40 Minuten. Dabei verdampft etwas Brühe und die Soße dickt wunderbar ein. Schmecke ihn zum Schluss mit Salz und Pfeffer ab. ... Deine persönliche Rezept-Notiz Diese Notiz siehst nur du auf diesem Gerät und in diesem Browser.",
+              "age": "1 month ago"
+            },
+            {
+              "title": "Rindergulasch, klassisch – saftig und zart",
+              "url": "https://www.chefkoch.de/rezepte/2275401363075693/Rindergulasch.html",
+              "description": "Mit diesem Rezept gelingt dir Rindergulasch auf klassische Art und mit wenigen Handgriffen. <strong>Nach dem Gemüse schneiden, werden Fleisch und Gemüse angebraten, mit Rotwein und Brühe abgelöscht und anschließend lange bei geringer Hitze geschmort</strong>.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Gulasch Rezept: klassisch, mit Garzeiten für jeden Topf",
+              "url": "https://www.grillfuerst.de/magazin/grillrezepte/gulasch/",
+              "description": "Gulasch Rezept klassisch: <strong>1 kg Rind, 1 kg Zwiebeln, Paprika und 2 Stunden Schmoren</strong>. Mit Garzeiten für Topf, Backofen, Schnellkochtopf und Dutch Oven.",
+              "age": "2 weeks ago"
+            },
+            {
+              "title": "Rindergulasch Rezept: zart geschmort mit Paprika und Kartoffeln - Shibas Kitchen",
+              "url": "https://shibaskitchen.de/rindergulasch-rezept/",
+              "description": "Die genauen Mengenangaben findest du wie immer ganz unten in der Rezeptkarte. Rindfleisch: ideal zum Schmoren, da es schön zart wird. Hier von der Schulter in ca. 4 cm große Würfel geschnitten. Zwiebel und Knoblauch: Zwiebel in Stücke geschnitten. Knoblauch klein gehackt. Paprika: am besten bunt gemischt für eine süßlich-frische Note · Tomaten: entkernt und in Stücke geschnitten. Alternativ Dosentomaten verwenden. Kartoffeln: mehligkochend, machen das Gulasch sättigend, du kannst sie aber auch weglassen.",
+              "age": "1 month ago"
+            },
+            {
+              "title": "Ungarisches Gulasch mit Paprika",
+              "url": "https://www.familienkost.de/rezept_rindergulasch.html",
+              "description": "Mit einem Klick aufs Herz hüpft das Rezept direkt auf deine persönliche Merkliste! Haltbarkeit: Im Kühlschrank ca. 3 TageEinfrieren: Ja, ca. 3 Monate ... Die Zubereitung ist kein Hexenwerk. Ein paar Kleinigkeiten machen aber den Unterschied zwischen einem ganz normalen und einem richtig guten ungarischen Gulasch.",
+              "age": "1 month ago"
+            }
+          ]
+        },
+        "archive": {
+          "search_terms": [
+            "gulasch"
+          ],
+          "title_matches": 39,
+          "title_matches_recent": 23,
+          "ingredient_only_matches": 1,
+          "most_recent_comparable": {
+            "id": "doc88e8hcsgnsx1h4szmjs6",
+            "title": "Vegane Gulaschsuppe",
+            "date_imported": "2026-11-09",
+            "category": "Suppen und Eintöpfe",
+            "match": "title"
+          },
+          "closest_recipes": [
+            {
+              "id": "doc88e8hcsgnsx1h4szmjs6",
+              "title": "Vegane Gulaschsuppe",
+              "date_imported": "2026-11-09",
+              "category": "Suppen und Eintöpfe"
+            },
+            {
+              "id": "doc87y9966s85z1hs5g1b0m",
+              "title": "Wurstgulasch mit Nudeln",
+              "date_imported": "2026-10-09",
+              "category": "Fleisch und Geflügel"
+            },
+            {
+              "id": "doc87t69ar7mhxxg172gig",
+              "title": "Buntes Kartoffel-Schweinegulasch",
+              "date_imported": "2026-09-29",
+              "category": "Fleisch und Geflügel"
+            },
+            {
+              "id": "doc87btcderap11i1h62qwu",
+              "title": "Wildgulasch mit Kürbis und Maronen",
+              "date_imported": "2026-08-26",
+              "category": "Fleisch und Geflügel"
+            },
+            {
+              "id": "doc874k2i6z7hd1blxp8p9q",
+              "title": "Kürbis-Kartoffel-Gulasch",
+              "date_imported": "2026-08-12",
+              "category": "Fleisch und Geflügel"
+            },
+            {
+              "id": "doc86b6htwrmdi19vifue4c",
+              "title": "Rindergulasch mit Pilzen",
+              "date_imported": "2026-06-16",
+              "category": "Fleisch und Geflügel"
+            }
+          ],
+          "recurring_ingredients": [
+            "tomatenmark",
+            "fleischbrühe",
+            "lorbeerblätter",
+            "rotwein",
+            "möhren",
+            "majoran",
+            "petersilie",
+            "butterschmalz"
+          ],
+          "recurring_formats": [
+            "gulasch",
+            "suppe",
+            "ofen",
+            "nudeln",
+            "eintopf",
+            "brot"
+          ],
+          "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+          "coverage_room_0_100": 27.3
+        },
+        "brand_assessment": {
+          "id": "t37",
+          "brand": {
+            "seasonality_regional": {
+              "score": 4,
+              "reason": "Herbstlicher Schmor-Klassiker, in Deutschland fest verankert; Saisonbezug über Wild und Kürbis gut."
+            },
+            "ingredient_accessibility": {
+              "score": 5,
+              "reason": "Rind, Zwiebeln, Paprika, Tomatenmark, Rotwein – durchgängig Supermarkt-Standardware."
+            },
+            "everyday_practicality": {
+              "score": 4,
+              "reason": "Eintopf aus einem Topf, sättigend; Ofen- und Kurzvarianten machen Schmorzeit alltagstauglich."
+            },
+            "culinary_appeal": {
+              "score": 5,
+              "reason": "Cover-Hypothesen: Fleisch- und klassische Gerichte funktionieren gut – Gulasch trifft beides exakt."
+            },
+            "magazine_style": {
+              "score": 5,
+              "reason": "39 Archivrezepte belegen breite Varianz; nachkochbar, kurze Zutatenlisten gut möglich."
+            }
+          },
+          "feasibility": {
+            "shopping": {
+              "score": 5,
+              "reason": "Alle Zutaten Standard; Fleischqualität flexibel wählbar."
+            },
+            "equipment": {
+              "score": 5,
+              "reason": "Schmortopf oder Bräter genügt; Ofen optional."
+            },
+            "effort": {
+              "score": 3,
+              "reason": "1,5–2 Stunden Schmorzeit; eher Wochenend- oder Ofenformat als schnelle Wochenküche."
+            },
+            "recipe_development": {
+              "score": 4,
+              "reason": "Qualitätvolles Grundrezept plus Tipps möglich, doch viele Varianten sind bereits gezeigt."
+            }
+          },
+          "archive": {
+            "gap_fit": {
+              "score": 2,
+              "reason": "23 Themenrezepte in 24 Monaten; Varianten (vegan, Wild, Kürbis, Wurst) bereits vollständig besetzt."
+            },
+            "content_gap_de": "Lücke: kompaktes klassisches Rindergulasch-Grundrezept mit kurzer Zutatenliste, da das Archiv überwiegend Varianten zeigt.",
+            "repetition_risk": "high",
+            "repetition_reason_de": "23 Rezepte in 24 Monaten; ein weiteres Gulasch wirkt für Leserinnen schnell wiederholend."
+          },
+          "unsuitable": false,
+          "unsuitable_reason_de": null,
+          "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+        }
+      }
+    }
+  ],
+  "shortlist": [
+    {
+      "topic": "Grünkohl",
+      "kind": "ingredient",
+      "scores": {
+        "P": 80.1,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 80.4,
+          "B": 93.0,
+          "N": 52.8,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 45.5,
+          "gap_fit": 60.0
+        }
+      },
+      "selected": true
+    },
+    {
+      "topic": "Gulasch",
+      "kind": "dish",
+      "scores": {
+        "P": 74.6,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 79.4,
+          "B": 91.0,
+          "N": 33.6,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 27.3,
+          "gap_fit": 40.0
+        }
+      },
+      "selected": true
+    },
+    {
+      "topic": "Tiramisu",
+      "kind": "dish",
+      "scores": {
+        "P": 60.6,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 77.3,
+          "B": 62.0,
+          "N": 14.6,
+          "F": 80.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 9.1,
+          "gap_fit": 20.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Bolognese",
+      "kind": "dish",
+      "scores": {
+        "P": 74.4,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 73.5,
+          "B": 79.0,
+          "N": 57.2,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 54.5,
+          "gap_fit": 60.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Lebkuchen",
+      "kind": "baked_good",
+      "scores": {
+        "P": 68.1,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 73.1,
+          "B": 86.0,
+          "N": 20.0,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 0.0,
+          "gap_fit": 40.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Spitzkohl",
+      "kind": "ingredient",
+      "scores": {
+        "P": 77.9,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 71.6,
+          "B": 90.0,
+          "N": 61.8,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 63.6,
+          "gap_fit": 60.0
+        }
+      },
+      "selected": true
+    },
+    {
+      "topic": "Rosenkohl",
+      "kind": "ingredient",
+      "scores": {
+        "P": 74.3,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 71.2,
+          "B": 90.0,
+          "N": 48.2,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 36.4,
+          "gap_fit": 60.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Vanillekipferl",
+      "kind": "baked_good",
+      "scores": {
+        "P": 73.5,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 69.9,
+          "B": 86.0,
+          "N": 56.4,
+          "F": 80.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 72.7,
+          "gap_fit": 40.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Linzer Augen (Spitzbuben)",
+      "kind": "baked_good",
+      "scores": {
+        "P": 78.7,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 65.8,
+          "B": 86.0,
+          "N": 85.5,
+          "F": 85.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 90.9,
+          "gap_fit": 80.0
+        }
+      },
+      "selected": true
+    },
+    {
+      "topic": "Zimtsterne",
+      "kind": "baked_good",
+      "scores": {
+        "P": 70.0,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 65.4,
+          "B": 79.0,
+          "N": 60.9,
+          "F": 75.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 81.8,
+          "gap_fit": 40.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Lasagne",
+      "kind": "dish",
+      "scores": {
+        "P": 61.9,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 64.3,
+          "B": 81.0,
+          "N": 19.1,
+          "F": 75.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 18.2,
+          "gap_fit": 20.0
+        }
+      },
+      "selected": false
+    },
+    {
+      "topic": "Husarenkrapferl (Engelsaugen)",
+      "kind": "baked_good",
+      "scores": {
+        "P": 81.7,
+        "available_maximum": 100.0,
+        "components": {
+          "T": 64.0,
+          "B": 86.0,
+          "N": 100.0,
+          "F": 90.0
+        },
+        "weights": {
+          "T": 0.35,
+          "B": 0.3,
+          "N": 0.2,
+          "F": 0.15
+        },
+        "missing": [],
+        "N_detail": {
+          "coverage_room": 100.0,
+          "gap_fit": 100.0
+        }
+      },
+      "selected": true
+    }
+  ]
+}

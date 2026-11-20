@@ -1,9 +1,9 @@
-"""Frozen demo snapshots: trends, proposals and complete editorial runs, committed to the repo.
+"""Frozen demo snapshots: trends, proposals, complete editorial runs and Archiv-Revival results, committed to the repo.
 
 The live sources (Wikimedia, Brave, gateway) change or can fail; a snapshot lets the demo run from
 fixed, reproducible data. Restoring never deletes anything: the current runs/ files are backed up first.
 
-  python -m storage.snapshot save <name> [run_id ...]   (default: all runs)
+  python -m storage.snapshot save <name> [run_id ...]   (default: all runs + all revival results)
   python -m storage.snapshot restore <name>
   python -m storage.snapshot list
 """
@@ -36,8 +36,13 @@ def list_snapshots() -> list[dict]:
     return out
 
 
+def _revivals() -> list[str]:
+    return sorted(p.name for p in runs.RUNS.glob("revival_*") if p.is_dir())
+
+
 def save(name: str, run_ids: list[str] | None = None) -> Path:
-    run_ids = run_ids or runs.list_runs()
+    revival_ids = [r for r in (run_ids or []) if r.startswith("revival_")] or (_revivals() if not run_ids else [])
+    run_ids = [r for r in (run_ids or []) if r.startswith("run_")] or (runs.list_runs() if not run_ids else [])
     target = SNAP_DIR / name
     if target.exists():
         raise FileExistsError(f"Snapshot {name} exists already; choose a new name")
@@ -53,6 +58,13 @@ def save(name: str, run_ids: list[str] | None = None) -> Path:
         run_info.append({"run_id": rid, "proposal": f"{sel['proposal_id']} {sel['proposal'].get('title_de')}",
                          "editor": sel["editor"], "status": st["status"],
                          "recipes": {s: f"v{r['version']} {r.get('title')} ({r.get('status')})" for s, r in recipes.items()}})
+    revival_info = []
+    for rid in revival_ids:
+        shutil.copytree(runs.RUNS / rid, target / rid)
+        data = runs.read_json(runs.RUNS / rid / "revival.json") or {}
+        revival_info.append({"revival_id": rid, "seed": data.get("seed"),
+                             "items": [i["title"] for i in data.get("items", [])],
+                             "images": sum(1 for i in data.get("items", []) if i.get("image"))})
     trends = runs.read_json(runs.TRENDS) or {}
     proposals = runs.read_json(runs.PROPOSALS) or {}
     manifest = {
@@ -61,6 +73,7 @@ def save(name: str, run_ids: list[str] | None = None) -> Path:
         "proposals_generated_at": proposals.get("generated_at"),
         "proposals": [f"{p['proposal_id']} {p.get('title_de')}" for p in proposals.get("proposals", [])],
         "runs": run_info,
+        "revivals": revival_info,
     }
     (target / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     return target
@@ -79,7 +92,7 @@ def restore(name: str) -> dict:
     for item in source.iterdir():
         if item.name in TOP_FILES:
             shutil.copy2(item, runs.RUNS / item.name)
-        elif item.is_dir() and item.name.startswith("run_"):
+        elif item.is_dir() and item.name.startswith(("run_", "revival_")):
             dest = runs.run_dir(item.name)
             if dest.exists():
                 shutil.move(str(dest), str(backup / item.name))

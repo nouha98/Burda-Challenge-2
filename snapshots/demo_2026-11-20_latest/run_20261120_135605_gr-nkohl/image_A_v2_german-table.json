@@ -1,0 +1,35 @@
+{
+  "slot": "A",
+  "recipe_version": 2,
+  "file": "image_A_v2.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "3d9c0ddd-0880-4c4b-89c3-cb07e8e1cc0a",
+  "seed": 3078699378,
+  "cost_credits": 0.9,
+  "seconds": 6.2,
+  "prompt": "Two generous home-cooked portions of curly cabbage and potato stew in plain white deep plates. Soft dark olive-green crinkled cabbage ribbons tangle through cloudy, lightly thickened light-brown broth, with eight to ten pale-yellow 3-cm potato chunks per plate, edges rounded and a few crushed. Add twelve to fifteen 2-cm smoked cured pork cubes, muted brown outside and pink-grey inside, plus tiny translucent onion flecks. Each plate has one unburst, slightly curved 13-cm sausage in matt tan natural casing; one is cut open, revealing coarse grey-beige meat-and-groats filling with pale fat specks, not a smooth frankfurter. Light wooden table, ordinary cutlery, grey cotton napkin, second plate softly behind. Natural window side light, 50 mm, 35° angle, f/4, front plate sharp, background softly blurred, true-to-life colours, square format, centred with space. No added garnish, text, logos, hands or people.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "After about an hour of covered braising, the broad leaf strips have collapsed into abundant, tangled ribbons and folded leaf pieces, roughly 2–4 cm wide with some narrow rib sections. They are very tender, dark olive green with brownish-green areas, wet from the broth and visibly crinkled and curly. The sturdy curled texture distinguishes them from a smooth, nearly puréed spinach mass."
+    },
+    {
+      "name_de": "Kartoffeln",
+      "real_life_appearance": "About 8–10 peeled chunks per portion, originally cut to roughly 3 cm and now soft with slightly rounded, irregular edges. The flesh is cream to pale yellow and matt; most pieces remain intact, while a few are cracked or deliberately crushed and blend into the broth, making it lightly thick rather than clear. They are boiled and braised, with no roasted or fried surfaces."
+    },
+    {
+      "name_de": "Zwiebel",
+      "real_life_appearance": "The fine dice, about 3–4 mm before cooking, are mostly softened into the stew after sweating and prolonged braising. Only scattered tiny, translucent pale-beige flecks remain visible among the cabbage and in the broth, with no raw white crunch and no dark caramelised strands."
+    },
+    {
+      "name_de": "Kassler",
+      "real_life_appearance": "Approximately 12–15 irregular lean pork cubes per portion, about 1.5–2 cm after cooking. Brief searing leaves muted beige-brown patches and edges, subsequently softened by braising; exposed or broken surfaces retain the characteristic pale cure-pink to pink-grey interior. The cubes are firm but tender, with a fine cured-meat grain and occasionally a narrow fat edge, not the broad smooth pink slices of boiled ham."
+    },
+    {
+      "name_de": "Pinkel",
+      "real_life_appearance": "One whole sausage per portion, typically about 12–15 cm long and 3 cm thick, slightly curved with tied ends. Gently simmered but unburst, it has a dull tan to grey-brown natural casing that may be lightly wrinkled. Where cut open, the filling is coarse and grey-beige to grey-brown, with irregular meat particles, pale fat specks and oatmeal-like groats; it is open-textured and slightly crumbly, not smooth, uniformly pink or finely emulsified like a frankfurter."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "created_at": "2026-11-20T14:50:48"
+}

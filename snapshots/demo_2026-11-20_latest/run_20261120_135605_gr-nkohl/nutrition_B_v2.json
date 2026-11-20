@@ -1,0 +1,224 @@
+{
+  "recipe_id": "run_20261120_135605_gr-nkohl_B",
+  "slot": "B",
+  "recipe_version": 2,
+  "servings": 2,
+  "source": "Schweizer Nährwertdatenbank – Generische Lebensmittel V 7.1",
+  "basis": "pro 100 g essbarer Anteil",
+  "lines": [
+    {
+      "ingredient_id": "i1",
+      "display": "500 g Kartoffeln",
+      "grams": 500,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "813",
+      "db_name": "Kartoffel, geschält, roh",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Festkochende Kartoffeln werden roh verarbeitet; geschälte, rohe Kartoffel entspricht am besten.",
+      "contribution": {
+        "kcal": 380.0,
+        "kj": 1600.0,
+        "fat_g": 0.5,
+        "carbs_g": 78.0,
+        "protein_g": 10.0
+      }
+    },
+    {
+      "ingredient_id": "i2",
+      "display": "350 g Möhren",
+      "grams": 350,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "355",
+      "db_name": "Karotte, roh",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Möhren sind Karotten; roher Zustand passt zur Zutat.",
+      "contribution": {
+        "kcal": 147.0,
+        "kj": 616.0,
+        "fat_g": 1.4,
+        "carbs_g": 26.6,
+        "protein_g": 2.1
+      }
+    },
+    {
+      "ingredient_id": "i3",
+      "display": "300 g Grünkohl",
+      "grams": 300,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "13400",
+      "db_name": "Federkohl, roh",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Grünkohl heisst in der Schweiz Federkohl; roher Zustand passt.",
+      "contribution": {
+        "kcal": 132.0,
+        "kj": 549.0,
+        "fat_g": 2.7,
+        "carbs_g": 7.5,
+        "protein_g": 12.9
+      }
+    },
+    {
+      "ingredient_id": "i4",
+      "display": "3 EL Rapsöl",
+      "grams": 41.4,
+      "conversion_rule": "1 EL ≈ 13,8 g (15 ml bzw. 5 ml × Dichte 0,92 g/ml (Speiseöl))",
+      "conversion_confidence": "medium",
+      "db_id": "600",
+      "db_name": "Rapsöl",
+      "match_type": "exact",
+      "match_confidence": "high",
+      "assumption_de": "Name stimmt mit dem Datenbankeintrag überein",
+      "contribution": {
+        "kcal": 372.6,
+        "kj": 1531.8,
+        "fat_g": 41.4,
+        "carbs_g": 0.0,
+        "protein_g": 0.0
+      }
+    },
+    {
+      "ingredient_id": "i5",
+      "display": "1 TL Paprikapulver",
+      "grams": 2,
+      "conversion_rule": "1 TL ≈ 2 g (Gewürz gemahlen/getrocknet)",
+      "conversion_confidence": "medium",
+      "db_id": "663",
+      "db_name": "Paprika (Gewürz)",
+      "match_type": "equivalent",
+      "match_confidence": "high",
+      "assumption_de": "Paprika (Gewürz) ist Paprikapulver; edelsüss ist nur eine Schärfe-/Geschmacksvariante ohne eigenen Eintrag.",
+      "contribution": {
+        "kcal": 7.2,
+        "kj": 29.8,
+        "fat_g": 0.3,
+        "carbs_g": 0.7,
+        "protein_g": 0.3
+      }
+    },
+    {
+      "ingredient_id": "i6",
+      "display": "1 Stück Apfel",
+      "grams": 150,
+      "conversion_rule": "1 Stück ≈ 150 g (essbarer Anteil, Küchenkonvention)",
+      "conversion_confidence": "medium",
+      "db_id": "378",
+      "db_name": "Apfel, roh",
+      "match_type": "exact",
+      "match_confidence": "high",
+      "assumption_de": "Name stimmt mit dem Datenbankeintrag überein",
+      "contribution": {
+        "kcal": 78.0,
+        "kj": 333.0,
+        "fat_g": 0.5,
+        "carbs_g": 17.4,
+        "protein_g": 0.5
+      }
+    },
+    {
+      "ingredient_id": "i7",
+      "display": "100 g Schmand",
+      "grams": 100,
+      "conversion_rule": "Gewichtsangabe",
+      "conversion_confidence": "high",
+      "db_id": "574",
+      "db_name": "Sauerrahm",
+      "match_type": "closest",
+      "match_confidence": "medium",
+      "assumption_de": "Schmand ist fermentierter Rahm mit etwas anderem Fettgehalt; kein Schmand-Eintrag vorhanden, Sauerrahm ist der nächstliegende Ersatz.",
+      "contribution": {
+        "kcal": 336.0,
+        "kj": 1380.0,
+        "fat_g": 35.0,
+        "carbs_g": 2.8,
+        "protein_g": 2.4
+      }
+    },
+    {
+      "ingredient_id": "i8",
+      "display": "2 TL Meerrettich",
+      "grams": 10,
+      "conversion_rule": "1 TL ≈ 5 g (Paste/Creme, gestrichen)",
+      "conversion_confidence": "medium",
+      "db_id": null,
+      "db_name": null,
+      "match_type": "unmatched",
+      "match_confidence": "none",
+      "assumption_de": "Kein Meerrettich-Eintrag in der Kandidatenliste; geriebener Meerrettich ist ein Würzmittel in kleiner Menge – Rettich ist ein anderes Gemüse und daher nicht als Ersatz vertretbar."
+    },
+    {
+      "ingredient_id": "i9",
+      "display": "1 TL Zitronensaft",
+      "grams": 5.2,
+      "conversion_rule": "1 TL = 5 ml × 1,05 g/ml",
+      "conversion_confidence": "medium",
+      "db_id": "605",
+      "db_name": "Zitronensaft",
+      "match_type": "exact",
+      "match_confidence": "high",
+      "assumption_de": "Name stimmt mit dem Datenbankeintrag überein",
+      "contribution": {
+        "kcal": 1.5,
+        "kj": 6.3,
+        "fat_g": 0.0,
+        "carbs_g": 0.1,
+        "protein_g": 0.0
+      }
+    },
+    {
+      "ingredient_id": "i10",
+      "display": "Salz",
+      "grams": null,
+      "conversion_rule": "nach Geschmack – ohne Mengenangabe, nicht berechnet",
+      "conversion_confidence": "none",
+      "db_id": "762",
+      "db_name": "Kochsalz mit Jod",
+      "match_type": "equivalent",
+      "match_confidence": "medium",
+      "assumption_de": "Einfaches Speisesalz; in der Schweiz üblicherweise jodiertes Kochsalz – die Jodierung ist eine kleine Abweichung bei gleicher Nährwertbasis."
+    },
+    {
+      "ingredient_id": "i11",
+      "display": "Pfeffer",
+      "grams": null,
+      "conversion_rule": "nach Geschmack – ohne Mengenangabe, nicht berechnet",
+      "conversion_confidence": "none",
+      "db_id": null,
+      "db_name": null,
+      "match_type": "unmatched",
+      "match_confidence": "none",
+      "assumption_de": "Kein Pfeffer-(Gewürz)-Eintrag vorhanden; Pfefferminze und Peperoni sind andere Lebensmittel – Pfeffer in Kleinstmenge, daher kein Ersatzeintrag."
+    }
+  ],
+  "total": {
+    "kcal": 1454.2,
+    "kj": 6045.9,
+    "fat_g": 81.7,
+    "carbs_g": 133.1,
+    "protein_g": 28.2
+  },
+  "per_serving": {
+    "kcal": 727,
+    "kj": 3023,
+    "fat_g": 40.9,
+    "carbs_g": 66.6,
+    "protein_g": 14.1
+  },
+  "weight_coverage": 0.993,
+  "missing_values": [],
+  "unresolved": [
+    {
+      "display": "2 TL Meerrettich",
+      "reason": "Kein Meerrettich-Eintrag in der Kandidatenliste; geriebener Meerrettich ist ein Würzmittel in kleiner Menge – Rettich ist ein anderes Gemüse und daher nicht als Ersatz vertretbar.",
+      "weight_share": 0.007,
+      "major": false
+    }
+  ],
+  "complete": true,
+  "note_de": "Berechnete Schätzwerte aus der Datenbank, keine Labormessung. Garverluste nicht berücksichtigt; Salz und Pfeffer nach Geschmack nicht eingerechnet."
+}

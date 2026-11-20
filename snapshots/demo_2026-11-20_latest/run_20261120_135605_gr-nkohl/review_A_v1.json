@@ -1,0 +1,85 @@
+{
+  "slot": "A",
+  "version": 1,
+  "verdict": "revise",
+  "score_total": 91.0,
+  "scores": {
+    "culinary_plausibility": 27.0,
+    "consistency": 25,
+    "brand_fit": 17.0,
+    "clarity": 13.0,
+    "differentiation": 9.0
+  },
+  "pass_rule": "no critical/major issues and score ≥ 85/100; minor findings on the first draft trigger one polishing revision",
+  "code_findings": [],
+  "llm_issues": [
+    {
+      "severity": "minor",
+      "field": "introduction",
+      "problem_de": "Die Einleitung suggeriert, die Pinkel garen von Anfang an mit (\"Pinkel garen gleich mit\"), tatsächlich werden sie erst in Schritt 4 nach 30 Minuten Schmorzeit zugegeben.",
+      "fix_de": "Formulierung entschärfen, z. B.: \"…Pinkel ziehen zum Schluss mit im Topf\" oder \"…Pinkel garen in der letzten halben Stunde mit\".",
+      "criterion": 8,
+      "source": "review_agent"
+    },
+    {
+      "severity": "minor",
+      "field": "steps.4",
+      "problem_de": "Der Hinweis \"dabei die Packungshinweise zur Garzeit beachten\" verlagert die Garzeitunsicherheit auf den Leser; für ein getestetes Magazinrezept fehlt eine belastbare Zeitangabe.",
+      "fix_de": "Konkrete Zeit nennen, z. B. \"30–35 Minuten sanft ziehen lassen, bis die Pinkel durchgegart ist\", und die Packungsangabe nur als Zusatzhinweis in Klammern führen.",
+      "criterion": 8,
+      "source": "review_agent"
+    },
+    {
+      "severity": "minor",
+      "field": "ingredients.i5",
+      "problem_de": "Pinkel ist eine norddeutsche Regionalwurst und bundesweit nicht überall erhältlich – die Markenregeln nennen schwer erhältliche Zutaten als problematisch.",
+      "fix_de": "Im Rezept oder als Fußnote eine Bezugs-/Ersatzangabe ergänzen, z. B. \"ersatzweise geräucherte Grützwurst oder zusätzlich 250 g Kassler\".",
+      "criterion": 3,
+      "source": "review_agent"
+    }
+  ],
+  "criteria": [
+    {
+      "no": 1,
+      "pass": true,
+      "comment_de": "Titel benennt Gericht und beide Fleischkomponenten korrekt; Zwischenüberschrift passt."
+    },
+    {
+      "no": 2,
+      "pass": true,
+      "comment_de": "Keine Zwischenüberschriften nötig, die fünf Schritte sind chronologisch sauber gegliedert."
+    },
+    {
+      "no": 3,
+      "pass": true,
+      "comment_de": "Mengen entsprechen einem traditionellen Grünkohlgericht für 2 (500 g Kohl, 400 g Kartoffeln, 2 Pinkel + 250 g Kassler = je 1 Pinkel/Person plus Kassler)."
+    },
+    {
+      "no": 4,
+      "pass": true,
+      "comment_de": "Alle Zutaten haben Mengen, nur Salz und Pfeffer ohne – zulässige Ausnahme."
+    },
+    {
+      "no": 5,
+      "pass": true,
+      "comment_de": "Alle 12 Zutaten werden in den Schritten verwendet, uses-Zuordnungen sind vollständig."
+    },
+    {
+      "no": 6,
+      "pass": true,
+      "comment_de": "Mengen und Einheiten in Liste und Schritten stimmen exakt überein."
+    },
+    {
+      "no": 7,
+      "pass": true,
+      "comment_de": "1 EL mittelscharfer Senf korrekt als EL ausgewiesen; keine Verwechslung mit TL."
+    },
+    {
+      "no": 8,
+      "pass": true,
+      "comment_de": "Reihenfolge logisch: Anbraten, Kohl anschwitzen/ablöschen, Kartoffeln und Pinkel später zugeben, erst am Ende abschmecken. Garzeiten summieren sich korrekt (7+35+30+3 = 75 Min.)."
+    }
+  ],
+  "summary_de": "Handwerklich sauberes, traditionelles Winterrezept mit stimmigen Mengen, korrekten Garzeiten und klarer Abgrenzung zum Ofen-Grünkohl – nur Feinschliff bei Einleitung, Pinkel-Garzeitangabe und Erhältlichkeit der Wurst nötig.",
+  "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+}

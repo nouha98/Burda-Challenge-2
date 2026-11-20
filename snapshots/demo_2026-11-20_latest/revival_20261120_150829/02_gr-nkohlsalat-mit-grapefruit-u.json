@@ -1,0 +1,41 @@
+{
+  "file": "02_gr-nkohlsalat-mit-grapefruit-u.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "dd95c649-6b54-484f-b95a-cf324e2e04cd",
+  "seed": 4199607005,
+  "cost_credits": 0.9,
+  "seconds": 6.1,
+  "prompt": "Close-up of a kale salad on a plain white ceramic plate, German home style. Blanched dark green, soft curly kale leaves, thick ribs removed, coated in a creamy pale-ivory dressing flecked with tiny brown mustard seeds. Mixed in: fine bright-orange raw carrot julienne strips about 3 cm long, coarsely chopped coriander leaves, and glistening pinkish-red grapefruit segments free of white pith. On top, facing the camera: warm light-brown toasted pecan halves with wrinkled surfaces and plump shiny ruby-red pomegranate seeds. A little creamy dressing pools, natural sheen from olive oil, cold freshly tossed salad, no steam. Dish fills about 80 % of the square frame, camera 45° above, only plate rim and a narrow strip of table softly blurred, warm soft natural side light, textures sharp, 85 mm lens, f/5.6, true-to-life colours, professional magazine food photo.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl (blanchiert)",
+      "real_life_appearance": "After 1–2 minutes blanching in salted water and an ice-water shock: deep dark green, softer and pliable but not mushy, slightly smoother and darker than raw kale, thick stems removed so only the leaf blades remain, roughly torn or halved leaves 3–6 cm; distinguishable by curly frilled leaf edges – this is NOT smooth-leafed cabbage."
+    },
+    {
+      "name_de": "Grapefruitfilets",
+      "real_life_appearance": "Supremed grapefruit segments cut free from all white pith and membranes: pale pink to rosy-red juicy flesh with a glistening, slightly translucent surface, crescent-shaped, 4–5 cm long, about 2–3 segments per portion; no white skin attached, pale juice sheen – NOT orange segments."
+    },
+    {
+      "name_de": "Möhrnstreifen",
+      "real_life_appearance": "Peeled raw carrots cut into fine julienne strips: bright vivid orange, crisp with a shiny moist cut surface, straight matchstick pieces about 3–4 cm long and 2–3 mm thick, roughly a small handful per portion."
+    },
+    {
+      "name_de": "Koriandergrün",
+      "real_life_appearance": "Coarsely chopped fresh coriander (cilantro) leaves: fresh medium bright green, small irregular leaf fragments and a few thin stems, 0.5–2 cm; flat, softly scalloped leaves distinguish it from curly or flat parsley."
+    },
+    {
+      "name_de": "Pekannüsse (geröstet)",
+      "real_life_appearance": "Pecans dry-toasted in a hot pan, then cooled: warm light brown with slightly darkened ridges, dry firm surface with the characteristic wrinkled grooves, elongated halves about 2 cm, 5–6 halves per portion; more elongated and smoother-skinned than walnuts."
+    },
+    {
+      "name_de": "Granatapfelkerne",
+      "real_life_appearance": "Pomegranate arils: plump, shiny, jewel-like ruby-red translucent seeds, roundish and slightly angular, 6–8 mm, crisp juicy husks, about 12–15 seeds per portion scattered on top."
+    },
+    {
+      "name_de": "Dressing",
+      "real_life_appearance": "Stick-blender emulsion of vinegar, oils, honey, grainy mustard, Greek yogurt and grapefruit juice: creamy, opaque, pale ivory-yellow, with visible tiny round brownish mustard seeds and fine sheen; clings to the leaves, small amounts pool lightly at the bottom of the plate."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/zai-org/GLM-5.3",
+  "created_at": "2026-11-20T15:12:16"
+}

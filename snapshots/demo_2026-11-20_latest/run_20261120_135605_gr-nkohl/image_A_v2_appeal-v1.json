@@ -1,0 +1,39 @@
+{
+  "slot": "A",
+  "recipe_version": 2,
+  "file": "image_A_v2.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "cf61c655-1f83-41a7-8b84-6e9533b2771c",
+  "seed": 3122657125,
+  "cost_credits": 0.9,
+  "seconds": 6.2,
+  "prompt": "Close-up of a generous hot stew serving in a plain white deep plate: tender tangled dark olive-green curly cabbage ribbons with tiny translucent onion flecks, soft creamy-yellow 3 cm potato chunks with a few crushed edges, and moist 2 cm cubes of smoked cured pork loin with golden-browned patches, one pale cured-pink cut face visible. A plump unburst dark reddish-brown sausage rests on top, cut end facing camera, revealing coarse grey-brown oat-and-meat filling with pale fat flecks, not a smooth frankfurter. Glossy lightly potato-thickened tan broth coats everything and pools shallowly; a little steam and natural fat sheen. Clean rim, only a narrow softly blurred tabletop. Food fills 80% of the square frame, surface textures sharp, camera close at 45°, warm soft natural side light, 85 mm lens, f/5.6, true-to-life colours. No garnish, props, text, logos, hands or people.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "After about 60 minutes of covered braising, the frilly leaves have collapsed into soft, tangled ribbons, roughly 2–3 cm wide and 4–7 cm long before wilting. They are dark olive green with nearly black-green folds, not fresh bright green. Thicker ribs remain faintly visible but tender; surfaces are moist and lightly glossy from broth and fat. Each portion contains a large mound. Ruffled edges and broad ribbons distinguish them from smooth spinach leaves."
+    },
+    {
+      "name_de": "Kartoffeln",
+      "real_life_appearance": "Peeled and simmered for the final 30 minutes, not browned: irregular approximately 3 cm chunks, about 7–9 intact pieces per portion, creamy pale yellow throughout. Their surfaces are soft and wet with broth, with slightly rounded, crumbly edges. A few pieces have been crushed and merge into the liquid, while most remain recognisable. No skin, roasting colour or crisp surfaces."
+    },
+    {
+      "name_de": "Zwiebel",
+      "real_life_appearance": "Finely diced into approximately 0.3 cm pieces. After brief sweating and the long covered braise, nearly all has melted into the juices; only a few tiny, very soft, translucent ivory-to-pale-golden flecks per portion remain visible between leaves and meat. There is no raw white crunch and no dark roasted onion."
+    },
+    {
+      "name_de": "Kassler",
+      "real_life_appearance": "Smoked cured pork loin cut into roughly 2 cm cubes, about 12–15 per portion. Searing leaves irregular golden-brown patches on the moist, light greyish-tawny exterior; after braising the cubes look tender rather than crisp. A cut face reveals lean, pale cured-pink meat with occasional tiny creamy fat seams. It is not smooth, uniformly pink boiled ham or uncooked white pork."
+    },
+    {
+      "name_de": "Pinkel",
+      "real_life_appearance": "Two whole smoked coarse sausages in the recipe, one per portion, gently poached in the stew. Each is typically 14–18 cm long and 3–4 cm thick, plump and slightly curved. The intact natural casing is dark reddish brown, slightly wrinkled and glossy from broth, neither split nor burst. A cut face reveals a loose, coarse grey-brown meat-and-oat filling with visible pale bacon-fat and soft onion pieces, not a fine, smooth, uniformly pink frankfurter."
+    },
+    {
+      "name_de": "Fleischbrühe",
+      "real_life_appearance": "Visible as the stew's cooking liquid: after covered simmering and crushing a few potatoes, several spoonfuls per portion form a shallow pool of glossy, lightly cloudy tan to muted olive-brown broth beneath and between the solids. It lightly coats the leaves and carries tiny fat droplets. Potato starch gives a lightly velvety body, but it remains loose and spoonable, not cream sauce or thick gravy."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "created_at": "2026-11-20T14:53:15"
+}

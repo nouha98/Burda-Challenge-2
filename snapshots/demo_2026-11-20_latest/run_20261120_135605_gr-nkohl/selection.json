@@ -1,0 +1,326 @@
+{
+  "run_id": "run_20261120_135605_gr-nkohl",
+  "selected_at": "2026-11-20T13:56:05",
+  "editor": "cli-test",
+  "proposal_id": "P2",
+  "proposals_generated_at": "2026-11-20T13:53:35",
+  "proposal": {
+    "proposal_id": "P2",
+    "topic": "Grünkohl",
+    "kind": "ingredient",
+    "title_de": "Grünkohl-Saison: deftiger Klassiker und moderne Ideen",
+    "teaser_de": "Grünkohl ist das typische Wintergemüse und wird besonders nach dem ersten Frost gesucht. Die Ausgabe deckt die im Archiv fehlende deftig-klassische Auslegung und ergänzt schnelle, alltagsnahe Varianten.",
+    "trend_signal_de": "Google Trends zeigt das beste Wachstum mit 650 %, getrieben u. a. von „grünkohl rezept“ und „grünkohl rezept klassisch“. Wikipedia verzeichnet 3.771 Aufrufe in 7 Tagen (+2 %), im Archiv stehen 20 Rezepte mit Grünkohl im Titel, 11 davon aus den letzten 24 Monaten.",
+    "brand_fit_de": "Klares saisonales Winterthema mit hohem Suchdruck rund um klassische Rezepte. Die Verbindung aus deftigem Eintopf und modern-alltäglichen Formaten passt zur Vermittlungs- und Rezeptrolle der Redaktion.",
+    "related_recipes": [
+      {
+        "id": "doc8894f1dit1ly0hw9ctv",
+        "why_relevant_de": "Modernes Auflauf-Format, zeigt die bisherige Auslegung, vom geplanten Eintopf klar abgegrenzt."
+      },
+      {
+        "id": "doc85jzk7guddx1i5rpldnl",
+        "why_relevant_de": "Schnelles Pfannenformat als Gegenpol zum langsam geschmorten Klassiker."
+      },
+      {
+        "id": "doc85jzorxwnpc1kx8zdilr",
+        "why_relevant_de": "Vegetarische Basis, die die deftige Fleisch-Variante bewusst kontrastiert."
+      },
+      {
+        "id": "doc84brqxjdr614mr7rf93",
+        "why_relevant_de": "Pasta-Format aus dem Archiv, nicht erneut besetzen."
+      },
+      {
+        "id": "doc843qgv00na0ehcy81yod",
+        "why_relevant_de": "Getränke-/Smoothie-Format, zeigt die moderne Spanne des Themas."
+      },
+      {
+        "id": "doc82xd5x9k6k61n102sjp7",
+        "why_relevant_de": "Salat-Format mit Zitrus, belegt die moderne Archivkante."
+      }
+    ],
+    "repetition_risk_de": "Medium – 11 Rezepte in 24 Monaten sind viel; nur der fehlende deftig-klassische Eintopf plus klare Abgrenzung der Formate vermeidet Wiederholung.",
+    "content_gap_de": "Ein deftig-klassischer Grünkohleintopf mit Fleisch fehlt, da die Archivformate überwiegend modern sind (Salat, Smoothie, Pasta, Gnocchi).",
+    "recipe_directions": [
+      {
+        "title_de": "Grünkohl-Eintopf mit Pinkel und Kassler",
+        "idea_de": "Klassisch im Topf geschmorter Grünkohl mit Kartoffeln und Fleischbrühe, dazu Pinkel bzw. Kassler; abgeschmeckt mit Senf für die deftige Note, laut Web-Quellen passen auch Piment und Muskat. Besetzt exakt die Content-Lücke und antwortet auf die Suchanfrage „grünkohl rezept klassisch“.",
+        "format": "Eintopf / Schmorgericht"
+      },
+      {
+        "title_de": "Krosser Ofen-Grünkohl mit Kartoffeln und Möhren",
+        "idea_de": "Grünkohl auf dem Blech im Ofen geröstet, bis er kross ist, mit Kartoffeln und Möhren – beides häufige Archiv-Zutaten. Kürzere Zubereitung als der Eintopf und Neither Pfanne noch Auflauf, also deutlicher Abstand zu den bestehenden Formaten.",
+        "format": "Blechgericht / Ofengericht"
+      }
+    ],
+    "open_questions_de": [
+      "Ist Pinkel bundesweit genug verfügbar oder empfehlen wir als Standard Kassler und Mettenden, wie es die Web-Quellen nahelegen?",
+      "Bauen wir zu den Rezepten einen Basics-Kasten mit den Web-Tipps (Senf, Piment, Muskat) auf?",
+      "Wie viele Rezepte trägt die Ausgabe, ohne die hohe Archivdichte (11 in 24 Monaten) zu verstärken?"
+    ],
+    "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash",
+    "scores": {
+      "P": 80.1,
+      "available_maximum": 100.0,
+      "components": {
+        "T": 80.4,
+        "B": 93.0,
+        "N": 52.8,
+        "F": 90.0
+      },
+      "weights": {
+        "T": 0.35,
+        "B": 0.3,
+        "N": 0.2,
+        "F": 0.15
+      },
+      "missing": [],
+      "N_detail": {
+        "coverage_room": 45.5,
+        "gap_fit": 60.0
+      }
+    },
+    "evidence": {
+      "google_records": [
+        {
+          "term": "grünkohl rezept klassisch",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 0,
+          "increase_percent": 650.0,
+          "increase_raw": "650 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 7
+        },
+        {
+          "term": "grünkohl rezept",
+          "signal_type": "rising",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 200.0,
+          "increase_raw": "200 %",
+          "source_file": "searched_with_rising-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 19
+        },
+        {
+          "term": "Curly kale (Vegetable)",
+          "signal_type": "rising",
+          "source_kind": "topic",
+          "search_interest": 23,
+          "increase_percent": 190.0,
+          "increase_raw": "190 %",
+          "source_file": "searched_with_rising-searches_topics_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 5
+        },
+        {
+          "term": "grünkohl rezept",
+          "signal_type": "top",
+          "source_kind": "query",
+          "search_interest": 1,
+          "increase_percent": 200.0,
+          "increase_raw": "200 %",
+          "source_file": "searched_with_top-searches_queries_DE_20261018-1818_20261118-1818.csv",
+          "source_row": 22
+        }
+      ],
+      "wikimedia": {
+        "source": "live_api",
+        "traffic_filter": "all-access; all-agents",
+        "previous_period": [
+          "2026-11-06",
+          "2026-11-12"
+        ],
+        "latest_period": [
+          "2026-11-13",
+          "2026-11-19"
+        ],
+        "previous_7d_views": 3703,
+        "latest_7d_views": 3771,
+        "api_url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/de.wikipedia.org/all-access/all-agents/Gr%C3%BCnkohl/daily/20261106/20261119",
+        "retrieved_at": "2026-11-20T13:45:37"
+      },
+      "trend_scores": {
+        "T": 80.4,
+        "T_note": "complete",
+        "G": 0.868,
+        "W": 0.684,
+        "best_google_growth_percent": 650.0,
+        "max_search_interest": 23,
+        "wikipedia_change": 0.018,
+        "wikipedia_trend": "stable",
+        "is_rising": true,
+        "flags": []
+      },
+      "trend_relevance_de": "Saisonal typisches Wintergemüse, das besonders nach dem ersten Frost gesucht wird – klassisch mit Pinkel oder modern interpretierbar.",
+      "brave": {
+        "query": "Grünkohl Rezept",
+        "freshness": "pm",
+        "retrieved_at": "2026-11-20T13:51:21",
+        "results": [
+          {
+            "title": "Endlich wieder Grünkohl-Saison: Tipps, Tricks und tolle Rezepte - so schmeckt er richtig gut",
+            "url": "https://www.ndr.de/ratgeber/kochen/warenkunde/gruenkohl-mit-diesen-tricks-und-rezepten-schmeckt-er-noch-besser,gruenkohl548.html",
+            "description": "Abgeschmeckt wird mit Salz, Pfeffer und Senf, so bekommt er eine deftige Note. Auch Piment und Muskatnuss eignen sich zum Würzen. Serviert wird der Grünkohleintopf mit Salzkartoffeln oder kleinen Kartoffeln (Drillingen), die kurz in einer Pfanne mit Zucker karamellisiert werden.",
+            "age": "2 weeks ago"
+          },
+          {
+            "title": "Omas Grünkohl Rezept – deftig & klassisch | Rezeptliebe",
+            "url": "https://www.rezeptliebe.com/omas-gruenkohl-rezept-ganz-klassisch/",
+            "description": "Omas <strong>Grünkohl Rezept</strong>: klassisch, deftig &amp; mit Mettwurst. Perfekt für kalte Tage und einfach nachzukochen – Hausmannskost wie früher genießen.",
+            "age": "2 weeks ago"
+          },
+          {
+            "title": "Klassisches Grünkohl-Rezept mit Kassler und Pinkel - Leckerschmecker",
+            "url": "https://www.leckerschmecker.me/gruenkohl-rezept-klassisch-a-b/63743511320839",
+            "description": "Man isst den Grünkohl dort mit Kassler und Pinkel, einer fettreichen Grützwurst, aber auch Kochwurst, Mettenden eignen sich. Das Besondere an dem klassischen Rezept ist, dass die Würste zusammen mit dem Grünkohl gekocht werden und ihr feines Aroma so an den Kohl abgeben.",
+            "age": "1 hour ago"
+          },
+          {
+            "title": "Grünkohl Rezept klassisch: in 90 Minuten zart",
+            "url": "https://deavita.com/kochrezepte/gruenkohl-rezept-klassisch-kassler-90-minuten-2255843.html",
+            "description": "Drei Stunden Kochzeit machen Grünkohl graugrün und faserig. Besser sind <strong>2 Minuten Blanchieren und danach 90 Minuten zugedeckt bei kleinster Hitze mit Kassler und Mettenden</strong>. 2 EL Haferflocken binden am Ende.",
+            "age": "1 week ago"
+          },
+          {
+            "title": "Grünkohl Rezept klassisch: einfach kochen & genießen",
+            "url": "https://www.westfalia.de/blog/blog-13/grunkohl-rezept-klassisch-kochen-und-geniessen-6806",
+            "description": "Kurz erklärt: Für ein klassisches Grünkohlgericht <strong>dünsten Sie Zwiebeln in Schmalz, geben geputzten Grünkohl und Brühe dazu und lassen alles etwa 75 bis 90 Minuten sanft schmoren</strong>. Kasseler und Mettenden ziehen in der letzten halben Stunde mit.",
+            "age": "3 weeks ago"
+          }
+        ]
+      },
+      "archive": {
+        "search_terms": [
+          "grünkohl"
+        ],
+        "title_matches": 20,
+        "title_matches_recent": 11,
+        "ingredient_only_matches": 3,
+        "most_recent_comparable": {
+          "id": "doc8894f1dit1ly0hw9ctv",
+          "title": "Grünkohl-Gnocchi-Auflauf",
+          "date_imported": "2026-10-30",
+          "category": "Pasta und Nudelgerichte",
+          "match": "title"
+        },
+        "closest_recipes": [
+          {
+            "id": "doc8894f1dit1ly0hw9ctv",
+            "title": "Grünkohl-Gnocchi-Auflauf",
+            "date_imported": "2026-10-30",
+            "category": "Pasta und Nudelgerichte"
+          },
+          {
+            "id": "doc85jzk7guddx1i5rpldnl",
+            "title": "Grünkohlpfanne",
+            "date_imported": "2026-04-24",
+            "category": "Gemüse-, Kartoffel- und Reisgerichte"
+          },
+          {
+            "id": "doc85jzorxwnpc1kx8zdilr",
+            "title": "Vegetarischer Grünkohl",
+            "date_imported": "2026-04-24",
+            "category": "Gemüse-, Kartoffel- und Reisgerichte"
+          },
+          {
+            "id": "doc84brqxjdr614mr7rf93",
+            "title": "Grünkohl Pasta",
+            "date_imported": "2026-01-28",
+            "category": "Pasta und Nudelgerichte"
+          },
+          {
+            "id": "doc843qgv00na0ehcy81yod",
+            "title": "Grünkohl-Smoothie mit Ananas",
+            "date_imported": "2026-01-12",
+            "category": "Getränke"
+          },
+          {
+            "id": "doc82xd5x9k6k61n102sjp7",
+            "title": "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+            "date_imported": "2025-10-22",
+            "category": "Salate"
+          }
+        ],
+        "recurring_ingredients": [
+          "senf",
+          "fleischbrühe",
+          "kartoffeln",
+          "zitronensaft",
+          "zitronen",
+          "möhren",
+          "schlagsahne",
+          "feta"
+        ],
+        "recurring_formats": [
+          "salat",
+          "auflauf",
+          "smoothie",
+          "gnocchi",
+          "pfanne",
+          "pasta"
+        ],
+        "coverage_note": "5,000-recipe sample of 81,798; date = DateImported (CMS import, not print date); lexical matching",
+        "coverage_room_0_100": 45.5
+      },
+      "brand_assessment": {
+        "id": "t6",
+        "brand": {
+          "seasonality_regional": {
+            "score": 5,
+            "reason": "Heimisches Nach-Frost-Wintergemüse, +650 % Suchwachstum – Saisonthema perfekt jetzt in der Adventszeit."
+          },
+          "ingredient_accessibility": {
+            "score": 5,
+            "reason": "Grünkohl, Kartoffeln, Senf, Fleisch überall im Supermarkt; keine exotischen Zutaten nötig."
+          },
+          "everyday_practicality": {
+            "score": 4,
+            "reason": "Pfannen- und Pasta-Formate belegen Alltagstauglichkeit; klassisches Schmoren braucht mehr Zeit."
+          },
+          "culinary_appeal": {
+            "score": 5,
+            "reason": "Deftig, sättigend, mit Pinkel oder Kassler – deckt Großinteressen Saisonalität, Regionalität und Fleisch ab."
+          },
+          "magazine_style": {
+            "score": 4,
+            "reason": "Breite Formatvarianz (Pfanne, Pasta, Auflauf) mit kurzen Zutatenlisten; Salat und Smoothie im Archiv meiden."
+          }
+        },
+        "feasibility": {
+          "shopping": {
+            "score": 5,
+            "reason": "Normale Supermarkt-Komponenten; Fleischwurst-Sorten je nach Region variabel."
+          },
+          "equipment": {
+            "score": 5,
+            "reason": "Großer Topf oder Pfanne genügt; keine Spezialgeräte."
+          },
+          "effort": {
+            "score": 4,
+            "reason": "Klassisch lange Garzeit, aber moderne Kurzformate sind alltagstauglich lösbar."
+          },
+          "recipe_development": {
+            "score": 4,
+            "reason": "Klassisch-deftige Neuausrichtung gegenüber bestehenden modernen Archivformaten gut möglich."
+          }
+        },
+        "archive": {
+          "gap_fit": {
+            "score": 3,
+            "reason": "Elf Themenrezepte in 24 Monaten;然而 fehlt der deftig-klassische Ansatz mit Fleisch."
+          },
+          "content_gap_de": "Lücke: deftig-klassischer Grünkohleintopf mit Fleisch, denn die Archivformate sind überwiegend modern (Salat, Smoothie, Pasta, Gnocchi).",
+          "repetition_risk": "medium",
+          "repetition_reason_de": "Elf Rezepte in 24 Monaten sind viel; nur die klassisch-deftige Auslegung vermeidet Wiederholung."
+        },
+        "unsuitable": false,
+        "unsuitable_reason_de": null,
+        "model": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
+      }
+    }
+  },
+  "spec": {
+    "servings": 2,
+    "max_total_minutes": null,
+    "notes": ""
+  }
+}

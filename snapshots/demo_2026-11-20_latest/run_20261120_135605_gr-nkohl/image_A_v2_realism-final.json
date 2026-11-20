@@ -1,0 +1,39 @@
+{
+  "slot": "A",
+  "recipe_version": 2,
+  "file": "image_A_v2.jpg",
+  "image_model": "flux-3-image-klein",
+  "job_id": "62e51d91-c2f6-4f09-b225-c96d74f210a8",
+  "seed": 3902674103,
+  "cost_credits": 0.9,
+  "seconds": 6.4,
+  "prompt": "Close-up of thick kale-and-potato stew in a plain white deep plate, filling 80% of a square frame. Soft, collapsed broad kale ribbons are very dark olive-green, almost black-green, with crinkled edges and light oily sheen. Soft pale-yellow 3 cm potato chunks have moist, rough edges; some are crushed into glossy, thick, spoonable beige-brown liquor with tiny translucent onion flecks. Smoked cured pork loin appears as irregular 2 cm cubes with golden-brown seared patches and juicy rosy-beige interiors. On top lies a plump, curved sausage in a lightly glossy greyish-tan natural casing, cut open to show its very coarse, moist pale beige-pink filling with visible fat and oat grains. A little steam, clean rim, no garnish or props. Camera 45° above, 85 mm, f/5.6, warm soft natural side light, sharp textures, softly blurred table edge, true-to-life colour, magazine food photo.",
+  "visible_ingredients": [
+    {
+      "name_de": "Grünkohl",
+      "real_life_appearance": "Braised until tender: very dark olive green, almost black-green, soft and collapsed broad ribbons about 3–5 cm long, with crinkled, curled leaf edges and a light oily sheen. Numerous tangled ribbons per portion form the bulk of the stew; they are neither bright green nor crisp and retain frilly kale edges rather than looking like smooth cabbage strips."
+    },
+    {
+      "name_de": "Kartoffeln",
+      "real_life_appearance": "Simmered, not browned: soft pale-yellow to creamy-ivory chunks, roughly 3 cm, with moist, slightly crumbly flesh and rounded, rough or frayed edges. About 5–7 chunks per portion; several are partly crushed, their fluffy interiors breaking into and thickening the cooking liquor."
+    },
+    {
+      "name_de": "Zwiebel",
+      "real_life_appearance": "The original fine dice, about 0.3 cm, are now very soft and mostly integrated into the liquor. Numerous tiny translucent pale golden-beige flecks remain visible per portion, with no raw white crunch and no separately browned onion slices."
+    },
+    {
+      "name_de": "Kassler",
+      "real_life_appearance": "Smoked cured pork loin, seared and then braised: irregular cubes about 2 cm, roughly 12–15 per portion, some partly buried. The exterior is muted beige-brown with patchy golden-brown seared sides; exposed interiors are juicy rosy beige-pink with a firm, fine meat grain, not the smooth, uniformly pink surface of boiled ham."
+    },
+    {
+      "name_de": "Pinkel",
+      "real_life_appearance": "One plump, gently curved sausage per portion, about 12–15 cm long and 3 cm thick, gently simmered whole and left unburst. Its natural casing is greyish-tan to light brown, lightly glossy and slightly wrinkled, without seared patches. A cut end reveals a very coarse, loose, moist pale beige-pink filling with visible pork pieces, off-white fat and pale oat or groats grains; it is not a smooth, uniform frankfurter."
+    },
+    {
+      "name_de": "Fleischbrühe",
+      "real_life_appearance": "Reduced and bound with crushed potato into a thick, spoonable, glossy beige-brown cooking liquor. It lightly coats the kale and meat and pools only shallowly between the ingredients, with tiny onion and potato flecks; it is neither clear nor a thin, soupy broth."
+    }
+  ],
+  "prompt_model": "tesseracted-labs-gmbh/moonshotai/Kimi-K3.1-Pro",
+  "created_at": "2026-11-20T14:54:43"
+}
