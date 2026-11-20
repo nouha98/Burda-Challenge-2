@@ -18,7 +18,7 @@ from pathlib import Path
 
 from agents.brand_agent import assess, compute_scores, describe
 from ingest.archive import build_index
-from agents.trend_queries import describe
+from agents.trend_queries import describe as describe_trends
 from ingest import archive_vectors
 from scoring.archive_match import check
 from scoring.hybrid import retrieve
@@ -108,7 +108,7 @@ def main() -> None:
     if vectors is not None:
         by_id = {r["id"]: r for r in recipes}
         recipes = [by_id[i] for i in ids]  # align with vector rows
-        descriptions = describe(pool, trends["generated_at"])
+        descriptions = describe_trends(pool, trends["generated_at"])
         qv = embeddings.embed([descriptions[c["id"]] for c in pool], query=True)
     for k, c in enumerate(pool):
         hits = retrieve(c, qv[k], recipes, vectors, limit=50) if vectors is not None else None

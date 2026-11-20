@@ -49,17 +49,21 @@ def review(selection: list[dict], pool: dict, season: str) -> dict:
                                REVIEW_USER.format(season=season, items="\n".join(items)),
                                max_tokens=10000, agent="revival_review")
     except GatewayError as exc:
-        return {"items": [], "variety_ok": True, "error": str(exc)[:200], "model": None, "all_ok": True}
+        # A failed review must never count as approval: every recipe stays unreviewed
+        return {"items": [{"recipe_id": s["recipe"]["id"], "title": s["recipe"]["title"], "verdict": "unreviewed",
+                           "trend_match": "unknown", "reason_de": "Review nicht verfügbar (Gateway-Fehler)"}
+                          for s in selection],
+                "variety_ok": None, "error": str(exc)[:200], "model": None, "all_ok": False, "retrieve_again": []}
     verdicts = {v.get("recipe_id"): v for v in data.get("items", [])}
     for s in selection:
-        v = verdicts.get(s["recipe"]["id"]) or {"verdict": "keep", "trend_match": "unknown", "season_ok": True,
+        v = verdicts.get(s["recipe"]["id"]) or {"verdict": "unreviewed", "trend_match": "unknown",
                                                 "reason_de": "keine Bewertung erhalten"}
         if v.get("trend_match") == "none":
             v["verdict"] = "replace"  # rule enforced in code
         verdicts[s["recipe"]["id"]] = v
     retrieve_again = [t for t in data.get("retrieve_again", []) if t in pool]
     # Only per-recipe verdicts decide; variety within a trend comes from the random draw and is informational
-    all_ok = all(v.get("verdict") == "keep" for v in verdicts.values())
+    all_ok = all(verdicts[s["recipe"]["id"]].get("verdict") == "keep" for s in selection)
     return {"items": [dict(verdicts[s["recipe"]["id"]], recipe_id=s["recipe"]["id"], title=s["recipe"]["title"])
                       for s in selection],
             "variety_ok": data.get("variety_ok", True), "variety_reason_de": data.get("variety_reason_de"),

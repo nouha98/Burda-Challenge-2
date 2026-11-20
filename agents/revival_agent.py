@@ -129,7 +129,7 @@ def sample_and_review(p: dict, seed: int, progress=print) -> tuple[list[dict], l
     for tid in pools:
         for s in picks[tid]:
             v = verdicts.get(s["recipe"]["id"], {})
-            final.append(dict(s, review=v, status="approved" if v.get("verdict", "keep") == "keep" else "needs_editor_review"))
+            final.append(dict(s, review=v, status="approved" if v.get("verdict") == "keep" else "needs_editor_review"))
     return final, rounds, pools
 
 

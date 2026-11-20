@@ -130,7 +130,7 @@ def generate_image(view: dict, path, agent: str = "image_brief", corrections: st
                                 steps=view["steps"], tip=view["tip"])
     if corrections:
         user += CORRECTION.format(fix=corrections)
-    brief, meta = chat_json("recipe_author", SYSTEM, user, max_tokens=8000, agent=agent)
+    brief, meta = chat_json("recipe_author", SYSTEM, user, max_tokens=16000, agent=agent)  # 8000 ran out (finish=length)
     job = flux.submit(brief["prompt"])
     # Save the job before polling so an interrupted generation can be resumed instead of paid for twice
     runs.write_json(path.with_suffix(".pending.json"), {"job": job, "prompt": brief["prompt"], "model": flux.MODEL})

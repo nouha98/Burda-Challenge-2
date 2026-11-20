@@ -1,5 +1,7 @@
 # Challenge 2 – Single-Laptop Build Plan (5 hours, 3 people)
 
+> **Update 2026-11-20 (branch `feature/archive-trend-revival`):** FLUX images (FLUX 3 Image Klein), hybrid search with embeddings, an image check with a vision model and the Archiv-Revival mode have since been built. Current overview: [PRESENTATION.md](PRESENTATION.md) · revival details: [REVIVAL-PLAN.md](REVIVAL-PLAN.md).
+
 One laptop does all the building, with Claude Code writing the code. The other two people
 work on things that don't need the keyboard: checking outputs, editorial decisions and the demo.
 Tasks run **one after another**. Each block ends with something that works and is committed to GitHub.

@@ -1,5 +1,7 @@
 # Plan Review – Challenge 2 "das schmeckt!"
 
+> **Update 2026-11-20 (branch `feature/archive-trend-revival`):** FLUX images (FLUX 3 Image Klein), hybrid search with embeddings, an image check with a vision model and the Archiv-Revival mode have since been built. Current overview: [PRESENTATION.md](PRESENTATION.md) · revival details: [REVIVAL-PLAN.md](REVIVAL-PLAN.md).
+
 Review of [Das-schmeckt-workflow-and-implementation-plan.md](Das-schmeckt-workflow-and-implementation-plan.md) against the challenge materials in `challenge-2/`.
 The build plan we actually follow is **[TASKS.md](TASKS.md)**. This file explains why it differs from the original plan.
 

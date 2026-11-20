@@ -3,6 +3,7 @@
 Run:  streamlit run app.py
 """
 import json
+from html import escape as html_escape
 
 import pandas as pd
 import streamlit as st
@@ -421,7 +422,7 @@ with tab_cards:
             html = path.read_text(encoding="utf-8")
             pages = html.count('class="page"')
             c1, c2 = st.columns([4, 1])
-            c1.markdown(f"### Rezept {slot}: {recipes[slot].get('title')}  \n"
+            c1.markdown(f"### Rezept {slot}: {html_escape(str(recipes[slot].get('title')))}  \n"
                         f"<span style='color:#647169'>Version {recipes[slot]['version']} · {pages} Seite(n) A4 · `{path.name}`</span>",
                         unsafe_allow_html=True)
             c2.download_button("HTML herunterladen", html, file_name=f"das-schmeckt_{slot}_{path.stem}.html",

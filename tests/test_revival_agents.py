@@ -89,3 +89,17 @@ def test_draw_respects_exclusions_and_small_pools():
     pool = [cand(f"r{k}", "t1", "Suppen") for k in range(4)]
     picks = draw(pool, 3, random.Random(7), exclude={"r0", "r1"})
     assert {s["recipe"]["id"] for s in picks} == {"r2", "r3"}
+
+
+def test_failed_review_never_counts_as_approval(monkeypatch):
+    def boom(*a, **k):
+        raise revival_editors.GatewayError("gateway down")
+    monkeypatch.setattr(revival_editors, "chat_json", boom)
+    rev = revival_editors.review([cand("a1", "t1", "Suppen")], POOL, "Winter")
+    assert rev["all_ok"] is False and rev["items"][0]["verdict"] == "unreviewed"
+
+
+def test_proposal_agent_uses_brand_describe_for_evidence():
+    from agents import brand_agent, proposal_agent, trend_queries
+    assert proposal_agent.describe is brand_agent.describe
+    assert proposal_agent.describe_trends is trend_queries.describe
