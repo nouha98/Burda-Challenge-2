@@ -29,7 +29,7 @@ Tasks run **one after another**. Each block ends with something that works and i
 - [x] **Block 5 done:** Nährwerte tab → ingredients matched to real Swiss database IDs (exact / Swiss name / closest substitute, with confidence), grams via `config/unit_weights.json` rules, per-serving kcal/kJ/fat/carbs/protein computed in code, unresolved items listed (~15–20 s)
 - [x] **Block 6 done:** Rezeptkarten tab → A4 cards in the das schmeckt! design (logo, colours, layout from the salmon example), „KI-generierter Rezeptentwurf“, nutrition per serving, image placeholder, multi-page with header/footer/„Seite x von y“; same renderer shows archive XML recipes; print-to-PDF page count verified
 - [x] **Backup snapshot:** `snapshots/demo_backup_2026-11-20` (trends, 5 proposals, complete Grünkohl run: v1→v2 corrections, nutrition, 2 cards); load in the sidebar or `python -m storage.snapshot restore demo_backup_2026-11-20`. Note: this run was a test run (editor `cli-test`) – replace it with the editor's real run via `python -m storage.snapshot save <name> <run_id>`
-- [x] **FLUX (partial):** `python -m agents.image_agent <run_id> <slot>` – Kimi writes the image brief from the final recipe, `flux-2-pro` generates it (~12 s), saved per recipe version and embedded in the card. One image generated so far (Grünkohl recipe A); no button in the app yet
+- [x] **FLUX (partial):** `python -m agents.image_agent <run_id> <slot>` – Kimi writes the image brief from the final recipe, `flux-3-image-klein` generates it (~6 s, 0.9 credits; model set in `config/models.json` → "image"), saved per recipe version and embedded in the card. One image generated so far (Grünkohl recipe A); no button in the app yet
 
 ## Timeline
 

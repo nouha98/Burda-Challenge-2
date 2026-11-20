@@ -45,15 +45,19 @@ def create_image(run_id: str, slot: str) -> dict:
         title=recipe.get("title"), servings=recipe.get("servings"), ingredients=ingredients,
         final_steps=" ".join(s.get("text", "") for s in steps[-2:]), tip=recipe.get("serving_tip")),
         max_tokens=4000, agent="image_brief")
-    result = flux.generate(brief["prompt"])
     path = image_path(run_id, recipe)
+    job = flux.submit(brief["prompt"])
+    # Save the job before polling so an interrupted generation can be resumed instead of paid for twice
+    runs.write_json(path.with_suffix(".pending.json"), {"job": job, "prompt": brief["prompt"], "model": flux.MODEL})
+    result = flux.wait(job)
     path.write_bytes(result["bytes"])
+    path.with_suffix(".pending.json").unlink(missing_ok=True)
     info = {"slot": slot, "recipe_version": recipe["version"], "file": path.name, "image_model": result["model"],
-            "job_id": result["job_id"], "seed": result.get("seed"), "seconds": result["seconds"],
+            "job_id": result["job_id"], "seed": result.get("seed"), "cost_credits": result.get("cost_credits"), "seconds": result["seconds"],
             "prompt": brief["prompt"], "visible_ingredients": brief.get("visible_ingredients"),
             "prompt_model": meta["model"], "created_at": dt.datetime.now().isoformat(timespec="seconds")}
     runs.write_json(path.with_suffix(".json"), info)
-    runs.log_event(run_id, "image_ready", f"{slot}: FLUX image for v{recipe['version']} ({result['seconds']} s)")
+    runs.log_event(run_id, "image_ready", f"{slot}: {result['model']} image for v{recipe['version']} ({result['seconds']} s)")
     return info
 
 
