@@ -10,25 +10,56 @@ from services import flux
 from services.gateway import chat_json
 from storage import runs
 
-SYSTEM = """You write prompts for realistic food photography for the German food magazine "das schmeckt!".
+SYSTEM = """You are a food stylist and photographer briefing an image model for the German food magazine "das schmeckt!".
+You know exactly how German and regional ingredients look in real life, raw and after cooking.
+The image model does NOT reliably know German or regional food names, so you describe appearance instead of naming.
 Respond only with a JSON object."""
 
-USER_TEMPLATE = """Write an image prompt for this finished recipe. The image must show exactly this dish.
+USER_TEMPLATE = """Brief a photo of this finished recipe as it really looks when cooked at home following these exact steps.
 
 Recipe (German): {title}
 Servings: {servings}
 Ingredients: {ingredients}
-Final preparation and serving: {final_steps}
+All preparation steps: {steps}
 Serving tip: {tip}
 
-Rules:
-- Show only ingredients that are actually in the recipe and visible in the finished dish; nothing else as garnish.
-- Cut sizes, cooking method and texture must match the steps.
-- Realistic, appetizing home-cooking food photography, served for {servings}, natural daylight, calm and tidy but warm,
-  seasonal background, main dish clearly in focus; square format, dish centred with some space around it.
+Step 1 – for every ingredient that is VISIBLE in the finished dish, describe its real-life appearance in the state the
+steps leave it in (raw, braised, roasted, mashed, melted …): colour (precise, e.g. "dark olive green", "greyish brown"),
+surface and texture, shape, cut size in cm, how many pieces per portion, and what typically distinguishes it from
+similar-looking foods (e.g. a coarse grain sausage is NOT a smooth frankfurter; smoked cured pork loin is NOT boiled ham).
+Ingredients dissolved in the sauce or used only for seasoning are not visible – leave them out.
+
+Step 2 – write the image prompt.
+PRIORITY: realism comes before appeal. Appeal must never change how an ingredient really looks. For every component,
+reuse the colour, texture and shape from your step-1 description word for word (e.g. braised kale stays very dark,
+almost black-green and soft – never light green; a sausage keeps its real casing colour). Use the most specific
+English food term or a plain description; never substitute a different vegetable or meat (kale is not "cabbage").
+Consistency must match the steps (a stew thickened with crushed potatoes is thick and spoonable, not a soup).
+- Start with "Close-up of", the dish and vessel, then each visible component using your appearance descriptions – no German food names,
+  no brand names.
+- Where texture identifies a food, show it (e.g. one sausage cut open to reveal its interior).
+- Make it as appealing as possible while staying true to real food – the brand's photo rule is "yummy, focus on the main
+  motif, ingredients clearly recognisable, makes you full and happy". Achieve appeal through styling, not adjectives:
+  freshly served and hot (a little steam where the dish is hot), natural sheen from fat, butter or sauce, the most
+  attractive components placed on top and facing the camera (e.g. sliced meat, a cut-open sausage, browned edges),
+  clear colour contrast between components, golden or browned surfaces where the steps brown them, a clean plate rim,
+  a generous but realistic portion for {servings}. Sauce or broth as thick or thin as the steps make it; no garnish
+  and nothing that is not in the recipe.
+- The viewers are German home cooks (mostly women around 56, two-person households). Serve the dish the way it is
+  typically served at a German home table today – e.g. a stew in a deep plate, a tray bake on a plate, a cake slice on
+  a cake plate – in everyday German tableware: a plain white or simple stoneware deep plate, a simple enamel or
+  stainless pot. Ingredients look as they do in German supermarkets. No American or Instagram clichés (no cast-iron
+  skillets, slate boards, rustic props, scattered herbs or spices, dark moody styling).
+- Framing – the food is the subject: close-up, the dish fills about 80 % of the square frame, camera about 45° above
+  and close to the plate or pot, the food surface and textures sharp and clearly readable. Only the vessel's rim and a
+  narrow strip of table may show, calm and softly blurred; no window, no room, no extra props, no side dishes. Warm, soft
+  natural side light that brings out texture, 85 mm lens, f/5.6, true-to-life colours, professional magazine food photo.
+- Avoid words that make images look artificial: perfect, flawless, plastic, 8k, hyperrealistic, CGI, render.
 - No text, no logos, no hands, no people.
 
-Format: {{"visible_ingredients": ["..."], "prompt": "English prompt, max. 90 words"}}"""
+Format:
+{{"visible_ingredients": [{{"name_de": "...", "real_life_appearance": "..."}}],
+  "prompt": "English prompt, max. 140 words"}}"""
 
 
 def image_path(run_id: str, recipe: dict):
@@ -43,8 +74,8 @@ def create_image(run_id: str, slot: str) -> dict:
     steps = recipe.get("steps") or []
     brief, meta = chat_json("recipe_author", SYSTEM, USER_TEMPLATE.format(
         title=recipe.get("title"), servings=recipe.get("servings"), ingredients=ingredients,
-        final_steps=" ".join(s.get("text", "") for s in steps[-2:]), tip=recipe.get("serving_tip")),
-        max_tokens=4000, agent="image_brief")
+        steps=" ".join(f"{s.get('number')}. {s.get('text', '')}" for s in steps), tip=recipe.get("serving_tip")),
+        max_tokens=8000, agent="image_brief")
     path = image_path(run_id, recipe)
     job = flux.submit(brief["prompt"])
     # Save the job before polling so an interrupted generation can be resumed instead of paid for twice
