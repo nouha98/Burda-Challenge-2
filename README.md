@@ -3,6 +3,7 @@
 Multi-agent workflow: food trends → 5 qualified proposals → editor selects 1 → 2 recipes → review loop (max. 2 revisions) → nutrition calculation → HTML recipe cards.
 
 - Build plan and roles: [TASKS.md](TASKS.md)
+- Review of the original plan (what changed, what was cut, risks): [PLAN-REVIEW.md](PLAN-REVIEW.md)
 - Full design: [Das-schmeckt-workflow-and-implementation-plan.md](Das-schmeckt-workflow-and-implementation-plan.md)
 - Challenge materials: [challenge-2/](challenge-2/) (copied from the organisers' repo; folder renamed because `:` is invalid on Windows)
 

@@ -48,7 +48,7 @@ Never cut: 5 proposals, human selection, 2 recipes, review loop, nutrition with 
 
 ## Known limitations to state in the demo
 
-- Archive = 5,000 recipe XMLs (`challenge-2/data/recipe-archive/rezepte_export/`); ingredient IDs resolve 100% via the topic map, unit IDs 93%. "Most recent comparable recipe" uses `DateImported`, which is the import date into the CMS, not necessarily the print publication date
+- Archive = 5,000 recipe XMLs (`challenge-2/data/recipe-archive/rezepte_export/`), a **category-stratified sample of 81,798** recipes, so archive claims hold "in this sample" only; ingredient IDs resolve 100% via the topic map, unit IDs 93%. "Most recent comparable recipe" uses `DateImported`, which is the import date into the CMS, not necessarily the print publication date
 - Trend data is a fixed snapshot from 18 Oct–18 Nov 2026; the November rise is partly seasonal (Christmas baking)
 - No AI-generated images yet (FLUX left out for now) – the brief asks for them on the final cards
 - Nutrition values are estimates from the database, not lab measurements; the AI review doesn't replace a test kitchen
