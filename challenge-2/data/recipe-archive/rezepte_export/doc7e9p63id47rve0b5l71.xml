@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e9p63id47rve0b5l71" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-28T16:22:11+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:36+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <Keywords topic="tmt7e9p931iudy1h9qew3hp"/>
+    <DateImported>2021-01-28T16:22:11+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">520</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">43</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">26</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">26</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Pellkartoffeln zum würzigem Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="1" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" prefix="kleine" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="2" amount="3" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" position="3" amount="1" prefix="großes Bund" plural="Dill"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7461" position="4" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kräuterfrischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="5" amount="10" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7576" position="6" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Lachs" prefix="Stremel-"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="7" plural="Salz und Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln waschen
+und mit der Schale in
+kochendem
+Wasser in ca.
+20 Min. weich garen. Inzwischen
+die Lauchzwiebeln
+putzen, waschen und
+in feine Ringe schneiden.
+Den Dill von den Stielen
+zupfen und fein schneiden.
+Den Frischkäse mit der
+Milch glatt rühren, dann
+Lauchzwiebeln und Dill,
+bis auf 1 EL, unterrühren.
+Den Lachs grob zerzupfen
+und vorsichtig unterheben.
+Den Dip evtl. noch mit Salz
+und Pfeffer abschmecken.
+In ein Schälchen füllen und
+mit übrigem Dill bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6013e964cee67">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln abgießen
+und kurz ausdampfen
+lassen.
+Dann mit dem
+Lachs-Dip anrichten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Sie können für dieses Gericht auch normalen Räucherlachs oder gebeizten Lachs (Graved Lachs) verwenden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Bergmann, Meike</ImageCredit>
+      <DocumentRef doc_id="doc7a9n2utzw7l19zfl6g5d" file_variant="master" position="1">Pellkartoffeln mit Lachscreme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc808hl2wccfn118cbevbq" dcx-version="6.3.1" version="1.0">
+  <created>2025-04-16T18:05:50+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-04-28T10:23:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <Keywords topic="tmt80ehls424811lpsyjvy1"/>
+    <Keywords topic="tmt6ow9paxp1t2oswhi8m9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spekulatiuskugeln","recipe_seo_headline":null,"servings":{"amount":30.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":null},{"name":"Ruhen/Warten","duration":null}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Marzipanrohmasse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"weiße Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Gewürzspekulatiuskekse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"gemahlener Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Sahne in einem kleinen Topf aufkochen. Marzipan in kleine Stücke schneiden und zugeben, unter Rühren auflösen lassen. Abkühlen lassen."},{"headline":null,"content":"Kuvertüre grob hacken und in einer Schüssel über dem heißen Wasserbad oder der Mikrowelle schmelzen."},{"headline":null,"content":"Kekse in einem Gefrierbeutel fein zerbröseln. 50 g zum Wälzen in einer flachen Schale beiseite stellen."},{"headline":null,"content":"Übrige Keksbrösel (200 g) mit warmer Marzipan-Sahne, Zimt, flüssiger Kuvertüre und gemahlenen Mandeln in einer Schüssel vermischen."},{"headline":null,"content":"Durchgekühlte Masse mit Hilfe von zwei Teelöffeln in etwa 30 Portionen teilen. Zügig mit den Händen zu Kugeln rollen und in den übrigen Keksbröseln wälzen. Fertige Kugeln luftdicht und kühl aufbewahren."}],"recipe_tips":[{"headline":"Statt Spekulatiuskeksen","content":"kannst du auch Hafer- oder Karamellkekse verwenden und zusätzlich ½ TL gemahlenes Spekulatius- oder Lebkuchengewürz zufügen."}]}</CustomStructuredRecipeJson>
+    <Title>Spekulatiuskugeln</Title>
+    <Headline position="1">Spekulatiuskugeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-04-16T18:05:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="808hl078jj91app7nvbq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8081" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Marzipanrohmasse" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zixv533a83hn81p9ws" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="weiße Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt808hl2wfejn1fbrgrvbq" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Gewürzspekulatiuskekse"/>
+      <CustomRecipeIngredient topic="tmt808hl2wiu6a94f0yvbq" amount="1/2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" plural="gemahlener Zimt"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="gemahlene Mandeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="808hl2wc8vky86jpvbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sahne in einem kleinen Topf aufkochen. Marzipan in kleine Stücke schneiden und zugeben, unter Rühren auflösen lassen. Abkühlen lassen. Kuvertüre grob hacken und in einer Schüssel über dem heißen Wasserbad oder der Mikrowelle schmelzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hl2wcarpxphlvbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kekse in einem Gefrierbeutel fein zerbröseln. 50 g zum Wälzen in einer flachen Schale beiseite stellen. Übrige Keksbrösel (200 g) mit warmer Marzipan-Sahne, Zimt, flüssiger Kuvertüre und gemahlenen Mandeln in einer Schüssel vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hl2wcbf61l20y2vbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Durchgekühlte Masse mit Hilfe von zwei Teelöffeln in etwa 30 Portionen teilen. Zügig mit den Händen zu Kugeln rollen und in den übrigen Keksbröseln wälzen. Fertige Kugeln luftdicht und kühl aufbewahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="808hl2wcbky3y2fivbq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch Hafer- oder Karamellkekse verwenden und zusätzlich ½ TL gemahlenes Spekulatius- oder Lebkuchengewürz zufügen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt Spekulatiuskeksen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_680f3a27d2009">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">3 Wochen, luftdicht und kühl aufbewahren</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit </CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6q6he3513azr9akk" file_variant="master" position="1">Spekulatiuskugeln_15363.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_680f3af3be2ce">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6q91k9f7kt3zia1" file_variant="master" position="1">Spekulatiuskugeln_15356.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_680f3af51b840">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6q8f18ywvb0sipw" file_variant="master" position="1">Spekulatiuskugeln_15165.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_680f3af6960f9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6qnk4qt163zfuilt" file_variant="master" position="1">Spekulatiuskugeln_15113.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

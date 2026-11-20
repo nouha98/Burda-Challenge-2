@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81uv1tjko3t1jpi3y20zr" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-08T08:40:16+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-08T08:44:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Beeren Crumble","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Johannisbeeren","unit":{"name":"g"},"prefix":null,"suffix":"(ersatzweise Brombeeren)"},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null}]},{"headline":"Für den Streuselteig","ingredients":[{"amount":70,"amountTo":null,"ingredient_name":"kalte Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"für die Form"},{"amount":70,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Beeren in einem Sieb waschen, auf einem Kuchentuch abtropfen lassen. Das Grün der Erdbeeren abschneiden und die Früchte halbieren. Johannisbeeren mit Hilfe einer Gabel von den Rispen ziehen. Beerenmix mit Vanillezucker in einer Schüssel mischen und beiseite stellen."},{"headline":null,"content":"Auflaufform (Ø ca. 24 cm) fetten. Butter in Stücken, Zucker und Salz in eine Schüssel geben. Mit den Händen oder den Knethaken des Handrührgerätes kurz vermischen. Mehl zugeben und zu groben Streusel kneten. Früchte in die vorbereitete Form geben, Streusel üppig darauf verteilen. Im Ofen 25-30 Minuten backen und am besten warm servieren."}],"recipe_tips":[{"headline":"Tiefgekühlte Beeren","content":"Verwende statt frischen Früchten 700 g TK-Beeren. Mische sie im gefrorenen Zustand mit 1 ½ EL Mehl und verarbeite sie direkt im gefrorenen Zustand zum Crumble."},{"headline":"Streusel 2.0","content":"Ersetze 50 g des Mehls durch gemahlene Mandeln oder Haferflocken. So werden die Streusel etwas spannender."}]}</CustomStructuredRecipeJson>
+    <Title>Beeren Crumble</Title>
+    <Headline position="1">Beeren Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-08T08:40:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81uv1qeg6asm6jg620zr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Heidelbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6881" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ersatzweise Brombeeren)" plural="Johannisbeeren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="5" plural="Bourbon Vanillezucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81uv1rwxjyg719uv20zr">
+      <CustomRecipeIngredient topic="tmt7zi4hhc7o0ldwlvgifb" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="kalte Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="für die Form" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Streuselteig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81uv1tjkax47gsmv20zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Beeren in einem Sieb waschen, auf einem Kuchentuch abtropfen lassen. Das Grün der Erdbeeren abschneiden und die Früchte halbieren. Johannisbeeren mit Hilfe einer Gabel von den Rispen ziehen. Den Beerenmix mit Vanillezucker in einer Schüssel mischen und beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81uv1tjkh3ov732720zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Auflaufform (Ø ca. 24 cm) fetten. Butter in Stücken, Zucker und Salz in eine Schüssel geben. Mit den Händen oder den Knethaken des Handrührgerätes kurz vermischen. Mehl zugeben und zu groben Streusel kneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68959c26d0eca">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1"> Früchte in die vorbereitete Form geben, Streusel üppig darauf verteilen. Im Ofen 25-30 Minuten backen und am besten warm servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81uv1tjkhadidvms20zr">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verwende statt frischen Früchten 700 g TK-Beeren. Mische sie im gefrorenen Zustand mit 1 ½ EL Mehl und verarbeite sie direkt im gefrorenen Zustand zum Crumble.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tiefgekühlte Beeren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="81uv1tjkllz8nmsc20zr">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ersetze 50 g des Mehls durch gemahlene Mandeln oder Haferflocken. So werden die Streusel etwas spannender.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Streusel 2.0</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

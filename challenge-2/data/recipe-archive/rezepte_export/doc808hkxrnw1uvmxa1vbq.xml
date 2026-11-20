@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc808hkxrnw1uvmxa1vbq" dcx-version="6.3.1" version="1.0">
+  <created>2025-04-16T18:05:31+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-04-28T09:18:01+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <Keywords topic="tmt6p3dns7ryar1j0avh8m6"/>
+    <Keywords topic="tmt71g8a4ivmnqb4iz05r2"/>
+    <Keywords topic="tmt6owa4xw3ahcz7u1i8m7"/>
+    <Keywords topic="tmt6owqmhx4775kbwof8m8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pistazieneis","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":180},{"name":"Ruhen/Warten","duration":10}],"difficulty":"mittel","price":"Teuer","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Pistazienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Pistazienkerne","unit":{"name":"EL"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Pistazien grob hacken und in einer Pfanne ohne Öl etwas anrösten. Milch einmal aufkochen. Pistazien zugeben und 10 Minuten ziehen lassen. Pistazienmilch sehr fein pürieren."},{"headline":null,"content":"In einer Schüssel über dem heißen Wasserbad Eigelbe mit Zucker verrühren und mit einem Schneebesen 2-3 Minuten cremig weiß aufschlagen. Flüssige Sahne und Pistazienmilch zugeben, weitere 2 Minuten über dem heißen Wasserbad rühren. Eismasse in eine Schüssel umfüllen und mindestens 1 Stunde abkühlen lassen."},{"headline":null,"content":"Abgekühlte Eismasse in den Behälter der Eismaschine füllen, anschalten und durchfrieren lassen. Je nach Eismaschine und Kühlaggregat dauert dieser Vorgang unterschiedlich lange. Fertiges Pistazieneis in eine Frischhaltbox füllen und in mindestens 2 Stunden in das Gefrierfach stellen."},{"headline":null,"content":"Einige Minuten vor dem Servieren aus dem Gefrierfach nehmen. Kugeln portionieren und nach Belieben mit weiteren grob gehackten Pistazien servieren."}],"recipe_tips":[{"headline":"Auch ohne Eismaschine möglich","content":"Friere dafür als erstes ein Gefäß im Gefrierfach etwa 1-2 Stunden vor. Bereite die Eismasse zu und lasse sie komplett erkalten. Rühre sie einmal durch und fülle sie dann in das vorgefrorene Gefäß und friere es wieder ein. Verrühre die Eismasse nun alle 30 Minuten mit einem Esslöffel bis die Eiscreme komplett fest geworden ist. Das Eis wird in der Eismaschine zwar etwas cremiger, der Geschmack bleibt aber gleich lecker."}]}</CustomStructuredRecipeJson>
+    <Title>Pistazieneis</Title>
+    <CustomRecipeNoteInformation position="1">1 Portion entspricht ca. 800 g Eis-ergibt, etwa 8-10 Kugeln</CustomRecipeNoteInformation>
+    <Headline position="1">Pistazieneis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-04-16T18:05:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="808hkv2rmm1ynxtxvbq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8846" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pistazienkerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe: M)" position="3" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8846" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Garnieren" plural="Pistazienkerne" position="6" amount_error="1" amount_max="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="808hkxrn5pktj1vjvbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pistazien grob hacken und in einer Pfanne ohne Öl etwas anrösten. Milch einmal aufkochen. Pistazien zugeben und 10 Minuten ziehen lassen. Pistazienmilch sehr fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hkxrnhs31df4x2vbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer Schüssel über dem heißen Wasserbad Eigelbe mit Zucker verrühren und mit einem Schneebesen 2-3 Minuten cremig weiß aufschlagen. Flüssige Sahne und Pistazienmilch zugeben, weitere 2 Minuten über dem heißen Wasserbad rühren. Eismasse in eine Schüssel umfüllen und mindestens 1 Stunde abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hkxrni1syabytvbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Abgekühlte Eismasse in den Behälter der Eismaschine füllen, anschalten und durchfrieren lassen. Je nach Eismaschine und Kühlaggregat dauert dieser Vorgang unterschiedlich lange. Fertiges Pistazieneis in eine Frischhaltbox füllen und in mindestens 2 Stunden in das Gefrierfach stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hkxrni8i15hv6yvbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Einige Minuten vor dem Servieren aus dem Gefrierfach nehmen. Kugeln portionieren und nach Belieben mit weiteren grob gehackten Pistazien servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="808hkxrniiaf6dwhvbq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Friere dafür als erstes ein Gefäß im Gefrierfach etwa 1-2 Stunden vor. Bereite die Eismasse zu und lasse sie komplett erkalten. Rühre sie einmal durch und fülle sie dann in das vorgefrorene Gefäß und friere es wieder ein. Verrühre die Eismasse nun alle 30 Minuten mit einem Esslöffel bis die Eiscreme komplett fest geworden ist. Das Eis wird in der Eismaschine zwar etwas cremiger, der Geschmack bleibt aber gleich lecker.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Auch ohne Eismaschine möglich</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6ro4rqpfyn0makk" file_variant="master" position="1">Pistazieneis_14673.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_680f2b98d60a4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6ry1pegdh443aju" file_variant="master" position="1">Pistazieneis_14666.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_680f2b9a9cfa4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6rwrj9exx8fkijn" file_variant="master" position="1">Pistazieneis_13473.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_680f2b9c4adbd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6rrjho014digwi90" file_variant="master" position="1">Pistazieneis_14194.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7o8pbwnv5yrfwkgplva" dcx-version="6.3.1" version="1.0">
+  <created>2022-12-28T08:59:45+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-07T09:31:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Headline position="1">Erdbeer-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-12-28T08:59:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" position="2" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="3" amount="1" prefix="kleine" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7141" position="4" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Kefir"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="5" amount="1" plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10126" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sesamsamen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">400 g Erdbeeren waschen, putzen und halbieren. 1 kleine Banane schälen und in grobe Stücke teilen. Mit 250 ml Kefir und dem Saft von 1 Limette und 2 EL Sesamsamen in den Standmixer geben und pürieren.
+Haltbarkeit: gekühlt 1–2 Tage.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Quinoa-Erdbeer-Smoothie mit Joghurt</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Grossmann.Schuerle</ImageCredit>
+      <DocumentRef doc_id="doc7kbyqotqbwn1ihsq86mj" file_variant="master" position="1">Quinoa-Erdbeer-Smoothie mit Joghurt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834nkk05z49pcm9ew7" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-05T10:33:57+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-05T10:37:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vanille-Milchshake","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vanilleeis","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Das Vanilleeis mit der Milch in einem Mixbecher geben und ca. 2 Minuten sämig und schaumig durchmixen und in den Kühlschrank stellen."},{"headline":null,"content":"Die Sahne cremig steif schlagen. Den Milchshake in die Gläser füllen und die Sahne oben auf dressieren und mit dem Kakaopulver dekorieren."}],"recipe_tips":[{"headline":"Kalte Gläser","content":"Stelle die Gläser für 30 Minuten in den Kühlschrank – so schmeckt dein Shake noch erfrischender."}]}</CustomStructuredRecipeJson>
+    <Title>Vanille-Milchshake</Title>
+    <Headline position="1">Vanille-Milchshake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-05T10:33:57+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="834nkisxkntog3xyew7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10781" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleeis" position="1" prefix="Kugeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kakaopulver" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834nkk05sr91b0hfyew7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Vanilleeis mit der Milch in einem Mixbecher geben und ca. 2 Minuten sämig und schaumig durchmixen und in den Kühlschrank stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834nkk05t081f6cvdew7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sahne cremig steif schlagen. Den Milchshake in die Gläser füllen und die Sahne oben auf dressieren und mit dem Kakaopulver dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_690b1a4dbc814">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verstreiche 1/2 bis 1 EL Schokosauce im Glas und gebe dann den Milchshake dazu - das sieht nicht nur super aus, sondern schmeckt in Kombination mit dem Vanillemilchshake einfach fantastisch!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Dekadent</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lptpk9b2e44vmtddn" file_variant="master" position="1">Vanille Milchshake</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690b1adaae934">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpteeqbbp1b9yrhoni" file_variant="master" position="1">Vanille Milchshake</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690b1adca0bb7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lptjrn2l21jjy5yd93" file_variant="master" position="1">Vanille Milchshake</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690b1ade90d48">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpu89yw7r4g8uvh6h" file_variant="master" position="1">Vanille Milchshake</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_690b1ae052529">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lptzrr5tiidayrc3j" file_variant="master" position="1">Vanille Milchshake</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

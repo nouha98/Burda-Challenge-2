@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80lb2nto0zorewte1ybi" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-11T16:51:41+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-10T14:21:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Keywords topic="tmt6owqmhx4775kbwof8m8"/>
+    <Keywords topic="tmt6qgqfkanmw21ldjok2nh"/>
+    <Keywords topic="tmt6reiwpnwy4l538kvn9d"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananeneis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Kühlen","duration":240}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"überreife Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ca. 400 g)"},{"amount":50,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Einen Behälter für das Eis (z.B. eine Auflaufform) bzw. den Behälter der Eismaschine (je nach Hersteller) vorab in das Gefrierfach stellen und 1 Stunde durchfrieren lassen."},{"headline":null,"content":"Halbe Zitrone auspressen. Bananen schälen, in grobe Stücke brechen und zusammen mit dem Zitronensaft in einen hohen Rührbecher geben. Mit einem Pürierstab zu einem Mus pürieren. Milch, flüssige Sahne und Puderzucker zugeben und erneut pürieren."},{"headline":null,"content":"Masse in das vorgefrorene Gefäß geben und mindestens 3 Stunden in das Gefrierfach stellen. Während des Gefrierens das Eis ca. alle 30 Minuten einmal durchrühren. Dadurch wird es cremiger und friert auch schneller durch. Wer eine Eismaschine hat kann den Bananenmix in das dafür vorgesehene Gefäß geben und laut Herstellerangabe durchfrieren lassen."},{"headline":null,"content":"5 Minuten vor dem Verzehr das Eis zum Antauen und besseren Portionieren aus dem Gefrierfach nehmen. Nach Belieben mit einem Eisportionierer auf Dessertschüsseln verteilen und direkt servieren."}],"recipe_tips":[{"headline":"Vegane Variante","content":"Ersetzt die Milch und die Schlagsahne durch vegane Alternativen wie Sojacreme, Kokosmilch, Haferdrink."}]}</CustomStructuredRecipeJson>
+    <Title>Bananeneis</Title>
+    <Headline position="1">Bananeneis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-11T16:51:41+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80lb2kzj9n6vm1ea1ybi">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitrone" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(ca. 400 g)" position="2" plural="Bananen" prefix="überreife "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80lb2ntn504p4bh41ybi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Einen Behälter für das Eis (z.B. eine Auflaufform) bzw. den Behälter der Eismaschine (je nach Hersteller) vorab in das Gefrierfach stellen und 1 Stunde durchfrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb2ntndk21g707s1ybi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Halbe Zitrone auspressen. Bananen schälen, in grobe Stücke brechen und zusammen mit dem Zitronensaft in einen hohen Rührbecher geben. Mit einem Pürierstab zu einem Mus pürieren. Milch, flüssige Sahne und Puderzucker zugeben und erneut pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb2ntndubgrkgf1ybi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Masse in das vorgefrorene Gefäß geben und mindestens 3 Stunden in das Gefrierfach stellen. Während des Gefrierens das Eis ca. alle 30 Minuten einmal durchrühren. Dadurch wird es cremiger und friert auch schneller durch. Wer eine Eismaschine hat kann den Bananenmix in das dafür vorgesehene Gefäß geben und laut Herstellerangabe durchfrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb2ntne08uohhj1ybi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">5 Minuten vor dem Verzehr das Eis zum Antauen und besseren Portionieren aus dem Gefrierfach nehmen. Nach Belieben mit einem Eisportionierer auf Dessertschüsseln verteilen und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80lb2ntne6emsvhs1ybi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ersetzt die Milch und die Schlagsahne durch vegane Alternativen wie Sojacreme, Kokosmilch, Haferdrink.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegane Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6821d4c1a375a">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">2 Wochen, tiefgekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpb3858cwiirbjnxd" file_variant="master" position="1">Bananeneis_25333.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6821d4ff6b410">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpb1h0nqe13gyolvin" file_variant="master" position="1">Bananeneis_25351.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6821d500caee7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpb04mk2x6ytpinxd" file_variant="master" position="1">Bananeneis_24890.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

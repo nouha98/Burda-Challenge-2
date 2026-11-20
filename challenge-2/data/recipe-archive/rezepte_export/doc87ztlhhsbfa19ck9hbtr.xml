@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87ztlhhsbfa19ck9hbtr" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-12T09:24:13+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-10-12T09:32:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Source topic="tmt87ztp9lyxaw14b8pt21it"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spaghetti mit Spinat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":{"calories":597,"kilojoule":2499,"carbonhydrates":81,"fat":19,"protein":23,"breadunit":7}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Blattspinat","unit":{"name":"g"},"prefix":null,"suffix":"(frisch oder TK)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"große","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"(oder z. B. Montello)"},{"amount":400,"amountTo":null,"ingredient_name":"Spaghetti","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":"(max. 50 % Fett i. Tr.)"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"Prise"},"prefix":null,"suffix":"gemahlen"},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Frischen Spinat waschen, putzen und in dünne Streifen schneiden. Bei Verwendung von TK-Spinat diesen auftauen lassen und ebenfalls klein schneiden. Zwiebel abziehen und fein würfeln, Knoblauch abziehen und fein hacken. Parmesan fein reiben. Spaghetti nach Packungsanweisung kochen."},{"headline":null,"content":"Olivenöl in einer großen beschichteten Pfanne erhitzen, Zwiebel und Knoblauch darin etwa 2-3 Minuten glasig dünsten. Spinat dazu geben und kurz mitdünsten. Wenn er zusammengefallen ist, Frischkäse einrühren. Spinatsauce mit Pfeffer, Muskatnuss und etwas Salz abschmecken."},{"headline":null,"content":"Spaghetti abgießen und mit in die Pfanne geben, gut vermengen und nochmals 5 Minuten erhitzen. Spinat-Spaghetti auf 4 Teller verteilen und mit geriebenem Parmesan bestreut servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Spaghetti mit Spinat</Title>
+    <CustomRecipeNutritionalValueCalories position="1">597</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2499</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">81</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">19</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">23</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">7</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Spaghetti mit Spinat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-12T09:24:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87ztleb9ipkolducbtr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(frisch oder TK)" plural="Blattspinat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="große" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(oder z. B. Montello)" plural="Parmesan" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10241" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spaghetti" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(max. 50 % Fett i. Tr.)" plural="Frischkäse" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" amount="2" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="gemahlen" plural="Muskatnuss" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87ztlhhs6zq1a4hu1btr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Frischen Spinat waschen, putzen und in dünne Streifen schneiden. Bei Verwendung von TK-Spinat diesen auftauen lassen und ebenfalls klein schneiden. Zwiebel abziehen und fein würfeln, Knoblauch abziehen und fein hacken. Parmesan fein reiben. Spaghetti nach Packungsanweisung kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87ztlhhs9fo1jg2gkbtr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Olivenöl in einer großen beschichteten Pfanne erhitzen, Zwiebel und Knoblauch darin etwa 2-3 Minuten glasig dünsten. Spinat dazu geben und kurz mitdünsten. Wenn er zusammengefallen ist, Frischkäse einrühren. Spinatsauce mit Pfeffer, Muskatnuss und etwas Salz abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87ztlhhs9k1vyu8tbtr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Spaghetti abgießen und mit in die Pfanne geben, gut vermengen und nochmals 5 Minuten erhitzen. Spinat-Spaghetti auf 4 Teller verteilen und mit geriebenem Parmesan bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eytg7274ec1m18ek9m8" file_variant="master" position="1">SpinatSpaghetti2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6acc8cfcc8f0a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eyth48bw1k13d8099mc" file_variant="master" position="1">SpinatSpaghetti_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6acc8cffca77f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eyth9z3y2x1kago49mc" file_variant="master" position="1">SpinatSpaghetti1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

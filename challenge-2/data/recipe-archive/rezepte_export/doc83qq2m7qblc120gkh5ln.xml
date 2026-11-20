@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qq2m7qblc120gkh5ln" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-18T09:24:10+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-18T09:29:21+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt7gnioi4ddva4s0wmkq"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kartoffelsalat mit Würstchen","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":15},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"festkochend"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gewürzgurken","unit":{"name":"Stück"},"prefix":"ca.","suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Salatmayonnaise","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Gewürzgurkensud","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"gemahlener weißer Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Wiener Würstchen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Kartoffeln mit Schale in leicht gesalzenem Wasser weichkochen, noch warm schälen und in dünne Scheiben schneiden. Die Eier ca. 8 Minuten hart kochen, abschrecken, schälen und anschließend in grobe Stücke schneiden."},{"headline":null,"content":"Die Zwiebel schälen und fein würfeln. Die Gewürzgurken in Scheiben schneiden."},{"headline":null,"content":"Die Salatmayonnaise mit Joghurt und Senf glattrühren. Den Gewürzgurkensud und die Zwiebelwürfel hinzurühren. Das Salz und den gemahlenen Pfeffer dazugeben. Die Marinade über die Kartoffeln geben, mischen und ca. 30 Minuten ziehen lassen."},{"headline":null,"content":"Kurz vor dem Servieren die Eierstücke und die Gewürzgurkenscheiben unterrühren. Den Schnittlauch in dünne Ringe schneiden und über den Salat streuen."},{"headline":"Würstchen","content":"Die Wiener Würstchen in leicht gesalzenem Wasser einmal aufkochen und ca. 2-3 Minuten ziehen lassen."}],"recipe_tips":[{"headline":"Kartoffelsorte","content":"Damit der Kartoffelsalat nicht zu matschig wird, ist eine festkochende Kartoffelsorte sehr wichtig. Gute Sorten sind z.B: Ditta, Nicola oder Sieglinde."}]}</CustomStructuredRecipeJson>
+    <Title>Kartoffelsalat mit Würstchen</Title>
+    <Headline position="1">Kartoffelsalat mit Würstchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-18T09:24:10+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qq2i7z36w18az7s5ln">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="festkochend" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6276" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="ca." plural="Gewürzgurken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9521" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Salatmayonnaise" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Senf" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" position="8" amount="40" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weißweinessig"/>
+      <CustomRecipeIngredient topic="tmt82nbkhs7zqs14ivi15zz" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gewürzgurkensud" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt80nfc8biukxqg4ei4dh" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="11" prefix="weißer" plural="Pfeffer, gemahlen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" position="12" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" plural="Schnittlauch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11171" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Wiener Würstchen" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="14"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qq2m7pt8313pb355ln">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln mit Schale in leicht gesalzenem Wasser weichkochen, noch warm schälen und in dünne Scheiben schneiden. Die Eier ca. 8 Minuten hart kochen, kalt abschrecken, schälen und anschließend in grobe Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qq2m7q0q0jfrww5ln">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Zwiebel abziehen und fein würfeln. Die Gewürzgurken in Scheiben schneiden. Die Salatmayonnaise mit Joghurt und Senf glattrühren. Den Weißweinessig, den Gewürzgurkensud und die Zwiebelwürfel hinzurühren. Das Salz und den gemahlenen Pfeffer zum Dressing dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qq2m7q0zb1b60em5ln">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Dressing über die Kartoffeln geben, mischen und ca. 30 Minuten ziehen lassen. Kurz vor dem Servieren die Eierstücke und die Gewürzgurkenscheiben unterrühren. Den Schnittlauch in dünne Ringe schneiden und über den Salat streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qq2m7q147x30ba5ln">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Leicht gesalzenes Wasser einmal aufkochen, vom Herd nehmen und die Wiener Würstchen hineingeben. Die Würstchen im heißen Wasser ca. 2-3 Minuten ziehen lassen. Pro Portion etwas Kartoffelsalat und ein Paar Wiener Würstchen auf dem Teller anrichten. Dazu passt Senf. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83qq2m7q4ivd5ct65ln">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit der Kartoffelsalat nicht zu matschig wird, ist eine festkochende Kartoffelsorte sehr wichtig. Gute Sorten sind z.B: Ditta, Nicola oder Sieglinde.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kartoffelsorte</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82r8e9h776b6c7ckpys" file_variant="master" position="1">Kartoffelsalat mit Würstchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6943bb59df585">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82r8djrdvx316escdpys" file_variant="master" position="1">Kartoffelsalat mit Würstchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6943bb5b5530d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82r8dwlkr6b1e8zwupys" file_variant="master" position="1">Kartoffelsalat mit Würstchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6943bb5c96c2c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82r8emeu19fc3oe6q2k" file_variant="master" position="1">Kartoffelsalat mit Würstchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

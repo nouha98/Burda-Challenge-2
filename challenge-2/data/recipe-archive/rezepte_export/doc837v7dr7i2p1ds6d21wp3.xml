@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc837v7dr7i2p1ds6d21wp3" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-11T16:35:49+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-11-11T16:35:49+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="5"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rührei","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Stiel"},"prefix":"einige","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":"1","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":"(3,5 % Fett) oder Sahne"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"frisch gemahlener","suffix":null}]}],"preparation":[{"headline":null,"content":"Schnittlauch waschen, abtropfen lassen und in Ringe schneiden. Eier und 1 Prise Salz in eine Schüssel geben und mit einer Gabel verquirlen."},{"headline":null,"content":"Butter in einer Pfanne (Ø 20 cm) bei mittlerer Hitze zerlassen. Eier zugeben und unter gelegentlichem Rühren garen."},{"headline":null,"content":"Sobald das Ei zu stocken beginnt, Milch oder Sahne zugeben und weitere 2-3 Minuten fertig garen. Rührei mit Salz und Pfeffer würzen und mit Schnittlauch bestreut servieren."}],"recipe_tips":[{"headline":"Besonders zart","content":"Wenn Du ein besonders sanft gegartes Rührei magst, gare das aufgeschlagene Ei in einer Schüssel über heißem Wasserdampf."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Rührei</Headline>
+    <Title>Rührei</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-11T16:35:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="837v7b27wvm1ep3d11wp3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" plural="Schnittlauch" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="1" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(3,5 % Fett) oder Sahne" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch gemahlener" plural="Pfeffer" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="837v7dr6wgo16k5s41wp3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schnittlauch waschen, abtropfen lassen und in Ringe schneiden. Eier und 1 Prise Salz in eine Schüssel geben und mit einer Gabel verquirlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v7dr753a12b1so1wp3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Butter in einer Pfanne (Ø 20 cm) bei mittlerer Hitze zerlassen. Eier zugeben und unter gelegentlichem Rühren garen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v7dr7592rg1ud1wp3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Sobald das Ei zu stocken beginnt, Milch oder Sahne zugeben und weitere 2-3 Minuten fertig garen. Rührei mit Salz und Pfeffer würzen und mit Schnittlauch bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="837v7dr75e1gnclz1wp3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Wenn Du ein besonders sanft gegartes Rührei magst, gare das aufgeschlagene Ei in einer Schüssel über heißem Wasserdampf.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Besonders zart</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

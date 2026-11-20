@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82p5sf22sep87043qiz" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-06T07:51:53+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-06T08:05:00+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pesto Eggs","recipe_seo_headline":"Pesto Eggs – der geniale TikTok-Trend","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Grünes Pesto","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe L)"},{"amount":2,"amountTo":null,"ingredient_name":"Brot","unit":{"name":"Scheibe"},"prefix":null,"suffix":"(z.B. Sauerteigbrot)"},{"amount":1,"amountTo":null,"ingredient_name":"Avocado","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Salz und Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"Prise"},"prefix":null,"suffix":"(optional)"}]}],"preparation":[{"headline":null,"content":"Für die Pesto Eggs eine beschichtete Pfanne auf mittlerer Stufe erhitzen. Das Pesto hineingeben und dabei etwas verstreichen. Die Eier vorsichtig aufschlagen, in die Pfanne gleiten lassen und im heißen Pesto etwa 3 - 5 Minuten zu Spiegeleiern herausbraten."},{"headline":null,"content":"In der Zwischenzeit das Brot nach Belieben toasten. Die Avocado halbieren, den Kern herauslösen und das Fruchtfleisch gleichmäßig auf den beiden Brotscheiben verteilen, dabei etwas mit der Gabel zerdrücken."},{"headline":null,"content":"Die beiden Spiegeleier jeweils auf eine Brotscheibe legen und alles mit einer kleinen Prise Salz und Pfeffer sowie Chiliflocken würzen. Guten Appetit!"}],"recipe_tips":[{"headline":"Für mehr Abwechslung","content":"Wir servieren die Pesto Eggs am liebsten mit gerösteten Kirschtomaten oder etwas gedünstetem Spinat – perfekt für ein blitzschnelles Mittagessen oder den nächsten Brunch! Noch würziger wird das Gericht mit etwas zerkrümeltem Feta oder ein paar Spritzern Tabasco, fein gehackter Koriander sorgt für ein frisches Aroma. Soo cremig: verstreiche doch mal jeweils 1 – 2 EL Frischkäse oder Ricotta auf den Brotscheiben, bevor du die Avocado darauf verteilst. Lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Pesto Eggs</Title>
+    <CustomRecipeSeoTitle position="1">Pesto Eggs – der geniale TikTok-Trend</CustomRecipeSeoTitle>
+    <Headline position="1">Pesto Eggs</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-06T07:51:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82p5sdyog9z1j7u3hqiz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8656" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" prefix="grünes" plural="Pesto"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe L)" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5151" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" suffix="(z.B. Sauerteigbrot)" plural="Brot" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Avocados" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" amount="etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="5" prefix="etwas" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="(optional)" plural="Chiliflocken" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82p5sf22n39mayboqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine beschichtete Pfanne auf mittlerer Stufe erhitzen. Das Pesto hineingeben und dabei etwas verstreichen. Die Eier vorsichtig aufschlagen, in die Pfanne gleiten lassen und im heißen Pesto etwa 3 - 5 Minuten zu Spiegeleiern herausbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Pesto Eggs </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p5sf22pc92l08gqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit das Brot nach Belieben toasten. Die Avocado halbieren, den Kern herauslösen und das Fruchtfleisch gleichmäßig auf den beiden Brotscheiben verteilen, dabei etwas mit der Gabel zerdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p5sf22ph112vv7cqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die beiden Spiegeleier jeweils auf eine Brotscheibe legen und alles mit einer kleinen Prise Salz und Pfeffer sowie Chiliflocken würzen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82p5sf22pli17hxn5qiz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wir servieren die Pesto Eggs am liebsten mit gerösteten Kirschtomaten oder etwas gedünstetem Spinat – perfekt für ein blitzschnelles Mittagessen oder den nächsten Brunch! Noch würziger wird das Gericht mit etwas zerkrümeltem Feta oder ein paar Spritzern Tabasco, fein gehackter Koriander sorgt für ein frisches Aroma. Soo cremig: verstreiche doch mal jeweils 1 – 2 EL Frischkäse oder Ricotta auf den Brotscheiben, bevor du die Avocado darauf verteilst. Lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für mehr Abwechslung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82jkiyz8gtfx1ru0y9i" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e35bf803276">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82jkivv9ed119itpny3n" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e35bf9d3c3c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82jkbu8p56v16em6jnff" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e35bff587b5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82jkbp5olopvewkny9i" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68e35c00e896d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCaption position="5" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="5">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82jkirm1v06vr91wy3n" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

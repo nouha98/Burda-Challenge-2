@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82n9gmbm6zszpartxnm" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-02T15:12:43+02:00</created>
+  <identifier></identifier>
+  <modcount>13</modcount>
+  <modified>2025-10-04T15:03:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-land"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Country topic="country-CL" generator="com.digicol.se" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="60"/>
+    <Source topic="tmt82oabwfaotich0z6i07"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeNoteInformation position="1">Für 4-6 Portionen.</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">540</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">27</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">39</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">31</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Chili con Carne mit Sauerrahm-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-02T15:12:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="3" amount="1" amount_max="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="rote" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9201" position="5" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Rinderhackfleisch"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" position="6" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="7" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" position="10" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="edelsüßes Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" position="11" amount="1/2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="rote" plural="Paprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7171" position="12" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Dose)" plural="Kidneybohnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="13" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="(nur das Grüne; in feine Ringe geschnitten)" plural="Lauchzwiebeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Chili:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_68e11726364e9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" position="1" amount="75" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sauerrahm"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Dip:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln sowie Knoblauch abziehen und fein würfeln. Die Chilis abbrausen, putzen und mitsamt den Kernen schräg in Ringe schneiden. Einige Ringe zum Garnieren beiseitestellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68e117872606d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Öl in einem Topf erhitzen. Das Hackfleisch darin krümelig braten. Zwiebeln, Knoblauch und Chili kurz mitgaren, dann die passierten Tomaten untermischen. Die Brühe angießen. Alles mit Salz, Pfeffer sowie Paprikapulver würzen und unter gelegentlichem Rühren abgedeckt 40 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68e117a0ddf48">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Paprika abbrausen, putzen und in kleine Würfel schneiden. Die Bohnen abbrausen und abtropfen lassen. Beides zum Chili geben und alles weitere 15–20 Minuten köcheln lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68e117b657c73">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Dip Sauerrahm mit etwas Salz und Limettensaft glatt rühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68e117c3693ce">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Chili abschmecken. Mit 1 EL Dip toppen und mit schwarzem Pfeffer übermahlen. Mit den übrigen Chili sowie den Lauchzwiebelringen bestreuen und servieren. Den Dip separat dazu reichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Fügen Sie eine Dose abgetropfte Maiskörner mit den Bohnen zum Eintopf hinzu.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Chili con Carne mit Sauerrahm</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc7rno23yp6071g2r8fdbz" file_variant="master" position="1">Chili con Carne mit Sauerrahm</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

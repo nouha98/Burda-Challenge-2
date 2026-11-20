@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qbziuxphld3xndohu" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T15:07:37+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-17T15:12:30+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="1" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="2160"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq5s92juxdo5"/>
+    <Source topic="tmt83qc1sao5zrixwxuoir"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Fermentiertes Buchweizenbrot","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":120},{"name":"Ruhen/Warten","duration":2160}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Buchweizen","unit":{"name":"g"},"prefix":"ganze","suffix":"(ungeschält)"},{"amount":1.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Buchweizenkörner","unit":{"name":"g"},"prefix":null,"suffix":"(geröstet)"},{"amount":500,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":"(zum Einweichen)"},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"frisches","suffix":"(zum Pürieren)"}]}],"preparation":[{"headline":null,"content":"In einer Pfanne 20 g Buchweizenkörner leicht anrösten und beiseitestellen. Den restlichen Buchweizen (480 g) gründlich waschen, dann in etwa 500 ml Wasser 8–12 Stunden einweichen. Überschüssiges Wasser abgießen."},{"headline":null,"content":"Die eingeweichten Körner mit ca. 100 ml frischem Wasser und Salz im Mixer fein pürieren, bis ein dickflüssiger Teig entsteht. Buchweizenteig zugedeckt bei Zimmertemperatur 24 Stunden stehen lassen, bis er Bläschen zeigt und leicht säuerlich riecht."},{"headline":null,"content":"Backofen auf 200 Grad Ober-/Unterhitze (Umluft 180 Grad) vorheizen. Die Kastenform mit Backpapier auslegen, fermentierten Teig hineinfüllen. Teigoberfläche mit den gerösteten Buchweizenkörnern bestreuen."},{"headline":null,"content":"Brot im vorgeheizten Backofen etwa 90 Minuten backen, bis es eine goldbraune Kruste hat. Aus dem Ofen nehmen, aus der Form lösen bzw. das Backpapier entfernen und das Buchweizenbrot auf einem Gitter vollständig abkühlen lassen."}],"recipe_tips":[{"headline":null,"content":"In fermentierter Form sind die Körner des glutenfreien Pseudo-Getreides besonders bekömmlich. Durch das Einweichen und Ruhenlassen können sich die gesunden Milchsäurebakterien entwickeln. Wer den Vorgang beschleunigen oder unterstützen möchte, kann noch etwas Joghurt zum Teig geben."}]}</CustomStructuredRecipeJson>
+    <Title>Fermentiertes Buchweizenbrot</Title>
+    <CustomRecipeNoteInformation position="1">Das braucht man. Kastenform (mit ca. 24cm Länge)</CustomRecipeNoteInformation>
+    <Headline position="1">Fermentiertes Buchweizenbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T15:07:37+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qbzlqsmramvn3nkrb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5186" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="ganze" suffix="(ungeschält)" plural="Buchweizen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qbznfjtqf1crdcdkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">In einer Pfanne 20 g Buchweizenkörner leicht anrösten und beiseitestellen. Den restlichen Buchweizen (480 g) gründlich waschen, dann in etwa 500 ml Wasser 8–12 Stunden einweichen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qbznfjz3o1m9g1ekrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Überschüssiges Wasser abgießen. Die eingeweichten Körner mit ca. 100 ml frischem Wasser und Salz im Mixer fein pürieren, bis ein dickflüssiger Teig entsteht. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qbznfjzabwidtgkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Buchweizenteig zugedeckt bei Zimmertemperatur 24 Stunden stehen lassen, bis er Bläschen zeigt und leicht säuerlich riecht. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qbznfjzfpfrbqvkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Backofen auf 200 Grad Ober-/Unterhitze (Umluft 180 Grad) vorheizen. Die Kastenform mit Backpapier auslegen, fermentierten Teig hineinfüllen. Teigoberfläche mit den gerösteten Buchweizenkörnern bestreuen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6942ba06bab2c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Brot im vorgeheizten Backofen etwa 90 Minuten backen, bis es eine goldbraune Kruste hat. Aus dem Ofen nehmen, aus der Form lösen bzw. das Backpapier entfernen und das Buchweizenbrot auf einem Gitter vollständig abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83qbznfjzllmboodkrb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">In fermentierter Form sind die Körner des glutenfreien Pseudo-Getreides besonders bekömmlich. Durch das Einweichen und Ruhenlassen können sich die gesunden Milchsäurebakterien entwickeln. Wer den Vorgang beschleunigen oder unterstützen möchte, kann noch etwas Joghurt zum Teig geben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fermentiertes Buchweizenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Silke Zander</ImageCredit>
+      <DocumentRef doc_id="doc82ehvmxmjdj19lz2xrug" file_variant="master" position="1">Fermentiertes Buchweizenbrot</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

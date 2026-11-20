@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81ygsdhavjd16he0lh8d" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-15T09:00:03+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-15T09:04:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Mango Limonade","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Mango","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":16,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minzblätter","unit":{"name":"(Keine Einheit)"},"prefix":"Einige","suffix":null}]}],"preparation":[{"headline":null,"content":"Eine frische, reife Mango schälen, entkernen und in Würfel schneiden. Die Mangowürfel in einen Messbecher geben und mit dem Pürierstab zu einem feinen Mus pürieren. Das Mineralwasser mit dem Zucker zugeben und alles gut vermischen."},{"headline":null,"content":"Zwei Gläser (à 350 ml Fassungsvermögen) mit 6-8 Eiswürfel befüllen, dann die Mango-Limonade hinzugießen. Die Limonadengläser mit frischen Minzblättern dekorieren und sofort servieren."}],"recipe_tips":[{"headline":"Darauf solltest du achten","content":"Damit die Limonade auch wirklich süßlich-lecker und erfrischend ist, solltest du darauf achten eine sehr reife Mango zu verwenden. So erreichst du die perfekte Mischung aus süß und erfrischend!"}]}</CustomStructuredRecipeJson>
+    <Title>Mango Limonade</Title>
+    <Headline position="1">Mango Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-15T09:00:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81ygsbq0ivmozc0jh8d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="reife" plural="Mangos" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="16" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Einige" plural="Minzblätter" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81ygsdhan9c18iyu9h8d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine frische, reife Mango schälen, entkernen und in Würfel schneiden. Die Mangowürfel in einen Messbecher geben und mit dem Pürierstab zu einem feinen Mus pürieren. Das Mineralwasser mit dem Zucker zugeben und alles gut vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ygsdhar2w70rmbh8d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwei Gläser (à 350 ml Fassungsvermögen) mit 6-8 Eiswürfel befüllen, dann die Mango-Limonade hinzugießen. Die Limonadengläser mit frischen Minzblättern dekorieren und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81ygsdharas141fmfh8d">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit die Limonade auch wirklich süßlich-lecker und erfrischend ist, solltest du darauf achten eine sehr reife Mango zu verwenden. So erreichst du die perfekte Mischung aus süß und erfrischend!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Darauf solltest du achten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81azyxld79kyzbo0pg5" file_variant="master" position="1">MangoLimonade2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689edbf64b725">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81azyysvw8618199ishp" file_variant="master" position="1">MangoLimonadeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689edbf811f1b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81azz4rzyhfq5b5yrru" file_variant="master" position="1">MangoLimonadeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689edbfb66dca">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81azz1t9eo0tisqzrry" file_variant="master" position="1">MangoLimonade1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689edbfc88ce5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81azz7vz4wocylpmrry" file_variant="master" position="1">MangoLimonade3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

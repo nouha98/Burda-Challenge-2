@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8524ppu2dmq2mf5bd8n" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-20T15:42:29+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-03-20T15:46:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="tmt81byhi0x8pi16105ifj6"/>
+    <Source topic="tmt8524rexs87ppqy2yd9k"/>
+    <Headline position="1">Schinken gezupft</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-20T15:42:29+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10501" position="1" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="grüne" plural="Tagliatelle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="2" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="3" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="getrocknete" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8261" position="4" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mozzarellakugeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8586" position="5" amount="125" plural="Parmaschinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="6" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4751" position="7" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Balsamico"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="8" plural="Salz und Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Grüne Tagliatelle in Salzwasser kochen. Kirschtomaten halbieren. Getrockneten Tomaten fein hacken. Mozzarellakugeln abtropfen lassen. Parmaschinken in Streifen zupfen. Pasta abgießen. Mit Kirschtomaten, getrockneten Tomaten, Mozzarella und Schinken mischen. Olivenöl mit Balsamico verrühren, mit Salz und Pfeffer würzen, über den Salat träufeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc7g5fs2czkahd2myz142" file_variant="master" position="1">Italienischer Nudelsalat mit gr nen Tagliatelle, Schinken, Tomaten und Mozzarella</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

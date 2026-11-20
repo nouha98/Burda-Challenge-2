@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86b6htwrmdi19vifue4c" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-16T08:54:33+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-06-16T09:05:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="80"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqk01mftdddo5"/>
+    <Keywords topic="tmt6yp3y94y56d16997z3c9"/>
+    <Source topic="tmt86b6mys43fksw809e77"/>
+    <Headline position="1">Rindergulasch mit Pilzen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-16T08:54:33+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9196" position="1" amount="750" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Fleischtheke, in 3-4 cm Würfel geschnitten)" plural="Rindergulasch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt7jbk1j0uclg1mz9h8fy6" position="6" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kreuzkümmelpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="9" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" position="10" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Paprikapulver (edelsüß)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" position="11" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Lorbeerblätter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5366" position="12" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Chilipulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" position="13" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rotwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" position="14" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Fleischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8806" position="15" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(z.B. Egerlinge, Pfifferlinge)" plural="Pilze"/>
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" position="16" amount="350" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Hokkaidokürbis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="17" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" position="18" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kürbiskerne"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fleisch aus Kühlung nehmen. Zwiebeln, Knoblauch abziehen und klein würfeln. In einem Topf in Öl Zwiebeln dunkelbraun anbraten, dann Knoblauch dazugeben. Tomatenmark unterrühren und kurz mitschwitzen. Fleisch, Kreuzkümmel, etwas Salz und Pfeffer zufügen und alles unter Wenden bei hoher Temperatur anbraten. Mit Mehl bestäuben, Paprikapulver, Lorbeerblätter und Chilipulver zugeben, kurz mitbraten, dann alles mit dem Rotwein ablöschen. Brühe angießen und Gulasch ca. 60 Minuten bei niedriger Hitze garen, dabei gelegentlich umrühren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a30f4c487ef3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Pilze putzen, in mundgerechte Stücke schneiden. Kürbis waschen, putzen, in ca. 2 cm große Würfel schneiden. Beides nach Ablauf der Garzeit zum Gulasch geben und alles weitere ca. 20 Minuten garen. Mit Salz und Zitronensaft abschmecken und mit Kürbis kernen bestreut servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rindergulasch mit Kürbis und Pilzen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">B.&amp;.E.Dudzinski</ImageCredit>
+      <DocumentRef doc_id="doc7m0kbt4fhtwjts1nigo" file_variant="master" position="1">Rindergulasch mit Kürbis und Pilzen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

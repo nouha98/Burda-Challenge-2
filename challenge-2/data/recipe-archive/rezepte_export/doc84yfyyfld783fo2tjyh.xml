@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84yfyyfld783fo2tjyh" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-13T11:28:42+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-13T11:38:17+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Aprikosen-Crumble","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Backen","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"fein","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mandeln","unit":{"name":"g"},"prefix":"gemahlene","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 630)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Aprikose","unit":{"name":"g"},"prefix":"reife","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Haferflocken, gemahlene Mandeln und Dinkelmehl miteinander vermengen. Vanilleschote längs halbieren und das Vanillemark mit einem Messer herauskratzen. Zusammen mit der Butter und dem Ahornsirup zu den trockenen Zutaten geben und gut miteinander verkneten, sodass Streusel entstehen."},{"headline":null,"content":"Aprikosen waschen, halbieren, den Stein entfernen und vierteln. Aprikosen-Stücke mit dem Zitronensaft vermengen und in eine Auflaufform (ca. 15 x 25 cm) geben. Die Streusel darauf verteilen und im vorgeheizten Backofen auf mittlerer Schiene 30 – 35 Minuten backen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Aprikosen-Crumble</Title>
+    <Headline position="1">Aprikosen-Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-13T11:28:42+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84yfyv3ctjd134ix8jyh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="feine" plural="Haferflocken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene" plural="Mandeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 630)" plural="Dinkelmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="reife" plural="Aprikosen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84yfyyfl8jk6mly4jyh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Haferflocken, gemahlene Mandeln und Dinkelmehl miteinander vermengen. Vanilleschote längs halbieren und das Vanillemark mit einem Messer herauskratzen. Zusammen mit der Butter und dem Ahornsirup zu den trockenen Zutaten geben und gut miteinander verkneten, sodass Streusel entstehen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yfyyflclkig2rpjyh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Aprikosen waschen, halbieren, den Stein entfernen und vierteln. Aprikosen-Stücke mit dem Zitronensaft vermengen und in eine Auflaufform (ca. 15 x 25 cm) geben. Die Streusel darauf verteilen und im vorgeheizten Backofen auf mittlerer Schiene 30 – 35 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aprikosen-Crumble</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7lryezmvg7lf02lz7dy" file_variant="master" position="1">AprikosenCrumble2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69b3e916d5517">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aprikosen-Crumble</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7lryg67yz4iailmcer" file_variant="master" position="1">AprikosenCrumbleStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69b3e9184b22f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aprikosen-Crumble</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7lryfzuxi9gyh2u53jc" file_variant="master" position="1">AprikosenCrumble1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

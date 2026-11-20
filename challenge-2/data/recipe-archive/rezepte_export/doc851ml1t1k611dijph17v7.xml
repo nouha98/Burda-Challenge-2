@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc851ml1t1k611dijph17v7" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-19T16:11:07+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-04-08T14:16:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <Source topic="tmt85bua9qtu3r19z2b0n9v"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Maracuja-Cocktail","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Maracujanektar","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Ingwerpulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Physalis","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"rote Johannisbeeren am Stiel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Sanbittèr","unit":{"name":"ml"},"prefix":null,"suffix":"(ital. alkoholfreies Bittergetränk)"},{"amount":700,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Am Vortag 500 ml Maracujanektar mit dem Saft von 1 Limette sowie je 1/2 TL Zimt und Ingwerpulver mischen. In Eiswürfelbehälter füllen und über Nacht tiefkühlen."},{"headline":null,"content":"Zum Servieren die Physalis und ein paar rote Johannisbeeren am Stiel waschen. Die gefrorenen Saftwürfel aus den Behältern lösen und auf 6 Sektschalen verteilen. Mit je 50 ml Sanbittèr aufgießen und insgesamt ca. 700 ml Mineralwasser auf die Drinks verteilen. Mit den Früchten garniert servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Maracuja-Cocktail</Title>
+    <Headline position="1">Maracuja-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-19T16:11:07+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="851ml3cg3fo19dgl953o">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8021" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Maracujanektar" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6836" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Ingwerpulver" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1"/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="851ml4h64rcucvpz53o">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6881" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="rote" suffix="am Stiel" plural="Johannisbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8796" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Physalis" position="1"/>
+      <CustomRecipeIngredient topic="tmt85bu8gf7pwo1irmo6n7w" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ital. alkoholfreies Bittergetränk)" position="3" plural="Sanbitter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="700" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="851ml5zj95x1me1qy53o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag 500 ml Maracujanektar mit dem Saft von 1 Limette sowie je 1/2 TL Zimt und Ingwerpulver mischen. In Eiswürfelbehälter füllen und über Nacht tiefkühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851ml5zj9d1wm8iq53o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren die Physalis und ein paar rote Johannisbeeren am Stiel waschen. Die gefrorenen Saftwürfel aus den Behältern lösen und auf 6 Sektschalen verteilen. Mit je 50 ml Sanbittèr aufgießen und insgesamt ca. 700 ml Mineralwasser auf die Drinks verteilen. Mit den Früchten garniert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc846covl60nt12jzndas4" file_variant="master" position="1">Fruchtiger alkoholfreier Maracuja-Cocktail mit Limette, Physalis, roten Johannisbeeren und sprudelndem Mineralwasser</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

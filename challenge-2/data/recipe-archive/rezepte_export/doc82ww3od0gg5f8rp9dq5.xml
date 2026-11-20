@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ww3od0gg5f8rp9dq5" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-21T08:57:55+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-21T09:03:39+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Karottenmarmelade","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Karottenmarmelade","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Karotten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Abrieb von Orangen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"von 4 Orangen"},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":"Optional","suffix":"(1 cm)"},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker 1:1","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Karotten schälen und fein raspeln. Die frischen Karotten mit Abrieb von 4 Orangen und 120 ml frisch gepresstem Orangensaft vermengen. Wer möchte, kann 1 cm frischen Ingwer reiben und hinzugeben. Die Karotten mit dem Gelierzucker in einem mittelgroßen Topf auf mittlerer Stufe 10 Minuten kochen. Der Orangensaft darf gern verdampfen und die Karotten dürfen sich dunkel orange verfärben. Mit einem Pürierstab die Karottenmarmelade nach Wunsch fein pürieren. 2 Gläser heiß ausspülen und die noch heiße Marmelade in die Gläser umfüllen und sofort verschließen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Karottenmarmelade</Title>
+    <Headline position="1">Karottenmarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-21T08:57:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ww3nrfz0m6azlvdq5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Optional" suffix="(1 cm)" plural="Ingwer" position="4"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Karotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="3" amount="4" plural="Orange"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" suffix="1:1" plural="Gelierzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Karottenmarmelade</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ww3od0fup1iqovndq5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Karottenmarmelade die Karotten schälen und fein raspeln. Die Orangen heiß waschen, trocknen und die Schale (ohne das Weiße) fein abreiben. Die Orangen auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68f72f893b3a0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Karotten mit dem Orangenabrieb und dem frisch gepressten Orangensaft vermengen. Wer möchte, kann frischen Ingwer schälen, reiben und hinzugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68f72fa1a33bb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Karottenmix mit dem Gelierzucker in einem mittelgroßen Topf auf mittlerer Stufe 10 Minuten kochen. Der Orangensaft darf gern verdampfen und die Karotten dürfen sich dunkelorange verfärben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68f72fa9c1201">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit einem Pürierstab die Karottenmarmelade nach Wunsch fein pürieren. Gläser (à 380 ml) heiß ausspülen und die noch heiße Marmelade in die Gläser umfüllen und sofort verschließen. Lass dir die Karottenmarmelade schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Die Karottenmarmelade hält dunkel und kühl gelagert mindestens 3 Monate.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln6rmdtg4xc755ddn" file_variant="master" position="1">Karottenmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f7304733d21">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln6p2f5kwoyor6ogp" file_variant="master" position="1">Karottenmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f73048d961a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln6td8hfchbdfvf4c" file_variant="master" position="1">Karottenmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f7304a45047">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln6uzi1cxyshjvf4c" file_variant="master" position="1">Karottenmarmelade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

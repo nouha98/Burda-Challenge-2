@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81pro1hf6o1185b64tzf" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-29T10:44:19+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-07-29T11:15:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeersauce","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Himbeersauce","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":"(tiefgekühlt oder frisch)"},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Saft davon)"}]}],"preparation":[{"headline":null,"content":"Die tiefgekühlten Himbeeren in einen kleinen Topf geben, den Zucker hinzugeben und unter ständigem Rühren aufkochen, damit die Himbeeren nicht anbrennen."},{"headline":null,"content":"Die Zitrone halbieren und den Saft einer halben Zitrone auspressen und zu den Himbeeren hinzugeben. Anschließend die Himbeeren für ca. 10 Minuten auf mittlerer Stufe einkochen, sodass die ursprüngliche Form zerfällt. Dann mit einem Pürierstab die Sauce gut pürieren."},{"headline":null,"content":"Sie kann nun heiß als auch kalt serviert werden. Die Sauce eignet sich hervorragend für mehrere Dessertvariationen, z.B. für Eis, Puddings oder Cremes."}],"recipe_tips":[{"headline":null,"content":"Wer die Kerne aus der Himbeersauce nicht mag, kann die Sauce durch ein feines Sieb drücken um eine kernlose, feine Sauce zu bekommen."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeersauce</Title>
+    <Headline position="1">Himbeersauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-29T10:44:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81pro0kiq3t5kylgtzf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(tiefgekühlt oder frisch)" plural="Himbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Saft davon)" plural="Zitronen" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Himbeersauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81pro1hew5e276r6tzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die tiefgekühlten Himbeeren in einen kleinen Topf geben, den Zucker hinzugeben und unter ständigem Rühren aufkochen, damit die Himbeeren nicht anbrennen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81pro1hewg71h13f7tzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Zitrone halbieren und den Saft einer halben Zitrone auspressen und zu den Himbeeren hinzugeben. Anschließend die Himbeeren für ca. 10 Minuten auf mittlerer Stufe einkochen, sodass die ursprüngliche Form zerfällt. Dann mit einem Pürierstab die Sauce gut pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81pro1hewmb8umettzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Sie kann nun heiß als auch kalt serviert werden. Die Sauce eignet sich hervorragend für mehrere Dessertvariationen, z.B. für Eis, Puddings oder Cremes.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81pro1hews71duv3ktzf">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer die Kerne aus der Himbeersauce nicht mag, kann die Sauce durch ein feines Sieb drücken um eine kernlose, feine Sauce zu bekommen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_2_688890bc4c5da">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814cgrj9gp112vy5eewg" file_variant="master" position="1">Himbeersauce2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688890c027c57">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814cgoptw3nfmg45eg4" file_variant="master" position="1">HimbeersauceStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688890c2473a6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814cglzbpsmdc2qk1usj" file_variant="master" position="1">HimbeersauceStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_688890c49ae50">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc814cgies06gankknewg" file_variant="master" position="1">Himbeersauce1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

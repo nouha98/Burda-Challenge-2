@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834lslabzt2oqw99q30" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-05T08:15:38+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-05T08:20:14+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hokkaido-Suppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauch","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Hokkaidokürbis","unit":{"name":"g"},"prefix":null,"suffix":"ca."},{"amount":800,"amountTo":null,"ingredient_name":"Gemüse- oder Fleischbrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"z.B.: Petersilie oder Koriander"}]}],"preparation":[{"headline":null,"content":"Die Zwiebel und den Knoblauch schälen und fein würfeln. Den Kürbis waschen, halbieren und mit einem Löffel aushöhlen. Die Hälften mit der offenen Seite auf das Schneidebrett legen und den Kürbis mit Schale in ca. 2x2 cm Würfel schneiden."},{"headline":null,"content":"Das Olivenöl und die Butter zusammen in einem großen Topf erhitzen und zuerst die Hälfte der Kürbiswürfel für ca. 3-4 Minuten, dann Zwiebelwürfel und Knoblauch dazugeben und 2-3 weitere Minuten mit anbraten. Mit der Brühe aufgießen, mit Salz und Pfeffer würzen und den Kürbis ca. 20 Minuten weichkochen."},{"headline":null,"content":"Die Suppe sämig pürieren und mit Kürbiskernen und frisch gehackten Kräutern, z.B.: Petersilie oder Koriander bestreuen."}],"recipe_tips":[{"headline":"Verfeinere deine Hokkaido-Suppe mit…","content":"… etwas fein geriebenem Ingwer oder einer Prise Chilipulver."}]}</CustomStructuredRecipeJson>
+    <Title>Hokkaido-Suppe</Title>
+    <Headline position="1">Hokkaido-Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-05T08:15:38+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="834lshindihq84yxq30">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="z.B.: Petersilie oder Koriander" position="10" prefix="frische" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7226" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ca." plural="Hokkaidokürbis" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" prefix="Gemüse- oder" plural="Fleischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8" amount="1" prefix="große"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kürbiskerne" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834lslaalrnc74opq30">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebel und den Knoblauch schälen und fein würfeln. Den Kürbis waschen, halbieren und mit einem Löffel aushöhlen. Die Hälften mit der offenen Seite auf das Schneidebrett legen und den Kürbis mit Schale in ca. 2x2 cm Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834lslablw719mp9yq30">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Olivenöl und die Butter zusammen in einem großen Topf erhitzen und zuerst die Hälfte der Kürbiswürfel für ca. 3-4 Minuten, dann Zwiebelwürfel und Knoblauch dazugeben und 2-3 weitere Minuten mit anbraten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_690afa2aea772">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit der Brühe aufgießen, mit Salz und Pfeffer würzen und den Kürbis ca. 20 Minuten weichkochen. Die Suppe sämig pürieren und mit Kürbiskernen und frisch gehackten Kräutern, z.B.: Petersilie oder Koriander bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="834lslabm4z32l5iq30">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">… etwas fein geriebenem Ingwer oder einer Prise Chilipulver.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Verfeinere deine Hokkaido-Suppe mit…</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_690afa462ee1e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du für deine Suppe Gemüsebrühe verwendest, wird deine Hokkaido-Suppe vegan.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegan</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln0l32u4i15r1zyolb" file_variant="master" position="1">Hokkaido-Suppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690afaa9b3c05">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmzwr6vn45cmt5c3j" file_variant="master" position="1">Hokkaido-Suppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690afaaac99d5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln0fe94h3v8d73oni" file_variant="master" position="1">Hokkaido-Suppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690afaac2ae7d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmzr9d8e1peikmf4c" file_variant="master" position="1">Hokkaido-Suppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_690afaad67587">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ln08du5x21drmvod93" file_variant="master" position="1">Hokkaido-Suppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

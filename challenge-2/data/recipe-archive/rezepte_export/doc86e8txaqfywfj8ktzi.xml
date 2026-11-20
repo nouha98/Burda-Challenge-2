@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86e8txaqfywfj8ktzi" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-22T08:03:58+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-22T08:11:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt86e8xid74798jhpo1a4q"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Lebkuchen-Plätzchen","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Backen","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Datteln","unit":{"name":"g"},"prefix":null,"suffix":"getrocknet, entsteint"},{"amount":40,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Dinkelvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":"und etwas Mehl zum Verarbeiten"},{"amount":50,"amountTo":null,"ingredient_name":"Haselnusskerne","unit":{"name":"g"},"prefix":"gemahlene","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Kokosöl","unit":{"name":"g"},"prefix":null,"suffix":"nativ"}]}],"preparation":[{"headline":null,"content":"Datteln klein schneiden und in dem Wasser einweichen. Dinkelvollkornmehl, gemahlene Haselnüsse, Backpulver und Lebkuchengewürz miteinander vermengen."},{"headline":null,"content":"Den Backofen auf 160 Grad Umluft vorheizen und ein Backblech mit Backpapier auslegen. Eingeweichte Datteln in der Flüssigkeit pürieren. Ahornsirup und Kokosöl hinzufügen. Flüssige und feste Zutaten miteinander vermengen und zu einem homogenen Teig verkneten."},{"headline":null,"content":"Etwas Mehl auf eine Arbeitsfläche geben und den Teig etwa 4 mm dick ausrollen. Aus dem Teig nun mithilfe von Ausstechförmchen Plätzchen ausstechen und auf das mit Backpapier ausgelegte Backblech legen. Plätzchen etwa 15 Minuten backen und auskühlen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Vegane Lebkuchen-Plätzchen</Title>
+    <Headline position="1">Vegane Lebkuchen-Plätzchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-22T08:03:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86e8ttgfqaeec9aetzi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="getrocknet, entsteint" plural="Datteln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5596" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und etwas Mehl zum Verarbeiten" plural="Dinkelvollkornmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene" plural="Haselnusskerne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Backpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="nativ" plural="Kokosöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86e8txaqewj151rxltzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Datteln klein schneiden und in dem Wasser einweichen. Dinkelvollkornmehl, gemahlene Haselnüsse, Backpulver und Lebkuchengewürz miteinander vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e8txaqf4lgdqzatzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Backofen auf 160 Grad Umluft vorheizen und ein Backblech mit Backpapier auslegen. Eingeweichte Datteln in der Flüssigkeit pürieren. Ahornsirup und Kokosöl hinzufügen. Flüssige und feste Zutaten miteinander vermengen und zu einem homogenen Teig verkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e8txaqf8267lyptzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Etwas Mehl auf eine Arbeitsfläche geben und den Teig etwa 4 mm dick ausrollen. Aus dem Teig nun mithilfe von Ausstechförmchen Plätzchen ausstechen und auf das mit Backpapier ausgelegte Backblech legen. Plätzchen etwa 15 Minuten backen und auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7ccuxq1e2eu15bera3xx" file_variant="master" position="1">Lebkuchenplaetzchen2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a38d210a468b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7ccuy47hspyrnec8ewb" file_variant="master" position="1">LebkuchenplaetzchenStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a38d2127cab4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7ccuxxrpxjlp3hdfe8f" file_variant="master" position="1">Lebkuchenplaetzchen1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

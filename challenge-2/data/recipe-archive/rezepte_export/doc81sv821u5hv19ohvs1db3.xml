@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81sv821u5hv19ohvs1db3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-04T11:28:43+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-04T11:35:34+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="140"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"After Eight Eis","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":140}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Pfefferminzsirup","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"After Eight","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiweiß","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Sahne mit der Milch in einer Schüssel vermischen, den Pfefferminzsirup langsam einfließen lassen, sodass sich die Milch leicht grünlich färbt. Die After Eight Schokotafeln in kleine Stücke hacken und bis zur Weiterverarbeitung beiseitestellen."},{"headline":null,"content":"In einer separaten Schüssel das Eiweiß mit dem Salz aufschlagen, dann unter die Sahne-Milch-Mischung heben. Die Flüssigkeit ca. 1 Std. in einer geschlossenen Schüssel in die Tiefkühltruhe stellen. Dabei zwischendurch immer wieder umrühren."},{"headline":null,"content":"Die Flüssigkeit, sobald sie beginnt cremig zu gefrieren, in die Eismaschine geben und die Eismaschine einschalten. Sobald die Masse cremiger wird, die gehackten After Eight Tafeln zugeben. Das Eis, sobald es gefroren ist, in eine verschließbare Dose geben und bis zum Servieren im Gefrierfach lagern. Das Eis ergibt 6 Portionen à 2 Kugeln."}],"recipe_tips":[{"headline":"Falls du keine Eismaschine hast","content":"Du kannst die gehackten After Eight Stückchen auch direkt zur Flüssigkeit geben und die Schüssel ca. 5-6 Stunden in einer verschließbaren Schüssel einfrieren. Dabei immer wieder umrühren, damit das Eis schön cremig wird."},{"headline":"Für den extra Kick","content":"Wenn du das After-Eight-Eis mit etwas Schuss verfeinern möchtest, kannst du die Hälfte des Pfefferminzsirups einfach mit einem alkoholhaltigen Pfefferminzlikör ersetzen."}]}</CustomStructuredRecipeJson>
+    <Title>After Eight Eis</Title>
+    <Headline position="1">After Eight Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-04T11:28:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81sv7zl6v2a1mwtcv1db3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="4" plural="Schokolade" prefix="Tafel" suffix="After Eight"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt7lwyynew83pdwb3xiqf" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Pfefferminzsirup" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eiweiß" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81sv821tvdj1c32bd1db3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sahne mit der Milch in einer Schüssel vermischen, den Pfefferminzsirup langsam einfließen lassen, sodass sich die Milch leicht grünlich färbt. Die After Eight Schokotafeln in kleine Stücke hacken und bis zur Weiterverarbeitung beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81sv821tyzs1bz1wo1db3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer separaten Schüssel das Eiweiß mit dem Salz aufschlagen, dann unter die Sahne-Milch-Mischung heben. Die Flüssigkeit ca. 1 Std. in einer geschlossenen Schüssel in die Tiefkühltruhe stellen. Dabei zwischendurch immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81sv821tz7l12mp51db3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Flüssigkeit, sobald sie beginnt cremig zu gefrieren, in die Eismaschine geben und die Eismaschine einschalten. Sobald die Masse cremiger wird, die gehackten After Eight Tafeln zugeben. Das Eis, sobald es gefroren ist, in eine verschließbare Dose geben und bis zum Servieren im Gefrierfach lagern. Das Eis ergibt 6 Portionen à 2 Kugeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81sv821tzeqyz5yf1db3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die gehackten After Eight Stückchen auch direkt zur Flüssigkeit geben und die Schüssel ca. 5-6 Stunden in einer verschließbaren Schüssel einfrieren. Dabei immer wieder umrühren, damit das Eis schön cremig wird.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Falls du keine Eismaschine hast</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="81sv821u2tv1eevcu1db3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du das After-Eight-Eis mit etwas Schuss verfeinern möchtest, kannst du die Hälfte des Pfefferminzsirups einfach mit einem alkoholhaltigen Pfefferminzlikör ersetzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für den extra Kick</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc818xgcckt7nqd7ru8bk" file_variant="master" position="1">AfterEightEis2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68907ede44a9e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc818xglc12gm3y2an8g1" file_variant="master" position="1">AfterEightEisStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68907edfbe3f7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc818xgikai901lsbvp8bk" file_variant="master" position="1">AfterEightEisStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68907ee163721">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc818xgfgvep41cwagl8ow" file_variant="master" position="1">AfterEightEis1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

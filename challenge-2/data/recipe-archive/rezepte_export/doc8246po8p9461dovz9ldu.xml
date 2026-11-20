@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8246po8p9461dovz9ldu" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-26T12:10:52+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-26T12:16:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="tmt81bizcox9np1bauhn948"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Waffeln glutenfrei","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":120,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe:M)"},{"amount":300,"amountTo":null,"ingredient_name":"glutenfreie Mehlmischung","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(nach Belieben laktosefrei)"},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"für das Waffeleisen"},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Bestreuen"},{"amount":null,"amountTo":null,"ingredient_name":"Apfelkompott","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":null}]}],"preparation":[{"headline":null,"content":"Butter mit Zucker und Salz schaumig schlagen. Zimmerwarmen Eier nach und nach zugeben und auf höchster Stufe weiterrühren. Mehl mit Backpulver mischen und abwechselnd mit der Milch unter den Teig rühren, nach Belieben Zimt zugeben. Der Teig ist recht flüssig, zieht aber nach kurzer Zeit durch das stärkehaltige Mehl nach."},{"headline":null,"content":"Waffeleisen einschalten und aufwärmen lassen. Heißes Waffeleisen mit etwas Butter bestreichen. Je 1 große Schöpfkelle Teig (ca. 6-7 EL des Teiges) mittig auf das Waffeleisen geben, Deckel schließen und je nach Schnelligkeit und Stufe des Waffeleisens 3-4 Minuten goldgelb backen. Gebräunte Waffel vorsichtig entfernen und auf einen Teller geben. Übrigen Teig zu Waffeln verarbeiten."},{"headline":null,"content":"Vor dem Servieren nach Belieben mit etwas Puderzucker bestreuen und mit Apfelmus servieren."}],"recipe_tips":[{"headline":"Glutenfreie Mehlmischung selber machen","content":"Hierfür kannst du einfach 100g Reismehl mit 100 g Maismehl und 100 g Kartoffel- oder Maisstärke mischen."}]}</CustomStructuredRecipeJson>
+    <Title>Waffeln glutenfrei</Title>
+    <Headline position="1">Waffeln glutenfrei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-26T12:10:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8246pl4g8k21mpkpzldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="für das Waffeleisen" plural="Butter" position="9"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe:M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zien51faybmf34wifb" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Glutenfreie Mehlmischung"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(nach Belieben laktosefrei)" plural="Milch" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Bestreuen" plural="Puderzucker" position="10"/>
+      <CustomRecipeIngredient topic="tmt7g1dtph1k785toir37n" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" plural="Apfelkompott" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8246po8o3gn1g3lgaldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter mit Zucker und Salz schaumig schlagen. Zimmerwarmen Eier nach und nach zugeben und auf höchster Stufe weiterrühren. Mehl mit Backpulver mischen und abwechselnd mit der Milch unter den Teig rühren, nach Belieben Zimt zugeben. Der Teig ist recht flüssig, zieht aber nach kurzer Zeit durch das stärkehaltige Mehl nach.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8246po8p0w9qiqgvldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Waffeleisen einschalten und aufwärmen lassen. Heißes Waffeleisen mit etwas Butter bestreichen. Je 1 große Schöpfkelle Teig (ca. 6-7 EL des Teiges) mittig auf das Waffeleisen geben, Deckel schließen und je nach Schnelligkeit und Stufe des Waffeleisens 3-4 Minuten goldgelb backen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8246po8p11usvbp2ldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gebräunte Waffel vorsichtig entfernen und auf einen Teller geben. Übrigen Teig zu Waffeln verarbeiten. Vor dem Servieren nach Belieben mit etwas Puderzucker bestreuen und mit Apfelmus servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8246po8p15c8ac35ldu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Hierfür kannst du einfach 100g Reismehl mit 100 g Maismehl und 100 g Kartoffel- oder Maisstärke mischen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Glutenfreie Mehlmischung selber machen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mor5wbwh21l485g9cd" file_variant="master" position="1">Waffeln_glutenfrei_9585.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ad895e4c035">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mor48nc5y1089rufps" file_variant="master" position="1">Waffeln_glutenfrei_9451.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ad895f88a87">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mor7gl85y10459z9cd" file_variant="master" position="1">Waffeln_glutenfrei_9490.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68ad8960af667">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mor8xptmp1iqn4z9ik" file_variant="master" position="1">Waffeln_glutenfrei_9568.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

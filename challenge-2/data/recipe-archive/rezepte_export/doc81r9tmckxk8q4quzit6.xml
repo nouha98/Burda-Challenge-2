@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81r9tmckxk8q4quzit6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T09:00:10+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-01-22T12:27:57+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtko8acludo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Dinkel Pizzateig","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Ruhen/Warten","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Dinkelmehl Type 630","unit":{"name":"g"},"prefix":null,"suffix":"und Mehl zum Arbeiten"},{"amount":1,"amountTo":null,"ingredient_name":"Trockenhefe","unit":{"name":"Packung"},"prefix":null,"suffix":"(7 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":330,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl, Hefe, Salz und Zucker in einer Rührschüssel mischen. 350 ml lauwarmes Wasser und 4 EL Olivenöl zugeben und den Teig 4 Minuten mit den Knethaken des Handrührgerätes zu einem glatten Teig kneten. Zugedeckt 45 Minuten ruhen lassen. Teig in insgesamt 4 Portionen teilen, zu Kugeln formen und zugedeckt erneut 15 Minuten ruhen lassen."},{"headline":null,"content":"Ofen auf 220 Grad vorheizen. Teigstücke auf einer bemehlten Arbeitsfläche zu vier runden Fladen (ca. Ø 26 cm) ausrollen und versetzt auf zwei mit Backpapier belegte Bleche legen. Nach Belieben mit Tomatensauce, geriebenen Käse, Salami, Schinken, Mais, Paprika, Brokkoli, Zwiebeln, Rucola usw. belegen und jedes Blech nacheinander ca. 12-14 Minuten backen."}],"recipe_tips":[{"headline":"Ruhezeit verbessert Aroma","content":"Lasse die 4 Teigkugeln mit Frischhaltefolie über Nacht im Kühlschrank ruhen. Hole ihn ca. 1 Stunde vor Gebrauch aus dem Kühlschrank. So ist er aromatischer und bekömmlicher."},{"headline":null,"content":"Hast du Zeit für eine ausreichende Ruhezeit? Dann reduziere die Trockenhefemenge auf 1 TL (ca. 5 g). Nach dem Kneten den Teig 3 Stunden ruhen lassen."},{"headline":null,"content":"Ersetze 150 g Dinkelmehl Type 630 durch Dinkelmehl Type 1050. So wird der Teig etwas kerniger und enthält mehr Mineralstoffe. Der Teig benötigt beim Kneten zusätzlich 50 ml mehr Wasser."}]}</CustomStructuredRecipeJson>
+    <Title>Dinkel Pizzateig</Title>
+    <Headline position="1">Dinkel Pizzateig</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T09:00:10+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81r9tk4rdnm1kolupit6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="Type 630 und Mehl zum Arbeiten" position="1" plural="Dinkelmehl "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10756" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(7 g)" plural="Trockenhefe" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="330" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_688c6821c74c7">
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" position="1" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="2" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9486" position="3" plural="Salami"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7116" position="4" plural="Käse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" position="5" plural="Rucola"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7866" position="6" plural="Mais"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Nach Belieben</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81r9tmckqx5cffrrit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, Hefe, Salz und Zucker in einer Rührschüssel mischen. 350 ml lauwarmes Wasser und 4 EL Olivenöl zugeben und den Teig 4 Minuten mit den Knethaken des Handrührgerätes zu einem glatten Teig kneten. Zugedeckt 45 Minuten ruhen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_688c67f2112c7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Teig in insgesamt 4 Portionen teilen, zu Kugeln formen und zugedeckt erneut 15 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81r9tmckts31bw1qxit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 220 Grad vorheizen. Teigstücke auf einer bemehlten Arbeitsfläche zu vier runden Fladen (ca. Ø 26 cm) ausrollen und versetzt auf zwei mit Backpapier belegte Bleche legen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_688c6806eeebf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Nach Belieben mit Tomatensauce, geriebenen Käse, Salami, Schinken, Mais, Paprika, Brokkoli, Zwiebeln, Rucola usw. belegen und jedes Blech nacheinander ca. 12-14 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81r9tmcktx51hbxinit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Lasse die 4 Teigkugeln mit Frischhaltefolie über Nacht im Kühlschrank ruhen. Hole ihn ca. 1 Stunde vor Gebrauch aus dem Kühlschrank. So ist er aromatischer und bekömmlicher.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ruhezeit verbessert Aroma</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="81r9tmckww6iqw9yit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Hast du Zeit für eine ausreichende Ruhezeit? Dann reduziere die Trockenhefemenge auf 1 TL (ca. 5 g). Nach dem Kneten den Teig 3 Stunden ruhen lassen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="81r9tmckwzrodyj3it6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ersetze 150 g Dinkelmehl Type 630 durch Dinkelmehl Type 1050. So wird der Teig etwas kerniger und enthält mehr Mineralstoffe. Der Teig benötigt beim Kneten zusätzlich 50 ml mehr Wasser.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 3</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pnqwgupeq6favcor" file_variant="master" position="1">Dinkel_Pizzateig_4925.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688c690775339">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pnnubv901jqxxmhmu" file_variant="master" position="1">Dinkel_Pizzateig_4703.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688c69122dbe6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pnv8cgwi1ibxntcoq" file_variant="master" position="1">Dinkel_Pizzateig_4750.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688c691776980">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pnpgelg61db6guftu" file_variant="master" position="1">Dinkel_Pizzateig_4757.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_688c6940e70e7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pntscs556w5gfcos" file_variant="master" position="1">Dinkel_Pizzateig_4895.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

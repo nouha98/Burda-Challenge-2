@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jj8u2vsoll17ik0u2gh" dcx-version="6.3.1" version="1.0">
+  <created>2022-02-01T13:49:36+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-08-10T11:31:34+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Keywords topic="tmt7hqg1dh0i5joq7runmk"/>
+    <Keywords topic="tmt7jj8wgixiaat8sxu2se"/>
+    <Keywords topic="tmt6p4egyaahw7jpmo58m6"/>
+    <Keywords topic="tmt6qejr3b87go14sylc903"/>
+    <Keywords topic="tmt6owb8mk8pdg8qke08lz"/>
+    <Keywords topic="tmt6ow8fc2jks9znjw1hhg"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Source topic="tmt873hvr1ktqvl9czn1prq"/>
+    <CustomRecipeNutritionalValueCalories position="1">775</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">59</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">40</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">43</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Feine Lachsklößchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-02-01T13:49:36+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7581" position="1" amount="230" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Lachsfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" position="4" amount="1" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" suffix="ohne Rinde" plural="Toastbrot"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="5" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="eiskalte" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="6" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11231" position="7" amount="2" prefix="Tropfen" plural="Worcestersauce" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7786" position="8" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Linguine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5966" position="9" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(Glas)" plural="Fischfond"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9541" position="10" amount="0,5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gehackter" plural="Salbei"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="11" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gehackte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="12" amount="25" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiße" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="13" amount="25" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="14" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7246" position="15" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Knoblauchwürfeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="16" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" position="17" amount="1,5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="geröstete" plural="Pinienkerne"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Lachs abbrausen, abtupfen, feinst würfeln. Salzen, pfeffern, ca. 1 Std. gefrieren. Toast fein wür­feln, mit Sahne übergießen, in den Froster stellen. Lachs portionsweise mit 1 TL Zitronensaft zur glatten Masse mixen, wieder in den Froster stellen. Sahne­Brot mit Worcester­soße je kurz unter die Lachsportio­nen mixen. Mit Salz und Pfeffer würzen. 500 ml Wasser mit Salz aufkochen. Aus der Masse mit einem Löffel Klößchen abstechen, ins Wasser geben, bei kleiner Hitze 4–6 Min. sanft garen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_61f92d6d965f2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Nudeln nach Anleitung garen. Fond, Kräuter, Mandeln, Käse, Öl, Knoblauch, 1 TL Zitronensaft, Zucker, Salz, Pfeffer pürieren. Nudeln abgießen, untermischen. Mit Klößchen, Pinienkernen, evtl. gerösteten Salbeiblättern anrichten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Extra Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Kalt verarbeiten
+Damit die Lachsfarce für die Klößchen bei der Zubereitung nicht gerinnt, sollte man das Lachsfleisch in kleinen Portionen mixen und zwischendurch immer wieder im Froster kalt stellen. Auch die Sahne sollte eiskalt sein und nur kurz untergemixt werden, da sie sonst warm wird und gerinnt – die Klößchen werden dann krümelig. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lachsklößchen mit Salbei-Linguine, Klöße, Fisch und Meeresfrüchte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photoart GmbH</ImageCredit>
+      <DocumentRef doc_id="doc7hqg1dgn0e9j6odtnmk" file_variant="master" position="1">Lachskloesschen_Salbei_Linguine.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

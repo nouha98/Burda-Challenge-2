@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823mvjo1jxy2vj5k10oy" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T10:26:36+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-08-25T10:37:34+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="75"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Printen","recipe_seo_headline":null,"servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Backen","duration":8},{"name":"Kühlen","duration":75}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Lebkuchenteig","ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":150,"amountTo":null,"ingredient_name":"Roggenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 1150)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zitronat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Orangeat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":140,"amountTo":null,"ingredient_name":"Krümelkandis","unit":{"name":"g"},"prefix":null,"suffix":"weiß"},{"amount":80,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Milch","unit":null,"prefix":null,"suffix":"zum Bestreichen"}]}],"preparation":[{"headline":null,"content":"Für den Lebkuchenteig die beiden Mehle sieben, mit Gewürzen mischen und in eine Rührschüssel geben."},{"headline":null,"content":"Den Honig in einen kleinen Topf geben und kurz aufkochen lassen. Ca. 15 min abkühlen lassen bis sich der Honig lauwarm anfühlt."},{"headline":null,"content":"Zu dem Mehl geben und gut vermischen. Zitronat und Orangeat fein hacken und in den Teig kneten."},{"headline":null,"content":"Zuletzt Krümelkandis und brauner Zucker unter den Teig mischen. Zwischen zwei Backfolien 5 mm dünn ausrollen. Zu einem Rechteck von (50cm x 40cm) formen und im ausgerollten Zustand für 60 Min. kühl stellen."},{"headline":null,"content":"Backofen auf 200 Grad Ober- und Unterhitze (Umluft 180°C) vorheizen. Zwei Backbleche mit Backpapier auslegen."},{"headline":null,"content":"Mit einem Messer 20 Rechtecke (10x 5cm) aus dem Teig schneiden mit Abstand auf die Backbleche setzen, zuletzt mit etwas Milch bestreichen. Für 8 Min. backen lassen."}],"recipe_tips":[{"headline":"Aufbewahrung","content":"Die Printen sind direkt nach dem Backen eher hart, du kannst sie in einen luftdichten Behälter legen und etwas Orangenschale und Apfelspalten dazu geben. Nach ein paar Tagen sind sie köstlich weich."}]}</CustomStructuredRecipeJson>
+    <Title>Printen</Title>
+    <Headline position="1">Printen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T10:26:36+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823mvhu3yf5cqsm410oy">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7036" amount="140" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="weiß" position="8" plural="Kandiszucker" prefix="Krümel-"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Bestreichen" plural="Milch" position="10" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9256" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 1150)" plural="Roggenmehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Honig" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11336" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zitronat" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8466" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Orangeat" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="9" plural="brauner Zucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Lebkuchenteig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823mvjo1aqc1ehih010oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Lebkuchenteig die beiden Mehle sieben, mit Gewürzen mischen und in eine Rührschüssel geben. Den Honig in einen kleinen Topf geben und kurz aufkochen lassen. Ca. 15 min abkühlen lassen, bis sich der Honig lauwarm anfühlt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823mvjo1d9tggt1x10oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zu dem Mehl geben und gut vermischen. Zitronat und Orangeat fein hacken und in den Teig kneten. Zuletzt Krümelkandis und brauner Zucker unter den Teig mischen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823mvjo1ddggymaw10oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Zwischen zwei Backfolien 5 mm dünn ausrollen. Zu einem Rechteck von (50cm x 40cm) formen und im ausgerollten Zustand für 60 Min. kühl stellen. Backofen auf 200 Grad Ober- und Unterhitze (Umluft 180°C) vorheizen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823mvjo1dlglp8l10oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Zwei Backbleche mit Backpapier auslegen. Mit einem Messer 20 Rechtecke (10x 5cm) aus dem Teig schneiden mit Abstand auf die Backbleche setzen, zuletzt mit etwas Milch bestreichen. Für 8 Min. backen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="823mvjo1dpeyxy3l10oy">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Printen sind direkt nach dem Backen eher hart, du kannst sie in einen luftdichten Behälter legen und etwas Orangenschale und Apfelspalten dazu geben. Nach ein paar Tagen sind sie köstlich weich.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Aufbewahrung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81psuzrf1b6allyltj7" file_variant="master" position="1">Printen2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac20cb57217">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81psux17woj1i1gmgtj8" file_variant="master" position="1">PrintenStep.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ac20cc919db">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81psv1l1zs32f0yutj8" file_variant="master" position="1">Printen1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

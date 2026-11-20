@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81tu5ediknt29o151g46" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-06T08:47:38+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-06T17:21:55+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Haselnusseis","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":30},{"name":"Ruhen/Warten","duration":1440}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":120,"amountTo":null,"ingredient_name":"ganze Haselnüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Haselnussmus","unit":{"name":"g"},"prefix":null,"suffix":"(ungesüßt)"},{"amount":4,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":65,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Ofen auf 200 Grad Ober- / Unterhitze vorheizen. Die Haselnüsse grob hacken und auf ein mit Backpapier belegtes Blech geben. Die Haselnüsse im vorgeheizten Ofen ca. 10 Min. rösten, bis du den Haselnussduft riechst und Öl aus den Haselnüssen austritt."},{"headline":null,"content":"Die Sahne und Milch aufkochen lassen, dann die noch heißen Haselnüsse zugeben. Die Mischung mindestens 30 Min. ziehen lassen, damit das Aroma der Nüsse an die Milch abgegeben wird (am besten über Nacht stehen lassen)."},{"headline":null,"content":"Das Haselnussmus zur Milch zugeben, alles kurz pürieren, dann die Haselnussmilch absieben und vollständig auskühlen lassen. Die Eigelbe mit Zucker und Prise Salz im Wasserbad, unter stetigem Rühren, auf 80 Grad erwärmen."},{"headline":null,"content":"Die ausgekühlte Haselnuss-Milch-Mischung schluckweise zur Eigelb-Mischung geben. Die Mischung nochmal 2-3 Min. auf dem Wasserbad unter Rühren eindicken lassen, dann vom Herd nehmen und abkühlen lassen, bis sie nur noch lauwarm ist."},{"headline":null,"content":"Die abgekühlte Masse für 2 Std. in die Gefriertruhe stellen. Dann die Flüssigkeit in eine vorbereitete Eismaschine geben und 30 Min. cremig gefrieren lassen. Das fertige Eis in eine Dose geben und über Nacht nochmal tiefgefrieren. Bis zum Servieren in der Gefriertruhe aufbewahren."}],"recipe_tips":[{"headline":"Falls du keine Eismaschine hast","content":"Du kannst das Eis auch ohne Eismaschine zubereiten. Fülle die Masse dafür direkt in eine luftdichte Dose und stelle sie in die Gefriertruhe. Rühre nun die nächsten 8 Stunden immer mal wieder um, damit sich die Eiskristalle gleichmäßig bilden und ein cremiges Eis entsteht."}]}</CustomStructuredRecipeJson>
+    <Title>Haselnusseis</Title>
+    <Headline position="1">Haselnusseis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-06T08:47:38+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81tu5cx3g9kfw0ep1g46">
+      <CustomRecipeIngredient topic="tmt7jf1gp2acr4g6qcm2f0" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ungesüßt)" position="4" plural="Nussmus" prefix="Haselnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Haselnüsse" prefix="ganze "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" position="5" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="65" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81tu5edijm91c5j9q1g46">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 200 Grad Ober- / Unterhitze vorheizen. Die Haselnüsse grob hacken und auf ein mit Backpapier belegtes Blech geben. Die Haselnüsse im vorgeheizten Ofen ca. 10 Min. rösten, bis du den Haselnussduft riechst und Öl aus den Haselnüssen austritt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tu5edijtfh60l41g46">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sahne und Milch aufkochen lassen, dann die noch heißen Haselnüsse zugeben. Die Mischung mindestens 30 Min. ziehen lassen, damit das Aroma der Nüsse an die Milch abgegeben wird (am besten über Nacht stehen lassen).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tu5edijx2h684d1g46">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Haselnussmus zur Milch zugeben, alles kurz pürieren, dann die Haselnussmilch absieben und vollständig auskühlen lassen. Die Eigelbe mit Zucker und Prise Salz im Wasserbad, unter stetigem Rühren, auf 80 Grad erwärmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tu5edik0k1dw2s11g46">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die ausgekühlte Haselnuss-Milch-Mischung schluckweise zur Eigelb-Mischung geben. Die Mischung nochmal 2-3 Min. auf dem Wasserbad unter Rühren eindicken lassen, dann vom Herd nehmen und abkühlen lassen, bis sie nur noch lauwarm ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tu5edik40iufsc1g46">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die abgekühlte Masse für 2 Std. in die Gefriertruhe stellen. Dann die Flüssigkeit in eine vorbereitete Eismaschine geben und 30 Min. cremig gefrieren lassen. Das fertige Eis in eine Dose geben und über Nacht nochmal tiefgefrieren. Bis zum Servieren in der Gefriertruhe aufbewahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81tu5edik7n1gqw6i1g46">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst das Eis auch ohne Eismaschine zubereiten. Fülle die Masse dafür direkt in eine luftdichte Dose und stelle sie in die Gefriertruhe. Rühre nun die nächsten 8 Stunden immer mal wieder um, damit sich die Eiskristalle gleichmäßig bilden und ein cremiges Eis entsteht.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Falls du keine Eismaschine hast</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc818y0jbn2uc1j7lmq1oeo" file_variant="master" position="1">HaselnussEis2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6892fbe7aee66">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc818y0fo05mo1d6exl8kp" file_variant="master" position="1">HaselnussEisStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6892fbe9e0a17">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc818y0lqeos1wfzjr8ht" file_variant="master" position="1">HaselnussEisStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6892fbebb52bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc818y0czpvac15bhm58hi" file_variant="master" position="1">HaselnussEis1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

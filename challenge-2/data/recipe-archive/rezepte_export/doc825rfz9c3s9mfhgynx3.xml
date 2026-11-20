@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825rfz9c3s9mfhgynx3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T13:47:13+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-01T12:37:11+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Obstsalat mit Nüssen","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Birne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavensirup","unit":{"name":"TL"},"prefix":null,"suffix":"(alternativ: Ahornsirup oder Honig)"},{"amount":1,"amountTo":null,"ingredient_name":"Hand voll Heidelbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"ein Paar Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Nussmix","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Orange schälen und Filets daraus lösen, hierfür knapp an der Orangenhaut bis zur Mitte schneiden. Apfel und Birne waschen, vierteln, Kerngehäuse entfernen und in grobe Würfel schneiden, mit den Orangenfilets mischen."},{"headline":null,"content":"Den Obstsalat mit Agavensirup mischen und in 2 kleine Schalen austeilen, je eine Portion (60g) gemischte Nüsse auf den Obstsalat geben, sofort servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Obstsalat mit Nüssen</Title>
+    <Headline position="1">Obstsalat mit Nüssen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T13:47:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825rfwghaxg9vyaznx3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Orange" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(alternativ: Ahornsirup oder Honig)" plural="Agavendicksaft" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="6" prefix="Handvoll" plural="Heidelbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="7" prefix="Handvoll" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8396" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" suffix="(Walnüsse, Haselnüsse, Cashewkerrne, Mandeln)" plural="Nüsse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825rfz9bxz419wfyrnx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Orange schälen und Fruchtfleisch von der Schale lösen. Hierfür Stielansatz entfernen und die Schale knapp an der Orangenhaut herunter schneiden. Fruchtfleisch in Filets schneiden.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rfz9c1rc1e4l1gnx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Apfel und Birne waschen, vierteln und die Kerngehäuse entfernen. Banane schälen. Obst in grobe Würfel schneiden und mit den Orangenfilets in einer Schüssel mischen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68b577114a0fd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Obstsalat mit Agavendicksaft mischen. Heidel- und Himbeeren vorsichtig unterheben. Salat auf 2 kleine Schalen (à ca. 400 ml) verteilen. Je eine Portion (60g) gemischte Nüsse auf den Obstsalat geben und direkt servieren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqzqa1qqhl97dbfjj" file_variant="master" position="1">ObstsalatmitNuessen2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b57726f0bf5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqzrwy9cmuwpxsfps" file_variant="master" position="1">ObstsalatmitNuessen_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b57728a4c8f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqzv0kpk0nzq529ik" file_variant="master" position="1">ObstsalatmitNuessen1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

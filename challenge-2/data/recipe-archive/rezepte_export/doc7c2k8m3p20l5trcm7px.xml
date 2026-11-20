@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2k8m3p20l5trcm7px" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:59:14+02:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2024-12-03T09:24:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <Creator topic="tmt6xe7x0mpsky1mcjd0o6q" position="1"/>
+    <CustomRecipeServing topic="tmt7865q4pbrpzhzsa7idm" plural="(Unbekannte Einheit)" amount="0"/>
+    <CustomBlpId position="1">40553</CustomBlpId>
+    <Headline position="1">Ananas-Dip</Headline>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:Importiert</CustomBlpDataField>
+    <CustomCenshareImportIssue>non numeric serving amount ' '</CustomCenshareImportIssue>
+    <Title>Ananas-Dip</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2018-08-14T00:00:00+02:00</DateCreated>
+    <DateImported>2020-08-27T16:59:14+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="2a0334">
+      <CustomRecipeIngredient topic="tmt7c0zshya65vpesit5p8" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt7byzcr2k311ayrlkcme" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt796njrsu5qp1brs9lffr" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt794qf4ih4b41e6ldre46" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt794qf1fic0625kghe46" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt7c0zshyr8fka8vab5p8" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt796n3yv6sqa13p121ffs" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="2a0389">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">150 g gehacktes Ananasfruchtfleisch, 1 gehackte Chilischote, 1 EL gehackte Minzblättchen, je 2 EL Kokosraspel und Sojasauce, Limettensaft und 1 EL Zucker verrühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k8mggig977e6l7px" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:59:15+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k8m3p20l5trcm7px"/>
+      <hash>d42541acc6cfd9424e2d77145eea1f52</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:59:16+02:00</modified>
+      <size>2698</size>
+      <subpath>2020/08-27/2f/03/file7c2k8mggig977e6l7px.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k8medqebt9tc47px" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:59:15+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k8m3p20l5trcm7px"/>
+      <hash>8abf47f882c5c53fa350eb92d6462c7e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:59:16+02:00</modified>
+      <size>72</size>
+      <subpath>2020/08-27/a8/ef/file7c2k8medqebt9tc47px.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8255o6hmvdv2chp8rlt" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-28T09:32:18+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-28T09:38:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeer-Kokos-Tiramisu","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Espresso","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Kokosnusslikör","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Löffelbiskuit","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Kokosraspel","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Espresso kochen und abkühlen lassen, bis er nur noch lauwarm ist. Dann Kokosnusslikör hinzugeben und kurz die beiden Flüssigkeiten miteinander verrühren. Kalte Sahne steif schlagen und bis zur Weiterverarbeitung zurück in den Kühlschrank stellen. Mascarpone, Magerquark und Zucker mit einem Schneebesen kurz miteinander verrühren."},{"headline":null,"content":"Geschlagene Sahne aus dem Kühlschrank nehmen und unter die Quark-Creme heben. Eine Auflaufform (ca. 24 x 18 x 4 cm) bereitstellen und mit der ersten Schicht Löffelbiskuit auslegen. Ca. 1 EL der Espresso-Likör-Mischung auf jedem Löffelbiskuit verteilen, damit diese eingeweicht sind. Etwa die Hälfte der Creme auf den Löffelbiskuits verteilen und glattstreichen."},{"headline":null,"content":"Erdbeeren waschen und das Grün entfernen. Erdbeeren in dünne Scheiben schneiden. Die erste Cremeschicht in der Auflaufform mit Erdbeerscheiben belegen. 2 EL Kokosstreusel über die Erdbeeren streuen. Restliche Löffelbiskuits in der Form verteilen und mit der restlichen Espresso-Kokoslikör-Mischung beträufeln. Die restliche Creme auf die Löffelbiskuit-Schicht geben und glattstreichen."},{"headline":null,"content":"Die restlichen Erdbeerscheiben dekorativ auf der Cremeschicht verteilen und zuletzt nochmals mit 2 EL Kokosraspel bestreuen. Das Dessert ca. 2 Stunden kühlstellen. Gekühlt servieren. Anstatt Erdbeeren können auch wunderbar Aprikosen oder Pfirsiche verwendet werden."}],"recipe_tips":[{"headline":"Am Vortag vorbereiten","content":"Dieses Dessert lässt sich auch wunderbar schon am Vortag vorbereiten, wenn du es über Nacht im Kühlschrank lagerst. Wir würden dir allerdings empfehlen die dekorativen Erdbeerscheiben auf dem Dessert erst am Tag des Verzehrs aufzulegen, damit sie schön frisch aussehen."}]}</CustomStructuredRecipeJson>
+    <Title>Erdbeer-Kokos-Tiramisu</Title>
+    <Headline position="1">Erdbeer-Kokos-Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-28T09:32:18+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8255o1tb6dv1b313lrlt">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Espresso" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7321" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Kokoslikör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kokosraspeln" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8255o6hm087gzv9vrlt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Espresso kochen und abkühlen lassen, bis er nur noch lauwarm ist. Dann Kokosnusslikör hinzugeben und kurz die beiden Flüssigkeiten miteinander verrühren. Kalte Sahne steif schlagen und bis zur Weiterverarbeitung zurück in den Kühlschrank stellen. Mascarpone, Magerquark und Zucker mit einem Schneebesen kurz miteinander verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8255o6hm6ya14xb1mrlt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Geschlagene Sahne aus dem Kühlschrank nehmen und unter die Quark-Creme heben. Eine Auflaufform (ca. 24 x 18 x 4 cm) bereitstellen und mit der ersten Schicht Löffelbiskuit auslegen. Ca. 1 EL der Espresso-Likör-Mischung auf jedem Löffelbiskuit verteilen, damit diese eingeweicht sind. Etwa die Hälfte der Creme auf den Löffelbiskuits verteilen und glattstreichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8255o6hm755fi2brrlt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Erdbeeren waschen und das Grün entfernen. Erdbeeren in dünne Scheiben schneiden. Die erste Cremeschicht in der Auflaufform mit Erdbeerscheiben belegen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68b006b79c764">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">2 EL Kokosstreusel über die Erdbeeren streuen. Restliche Löffelbiskuits in der Form verteilen und mit der restlichen Espresso-Kokoslikör-Mischung beträufeln. Die restliche Creme auf die Löffelbiskuit-Schicht geben und glattstreichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8255o6hm79c6d68lrlt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die restlichen Erdbeerscheiben dekorativ auf der Cremeschicht verteilen und zuletzt nochmals mit 2 EL Kokosraspel bestreuen. Das Dessert ca. 2 Stunden kühlstellen. Gekühlt servieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8255o6hm7epnxkk9rlt">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dieses Dessert lässt sich auch wunderbar schon am Vortag vorbereiten, wenn du es über Nacht im Kühlschrank lagerst. Wir würden dir allerdings empfehlen die dekorativen Erdbeerscheiben auf dem Dessert erst am Tag des Verzehrs aufzulegen, damit sie schön frisch aussehen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Am Vortag vorbereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68b006da15d66">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Anstatt Erdbeeren können auch wunderbar Aprikosen oder Pfirsiche verwendet werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Bunte Abwechslung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mp0ibcpdh1eipj09cd" file_variant="master" position="1">Erdbeer-Kokos-Tiramisu3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b0076f8cf6d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mp0pmgbix1a0k6c9ik" file_variant="master" position="1">Erdbeer-Kokos-Tiramisu_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b00770ef6c0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mp0kyejwy1mmxrofjj" file_variant="master" position="1">Erdbeer-Kokos-Tiramisu1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b0077208e9c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mp0mmhww018fivzfps" file_variant="master" position="1">Erdbeer-Kokos-Tiramisu2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

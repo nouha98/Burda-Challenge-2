@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7868dk2pzux1gnuh3avd" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T13:22:50+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2024-12-03T09:59:31+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomCenshareId>103848</CustomCenshareId>
+    <Title position="1">Birnen-Blätterteig-Tarte</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <Headline position="1">Birnen-Blätterteig-Tarte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T14:57:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="2ee5a0">
+      <CustomRecipeIngredient topic="tmt782pc8gzymha2nc38gz" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(Kühlregal)" position="2" unit="Packung" plural="Blätterteig ausgerollter"/>
+      <CustomRecipeIngredient topic="tmt782pc8h38z419wdfi8gz" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Zartbitter Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5496" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" unit="g" plural="Crème double"/>
+      <CustomRecipeIngredient topic="tmt782pc8av4xh14rz798gz" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="Zucker brauner"/>
+      <CustomRecipeIngredient topic="tmt782pc8hac5g7qlfr8gz" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="gemischte Kerne Nüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="70" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt782pc8grh9d1u4e8gz" amount="5" unit_topic="tm_topic_default_unit" position="1" unit="(keine Einheit)" plural="reife Birne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="2" unit_topic="tm_topic_default_unit" position="8" unit="(keine Einheit)" plural="Eigelb"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="2ee5f6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucker mit 80 ml Wasser aufkochen. Birnen nach Belieben schälen und Kerngehäuse entfernen. Birnen in Scheiben teilen und in dem Zuckersirup 2 Minuten köcheln, heraus nehmen und auf Küchenpapapier abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="2ee60c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Backofen 220 Grad (Umluft: 200 Grad) vorheizen. Blätterteig auf ein mit Backpapier belegtes Blech legen. Schokolade hacken, über dem heißen Wasserbad schmelzen, kurz abkühlen lassen. Crème double mit Zucker, Eigelben und braunem Zucker verrühren, Schokolade untermischen. Schoko-Mischung auf dem Blätterteig verteilen. Birnenscheiben sowie Nüsse darauf geben und Kuchen im Ofen etwa 25-30 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78a9ah1lx89w2fsahct" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-06T09:24:05+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_103848</displayname>
+      <doc_id id="doc7868dk2pzux1gnuh3avd"/>
+      <hash>8acecf91013a934e3211f8fa734c44e5</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2019-12-07T14:57:07+01:00</modified>
+      <size>3199</size>
+      <subpath>2019/12-07/a2/9a/file78a9ah1lx89w2fsahct.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

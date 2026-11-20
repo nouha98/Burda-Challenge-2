@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87xa2xh6k6h8muiwpyu" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-07T10:39:56+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-10-07T10:51:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Source topic="tmt87xa8c2vvpe10tbmfq0h"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spaghetti mit Pilzen","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Spaghetti","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Steinpilz","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Champignon","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":"glatte","suffix":"(klein)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":"zum Braten"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Schalotten und Knoblauch abziehen. Schalotten würfeln, Knoblauch fein hacken. Pilze putzen, in schmale Scheiben schneiden."},{"headline":null,"content":"Spaghetti in leicht gesalzenem Wasser zum Kochen bringen und nach Packungsanweisung bissfest garen. In der Zwischenzeit die Petersilie abbrausen, trockenschütteln, fein hacken."},{"headline":null,"content":"In einer weiten Pfanne das Olivenöl erhitzen, Schalottenwürfel und Knoblauch hinzufügen und 2–3 Minuten glasig dünsten. Pilze zugeben und 3–4 Minuten goldbraun anbraten. Gehackte Petersilie untermischen, ca. 100 ml Nudelwasser hinzufügen."},{"headline":null,"content":"Spaghetti auf ein Sieb abgießen, zu den Pilzen in die Pfanne geben und alles gut durchmischen. Mit Pfeffer und Salz abschmecken. Auf Tellern anrichten und servieren."}],"recipe_tips":[{"headline":null,"content":"Neben Steinpilzen und Champignons passen auch Pfifferlinge gut zu diesem Rezept. Außerhalb der Pilz-Saison lässt sich das Rezept prima mit 500 g Zucht-Champignons zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Spaghetti mit Pilzen</Title>
+    <Headline position="1">Spaghetti mit Pilzen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-07T10:39:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87xa2v55yfc1e067cpyu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="glatte" suffix="(klein)" plural="Petersilie" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10241" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spaghetti" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10386" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Steinpilze" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Champignons" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Braten" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87xa2xh64wn15rx81pyu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schalotten und Knoblauch abziehen. Schalotten würfeln, Knoblauch fein hacken. Pilze putzen, in schmale Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xa2xh6hna6860apyu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Spaghetti in leicht gesalzenem Wasser zum Kochen bringen und nach Packungsanweisung bissfest garen. In der Zwischenzeit die Petersilie abbrausen, trockenschütteln, fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xa2xh6hwz1lijrnpyu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In einer weiten Pfanne das Olivenöl erhitzen, Schalottenwürfel und Knoblauch hinzufügen und 2–3 Minuten glasig dünsten. Pilze zugeben und 3–4 Minuten goldbraun anbraten. Gehackte Petersilie untermischen, ca. 100 ml Nudelwasser hinzufügen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xa2xh6i2s170a26pyu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Spaghetti auf ein Sieb abgießen, zu den Pilzen in die Pfanne geben und alles gut durchmischen. Mit Pfeffer und Salz abschmecken. Auf Tellern anrichten und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87xa2xh6i9276yu1pyu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Neben Steinpilzen und Champignons passen auch Pfifferlinge gut zu diesem Rezept. Außerhalb der Pilz-Saison lässt sich das Rezept prima mit 500 g Zucht-Champignons zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braujwwa1w12qjgrlhb" file_variant="master" position="1">Spaghetti_mit_Pilzen_90013.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6ac6080a847ca">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brayjlfo36bc6p2gds" file_variant="master" position="1">Spaghetti_mit_Pilzen_89891.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6ac6080dc3ff0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braz1vt33s1vkze1c" file_variant="master" position="1">Spaghetti_mit_Pilzen_89958.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6ac608100957e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braz5fhgoz1kcamxmz7" file_variant="master" position="1">Spaghetti_mit_Pilzen_90008.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

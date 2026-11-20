@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82psmv5ysbq15p4m895b" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-07T13:30:23+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-07T13:34:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Organization topic="tmt6owajvgno8h17ubde8m3" generator="com.digicol.se" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Keywords topic="tmt6ow4ku4smnbixr5hhgr"/>
+    <Source topic="tmt82psoyi8ysp7xffe960"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apple Sour","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Korn „Saurer Apfel“","unit":{"name":"ml"},"prefix":null,"suffix":"(z.B. von Berentzen)"},{"amount":80,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Sirup „Grüner Apfel“","unit":{"name":"ml"},"prefix":null,"suffix":"(z.B. von Monin, alternativ Minzsirup)"},{"amount":2,"amountTo":null,"ingredient_name":"Eiweiß","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(zum Garnieren)"}]}],"preparation":[{"headline":null,"content":"Korn „Saurer Apfel“, Limettensaft, Wodka, Sirup „Grüner Apfel“ und Eiweiß in einen Shaker geben. 1 Handvoll Eiswürfel hinzufügen und gut schütteln."},{"headline":null,"content":"Drink durch ein Sieb in Gläser gießen und mit Minze garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Apple Sour</Title>
+    <Headline position="1">Green Apple Sour</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-07T13:30:23+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82psmx4tishx3mn1kxl">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7406" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="Saurer Apfel (z.B. von Berentzen)" position="1" plural="Korn"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Limettensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="20" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10156" amount="20" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="Grüner Apfel (z.B. von Monin, alternativ Minzsirup)" position="4" plural="Sirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiweiß" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(zum Garnieren)" plural="Minze" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82psmzjfxw1207mskxl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Korn „Saurer Apfel“, Limettensaft, Wodka, Sirup „Grüner Apfel“ und Eiweiß in einen Shaker geben. 1 Handvoll Eiswürfel hinzufügen und gut schütteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82psmzjg0391hbjalkxl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Drink durch ein Sieb in Gläser gießen und mit Minze garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7wq3qq99vr91512lxnk6" file_variant="master" position="1">Green Apple Sour</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

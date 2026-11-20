@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85ss93c983ou4nvs1p0j" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-11T13:40:25+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-11T13:54:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rohta4opbdo5"/>
+    <Source topic="tmt85ssfok5xtypdg1m1pyq"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hähnchen Teriyaki","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":{"calories":610,"kilojoule":2554,"carbonhydrates":72,"fat":19,"protein":37,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Hähnchenbrustfilet","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Teriyaki-Sauce","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Zuckerschoten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"vorgegarter Jasminreis","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. von Bens)"},{"amount":2,"amountTo":null,"ingredient_name":"gerösteter Sesam","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Hähnchen trocken tupfen, in 8 gleich große Stücke schneiden. Salzen, pfeffern. In einer Pfanne in Öl von jeder Seite 3 Minuten anbraten."},{"headline":null,"content":"Die Teriyaki-Sauce zufügen, alles 10 Minuten köcheln lassen."},{"headline":null,"content":"Inzwischen Zuckerschoten waschen und schräg halbieren. Tomaten waschen, halbieren."},{"headline":null,"content":"In einer weiteren Pfanne die Butter schmelzen und die Zuckerschoten darin 4 Minuten braten. Tomaten zugeben, weitere 3 Minuten mitgaren. Mit Salz und Pfeffer würzen."},{"headline":null,"content":"Reis nach Packungsangabe erwärmen, mit Sesam mischen."},{"headline":null,"content":"Reis-Mix evtl. in eine gefettete Kaffeetasse drücken und auf die Teller stürzen. Hähnchen mit Sauce, Gemüse dazu anrichten und mit Basilikum garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Hähnchen Teriyaki</Title>
+    <CustomRecipeNutritionalValueCalories position="1">610</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2554</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">72</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">19</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">37</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">6</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Teriyaki-Hähnchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-11T13:40:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85ss96fq0x2fxthzudw">
+      <CustomRecipeIngredient topic="tmt852482muew016p7opczz" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. von Bens)" position="6" plural="Jasminreis" prefix="vorgegarter"/>
+      <CustomRecipeIngredient topic="tmt80lqy2e2mrb109ll7rvm" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hähnchenbrustfilets" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10541" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Teriyaki-Sauce" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11471" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zuckerschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="Sesam" prefix="gerösteter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" plural="Basilikum" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85ss99q2e8g1lza8oudw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Hähnchen trocken tupfen, in 8 gleich große Stücke schneiden. Salzen, pfeffern. In einer Pfanne in Öl von jeder Seite 3 Minuten anbraten. Die Teriyaki-Sauce zufügen, alles 10 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ss99q2gx39wgd5udw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Inzwischen Zuckerschoten waschen und schräg halbieren. Tomaten waschen, halbieren. In einer weiteren Pfanne die Butter schmelzen und die Zuckerschoten darin 4 Minuten braten. Tomaten zugeben, weitere 3 Minuten mitgaren. Mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ss99q2h2ov8znaudw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Reis nach Packungsangabe erwärmen, mit Sesam mischen. Reis-Mix evtl. in eine gefettete Kaffeetasse drücken und auf die Teller stürzen. Hähnchen mit Sauce, Gemüse dazu anrichten und mit Basilikum garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Hähnchen-Teriyaki mit Basmatireis, Sesam und zarten Zuckerschoten dazu Cocktailtomaten und frisches Basilikum</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc852lonhi16abbktpbf8" file_variant="master" position="1">Hähnchen-Teriyaki mit Basmatireis, Sesam und zarten Zuckerschoten dazu Cocktailtomaten und frisches Basilikum</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

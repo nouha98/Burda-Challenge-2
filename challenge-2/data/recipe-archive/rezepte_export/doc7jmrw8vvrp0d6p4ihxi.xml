@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jmrw8vvrp0d6p4ihxi" dcx-version="6.3.1" version="1.0">
+  <created>2022-02-08T10:40:58+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-09-21T15:18:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Keywords topic="tmt7ifmi5g2x9f17cu304fw"/>
+    <Keywords topic="tmt7jmrzmsoue99znehhxf"/>
+    <Keywords topic="tmt6qgc1jbjdzoh68hq2ng"/>
+    <Keywords topic="tmt6p4dtk9kok6trngc8lx"/>
+    <Keywords topic="tmt7jmrzmstkcj29oz0hxf"/>
+    <Keywords topic="tmt6owbe5xnflutui0y8ma"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Source topic="tmt87p5oxaastkgw0oi8s8"/>
+    <CustomRecipeNutritionalValueCalories position="1">335</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">37</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">58</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">29</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Tatar-Frikadellen zu Kartoffelsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-02-08T10:40:58+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9501" position="7" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="fettarme" suffix="(10%)" plural="Salatcreme"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="festkochende" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="3" amount="1" plural="Schalotten" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Salatgurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="5" amount="4" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" prefix="glatte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" position="6" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(1,5%)" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" position="8" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="grober" plural="Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="9" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="10" plural="Pfeffer" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="11" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="12" amount="3" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10516" position="13" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Rinder-" plural="Tatar"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="14" amount="1" plural="Eigelb" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="15" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9026" position="16" amount="2" unit_topic="tmt71k9l2t09xx1jfg9ydbs" unit="Blatt" plural="Radicchio"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln gründlich waschen und in einem Topf mit Salzwasser bedecken. Zugedeckt aufkochen und ca. 20 Min. bei mittlerer Hitze garen. Kartoffeln dann abgießen und etwas abkühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_62023c2d9af03">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Schalotte abziehen, halbieren und quer in Streifen schneiden. Salatgurke schälen, längs vierteln und in 5 mm dicke Stücke schneiden. Petersilie abbrausen, abzupfen, die Blättchen abzupfen und fein hacken. Joghurt mit Salatcreme, Senf und Milch verrühren. Mit Salz, Pfeffer, Zucker und Zitronensaft würzen. Die Hälfte der Petersilie und Schalottenstreifen untermischen. Kartoffeln in Scheiben schneiden. Kartoffeln und Gurken locker mit dem Dressing mischen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_62023c34616c9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tatar mit Eigelb und übriger Petersilie mischen. Mit Salz und Pfeffer würzen. Daraus mit angefeuchteten Händen 4 flache Frikadellen formen. Öl in einer schweren Pfanne erhitzen. Die Frikadellen darin 4–5 Min. bei mittlerer bis starker Hitze auf jeder Seite braten. Je die Hälfte des Salates auf einem Radicchioblatt anrichten. Je 2 Frikadellen dazulegen. Evtl. mit Petersilie garnieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Tartar-Frikadellen mit Kartoffelsalat, Leichte Küche, Hackfleischgerichte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photoart GmbH</ImageCredit>
+      <DocumentRef doc_id="doc7ifmi5fytcml43eg4fw" file_variant="master" position="1">Tartar_Frikadellen_Kartoffelsalat.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

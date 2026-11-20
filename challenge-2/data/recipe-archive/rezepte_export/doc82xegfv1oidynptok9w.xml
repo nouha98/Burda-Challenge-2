@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xegfv1oidynptok9w" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-22T08:46:47+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-22T10:31:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt82mmzc76wvmphpemeu7"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="4" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <Source topic="tmt82xfspcczi0uhiackxh"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Mangoldstrudel mit Schafskäse","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":45}],"difficulty":null,"price":null,"nutritions":{"calories":600,"kilojoule":2512,"carbonhydrates":14,"fat":51,"protein":18,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":450,"amountTo":null,"ingredient_name":"Mangold","unit":{"name":"g"},"prefix":null,"suffix":"(alternativ Blattspinat)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise geriebene Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Haselnusskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Blätter Strudelteig","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Kühlregal)"},{"amount":300,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Mangold waschen, putzen und grob hacken. Zwiebel und Knoblauch abziehen und fein würfeln. 1 TL Butter in einem Topf erhitzen. Zwiebel sowie Knoblauch darin glasig dünsten. Mangold dazugeben und ca. 10 Min. dünsten. Mit Salz, Pfeffer und Muskatnuss würzen."},{"headline":null,"content":"Die Tomaten waschen und grob würfeln. Die Haselnusskerne hacken. Je 2 Teigblätter (ca. 25x30 cm) aufeinanderlegen. Mit Mangold-Zwiebel-Mix sowie Tomaten belegen. Feta darüberbröseln, dabei rundherum einen Rand frei lassen."},{"headline":null,"content":"Die kurzen Teigseiten über der Füllung einklappen und die 4 Strudel der Länge nach vorsichtig einrollen. Die Strudel mit der Naht nach unten auf ein mit Backpapier belegtes Blech setzen. Übrige Butter zerlassen. Die Strudel damit bepinseln. Mit den Haselnüssen bestreuen."},{"headline":null,"content":"Im Ofen ca. 13 Min. backen, dabei ab und zu mit Butter bepinseln. Evtl. garnieren. Strudel warm servieren. Dazu schmeckt ein gemischter Salat."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Mangoldstrudel mit Schafskäse</Title>
+    <CustomRecipeNutritionalValueCalories position="1">600</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2512</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">14</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">51</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1.2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Mangoldstrudel mit Schafskäse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-22T08:46:47+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xeghf0h8iy0rk515yu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10411" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Kühlregal)" position="10" prefix="Blätter" plural="Strudelteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8001" amount="450" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(alternativ Blattspinat)" plural="Mangold" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="7" prefix="geriebene" plural="Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Tomaten" position="8"/>
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haselnusskerne" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feta" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xeginosi116ybwo15yu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Mangold waschen, putzen und grob hacken. Zwiebel und Knoblauch abziehen und fein würfeln. 1 TL Butter in einem Topf erhitzen. Zwiebel sowie Knoblauch darin glasig dünsten. Mangold dazugeben und ca. 10 Min. dünsten. Mit Salz, Pfeffer und Muskatnuss würzen. Die Tomaten waschen und grob würfeln. Die Haselnusskerne hacken. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xeginospdsojcc15yu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Je 2 Teigblätter (ca. 25 x 30 cm) aufeinanderlegen. Mit Mangold-Zwiebel-Mix sowie Tomaten belegen. Feta darüberbröseln, dabei rundherum einen Rand frei lassen. Die kurzen Teigseiten über der Füllung einklappen und die 4 Strudel der Länge nach vorsichtig einrollen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xeginost31eg9qy15yu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Strudel mit der Naht nach unten auf ein mit Backpapier belegtes Blech setzen. Übrige Butter zerlassen. Die Strudel damit bepinseln. Mit den Haselnüssen bestreuen. Im Ofen ca. 13 Min. backen, dabei ab und zu mit Butter bepinseln. Evtl. garnieren. Strudel warm servieren. Dazu schmeckt ein gemischter Salat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">kleine Holthaus, Thorsten</ImageCredit>
+      <DocumentRef doc_id="doc718wjul00q0f72d5c94" file_variant="master" position="1">Mangoldstrudel mit Schafskäse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

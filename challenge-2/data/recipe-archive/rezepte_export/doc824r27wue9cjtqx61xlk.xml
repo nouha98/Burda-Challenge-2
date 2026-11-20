@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc824r27wue9cjtqx61xlk" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-27T14:34:57+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-28T13:38:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" plural="Personen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Obstsalat mit Quark","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Nektarine","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Hand Erdbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Granatapfelkerne","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Quark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Saft Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Das Obst waschen, trocknen und ggf. schälen. Apfel in dünne Scheiben schneiden, Orangenfilets schneiden, Erdbeeren halbieren alles zusammen mit Heidelbeeren und Granatapfelkernen mischen. Den Obstsalat auf 2 kleine Schüsseln verteilen."},{"headline":null,"content":"Quark mit Milch und Honig glattrühren, etwas Zitronensaft hinzugeben und gut mischen. Den Quark auf das Obst verteilen, sofort servieren und genießen."}],"recipe_tips":[{"headline":"Das Obst kann nach Belieben ausgetauscht werden","content":"Das Obst kann nach Belieben ausgetauscht und nach Saison angepasst werden."}]}</CustomStructuredRecipeJson>
+    <Title>Obstsalat mit Quark</Title>
+    <Headline position="1">Obstsalat mit Quark</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-27T14:34:57+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="824r24bl3pv18hdy61xlk">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Äpfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Orange" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8346" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Nektarine" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="4" prefix="handvoll" plural="Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Heidelbeeren" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6366" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Granatapfelkerne" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Quark" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Milch" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="9"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" suffix="Für den Saft" plural="Zitronen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="824r27wudc21ao7tf1xlk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Obst waschen, trocknen, putzen und ggf. schälen. Apfel in dünne Scheiben, Orangenfruchtfleisch in dünne Filets schneiden, Erdbeeren halbieren. Alles zusammen mit Heidelbeeren und Granatapfelkernen mischen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824r27wudj41i2bo61xlk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Obstsalat auf 2 kleine Schüsseln (à ca. 400 ml) verteilen. Quark mit Milch und Honig glatt rühren, nach Belieben 1-2 TL Zitronensaft hinzugeben und gut mischen. Den Quark auf dem Obst verteilen, sofort servieren und genießen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="824r27wudnmvno811xlk">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Das Obst kannst du ganz nach Belieben austauschen und je nach Saison anpassen. Der Salat schmeckt z. B. auch toll mit Pflaumen, Mandarinen oder Birne. Mit Magerquark wird es noch leichter, mit Sahnequark besonders cremig.
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Bunte Abwechslung: Nach Geschmack und Saison</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr4kusylfhg9ps996" file_variant="master" position="1">ObstsalatmitQuark2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b03fb0ce649">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr4iz4h5c9oqwsfjj" file_variant="master" position="1">ObstsalatmitQuark_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b03fb2853f1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr4ni4b9izjudmfti" file_variant="master" position="1">ObstsalatmitQuark1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

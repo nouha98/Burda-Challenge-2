@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85cc9s1jjg9nfd6exie" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-09T13:36:00+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-17T09:30:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="120"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs5jvwd5cdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruds18czicdo5"/>
+    <Source topic="tmt85ccd10ni5u11n1xfxwi"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeNutritionalValueCalories position="1">655</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">10</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">50</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">45</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Hähnchenkeulen "Diavolo"</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-09T13:36:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="2" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" prefix="frische" suffix="(z.B. Dill, Petersilie oder Thymian)" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt7kbxr7h116t55w9jmdm" position="1" amount="8" suffix="(Drumsticks; à 125 g)" plural="Hähnchenunterkeulen" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="3" amount="2" amount_max="3" prefix="getrocknete" plural="Chilischoten" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="4" plural="Zitrone" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(Saft)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="5" amount="2" amount_max="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Currypulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="7" amount="5" amount_max="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" position="10" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="griechischer Joghurt"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hähnchenkeulen trocken tupfen. Kräuterblättchen abzupfen, fein hacken. Chilischoten fein hacken. 3 EL Zitronensaft mit Honig, Chili, Curry, der Hälfte der Kräuter und 3–4 EL Olivenöl verrühren. Marinade salzen und pfeffern, mit den Hähnchenkeulen in einen Gefrierbeutel geben und 2 Stunden ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d7904c73c2f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hähnchenkeulen aus der Marinade nehmen (diese beiseite legen) und im Garkorb des Airfryers bei 160 Grad 20 Minuten braten. Danach wenden, mit Marinade bestreichen, Temperatur auf 180 Grad erhöhen und weitere 10-15 Minuten braten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d790664e95e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Joghurt glatt rühren, mit Salz, Pfeffer und Zitronensaft abschmecken. Übrige gehackte Kräuter einrühren. In ein Schälchen füllen, mit 2 EL Olivenöl beträufeln. Hähnchenkeulen mit Dip servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84gjoh7bq1312d0tldnh" file_variant="master" position="1">Chilihaehnchenkeulen.png</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

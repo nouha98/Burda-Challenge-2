@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ptdvh8h8orpifz20wx" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-16T14:59:32+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-17T13:27:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gazpacho Andaluz","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Suppe","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"rot"},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"gelb"},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Weinessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Basilikum","unit":null,"prefix":"Etwas","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Toastbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die kalte Suppe","content":"Gemüse waschen und trocknen. Alles in kleinste feine Würfel schneiden. Für die Dekoration 8 EL der Gemüsewürfel beiseitestellen. Die restlichen Gemüsewürfel in einen Multi Zerkleinerer geben und fein pürieren. Die Suppe mit Öl, Essig, Salz und Pfeffer würzen. Die kalte Suppe auf zwei Schüsselchen verteilen. Die Toastbrotscheiben toasten und in 3 Teile einteilen. Jede Suppenschüssel mit den Toastbrotscheiben belegen, etwas von den Gemüsewürfeln darauf verteilen und mit etwas Olivenöl beträufeln. Mit Salz und Pfeffer bestreuen."}],"recipe_tips":[{"headline":"Reifes Gemüse ist ein Muss bei dieser Suppe","content":"Bei dieser Suppe ist es wichtig reife aromatisches Gemüse auszuwählen, daher eignet sich die Herstellung dieser Suppe besonders im Sommer, auch weil sie sehr erfrischend ist."}]}</CustomStructuredRecipeJson>
+    <Title>Gazpacho Andaluz</Title>
+    <Headline position="1">Gazpacho Andaluz</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-16T14:59:32+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ptdq4hash153720wx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Tomaten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salatgurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="rot" plural="Paprika" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="gelb" plural="Paprika" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11056" amount="0.5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weinessig" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="10" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Etwas" plural="Basilikum" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="12" prefix="etwas" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="13" prefix="etwas schwarzer" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" position="14" prefix="etwas" plural="Basilikum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Toastbrote" position="15"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="16"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Suppe</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ptdvh84131h4c0520wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die kalte Suppe das Gemüse waschen, putzen und trocknen. Alles in kleinste, feine Würfel schneiden. Für die Dekoration 4 EL der Gemüsewürfel pro Portion beiseitestellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6942a16591a3d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die restlichen Gemüsewürfel in einen Multi-Zerkleinerer geben und fein pürieren. Die Suppe mit Öl, Essig, Salz und Pfeffer würzen. Die kalte Suppe auf Schüsselchen verteilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6942a16c7ed7f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Toastbrotscheiben toasten und in 3 Teile schneiden. Die Suppe mit den Toastbrotscheiben belegen, etwas von den Gemüsewürfeln darauf verteilen und mit etwas Olivenöl beträufeln. Mit Salz und Pfeffer bestreuen und servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83ptdvh8a8013dilt20wx">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bei dieser Suppe ist es wichtig reife aromatisches Gemüse auszuwählen, daher eignet sich die Herstellung dieser Suppe besonders im Sommer, auch weil sie sehr erfrischend ist.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Reifes Gemüse ist ein Muss bei dieser Suppe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe3wnmeit12w7qnjci" file_variant="master" position="1">Gazpacho Andaluz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6942a18497164">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe3uvhfcg1n6qd7dmu" file_variant="master" position="1">Gazpacho Andaluz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6942a1868a227">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe3y0q5he14043sjf8" file_variant="master" position="1">Gazpacho Andaluz</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786mlctp7no1aftk3vc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T07:49:34+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:53:12+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>732188</CustomCenshareId>
+    <Title position="1">Meerrettichsauce</Title>
+    <Headline position="1">Meerrettichsauce</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T14:55:12+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="06b72d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt7869zvmodv518686javd" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="3" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="06b770">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">200 g Butter schmelzen, abkühlen, Eiweiß abschöpfen. Sahne steif schlagen. 3 Eigelbe mit 3 EL Wasser überm Wasserbad cremig rühren. Teelöffelweise Butter darunter schlagen. Mit Salz, Pfeffer, Zitronensaft würzen. Sahne, geriebenen Meerrettich unterheben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bejf7o5qh16o9mq72g" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T14:55:12+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_732188</displayname>
+      <doc_id id="doc786mlctp7no1aftk3vc"/>
+      <hash>2aaaf2e81a0d8ecc38cdcaa254bc51f6</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T14:55:12+01:00</modified>
+      <size>1850</size>
+      <subpath>2019/12-08/7b/44/file78bejf7o5qh16o9mq72g.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc808hl659p698hn7c8ge" dcx-version="6.3.1" version="1.0">
+  <created>2025-04-16T18:06:02+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-02-13T10:00:44+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Keywords topic="tmt6pbih4ooib91cl8in14f"/>
+    <Keywords topic="tmt6p3axsrmmrcqlguwkmb"/>
+    <Keywords topic="tmt7ajiwh7fvx016zl8zof0"/>
+    <Keywords topic="tmt80ehxz16dqt1gg83yw3o"/>
+    <Keywords topic="tmt71z9tf5bcs2m9gpp33m"/>
+    <Keywords topic="tmt6regsmv4u47bq8oim43"/>
+    <Keywords topic="tmt6p51qs4gcueqxrhs8lx"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Karamellcreme Dessert","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Karamellkekse oder Haferkekse","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Lotus-Kekse)"},{"amount":125,"amountTo":null,"ingredient_name":"fertige Karamellsauce","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Doppelrahm-Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Vollmilchschokolade","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"4 Kekse zum Garnieren beiseite legen. Restliche Kekse in einem Alleszerkleinerer grob zerbröseln. Die Ränder der Dessertgläser (á 250 ml) in etwas Karamellsauce befeuchten und in die Keksbrösel drücken."},{"headline":null,"content":"Quark mit Frischkäse glatt rühren. Schlagsahne mit Zucker steif schlagen und unter die Creme heben. Ca. 1/3 der Keksbrösel in die Dessertgläser füllen. Etwa 2 EL der Creme darauf geben und glatt streichen. Mit Karamellsauce bedecken. Weitere Brösel, Karamellsauce und Cremeschichten abwechselnd in die Gläser geben. Mit den beiseite gelegten Keksen und nach Belieben weiterer Karamellsauce garnieren. 30 Minuten kaltstellen und servieren."}],"recipe_tips":[{"headline":"Statt fertiger Karamellsauce","content":"...kannst du auch eine eigene kochen. Hier findest du das passende Rezept (Link Karamellsauce einfachbacken„). Statt Frischkäse kannst du auch griechischen Joghurt verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Karamellcreme Dessert</Title>
+    <CustomRecipeNoteInformation position="1">Portionsart: Gläser (á 250 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Karamellcreme Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-04-16T18:06:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="808hl3eh23b1hnma88ge">
+      <CustomRecipeIngredient topic="tmt808hl65d5gj1f1cdu8ge" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" position="7" prefix="Nach Belieben etwas " plural="geriebene Vollmilchschokolade"/>
+      <CustomRecipeIngredient topic="tmt82lqhk42iydm7o52cgt" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. Lotus-Kekse)" position="1" plural="Haferfleks" prefix="Karamellkekse oder"/>
+      <CustomRecipeIngredient topic="tmt7g19swcv55213pac038h" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Karamellsauce" prefix="fertige "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Doppelrahm-Frischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="808hl659nqgjwr7b8ge">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">4 Kekse zum Garnieren beiseite legen. Restliche Kekse in einem Alleszerkleinerer grob zerbröseln. Die Ränder der Dessertgläser (á 250 ml) in etwas Karamellsauce befeuchten und in die Keksbrösel drücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hl659o2wxgfav8ge">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Quark mit Frischkäse glatt rühren. Schlagsahne mit Zucker steif schlagen und unter die Creme heben. Ca. 1/3 der Keksbrösel in die Dessertgläser füllen. Etwa 2 EL der Creme darauf geben und glatt streichen. Mit Karamellsauce bedecken. Weitere Brösel, Karamellsauce und Cremeschichten abwechselnd in die Gläser geben. Mit den beiseite gelegten Keksen und nach Belieben weiterer Karamellsauce garnieren. 30 Minuten kaltstellen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="808hl659obr9vw968ge">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">...kannst du auch eine eigene kochen. Hier findest du das passende Rezept (Link Karamellsauce einfachbacken„). Statt Frischkäse kannst du auch griechischen Joghurt verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt fertiger Karamellsauce</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6kpn32o1a06evalb" file_variant="master" position="1">Karamell-Dessert_14887.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_680f4102dedb2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6kdr1k5trsquakk" file_variant="master" position="1">Karamell_Dessert_14879.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_680f41042a001">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6k92060d57apilu" file_variant="master" position="1">Karamell_Dessert_14772.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_680f41057ab07">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6k35ooy15bh361dnx" file_variant="master" position="1">Karamell_Dessert_14785.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

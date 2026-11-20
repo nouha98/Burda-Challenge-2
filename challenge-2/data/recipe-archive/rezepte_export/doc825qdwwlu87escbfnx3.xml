@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825qdwwlu87escbfnx3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T12:24:54+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-29T12:32:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Orangenkompott","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Orangen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Orangenlikör","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sternanis","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kardamom","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für das Orangenkompott 2 Orangen schälen und filetieren. Dabei möglichst alle weißen Stücke entfernen. Orangenfilets beiseitelegen. Die beiden restlichen Orangen halbieren und den Saft auspressen. Zitrone ebenfalls halbieren und den Saft auspressen, mit Orangensaft mischen."},{"headline":null,"content":"In einem Topf den Zucker auf mittlerer Stufe vorsichtig karamellisieren lassen (nicht umrühren), dann mit der Orangen-Zitronen-Mischung ablöschen. Jetzt mit einem Schneebesen umrühren und auf mittlerer Hitze weiter erwärmen, bis sich alle Zuckerklümpchen wieder aufgelöst haben. Jetzt den Orangenlikör, die eingeritzte Vanillschote, den Sternanis und Kardamom hinzufügen."},{"headline":null,"content":"Die Mischung ca. 10 Min. einköcheln lassen. Ca. 2 EL des Safts in eine Schale geben und mit der Speisestärke vermischen. Diese Mischung wieder in die Flüssigkeit im Topf geben und kurz andicken lassen. Dann die Masse vom Herd nehmen. Orangenfilets hinzugeben und alles in ein Bügelglas geben, direkt verschließen. Im Kühlschrank ist dieses Kompott mindestens 2 Wochen haltbar. Das Kompott schmeckt wunderbar zu Eis, Soufflé oder Mousse au Chocolat."}],"recipe_tips":[{"headline":null,"content":"Besonders gerne genießen wir dieses Orangenkompott zu unserem Lieblingsrezept für Mousse au Chocolat. Das musst du probieren!"}]}</CustomStructuredRecipeJson>
+    <Title>Orangenkompott</Title>
+    <Headline position="1">Orangenkompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T12:24:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825qduh561h11pds3nx3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" plural="Orangen"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8491" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangenlikör" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Sternanis" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7071" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Kardamom" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825qdwwk5h519rzhonx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Orangenkompott 2 Orangen schälen und filetieren. Dabei möglichst alle weißen Stücke entfernen. Orangenfilets beiseitelegen. Die beiden restlichen Orangen halbieren und den Saft auspressen. Zitrone ebenfalls halbieren und den Saft auspressen, mit Orangensaft mischen. Vanilleschote einritzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825qdwwkn1xyt6ienx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einem Topf den Zucker auf mittlerer Stufe vorsichtig karamellisieren lassen (nicht umrühren), dann mit der Orangen-Zitronen-Mischung ablöschen. Jetzt mit einem Schneebesen umrühren und auf mittlerer Hitze weiter erwärmen, bis sich alle Zuckerklümpchen wieder aufgelöst haben. Jetzt den Orangenlikör, die eingeritzte Vanillschote, den Sternanis und Kardamom hinzufügen. Die Mischung ca. 10 Min. einköcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825qdwwkn9dryhs9nx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ca. 2 EL des Safts in eine Schale geben und mit der Speisestärke vermischen. Diese Mischung wieder in die Flüssigkeit im Topf geben und kurz andicken lassen. Dann die Masse vom Herd nehmen. Orangenfilets hinzugeben und alles in ein Bügelglas geben, direkt verschließen. Im Kühlschrank ist dieses Kompott mindestens 2 Wochen haltbar. Das Kompott schmeckt wunderbar zu Eis, Soufflé oder Mousse au Chocolat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68b1811b370e9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Im Kühlschrank ist dieses Kompott mindestens 2 Wochen haltbar. </CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Im Kühlschrank lagern</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr8y2aob97v0m1g1i" file_variant="master" position="1">Orangenkompott2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b181b7dcaaa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr8ux237kbgpbv996" file_variant="master" position="1">Orangenkompott_Step1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b181b957c51">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr8t7uypxntxq4g1i" file_variant="master" position="1">Orangenkompott_Step2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b181ba99e93">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr8w71q3dt3vqqfte" file_variant="master" position="1">Orangenkompott1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

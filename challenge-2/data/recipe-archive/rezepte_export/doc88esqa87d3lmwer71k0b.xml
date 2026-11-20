@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88esqa87d3lmwer71k0b" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-10T11:54:33+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-11-10T12:00:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="85"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtko8acludo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt88esszkmhx5krc0vnyt"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vollkornbrötchen","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Ruhen/Warten","duration":10},{"name":"Ruhen/Warten","duration":60},{"name":"Ruhen/Warten","duration":15},{"name":"Backen","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":0.25,"amountTo":null,"ingredient_name":"Frischhefe","unit":{"name":"Würfel"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"lauwarmes","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"TL"},"prefix":null,"suffix":"mit Fluorid"},{"amount":0.5,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Weizenvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Leinsamen","unit":{"name":"g"},"prefix":null,"suffix":"Saaten zum Bestreuen (z. B. Kürbiskerne, Sesam, Sonnenblumenkerne)"}]}],"preparation":[{"headline":null,"content":"Die Hefe in das lauwarme Wasser bröseln, Salz und Honig dazugeben und verrühren, bis sich die Hefe vollständig aufgelöst hat. Etwa 10 Minuten stehen lassen."},{"headline":null,"content":"Mehl in eine Schüssel geben und das Hefe-Wasser hinzufügen. Mindestens 5 Minuten mit den Händen, den Knethaken eines Handmixers oder mit Hilfe einer Küchenmaschine kneten, bis ein geschmeidiger Teig entsteht. Diesen zugedeckt an einem warmen Ort für ca. 60 Minuten gehen lassen."},{"headline":null,"content":"Nach der Gehzeit den Teig in 8 gleichgroße Teiglinge aufteilen und zu pfirsichgroßen Kugeln formen. Diese auf ein mit Backpapier ausgelegtes Backblech legen und nochmals 15 Minuten gehen lassen."},{"headline":null,"content":"Den Ofen auf 225 Grad Celsius (Ober-/Unterhitze) vorheizen. Brötchen nach Belieben mit verschiedenen Körnern und Saaten bestreuen und leicht andrücken. Eine feuerfeste Form mit Wasser befüllen und in den Ofen stellen. Die Brötchen vor dem Backen mit etwas Wasser benetzen und auf mittlerer Schiene etwa 20 Minuten backen. Mit der Klopfprobe prüfen: Klingen sie hohl, sind sie fertig."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Vollkornbrötchen</Title>
+    <Headline position="1">Vollkornbrötchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-10T11:54:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88esq8bb5c2gky4o1k0b">
+      <CustomRecipeIngredient topic="tmt7zg4j024otz1i5j3jbqf" amount="0.25" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" position="1" plural="frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="lauwarmes" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="mit Fluorid" plural="Jodsalz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11146" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenvollkornmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt7dvbsst35k617wx7d1sb" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="zum Bestreuen (z. B. Kürbiskerne, Sesam, Sonnenblumenkerne)" plural="Kerne" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88esqa871ypi9qwo1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Hefe in das lauwarme Wasser bröseln, Salz und Honig dazugeben und verrühren, bis sich die Hefe vollständig aufgelöst hat. Etwa 10 Minuten stehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esqa875lv1dzkup1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl in eine Schüssel geben und das Hefe-Wasser hinzufügen. Mindestens 5 Minuten mit den Händen, den Knethaken eines Handmixers oder mit Hilfe einer Küchenmaschine kneten, bis ein geschmeidiger Teig entsteht. Diesen zugedeckt an einem warmen Ort für ca. 60 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esqa875u9batiq1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nach der Gehzeit den Teig in 8 gleichgroße Teiglinge aufteilen und zu Kugeln formen (pfirsichgroß). Diese auf ein mit Backpapier ausgelegtes Backblech legen und nochmals 15 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esqa876001hbxnr1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Ofen auf 225 Grad Celsius (Ober-/Unterhitze) vorheizen. Brötchen nach Belieben mit verschiedenen Körnern und Saaten bestreuen und leicht andrücken. Eine feuerfeste Form mit Wasser befüllen und in den Ofen stellen. Bevor die Brötchen in den Ofen kommen, diese mit etwas Wasser benetzen. Etwa 20 Minuten auf mittlerer Schiene backen. (Klopfprobe machen, um festzustellen, ob sie durchgebacken sind. Klingt es hohl, sind die Brötchen fertig).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqidmodb7o1gchu1dug" file_variant="master" position="1">Vollkornbroetchen-hoch-2885.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6af2f93eb067e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi90qw0dtweduadud" file_variant="master" position="1">Vollkornbroetchen-Step1-2639.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6af2f9406d583">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi9ihk0ciav76cduf" file_variant="master" position="1">Vollkornbroetchen-Step2-2649.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6af2f94223039">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqidi4k8k61gmh9adub" file_variant="master" position="1">Vollkornbroetchen-quer-2859.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

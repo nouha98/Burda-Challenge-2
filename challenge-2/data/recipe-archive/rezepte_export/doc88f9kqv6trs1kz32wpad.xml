@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88f9kqv6trs1kz32wpad" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-11T09:46:00+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-11T09:53:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="720"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bidsbjscywwlbx8ut"/>
+    <CustomRecipeThesaurs topic="tmt828c3lblxnd13w060gcp"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <Source topic="tmt88f9oamp92crv39p1a04"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Weiße Bohnensuppe","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Marinieren","duration":720},{"name":"Garen","duration":60},{"name":"Zubereitung","duration":25}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Bohnenkerne","unit":{"name":"g"},"prefix":"weiße","suffix":"(getrocknet; alternativ 600 g weiße Bohnen aus der Dose, Abtropfgewicht)"},{"amount":1,"amountTo":null,"ingredient_name":"Suppengemüse","unit":{"name":"Bund"},"prefix":null,"suffix":"(Karotten, Knollensellerie, Lauch)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"(vorwiegend festkochend)"},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Speck","unit":{"name":"g"},"prefix":"gewürfelter","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Fleischbrühe","unit":{"name":"l"},"prefix":"Gemüse- oder","suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Majoran","unit":{"name":"EL"},"prefix":"getrockneter","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz mit Fluorid","unit":null,"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":"frische","suffix":null}]}],"preparation":[{"headline":null,"content":"Bohnen abwaschen, in einen Topf geben und mit kaltem Wasser bedeckt mindestens 12 Stunden, am besten über Nacht, einweichen."},{"headline":null,"content":"Bohnen abgießen, Einweichwasser wegschütten, mit ca. 1 l frischem Wasser ohne Salzzugabe auffüllen, zum Kochen bringen und ca. 1 Stunde bei mittlerer Hitze zugedeckt garen, bis die Bohnen weich sind."},{"headline":null,"content":"In der Zwischenzeit das Suppengemüse waschen, schälen bzw. putzen und fein würfeln. Zwiebel abziehen und würfeln. Knoblauch abziehen und fein hacken. Kartoffeln schälen, waschen und in ca. 1,5 cm große Würfel schneiden."},{"headline":null,"content":"Öl in einem weiten Topf erhitzen, Speckwürfel darin kurz anbraten. Zwiebelwürfel zugeben und 2–3 Minuten glasig dünsten. Knoblauch, Suppengemüse- und Kartoffelwürfel zufügen und 1–2 Minuten mitdünsten. Brühe angießen, Majoran zugeben, einmal aufkochen und anschließend ca. 25 Minuten bei mittlerer Hitze köcheln lassen, bis die Kartoffeln gar sind."},{"headline":null,"content":"Die gekochten Bohnen auf ein Sieb abgießen, unter die Suppe rühren und alles kurz heiß werden lassen. Nach Belieben mit Pfeffer und etwas Salz abschmecken."},{"headline":null,"content":"Petersilie abbrausen, trockenschütteln und fein hacken. Die fertige Suppe damit bestreuen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Weiße Bohnensuppe</Title>
+    <Headline position="1">Weiße Bohnensuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-11T09:46:00+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88f9kke4wc2ik3kvpad">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5026" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiße" suffix="(getrocknet; alternativ 600 g weiße Bohnen aus der Dose, Abtropfgewicht)" plural="Bohnenkerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" prefix="Gemüse- oder" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Fleischbrühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10426" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="(Karotten, Knollensellerie, Lauch)" plural="Suppengemüse" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(vorwiegend festkochend)" plural="Kartoffeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10261" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gewürfelter" plural="Speck" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7906" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="getrockneter" plural="Majoran" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="11" suffix="mit Fluorid" plural="Jodsalz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="frische" plural="Petersilie" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6olg8kfvcpad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Bohnen abwaschen, in einen Topf geben und mit kaltem Wasser bedeckt mindestens 12 Stunden, am besten über Nacht, einweichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6s4y6y6plpad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Bohnen abgießen, Einweichwasser wegschütten, mit ca. 1 l frischem Wasser ohne Salzzugabe auffüllen, zum Kochen bringen und ca. 1 Stunde bei mittlerer Hitze zugedeckt garen, bis die Bohnen weich sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6sa01fhc6spad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit das Suppengemüse waschen, schälen bzw. putzen und fein würfeln. Zwiebel abziehen, würfeln. Knoblauch abziehen, fein hacken. Kartoffeln schälen, waschen und in ca. 1,5 cm große Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6sdxc0jnnpad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Öl in einem weiten Topf erhitzen, Speckwürfel darin kurz anbraten. Zwiebelwürfel zugeben und 2–3 Minuten glasig dünsten. Nun den Knoblauch und die Suppengemüse-Würfel sowie die Kartoffelwürfel zufügen, alles 1-2 Minuten mitdünsten. Brühe angießen, Majoran zugeben, einmal aufkochen und anschließend ca. 25 Minuten bei mittlerer Hitze köcheln lassen, bis die Kartoffeln gar sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6slx1mar70pad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die gekochten Bohnen auf ein Sieb abgießen, unter die Suppe rühren, alles kurz heiß werden lassen. Nach Belieben mit Pfeffer und ein wenig Salz abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88f9kqv6spt1fwokvpad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Petersilie abbrausen, trockenschütteln und fein hacken. Die fertige Suppe damit bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79fcwhvz7nc1bqun08v" file_variant="master" position="1">Weisse_Bohnensuppe_57502.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6af42cf680178">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdjjwq9eq14kd875vf" file_variant="master" position="1">Weisse_Bohnensuppe_57251.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6af42cf921922">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdbmbgk3c2q4wuicf" file_variant="master" position="1">Weisse_Bohnensuppe_57260.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6af42d00f247e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdkoxxfns1chbsekd7" file_variant="master" position="1">Weisse_Bohnensuppe_57503.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6af42d040f412">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdmme439z18fmhnica" file_variant="master" position="1">Weisse_Bohnensuppe_57498.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_6af42d0c65a4b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCredit position="6">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdwar61g7thzoh515" file_variant="master" position="1">Weisse_Bohnensuppe_57497.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

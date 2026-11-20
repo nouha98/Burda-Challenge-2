@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85wx3lj8drnvsenf1c" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-19T14:47:51+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-05-19T15:00:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsw218sdv7do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt85wx9g887bkhzarf4h"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Limoncello-Tiramisu","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":120}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitronenschale","unit":{"name":"TL"},"prefix":null,"suffix":"fein abgerieben"},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"feine Schalenstreifen (Zesten) von ca. 1 Bio-Zitrone"},{"amount":2,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Vollmilchjoghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"Stück"},"prefix":"ca.","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Limoncello","unit":{"name":"ml"},"prefix":null,"suffix":"(italienischer Zitronenlikör; ersatzweise evtl. Orangensaft verwenden)"}]}],"preparation":[{"headline":null,"content":"Mascarpone mit Zitronensaft, fein abgeriebener Zitronenschale sowie mit Zucker, Vanille und Joghurt verrühren."},{"headline":null,"content":"Sahne steif schlagen und unterheben."},{"headline":null,"content":"Löffelbiskuits (bis auf evtl. einen zum Garnieren) in Stücke brechen."},{"headline":null,"content":"Dessertgläser oder Schalen mit einer Keksschicht auslegen. Kekse mit etwas Limoncello beträufeln und mit einem Drittel der Creme bedecken. Vorgang zweimal wiederholen."},{"headline":null,"content":"Tiramisu mindestens 2 Stunden kalt stellen."},{"headline":null,"content":"Vor dem Servieren evtl. übrigen Biskuit fein zerbröseln, Tiramisu damit bestreuen und mit Zitronenzesten garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Limoncello-Tiramisu</Title>
+    <Headline position="1">Limoncello-Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-19T14:47:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85wx3pcbnv4huedrl61">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt7tb9s8afldxz06c3mvf" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Bio-Zitronenschale" position="3" prefix="fein abgeriebene"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="feine Schalenstreifen (Zesten) von ca. 1 Bio-Zitrone" plural="Bio-Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10921" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollmilchjoghurt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="20" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="ca." plural="Löffelbiskuits" position="9"/>
+      <CustomRecipeIngredient topic="tmt7g9jxxw87ar3eos51fi" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(italienischer Zitronenlikör; ersatzweise evtl. Orangensaft verwenden)" plural="Limoncello" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85wx3rulle01kq4yrl61">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mascarpone mit Zitronensaft, fein abgeriebener Zitronenschale sowie mit Zucker, Vanille und Joghurt verrühren. Sahne steif schlagen und unterheben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85wx3rulnd3j2ks3l61">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Löffelbiskuits (bis auf evtl. eins zum Garnieren) in Stücke brechen. Dessertgläser oder Schalen mit einer Keksschicht auslegen. Kekse mit etwas Limoncello beträufeln und mit einem Drittel der Creme bedecken. Vorgang zweimal wiederholen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85wx3rulnhg6xx1nl61">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Tiramisu mindestens 2 Stunden kalt stellen. Vor dem Servieren evtl. übrigen Biskuit fein zerbröseln, Tiramisu damit bestreuen und mit Zitronenzesten garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Limoncello-Tiramisu in Dessertgläsern</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">The Picture Pantry</ImageCredit>
+      <DocumentRef doc_id="doc7rqoich193pug12xj2s" file_variant="master" position="1">Limoncello-Tiramisu in Dessertgläsern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

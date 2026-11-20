@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83tatisimh2ai3szufh" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-23T09:44:21+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-23T09:49:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Heringsalat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"festkochende Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"kleine"},{"amount":3,"amountTo":null,"ingredient_name":"Matjes","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 400 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"rote Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Cornichons","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Joghurt natur","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":"große","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"Spritzer"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Kartoffeln waschen und mit etwas Salz, ca. 20 Minuten weichkochen, dann schälen und in 2x2 cm Stücke schneiden. Die Matjes abbrausen und trockentupfen, dann in ca. 2x2 cm Stücke schneiden. Die Schwanzflosse entfernen. Den Apfel vierteln, entkernen und in dünne Stücke schneiden. Die rote Zwiebel schälen und in dünne Streifen schneiden."},{"headline":null,"content":"Die Cornichons in feine Scheiben schneiden."},{"headline":null,"content":"In einer Schüssel die Mayonnaise mit dem Joghurt, dem Salz, dem Pfeffer, Zitronensaft und etwas Cornichon-Sud glattrühren. Alle geschnittenen Zutaten dazugeben und vorsichtig zu einem cremigen Salat verrühren."},{"headline":null,"content":"Die Petersilie vom Stiel abzupfen und grob hacken. Kurz vor dem Servieren darüber streuen."}],"recipe_tips":[{"headline":null,"content":"Dazu passt am besten frisches Baguette oder Sauerteigbrot."}]}</CustomStructuredRecipeJson>
+    <Title>Heringsalat</Title>
+    <Headline position="1">Heringssalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-23T09:44:21+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83tatgdkzpyxg5j7ufh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8096" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 400 g)" position="3" prefix="kleine" plural="Matjesfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6476" position="11" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="aus dem Cornichonglas" plural="Gurkenwasser"/>
+      <CustomRecipeIngredient topic="tmt807t3j1houu7y6g3evv" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="kleine" plural="festkochende Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Äpfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" plural="rote Zwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5456" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="6" plural="Cornichon"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mayonnaise" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="8" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="9" amount="1" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" plural="Zitronensaft" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83tatisiei9j99qiufh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und mit etwas Salz in einem Topf mit Wasser ca. 20 Minuten weichkochen. Die Kartoffeln schälen und in 2x2 cm große Stücke schneiden. Die Matjes abbrausen und trockentupfen. Die Fische ebenfalls in ca. 2x2 cm große Stücke schneiden. Die Schwanzflosse entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Heringssalat </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83tatisigo3pwnjrufh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Apfel waschen, vierteln, entkernen und in dünne Stücke schneiden. Die rote Zwiebel schälen und in dünne Streifen schneiden. Die Cornichons in feine Scheiben schneiden. In einer Schüssel die Mayonnaise mit dem Joghurt, dem Salz, dem Pfeffer, dem Zitronensaft und etwas Cornichon-Sud glattrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83tatisigsk198b58ufh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Alle geschnittenen Zutaten (Kartoffeln, Matjes, Apfel, Zwiebel, Cornichons) zur Salatsoße geben. Die Petersilie vom Stiel abzupfen und grob hacken. Die Hälfte der gehackten Petersilie ebenfalls zur Soße geben und alles vorsichtig zu einem cremigen Salat verrühren. Kurz vor dem Servieren die andere Hälfte der Petersilie über den Salat streuen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83tatisigz51idsu4ufh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dazu passt am besten frisches Baguette oder Sauerteigbrot.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Beilage</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quxebu8youdifd1qc4" file_variant="master" position="1">Heringssalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_694a57a70e136">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quwq05x4y4zg6z9d3" file_variant="master" position="1">Heringssalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_694a57a855737">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quy2twr49um78h8kr" file_variant="master" position="1">Heringssalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_694a57aa16c35">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quysywarntzgco902" file_variant="master" position="1">Heringssalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

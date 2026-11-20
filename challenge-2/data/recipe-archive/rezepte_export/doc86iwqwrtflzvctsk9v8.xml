@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86iwqwrtflzvctsk9v8" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T09:55:53+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-01T10:02:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <Source topic="tmt86iwtt3g98htq3w4nsw"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Möhrengemüse mit Kartoffeln","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Garen","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":"frisch geriebene","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilienblätter","unit":{"name":"Handvoll"},"prefix":null,"suffix":"(optional)"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Möhren und Kartoffeln waschen und schälen. Beides in ca. 2 cm große Würfel bzw. Stücke schneiden. Zwiebel abziehen und fein würfeln."},{"headline":null,"content":"Die Hälfte der Butter (1 EL) in einem Topf erhitzen. Zwiebeln darin 2–3 Minuten glasig dünsten. Dann Möhren und Kartoffeln zufügen, kurz mitbraten und mit Gemüsebrühe aufgießen."},{"headline":null,"content":"Gemüse aufkochen lassen und ca. 20 Minuten garen, bis alles weich ist. Topf vom Herd nehmen und das Gemüse samt Garflüssigkeit mithilfe eines Stampfers je nach gewünschter Konsistenz grob zerdrücken."},{"headline":null,"content":"Restliche Butter (1 EL) unter das Möhrengemüse mischen und alles mit wenig Salz, Pfeffer und Muskatnuss abschmecken. Petersilienblättchen grob zerzupfen und über den Möhren-Kartoffel-Stampf streuen. Mit Vollkornbrot servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Möhrengemüse mit Kartoffeln</Title>
+    <Headline position="1">Möhrengemüse mit Kartoffeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T09:55:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86iwqtoi7431jn5xj9v8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Möhren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch geriebene" plural="Muskatnuss" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8666" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" suffix="(optional)" plural="Petersilienblätter" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="86iwqwjbdhw4j8h29v8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86iwqwrtes01509n9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Möhren und Kartoffeln waschen und schälen. Beides in ca. 2 cm große Würfel bzw. Stücke schneiden. Zwiebel abziehen und fein würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwqwrtezm5jxcq9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Hälfte der Butter (1 EL) in einem Topf erhitzen. Zwiebeln darin 2–3 Minuten glasig dünsten. Dann Möhren und Kartoffeln zufügen, kurz mitbraten und mit Gemüsebrühe aufgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwqwrtf38sfvli9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüse aufkochen lassen und ca. 20 Minuten garen, bis alles weich ist. Topf vom Herd nehmen und das Gemüse samt Garflüssigkeit mithilfe eines Stampfers je nach gewünschter Konsistenz grob zerdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwqwrtf6wtbpqt9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Restliche Butter (1 EL) unter das Möhrengemüse mischen und alles mit wenig Salz, Pfeffer und Muskatnuss abschmecken. Petersilienblättchen grob zerzupfen und über den Möhren-Kartoffel-Stampf streuen. Mit Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrengemüse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18aq35vkpuzl83exu" file_variant="master" position="1">7-Moehrengemuese-hoch-4639.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44c971509c9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrengemüse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h188h35ca81csye0exj" file_variant="master" position="1">7-Moehrengemuese-Step1-14387.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44c97316581">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrengemüse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18i97d19u89ugfexi" file_variant="master" position="1">7-Moehrengemuese-Step-2-4594.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a44c97579a16">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrengemüse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18iwlihk25gi4uexr" file_variant="master" position="1">7-Moehrengemuese-quer-4632.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

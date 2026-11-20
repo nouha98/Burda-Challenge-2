@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81y2lkt37sx11gw9u6as" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-14T14:35:29+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-16T11:53:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ingwer Limonade","recipe_seo_headline":"Ingwer Limonade","servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Limonade","ingredients":[{"amount":10,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 10 cm)"},{"amount":2,"amountTo":null,"ingredient_name":"Bio-Zitronen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Minze","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Limonade mit einem Teelöffel die Haut des Ingwers abschaben. Ingwer danach rein reiben. Zitronen heiß abbrausen, trockenreiben. Die Schale einer Zitrone mit einem Sparschäler abziehen, Zitrone auspressen. Andere Zitrone in acht Scheiben schneiden, beiseitelegen."},{"headline":null,"content":"Ingwer, Zitronensaft und Zucker verrühren, Hälfte des Mineralwassers zugeben, mind. 30 Minuten im Kühlschrank ziehen lassen."},{"headline":null,"content":"Limonade durch ein Sieb in eine Karaffe füllen. Mit dem restlichen Mineralwasser auffüllen. Eiswürfel und Zitronenscheiben auf vier Gläser verteilen, Limonade eingießen und mit Minze garniert servieren."}],"recipe_tips":[{"headline":"Limette","content":"Statt der Zitronen kannst du auch zwei Limetten verwenden. So erhält deine Limonade nochmals einen neuen Twist."}]}</CustomStructuredRecipeJson>
+    <Title>Ingwer Limonade</Title>
+    <CustomRecipeSeoTitle position="1">Ingwer Limonade</CustomRecipeSeoTitle>
+    <Headline position="1">Ingwer Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-14T14:35:29+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81y2lielt1y1g1ihc6as">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="10" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 10 cm)" plural="Ingwer" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rohrohrzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Mineralwasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas frische" position="5" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Limonade</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81y2lkt2mgxigcxl6as">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Limonade mit einem Teelöffel die Haut des Ingwers abschaben. Ingwer danach rein reiben. Zitronen heiß abbrausen, trockenreiben. Die Schale einer Zitrone mit einem Sparschäler abziehen, Zitrone auspressen. Andere Zitrone in acht Scheiben schneiden, beiseitelegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y2lkt2v6r14uxmx6as">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ingwer, Zitronensaft und Zucker verrühren, Hälfte des Mineralwassers zugeben, mind. 30 Minuten im Kühlschrank ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y2lkt2vea1f4z9l6as">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Limonade durch ein Sieb in eine Karaffe füllen. Mit dem restlichen Mineralwasser auffüllen. Eiswürfel und Zitronenscheiben auf vier Gläser verteilen, Limonade eingießen und mit Minze garniert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81y2lkt2vjq1c392t6as">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt der Zitronen kannst du auch zwei Limetten verwenden. So erhält deine Limonade nochmals einen neuen Twist.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Limette</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81f40dnkuo3hbjyua03" file_variant="master" position="1">IngwerLimonade1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a0550823b56">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81f40assgyb1h65sj9xc" file_variant="master" position="1">IngwerLimonadeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a05509cc20d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81f407lhzmtuynhta2b" file_variant="master" position="1">IngwerLimonade2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

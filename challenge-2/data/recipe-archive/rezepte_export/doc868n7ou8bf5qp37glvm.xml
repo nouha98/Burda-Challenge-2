@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc868n7ou8bf5qp37glvm" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-11T10:28:29+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-06-11T10:34:01+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4-5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="70"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt868na91psq9qanhtmdw"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Karamellisiertes Apfelkompott","recipe_seo_headline":null,"servings":{"amount":4.5,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":70},{"name":"Garen","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":217,"kilojoule":908,"carbonhydrates":55,"fat":1,"protein":1,"breadunit":5}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1250,"amountTo":null,"ingredient_name":"Äpfel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stange"},"prefix":"lang","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Weißwein","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Äpfel abbrausen, schälen, vierteln, entkernen und klein würfeln."},{"headline":null,"content":"Die Vanilleschote längs halbieren, das Mark herausschaben und die Schote in 4–5 Stücke schneiden."},{"headline":null,"content":"Zitronensaft mit 350 ml Wasser mischen."},{"headline":null,"content":"Zucker in einem Topf karamellisieren. Die Äpfel unterrühren. Alles mit Weißwein und Zitronenwasser ablöschen. Dann Vanillemark und -schotenstücke untermischen."},{"headline":null,"content":"Alles 20 Minuten unter gelegentlichem Rühren köcheln lassen."},{"headline":null,"content":"Dann das Kompott bis ca. 2,5 cm unter den Rand in saubere, heiß ausgespülte Gläser füllen und die Gläser sofort verschließen."},{"headline":null,"content":"Die Gläser im Einkochtopf bei 90 Grad ca. 30 Minuten einkochen."}],"recipe_tips":[{"headline":"Haltbarkeit","content":"Ungeöffnet mind. 3 Monate haltbar."}]}</CustomStructuredRecipeJson>
+    <Title>Karamellisiertes Apfelkompott</Title>
+    <CustomRecipeNutritionalValueCalories position="1">217</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">908</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">55</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">5</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Karamellisiertes Apfelkompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-11T10:28:29+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="868n7t8i8dj14ovij263">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Äpfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="lang" plural="Vanilleschoten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weißwein" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="868n7ujj1zk7qqtw263">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Äpfel abbrausen, schälen, vierteln, entkernen und klein würfeln. Die Vanilleschote längs halbieren, das Mark herausschaben und die Schote in 4–5 Stücke schneiden. Zitronensaft mit 350 ml Wasser mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="868n7ujj5wm1365pb263">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Zucker in einem Topf karamellisieren. Die Äpfel unterrühren. Alles mit Weißwein und Zitronenwasser ablöschen. Dann Vanillemark und -schotenstücke untermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="868n7ujj60jwl4wg263">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Alles 20 Minuten unter gelegentlichem Rühren köcheln lassen. Dann das Kompott bis ca. 2,5 cm unter den Rand in saubere, heiß ausgespülte Gläser füllen und die Gläser sofort verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="868n7ujj68518rjbs263">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="7">Die Gläser im Einkochtopf bei 90 Grad ca. 30 Minuten einkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="7">Schritt 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="868n7ujj6c87je71263">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Haltbarkeit: Ungeöffnet mind. 3 Monate haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6a2a72958f0d1">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Sie haben keinen Kochtopf: Alternativ die Gläser in einen großen Kochtopf stellen und so viel heißes Wasser angießen, dass die Gläser mindestens zur Hälfte bedeckt sind. Erhitzen, mit einem passenden Deckel zudecken, mit dem Garthermometer die Temperatur checken.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Eingemachtes karamellisiertes Apfelkompott</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Fotos mit Geschmack</ImageCredit>
+      <DocumentRef doc_id="doc7p543y7knig10akbbg6y" file_variant="master" position="1">Eingemachtes karamellisiertes Apfelkompott</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

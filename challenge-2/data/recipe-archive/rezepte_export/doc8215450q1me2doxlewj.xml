@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8215450q1me2doxlewj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T13:58:53+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T09:21:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rote Grütze","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die rote Grütze","ingredients":[{"amount":175,"amountTo":null,"ingredient_name":"Kirschsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Beerenmischung","unit":{"name":"g"},"prefix":"tiefgekühlte","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für die Vanillesoße","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanillepuddingpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Rote Grütze Kirschsaft in einen Topf geben. Dabei 3 EL davon in einen Messbecher geben. Speisestärke hinzugeben und kurz mit einem Schneebesen verrühren."},{"headline":null,"content":"Zum restlichen Kirschsaft im Topf TK-Beerenmischung und Zucker hinzugeben und kurz verrühren. Masse zum Kochen bringen, dann die Kirschsaft-Speisestärke-Mischung hinzugeben und kurz verrühren."},{"headline":null,"content":"Die Mischung nochmal kurz aufkochen, dann ca. 1 Minute köcheln lassen. Die Masse sollte jetzt langsam dickflüssiger werden. Rote Grütze vom Herd nehmen und abkühlen lassen."},{"headline":null,"content":"Für die Vanillesoße Milch mit Vanillepuddingpulver und Zucker in einen Topf geben, mit einem Schneebesen glattrühren, sodass keine Klümpchen mehr übrig sind. Flüssigkeit unter Rühren zum Kochen bringen. 1-2 Minuten unter Rühren köcheln lassen, dann vom Herd nehmen und ebenfalls abkühlen lassen."},{"headline":null,"content":"Rote Grütze auf Dessertgläser verteilen und nach Belieben mit Vanillesoße genießen."}],"recipe_tips":[{"headline":null,"content":"Falls du keine Speisestärke im Haus hast, kannst du alternativ auch einen Esslöffel Puddingpulver zum Andicken der Roten Grütze nehmen."}]}</CustomStructuredRecipeJson>
+    <Title>Rote Grütze</Title>
+    <Headline position="1">Rote Grütze</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T13:58:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821542zj3k5tse7dewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7196" amount="175" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kirschsaft" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Speisestärke" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4856" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="tiefgekühlte" plural="Beerenmischung" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die rote Grütze</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8215445v16fhby33ewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10806" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillepuddingpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Vanillesoße</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8215450puxw6n6c8ewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die rote Grütze Kirschsaft in einen Topf geben. Dabei 3 EL davon in einen Messbecher geben. Speisestärke in den Messbecher geben und kurz mit einem Schneebesen verrühren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8215450pv8x17158rewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum restlichen Kirschsaft im Topf TK-Beerenmischung und Zucker hinzugeben und kurz verrühren. Masse zum Kochen bringen, dann die Kirschsaft-Speisestärke-Mischung hinzugeben und kurz verrühren. Die Mischung nochmal kurz aufkochen, dann ca. 1 Minute köcheln lassen. Die Masse sollte jetzt langsam dickflüssiger werden. Rote Grütze vom Herd nehmen und abkühlen lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8215450pvedif3u9ewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für die Vanillesoße Milch mit Vanillepuddingpulver und Zucker in einen Topf geben, mit einem Schneebesen glatt rühren, sodass keine Klümpchen mehr übrig sind. Flüssigkeit unter Rühren zum Kochen bringen. 1-2 Minuten unter Rühren köcheln lassen, dann vom Herd nehmen und ebenfalls abkühlen lassen. Rote Grütze auf Dessertgläser verteilen und nach Belieben mit Vanillesoße genießen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8215450pvuayig9xewj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls du keine Speisestärke im Haus hast, kannst du alternativ auch einen Esslöffel Puddingpulver zum Andicken der roten Grütze nehmen.
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Einfache Alternative zu Speisestärke</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

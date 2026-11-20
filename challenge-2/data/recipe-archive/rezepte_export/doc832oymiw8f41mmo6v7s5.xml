@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc832oymiw8f41mmo6v7s5" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-01T14:57:11+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-11-01T15:01:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbispuffer","recipe_seo_headline":"Kürbispuffer","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Hokkaidokürbis","unit":{"name":"Stück"},"prefix":"kleiner","suffix":"(à ca. 800g)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":100,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"Etwas","amountTo":null,"ingredient_name":"Salz und Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Cayennepfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":"(optional)"},{"amount":"Etwas","amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Braten"}]}],"preparation":[{"headline":null,"content":"Für die Kürbispuffer den Kürbis waschen, entkernen und grob raspeln. Zwiebel und Knoblauch abziehen und fein hacken."},{"headline":null,"content":"In einer großen Schüssel Eier verquirlen. Mehl zusammen mit Salz, Pfeffer sowie nach Belieben Cayennepfeffer dazugeben und alles miteinander vermischen. Geriebenen Kürbis, Zwiebel und Knoblauch ebenfalls in die Schüssel geben und alles gründlich vermengen."},{"headline":null,"content":"In einer großen Pfanne das Öl erhitzen und jeweils 1-2 EL der Masse in die Pfanne geben. Die Kürbispuffer bei mittlerer Hitze von jeder Seite 3-4 Minuten anbraten, bis sie goldbraun und knusprig sind. Die fertigen Puffer auf einem Teller mit Küchenpapier abtropfen lassen. Guten Appetit!"}],"recipe_tips":[{"headline":"Kürbispuffer mit Feta","content":"Unsere knusprigen Kürbispuffer bereiten wir auch gerne mit etwas Feta zu – so werden sie besonders würzig! Dafür krümeln wir etwa 150 g Feta (für 4 Portionen) und geben diesen zusammen mit dem geriebenen Kürbis in die Schüssel. Soo lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Kürbispuffer</Title>
+    <CustomRecipeSeoTitle position="1">Kürbispuffer</CustomRecipeSeoTitle>
+    <Headline position="1">Kürbispuffer</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-01T14:57:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="832oylesk7lzzdit7s5">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleiner" suffix="(à ca. 800g)" plural="Hokkaidokürbis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" amount="Etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="6" prefix="Etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="(optional)" plural="Cayennepfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="Etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Braten" plural="Sonnenblumenöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="832oymiw26atdpii7s5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Kürbis waschen, entkernen und grob raspeln. Zwiebel und Knoblauch abziehen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Kürbispuffer </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="832oymiw4mu1bpkfh7s5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer großen Schüssel Eier verquirlen. Mehl zusammen mit Salz, Pfeffer sowie nach Belieben Cayennepfeffer dazugeben und alles miteinander vermischen. Geriebenen Kürbis, Zwiebel und Knoblauch ebenfalls in die Schüssel geben und alles gründlich vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="832oymiw4s31bqa977s5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In einer großen Pfanne das Öl erhitzen und jeweils 1-2 EL der Masse in die Pfanne geben. Die Kürbispuffer bei mittlerer Hitze von jeder Seite 3-4 Minuten anbraten, bis sie goldbraun und knusprig sind. Die fertigen Puffer auf einem Teller mit Küchenpapier abtropfen lassen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="832oymiw4w7235x27s5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Unsere knusprigen Kürbispuffer bereiten wir auch gerne mit etwas Feta zu – so werden sie besonders würzig! Dafür krümeln wir etwa 150 g Feta (für 4 Portionen) und geben diesen zusammen mit dem geriebenen Kürbis in die Schüssel. Soo lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kürbispuffer mit Feta</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n6fx9ot1jg8zxo16ta" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690612a690af0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n6gi6i7epv2lp21bcc" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690612a856293">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n6g9jvijppa5awojt" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690612aa005e7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n6g518a7b6rh831b60" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

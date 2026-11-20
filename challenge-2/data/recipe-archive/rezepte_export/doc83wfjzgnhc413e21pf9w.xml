@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83wfjzgnhc413e21pf9w" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-29T12:00:32+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-29T12:05:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pellkartoffeln","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"kleine Kartoffeln, festkochend","unit":{"name":"g"},"prefix":null,"suffix":"z.B.: Nicola, Ditta"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Kartoffeln gut waschen und gegebenenfalls mit einer Gemüsebürste putzen. Dann die Kartoffeln in einen Topf geben und diesen zur Hälfte mit Wasser füllen. Das Salz dazugeben und die Kartoffeln ca. 30 Minuten kochen."},{"headline":null,"content":"Die Kartoffeln sind gar, wenn du mit einem Messer einstichst, die Kartoffel weich ist und kein Widerstand zu spüren ist. Die Kartoffeln abgießen, kurz mit kaltem Wasser abbrausen und mit einem kleinen Messer pellen."}],"recipe_tips":[{"headline":null,"content":"Je nach Größe der Kartoffel kann die Gardauer variieren. Einige Kümmelsamen im Kochwasser geben deinen Kartoffeln eine besondere Note."},{"headline":null,"content":"Dazu passt gut frische Butter, Meersalz und gehackte Petersilie."}]}</CustomStructuredRecipeJson>
+    <Title>Pellkartoffeln</Title>
+    <Headline position="1">Pellkartoffeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-29T12:00:32+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83wfjyuewtt171lkmf9w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B.: Nicola, Ditta" position="1" prefix="kleine festkochende" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83wfjzgn8i1coiwgf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln gut waschen und gegebenenfalls mit einer Gemüsebürste putzen. Die Kartoffeln in einen ausreichend großen Topf geben und diesen zur Hälfte mit Wasser füllen. Das Salz dazugeben und die Kartoffeln ca. 30 Minuten kochen. Je nach Größe der Kartoffel kann die Gardauer variieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Pellkartoffeln </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wfjzgnbk41bts7mf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Kartoffeln sind gar, wenn du mit einem Messer in eine Kartoffel stichst und die Kartoffel weich ist. Du spürst dann keinen Widerstand. Die Kartoffeln abgießen, kurz mit kaltem Wasser abbrausen und mit einem kleinen Messer pellen. Dazu die Schale mit dem Messer leicht einritzen und abziehen. Mit einem Dip oder als Beilage servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83wfjzgnbpi1bcmyaf9w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Einige Kümmelsamen im Kochwasser geben deinen Kartoffeln eine besondere Note. Einfach zusammen mit den Kartoffeln in das Wasser geben und mitkochen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Pellkartoffeln mal anders</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd4ywcdvo1dnrpqij4" file_variant="master" position="1">Pellkartoffeln</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6952607350ad8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd46cutirk67hkiw6" file_variant="master" position="1">Pellkartoffeln</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69526074f35cc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd3ajdazl1cy0bgt9y" file_variant="master" position="1">Pellkartoffeln</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69526075ecdd8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd5olntbqgefritub" file_variant="master" position="1">Pellkartoffeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e82hfe00qbbz52neqi" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-25T12:13:40+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2022-04-20T15:32:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <Creator topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <DateImported>2021-01-25T12:13:40+01:00</DateImported>
+    <CustomRecipeNoteInformation position="1">Zutaten für 1 Glas (ca. 300ml.)</CustomRecipeNoteInformation>
+    <Headline position="1">Matcha Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="1" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10181" position="2" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Sojadrinks" prefix="Milch, Mandel- oder"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8091" position="3" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="Pulver" plural="Matcha"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="4" amount="80" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="heißes" plural="Wasser"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">200 ml Milch, Mandel- oder Sojadrink in einen Topf geben und erhitzen.  Etwa ½ TL Matcha-Pulver in zwei Portionen mit 80 ml heißem Wasser übergießen und mit dem Schneebesen oder Milchaufschäumer schaumig schlagen. Ins Glas geben und mit der heißen Milch auffüllen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Paluchowska, Magdalena</ImageCredit>
+      <DocumentRef doc_id="doc7a6qq5esnmqftbxz94m" file_variant="master" position="1">Veganer Matcha Latte mit Kokosmilch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

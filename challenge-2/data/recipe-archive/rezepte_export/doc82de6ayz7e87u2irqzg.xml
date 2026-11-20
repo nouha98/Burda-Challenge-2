@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82de6ayz7e87u2irqzg" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-13T10:14:27+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-13T10:19:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganer Dattel Dip","recipe_seo_headline":"Veganer Datteldip – das leckere Blitzrezept!","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Datteln","unit":{"name":"g"},"prefix":null,"suffix":"(entsteint)"},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":"vegan","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"pflanzlicher Joghurt","unit":{"name":"g"},"prefix":"Ungesüßt","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Currypulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Cayennepfeffer","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten in den Mixer oder einen Zerkleinerer geben und mixen, bis eine feine Creme entsteht. Immer wieder eine Pause machen und den Dip von den Rändern nach unten schieben. Mit Salz und Pfeffer abschmecken und in saubere Einmachgläser füllen."},{"headline":null,"content":"Luftdicht verpackt und kühl gelagert hält sich der Aufstrich problemlos bis zu 2 Wochen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Veganer Dattel Dip</Title>
+    <CustomRecipeSeoTitle position="1">Veganer Datteldip – das leckere Blitzrezept!</CustomRecipeSeoTitle>
+    <Headline position="1">Veganer Dattel Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-13T10:14:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82de68hqaerlowwbqzg">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(entsteint)" plural="Datteln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="veganer" plural="Frischkäse" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ungesüßter pflanzlicher" position="4" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Currypulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Cayennepfeffer" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82de6ayywp51795muqzg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten in den Mixer oder einen Zerkleinerer geben und mixen, bis eine feine Creme entsteht. Immer wieder eine Pause machen und den Dip von den Rändern nach unten schieben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82de6ayyzqp1bsab3qzg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mit Salz und Pfeffer abschmecken und in saubere Einmachgläser füllen. Luftdicht verpackt und kühl gelagert hält sich der Aufstrich problemlos bis zu 2 Wochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Für eine orientalische Note...</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">...füge deinem veganen Datteldip einen Spritzer Zitronensaft und eine Prise Kreuzkümmel hinzu – perfekt zu Ofengemüse, Falafel oder Fladenbrot!</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299qqi5dysqh0uzfkm" file_variant="master" position="1">DatteL_Curry_Dip_26300.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c5290fcbd5a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299qs0k9lve3pd3pj7" file_variant="master" position="1">Dattel_Curry_Dip_26307.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

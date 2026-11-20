@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83i0wvwg0tvk8wf51blh" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T11:05:25+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-12-01T11:12:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <Source topic="tmt83i109f5wpxk7sie1bve"/>
+    <CustomRecipeNutritionalValueCalories position="1">90</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">380</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">12</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Papaya-Lassi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T11:05:25+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8561" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleine" plural="Papaya"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" position="2" amount="0.5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Vanilleschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" position="3" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Buttermilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10921" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Vollmilchjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="5" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11376" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" plural="Zitronenmelissenblätter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Papayas halbieren und entkernen. Eine Hälfte in vier Spalten teilen. Restliche Papaya-Hälften schälen. Vanilleschote längs aufschneiden, das Mark herauskratzen. Mark mit Papaya-Fruchtfleisch pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_692d691950543">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Buttermilch und Joghurt unter das Papaya-Fruchfleisch schlagen. Limette halbieren, Saft auspressen. Lassi mit Limettensaft und etwas Honig abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_692d691a20c15">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Drink in vier Gläser füllen. Papaya- Spalten an den Rand stecken, mit Zitronenmelisseblättchen garnieren und sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7a5d69vm3m01408sup9o" file_variant="master" position="1">Indisches Menü. Indischer Abend. Ein Menü wie im Märchen.</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

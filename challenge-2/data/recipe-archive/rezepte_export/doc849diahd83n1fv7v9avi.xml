@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc849diahd83n1fv7v9avi" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-23T16:33:56+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-23T17:45:03+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <Source topic="tmt849eeizbk3510ibljba7"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt9krdnwldo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cinnamon French Toast Sticks","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":480,"kilojoule":2009,"carbonhydrates":57,"fat":22,"protein":13,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Toastbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe M)"},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Apfelmus","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Rinde vom Toast abschneiden und Brot in Sticks schneiden. Eier, Milch und Salz in einer Schüssel verquirlen."},{"headline":null,"content":"Die Butter in einer Pfanne erhitzen. Die Sticks kurz vollständig in die Eimasse tauchen. Das Brot sollte sich nicht ganz mit der Flüssigkeit vollsaugen, sonst bricht es schnell und wird nicht knusprig."},{"headline":null,"content":"Sticks in der Butter rundherum goldbraun anbraten. Zucker und Zimt vermischen. Gebratene Sticks darin wenden und warm mit Apfelmus servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Cinnamon French Toast Sticks</Title>
+    <CustomRecipeNutritionalValueCalories position="1">480</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">57</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">13</CustomRecipeNutritionalValueProtein>
+    <Headline position="1">Cinnamon French Toast Sticks</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-23T16:33:56+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="849dibewpjl8lxkufl8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Toastbrote" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe M)" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1/4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4571" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Apfelmus" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="849didrmhvm1a8fvnfl8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Rinde vom Toast abschneiden und Brot in Sticks schneiden. Eier, Milch und Salz in einer Schüssel verquirlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="849didrmlhf1km3utfl8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Butter in einer Pfanne erhitzen. Die Sticks kurz vollständig in die Eimasse tauchen. Das Brot sollte sich nicht ganz mit der Flüssigkeit vollsaugen, sonst bricht es schnell und wird nicht knusprig. Sticks in der Butter rundherum goldbraun anbraten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="849didrmlldqay6ofl8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zucker und Zimt vermischen. Gebratene Sticks darin wenden und warm mit Apfelmus servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7a9hv0j0g9ko1vlnjmi" file_variant="master" position="1">S4097_HR_v-1</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

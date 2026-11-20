@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82027p24r1d138es8ebv" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-18T11:30:31+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-18T11:43:17+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananen-Lassi","recipe_seo_headline":"Bananen-Lassi – das 5 Minuten Rezept","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Bananen schälen und in grobe Stücke schneiden. Bananenstücke in den Mixer geben und Zitronensaft und Honig hinzufügen."},{"headline":null,"content":"Milch und Joghurt dazugeben und alles für ca. 3 Minuten auf mittlerer Stufe mixen. Alternativ kannst du die Zutaten auch in einen hohen Rührbecher geben und mit dem Pürierstab pürieren. Anschließend den Bananen-Lassi in 2 Gläser füllen und direkt servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bananen-Lassi</Title>
+    <CustomRecipeSeoTitle position="1">Bananen-Lassi – das 5 Minuten Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Bananen-Lassi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-18T11:30:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82027nyx8ugd0m1febv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82027p24q5gc1c23ebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Bananen schälen und in grobe Stücke schneiden. Bananenstücke in den Mixer geben und Zitronensaft und Honig hinzufügen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82027p24qcirsfbjebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Milch und Joghurt dazugeben und alles für ca. 3 Minuten auf mittlerer Stufe mixen. Alternativ kannst du die Zutaten auch in einen hohen Rührbecher geben und mit dem Pürierstab pürieren. Anschließend den Bananen-Lassi in 2 Gläser füllen und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81f4h17z9og1k704a7u" file_variant="master" position="1">BananenLassi2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a2f59cc27ef">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81f4h58avg6bsg65p2t" file_variant="master" position="1">BananenLassiStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananen schneiden</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_68a2f59e5d396">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81f4gy7ivlerpv1e9vh" file_variant="master" position="1">BananenLassiStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Joghurt hinzufügen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_68a2f59fb795f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81f4h5kt2tu11rxc29vh" file_variant="master" position="1">BananenLassi1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

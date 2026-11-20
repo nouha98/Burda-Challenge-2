@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84g1p5i2pr8cun9i17j3" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-05T16:12:15+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-09-25T10:31:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrnd13o7kudo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt84g1kis2l9y170pw816xq"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Feta-Omelett mit Spinat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":285,"kilojoule":1194,"carbonhydrates":2,"fat":22,"protein":18,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Fetakäse","unit":{"name":"g"},"prefix":null,"suffix":"zerbröseln"},{"amount":60,"amountTo":null,"ingredient_name":"Spinat","unit":{"name":"g"},"prefix":null,"suffix":"waschen, putzen und grob hacken"},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Knoblauchpulver","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Fetakäse zerbröseln, Spinat waschen, putzen und grob hacken. Eier mit Schlagsahne verquirlen, mit Salz, Knoblauch-, Paprikapulver und Pfeffer würzen. Feta und Spinat einrühren."},{"headline":null,"content":"Butter in einer mittelgroßen Pfanne erhitzen. Die Ei-Masse dazugeben. 3–4 Minuten stocken lassen, zusammenklappen. Dann in der Hälfte teilen und servieren."}],"recipe_tips":[{"headline":null,"content":"Dazu passt: Fladenbrot."}]}</CustomStructuredRecipeJson>
+    <Title>Feta-Omelett mit Spinat</Title>
+    <CustomRecipeNutritionalValueCalories position="1">285</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1194</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">2</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0.2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeTeaserside position="1">Fladenbrot</CustomRecipeTeaserside>
+    <Headline position="1">Feta-Omelett mit Spinat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-05T16:12:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84g1p6ypphiigwl62ew">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="zerbröseln" position="1" plural="Feta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10316" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spinat" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7236" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Paprikapulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Butter" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84g1papgpwwda2z72ew">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Fetakäse zerbröseln, Spinat waschen, putzen und grob hacken. Eier mit Schlagsahne verquirlen, mit Salz, Knoblauch-, Paprikapulver und Pfeffer würzen. Feta und Spinat einrühren. Butter in einer mittelgroßen Pfanne erhitzen. Die Ei-Masse dazugeben. 3–4 Minuten stocken lassen, zusammenklappen. Dann in der Hälfte teilen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84g1papgvecxj2a62ew">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vier verschiedene Eiergerichte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Olive</ImageCredit>
+      <DocumentRef doc_id="doc831nkl9mtieg7jma4gw" file_variant="master" position="1">Vier verschiedene Eiergerichte</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

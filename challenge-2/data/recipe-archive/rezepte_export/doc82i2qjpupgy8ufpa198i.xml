@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82i2qjpupgy8ufpa198i" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-22T12:56:39+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-22T13:41:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <Creator topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt82i3b9qn5ros9c591wia"/>
+    <Headline position="1">Pikanter Weihnachtsstern mit Lauch, Speck und Käse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-22T12:56:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7661" position="1" amount="2" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Lauch"/>
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" position="2" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Babyspinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10276" position="4" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Speckwürfel"/>
+      <CustomRecipeIngredient topic="tmt7hg8050r449s307o820" position="5" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Robiola"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="7" plural="Pfeffer aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4936" position="8" amount="2" plural="Blätterteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6121" position="9" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="in Scheiben" plural="Frühstücksspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="10" amount="1" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="11" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Milch"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Lauch putzen, in Ringe schneiden und in einem Sieb gründlich abspülen. Spinat waschen und trockenschütteln. Pflanzenöl in einer Pfanne erhitzen und die Speckwürfel darin auslassen. Lauch unterschwenken, Spinat dazugeben und zusammenfallen lassen. Den Robiola dazugeben und schmelzen lassen. Mit Salz und Pfeffer würzen und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68d12cb258e1b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Blätterteige auspacken und ggf. rund schneiden. Einen Teigkreis auf ein Backblech mit Backpapier legen. Die Lauch-Spinat-Mischung gleichmäßig darauf verteilen und dabei einen 3 cm Rand nach außen frei lassen. Frühstücksspeck und Brie auf die Füllung legen und mit dem zweiten Blätterteig abdecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68d12cc31aa0e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eine Schüssel (ca. 12 cm) in die Mitte des gefüllten Teigs stellen und, beginnend am Rand der Schüssel nach außen, gleichmäßig 16 Schnitte anbringen. Dann jeweils 2 Teile je zwei zweimal gegeneinander eindrehen und zusammenfügen. Die Spitzen verschließen, indem man sie mit angefeuchteten Fingern zusammendrückt. Eigelb und Milch verquirlen und die Oberfläche damit bestreichen. Mit der Spitze eines kleinen Messers die Mitte des Teigs mit einem Sternmuster einschneiden. Für 15 Minuten im Gefrierschrank kühlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68d12cc969136">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 220 °C Ober- und Unterhitze vorheizen. 
+Den Stern 10 Minuten backen. Dann mit Backpapier abdecken, die Temperatur auf 200 °C senken und weitere ca. 20 Minuten backen, bis der Blätterteig überall goldbraun und knusprig ist. Heiß oder lauwarm servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pikanter Weihnachtsstern mit Lauch, Speck und Käse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Stile Italia Edizioni / Giorgi, Stefania</ImageCredit>
+      <DocumentRef doc_id="doc82fgs99r9og1k1m82kcl" file_variant="master" position="1">Pikanter Weihnachtsstern mit Lauch, Speck und Käse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

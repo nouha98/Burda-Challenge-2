@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82zyyiyfole8hjvifb1" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-27T07:47:53+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-27T07:53:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spinatpesto","recipe_seo_headline":"Spinatpesto","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Blattspinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Pinienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für das Spinatpesto den Blattspinat waschen und gründlich abtropfen lassen. Die Pinienkerne in einer heißen Pfanne ohne Fett anrösten, bis sie anfangen zu bräunen. Aus der Pfanne nehmen und abkühlen lassen. Den Parmesan reiben. Knoblauch abziehen und hacken."},{"headline":null,"content":"Spinat, Parmesan und Knoblauch zusammen mit den abgekühlten Pinienkernen in einen Blitzmixer geben und fein pürieren (alternativ: mit dem Stabmixer pürieren). Das Olivenöl dazu gießen und alles mit einem Holzlöffel gründlich vermengen. Mit Salz und Pfeffer kräftig abschmecken. Das Spinat-Pesto entweder sofort mit gekochten Nudeln mischen oder in ein sauberes Glas umfüllen – im Kühlschrank ist es ca. 5 Tage haltbar. Guten Appetit!"}],"recipe_tips":[{"headline":"Das Pesto wird bitter?","content":"Bei der Zubereitung von Pesto solltest du das Olivenöl, wie in unserem Rezept, erst zum Schluss dazugeben und möglichst nicht pürieren. Durch das Mixen geht das frische Aroma verloren und das Olivenöl kann sehr schnell bitter werden. Alternativ kannst du für das Pesto mit Spinat natürlich auch ein anderes Pflanzenöl deiner Wahl verwenden!"}]}</CustomStructuredRecipeJson>
+    <Title>Spinatpesto</Title>
+    <CustomRecipeSeoTitle position="1">Spinatpesto</CustomRecipeSeoTitle>
+    <Headline position="1">Spinatpesto</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-27T07:47:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82zyyh5c3wm1h4g0hfb1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Blattspinat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pinienkerne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Parmesan" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82zyyiyfehll3cctfb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Blattspinat waschen und gründlich abtropfen lassen. Die Pinienkerne in einer heißen Pfanne ohne Fett anrösten, bis sie anfangen zu bräunen. Aus der Pfanne nehmen und abkühlen lassen. Den Parmesan reiben. Knoblauch abziehen und hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Spinatpesto </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82zyyiyfj121lrwoefb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Spinat, Parmesan und Knoblauch zusammen mit den abgekühlten Pinienkernen in einen Blitzmixer geben und fein pürieren (alternativ: mit dem Stabmixer pürieren). Das Olivenöl dazu gießen und alles mit einem Holzlöffel gründlich vermengen. Mit Salz und Pfeffer kräftig abschmecken. Das Spinat-Pesto entweder sofort mit gekochten Nudeln mischen oder in ein sauberes Glas umfüllen – im Kühlschrank ist es ca. 5 Tage haltbar. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82zyyiyfj5z169nccfb1">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bei der Zubereitung von Pesto solltest du das Olivenöl, wie in unserem Rezept, erst zum Schluss dazugeben und möglichst nicht pürieren. Durch das Mixen geht das frische Aroma verloren und das Olivenöl kann sehr schnell bitter werden. Alternativ kannst du für das Pesto mit Spinat natürlich auch ein anderes Pflanzenöl deiner Wahl verwenden!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Das Pesto wird bitter?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

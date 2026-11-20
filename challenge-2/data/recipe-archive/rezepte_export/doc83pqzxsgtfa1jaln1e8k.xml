@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83pqzxsgtfa1jaln1e8k" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-16T11:53:42+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-12-16T13:09:50+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurm12gcltdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt83pr2g4c5olonwse8t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spaghetti mit krosser Hähnchenhaut","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":845,"kilojoule":3540,"carbonhydrates":85,"fat":45,"protein":25,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Haut eines gekochten Huhns","unit":{"name":"g"},"prefix":"Ca.","suffix":"(z. B. von einem Suppenhuhn)"},{"amount":5,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frittierfett","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Spaghetti","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"(gerieben)"}]}],"preparation":[{"headline":null,"content":"Ca. 50 g übrig gebliebene Haut eines gekochten Huhns gründlich trocken tupfen, in Stücke schneiden. 5 Knoblauchzehen abziehen, in Scheiben schneiden. Blätter von 1 Bund Basilikum abzupfen."},{"headline":null,"content":"In einer Pfanne Frittierfett auf 170 Grad erhitzen. Basilikumblättchen, Knoblauch und die Hühnerhaut-Stücke darin portionsweise knusprig frittieren. Mit einer Schaumkelle herausheben, auf Küchenpapier abtropfen lassen. Mit Salz und Pfeffer würzen."},{"headline":null,"content":"200 g Spaghetti nach Packungsangabe in Salzwasser bissfest kochen. 400 g Kirschtomaten waschen, halbieren, salzen und pfeffern. In 2 EL Olivenöl in einer Pfanne anbraten. 30 g geriebenen Parmesan mit den Tomaten mischen."},{"headline":null,"content":"Nudeln abtropfen lassen, mit den Tomaten mischen. Auf Teller verteilen, mit Hühnerhaut-Mix bestreuen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Spaghetti mit krosser Hähnchenhaut</Title>
+    <CustomRecipeNutritionalValueCalories position="1">845</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3540</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">85</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">45</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">25</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">7.1</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Spaghetti mit krosser Hähnchenhaut</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-16T11:53:42+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83pqzzb8mie42spv20wx">
+      <CustomRecipeIngredient topic="tmt83pr3a0o5rotiyg6eal" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gekochte" suffix="(übrig geblieben z. B. von einem Suppenhuhn)" position="1" ingredient_error="1" plural="Hühnerhaut"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Basilikum" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6076" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Frittierfett" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10241" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spaghetti" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(gerieben)" plural="Parmesan" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83pr041ia44rrooy20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Übrig gebliebene Haut eines gekochten Huhns gründlich trocken tupfen, in Stücke schneiden. Knoblauchzehen abziehen, in Scheiben schneiden. Blätter von 1 Bund Basilikum abzupfen. In einer Pfanne Frittierfett auf 170 Grad erhitzen. Basilikumblättchen, Knoblauch und die Hühnerhaut-Stücke darin portionsweise knusprig frittieren. Mit einer Schaumkelle herausheben, auf Küchenpapier abtropfen lassen. Mit Salz und Pfeffer würzen. Spaghetti nach Packungsangabe in Salzwasser bissfest kochen. Kirschtomaten waschen, halbieren, salzen und pfeffern. In Olivenöl in einer Pfanne anbraten. Geriebenen Parmesan mit den Tomaten mischen. Nudeln abtropfen lassen, mit den Tomaten mischen. Auf Teller verteilen, mit Hühnerhaut-Mix bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Spaghetti mit gebratenen Tomaten, Basilikum und krosser Hähnchenhaut 34. Putello Tonnato (mit Kapern MayonnaisE 35. Geflügelsalat im Wrap (Geflügelfleischreste fein gehackt, mit Joghurt, Curry, etc. abgeschmeckt und mit Blattsalat im Wrap angereichtet.)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc7kz58f1hdgm19tu30oro" file_variant="master" position="1">LAG_DS_Ideen_fuer_Reste_30183</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

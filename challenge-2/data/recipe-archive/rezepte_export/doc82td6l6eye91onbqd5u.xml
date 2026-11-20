@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82td6l6eye91onbqd5u" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-14T12:17:33+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-15T12:33:34+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt82mmzc76wvmphpemeu7"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <Source topic="tmt82tvulerrw51hfoq9m47"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rindfleischspieße","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":200,"kilojoule":837,"carbonhydrates":2,"fat":11,"protein":25,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Roastbeefs","unit":{"name":"Stück"},"prefix":null,"suffix":"à 200g"},{"amount":5,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Shiitake-Pilze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Roastbeefs in ca. 2 cm große Würfel schneiden. Lauchzwiebeln abbrausen, trocken schütteln und in 3–4 cm lange Stücke schneiden. Shiitake-Pilze putzen."},{"headline":null,"content":"Die Zutaten abwechselnd auf Spieße stecken und im Fonduetopf in heißem Fett garen. Oder die Zutaten nacheinander auf eine Fonduegabel spießen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Rindfleischspieße</Title>
+    <CustomRecipeNutritionalValueCalories position="1">200</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">837</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">2</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">11</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">25</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0.2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Rindfleischspieße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-14T12:17:33+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82td6nmogdhy1bwkbu8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9241" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="à 200g" position="1" plural="Roastbeef"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lauchzwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt80lqy2e6ylg10wzv1rvm" amount="12" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" plural="Shiitake-Pilze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82td6p2q3ehi0ugbbu8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Roastbeefs in ca. 2 cm große Würfel schneiden. Lauchzwiebeln abbrausen, trocken schütteln und in 3–4 cm lange Stücke schneiden. Shiitake-Pilze putzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82td6p2q3lhl8uuibu8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Zutaten abwechselnd auf Spieße stecken und im Fonduetopf in heißem Fett garen. Oder die Zutaten nacheinander auf eine Fonduegabel spießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fondue mit Öl: Rindfleischspieße, Lachswürfel, Paprika-Käse-Spieße</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jalag / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc7x1b424wvtg8fdsxip2" file_variant="master" position="1">Fondue mit Öl: Rindfleischspieße, Lachswürfel, Paprika-Käse-Spieße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

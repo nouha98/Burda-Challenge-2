@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823m3ir9hlk18iuu510oy" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T09:26:00+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-25T09:33:39+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs6cj2mrado5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cranberry-Kompott","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Kompott","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"frische Cranberrys","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für das Kompott","content":"Cranberrys waschen, in einen Topf geben. Zusammen mit Zucker und Wasser auf mittlerer Stufe aufkochen lassen. Für 15 min köcheln lassen, je nach Belieben noch etwas Wasser hinzugeben."}],"recipe_tips":[{"headline":"Verwendung","content":"Das Cranberry-Kompott passt super zu süßen Aufläufen, Grießbrei, Pfannkuchen oder auch als Tortenfüllung."}]}</CustomStructuredRecipeJson>
+    <Title>Cranberry-Kompott</Title>
+    <Headline position="1">Cranberry-Kompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T09:26:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823m3hu4aty11jtnp10oy">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5466" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Cranberrys" prefix="frische"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Kompott</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823m3ir9ats12zsya10oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Cranberrys waschen, in einen Topf geben. Zusammen mit Zucker und Wasser auf mittlerer Stufe aufkochen lassen. Für 15 min köcheln lassen, je nach Belieben noch etwas Wasser hinzugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Kompott</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="823m3ir9ftw16tyki10oy">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Das Cranberry-Kompott passt super zu süßen Aufläufen, Grießbrei, Pfannkuchen oder auch als Tortenfüllung.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Verwendung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68ac1159f2e6d">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">In eine Schale oder eine normale Dose abgefüllt, hält das Kompott nur ca. 3 Tage im Kühlschrank. Wenn du es allerdings direkt heiß in sterile Gläser füllst und sofort mit dem Deckel verschließt, ist es bis zu einem Jahr haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit bis zu 1 Jahr</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81psunzv0w11iyxsbtj8" file_variant="master" position="1">Cranberry-Kompott2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac11d226593">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81psupljhc1nj48uuue" file_variant="master" position="1">Cranberry-Kompott1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

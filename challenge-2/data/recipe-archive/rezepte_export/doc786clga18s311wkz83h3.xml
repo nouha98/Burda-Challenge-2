@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786clga18s311wkz83h3" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T18:51:17+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:36:19+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomCenshareId>451989</CustomCenshareId>
+    <Title position="1">Schmand-Zitronen-Dip</Title>
+    <Headline position="1">Schmand-Zitronen-Dip</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">300</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1260</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">4</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">3</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">30</CustomRecipeNutritionalValueFat>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T23:54:31+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="7cde38">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt782p5tyjsb41l9pg18gz" amount="1" unit_topic="tm_topic_default_unit" prefix="kleine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="7cde84">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zitrone heiß waschen, trocken tupfen. Die Schale fein abreiben und den Saft auspressen. Zitronensaft und -schale mit Schmand, Crème fraîche und Olivenöl verrühren. Dip mit Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2ywuv9ma1mdimabn4" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:54:31+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_451989</displayname>
+      <doc_id id="doc786clga18s311wkz83h3"/>
+      <hash>6136f1f0278b5b01bf20ecf6a2f246e5</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:54:31+01:00</modified>
+      <size>2425</size>
+      <subpath>2019/12-07/79/d1/file78b2ywuv9ma1mdimabn4.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

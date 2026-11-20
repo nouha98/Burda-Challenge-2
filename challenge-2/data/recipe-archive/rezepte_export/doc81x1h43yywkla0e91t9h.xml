@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x1h43yywkla0e91t9h" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T14:25:28+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-13T12:26:17+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Limoncello Dessert","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Cantuccini","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Limoncello","unit":{"name":"ml"},"prefix":null,"suffix":"(Zitronenlikör)"},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":"(Bio)"},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"2-3","amountTo":null,"ingredient_name":"gelbe Lebensmittelfarbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Mandelgebäck in grobe Stücke schneiden. Auf die sechs Dessertgläser (á 200 ml) verteilen. 2/3 des Limoncellos (100 ml) esslöffelweise auf die sechs Gläser verteilen. Beiseitestellen."},{"headline":null,"content":"Für die Creme Zitrone heiß abwaschen, trocken tupfen und mit einem Zestenreißer die Schale zu dünnen Linien herunterreißen. Zesten zum Garnieren beiseitestellen. Zitrone halbieren und auspressen."},{"headline":null,"content":"In einer Schüssel Quark, Zitronensaft und Zucker glattrühren. Übrigen Limoncello (50 ml) einrühren. Mascarpone zugeben und kurz verrühren. Sahne steif schlagen und unter die Creme rühren. Nach Belieben die Creme mit etwas Lebensmittelfarbe zartgelb einfärben. Creme in einen Spritzbeutel mit großer Lochtülle füllen und die Creme auf die sechs Gläser verteilen. Creme mindestens 60 Minuten kühlstellen und durchziehen lassen."},{"headline":null,"content":"Vor dem Servieren die Dessertgläser mit den Zitronenzesten garnieren."}],"recipe_tips":[{"headline":"statt Lebensmittelfarbe…","content":"kannst du für eine schöne, hellgelbe Creme auch 50 g Lemoncurd in die Creme rühren."},{"headline":"Kein Zestenreißer zur Hand?","content":"..dann schäle die gewaschene Zitronenschale mit einem Sparschäler von der Zitrone und schneide die Schale mit einem scharfen Messer in sehr dünne Streifen."}]}</CustomStructuredRecipeJson>
+    <Title>Limoncello Dessert</Title>
+    <Headline position="1">Limoncello Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T14:25:28+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x1h1nccmg19qi4h1t9h">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5291" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Cantuccini" position="1"/>
+      <CustomRecipeIngredient topic="tmt7g9jxxw87ar3eos51fi" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(Zitronenlikör)" plural="Limoncello" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Bio)" plural="Zitronen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x1h43y5ldz8v7a1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mandelgebäck in grobe Stücke schneiden. Auf die sechs Dessertgläser (á 200 ml) verteilen. 2/3 des Limoncellos (100 ml) esslöffelweise auf die sechs Gläser verteilen. Beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1h43yc5w6s5ft1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Creme Zitrone heiß abwaschen, trocken tupfen und mit einem Zestenreißer die Schale zu dünnen Linien herunterreißen. Zesten zum Garnieren beiseitestellen. Zitrone halbieren und auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1h43ycad8asmn1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In einer Schüssel Quark, Zitronensaft und Zucker glattrühren. Übrigen Limoncello (50 ml) einrühren. Mascarpone zugeben und kurz verrühren. Sahne steif schlagen und unter die Creme rühren. Nach Belieben die Creme mit etwas Lebensmittelfarbe zartgelb einfärben. Creme in einen Spritzbeutel mit großer Lochtülle füllen und die Creme auf die sechs Gläser verteilen. Creme mindestens 60 Minuten kühlstellen und durchziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1h43yce85hev61t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Vor dem Servieren die Dessertgläser mit den Zitronenzesten garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x1h43ycj638yv71t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du für eine schöne, hellgelbe Creme auch 50 g Lemoncurd in die Creme rühren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">statt Lebensmittelfarbe…</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="81x1h43yldgx54yb1t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">..dann schäle die gewaschene Zitronenschale mit einem Sparschäler von der Zitrone und schneide die Schale mit einem scharfen Messer in sehr dünne Streifen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kein Zestenreißer zur Hand?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az0qup1ko12r5easmy" file_variant="master" position="1">Limoncello_Dessert_12494.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689c6827246dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az0sncu4m88fozp6p" file_variant="master" position="1">Limoncello_Dessert_11645.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689c682900b26">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az0nvqoc715gnr7sc1" file_variant="master" position="1">Limoncello_Dessert_12189.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689c682ab7773">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az0pmaz6qogk1iouj" file_variant="master" position="1">Limoncello_Dessert_12508.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

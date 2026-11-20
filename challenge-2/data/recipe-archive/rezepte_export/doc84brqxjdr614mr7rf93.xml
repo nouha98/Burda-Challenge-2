@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84brqxjdr614mr7rf93" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-28T08:27:32+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-28T08:34:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grünkohl Pasta","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1000,"amountTo":null,"ingredient_name":"Grünkohl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Nudeln","unit":{"name":"g"},"prefix":null,"suffix":"z.B: Fusilli"},{"amount":2,"amountTo":null,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":140,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Peperoni","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"gehackte Walnüsse","unit":{"name":"EL"},"prefix":"Optional","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Grünkohl vom Stängel abzupfen und die Blätter in kleine Stücke zupfen. Den Grünkohl für ca. 5 Minuten in sprudelndem, leicht gesalzenem Wasser abkochen. Mit kaltem Wasser abschrecken und gut abtropfen lassen. Die Nudeln in reichlich gesalzenem Wasser „al dente“, also bissfest kochen."},{"headline":null,"content":"Die Schalotten und die Knoblauchzehen schälen und in feine Würfel schneiden."},{"headline":null,"content":"Das Olivenöl in einer Pfanne erhitzen und die Schalotten darin für ca. 2 Minuten andünsten, dann den Knoblauch hinzugeben und für 1-2 Minuten mitdünsten."},{"headline":null,"content":"Den Grünkohl dazugeben und ca. 2 Minuten mit andünsten, die Gemüsebrühe dazugeben und einköcheln lassen. Mit einem Spritzer Zitronensaft, Salz und Pfeffer abschmecken."},{"headline":null,"content":"Die heißen, gekochten Nudeln dazugeben und miteinander verrühren. Die Peperoni entkernen und in feine Stücke schneiden und dazugeben."},{"headline":null,"content":"Die Nudeln mit geriebenem Parmesan und optional mit etwas gehackten Walnüssen servieren."}],"recipe_tips":[{"headline":"Satt Gemüsebrühe verwenden","content":"Satt Gemüsebrühe kannst du auch das stärkehaltige Wasser vom Nudeln abkochen verwenden. Damit wird deine Grünkohlpasta schön sämig."}]}</CustomStructuredRecipeJson>
+    <Title>Grünkohl Pasta</Title>
+    <Headline position="1">Grünkohl Pasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-28T08:27:32+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84brqttf9s48w1evf93">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6441" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Grünkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B: Fusilli" plural="Nudeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="7" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="8" amount="1" unit_topic="tmt71k9mmbwn5g16y47yive" unit="Spritzer" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="9" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8636" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Peperoni" position="10"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" amount="140" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="11" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt7zmvp3mckopls3vw19va" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="Optional" position="12" plural="gehackte Walnüsse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjcz8616k88of93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Grünkohl vom Stängel abzupfen und die Blätter in kleine Stücke zupfen. Den Grünkohl für ca. 5 Minuten in sprudelndem, leicht gesalzenem Wasser abkochen. Mit kaltem Wasser abschrecken und gut abtropfen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjd9bt1nbhqbf93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Nudeln in reichlich gesalzenem Wasser nach Packungsanweisung „al dente“, also bissfest kochen. Die Schalotten und die Knoblauchzehen abziehen und in feine Würfel schneiden. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjd9lx1490fdf93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Olivenöl in einer Pfanne erhitzen und die Schalotten darin für ca. 2 Minuten bei mittlerer Hitze andünsten, dann den Knoblauch hinzugeben und für weitere 1-2 Minuten mitdünsten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjd9rnbsrtyf93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Grünkohl dazugeben und ca. 2 Minuten mit andünsten, die Gemüsebrühe dazugeben und einköcheln lassen. Mit einem Spritzer Zitronensaft, Salz und Pfeffer abschmecken. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjd9x1a5xumf93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die heißen, gekochten Nudeln dazugeben und alles miteinander verrühren. Die Peperoni waschen, entkernen und in feine Stücke schneiden, zur Pasta mit Grünkohl geben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84brqxjda2q1laq9pf93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Die Nudeln mit geriebenem Parmesan und optional mit etwas gehackten Walnüssen servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84brqxjda821flubwf93">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Gemüsebrühe kannst du auch das stärkehaltige Wasser vom Nudeln abkochen verwenden. Damit wird deine Grünkohlpasta schön sämig. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Alternative zur Gemüsebrühe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8411zskk6xf1bgy4fb6z" file_variant="master" position="1">Grünkohl-Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6979bc12f0b92">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8411zx0z1c21hf6babah" file_variant="master" position="1">Grünkohl-Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6979bc14b23e1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8411zq1jqte394nedd8" file_variant="master" position="1">Grünkohl-Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6979bc15ee5e3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8411zztfmeuesgosb0f" file_variant="master" position="1">Grünkohl-Pasta</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

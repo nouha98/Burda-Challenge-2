@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85eafoep2dlsenrk13s7" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-13T08:38:06+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-10-14T08:28:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <Source topic="tmt85eahlj17moct5h31077"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Frühstücks-Smoothie","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Beeren","unit":{"name":"g"},"prefix":null,"suffix":"gemischte TK- (Himbeeren, Heidelbeeren, Brombeeren)"},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"zarte","suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Beeren","unit":{"name":"(Keine Einheit)"},"prefix":"ein paar frische","suffix":"zur Dekoration"},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"frische","suffix":"als Dekoration"}]}],"preparation":[{"headline":null,"content":"Gemischte TK-Beeren ca. 10 Minuten antauen lassen. Zitrone auspressen. Bananen schälen, grob in Stücke schneiden. Bananen zusammen mit den angetauten Beeren, Haferflocken (1 EL zur Dekoration beiseitestellen), Zitronensaft und Milch in ein Rührgefäß oder einen Standmixer geben. Alles ca. 3 Minuten mit dem Pürierstab bzw. im Standmixer pürieren."},{"headline":null,"content":"Frühstücks-Smoothie auf Gläser verteilen. Frische Beeren abbrausen und trockentupfen. Restliche Haferflocken auf dem Smoothie verteilen, mit frischen Beeren und Minze dekorieren und direkt servieren."}],"recipe_tips":[{"headline":null,"content":"Einfach ungesüßten Pflanzendrink (z. B. Hafer-, Soja- oder Mandeldrink) anstelle der Milch verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Frühstücks-Smoothie</Title>
+    <CustomRecipeNutritionalValueCalories position="1">358</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">54</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">13</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Frühstücks-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-13T08:38:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85eafl1bosm1n2vr113s7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Himbeeren, Heidelbeeren, Brombeeren)" plural="Beeren" position="1" prefix="gemischte TK- "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="ein paar frische" suffix="zur Dekoration" plural="Beeren" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frische" suffix="als Dekoration" plural="Minze" position="7"/>
+      <CustomRecipeIngredient topic="tmt86yfo5psjhil2txkdhy" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Bananen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="zarte" plural="Haferflocken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85eafoeovdt1jqc5513s7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gemischte TK-Beeren ca. 10 Minuten antauen lassen. Zitrone auspressen. Bananen schälen, grob in Stücke schneiden. Bananen zusammen mit den angetauten Beeren, Haferflocken (1 EL zur Dekoration beiseitestellen), Zitronensaft und Milch in ein Rührgefäß oder einen Standmixer geben. Alles ca. 3 Minuten mit dem Pürierstab bzw. im Standmixer pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85eafoeoz54uhpwo13s7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Frühstücks-Smoothie auf Gläser verteilen. Frische Beeren abbrausen und trockentupfen. Restliche Haferflocken auf dem Smoothie verteilen, mit frischen Beeren und Minze dekorieren und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85eafoeozeol410h13s7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">So wird's vegan: Einfach ungesüßten Pflanzendrink (z. B. Hafer-, Soja- oder Mandeldrink) anstelle der Milch verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6acf20ba23f62">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Beeren: Dunkle Beeren wie Brombeeren und Heidelbeeren sind reich an Anthocyanen. Diese zählen zu den sekundären Pflanzenstoffen und entfalten im Körper eine antioxidative Wirkung. Dadurch können sie zellschützend wirken und Alterungsprozesse vermindern. Sie stärken außerdem unser Immunsystem.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez247h7xt7vjo4j2" file_variant="master" position="1">Fruehstuecks_Smoothie_137255.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69dc903742558">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez1yel9pg16wfduj6" file_variant="master" position="1">Fruehstuecks_Smoothie_137209.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69dc9039e47b1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez21c0nyrid3yqj2" file_variant="master" position="1">Fruehstuecks_Smoothie_137211.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69dc903c48110">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez28s4jlj6nggqj6" file_variant="master" position="1">Fruehstuecks_Smoothie_137249.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83psnrwic0y1mtcx620wx" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-16T14:03:06+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-16T14:06:23+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrsllxzotdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Radisalat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"weißer Rettich","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"große Prise","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Sonnenblumen oder Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Rettich schälen und mit einer Reibe grob raspeln."},{"headline":null,"content":"Den Rettich mit Salz und Pfeffer würzen und einige Male durchkneten."},{"headline":null,"content":"Dann den Weißweinessig und zuletzt das Sonnenblumenöl darunterarbeiten."},{"headline":null,"content":"Den Schnittlauch in dünne Ringe schneiden und daruntermischen."},{"headline":null,"content":"Den Salat einige Minuten ziehen lassen, damit er seinen Geschmack entfaltet."}],"recipe_tips":[{"headline":"Radisalat passt","content":".. mit Laugengebäck besonders gut zur Brotzeit."}]}</CustomStructuredRecipeJson>
+    <Title>Radisalat</Title>
+    <Headline position="1">Radisalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-16T14:03:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83psnp7fd6qodhef20wx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9136" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="weißer" plural="Rettich"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weißweinessig" position="4"/>
+      <CustomRecipeIngredient topic="tmt80j1gxqrm555fxqsgip" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="Raps- oder Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83psnrwiavk1h1puq20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Rettich schälen und mit einer Reibe grob raspeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83psnrwib3419h7w020wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Rettich mit Salz und Pfeffer würzen und einige Male durchkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83psnrwib74wwib020wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Dann den Weißweinessig und zuletzt das Sonnenblumenöl darunterarbeiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83psnrwibbcsw6zi20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Schnittlauch in dünne Ringe schneiden und daruntermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83psnrwibfb1hfrfh20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Den Salat einige Minuten ziehen lassen, damit er seinen Geschmack entfaltet.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83psnrwibj8uq4eg20wx">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">... mit Laugengebäck besonders gut zur Brotzeit.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Radisalat passt...</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdqhcwm3b1mwcqcixz" file_variant="master" position="1">Radisalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6941594c5c5a8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdpyl53c0tai4atrq" file_variant="master" position="1">Radisalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6941594d9557e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdqzxh5k9xosa3t9y" file_variant="master" position="1">Radisalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

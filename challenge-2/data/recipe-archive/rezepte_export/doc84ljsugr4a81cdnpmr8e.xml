@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84ljsugr4a81cdnpmr8e" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-16T09:14:06+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-16T09:23:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Steckrübensuppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Steckrüben","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Karotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1500,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Lorbeerblätter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":4,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"große Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Muskat","unit":{"name":"(Keine Einheit)"},"prefix":"Prise","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"glatte Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Steckrüben und die Kartoffeln schälen und in 1-2 cm Würfel schneiden. Die Kartoffeln in kaltes Wasser legen, damit sie nicht braun werden. Die Karotten schälen und in Scheiben schneiden. Zwiebeln schälen und fein würfeln. Das Olivenöl in einem Topf erhitzen und die Zwiebeln ca. 2-3 Minuten andünsten. Die Steckrüben und die Karotten dazugeben und ca. 2-3 Minuten mit andünsten, dann mit Gemüsebrühe ablöschen. Die Kartoffeln und das Lorbeerblatt dazugeben und für ca. 20 Minuten köcheln lassen. Das Salz, den Pfeffer und eine Prise Muskat dazugeben. Das Lorbeerblatt entfernen und mit frisch gehackter Petersilie servieren."}],"recipe_tips":[{"headline":"Wer es gern deftig und mit Fleisch mag","content":"kann Kassler, geräucherte Würste oder Kochwürste, z.B: Bauernwurst oder Mettenden mitkochen. Dazu gekochtes Kassler würfeln oder die Würste in Scheiben schneiden und in den letzten 5 Minuten dazugeben und mitkochen."}]}</CustomStructuredRecipeJson>
+    <Title>Steckrübensuppe</Title>
+    <Headline position="1">Steckrübensuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-16T09:14:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84ljsssd61h16h00kr8e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10381" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Steckrüben" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="2" prefix="festkochende"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" plural="Karotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="4" amount="1" amount_max="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" max_amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="5" amount_max="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" max_amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lorbeerblätter" position="7" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="9" amount="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8301" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="gemahlener" plural="Muskat" position="10" amount="2"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" position="11" plural="glatte Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84ljsugqucjkvp84r8e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Steckrüben und die Kartoffeln schälen und in 1-2 cm große Würfel schneiden. Die Kartoffeln in kaltes Wasser legen, damit sie nicht braun werden. Die Karotten schälen und in Scheiben schneiden. Zwiebeln abziehen und fein würfeln. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6992d3526877a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Olivenöl in einem Topf erhitzen und die Zwiebeln bei mittlerer Hitze ca. 2-3 Minuten andünsten. Die Steckrüben und die Karotten dazugeben und ca. 2-3 Minuten mit andünsten, dann mit Gemüsebrühe ablöschen. Die Kartoffeln und das Lorbeerblatt dazugeben und alles für ca. 20 Minuten köcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6992d35a54955">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Salz, den Pfeffer und eine Prise Muskat dazugeben. Petersilie waschen, abtropfen lassen und hacken. Das Lorbeerblatt aus der Steckrüben-Suppe entfernen und die Suppe mit frisch gehackter Petersilie servieren. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84ljsugqwsmhg5qnr8e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer seine Suppe gerne deftig und mit Fleisch isst, kann Kassler, geräucherte Würste oder Kochwürste (z. B. Bauernwurst oder Mettenden) mitkochen. Dazu gekochtes Kassler würfeln oder die Würste in Scheiben schneiden und in den letzten 5 Minuten dazugeben und mitkochen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für deftigen Geschmack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6992d376db176">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du keine stückige Suppe magst, kannst du die Suppe nach dem Kochen auch einfach mit einem Pürierstab pürieren. Gib einen Schuss Sahne hinzu für eine leckere Steckrübencremesuppe!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ohne Stückchen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417q2zsx6ukuzgjehd" file_variant="master" position="1">Steckrübensuppe Nachproduktion</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6992d4042d259">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417qcleevp1fb8kqdp8" file_variant="master" position="1">Steckrübensuppe Nachproduktion</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6992d405ac2b5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417q5jf7o11kx6gmehd" file_variant="master" position="1">Steckrübensuppe Nachproduktion</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6992d406ee050">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417qa62x4hln2nkehd" file_variant="master" position="1">Steckrübensuppe Nachproduktion</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

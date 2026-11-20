@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85jzk7guddx1i5rpldnl" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-24T10:46:42+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-04-24T10:52:22+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <Source topic="tmt85jzmtrie3c15rqx6b9k"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grünkohlpfanne","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":800,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"kleine (Drillinge)"},{"amount":1,"amountTo":null,"ingredient_name":"Grünkohl","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":"(oder vegetarische bzw. vegane Alternative)"},{"amount":300,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schinkenspeck","unit":{"name":"g"},"prefix":null,"suffix":"gewürfelter (mager)"},{"amount":250,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen und in wenig Wasser ca. 20 Minuten kochen."},{"headline":null,"content":"Inzwischen Grünkohl waschen und die Blätter von den dicken Blattrippen zupfen. Blattrippen fein hacken. Knoblauch abziehen und ebenfalls fein hacken."},{"headline":null,"content":"Den Feta in den Joghurt bröseln, die Hälfte des gehackten Knoblauchs zugeben und vermengen. Joghurt mit Salz und Pfeffer abschmecken und bis zum Servieren im Kühlschrank durchziehen lassen."},{"headline":null,"content":"Kartoffeln abgießen und etwas abkühlen lassen, falls nötig schälen, dann halbieren. 1 EL Öl in einer großen Pfanne erhitzen und die Kartoffeln einige Minuten rundherum goldbraun anbraten, mit Salz und Pfeffer würzen."},{"headline":null,"content":"Kartoffeln aus der Pfanne nehmen, restlichen Knoblauch und Speck zugeben und kurz im Bratfett dünsten. Die gehackten Grünkohl-Blattrippen hinzufügen und einige Minuten mitdünsten. Nach und nach die Grünkohlblätter in die Pfanne geben und zusammenfallen lassen. Die Gemüsebrühe hinzufügen und die Grünkohlpfanne ca. 15 Minuten abgedeckt leicht köcheln lassen."},{"headline":null,"content":"Die Kartoffeln untermischen und für 5 Minuten heiß werden lassen. Die Grünkohlpfanne mit Salz, Pfeffer und einer Prise Zucker abschmecken und mit dem Feta-Joghurt anrichten."}],"recipe_tips":[{"headline":null,"content":"Damit der Grünkohl sein saftiges Grün behält, blanchiere die Blätter für ca. 3 Minuten in kochendem Salzwasser."}]}</CustomStructuredRecipeJson>
+    <Title>Grünkohlpfanne</Title>
+    <Headline position="1">Grünkohlpfanne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-24T10:46:42+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85jzk432fdz10nv5ldnl">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Drillinge)" plural="Kartoffeln" position="1" prefix="kleine "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9711" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(mager)" plural="Schinkenspeck" position="9" prefix="gewürfelter "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6441" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Grünkohl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(oder vegetarische bzw. vegane Alternative)" plural="Feta" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gttwxbw7j2dnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und in wenig Wasser ca. 20 Minuten kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gtza9114p2hdnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Inzwischen Grünkohl waschen und die Blätter von den dicken Blattrippen zupfen. Blattrippen fein hacken. Knoblauch abziehen und ebenfalls fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gtzf55eoildnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Feta in den Joghurt bröseln, die Hälfte des gehackten Knoblauchs zugeben und vermengen. Joghurt mit Salz und Pfeffer abschmecken und bis zum Servieren im Kühlschrank durchziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gtzi81mbobndnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kartoffeln abgießen und etwas abkühlen lassen, falls nötig schälen, dann halbieren. 1 EL Öl in einer großen Pfanne erhitzen und die Kartoffeln einige Minuten rundherum goldbraun anbraten, mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gtzm0koc52dnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Kartoffeln aus der Pfanne nehmen, restlichen Knoblauch und Speck zugeben und kurz im Bratfett dünsten. Die gehackten Grünkohl-Blattrippen hinzufügen und einige Minuten mitdünsten. Nach und nach die Grünkohlblätter in die Pfanne geben und zusammenfallen lassen. Die Gemüsebrühe hinzufügen und die Grünkohlpfanne ca. 15 Minuten abgedeckt leicht köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85jzk7gtzox1ivc63dnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Die Kartoffeln untermischen und für 5 Minuten heiß werden lassen. Die Grünkohlpfanne mit Salz, Pfeffer und einer Prise Zucker abschmecken und mit dem Feta-Joghurt anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85jzk7gtzs3s9g5ednl">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit der Grünkohl sein saftiges Grün behält, blanchiere die Blätter für ca. 3 Minuten in kochendem Salzwasser.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhyx2wagye4th6dug" file_variant="master" position="1">Gruenkohlpfanne-mit-Kartoffeln-hoch-1542.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69eb2f36eca56">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhyhi4ekjemuj2dud" file_variant="master" position="1">Gruenkohlpfanne-mit-Kartoffeln-Step1-1263.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69eb2f38da82f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhqi4g2eai2hmadue" file_variant="master" position="1">Gruenkohlpfanne-mit-Kartoffeln-Step2-1269.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69eb2f3c11898">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhy4ab9n414r30idug" file_variant="master" position="1">Gruenkohlpfanne-mit-Kartoffeln-quer-1530.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

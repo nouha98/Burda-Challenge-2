@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc867kdt03rk31699w6cf4" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-09T08:05:38+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-09T08:11:44+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipeThesaurs topic="tmt81bh2mz52y81cr4pm8at"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt867kgmewlau13t3uhch4"/>
+    <Headline position="1">Apfel-Soufflé mit Zimt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-09T08:05:38+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="2" amount="5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="3" amount="0.5" amount_max="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="und etwas zum Ausstreuen der Förmchen" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" position="5" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiweiß"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Äpfel schälen, vierteln und entkernen. Die Viertel in dünne Spalten schneiden und in einen kleinen Topf geben. 4 TL Zitronensaft, 1 EL Zucker und 60 ml Wasser dazu geben. Die Äpfel mit Zimt bestreuen und zugedeckt in ca. 10 Minuten weich dünsten. Die Äpfel abkühlen lassen. Anschließend durch ein Sieb in eine Schüssel drücken und das Apfelmus mit Zucker abschmecken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a27ae02425bc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad Ober- und Unterhitze vorheizen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a27ae0e441bd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Eiweiß mit dem übrigen Zitronensaft steif schlagen, dabei den übrigen Zucker (2 EL) einrieseln lassen. Den Eischnee weiterschlagen, bis er glänzt und Spitzen zieht. Anschließend das Apfelmus vorsichtig portionsweise mit dem Schneebesen unterziehen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a27ae1b22852">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">4 Soufflé-Förmchen (ø ca. 8 cm) fetten und mit Zucker aus streuen. Die Soufflé-Masse in die Förmchen geben und im Ofen ca. 15 Minuten backen, bis Spitzen goldgelb gebräunt sind. Die Apfel-Soufflés sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Süßes Apfel-Souffle mit Zimt</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc7i8werrgcf4ub2ntp9h" file_variant="master" position="1">Süßes Apfel-Souffle mit Zimt</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a27ae98c88b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Süßes Apfel-Souffle mit Zimt zubereiten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc7i8werr09vad5sxop9g" file_variant="master" position="1">Süßes Apfel-Souffle mit Zimt zubereiten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

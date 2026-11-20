@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2jbec54yq171144jgd" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T15:47:25+02:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2025-09-05T09:37:17+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Creator topic="tmt6uapossyr5ddl3oeepl" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <LastEditedBy topic="tmt6ze5uut0sxtyocqlcde"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr1c118dxhdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <Source topic="tmt8299pssbizk1fhi759ph"/>
+    <CustomBlpId position="1">36823</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:Importiert</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">375</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1580</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">47</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">13</CustomRecipeNutritionalValueFat>
+    <Title>Bunter Nudelsalat</Title>
+    <Headline position="1">Bunter Nudelsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2018-04-30T00:00:00+02:00</DateCreated>
+    <DateImported>2020-08-27T15:47:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="d0276f">
+      <CustomRecipeIngredient topic="tmt786agrii46ahd5uu2mn" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="kleine Nudeln"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="2" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt794qf1aw8hwk36b5e46" amount="8" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="3" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt7bzj5tmjncl1my829i7k" amount="1" unit_topic="tm_topic_default_unit" position="4" unit="(Keine Einheit)" plural="dünne lange Zucchini"/>
+      <CustomRecipeIngredient topic="tmt794qf1fl0ud85o2ke45" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="Zuckerschoten"/>
+      <CustomRecipeIngredient topic="tmt786dcd8r3jk1e0evlh15" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="bunte Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt786bzs59nqwn2tm23h3" amount="1" unit_topic="tm_topic_default_unit" position="7" unit="(Keine Einheit)" plural="großes Bund Schnittlauch"/>
+      <CustomRecipeIngredient topic="tmt796oo5umuc81kyz7mffs" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" unit="g" plural="Mini-Mozzarellakugeln"/>
+      <CustomRecipeIngredient topic="tmt78664alc15ufniovidm" amount="4" amount_max="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="9" unit="EL" plural="weißer Balsamico-Essig"/>
+      <CustomRecipeIngredient topic="tmt782p5vkyenl1976718gz" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Saft von 1 Zitrone"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt794qf1fic0625kghe46" unit_topic="tm_topic_default_unit" position="12" unit="(Keine Einheit)" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt7bzj5tmwp391m2ddoi7k" unit_topic="tm_topic_default_unit" position="13" unit="(Keine Einheit)" plural="nach Belieben grüne Oliven"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="d02822">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Nudeln nach Packungsangabe in reichlich Salzwasser garen. Abgießen, abschrecken, gut abtropfen lassen. Mit 1–2 EL Olivenöl mischen. Zucchini waschen, putzen, der Länge nach halbieren, mit einem Hobel in dünne Scheiben schneiden. Zuckerschoten waschen, putzen, schräg in Streifen oder Stücke schneiden. Beides in 1 EL heißem Öl 1–2 Minuten dünsten. Abkühlen lassen. Zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="d0283c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Tomaten waschen, putzen, halbieren oder würfeln. Schnittlauch in Röllchen schneiden. Mozzarella abtropfen lassen. Essig mit Zitronensaft verrühren, mit Salz, Pfeffer und etwas Zucker würzig abschmecken. Übriges Öl (5–6 EL) unterschlagen. Oliven abtropfen lassen, halbieren. Schnittlauch einrühren. Entweder alles getrennt mitnehmen (und vor Ort mit dem Dressing vermischen) oder Nudeln mit Zucchini, Zuckerschoten, Tomaten, Mozzarella, evtl. Oliven und Dressing mischen, Salat abschmecken. In einer gut verschließbaren Schüssel mit Deckel bis zum Mitnehmen kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="d02849">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Salat in einer Kühltasche mit Kühlakkus mitnehmen. Ebenso Teller und Besteck. Salat vor dem Servieren noch mal gut durchmischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="blpbild-3535934" file_variant="master" position="1">Nudelsalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jbemeep5hrdq5jgd" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:47:26+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jbec54yq171144jgd"/>
+      <hash>ad9c6790079049fe3be028750baec8b9</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T15:47:26+02:00</modified>
+      <size>10393</size>
+      <subpath>2020/08-27/ea/04/file7c2jbemeep5hrdq5jgd.xml</subpath>
+      <type>original</type>
+      <variant>image_metadata_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jbenqtdki35f6jgd" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:47:26+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jbec54yq171144jgd"/>
+      <hash>0beadd1f9f0649c1df9503a893ad0bf2</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T15:47:26+02:00</modified>
+      <size>5581</size>
+      <subpath>2020/08-27/2e/a1/file7c2jbenqtdki35f6jgd.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jbek5mrbzauk1jgd" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:47:25+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jbec54yq171144jgd"/>
+      <hash>5028f88981f2d0cada9a47197dd3c60d</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>4</modcount>
+      <modified>2020-08-27T15:47:26+02:00</modified>
+      <size>1115</size>
+      <subpath>2020/08-27/9e/ec/file7c2jbek5mrbzauk1jgd.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

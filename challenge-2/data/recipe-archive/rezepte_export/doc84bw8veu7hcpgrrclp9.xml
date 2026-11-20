@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84bw8veu7hcpgrrclp9" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-28T14:17:43+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-28T14:25:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-archived"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Creator topic="tmt6ssta82hc821kzpxy6v4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rohta4opbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt84bwapknqsls2boclq1"/>
+    <Headline position="1">Lassi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-28T14:17:43+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" position="1" amount="2" plural="Mangos"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="2" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="3" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7071" position="4" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" prefix="gemahlenem" plural="Kardamom"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="oder Honig" plural="Zucker"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mangofruchtfleisch vom Stein schneiden, die Früchte schälen und würfeln. Mango mit Naturjoghurt, Milch und Kardamom im Mixer fein pürieren. Lassi evtl. mit Zucker oder Honig süßen. In 2 Gläser füllen, mit gehackten Pistazienkernen und Safranfäden garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_2_697a0dcba44ad">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Drei Gläser Mango-Lassi garniert mit Safran und zerdrückter Pistazie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">The Picture Pantry</ImageCredit>
+      <DocumentRef doc_id="doc7r42oq9ocpw15p9h2ldx" file_variant="master" position="1">Drei Gläser Mango-Lassi garniert mit Safran und zerdrückter Pistazie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

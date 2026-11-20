@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7j8gjpxh8uh9lzuy8wv" dcx-version="6.3.1" version="1.0">
+  <created>2022-01-11T14:02:15+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-09-01T11:01:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <Keywords topic="tmt7j8gmy9hknn7b6u08xp"/>
+    <Keywords topic="tmt7j8gmya44j5t8hrn8xp"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Keywords topic="tmt6ow8sypfsskd70a6hgw"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Source topic="tmt87esfzpdzok1l82pafnz"/>
+    <CustomRecipeNutritionalValueCalories position="1">620</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">35</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">45</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">33</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Rindersteak mit Möhren</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-01-11T14:02:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="3" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" position="4" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Apfelsaft"/>
+      <CustomRecipeIngredient topic="tmt87esdy37m1tsnwoofmr" position="5" amount="8" suffix="vom Rind à 80g" plural="Minuten-Steaks" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="8" amount="2" plural="Eier" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="9" amount="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="10" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Semmelbrösel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="11" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="12" amount="1" plural="Schalotten" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" position="13" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="grüne" suffix="in Lake" plural="Pfefferkörner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11051" position="14" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Weinbrand"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="15" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" position="16" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Brühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8301" position="17" plural="Muskat" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Möhren schälen, abbrausen und in etwa 5 cm lange Stifte schneiden. Möhrenstifte mit Zucker, 2 EL Butter und Saft in einem Topf aufkochen. Zugedeckt ca. 10 Min. köcheln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_61dd81438d829">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Fleisch mit Küchenpapier abtupfen. Mit Salz und Pfeffer würzen. Eier verquirlen. Fleisch erst in Mehl, dann in verquirlten Eiern und zuletzt in Semmelbröseln wenden. In 2 Portionen je ca. 2 Min. pro Seite im heißen Öl braten. Warm stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_61dd8149c77f5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">  Schalotte abziehen, in feine Würfel schneiden. Schalotte mit grünem Pfeffer in 1 EL Butter andünsten. Weinbrand, Sahne und Brühe einrühren. Offen um die Hälfte einköcheln. Möhren mit Muskat, Salz und Pfeffer würzen. Alles evtl. mit Korianderblättchen garnieren. Dazu passt Kartoffelpüree.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc75j6ijw2kdg1osvxoa8" file_variant="master" position="1">Panierte Rinderminutensteaks mit Pfeffersauce auf Kartoffelp ree</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

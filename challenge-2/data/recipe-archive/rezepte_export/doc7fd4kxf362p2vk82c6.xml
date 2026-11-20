@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fd4kxf362p2vk82c6" dcx-version="6.3.1" version="1.0">
+  <created>2021-04-15T11:00:17+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <Keywords topic="tmt7fd565k3z2f1929usgac"/>
+    <DateImported>2021-04-15T11:00:17+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">180</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">25</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Würziger Apfel-Rum-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5001" position="1" amount="1" prefix="Bio" plural="Blutorangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6841" position="2" amount="2" prefix="cm" plural="Ingwerwurzel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="3" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="trockener" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" position="5" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Apfelsaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" position="6" amount="2" plural="Sternanis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" position="7" amount="4" plural="Gewürznelke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="8" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="brauner" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="9" amount="4" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Zimt"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zum Vorwärmen 4 Gläser mit heißemWasser füllen. Orange abbrausen, halbie-ren. Aus der Mitte 4 Scheiben zum Garnieren schneiden. Die übrige Frucht auspressen. Das Stück Ingwer schälen und in feine Scheiben schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6078016fe8888">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Blutorangensaft mit Ingwer, Wein, Rum,Apfelsaft, Anissternen, Nelken und Zucker in einen Topf geben. Mischung erhitzen, jedoch nicht kochen lassen. 10 Min. ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_60780179a29a4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Wasser aus den Gläsern gießen. Je1 Blutorangenscheibe sowie 1 Zimtstange in jedes Glas geben. Den Punsch durch ein Sieb geben, um die Gewürze zu entfernen, auf die vorbereiteten Gläser verteilen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Indycka, Dorota</ImageCredit>
+      <DocumentRef doc_id="doc766ahw03g3adm1yodyf" file_variant="master" position="1">Heisser Apfelpunsch mit Blutorangen und Zimt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

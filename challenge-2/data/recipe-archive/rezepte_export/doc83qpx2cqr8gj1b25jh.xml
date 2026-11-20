@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qpx2cqr8gj1b25jh" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-18T09:12:10+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-18T09:19:52+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kartoffelsalat mit Mayo","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":10},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":"festkochend","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Dijon-Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Gewürzgurken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"glatte Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Kartoffeln mit Schale in leicht gesalzenem Wasser weichkochen und noch warm schälen und in 2x2 cm Würfel schneiden. Währenddessen die Eier ca. 8 Minuten hart kochen."},{"headline":null,"content":"Die Mayonnaise mit dem Dijon-Senf der Gemüsebrühe und dem Weißweinessig verrühren und Salz, Pfeffer, sowie den Zucker dazu rühren und über die Kartoffeln gießen und einmal gut mischen. Die Gewürzgurken und die Zwiebel fein würfeln und unter den Salat rühren."},{"headline":null,"content":"Den Salat ca. 30 Minuten ziehen lassen. In dieser Zeit die Eier schälen in grobe Stücke schneiden und kurz vor dem Servieren darunter rühren. Den Salat nochmals mit Salz und Pfeffer nachwürzen. Die Petersilie vom Stängel abzupfen und die Blätter grob hacken und über den Salat streuen."}],"recipe_tips":[{"headline":"Kartoffelgröße","content":"Achte beim Kauf der Kartoffeln darauf, dass sie in etwa gleichgroß sind, so sind alle Kartoffeln gleichmäßig gar."}]}</CustomStructuredRecipeJson>
+    <Title>Kartoffelsalat mit Mayo</Title>
+    <Headline position="1">Kartoffelsalat mit Mayo</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-18T09:12:10+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qpwy3qjtfmj0c35jh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="festkochende" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mayonnaise" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" plural="Dijonsenf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißweinessig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6276" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Gewürzgurken" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="11"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" position="12" plural="glatte Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qpx2cqq1zcww7e5jh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln mit Schale in leicht gesalzenem Wasser weichkochen, noch warm schälen und in 2x2 cm Würfel schneiden. Währenddessen die Eier ca. 8 Minuten hart kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qpx2cqq9hb4yde5jh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Mayonnaise mit dem Dijon-Senf, der Gemüsebrühe und dem Weißweinessig verrühren und Salz, Pfeffer, sowie den Zucker dazu rühren und über die Kartoffeln gießen. Einmal gut mischen. Die Gewürzgurken und die Zwiebel fein würfeln und unter den Salat rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qpx2cqqd214f0175jh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Salat ca. 30 Minuten ziehen lassen. In dieser Zeit die Eier schälen in grobe Stücke schneiden und kurz vor dem Servieren darunter rühren. Den Salat nochmals mit Salz und Pfeffer nachwürzen. Die Petersilie vom Stängel abzupfen und die Blätter grob hacken und über den Salat streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83qpx2cqqglo5ms95jh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Achte beim Kauf der Kartoffeln darauf, dass sie in etwa gleichgroß sind, so sind alle Kartoffeln gleichmäßig gar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kartoffelgröße</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82szftzy4vb4awqbtjb" file_variant="master" position="1">Kartoffelsalat mit Mayo II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6943b921c7232">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82szfziplvpl9yi9hg9" file_variant="master" position="1">Kartoffelsalat mit Mayo II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6943b925dce07">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82szg5lw754o20rztey" file_variant="master" position="1">Kartoffelsalat mit Mayo II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6943b9274e4de">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82szfii6v6s1vkzsj82" file_variant="master" position="1">Kartoffelsalat mit Mayo II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85r9wy04h6d7apqaczy" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-08T15:10:22+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-05-18T13:17:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt81mb06zhac013huiz9o3" amount="14"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt85r9ypbe5uwigu90d13"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <CustomRecipeNutritionalValueCalories position="1">85</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">17</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">3</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Bauernbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-08T15:10:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9266" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Roggenvollkornmehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" position="2" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Weizenmehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10756" position="3" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Trockenhefe"/>
+      <CustomRecipeIngredient topic="tmt7e4z7t1e7lupfff2oes" position="4" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" suffix="(75 g; z. B. von Seitenbacher)" plural="Natursauerteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Rohrohrzucker"/>
+      <CustomRecipeIngredient topic="tmt7zien42m8s01jtiotifb" position="7" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="lauwarmes Wasser"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mehle in eine Schüssel geben und die Trockenhefe, den Natursauerteig, Salz und Zucker untermischen. Nun das Wasser dazugeben und mit den Knethaken eines Handrührers oder mit der Küchenmaschine zu
+einem glatten Teig verarbeiten. Mit den Händen auf der Arbeitsfläche nochmals durchkneten, zurück in die Schüssel geben und zugedeckt an einem warmen Ort etwa 60 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69fde15ce5018">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Teig in den Garkorb des Airfryers (falls dieser nicht beschichtet ist, mit Backpapier auslegen) legen und bei 180 Grad ca. 40 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69fde169a41eb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Brotlaib herausnehmen, auskühlen lassen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rezept NEU (korrigiert):<br/>• 250 g Roggenvollkornmehl<br/>• 250 g Weizenmehl<br/>• 1 Pck. Trockenhefe<br/>• 1 Beutel Natursauerteig (75 g; z. B.von Seitenbacher) <br/>• 1 TL Salz<br/>• 1 TL Rohrohrzucker<br/>• 300 ml lauwarmes Wasser<br/>Zubereitung: 10 Minuten<br/>Ruhezeit: 60 Minuten<br/>Backzeit: 40 Minuten<br/>1 Mehle in eine Schüssel geben und die<br/>Trockenhefe, den Natursauerteig, Salz und Zucker untermischen. Nun das Wasser dazugeben<br/>und mit den Knethaken eines Handrüh-<br/>rers oder mit der Küchenmaschine zu<br/>einem glatten Teig verarbeiten. Mit den<br/>Händen auf der Arbeitsfläche nochmals<br/>durchkneten, zurück in die Schüssel<br/>geben und zugedeckt an einem warmen<br/>Ort etwa 60 Minuten gehen lassen.<br/>2 Teig in den Garkorb des Airfryers (falls<br/>dieser nicht beschichtet ist, mit Back-<br/>papier auslegen) legen und bei 180 Grad<br/>ca. 40 Minuten backen.<br/>3 Brotlaib herausnehmen, auskühlen<br/>lassen und servieren.<br/>Pro Scheibe: 85 kcal,<br/>0 g F, 17 g KH, 3 g E</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc84i3c1xpzrl1amd4gnjk" file_variant="master" position="1">Bauernbrot.png</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87xeqh81zib10nuqfsbh" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-07T16:42:15+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-10-28T16:54:42+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <Source topic="tmt87xests2q9c13gfojscn"/>
+    <CustomRecipeThesaurs topic="tmt81c05laeiqxudyygab"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <LastEditedBy topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <CustomRecipeNutritionalValueCalories position="1">755</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">44</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">27</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">51</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Gnocchi-Kabanossi-Eintopf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-07T16:42:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10436" position="1" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Suppengrün"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6916" position="2" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kabanossis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="2" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="5" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="6" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="passierte" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="9" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" prefix="glatte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="10" amount="25" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6336" position="11" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Kühlregal)" plural="Gnocchi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6351" position="12" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Gouda"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Suppengrün putzen, waschen und klein schneiden. Wurst in Scheiben schneiden. Knoblauch abziehen und fein würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ac65b3947f22">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einem Topf 2 EL Öl erhitzen, Wurstscheiben darin unter Wenden anbraten. Gemüse und Hälfte Knoblauch zufügen und kurz mitbraten. Mit Gemüsebrühe und passierten Tomaten ablöschen. Mit Salz und Pfeffer würzen und ca. 10 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6ac65b444e3c3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Petersilie waschen, trockenschütteln und Blättchen von den Stielen zupfen. Mit restlichem Knoblauch und Parmesan fein pürieren. Restliches Öl dabei nach und nach einfließen lassen. Pesto mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6ac65b4c9ff42">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Gnocchi in die Suppe geben und ca. 5 Minuten mitgaren. Eintopf abschmecken, mit Pesto beträufeln und mit Gouda bestreut servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gnocchi- Kabanossi-Eintopf, Rezept vorhanden</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Eat Club</ImageCredit>
+      <DocumentRef doc_id="doc87ap0xm9mliljioqs0h" file_variant="master" position="1">Gnocchi- Kabanossi-Eintopf, Rezept vorhanden</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

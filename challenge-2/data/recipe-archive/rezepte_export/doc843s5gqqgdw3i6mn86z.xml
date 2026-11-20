@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc843s5gqqgdw3i6mn86z" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-12T19:18:48+01:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2026-01-12T21:03:10+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="65"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsao13x8iado5"/>
+    <Source topic="tmt843thq87p6pe6vzl8qh"/>
+    <CustomRecipeNutritionalValueCalories position="1">150</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">10</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Spargelessenz mit Kerbel-Pesto</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-12T19:18:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10251" position="1" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" prefix="weißer" plural="Spargel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="2" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Essenz:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69655212d7c2e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="1" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Kerbel"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="2" amount="1/2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="Saft und Abrieb davon" plural="Bio-Limetten"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" position="3" amount="15" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Pesto:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Spargel schälen, die holzigen Enden und die Spitzen abschneiden. Zwei Spargelstangen in dünne Scheiben schneiden, die Spitzen halbieren und beides beiseitelegen. Die übrigen Spargelstangen in ca. 2 l Wasser mit Zitronensaft, Zucker, Salz und Pfeffer ca. 1 Stunde leicht köcheln lassen, bis sich die Flüssigkeit in etwa halbiert hat.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_696552870d1f9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen den Kerbel waschen, trocken schütteln und die Blättchen abzupfen. Kerbel mit dem Abrieb und 1 TL Saft der Limette, Parmesan, Olivenöl und Pfeffer fein pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69655296e9c6f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Spargelstangen aus dem Sud nehmen und anderweitig verwenden (z.B. für Salat). Die Spargelscheiben und -spitzen zur Essenz geben und in ca. 5 Minuten bissfest köcheln lassen. Die Suppe mit dem Pesto auf vier Schüsseln verteilen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Das Kerbel-Pesto schmeckt auch lecker zu Salat, Geflügelfleisch oder zu Nudeln. Deshalb am besten gleich etwas mehr zubereiten.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Spargelessenz mit Kerbelpesto</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Hoersch, Julia</ImageCredit>
+      <DocumentRef doc_id="doc7nmq1n5rmtft2nyh914" file_variant="master" position="1">Spargelessenz mit Kerbelpesto</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

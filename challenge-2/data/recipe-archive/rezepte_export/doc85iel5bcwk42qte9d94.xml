@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85iel5bcwk42qte9d94" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-21T08:51:24+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-04-21T09:14:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt85ievm22w4l180pafddt"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gebackene Vanillecreme mit Rhabarber","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":60},{"name":"Backen","duration":45}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"roter Rhabarber","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":null,"suffix":"(das Mark davon)"},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"Stück"},"prefix":null,"suffix":"(Eier Größe M)"},{"amount":2,"amountTo":null,"ingredient_name":"Mandelmehl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":"zum Bestäuben"}]}],"preparation":[{"headline":null,"content":"Backofen auf 200 Grad Umluft vorheizen. Rhabarber abbrausen, putzen und in 3–4 cm lange Stücke schneiden. Auf einem mit Backpapier belegten Blech verteilen, Butter schmelzen und darüber träufeln. Im Ofen ca. 10 Minuten backen. Rhabarber aus dem Ofen nehmen. Ofentemperatur auf 150 Grad Unter-/Oberhitze reduzieren."},{"headline":null,"content":"Milch, Sahne, Vanillemark und Zucker in einem kleinen Topf erhitzen. Mischung leicht abkühlen lassen. Eigelbe und Mandelmehl unterquirlen. Creme durch ein Sieb streichen und auf 4 ofenfeste Schälchen oder Portionsförmchen (à 200 ml Inhalt) verteilen."},{"headline":null,"content":"Schalen in ein tiefes Backblech oder eine große Auflaufform stellen. Im Blech so viel heißes Wasser angießen, dass die Formen 2–3 cm hoch im Wasser stehen. Im Ofen bei 150 Grad ca. 35 Minuten stocken lassen. Rhabarber während der letzten ca. 10 Minuten auf der Creme verteilen und mitbacken."},{"headline":null,"content":"Herausnehmen und warm oder abgekühlt, mit Zimt bestäubt, servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Gebackene Vanillecreme mit Rhabarber</Title>
+    <CustomRecipeNoteInformation position="1">4 ofenfeste Schalen oder Portionsförmchen (à 200 ml Inhalt)</CustomRecipeNoteInformation>
+    <Headline position="1">Gebackene Vanillecreme mit Rhabarber</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-21T08:51:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85iel7bzqvc1kkpb6moe">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" suffix="zum Bestäuben" plural="Zimt" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9141" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="(roter)" plural="Rhabarber"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Schlagsahne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(das Mark davon)" plural="Vanilleschoten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Eier: Größe M)" position="7" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7961" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mandelmehl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85ielbvozzohsdwjmoe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad Umluft vorheizen. Rhabarber abbrausen, putzen und in 3–4 cm lange Stücke schneiden. Auf einem mit Backpapier belegten Blech verteilen, Butter schmelzen und darüber träufeln. Im Ofen ca. 10 Minuten backen. Rhabarber aus dem Ofen nehmen. Ofentemperatur auf 150 Grad Unter-/Oberhitze reduzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ielbvp4spquqfumoe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Milch, Sahne, Vanillemark und Zucker in einem kleinen Topf erhitzen. Mix leicht abkühlen lassen. Eigelbe und Mandelmehl unterquirlen. Creme durch ein Sieb streichen und auf 4 ofenfeste Schälchen oder Portionsförmchen verteilen. Schalen in ein tiefes Backblech oder eine große Auflaufform stellen. Im Blech so viel heißes Wasser angießen, dass die Formen 2–3 cm hoch im Wasser stehen. Im Ofen ca. 35 Minuten stocken lassen. Rhabarber während der letzten ca. 10 Minuten auf der Creme verteilen und mitbacken. Herausnehmen und warm oder abgekühlt, mit Zimt bestäubt, servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Schönes Farbspiel: Für die zartrosa Färbung der Rhabarber Rezepte spielt die Wahl der Sorte eine wichtige Rolle: Varianten mit rosafarbenem bis rotem Fruchtfleisch, wie zum Beispiel Himbeer Rhabarber, sorgen ganz von selbst für einen hübschen Farbton im Glas oder auf dem Teller. Steht nur grünfleischiger Rhabarber zur Verfügung, lässt sich mit ein paar Himbeeren nachhelfen – sie intensivieren das Aroma und geben ebenfalls einen leuchtenden Farbakzent.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gebackene Vanille-Rhabarber-Creme</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc7ih5jpxgabqgm93x40j" file_variant="master" position="1">Gebackene Vanille-Rhabarber-Creme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

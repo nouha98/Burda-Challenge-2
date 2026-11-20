@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc875hrt495fd14el5vifa" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-14T08:48:05+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-14T08:54:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt875huuyhcxz1lip0vaxb"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pfirsich-Dessert","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Pfirsich-Kompott","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Pfirsich","unit":{"name":"g"},"prefix":"frische","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Für das Quark-Dessert","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Bio-","suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Mandelstifte","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"frische","suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Pfirsiche waschen. Mit einem Messer am Stielansatz kreuzweise einritzen. Pfirsiche in eine hitzebeständige Schüssel mit heißem Wasser geben und ca. 30 Sekunden überbrühen. Vorsichtig herausheben und in eine Schale mit kaltem Wasser legen, anschließend mit einem scharfen Messer vorsichtig häuten. Pfirsiche halbieren, entkernen und in Spalten schneiden."},{"headline":null,"content":"Orange auspressen. Pfirsichspalten in einem Topf bei kleiner Hitze kurz anschwitzen. Mit dem Orangensaft ablöschen und alles bei kleiner Hitze ca. 10 Minuten köcheln lassen, bis die Pfirsichspalten schön weich sind. Abkühlen lassen."},{"headline":null,"content":"Mandelstifte nach Belieben in einer beschichteten Pfanne ohne Fett anrösten. Abkühlen lassen."},{"headline":null,"content":"Magerquark zusammen mit Joghurt und Bourbon-Vanillezucker in eine Rührschüssel geben. Mit den Schneebesen des Handrührgeräts ca. 5 Minuten cremig aufschlagen. Zitrone heiß abwaschen, ca. 1 TL Zitronenschale abreiben, Zitrone auspressen. Zitronenschale und 1–2 TL Zitronensaft unter die Quarkcreme rühren."},{"headline":null,"content":"Quark-Dessert abwechselnd mit Pfirsichkompott in schöne Dessertgläser schichten. Zuletzt mit Pfirsichkompott abschließen und mit Mandelstiften bestreuen. Nach Belieben mit frischer Minze dekorieren."}],"recipe_tips":[{"headline":null,"content":"Dieses Dessert lässt sich auch problemlos mit Nektarinen oder Pflaumen zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Pfirsich-Dessert</Title>
+    <Headline position="1">Pfirsich-Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-14T08:48:05+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="875hrpxrp4g1h3dz0ifa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8736" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Pfirsiche" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Orangen" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Pfirsich-Kompott</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="875hrqllfhum25acifa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Bourbon-Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt86yfo5psjhil2txkdhy" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Bio-" plural="Zitronen" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Quark-Dessert</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="875hrs7tiyqmzn24ifa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7986" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Mandelstifte" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="nach Belieben etwas frische" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="875hrt47xsp1mwfzlifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pfirsiche waschen. Mit einem Messer am Stielansatz kreuzweise einritzen. Pfirsiche in eine hitzebeständige Schüssel mit heißem Wasser geben und ca. 30 Sekunden überbrühen. Vorsichtig herausheben und in eine Schale mit kaltem Wasser legen, anschließend mit einem scharfen Messer vorsichtig häuten. Pfirsiche halbieren, entkernen und in Spalten schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875hrt4859xm9bw6ifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Orange auspressen. Pfirsichspalten in einem Topf bei kleiner Hitze kurz anschwitzen. Mit dem Orangensaft ablöschen und alles bei kleiner Hitze ca. 10 Minuten köcheln lassen, bis die Pfirsichspalten schön weich sind. Abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875hrt485f6efkm3ifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mandelstifte nach Belieben in einer beschichteten Pfanne ohne Fett anrösten. Abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875hrt485jto4qjifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Magerquark zusammen mit Joghurt und Bourbon-Vanillezucker in eine Rührschüssel geben. Mit den Schneebesen des Handrührgeräts ca. 5 Minuten cremig aufschlagen. Zitrone heiß abwaschen, ca. 1 TL Zitronenschale abreiben, Zitrone auspressen. Zitronenschale und 1–2 TL Zitronensaft unter die Quarkcreme rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875hrt485nk1296idifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Quark-Dessert abwechselnd mit Pfirsichkompott in schöne Dessertgläser schichten. Zuletzt mit Pfirsichkompott abschließen und mit Mandelstiften bestreuen. Nach Belieben mit frischer Minze dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="875hrt485s516u5kiifa">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dieses Dessert lässt sich auch problemlos mit Nektarinen oder Pflaumen zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7czd3ge08f817j6dnicg" file_variant="master" position="1">pfirsich-dessert-hoch-0882.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a7ebba4bd2db">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7czcs2q7ahlfdbaficg" file_variant="master" position="1">pfirsich-dessert-step-1-pfirsich-schalen-0852.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a7ebba65458b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7czcrhvmrplzzf4dica" file_variant="master" position="1">pfirsich-dessert-step-1-pfirsich-schalen-0857.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a7ebba7b835b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7czcypwou1g1kxtihica" file_variant="master" position="1">pfirsich-dessert-quer-0873.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

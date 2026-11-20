@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85r5s00vuut18iyv7ig8" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-08T09:48:17+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-05-08T10:04:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt85r5zhfg1pz3czy0b1n"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kohlrabi-Möhren-Salat","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kohlrabi","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sesamöl","unit":{"name":"EL"},"prefix":null,"suffix":"geröstetes"},{"amount":2,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":"weißer"},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":"flüssiger"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kohlrabi und Möhren waschen, putzen und schälen. Das Gemüse, am besten mit Hilfe einer Küchenmaschine, grob raspeln."},{"headline":null,"content":"Crème fraîche mit dem Sesamöl, Balsamicoessig, Salz, Pfeffer und Honig cremig rühren und mit dem Raspel-Gemüse mischen. Den Kohlrabi-Möhren-Salat mindestens 30 Minuten im Kühlschrank durchziehen lassen. Mit den Vollkornbrot-Scheiben servieren."}],"recipe_tips":[{"headline":null,"content":"Frische, feingehackte Kräuter, wie Koriander oder Petersilie, geben dem Kohlrabi-Möhren-Salat eine frische Note. Für ein noch stärkeres, nussiges Aroma kannst du 2 EL Sesamsamen ohne Fett in einer Pfanne rösten und auf dem Salat verteilen."}]}</CustomStructuredRecipeJson>
+    <Title>Kohlrabi-Möhren-Salat</Title>
+    <Headline position="1">Kohlrabi-Möhren-Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-08T09:48:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85r5rxpbt4nfck8fig8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kohlrabi" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Crème fraîche" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10111" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sesamöl" position="4" prefix="geröstetes"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Balsamicoessig" position="5" prefix="weißer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="8" prefix="flüssiger"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="85r5rzmi247ckmr9ig8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85r5s00vq8x10hb2gig8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kohlrabi und Möhren waschen, putzen und schälen. Das Gemüse, am besten mit Hilfe einer Küchenmaschine, grob raspeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85r5s00vtafpp69aig8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Crème fraîche mit dem Sesamöl, Balsamicoessig, Salz, Pfeffer und Honig cremig rühren und mit dem Raspel-Gemüse mischen. Den Kohlrabi-Möhren-Salat mindestens 30 Minuten im Kühlschrank durchziehen lassen. Mit den Vollkornbrot-Scheiben servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85r5s00vtg114tochig8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Frische, feingehackte Kräuter, wie Koriander oder Petersilie, geben dem Kohlrabi-Möhren-Salat eine frische Note. Für ein noch stärkeres, nussiges Aroma kannst du 2 EL Sesamsamen ohne Fett in einer Pfanne rösten und auf dem Salat verteilen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi4u1tukgqh11kdub" file_variant="master" position="1">Kohlrabi-Moehren-Salat-hoch-1374.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69fd98ead7358">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhqo07pw31jlfj5du9" file_variant="master" position="1">Kohlrabi-Moehren-Salat-Step1-1226.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69fd98ef7abaa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi0re80zanvlhedud" file_variant="master" position="1">Kohlrabi-Moehren-Salat-Step2-1231.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69fd98f4ce46e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi6a3lg68lw89ddud" file_variant="master" position="1">Kohlrabi-Moehren-Salat-quer-1364.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

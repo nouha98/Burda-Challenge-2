@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ax2943kq9og50bnoc" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-08T14:37:14+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-09-08T14:37:14+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="35"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganer Milchreis","recipe_seo_headline":"Veganen Milchreis – einfach selber machen","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Pflanzendrink","unit":{"name":"l"},"prefix":null,"suffix":"(z. B. Hafermilch)"},{"amount":"1-2","amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Topping","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten für den Milchreis in einen Topf geben und aufkochen. Die Hitze anschließend auf eine geringe Stufe reduzieren."},{"headline":null,"content":"Den Milchreis etwa 30 Minuten bei schwacher Hitze leicht köcheln lassen, bis er die gewünschte Konsistenz erreicht hat. Gelegentlich umrühren. Falls dir der Milchreis am Ende der Kochzeit noch zu bissfest ist, kannst du mehr Pflanzendrink hinzufügen."},{"headline":null,"content":"In der Zwischenzeit Zimt und Zucker für das Topping vermengen. Milchreis auf 4 Schalen aufteilen und heiß oder kalt mit den gewünschten Toppings servieren und genießen."}],"recipe_tips":[{"headline":"Veganer Milchreis","content":"Pflanzendrink deiner Wahl – Hafermilch: gesundheitliche Vorteile. Auch Kokosmilch schmeckt super und verleiht dem Klassiker eine exotische Note. Ohne Zucker oder mit dem Süßungsmittel deiner Wahl. Gehackte Nüsse unterrühren. Besonders cremig durch etwas Kokosöl oder vegane Margarine. Toppings: Rote Grütze, Zwetschgenkompott, frisches Obst."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Veganer Milchreis</Headline>
+    <Title>Veganer Milchreis</Title>
+    <CustomRecipeSeoTitle position="1">Veganen Milchreis – einfach selber machen</CustomRecipeSeoTitle>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-08T14:37:14+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ax27miso33rjo7noc">
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(z. B. Hafermilch)" plural="Pflanzendrink" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1-2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchreis" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82ax28kfilxbg4t5noc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader>Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ax29439gj1ag9mhnoc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten für den Milchreis in einen Topf geben und aufkochen. Die Hitze anschließend auf eine geringe Stufe reduzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ax2943e1ij9ydznoc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Milchreis etwa 30 Minuten bei schwacher Hitze leicht köcheln lassen, bis er die gewünschte Konsistenz erreicht hat. Gelegentlich umrühren. Falls dir der Milchreis am Ende der Kochzeit noch zu bissfest ist, kannst du mehr Pflanzendrink hinzufügen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ax2943e6rd5pdknoc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Zimt und Zucker für das Topping vermengen. Milchreis auf 4 Schalen aufteilen und heiß oder kalt mit den gewünschten Toppings servieren und genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82ax2943eaxdmcjinoc">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Pflanzendrink deiner Wahl – Hafermilch: gesundheitliche Vorteile. Auch Kokosmilch schmeckt super und verleiht dem Klassiker eine exotische Note. Ohne Zucker oder mit dem Süßungsmittel deiner Wahl. Gehackte Nüsse unterrühren. Besonders cremig durch etwas Kokosöl oder vegane Margarine. Toppings: Rote Grütze, Zwetschgenkompott, frisches Obst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Veganer Milchreis</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2io5o7vex18wj0vbka" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T14:57:09+02:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2022-04-20T15:56:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt7bysvskbe9l27y7w1tr" position="1"/>
+    <Keywords topic="tmt7byswxiblk113sfry1tq" position="1"/>
+    <Keywords topic="tmt6ow92zrne8z9rlzb8m3" position="1"/>
+    <Creator topic="tmt7byz4to8yib164bpwofy" position="1"/>
+    <CustomRecipeServing topic="tmt7865q4pbrpzhzsa7idm" plural="(Unbekannte Einheit)" amount="0"/>
+    <CustomBlpId position="1">26142</CustomBlpId>
+    <Headline position="1">Sauce béarnaise</Headline>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:Strukturiert</CustomBlpDataField>
+    <DateCreated position="1">2011-09-05T00:00:00+02:00</DateCreated>
+    <CustomCenshareImportIssue>non numeric serving amount ' '</CustomCenshareImportIssue>
+    <DateImported>2020-08-27T14:57:09+02:00</DateImported>
+    <Title>Sauce béarnaise</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="59dbc2">
+      <CustomRecipeIngredient topic="tmt7byz5yuemvr130dfwj4n" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1"/>
+      <CustomRecipeIngredient topic="tmt7bzbmu4983crd919l4a" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2"/>
+      <CustomRecipeIngredient topic="tmt7bzbmu4gc2csjmocl4a" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" position="3"/>
+      <CustomRecipeIngredient topic="tmt7bzbmu4oolj15nu41l4a" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="59dbfe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">300 ml Sauce hollandaise (siehe Punkt 3) zubereiten. 100 ml lauwarme, gebundene, dunkle Fleischsoße einrühren. 1 kleine Zwiebel abziehen, fein hacken und in 1 TL heißer Butter dünsten. Dann in die Soße rühren. 2 EL gehackten Kerbel unterziehen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2io5tpf6f13ryvbka" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T14:57:10+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2io5o7vex18wj0vbka"/>
+      <hash>11c648deaf23dd94cbaabf7ffa15b34c</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T14:57:10+02:00</modified>
+      <size>2251</size>
+      <subpath>2020/08-27/a3/c4/file7c2io5tpf6f13ryvbka.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2io5swng1n4hqcbka" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T14:57:10+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2io5o7vex18wj0vbka"/>
+      <hash>4cb7411bdba04b2bac657497275fd6e4</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T14:57:10+02:00</modified>
+      <size>399</size>
+      <subpath>2020/08-27/3d/7e/file7c2io5swng1n4hqcbka.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

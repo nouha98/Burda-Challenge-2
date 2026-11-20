@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87t6pw3m9dwovbiwgre" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-29T11:28:07+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-09-29T11:49:44+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="270"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="135"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt87t6zvy1p0k13iv69gwu"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kartoffelbrot","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":270},{"name":"Ruhen/Warten","duration":135},{"name":"Backen","duration":50}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Brot","ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"mehligkochende Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"frische Hefe","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Dinkelmehl Type 630","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Roggenmehl Type 1150","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Brotgewürz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"flüssiger Natursauerteig","unit":{"name":"Packung"},"prefix":null,"suffix":"75 g"}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen und in Salzwasser ca. 20 Minuten gar kochen. Kartoffeln abgießen, pellen, durch die Kartoffelpresse drücken und abkühlen lassen."},{"headline":null,"content":"Hefe zerbröseln und mit Zucker sowie 120 bis 150 ml lauwarmem Wasser mischen. 15 Minuten ziehen lassen, bis die Hefe kleine Bläschen wirft."},{"headline":null,"content":"Die beiden Mehle, Brotgewürz und 2 TL Salz mischen. Mit Sauerteig und Kartoffeln zur Hefemischung geben und mit dem Knethaken des Handrührers oder der Küchenmaschine 8 bis 10 Minuten zu einem geschmeidigen Teig verarbeiten."},{"headline":null,"content":"Den Teig abgedeckt bei Zimmertemperatur 1 Stunde ruhen lassen, dabei einmal dehnen und falten. Teig auf einer bemehlten Arbeitsfläche rundwirken."},{"headline":null,"content":"Den Teig in einer mit einem Geschirrtuch ausgelegten Schüssel abgedeckt 1 Stunde ruhen lassen."},{"headline":null,"content":"Den Ofen mit einem gusseisernen Topf mit Deckel darin auf 250 Grad Ober-/Unterhitze vorheizen. Brot auf eine bemehlte Arbeitsfläche stürzen, mit einem scharfen Messer einschneiden und in den heißen Topf legen."},{"headline":null,"content":"Das Brot mit Deckel auf der 2. Schiene von unten im Ofen 45 bis 50 Minuten backen. Nach ca. 10 Minuten die Temperatur auf 220 Grad reduzieren."},{"headline":null,"content":"Brot aus dem Ofen nehmen und auf einem Kuchengitter vollständig auskühlen lassen."}],"recipe_tips":[{"headline":null,"content":"Benötigt werden eine Kartoffelpresse und ein Gusseisenbräter mit Deckel."}]}</CustomStructuredRecipeJson>
+    <Title>Kartoffelbrot</Title>
+    <CustomRecipeNoteInformation position="1">Kartoffelpresse, Gusseisenbräter mit Deckel</CustomRecipeNoteInformation>
+    <Headline position="1">Kartoffelbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-29T11:28:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87t6pyx5b501femv4pi3">
+      <CustomRecipeIngredient topic="tmt7e4z7t1e7lupfff2oes" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="75 g (z. B. von Seitenbacher)" position="8" plural="Natursauerteig" prefix="flüssiger"/>
+      <CustomRecipeIngredient topic="tmt80j860dt4auamn8mgip" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="mehligkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zg4j024otz1i5j3jbqf" amount="5" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Dinkelmehl" suffix="Type 630"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9256" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Roggenmehl" suffix="Type 1150"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5161" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Brotgewürz" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Brot</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87t6q27ae9etyf0bpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und in Salzwasser ca. 20 Minuten gar kochen. Kartoffeln abgießen, pellen, durch die Kartoffelpresse drücken und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6q27aeh2733upi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Hefe zerbröseln und mit Zucker sowie 120 bis 150 ml lauwarmem Wasser mischen. 15 Minuten ziehen lassen, bis die Hefe kleine Bläschen wirft. Die beiden Mehle, Brotgewürz und 2 TL Salz mischen. Mit Sauerteig und Kartoffeln zur Hefemischung geben und mit dem Knethaken des Handrührers oder der Küchenmaschine 8 bis 10 Minuten zu einem geschmeidigen Teig verarbeiten. Den Teig abgedeckt bei Zimmertemperatur 1 Stunde ruhen lassen, dabei einmal dehnen und falten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6q27aekl582zepi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig auf einer bemehlten Arbeitsfläche rundwirken. Den Teig in einer mit einem Geschirrtuch ausgelegten Schüssel abgedeckt 1 Stunde ruhen lassen. Den Ofen mit einem gusseisernen Topf mit Deckel darin auf 250 Grad Ober-/Unterhitze vorheizen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6q27aeolo18n9pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Brot auf eine bemehlte Arbeitsfläche stürzen, mit einem scharfen Messer einschneiden und in den heißen Topf legen. Das Brot mit Deckel auf der 2. Schiene von unten im Ofen 45 bis 50 Minuten backen. Nach ca. 10 Minuten die Temperatur auf 220 Grad reduzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6q27aesj52e94pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Brot aus dem Ofen nehmen und auf einem Kuchengitter vollständig auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87t6q27af7n8arl4pi3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kartoffelbrot mit Ricotta-Blauschimmel-Creme und glasierten Mini-Beten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc870golfxsd2q946s20ma" file_variant="master" position="1">Kartoffelbrot mit Ricotta-Blauschimmel-Creme und glasierten Mini-Beten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

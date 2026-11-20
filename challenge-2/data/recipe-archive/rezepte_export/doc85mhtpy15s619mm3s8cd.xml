@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85mhtpy15s619mm3s8cd" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-29T07:53:34+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-04-29T07:57:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt85mhvebfj3r1ge2kvlx9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Herbstsalat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Feldsalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"rote","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Birne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"reife"},{"amount":50,"amountTo":null,"ingredient_name":"Walnusskern","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Weintraube","unit":{"name":"g"},"prefix":"dunkle","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Walnussöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Dijonsenf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"EL"},"prefix":"milder","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":"mit Fluorid","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Weichkäse","unit":{"name":"g"},"prefix":null,"suffix":"mit Rotkultur (z. B. Romadur)"}]},{"headline":"Außerdem","ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Bauernbrot","unit":{"name":"Scheibe"},"prefix":"dicke","suffix":null}]}],"preparation":[{"headline":null,"content":"Feldsalat putzen, waschen und trockenschleudern. Zwiebel abziehen, halbieren und in feine halbe Ringe schneiden. Birnen waschen, vierteln, das Kerngehäuse entfernen und in dünne Spalten schneiden."},{"headline":null,"content":"Walnusskerne in einer Pfanne ohne Fett rösten, bis sie anfangen zu duften. Vom Herd nehmen und grob hacken. Weintrauben waschen, halbieren und ggfs. die Kerne entfernen."},{"headline":null,"content":"Für das Dressing das Öl mit dem Senf und dem Honig verquirlen und den Essig unterschlagen. Dressing mit Salz und Pfeffer abschmecken. Weichkäse in mundgerechte Stücke schneiden."},{"headline":null,"content":"Feldsalat mit dem Dressing vermengen und zusammen mit den Zwiebeln und Birnen auf 4 Teller anrichten. Gehackte Walnüsse, Weintrauben und Weichkäse darauf verteilen und je 1 ½ Scheiben Bauernbrot dazu reichen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Herbstsalat</Title>
+    <Headline position="1">Herbstsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-29T07:53:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85mhtjzl8ud16t43p8cd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5901" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feldsalat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="rote" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="3" prefix="reife"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnusskerne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11076" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="dunkle" plural="Weintrauben" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11006" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Walnussöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Dijonsenf" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="milder" plural="Apfelessig" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11031" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="mit Rotkultur (z. B. Romadur)" plural="Weichkäse" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="85mhtpi7dmfi190q8cd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4841" amount="6" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Bauernbrot" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85mhtpy0fxe19jxaf8cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Feldsalat putzen, waschen und trockenschleudern. Zwiebel abziehen, halbieren und in feine halbe Ringe schneiden. Birnen waschen, vierteln, das Kerngehäuse entfernen und in dünne Spalten schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85mhtpy0syf4viv08cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Walnusskerne in einer Pfanne ohne Fett rösten, bis sie anfangen zu duften. Vom Herd nehmen und grob hacken. Weintrauben waschen, halbieren und ggfs. die Kerne entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85mhtpy0t7d1hbgwd8cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für das Dressing das Öl mit dem Senf und dem Honig verquirlen und den Essig unterschlagen. Dressing mit Salz und Pfeffer abschmecken. Weichkäse in mundgerechte Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85mhtpy0tbp1djniq8cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Feldsalat mit dem Dressing vermengen und zusammen mit den Zwiebeln und Birnen auf 4 Teller anrichten. Gehackte Walnüsse, Weintrauben und Weichkäse darauf verteilen und je 1 ½ Scheiben Bauernbrot dazu reichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Herbstsalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mtu796n2lvjap15iug" file_variant="master" position="1">Herbstsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69f19dac55135">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Herbstsalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mttxp250p3jtk5h4vw" file_variant="master" position="1">Herbstsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69f19daed7bb8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Herbstsalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mtuar14yw3zthrp5jc" file_variant="master" position="1">Herbstsalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

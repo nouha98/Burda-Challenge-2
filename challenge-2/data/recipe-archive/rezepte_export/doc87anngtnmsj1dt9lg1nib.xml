@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87anngtnmsj1dt9lg1nib" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-24T09:58:23+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-24T10:12:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Source topic="tmt87anu3c00ix1dj8sp1mdf"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rosenkohl-Pasta","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":700,"amountTo":null,"ingredient_name":"Rosenkohl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikaschote","unit":{"name":"(Keine Einheit)"},"prefix":"rote Mini-","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikaschote","unit":{"name":"(Keine Einheit)"},"prefix":"gelbe Mini-","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Bio-","suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Vollkornnudeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":"mit Fluorid","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":"zum Braten"},{"amount":100,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":"weißer","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"gehobelte Späne (oder z. B. Montello)"}]}],"preparation":[{"headline":null,"content":"Rosenkohl waschen, putzen, halbieren. Schalotten abziehen, fein würfeln. Mit einem scharfen Messer aus den Mini-Paprikaschoten das Kerngehäuse entfernen, waschen, Mini-Paprika in Ringe schneiden. Zitrone heiß abwaschen, Schale fein abreiben, Saft auspressen."},{"headline":null,"content":"Nudeln nach Packungsanweisung in leicht gesalzenem Wasser aufsetzen und zum Kochen bringen. Öl in einer weiten beschichteten Pfanne oder einem Topf erhitzen. Rosenkohlhälften und Schalotten darin bei mittlerer Hitze 2–3 Minuten goldbraun anbraten. Mini-Paprikascheiben hinzufügen, mit Brühe ablöschen, Zucker einrühren. Alles zugedeckt ca. 6 Minuten köcheln lassen."},{"headline":null,"content":"Nudeln abgießen, dabei ca. 100 ml Nudelwasser auffangen. Die heißen Nudeln zusammen mit dem Nudelwasser, 1–2 TL Zitronenabrieb und 2–3 TL Zitronensaft unter das Gemüse mischen. Mit Pfeffer und Salz würzen. Nudeln mit Rosenkohl auf Teller verteilen und mit Parmesanspänen bestreuen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Rosenkohl-Pasta</Title>
+    <Headline position="1">Rosenkohl-Pasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-24T09:58:23+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87annci4r2t135nlj1nib">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(oder z. B. Montello)" plural="Parmesan" position="12" prefix="gehobelte Späne "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9311" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rosenkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="rote Mini-" plural="Paprikaschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="gelbe Mini-" plural="Paprikaschoten" position="4"/>
+      <CustomRecipeIngredient topic="tmt86yfo5psjhil2txkdhy" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Bio-" plural="Zitronen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10891" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollkornnudeln" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Jodsalz" position="7" suffix="mit Fluorid"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Braten" plural="Olivenöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="weißer" plural="Pfeffer" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87anngtnl42xa39u1nib">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rosenkohl waschen, putzen, halbieren. Schalotten abziehen, fein würfeln. Mit einem scharfen Messer aus den Mini-Paprikaschoten das Kerngehäuse entfernen, waschen, Mini-Paprika in Ringe schneiden. Zitrone heiß abwaschen, Schale fein abreiben, Saft auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87anngtnlerr91zx1nib">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Nudeln nach Packungsanweisung in leicht gesalzenem Wasser aufsetzen und zum Kochen bringen. Öl in einer weiten beschichteten Pfanne oder einem Topf erhitzen. Rosenkohlhälften und Schalotten darin bei mittlerer Hitze 2–3 Minuten goldbraun anbraten. Mini-Paprikascheiben hinzufügen, mit Brühe ablöschen, Zucker einrühren. Alles zugedeckt ca. 6 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87anngtnlk8od3t71nib">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nudeln abgießen, dabei ca. 100 ml Nudelwasser auffangen. Die heißen Nudeln zusammen mit dem Nudelwasser, 1–2 TL Zitronenabrieb und 2–3 TL Zitronensaft unter das Gemüse mischen. Mit Pfeffer und Salz würzen. Nudeln mit Rosenkohl auf Teller verteilen und mit Parmesanspänen bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhxbcmpiu290rgduc" file_variant="master" position="1">Rosenkohl-Pasta-hoch-3296.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a8bfceb47245">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhwc3qcupriihvduf" file_variant="master" position="1">Rosenkohl-Pasta-step1-2999.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a8bfcefd1941">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi9z8uumt7piybdug" file_variant="master" position="1">Rosenkohl-Pasta-step3-3006.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a8bfcf1cbb1a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqiagrip2ccxztaduc" file_variant="master" position="1">Rosenkohl-Pasta-step2-3002.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6a8bfcf389727">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhte928lxgbnp9duf" file_variant="master" position="1">Rosenkohl-Pasta-quer-3285.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

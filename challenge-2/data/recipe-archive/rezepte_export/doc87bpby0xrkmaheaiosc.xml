@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87bpby0xrkmaheaiosc" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-26T10:51:41+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-08-26T11:10:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqq8a45undo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt87bpg8fg29g7eq20ovk"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rote-Bete-Cocktail","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":185,"kilojoule":774,"carbonhydrates":29,"fat":0,"protein":1,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Gewürzmischung","unit":{"name":"EL"},"prefix":null,"suffix":"(z.B. Tajine-Gewürz)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"1/2","amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"veganer Mezcal","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":240,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"Rote-Bete-Saft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"einige","amountTo":null,"ingredient_name":"Angostura Bitter","unit":{"name":"Spritzer"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gewürzmischung mit Zucker auf einem Unterteller mischen."},{"headline":null,"content":"Limette einschneiden und den Rand von 4 Tumbler-Gläsern damit abreiben. Gläser in der Gewürz-Zucker-Mischung drehen, um den Rand zu beschichten. Kurz kühl stellen."},{"headline":null,"content":"In einen Cocktailshaker 1–2 Handvoll Eiswürfel geben. Mezcal, Orangensaft, Rote-Bete-Saft, Agavendicksaft, Limettensaft und einige Spritzer Bitter hinzufügen. Alles kräftig schütteln und kühlen."},{"headline":null,"content":"Jeweils einige Eiswürfel in die Gläser füllen. Cocktail durch ein Barsieb vorsichtig in die Gläser eingießen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Rote-Bete-Cocktail</Title>
+    <CustomRecipeNutritionalValueCalories position="1">185</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">774</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">29</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Cocktail-Shaker</CustomRecipeNoteInformation>
+    <Headline position="1">Rote-Bete-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-26T10:51:41+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87bpc1a0u6akgxik9nd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6286" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(z.B. Tajine-Gewürz)" plural="Gewürzmischung" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Limetten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="2" max_amount="3" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt87bpcwbl6ms16yvo9otl" amount="12" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="5" prefix="veganer" plural="Mezcal"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="240" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9356" amount="160" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rote-Bete-Saft" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Agavendicksaft" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Limettensaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt87bpde18gdf1jyoswott" position="10" prefix="einige Spritzer" plural="Angostura Bitter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87bpc5esu1w1k9yjd9nd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gewürzmischung mit Zucker auf einem Unterteller mischen. Limette einschneiden und den Rand von 4 Tumbler-Gläsern damit abreiben. Gläser in der Gewürz-Zucker-Mischung drehen, um den Rand zu beschichten. Kurz kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bpc5esyb61lectz9nd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einen Cocktailshaker 1–2 Handvoll Eiswürfel geben. Mezcal, Orangensaft, Rote-Bete-Saft, Agavendicksaft, Limettensaft und einige Spritzer Bitter hinzufügen. Alles kräftig schütteln und kühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bpc5esyfl12mtqf9nd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Jeweils einige Eiswürfel in die Gläser füllen. Cocktail durch ein Barsieb vorsichtig in die Gläser eingießen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pickled Rote-Bete-Cocktail</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Olive</ImageCredit>
+      <DocumentRef doc_id="doc86miaxfdhk41ndi3clm4" file_variant="master" position="1">Pickled Rote-Bete-Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

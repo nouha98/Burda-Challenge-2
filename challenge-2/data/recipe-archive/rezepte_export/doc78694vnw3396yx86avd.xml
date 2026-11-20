@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc78694vnw3396yx86avd" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T14:21:55+01:00</created>
+  <identifier></identifier>
+  <modcount>18</modcount>
+  <modified>2024-12-03T09:38:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="40"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomCenshareId>266147</CustomCenshareId>
+    <Title position="1">Marmelade von grünen Tomaten</Title>
+    <Headline position="1">Marmelade von grünen Tomaten</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">55</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">240</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">13</CustomRecipeNutritionalValueCarbs>
+    <CustomCenshareRecipeRelationshipParentOf>826523</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>1072982</CustomCenshareRecipeRelationshipParentOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T15:36:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="405052">
+      <CustomRecipeIngredient topic="tmt782pcepusph6yzw58gz" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="grünfleischige" suffix="(z. B. die Sorte Green Zebra)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit_topic="tm_topic_default_unit" suffix="(Bio) "/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="4050c5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten waschen, Stielansatz herausschneiden. Tomaten in Würfel schneiden und mit dem Gelierzucker mischen. Tomaten mindestens 2 Stunden Saft ziehen lassen. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4050d5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Vanilleschote längs aufschneiden, das Mark herauskratzen. Limette heiß waschen, trocken tupfen. Die Schale fein abreiben und den Saft auspressen. Vanillemark und -schote, Limettensaft und -schale zu den Tomaten geben und alles unter Rühren aufkochen. Tomaten 4 Minuten sprudelnd kochen lassen. Dann die Vanilleschote entfernen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4050e2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Marmelade in saubere Schraubgläser füllen, diese verschließen. Kühl aufbewahrt im verschlossenen Glas mehrere Monate haltbar. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="40508f">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Wer keine Stückchen in der Konfitüre mag, der püriert die Mischung während des Kochens und passiert sie danach noch durch ein Sieb. Dann vorm Einfüllen in die Gläser aber alles noch mal aufkochen. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="4050a2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="2">Tipp 2</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="2">Grünfleischige Tomaten sind trotz ihrer Farbe reif. Sie werden nicht rot, sondern bleiben grün. Allerdings darf man keine unreif geernteten und daher grünen Tomaten für dieses Gericht verwenden. Denn unreife Tomaten sollten nicht gegessen werden. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_279678_last" doc_id="doc78694c4k5qe168a2xavs" position="1">279678-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_b625af">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel>Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_826525_last" doc_id="doc786ropcd35i1cmuoklm8">GrueneTomatenMarmelade_0773 V</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78a9xfz9prkjti33hct" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-06T10:13:46+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_266147</displayname>
+      <doc_id id="doc78694vnw3396yx86avd"/>
+      <hash>bf5ec16b4d112ed4cc0136293d66e36d</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2019-12-07T15:36:52+01:00</modified>
+      <size>3415</size>
+      <subpath>2019/12-07/4f/5a/file78a9xfz9prkjti33hct.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

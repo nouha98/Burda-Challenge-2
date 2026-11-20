@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7n2mzqsedms18w5kokjm" dcx-version="6.3.1" version="1.0">
+  <created>2022-10-07T13:11:53+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-07-14T11:02:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr1c118dxhdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">160</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">680</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">38</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Dschungel-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-10-07T13:11:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" position="0" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" suffix="(z.B. Grüner Apfel von Pfanner)" plural="Apfelsaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10976" position="1" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Waldmeistersirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="2" amount="2" prefix="grünschalige" plural="Äpfel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Am Morgen der Party: 1 l Apfelsaft (z. B. Grüner Apfel von Pfanner) mit ca. 100 ml Waldmeistersirup mischen. Zum Servieren: 2 grünschalige Äpfel waschen, dünne Scheiben um das Kerngehäuse abschneiden. Daraus nach Belieben mit Dino-Plätzchenausstechern Figuren ausstechen, Rest würfeln. In den Saft-Mix geben, mit 500 ml kaltem stillen Wasser auffüllen, evtl. mit Sirup süßen, in Gläser füllen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aufmacher</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc7i4b7xzb2c6ttuau4ar" file_variant="master" position="1">Aufmacher</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

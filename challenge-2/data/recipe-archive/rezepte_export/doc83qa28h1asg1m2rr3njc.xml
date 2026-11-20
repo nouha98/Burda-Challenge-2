@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qa28h1asg1m2rr3njc" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T12:37:47+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-17T12:44:51+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="16" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurm12gcltdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt83qa5i37fzm1j91u5nk8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schokoladen-Brioche-Konfekt","recipe_seo_headline":null,"servings":{"amount":16.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":60}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Pistazienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Brioche","unit":{"name":"g"},"prefix":null,"suffix":"vom Vortag"},{"amount":100,"amountTo":null,"ingredient_name":"Zartbitter-Schokolade oder -Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":"(70% Kakaoanteil)"},{"amount":4,"amountTo":null,"ingredient_name":"Pistaziencreme","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":15,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kakao-Nibs","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":"1 Prise"}]}],"preparation":[{"headline":null,"content":"Pistazien grob hacken. Brioche sehr fein würfeln. Pistazien mit den Gebäckstücken in einer Pfanne ohne Fett leicht anrösten."},{"headline":null,"content":"Schokolade hacken und in einer Metallschüssel über einem heißen Wasserbad langsam schmelzen. Pistaziencreme dazugeben und alles gut verrühren. Vom Herd nehmen."},{"headline":null,"content":"Brioche-Pistazien-Mischung, Kürbiskerne und Kakao-Nibs unter die geschmolzene Schoko-Pistaziencreme rühren, dabei mit etwas Salz verfeinern."},{"headline":null,"content":"Die Form mit Frischhaltefolie auslegen. Die Masse hineinfüllen, mit einem Spatel gleichmäßig andrücken und glatt streichen. Für mindestens 1 Stunde in den Kühlschrank stellen, bis das Ganze fest geworden ist. Danach in Würfel schneiden."}],"recipe_tips":[{"headline":null,"content":"Anstatt des französischen Hefebackens können Sie auch übrig gebliebene Croissants oder Weißbrot verwenden. Oder Sie mischen Cornflakes ohne Zucker unter die Schokolade, dann erhalten Ihre Konfektwürfel noch etwas mehr Crunch."}]}</CustomStructuredRecipeJson>
+    <Title>Schokoladen-Brioche-Konfekt</Title>
+    <Headline position="1">Schokoladen-Brioche-Konfekt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T12:37:47+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qa29j0k4k8w90jkrb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8846" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pistazienkerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt7cv7bxfmzmftb2851sh" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="vom Vortag" plural="Brioches" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="oder -Kuvertüre (70% Kakaoanteil)" position="3" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt7lk44qmzf8o8yf4y1pj" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" plural="Pistazienaufstrich"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="15" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbiskerne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kakao-Nibs" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz" position="7" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qa2btxvt2akws5krb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pistazien grob hacken. Brioche sehr fein würfeln. Pistazien mit den Gebäckstücken in einer Pfanne ohne Fett leicht anrösten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qa2btxw1311xfx1krb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schokolade hacken und in einer Metallschüssel über einem heißen Wasserbad langsam schmelzen. Pistaziencreme dazugeben und alles gut verrühren. Vom Herd nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qa2btxw521fgveckrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Brioche-Pistazien-Mischung, Kürbiskerne und Kakao-Nibs unter die geschmolzene Schoko-Pistaziencreme rühren, dabei mit etwas Salz verfeinern.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qa2btxw95i1csrkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Form mit Frischhaltefolie auslegen. Die Masse hineinfüllen, mit einem Spatel gleichmäßig andrücken und glatt streichen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69429777bfb38">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für mindestens 1 Stunde in den Kühlschrank stellen, bis das Ganze fest geworden ist. Danach in Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83qa2btxwdy1fvps0krb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Anstatt des französischen Hefebackens können Sie auch übrig gebliebene Croissants oder Weißbrot verwenden. Oder Sie mischen Cornflakes ohne Zucker unter die Schokolade, dann erhalten Ihre Konfektwürfel noch etwas mehr Crunch.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schokoladen-Brot-Fudge</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Silke Zander</ImageCredit>
+      <DocumentRef doc_id="doc82pocqon7gg1mensqgx8" file_variant="master" position="1">Schokoladen-Brot-Fudge</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

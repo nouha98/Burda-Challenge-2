@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc853msbi3impy3bv81p90" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-23T13:51:53+01:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2026-03-23T14:07:02+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt81c00dbs9e9oco8zg8g"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpvd37ecdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt850nzua7gx3bpudxhlq"/>
+    <CustomRecipeNoteInformation position="1">Portionsangabe und Zubereitungszeiten sind circa-Angaben. </CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">310</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">15</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">37</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">10</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Fischmedaillons in Tomaten-Zitronen-Soße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-23T13:51:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5961" position="1" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Weiß-" suffix="(ohne Haut, z. B. Brasse, Wolfsbarsch)" plural="Fischfilets"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10371" position="4" amount="1" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Staudensellerie"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="5" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="6" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt80lph1oifash4pqqrvm" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="getrockneter Oregano"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="8" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt80lqhgkbmuv9zoy1lko" position="9" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="stückige Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" position="10" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="11" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4816" position="12" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="(in feinen Streifen)" plural="Basilikumblätter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fischfilet abbrausen, abtropfen lassen und ggf. von noch vorhandenen Gräten befreien. Dann in Medaillons oder Stücke schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69c13918c97c4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel und Knoblauch abziehen und beides klein würfeln. Sellerie waschen, putzen und in dünne Scheiben schneiden. Die Zitronen heiß abbrausen, trocken tupfen und in dünne Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69c1392844c93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einer hohen Pfanne das Öl erhitzen und die Zwiebel mit dem Sellerie darin ca. 3 Minuten hell anschwitzen. Knoblauch zufügen und kurz unter Rühren mitgaren, dann die Zitronenscheiben und den Oregano untermischen, alles anbraten und leicht bräunen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69c1393d92488">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomatenmark einrühren und noch ca. 1 Minute mitbraten, dann die stückigen und passierten Tomaten untermengen. Alles bei reduzierter Hitze 10–15 Minuten köcheln lassen, salzen und pfeffern. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69c1395161e18">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fisch hineinlegen, er sollte ganz mit Soße bedeckt sein. Bei Bedarf noch etwas Wasser angießen, und alles zugedeckt ca. 5 Minuten garen. Die Fischpfanne abschmecken und mit Basilikum bestreut servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fischmedaillons in Tomaten-Zitronen-Sauce auf Tisch im Freien</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Lerner, Danny</ImageCredit>
+      <DocumentRef doc_id="doc7u86s9i0wpsijphjz0" file_variant="master" position="1">Fischmedaillons in Tomaten-Zitronen-Sauce auf Tisch im Freien</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

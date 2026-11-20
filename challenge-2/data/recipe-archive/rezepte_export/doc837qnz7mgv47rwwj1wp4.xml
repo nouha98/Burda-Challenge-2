@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc837qnz7mgv47rwwj1wp4" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-11T10:42:28+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-11T10:47:17+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Brennersauce","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gemahlener weißer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Butter in einem Topf zerlassen. Das Mehl auf einmal dazu geben und mit einem Holzlöffel gut einrühren und ca. 1-2 Minuten rühren. Wenn die Mehlschwitze hellbraun ist, mit kalter Brühe aufgießen und langsam aufkochen. Währenddessen mit einem Schneebesen ständig umrühren, damit es keine Klümpchen gibt. Mit Salz und Pfeffer abschmecken und für ca. 20 Minuten sanft köcheln lassen. Dabei immer wieder umrühren."}],"recipe_tips":[{"headline":"Brühe","content":"Du kannst Gemüsebrühe aus gekörnter Brühe zubereiten oder Rinder bzw. Geflügelfond aus dem Glas verwenden. Am besten schmeckt die Sauce mit selbstgemachter Brühe."},{"headline":"Die richtige Temperatur","content":"Wenn Butter braun wird, schmeckt sie leicht nussig und verleiht deiner Brühe einen tollen Geschmack. Hier musst du gut aufpassen, dass die Butter nicht verbrennt. Das kann sehr schnell gehen. Daher gerade bei dieser Sauce mit nicht zu viel Hitze arbeiten."}]}</CustomStructuredRecipeJson>
+    <Title>Brennersauce</Title>
+    <Headline position="1">Brennersauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-11T10:42:28+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="837qnxdyy1c13a5sg1wp4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Brühe" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt80nfc8biukxqg4ei4dh" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="5" prefix="weißer" plural="Pfeffer, gemahlen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="837qnz7me1vwuszs1wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Butter in einem Topf zerlassen. Das Mehl auf einmal dazu geben und mit einem Holzlöffel gut einrühren und ca. 1-2 Minuten weiter rühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_691305618d965">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Wenn die Mehlschwitze hellbraun ist, mit kalter Brühe aufgießen und langsam aufkochen. Währenddessen mit einem Schneebesen ständig umrühren, damit es keine Klümpchen gibt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6913057543f34">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit Salz und Pfeffer abschmecken und für ca. 20 Minuten sanft köcheln lassen. Dabei immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="837qnz7mebkisk4z1wp4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst Gemüsebrühe aus gekörnter Brühe zubereiten oder Rinder bzw. Geflügelfond aus dem Glas verwenden. Am besten schmeckt die Sauce mit selbstgemachter Brühe.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Brühe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="837qnz7meiu1lbm8y1wp4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn Butter braun wird, schmeckt sie leicht nussig und verleiht deiner Brühe einen tollen Geschmack. Hier musst du gut aufpassen, dass die Butter nicht verbrennt. Das kann sehr schnell gehen. Daher gerade bei dieser Sauce mit nicht zu viel Hitze arbeiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die richtige Temperatur</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8ljkpnyr6ucg8smy" file_variant="master" position="1">Brennersauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69130621486b7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8lerqpbl1if7l2skp" file_variant="master" position="1">Brennersauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69130622923f6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8lg9onah13zqm2sli" file_variant="master" position="1">Brennersauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6913062403825">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8ldwp4v411j72aspc" file_variant="master" position="1">Brennersauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786bz52gwz7ay9ft3h3" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T18:03:03+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:32:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt7865q4pbrpzhzsa7idm" plural="(Unbekannte Einheit)" amount="0"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="90"/>
+    <CustomCenshareId>427204</CustomCenshareId>
+    <Title position="1">Walnuss-Zimtsterne</Title>
+    <Headline position="1">Walnuss-Zimtsterne</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareImportIssue>non numeric serving amount ' ACHTUNG: DIESE EINHEIT GIBT ES IN DER TRANSFORMATION NICHT'</CustomCenshareImportIssue>
+    <CustomCenshareRecipeRelationshipChildOf>354921</CustomCenshareRecipeRelationshipChildOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T23:18:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="331bba">
+      <CustomRecipeIngredient topic="tmt782msv5vt879lsyq8gz" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="abgeriebene"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Puderzucker zum Bestäuben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9016" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="4" unit_topic="tm_topic_default_unit" suffix="(Größe M)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit_topic="tm_topic_default_unit" suffix="zum Ausrollen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="331c2c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Nüsse und Mandeln in einer Pfanne ohne Fett rösten, herausnehmen, abkühlen. Eiweiß mit Salz steif schlagen, dabei den Puderzucker nach und nach hinzufügen. Masse 10 Minuten auf höchster Stufe weiterschlagen. Nüsse mit Zimt und Zitronenschale mischen, mit dem Gelee mit einem Schneebesen unter den Eischnee heben. 30 Minuten kühlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="331c3a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Masse in kleinen Portionen auf einer mit Zucker ausgestreuten Arbeitsfläche 5 mm dick ausrollen. Sterne ausstechen, Ausstecher dabei immer wieder in Zucker tauchen. Sterne auf ein mit Backpapier belegtes Blech setzen, 60 Minuten ruhen lassen, bis die Schnittflächen trocken sind.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="331c47">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 150 Grad (Umluft: 130 Grad) vorheizen. Sterne ca. 12 Minuten backen. Mit Puderzucker bestäuben.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="331c16">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Rauten statt Sterne</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wenn es schnell gehen soll: Walnuss-Teig nicht mit Förmchen ausstechen, sondern Rauten mit einem Teigrädchen ausschneiden. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2i8iv5a11ampb0bn5" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:18:28+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_427204</displayname>
+      <doc_id id="doc786bz52gwz7ay9ft3h3"/>
+      <hash>88593330c58cd3db99d8480a5fdf5aa1</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:18:28+01:00</modified>
+      <size>4036</size>
+      <subpath>2019/12-07/92/53/file78b2i8iv5a11ampb0bn5.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

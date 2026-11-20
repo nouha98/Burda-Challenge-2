@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83k161imnjp10v9ekmlb" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-05T08:50:15+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-05T08:55:38+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananen Pancakes","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"Stück"},"prefix":"reife","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Bananen schälen und mit einer Gabel in einer Schüssel fein zerdrücken."},{"headline":null,"content":"Das Ei mit dem Zucker, dem Vanillezucker und dem Salz in einer weiteren Schüssel mit dem Schneebesen gut verrühren und unter die Bananen rühren."},{"headline":null,"content":"Mit dem Mixer fein pürieren und das Mehl mit dem Backpulver einrühren."},{"headline":null,"content":"Die Milch zuletzt unterrühren und den Teig zu einer sämigen Konsistenz verrühren."},{"headline":null,"content":"Das Sonnenblumenöl in einer Pfanne erhitzen und den Teig mit einer kleinen Kelle in die Pfanne geben und pro Seite jeweils ca.1 Minute goldgelb ausbacken."},{"headline":null,"content":"Die Pancakes aufeinander stapeln, um sie warm zu halten."}],"recipe_tips":[{"headline":"Welche Pfanne?","content":"Am besten gelingen die Pancakes in einer beschichteten Pfanne, in welcher du auch wenig Öl benötigst. In unbeschichteten Pfannen benötigst du mehr Öl, damit die Pancakes nicht ankleben."}]}</CustomStructuredRecipeJson>
+    <Title>Bananen Pancakes</Title>
+    <Headline position="1">Bananen Pancakes</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-05T08:50:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83k15x40rrc1i3x74mlb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="reife" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83k161im9781bba7omlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Bananen schälen und mit einer Gabel in einer Schüssel fein zerdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83k161imd3rt2u9hmlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Ei mit dem Zucker, dem Vanillezucker und dem Salz in einer weiteren Schüssel mit dem Schneebesen gut verrühren und unter die Bananen rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83k161imd826rz7wmlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit dem Mixer fein pürieren und das Mehl mit dem Backpulver einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83k161imdboz0ws4mlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Milch zuletzt unterrühren und den Teig zu einer sämigen Konsistenz verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83k161imdfm18oikimlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Das Sonnenblumenöl in einer Pfanne erhitzen und den Teig mit einer kleinen Kelle in die Pfanne geben und pro Seite jeweils ca.1 Minute goldgelb ausbacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83k161imdjo3bc5xmlb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Die Pancakes aufeinander stapeln, um sie warm zu halten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83k161imdnn1ekzc1mlb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Am besten gelingen die Pancakes in einer beschichteten Pfanne, in welcher du auch wenig Öl benötigst. In unbeschichteten Pfannen benötigst du mehr Öl, damit die Pancakes nicht ankleben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Welche Pfanne?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeq5xavsx1be2oodkp" file_variant="master" position="1">Bananen-Pancakes II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69328ff811e6a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeq7aug4n110gsqdnl" file_variant="master" position="1">Bananen-Pancakes II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69328ff9644df">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeq4f34rq14um8hdnl" file_variant="master" position="1">Bananen-Pancakes II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

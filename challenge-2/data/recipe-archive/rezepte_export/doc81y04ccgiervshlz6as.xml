@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81y04ccgiervshlz6as" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-14T11:22:31+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-14T11:43:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kräuter-Limonade","recipe_seo_headline":"Kräuter-Limonade – die leckere Erfrischung aus deinem Garten","servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Ruhen/Warten","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rosmarin","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salbei","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronenthymian","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Apfelsaft kurz aufkochen und dann vom Herd nehmen. Alle Kräuter hinzufügen und den Deckel auflegen. Für mindestens 20 Minuten ziehen lassen."},{"headline":null,"content":"Anschließend durch ein Sieb abgießen und abkühlen lassen. Abgekühlten Sud in eine Flasche füllen und kühlstellen. Zum Servieren mit gekühltem Mineralwasser aufgießen. Die Apfel-Kräuter-Limonade hält sich mindestens 3 Tage im Kühlschrank."}],"recipe_tips":[{"headline":"Prickelnde Variante","content":"Für einen erfrischenden Sommer-Drink, gieße die Kräuter-Limo statt mit Mineralwasser mit gekühltem Sekt auf."}]}</CustomStructuredRecipeJson>
+    <Title>Kräuter-Limonade</Title>
+    <CustomRecipeSeoTitle position="1">Kräuter-Limonade – die leckere Erfrischung aus deinem Garten</CustomRecipeSeoTitle>
+    <Headline position="1">Kräuter-Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-14T11:22:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81y049uuyth1fqb7x6as">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Apfelsaft" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Rosmarin" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Basilikum" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9541" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Salbei" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Minze" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11416" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Zitronenthymian" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="750" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81y04ccg9fcygy2t6as">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Apfelsaft kurz aufkochen und dann vom Herd nehmen. Alle Kräuter hinzufügen und den Deckel auflegen. Für mindestens 20 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y04ccgcypz6ttf6as">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Anschließend durch ein Sieb abgießen und abkühlen lassen. Abgekühlten Sud in eine Flasche füllen und kühlstellen. Zum Servieren mit gekühltem Mineralwasser aufgießen. Die Apfel-Kräuter-Limonade hält sich mindestens 3 Tage im Kühlschrank.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81y04ccgd4k7yjqo6as">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für einen erfrischenden Sommer-Drink, gieße die Kräuter-Limo statt mit Mineralwasser mit gekühltem Sekt auf.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Prickelnde Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81az3xwrqgww0yaorru" file_variant="master" position="1">KrauterLimonade3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689daf9d1de6c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81az441tear18b62rrru" file_variant="master" position="1">KrauterLimonadeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689daf9eab21a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81az41d41yczevigp6p" file_variant="master" position="1">KrauterLimonadeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689dafa00ad80">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81az476vbxs5sboios7" file_variant="master" position="1">KrauterLimonade2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689dafa133630">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81az48kktv81bv2z9shp" file_variant="master" position="1">KrauterLimonade1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

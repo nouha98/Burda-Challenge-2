@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7f4uvte1cbbhr6fqnmx" dcx-version="6.3.1" version="1.0">
+  <created>2021-03-30T08:45:11+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:08+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <DateImported>2021-03-30T08:45:11+02:00</DateImported>
+    <Headline position="1">Kaffee-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6931" position="1" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="Cold-Brew-" suffix="(Konzentrat)" plural="Kaffee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="2" amount="8" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" position="3" plural="Agavendicksaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6741" position="4" plural="Holunderblütensirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="5" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10686" position="6" plural="Tonic Water"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zunächst 250 ml Cold-Brew-Kaffeekonzentrat zubereiten. Die Gläser mit jeweils 4 Eiswürfeln füllen. Diese nach Geschmack mit je 1–2 TL Agavendicksaft oder Holunderblütensirup übergießen. Danach je 2–3 TL Limettensaft und 100 ml Tonicwater dazugeben. Am Schluss den Cocktail mit jeweils 125 ml kaltem Kaffeekonzentrat aufgießen. Mixen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brooks-Dammann, Susan</ImageCredit>
+      <DocumentRef doc_id="doc79vel02hdj4jsmya2qh" file_variant="master" position="1">Espresso mit Sprudelwasser und Eisw rfeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

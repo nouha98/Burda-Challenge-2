@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84761sedj8pnf55e9c0" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-19T09:28:17+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-19T09:33:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schokoporridge","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Schokoporridge","ingredients":[{"amount":180,"amountTo":null,"ingredient_name":"Mandelmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mandelmus","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1.5,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zartbitterkuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Dekoration","ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Schokoraspeln","unit":{"name":"g"},"prefix":"zartbitter","suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten bis auf die Haferflocken in einen kleinen Topf geben und zum Kochen bringen."},{"headline":null,"content":"Die Hitze runterschalten und die Haferflocken einrühren. Für 10 Min quellen lassen."},{"headline":null,"content":"Den Schokoporridge in eine kleine Schüssel umfüllen und mit einer halben Banane und Zartbitter Kuvertüre Splitter dekorieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Schokoporridge</Title>
+    <Headline position="1">Schokoporridge</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-19T09:28:17+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84761o6fyip1be4169c0">
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" amount="180" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mandelmilch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7971" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Mandelmus" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Agavendicksaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backkakao" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterkuvertüre" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Schokoporridge</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84761rnxnz91ck5099c0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9831" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="zartbitter" position="2" plural="Schokoraspel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84761sedai94lyif9c0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mandelmilch, Mandelmus, Agavendicksaft, Wasser, Kakao und Kuvertüre in einen kleinen Topf geben und einmal aufkochen. Den Topf von der Herdplatte nehmen und die Haferflocken einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84761sedara1d55cr9c0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schoko-Porridge für 10 Minuten quellen lassen. Inzwischen die Banane schälen und in Scheiben schneiden. Das Porridge in eine kleine Schüssel umfüllen und mit Bananenscheiben und Schokoraspel dekorieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8421pmbsmutu5x7ffti" file_variant="master" position="1">SchokoPorridge_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_696dec543912c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8421ppgbx1z10vbmafum" file_variant="master" position="1">SchokoPorridge_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_696dec567f9c5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8421p7ozweo19cct9fty" file_variant="master" position="1">SchokoPorridge_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83pc1jfh1fo8pql81xqu" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-15T16:29:27+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-15T16:37:58+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt83pc5h661141k655c1yf6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kräuternudeln","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":{"calories":720,"kilojoule":3011,"carbonhydrates":84,"fat":29,"protein":30,"breadunit":null}},"recipe_groups":[{"headline":"Aus dem Einkaufskorb","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Fenchelknollen","unit":{"name":"Stück"},"prefix":"kleine","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Möhren","unit":{"name":"g"},"prefix":"tiefgekühlte","suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Dill","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Shrimps","unit":{"name":"g"},"prefix":"tiefgekühlte, mediterran gewürzte","suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Tagliatelle","unit":{"name":"g"},"prefix":null,"suffix":"(im Kühlregal)"}]},{"headline":"Außerdem","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Fenchel waschen, halbieren, in Scheiben schneiden. Das schöne Grün beiseitelegen. Zwiebel abziehen und würfeln."},{"headline":null,"content":"2/3 der Zwiebelwürfel in 2 EL Öl anbraten und Möhren dazugeben, mit Brühe und Sahne 10 Minuten kochen lassen."},{"headline":null,"content":"Dill hacken. Fenchel mit den restlichen Zwiebeln im übrigen Öl (1 EL) anbraten. Shrimps dazugeben und mit Salz und Pfeffer würzen. Alles 7–8 Minuten braten."},{"headline":null,"content":"Nudeln nach Packungsangabe in Salzwasser kochen. Möhren mit einem Standmixer pürieren und zum Fenchel-Mix geben. Nudeln und Dill ebenfalls dazugeben. Mit beiseitegelegtem Fenchelgrün anrichten."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Kräuternudeln</Title>
+    <CustomRecipeNutritionalValueCalories position="1">720</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3011</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">84</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">29</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">30</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">7</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Kräuter-Shrimps-Pasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-15T16:29:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83pc1kx375y1niqfop17">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5911" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" position="1" plural="Fenchelknollen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="tiefgekühlte" plural="Möhren" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Dill" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10146" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="tiefgekühlte, mediterran gewürzte" plural="Shrimps" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10501" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(im Kühlregal)" plural="Tagliatelle" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Aus dem Einkaufskorb</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83pc1naa4t41dzpedp17">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83pc1oibx0wg2zyep17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Fenchel waschen, halbieren, in Scheiben schneiden. Das schöne Grün beiseitelegen. Zwiebel abziehen und würfeln. 2/3 der Zwiebelwürfel in 2 EL Öl anbraten und Möhren dazugeben, mit Brühe und Sahne 10 Minuten kochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83pc1oic3du16taidp17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Dill hacken. Fenchel mit den restlichen Zwiebeln im übrigen Öl (1 EL) anbraten. Shrimps dazugeben und mit Salz und Pfeffer würzen. Alles 7–8 Minuten braten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83pc1oic41gmlriyp17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nudeln nach Packungsangabe in Salzwasser kochen. Möhren mit einem Standmixer pürieren und zum Fenchel-Mix geben. Nudeln und Dill ebenfalls dazugeben. Mit beiseitegelegtem Fenchelgrün anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cremige Kräuternudeln mit Shrimps, Möhren und Fenchel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc82vuefqaaqd14hwejjx4" file_variant="master" position="1">Cremige Kräuternudeln mit Shrimps, Möhren und Fenchel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7j6f248veo314di7bem0" dcx-version="6.3.1" version="1.0">
+  <created>2022-01-07T14:41:18+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-07-14T11:03:01+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Keywords topic="tmt6p3ckxxq584x0h48m2"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Keywords topic="tmt6ow8s8brg46pbxvxhgw"/>
+    <Keywords topic="tmt6p3apzo1zh21cu47u8mb"/>
+    <Keywords topic="tmt6qgww16uvd0n2y462nc"/>
+    <Keywords topic="tmt6owrj7zhda9vont08lz"/>
+    <Keywords topic="tmt6q8xm0n7o1h1cbi1e14"/>
+    <Source topic="tmt7j6f2rcjmd3pwmnm6o9"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeNutritionalValueCalories position="1">415</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">53</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">15</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">17</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Nudelsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-01-07T14:41:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5876" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Schmetterlingsnudeln)" plural="Farfalle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9291" position="3" amount="1" plural="Römersalat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="4" amount="2" prefix="mittelgroße" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" position="5" amount="2" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Kochschinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9711" position="6" amount="6" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Schinkenspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="8" amount="1" prefix="kleine" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="9" amount="0,5" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" position="10" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mayonnaise"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" position="11" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(10% Fett)" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" position="12" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Buttermilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="13" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="fein gehackte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9766" position="14" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Schnittlauchröllchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="15" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9611" position="16" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="BBQ-" suffix="(Fertigprodukt)" plural="Sauce"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Nudeln nach Anweisung in Salzwasser bissfest garen. Inzwischen Römersalat putzen, abbrausen, abtupfen, in kleine Streifen schneiden. Tomaten abbrausen, putzen, vierteln, entkernen, würfeln. Kochschinken in Streifen schneiden. Schinkenspeck in Streifen schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_61d844ca8d1b1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Nudeln abgießen, kurz abschrecken, abtropfen und  abkühlen lassen. Schinkenspeck in einer Pfanne im Öl langsam knusprig braten. Abtropfen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_61d844d1ea6f5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Schalotte sowie Knoblauch abziehen und sehr fein  würfeln. Mayonnaise mit Joghurt, Buttermilch, Petersilie, Schalotte, Knoblauch, 1⁄2 EL Schnittlauch verrühren. Mit Salz, Pfeffer und BBQ-Soße würzig abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_61d844d90e7ba">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Römersalat in einer großen Schüssel mit Tomaten, Speck, Schinken und Nudeln vermischen. Das Dressing in die Mitte geben. Mit Pfeffer und übrigem Schnittlauch bestreuen. Erst direkt vor dem Servieren vermischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Nudelsalat, Sommersalate, Deftig</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Photoart</ImageCredit>
+      <DocumentRef doc_id="doc7fr6q2a1zo4vv78k4h7" file_variant="master" position="1">Nudelsalat.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

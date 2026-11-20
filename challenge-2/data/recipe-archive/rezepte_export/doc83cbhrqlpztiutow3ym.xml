@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83cbhrqlpztiutow3ym" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-20T08:33:56+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-20T08:39:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tomaten-Gurken-Salat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"z.B.: Petersilie, Schnittlauch, Basilikum"}]},{"headline":"Dressing","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"weißer Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"gemahlener weißer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Von den Tomaten den Strunk entfernen und die Tomaten in 2x2 cm Würfel schneiden. Die Gurke in 1x1 cm Würfel schneiden. Die Zwiebel schälen, halbieren und in feine Würfel schneiden. Die Kräuter fein hacken und mit der Zwiebel und Gemüse mischen."},{"headline":null,"content":"Den Essig mit dem Salz und dem Pfeffer dazugeben, den Zitronensaft hinzugeben und zuletzt das Olivenöl dazugeben. Den Salat ca. 10 Minuten ziehen lassen und nochmals abschmecken."}],"recipe_tips":[{"headline":"Knoblauch?","content":"Verfeinere deinen Salat mit einer gepressten Knoblauchzehe."}]}</CustomStructuredRecipeJson>
+    <Title>Tomaten-Gurken-Salat</Title>
+    <Headline position="1">Tomaten-Gurken-Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-20T08:33:56+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83cbhoe1m9sdj3o53ym">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="z.B.: Petersilie, Schnittlauch, Basilikum" position="4" prefix="frische" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Tomaten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Salatgurken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83cbhpky5hx2mdkw3ym">
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" prefix="weißer" plural="Balsamico-Essig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt80nfc8biukxqg4ei4dh" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="4" amount="1" prefix="weißer" plural="Pfeffer, gemahlen"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Zitronen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="8" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83cbhrql64y15wssf3ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Tomaten und die Gurke waschen. Von den Tomaten den Strunk entfernen und die Tomaten in 2 x 2 cm große Würfel schneiden. Die Gurke in 1 x 1 cm große Würfel schneiden. Die Zwiebel schälen, halbieren und in feine Würfel schneiden. Die Kräuter waschen und das Wasser abtropfen lassen. Die Kräuter fein hacken und mit der Zwiebel, den Tomaten- und Gurkenwürfeln mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cbhrqlgl13n30z3ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Essig mit dem Zucker, dem Salz und dem Pfeffer zum Salat geben. Die Zitrone auspressen und den Zitronensaft hinzugeben. Zuletzt das Olivenöl zum Salat geben und alles vermischen. Den Gurken-Tomaten-Salat ca. 10 Minuten ziehen lassen und nochmals abschmecken. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83cbhrqlgsm1m1o4d3ym">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du Knoblauch magst, solltest du deinen Salat mit einer gepressten Knoblauchzehe verfeinern – so lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Magst du Knoblauch?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms3g9zk3ddyl8gm6b" file_variant="master" position="1">Tomaten-Gurken-Salat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691ec5bdd826b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms3huobvq1eyf63mdx" file_variant="master" position="1">Tomaten-Gurken-Salat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691ec5bf3a339">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms3joaq4h12vc9rma4" file_variant="master" position="1">Tomaten-Gurken-Salat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691ec5c041e1b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms3mmfoet1wkf3m8v" file_variant="master" position="1">Tomaten-Gurken-Salat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

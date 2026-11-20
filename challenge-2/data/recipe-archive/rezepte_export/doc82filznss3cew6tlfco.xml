@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82filznss3cew6tlfco" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-17T13:24:48+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-17T13:53:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Weihnachtlicher Cocktail","recipe_seo_headline":"Weihnachtlicher Cocktail – einfach &amp; so gut!","servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Brauner Rum","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Granatapfelsaft","unit":{"name":"cl"},"prefix":null,"suffix":"(alternativ: Cranberrysaft)"},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":5,"amountTo":6,"ingredient_name":"Eiswürfel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ginger Beer","unit":{"name":"Spritzer"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Orange waschen, trocken abreiben und mit einem Schäler eine dünne Zeste für die Dekoration abschneiden. Orange halbieren und den Saft auspressen."},{"headline":null,"content":"Ein großes Glas bereitstellen. Braunen Rum, Granatapfelsaft, 3 cl Orangensaft und Zimt in das Glas geben und gut verrühren."},{"headline":null,"content":"Die Eiswürfel in ein Glas geben und den Weihnachtscocktail hineinfüllen. Mit einem Schluck Ginger Beer aufgießen und mit einer eingedrehten Orangenzeste und 2 feinen Scheiben Ingwer garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Weihnachtlicher Cocktail</Title>
+    <CustomRecipeSeoTitle position="1">Weihnachtlicher Cocktail – einfach &amp; so gut!</CustomRecipeSeoTitle>
+    <Headline position="1">Weihnachtlicher Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-17T13:24:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82filwr1u5kaf3nsfco">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Orange" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="4" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="2" prefix="brauner" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt81tdg67171ugrrr887h" amount="3" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" suffix="(alternativ: Cranberrysaft)" plural="Granatapfelsäfte" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="5" max_amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6311" amount="1" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" position="6" plural="Ginger Ale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Ingwer" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82filznsr84uwvbtfco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Orange waschen, trocken abreiben und mit einem Schäler eine dünne Zeste für die Dekoration abschneiden. Orange halbieren und den Saft auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82filznsrfn1btgn9fco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ein großes Glas bereitstellen. Braunen Rum, Granatapfelsaft, 3 cl Orangensaft und Zimt in das Glas geben und gut verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82filznsrj69d3x7fco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Eiswürfel in ein Glas geben und den Weihnachtscocktail hineinfüllen. Mit einem Schluck Ginger Beer aufgießen und mit einer eingedrehten Orangenzeste und 2 feinen Scheiben Ingwer garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbll607s3q6qcz0owg" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68caa12132b18">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbll1xosh5168t2nowd" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

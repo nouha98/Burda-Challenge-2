@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81494tsb2qb1bvobb7x7" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-17T13:48:34+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-07-14T11:10:08+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Creator topic="tmt80npsojpfw2q0y6s9qu"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="9"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsxs1g2mw6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Headline position="1">Mandel-Birnen-Tarte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-17T13:48:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" position="0" amount="2" plural="Birnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4936" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Blätterteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="3" amount="3" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Vanilleextrakt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="7" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="8" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="gemahlen" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" position="9" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Rum" plural="Rosinen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 180 °C Ober- und Unterhitze vorheizen. Die Tarteform (ca. 24 x 24 cm) mit Butter fetten. Birnen schälen, halbieren, entkernen und in dünne Scheiben schneiden. Mit Zitronensaft beträufeln. Blätterteig ausbreiten, nach Bedarf auswellen und die Form damit auskleiden. Überstehende Ränder abschneiden. Boden einige Male mit einer Gabel einstechen. Eier mit Zucker und Vanille schaumig schlagen. Mehl mit Backpulver und Mandeln vermischt darüberstreuen und unterheben. In die Form füllen und glattstreichen. In Segmenten und versetzt fächerartig mit den Birnen belegen. Dazwischen Rosinen verteilen und die Tarte etwa 45 Minuten goldbraun backen. Noch warm oder ausgekühlt in Stücke teilen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mandel-Birnen-Tarte auf Backblech</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Roche, Amélie</ImageCredit>
+      <DocumentRef doc_id="doc80y3s9fbwci8xivx2rd" file_variant="master" position="1">Mandel-Birnen-Tarte auf Backblech</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

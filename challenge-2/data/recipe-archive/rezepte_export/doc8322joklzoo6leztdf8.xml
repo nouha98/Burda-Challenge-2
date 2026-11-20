@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8322joklzoo6leztdf8" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-31T09:52:13+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-31T09:56:56+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pizzasoße","recipe_seo_headline":"Pizzasoße -","servings":{"amount":2.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Passierte Tomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Oregano","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Pizzasoße den Knoblauch abziehen und sehr fein hacken. In einem kleinen Topf das Olivenöl erhitzen und den gehackten Knoblauch auf niedriger Stufe etwa 1 Minute andünsten. Das Tomatenmark dazugeben, etwa 1-2 Minuten anrösten und anschließend alles mit passierten Tomaten ablöschen."},{"headline":null,"content":"Alles mit Oregano, Salz, Pfeffer sowie Zucker würzen. Die Temperatur etwas hochdrehen und die Tomatensauce etwa 5 Minuten köcheln lassen. Vom Herd nehmen und sofort verwenden oder in ein sauberes Einmachglas füllen. Die Pizzasoße hält sich gut gekühlt etwa 1 Woche im Kühlschrank. Lass es dir schmecken!"}],"recipe_tips":[{"headline":"Pizzasoße verfeinern","content":"Unser Grundrezept für die originale Pizzasoße kannst du natürlich ganz nach deinem Geschmack verfeinern! Mit 1 Prise Chiliflocken wird es besonders würzig, gehackter Thymian und Rosmarin sorgen für ein unvergleichlich mediterranes Aroma!"}]}</CustomStructuredRecipeJson>
+    <Title>Pizzasoße</Title>
+    <CustomRecipeSeoTitle position="1">Pizzasoße -</CustomRecipeSeoTitle>
+    <Headline position="1">Pizzasoße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-31T09:52:13+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8322jna4ladei7tqdf8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tomatenmark" position="3"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Oregano" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="7" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="8" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8322jokllme1drtyodf8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Knoblauch abziehen und sehr fein hacken. In einem kleinen Topf das Olivenöl erhitzen und den gehackten Knoblauch auf niedriger Stufe etwa 1 Minute andünsten. Das Tomatenmark dazugeben, etwa 1-2 Minuten anrösten und anschließend alles mit passierten Tomaten ablöschen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Pizzasoße </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8322joklpeb3vijndf8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Alles mit Oregano, Salz, Pfeffer sowie Zucker würzen. Die Temperatur etwas hochdrehen und die Tomatensauce etwa 5 Minuten köcheln lassen. Vom Herd nehmen und sofort verwenden oder in ein sauberes Einmachglas füllen. Die Pizzasoße hält sich gut gekühlt etwa 1 Woche im Kühlschrank. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8322joklpkwzsd3jdf8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Unser Grundrezept für die originale Pizzasoße kannst du natürlich ganz nach deinem Geschmack verfeinern! Mit 1 Prise Chiliflocken wird es besonders würzig, gehackter Thymian und Rosmarin sorgen für ein unvergleichlich mediterranes Aroma!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Pizzasoße verfeinern</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Sara Dehghani &amp; Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82n5dtfyo7olq1erojt" file_variant="master" position="1">Pizzasoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690479d5c167e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Sara Dehghani &amp; Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82n5dq9ijx41b2q00nzo" file_variant="master" position="1">Pizzasoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690479d725eb5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Sara Dehghani &amp; Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82n5drt11z58t42g19xf" file_variant="master" position="1">Pizzasoße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

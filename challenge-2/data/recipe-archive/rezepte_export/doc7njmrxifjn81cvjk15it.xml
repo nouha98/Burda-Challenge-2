@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7njmrxifjn81cvjk15it" dcx-version="6.3.1" version="1.0">
+  <created>2022-11-09T13:57:50+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2022-11-09T14:11:54+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <DateImported>2022-11-09T13:57:50+01:00</DateImported>
+    <Headline position="1">Scarlett-O'hara-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11161" position="0" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="-Likör" plural="Whisky"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5476" position="1" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Cranberry-Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9436" position="2" suffix="von 3-4 Limetten" plural="Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="3" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4991" position="4" amount="1" prefix="essbare" plural="Blüten"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zum Servieren: 150 ml Whiskey-Likör (z. B. Southern Comfort) mit 300 ml Cranberrysaft und Saft von 3–4 Limetten mit Eiswürfeln in einem Krug mischen. Durch ein Sieb in gut gekühlte Gläser (Cocktailgläser) gießen. Evtl. jeweils mit 1 essbaren Blüte garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>MFI Cocktail</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc7ikrix7r9t11bdyd4joh" file_variant="master" position="1">Cocktail_01_Close-up_03</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

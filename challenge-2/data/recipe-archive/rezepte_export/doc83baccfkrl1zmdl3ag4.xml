@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83baccfkrl1zmdl3ag4" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-18T08:21:50+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-18T08:26:33+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Reispudding","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Reispudding","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Rundkornreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiweiß","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Dekoration","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"frische Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Milch in einem Topf geben, Zucker hinzufügen und leicht erwärmen. Vanilleschote der Länge nach einschneiden, mit dem Messerrücken das Vanillemark auskratzen und in die Milch geben."},{"headline":null,"content":"Die Milch aufkochen lassen und den Reis hinzugeben einmal kräftig umrühren und den Herd ausschalten, den Topfdeckel aufsetzen."},{"headline":null,"content":"Milchreis für 20 Minuten quellen lassen, das Eigelb unterrühren und noch einmal kurz aufkochen lassen."},{"headline":null,"content":"In der Zwischenzeit das Eiweiß mit 30 g Zucker steif schlagen und zuletzt unter den Reis Pudding unterheben den Reis Pudding in zwei Dessertschälchen umfüllen und mit frischen Beeren garnieren."}],"recipe_tips":[{"headline":"Zimt und Zuckermischung","content":"Fall keine Beeren in deinem Kühlschrank zu finden sind, Mische dir eine kleine Portion Zimt – Zucker an und streue sie über den Pudding."}]}</CustomStructuredRecipeJson>
+    <Title>Reispudding</Title>
+    <Headline position="1">Reispudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-18T08:21:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83bacas5dt11fh3beag4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9416" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rundkornreis" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="5" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiweiß" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Reispudding</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83bacccchj4jl838ag4">
+      <CustomRecipeIngredient topic="tmt803gypox7k815tn3w14fg" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="frische Himbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83baccfkgr814i6cfag4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Milch in einem Topf geben, Zucker hinzufügen und leicht erwärmen. Vanilleschote der Länge nach einschneiden, mit dem Messerrücken das Vanillemark auskratzen und in die Milch geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83baccfkkwo17jujeag4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Milch aufkochen lassen und den Reis hinzugeben, einmal kräftig umrühren und den Herd ausschalten, den Topfdeckel aufsetzen. Milchreis für 20 Minuten quellen lassen, das Eigelb unterrühren und noch einmal kurz aufkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83baccfkl5tgo0uzag4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Das Eiweiß mit 30 g Zucker steif schlagen und zuletzt unter den Reis Pudding heben, den Reis Pudding in zwei Dessertschälchen umfüllen und mit frischen Beeren garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">In der Zwischenzeit </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83baccfkl9w3i4ymag4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls keine Beeren in deinem Kühlschrank zu finden sind, Mische dir eine kleine Portion Zimt – Zucker an und streue sie über den Pudding.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zimt und Zuckermischung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mofv5kxj617umpqigb" file_variant="master" position="1">Reispudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691c1fa0c6024">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mofwp89ygh4hkiijf" file_variant="master" position="1">Reispudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691c1fa3a4432">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mofy487l4gs2vhi9j" file_variant="master" position="1">Reispudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691c1fa6be45c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82moftm80s6h7481ik5" file_variant="master" position="1">Reispudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_691c1fa85c887">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mofqzpjid5dw4ujry" file_variant="master" position="1">Reispudding</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

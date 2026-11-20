@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85m1gr1ehrd17e64ddxg" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-28T10:39:58+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-04-28T10:43:11+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt80teorexivd1bj0vwno1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rob8cxtohdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ronk18emtgdo5"/>
+    <Provider topic="tmt85m1f54k6ubdkhphdwp"/>
+    <Source topic="tmt85m1f54m13ad91kndwp"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Teriyaki-Sauce","recipe_seo_headline":null,"servings":{"amount":60.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Sojasauce","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Mirin","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Sake","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Sojasauce mit Mirin, Sake und Zucker bei kleiner Hitze unter ständigem Rühren 10 Minuten leicht dicklich einkochen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Teriyaki-Sauce</Title>
+    <CustomRecipeNoteInformation position="1">Ca. 100 ml Sauce</CustomRecipeNoteInformation>
+    <Headline position="1">Ingwer-Sesam-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-28T10:39:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85m1grrfqma7pdx7lv6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sojasauce" position="2"/>
+      <CustomRecipeIngredient topic="tmt7ebq275t26er75m93vj" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mirin" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sesam" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85m1gsguwnlw2w14lv6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">50 g Ingwer schälen, raspeln und den Saft mit den Fingern ausdrücken. Ingwersaft mit 60 ml Sojasauce, 2 EL Mirin und 2 EL Sesam verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Asiatische Saucen - Teriyaki, Sushi-Mayonnaise, Ingwer-Sesam-Dip, Unagi, Ponzu, Homemade Sriracha</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Julia Hoersch</ImageCredit>
+      <DocumentRef doc_id="doc7wm84rvfkur1jyi00igz" file_variant="master" position="1">Asiatische Saucen - Teriyaki, Sushi-Mayonnaise, Ingwer-Sesam-Dip, Unagi, Ponzu, Homemade Sriracha</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

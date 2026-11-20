@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821542l7gsykloczewj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T13:58:44+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T09:19:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Heiße Schokolade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Zartbitterschokolade grob hacken. Milch in einem Topf zum Kochen bringen. Schokolade hinzugeben, Herd auf niedrige Stufe herunterschalten. Schokolade unter Rühren schmelzen lassen. Ist die Schokolade vollständig geschmolzen, kann Kakaopulver, Salz und nach Belieben Zucker hinzugefügt werden."},{"headline":null,"content":"Heiße Schokolade in 4 Gläser (à 250ml) füllen. Für die Dekoration Sahne steif schlagen und mithilfe eines Spritzbeutels oder eines Löffels Sahne auf der heißen Schokolade verteilen. Jetzt noch etwas Kakaopulver über die Sahne sieben und die heiße Schokolade sofort servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Heiße Schokolade</Title>
+    <Headline position="1">Heiße Schokolade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T13:58:44+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82153zmuaiso7jzaewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="zum Bestreuen" plural="Kakaopulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterschokolade" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="750" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kakaopulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="5" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821542l7fwk3o62hewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zartbitterschokolade grob hacken. Milch in einem Topf zum Kochen bringen. Schokolade hinzugeben, Herd auf niedrige Stufe herunterschalten. Schokolade unter Rühren schmelzen lassen. Ist die Schokolade vollständig geschmolzen, kann Kakaopulver, Salz und nach Belieben Zucker hinzugefügt werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821542l7g5fcup07ewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Heiße Schokolade in 4 Gläser (à 250ml) füllen. Für die Dekoration Sahne steif schlagen und mithilfe eines Spritzbeutels oder eines Löffels Sahne auf der heißen Schokolade verteilen. Jetzt noch etwas Kakaopulver über die Sahne sieben und die heiße Schokolade sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

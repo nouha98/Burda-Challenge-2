@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8248lfxsjad2b3nbldu" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-26T14:37:24+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-26T15:36:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Joghurtmousse","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Joghurtmousse","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Abrieb und Saft)"}]},{"headline":"Himbeersauce","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":"frisch oder tiefgekühlt"},{"amount":70,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":"frisch oder tiefgekühlt"}]},{"headline":"Dekoration","ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":"frische","suffix":null}]}],"preparation":[{"headline":null,"content":"Gelatine in kaltem Wasser einweichen lassen. Sahne steif aufschlagen und bis zur Weiterverarbeitung kühlen. Joghurt zusammen mit Puderzucker, Zitronenabrieb und Saft vermischen. Gelatine ausdrücken und über einem Wasserbad auflösen, esslöffelweise von der Joghurtcreme dazugeben bis die Creme vollständig mit der Gelatine kombiniert ist. Die Sahne vorsichtig unter die Joghurtcreme heben. Bis zum Befüllen kühl stellen."},{"headline":null,"content":"150 g Himbeeren zusammen mit Zucker in einem kleinen Topf für 2 Minuten aufkochen lassen. Die Gelatine ausdrücken und darin auflösen, die Himbeersauce auskühlen lassen und die restlichen Himbeeren daruntermischen."},{"headline":null,"content":"Die Mousse in einen Spritzbeutel füllen. Jedes Dessertglas (Fassungsvermögen 400 ml) mit je 1 Esslöffel Himbeersauce füllen. Den Spritzbeutel aufschneiden und Joghurtmousse in die Gläser füllen. Mit einem Teelöffel die Himbeersauce mit der Joghurtmousse marmorieren. Die Oberfläche mit der Sauce dekorieren. Für 2 Stunden im Kühlschrank fest werden lassen."},{"headline":null,"content":"Kurz vor dem Servieren, jedes Glas mit 2 frischen Himbeeren dekorieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Joghurtmousse</Title>
+    <Headline position="1">Joghurtmousse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-26T14:37:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8248le05bvo17p25qldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Naturjoghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Abrieb und Saft)" plural="Zitronen" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Joghurtmousse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8248letx9zabatfsldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="frisch oder tiefgekühlt" plural="Himbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="2" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="frisch oder tiefgekühlt" plural="Himbeeren" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Himbeersauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8248lfg08yp102hx0ldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frische" plural="Himbeeren" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8248lfxshyq1kjsk8ldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Joghurtmousse die Gelatine in sehr kaltem Wasser einweichen. Sahne steif aufschlagen und bis zur Weiterverarbeitung kühl stellen. Joghurt zusammen mit Puderzucker, Zitronenabrieb und Saft vermischen. Gelatine ausdrücken und in einem Wasserbad auflösen. Esslöffelweise von der Joghurtcreme dazugeben, bis die Creme vollständig mit der Gelatine kombiniert ist. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248lfxsi6r1lu7rwldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sahne vorsichtig unter die Joghurtcreme heben. Creme kühl stellen. Für die Himbeersoße Gelatine in sehr kaltem Wasser einweichen. Circa 150 g der Himbeeren zusammen mit Zucker in einem kleinen Topf für 2 Minuten aufkochen, anschließend etwas abkühlen lassen. Die Soße darf nicht mehr kochen! Die Gelatine ausdrücken und darin auflösen, die Himbeersauce auskühlen lassen und die restlichen Himbeeren daruntermischen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248lfxsiap1iabxildu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Joghurtmousse aus dem Kühlschrank nehmen und in einen Spritzbeutel füllen. Jedes Dessertglas (à 400 ml) mit je 1 Esslöffel Himbeersauce füllen, Den Spritzbeutel aufschneiden und Joghurtmousse in die Gläser füllen. Mit einem Teelöffel die Himbeersauce mit der Joghurtmousse marmorieren. Die Oberfläche mit der Sauce dekorieren. Dessert für 2 Stunden im Kühlschrank fest werden lassen. Kurz vor dem Servieren jedes Glas mit 2 frischen Himbeeren dekorieren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mnsgenhph126vy6bfn" file_variant="master" position="1">Joghurtmousse1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68adb8437e769">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mnskzkp6woq3gofjj" file_variant="master" position="1">Joghurtmousse_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68adb844f0ecc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81mnshrpcvb1fo2jbfjj" file_variant="master" position="1">Joghurtmousse2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

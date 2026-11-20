@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82k6qqevb3s1ki608b8v" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-26T15:33:29+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-30T15:05:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fols"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt81c05laeiqxudyygab"/>
+    <Source topic="tmt82m8dic7f8ozh0fl8rx"/>
+    <CustomRecipeNutritionalValueCalories position="1">400</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">33</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">11</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kabeljau-Garnelen-Curry</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-26T15:33:29+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt807t3j1houu7y6g3evv" position="1" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="festkochende Kartoffel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="2" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="3" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80i5sjys26p1coakb10bp" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="grüne Bohnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="5" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7381" position="6" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Koriandergrün"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="7" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="8" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5541" position="9" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="rote" plural="Currypaste"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5966" position="10" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Fischfond"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="11" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="12" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" position="13" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Lorbeerblätter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="14" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6926" position="15" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kabeljaufilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6181" position="16" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix=", küchenfertig" plural="Garnelen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen, wie den Ingwer schälen. Tomaten, Bohnen, Lauchzwiebeln und Koriandergrün abbrausen, putzen. Die Kartoffeln in mundgerechte Stücke schneiden, den Ingwer in dünne Scheiben. Tomaten würfeln, Bohnen halbieren oder dritteln und die Lauchzwiebeln in Ringe schneiden. Koriandergrün hacken. Knoblauch abziehen und würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68dbd4ef7a7cb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ingwer und Knoblauch in einem Topf im heißen Öl glasig dünsten. Currypaste unterrühren, kurz mit anrösten. Fischfond und Wein angießen. Mit Paprikapulver, Lorbeer, Salz und Pfeffer würzen. Kartoffeln, Tomaten, Bohnen und Lauchzwiebeln ergänzen und das Ganze etwa 15 Minuten leise köcheln lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68dbd51073ecc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kabeljau und Garnelen abbrausen, trocken tupfen. Fisch in mundgerechte Stücke schneiden und mit Garnelen und Koriandergrün zum Eintopf geben. Alles zusammen in 5–10 Minuten gar ziehen lassen, mit Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kabeljau-Garnelen-Eintopf</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Good Food</ImageCredit>
+      <DocumentRef doc_id="doc7wc40vok26ca96wglm7" file_variant="master" position="1">Kabeljau-Garnelen-Eintopf</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

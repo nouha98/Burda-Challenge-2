@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc851mqb27il3zvqa18kh" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-19T16:22:29+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-03-20T10:54:12+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt851mtbn6nfpbeyvj18p0"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ananas-Ingwer-Mojito","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":{"calories":243,"kilojoule":1018,"carbonhydrates":42,"fat":0,"protein":1,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"weißer Rum","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"Ananas-Ingwer-Sirup","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Crushed Ice","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ananas","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Ananasblätter","unit":{"name":"Stück"},"prefix":"nach Belieben","suffix":"zum Dekorieren"}]}],"preparation":[{"headline":null,"content":"Limetten heiß waschen, trocken tupfen und halbieren. Jede Hälfte in 6 Stücke schneiden und in ein Longdrink-Glas geben. Jeweils ca. 8 Blätter Minze grob in Stücke zupfen und hinzufügen. Beides leicht andrücken, um die Aromen freizusetzen."},{"headline":null,"content":"Gläser mit Eiswürfeln füllen. Weißen Rum mit Ananas-Ingwer-Sirup und Limettensaft in einen Cocktail-Shaker geben und gut vermengen. Shaker mit Eiswürfeln füllen und kräftig schütteln."},{"headline":null,"content":"Cocktails in die vorbereiteten Gläser abseihen und leicht umrühren. Jeweils noch etwas Crushed Ice darauf verteilen. Ananasscheibe vierteln. Mojitos nach Belieben mit einem Ananasblatt, etwas Minze und einem Stück Ananas garnieren und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Ananas-Ingwer-Mojito</Title>
+    <CustomRecipeNutritionalValueCalories position="1">243</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1018</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Ananas-Ingwer-Mojito</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-19T16:22:29+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="851mqcztig21lgo7t52t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="2" max_amount="3" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="2" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Minze" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="180" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" prefix="weißer" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt7j5c52qvxi8mf76p45t" amount="180" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" prefix="Ananas-" plural="Ingwersirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Limettensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Crushed Ice" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4501" amount="1" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Ananas" position="8"/>
+      <CustomRecipeIngredient topic="tmt851mrq9pxnnezjsf18mz" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="nach Belieben" suffix="zum Dekorieren" position="9" plural="Ananasblätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="851mqegz84z1mt5gq52t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limetten heiß waschen, trocken tupfen und halbieren. Jede Hälfte in 6 Stücke schneiden und in ein Longdrink-Glas geben. Jeweils ca. 8 Blätter Minze grob in Stücke zupfen und hinzufügen. Beides leicht andrücken, um die Aromen freizusetzen. Gläser mit Eiswürfeln füllen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851mqegza9010dnyv52t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Weißen Rum mit Ananas-Ingwer-Sirup und Limettensaft in einen Cocktail-Shaker geben und gut vermengen. Shaker mit Eiswürfeln füllen und kräftig schütteln. Cocktails in die vorbereiteten Gläser abseihen und leicht umrühren. Jeweils noch etwas Crushed Ice darauf verteilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851mqegzaddbqwp452t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ananasscheibe vierteln. Mojitos nach Belieben mit einem Ananasblatt, etwas Minze und einem Stück Ananas garnieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Ananas-Ingwer-Mojito</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc848v1etyjagxv6y410g6" file_variant="master" position="1">Ananas-Ingwer-Mojito</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83bc4g5dk5e1dppnwag3" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-18T10:40:27+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-18T10:44:19+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeer Mojito","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Rohrzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Rum","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Erdbeersirup","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Crushed Ice","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Erdbeeren waschen, putzen und würfeln. Mit dem Rohrzucker, Limettensaft, den Minzblättern und dem Rum in einem Becher mixen. Die Mischung in ein Glas geben. Das Crushed Ice ins Glas geben und den Erdbeersirup aufgießen. Mit frischen Erdbeeren und Minze dekorieren."}],"recipe_tips":[{"headline":"Mit sprudeligem Mineralwasser","content":".. aufgegossen, erfrischt der Mojito besonders an heißen Tagen."}]}</CustomStructuredRecipeJson>
+    <Title>Erdbeer Mojito</Title>
+    <Headline position="1">Erdbeer Mojito</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-18T10:40:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83bc4dg9h7a13bnnag3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="2" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Minze" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rohrzucker" position="3" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rum" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5791" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Erdbeersirup" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Crushed Ice" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83bc4g5da40ddihag3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeeren waschen, putzen und würfeln. Die Minzeblätter von den Stängeln zupfen. Die Erdbeeren mit den Minzeblättern, dem Rohrzucker, dem Limettensaft und dem Rum in einem Becher mixen. Die Mischung in die Gläser (à 150 ml) geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_691c3f3f7a5a4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Crushed Ice in die Gläser geben und den Erdbeersirup aufgießen. Mit frischen Erdbeeren und Minze dekorieren. Cheers!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83bc4g5dand1jw2cxag3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mit sprudeligem Mineralwasser aufgegossen, erfrischt der Mojito an heißen Tagen besonders gut!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Besonders erfrischend</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0w00a471a9a8ymdr" file_variant="master" position="1">Erdbeer-Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691c3fee9ec5a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0ueylts17dbcjmj8" file_variant="master" position="1">Erdbeer-Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691c3ff03144c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms10mid526v0uvm7f" file_variant="master" position="1">Erdbeer-Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691c3ff19eee1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0yweunswclibmdr" file_variant="master" position="1">Erdbeer-Mojito</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

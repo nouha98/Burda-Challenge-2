@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8554mah4m4mmj4hv26i" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-26T11:42:38+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-26T11:51:16+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Dattel-Haferflocken-Kekse","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Dattel","unit":{"name":"g"},"prefix":null,"suffix":"(ohne Stein)"},{"amount":150,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"feine","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Nuss","unit":{"name":"g"},"prefix":null,"suffix":"gemahlene (z. B. Haselnüsse oder Mandeln)"},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"Prise"},"prefix":null,"suffix":"mit Fluorid"},{"amount":2,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Datteln mit heißem Wasser übergießen und etwa 10 Minuten einweichen lassen. In der Zwischenzeit Haferflocken, gemahlene Nüsse und eine Prise Salz in einer zweiten Schüssel verrühren."},{"headline":null,"content":"Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen. Eingeweichte Datteln abgießen, mit den Bananen fein pürieren und mit dem Rapsöl vermengen. Die flüssigen Zutaten dazugeben und gut verkneten, sodass ein fester, aber noch feuchter Teig entsteht. Diesen 10 Minuten ziehen lassen."},{"headline":null,"content":"Aus der Keks-Masse 16 Kugeln formen, auf das Backblech setzen und etwas flach drücken. Im vorgeheizten Backofen auf mittlerer Schiene etwa 20 Minuten backen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Dattel-Haferflocken-Kekse</Title>
+    <Headline position="1">Dattel-Haferflocken-Kekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-26T11:42:38+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8554m8ma0du1mfpj026i">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8396" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix=" (z. B. Haselnüsse oder Mandeln)" position="3" prefix="gemahlene" plural="Nüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ohne Stein)" plural="Datteln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="feine" plural="Haferflocken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="mit Fluorid" plural="Jodsalz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Bananen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8554mah4g6t720tw26i">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Datteln mit heißem Wasser übergießen und etwa 10 Minuten einweichen lassen. In der Zwischenzeit Haferflocken, gemahlene Nüsse und eine Prise Salz in einer zweiten Schüssel verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8554mah4jpkqzcej26i">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen. Eingeweichte Datteln abgießen, mit den Bananen fein pürieren und mit dem Rapsöl vermengen. Die flüssigen Zutaten dazugeben und gut verkneten, sodass ein fester, aber noch feuchter Teig entsteht. Diesen 10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8554mah4jvsqkct226i">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Aus der Keks-Masse 16 Kugeln formen, auf das Backblech setzen und etwas flach drücken. Im vorgeheizten Backofen auf mittlerer Schiene etwa 20 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Dattel-Haferflocken-Kekse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu45kbxj4n1dthfhjqm" file_variant="master" position="1">DattelHaferflockenKekse2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69c50fa11fecb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Dattel-Haferflocken-Kekse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu45pu6u9fyigtim4r" file_variant="master" position="1">DattelHaferflockenKekse_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69c50fa3122be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Dattel-Haferflocken-Kekse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu45y45vywp3l0ud2f" file_variant="master" position="1">DattelHaferflockenKekse1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

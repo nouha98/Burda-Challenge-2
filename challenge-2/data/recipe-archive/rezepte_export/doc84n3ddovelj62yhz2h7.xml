@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84n3ddovelj62yhz2h7" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-19T09:20:08+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-02-19T09:28:58+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_stewing" minutes="80"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqaft2ohqdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schweinegulasch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":80}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":5,"ingredient_name":"große Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Schweinegulasch","unit":{"name":"g"},"prefix":null,"suffix":"z.B. Schulter"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"große Prise"},{"amount":2,"amountTo":3,"ingredient_name":"Butterschmalz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Paprikapulver, edelsüß","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Paprikapulver, rosenscharf","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Tomatenmark","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Geflügelfond","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Kümmel, gemahlen","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":"Optional","suffix":"wie z.B: Petersilie oder Schnittlauch"}]}],"preparation":[{"headline":null,"content":"Die Zwiebeln schälen und in feine Würfel schneiden."},{"headline":null,"content":"Das Butterschmalz in einem Topf erhitzen und die Zwiebeln darin bei mittlerer Hitze für etwa 10 Minuten goldgelb anschwitzen. Nun die beiden Paprikapulver dazugeben und 1-2 Minuten anrösten. Dies gibt eine schöne rote Farbe."},{"headline":null,"content":"Das Fleisch rundherum mit Salz und Pfeffer in den Topf geben und alles gut umrühren. Dann das Tomatenmark dazugeben und die Temperatur erhöhen, das Tomatenmark mitschwitzen und immer wieder umrühren."},{"headline":null,"content":"Nun mit dem Geflügelfond aufgießen und das Gulasch für ca. 60-80 Minuten sanft köcheln lassen. Mit Salz und Pfeffer und dem gemahlenen Kümmel abschmecken."},{"headline":null,"content":"Optional: Frische Kräuter grob hacken und über dem Gulasch verteilen."}],"recipe_tips":[{"headline":"Garen im Backofen","content":"Ich stelle das Gulasch auch manchmal in den Backofen um zu garen, bei 140 Grad Ober-Unterhitze gart es entspannt in 120 Minuten, ohne, dass du darauf achten musst."}]}</CustomStructuredRecipeJson>
+    <Title>Schweinegulasch</Title>
+    <Headline position="1">Schweinegulasch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-19T09:20:08+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84n3d8xbd03h5byz2h7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="optional frische" suffix="z.B: Petersilie oder Schnittlauch" position="11" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="4" max_amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Zwiebeln" amount_max="5" prefix="große"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5261" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butterschmalz" position="2" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Paprikapulver edelsüß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="10" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Paprikapulver" suffix="rosenscharf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9921" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B. Schulter" plural="Schweinegulasch" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tomatenmark" position="8" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6201" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Geflügelfond" position="9"/>
+      <CustomRecipeIngredient topic="tmt82nb55795rm1fxlin14r5" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="10" plural="Kümmel" amount="1" prefix="gemahlener"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84n3ddou0xtpyyuz2h7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Gulasch vom Schwein die Zwiebeln abziehen und in feine Würfel schneiden. Das Butterschmalz in einem Topf erhitzen und die Zwiebeln darin bei mittlerer Hitze für etwa 10 Minuten goldgelb anschwitzen. Die beiden Paprikapulver dazugeben und 1-2 Minuten anrösten. Das ergibt eine schöne rote Farbe. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84n3ddouc8i1mk4sb2h7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Fleisch rundherum salzen und pfeffern, in den Topf geben und alles gut umrühren. Das Tomatenmark dazugeben und die Temperatur erhöhen, das Tomatenmark mit anschwitzen und immer wieder umrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84n3ddoucf4bpqdm2h7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Fleisch mit dem Geflügelfond aufgießen und das Gulasch für ca. 60-80 Minuten sanft köcheln lassen. Mit Salz und Pfeffer und dem gemahlenen Kümmel abschmecken. Nach Wunsch frische Kräuter waschen, abtropfen lassen, grob hacken und über dem Gulasch mit Schweinefleisch verteilen. Dazu serviere ich z. B. Nudeln. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84n3ddoucs3ub7c92h7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ich stelle das Gulasch auch manchmal in den Backofen, um es zu garen. Bei 140 Grad Ober- und Unterhitze (120 Grad Umluft) schmort es entspannt 120 Minuten, ohne, dass du darauf achten musst. Verwende aber auf jeden Fall eine ofenfeste Auflaufform oder Topf/Bräter mit ofenfesten Griffen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gulasch im Backofen garen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444fedsumqsfdzy12bl" file_variant="master" position="1">Schweinegulasch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6996c9c51daea">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444f3xbf03hpf5h12bl" file_variant="master" position="1">Schweinegulasch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6996c9c69da43">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444f9chv8z1ice4pjm7" file_variant="master" position="1">Schweinegulasch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6996c9c817040">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444f86y6mb16trztjm7" file_variant="master" position="1">Schweinegulasch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

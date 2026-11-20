@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc787u4ajx3ci10aszfllp" dcx-version="6.3.1" version="1.0">
+  <created>2019-12-01T16:17:58+01:00</created>
+  <identifier></identifier>
+  <modcount>19</modcount>
+  <modified>2026-03-12T13:37:41+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomCenshareId>1009020</CustomCenshareId>
+    <Title position="1">Paprika-Döner mit Zaziki</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">485</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">47</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">19</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">23</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>1123774</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>1115093</CustomCenshareRecipeRelationshipParentOf>
+    <SubHeadline position="1">MFI_PAPRIKA_DÖNER 1020863-master-fi</SubHeadline>
+    <Headline position="1">Paprika-Döner mit Zaziki</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-09T07:25:54+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="23033c">
+      <CustomRecipeIngredient topic="tmt782lpwheuw91jnfgl8gz" amount="2" unit_topic="tm_topic_default_unit" position="1" unit="(Keine Einheit)" plural="Eier (Größe M)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4641" amount="1" unit_topic="tm_topic_default_unit" suffix="(300g)" position="2" unit="(Keine Einheit)" plural="Auberginen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="3" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7866eo5jz4lqi240idm" amount="3" unit_topic="tm_topic_default_unit" prefix="bunte" position="4" unit="(Keine Einheit)" plural="Paprikaschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit_topic="tm_topic_default_unit" position="5" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="0.5" unit_topic="tm_topic_default_unit" position="6" unit="(Keine Einheit)" plural="Salatgurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="4" unit_topic="tmt71k9mrz8iyeyycjkivd" position="7" unit="Zweig" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="griechischer Art (0,2 % Fett)" position="8" unit="g" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="1" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" position="11" unit="Bund" plural="Rucola"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="12" amount_max="3" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5976" amount="1" unit_topic="tm_topic_default_unit" suffix="(300g)" position="13" unit="(Keine Einheit)" plural="Fladenbrot"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="2303e3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eier in Wasser in etwa 8 Minuten hart kochen. Abgießen, pellen. Aubergine waschen, putzen, in Scheiben schneiden. Aubergine salzen. Paprika halbieren, entkernen, putzen, waschen, in breite Streifen schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="2303f4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Für das Zaziki Knoblauch abziehen, durchpressen. Gurke waschen, putzen, längs halbieren und entkernen. Gurke grob raspeln. Minzblättchen fein hacken. Gurke ausdrücken und mit Minze und Knoblauch unter den Joghurt rühren. Mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="230403">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Zwiebel abziehen, in feine Ringe schneiden. Eier in Scheiben schneiden. Rucola waschen, putzen, kleiner zupfen. Auberginenscheiben im heißen Öl von jeder Seite braten. Paprikastreifen im Bratfett rösten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="23044d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Brot vierteln, waagerecht ein-, aber nicht durchschneiden. Mit Zaziki, Rucola, gebratenem Gemüse, Eiern und Zwiebelringen belegen. Döner servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="2303ca">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Döner als Pausensnack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Das Sandwich lässt sich auch gut ins Büro mitnehmen. In Pergament wickeln und ab in die Brotzeitbox!</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc787u3ok09eqikam5lm5" file_variant="censhare_1020863_last" position="1">1020863-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_39c228">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef doc_id="doc787xlojsl8w1ehwt3lm8" file_variant="censhare_1115096_last" position="1">MFI_PAPRIKA_DÖNER V</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78br9k90riq10mo4i72h" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-09T07:25:54+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_1009020</displayname>
+      <doc_id id="doc787u4ajx3ci10aszfllp"/>
+      <hash>a682d7eec2747f9dd68bb34717c3c8c1</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-09T07:25:54+01:00</modified>
+      <size>5061</size>
+      <subpath>2019/12-09/b6/70/file78br9k90riq10mo4i72h.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

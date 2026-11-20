@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85tv2nmmacp194hkmp8n" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-13T16:02:34+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-05-13T16:12:26+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt85tv77xj95l9cj62paj"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kuckis Beerengrütze","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"gemischte Beeren","unit":{"name":"g"},"prefix":null,"suffix":"z. B. Erd-, Him-, Johannis- und Heidelbeeren"},{"amount":1,"amountTo":2,"ingredient_name":"Speisestärke","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Kirschsaft","unit":{"name":"EL"},"prefix":null,"suffix":"zum Anrühren"},{"amount":220,"amountTo":null,"ingredient_name":"Kirschsaft","unit":{"name":"ml"},"prefix":null,"suffix":"zum Aufkochen"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Beeren in ein Sieb geben, mit kaltem Wasser abbrausen und gut abtropfen lassen. Matschige, faulige oder schlechte Beeren aussortieren (verlesen). Erdbeeren klein schneiden, Johannisbeeren von den Rispen zupfen."},{"headline":null,"content":"Speisestärke mit 3 EL Kirschsaft in einer kleinen Schüssel glatt rühren."},{"headline":null,"content":"220 ml Kirschsaft mit 1 EL Zucker in einem Topf aufkochen. Die angerührte Stärke einrühren und unter Rühren köcheln lassen, bis die Masse eindickt."},{"headline":null,"content":"Beeren unter die angedickte Saftmasse heben, Topf vom Herd ziehen und die Beerengrütze vollständig abkühlen lassen."}],"recipe_tips":[{"headline":null,"content":"Dazu passt Vanillesauce besonders gut. Im Winter können tiefgekühlte Beeren anstelle frischer Beeren verwendet werden."}]}</CustomStructuredRecipeJson>
+    <Title>Kuckis Beerengrütze</Title>
+    <CustomRecipeTeaserside position="1">Vanillesauce</CustomRecipeTeaserside>
+    <Headline position="1">Kuckis Beerengrütze</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-13T16:02:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85tv2q8z3nljbfzp8qp">
+      <CustomRecipeIngredient topic="tmt80io8k4j6m91h0ut8ofv" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z. B. Erd-, Him-, Johannis- und Heidelbeeren" position="1" plural="gemischte Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Speisestärke" position="2" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7196" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Anrühren" plural="Kirschsaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7196" amount="220" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="zum Aufkochen" plural="Kirschsaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85tv2rhlkc5j83c28qp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Beeren in ein Sieb geben, mit kaltem Wasser abbrausen und gut abtropfen lassen. Matschige, faulige oder schlechte Beeren aussortieren (verlesen). Erdbeeren klein schneiden, Johannisbeeren von den Rispen zupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85tv2rhlt5fa614y8qp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Speisestärke mit 3 EL Kirschsaft in einer kleinen Schüssel glatt rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85tv2rhltbs1hi3rs8qp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kirschsaft mit Zucker in einem Topf aufkochen. Die angerührte Stärke einrühren und unter Rühren köcheln lassen, bis die Masse eindickt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85tv2rhltg9c37df8qp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Beeren unter die angedickte Saftmasse heben, Topf vom Herd ziehen und die Beerengrütze vollständig abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85tv2rhm1ls1cgh7f8qp">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Im Winter können tiefgekühlte Beeren anstelle frischer Beeren verwendet werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Grütze mit Vanillesauce</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">ZS/Mader &amp; Schmid</ImageCredit>
+      <DocumentRef doc_id="doc70jfeov95kgv4m5p1t7" file_variant="master" position="1">Rote Grütze mit Vanillesauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

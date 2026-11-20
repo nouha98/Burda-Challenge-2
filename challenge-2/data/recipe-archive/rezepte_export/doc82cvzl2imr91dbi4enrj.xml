@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82cvzl2imr91dbi4enrj" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-12T10:38:39+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-12T12:09:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gefüllte Champignons (vegetarisch)","recipe_seo_headline":"Gefüllte Champignons (vegetarisch) – Rezept mit Feta","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Backen","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Große Champignons","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikaschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(rot)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(200 g oder nur ½)"},{"amount":80,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Creme Fraiche","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"TL"},"prefix":"getrocknet","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"Messerspitze"},"prefix":"optional","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Pilze putzen und die Stiele entfernen. Die Pilzstiele würfeln. Paprikaschote waschen, entkernen und in feine Würfel schneiden. Zucchini ebenfalls waschen und klein schneiden."},{"headline":null,"content":"Feta zwischen den Händen zerbröseln. Geschnittene Pilzstiele, Paprikaschote, Zucchini und Feta mit Thymian, Chiliflocken, Salz und Pfeffer vermengen."},{"headline":null,"content":"Die Pilzhüte mit der Gemüsemischung füllen. Ein Backblech mit Backpapier auslegen und die gefüllten Pilze darauf verteilen. Auf der mittleren Schiene ungefähr 30 Minuten backen. Aus dem Ofen nehmen und genießen."}],"recipe_tips":[{"headline":"Vegetarisch gefüllte Champignons","content":"Grillen: Grillrost einölen und direkt daraufsetzen. Zum Grillen sind auch Portobellos super. Beilage: für 4 Personen zum Beispiel 300 g Reis oder ein frischer Salat. Mit Käse überbacken."}]}</CustomStructuredRecipeJson>
+    <Title>Gefüllte Champignons (vegetarisch)</Title>
+    <CustomRecipeSeoTitle position="1">Gefüllte Champignons (vegetarisch) – Rezept mit Feta</CustomRecipeSeoTitle>
+    <Headline position="1">Gefüllte Champignons (vegetarisch)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-12T10:38:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82cvzi6c95utd0ulnrj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="große" plural="Champignons"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(rot)" plural="Paprikaschoten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(200 g oder nur ½)" plural="Zucchini" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feta" position="4" suffix="Creeme Fraivhe 2 EL"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="getrocknet" plural="Thymian" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" prefix="optional" plural="Chiliflocken" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82cvzl2i40wugnq5nrj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Pilze putzen und die Stiele entfernen. Die Pilzstiele würfeln. Paprikaschote waschen, entkernen und in feine Würfel schneiden. Zucchini ebenfalls waschen und klein schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82cvzl2ib096ss3fnrj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Feta zwischen den Händen zerbröseln. Geschnittene Pilzstiele, Paprikaschote, Zucchini und Feta mit Thymian, Chiliflocken, Salz und Pfeffer vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82cvzl2ib6t68z4cnrj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Pilzhüte mit der Gemüsemischung füllen. Ein Backblech mit Backpapier auslegen und die gefüllten Pilze darauf verteilen. Auf der mittleren Schiene ungefähr 30 Minuten backen. Aus dem Ofen nehmen und genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82cvzl2ibbddfwyvnrj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Grillen: Grillrost einölen und direkt daraufsetzen. Zum Grillen sind auch Portobellos super. Beilage: für 4 Personen zum Beispiel 300 g Reis oder ein frischer Salat. Mit Käse überbacken.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegetarisch gefüllte Champignons</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

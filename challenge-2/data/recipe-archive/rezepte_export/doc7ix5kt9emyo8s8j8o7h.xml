@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ix5kt9emyo8s8j8o7h" dcx-version="6.3.1" version="1.0">
+  <created>2021-12-20T14:00:34+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-07-14T11:03:00+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7hd1zuyssk712ma2o2oz"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7hd1zuyssk712ma2o2oz"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <Keywords topic="tmt7iv0subgs3515xclt4re"/>
+    <Keywords topic="tmt6p28o0wnic3103vdo8m1"/>
+    <Keywords topic="tmt6owqh3q3oau4cor98m4"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Source topic="tmt7ix5kqp7rz6ynlb65o5"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">180</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">1</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">20</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Estragonessig und Steinpilzöl als Weihnachtsgeschenke</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-12-20T14:00:34+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10386" position="1" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="getrocknete" plural="Steinpilze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" position="2" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" position="3" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="schwarze" plural="Pfefferkörner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8306" position="4" amount="2" plural="Muskatblüten"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Pilze mit dem Öl in ein Vorratsglas   geben.   Pfefferkörner  im  Mörser  anstoßen,  mit Muskatblüten in das Glas geben, dieses schließen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_61c080cf02f0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Öl  ca.  3  Wochen  bei  Raumtemperatur ziehen lassen,  ab und  zu  schütteln.  Öl  durch  eine Filtertüte abseihen, evtl. mit    weiteren    getrockneten    Pilzen in eine Flasche füllen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Estragonessig und Steinpilzöl als Weihnachtsgeschenke</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Raider, Peter</ImageCredit>
+      <DocumentRef doc_id="doc7hf7w2xqvrrtvgcmg9" file_variant="master" position="1">Estragonessig und Steinpilzöl als Weihnachtsgeschenke</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

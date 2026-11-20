@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83jjc7hlq7t1kok812id" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-04T09:42:20+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-04T09:46:05+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="16" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bj4727yxs10ckoo96d"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Eierlikörkuchen saftig","recipe_seo_headline":null,"servings":{"amount":16.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":45},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Eierlikörkuchen","ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":200,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Eierlikör","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":140,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":140,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Eier mit Zucker über dem Wasserbad schaumig rühren, solange weiter aufschlagen bis die Masse standfest ist und deutlich abgekühlt hat."},{"headline":null,"content":"Öl mit Eierlikör mischen und zugießen."},{"headline":null,"content":"Mehl mit Speisestärke und Backpulver mischen und in den Teig sieben, kurz verrühren bis sich alles gut kombiniert hat."},{"headline":null,"content":"Eine Silikon Gugelhupf Form vorbereiten und den kompletten Teig eingießen, für 45 Min. backen lassen, die Kruste darf gut gebräunt sein. Für eine halbe Stunde auskühlen lassen und auf eine Platte stürzen."},{"headline":null,"content":"Den Kuchen für mindestens 3 Stunden kühl stellen."},{"headline":null,"content":"Üppig mit Puderzucker bestreuen. Dieser Kuchen ergibt 16 Stücke."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Eierlikörkuchen saftig</Title>
+    <Headline position="1">Eierlikörkuchen saftig</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-04T09:42:20+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83jjc35dowp19lf2j2id">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Öl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5676" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Eierlikör" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="140" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="140" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speisestärke" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Puderzucker" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Eierlikörkuchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83jjc7hlikh493j92id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eier mit Zucker über dem heißen Wasserbad schaumig rühren. Solange weiter aufschlagen, bis die Masse standfest ist und deutlich abgekühlt ist. Öl mit Eierlikör mischen und zugießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83jjc7hlot211mkmj2id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl mit Speisestärke und Backpulver mischen und in den Teig sieben. Kurz verrühren, bis sich alles gut verbunden hat. Den Backofen auf 180 Grad Ober- und Unterhitze (Umluft 160 Grad) vorheizen. Eine Silikon-Gugelhupf-Form (Durchmesser 24 cm) vorbereiten und den kompletten Teig eingießen. Für 45 Minuten backen lassen, die Kruste darf gut gebräunt sein.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83jjc7hlozklbwd22id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für eine halbe Stunde auskühlen lassen und auf eine Platte stürzen. Den Kuchen für mindestens 3 Stunden kühl stellen. Üppig mit Puderzucker bestreuen. Dieser Eierlikör-Gugelhupf ergibt ca. 16 Stücke. Lass dir den Eierlikörkuchen schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Gugelhupf-Form</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wer keine Gugelhupf-Form aus Silikon zuhause hat, sollte seine Form gründlich fetten, damit der Kuchen leicht aus der Form gestürzt werden kann.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe0x2v8ol1jmxf4jfs" file_variant="master" position="1">Eierlikörkuchen saftig</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69314a4a9e8ad">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe0y6zm5g62edadmu" file_variant="master" position="1">Eierlikörkuchen saftig</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69314a4bf28be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe0vezxs413kx1ddv" file_variant="master" position="1">Eierlikörkuchen saftig</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

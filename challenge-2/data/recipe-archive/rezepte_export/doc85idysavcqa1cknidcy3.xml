@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85idysavcqa1cknidcy3" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-21T08:03:03+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-04-21T08:14:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <Keywords topic="tmt6p3t95guxtf1eee608mb"/>
+    <Source topic="tmt85ie41bupw91bmv7xd14"/>
+    <CustomRecipeTeaserside position="1">Koriander-Joghurt-Dip</CustomRecipeTeaserside>
+    <Headline position="1">Rumpsteak mit Salsa</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-21T08:03:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9226" position="1" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(z.B. aus der Hüfte)" plural="Rindersteak"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" position="3" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Oregano"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pflanzenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Fürs Steak</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69e713c8c2cda">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10331" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="grüne" plural="Spitzpaprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="3" amount="0.5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleine" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10491" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tabasco"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für Salsa</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Fleisch trocken tupfen und in ca. 7 x 14 cm große Stücke schneiden. Den Knoblauch abziehen und in eine Schüssel pressen. Oregano abbrausen, trocken tupfen. Blättchen abzupfen, fein hacken und mit Knoblauch und Öl in der Schüssel verrühren. Das Fleisch evtl. salzen, pfeffern, mit der Marinade mischen und ca. 2 Stunden marinieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69e714fbe0ac7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Salsa die Paprika abbrausen, putzen und fein würfeln. Tomaten überbrühen, häuten und entkernen. Das Fruchtfleisch in feine Würfel schneiden. Die Zwiebel abziehen und sehr fein würfeln. Limettensaft und Öl in einer Schüssel verrühren. Mit Salz, Pfeffer und Tabasco würzen. Paprika, Tomaten sowie Zwiebel zufügen, mit dem Dressing vermengen und kurz durchziehen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69e71505ee6e9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Grill anheizen. Je 1 Stück Fleisch auf 2 Metallspieße stecken. Den Rost leicht ölen, die Spieße darauflegen und ca. 4 Minuten je Seite (oder bis zum gewünschten Gargrad) grillen. Dann die Spieße vom Grill nehmen, mit Folie bedecken und kurz ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69e7151153a31">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Spieße aus dem Fleisch ziehen, und die Steaks in breite Streifen schneiden. Das Fleisch mit Salz sowie Pfeffer würzen und mit der Salsa servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">News Life Media</ImageCredit>
+      <DocumentRef doc_id="doc7t2hnw934xcwq8nym5i" file_variant="master" position="1">Gegrillte Rumpsteak-Spie e mit Salsa</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

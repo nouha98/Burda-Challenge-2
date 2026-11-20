@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82qqbdrwoogqfz5y2id" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-09T09:12:22+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-09T09:18:00+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Eintopf mit Sauerkraut","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":"mehligkochend","suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Gemüse – oder Fleischbrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bauernwürste","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Cabanossi)"},{"amount":400,"amountTo":null,"ingredient_name":"Sauerkraut","unit":{"name":"g"},"prefix":null,"suffix":"aus der Dose"},{"amount":null,"amountTo":null,"ingredient_name":"Salz und Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Zweig"},"prefix":"Einige","suffix":null}]}],"preparation":[{"headline":null,"content":"Die Kartoffeln schälen und in 2 x 2 cm Würfel schneiden."},{"headline":null,"content":"Die Zwiebeln und den Knoblauch schälen und fein würfeln. Von den Tomaten den Strunk entfernen und die Tomaten grob würfeln."},{"headline":null,"content":"Das Sonnenblumenöl in einem Topf erhitzen die zuerst die Zwiebeln für ca. 2 Minuten, dann den Knoblauch dazugeben und für eine weitere Minute mitbraten. Das Paprikapulver dazugeben und für 1-2 Minuten sanft mitrösten."},{"headline":null,"content":"Die Kartoffeln und die Tomaten dazugeben und kurz mit anschwitzen. Dann die Brühe aufgießen, das Lorbeerblatt dazugeben und die Suppe ca. 20 Minuten köcheln lassen. Währenddessen die Bauernwürste in 2 cm Scheiben schneiden. Das Lorbeerblatt entfernen und nun das Sauerkraut dazugeben und für 5 Minuten mitköcheln lassen. Die Wurstscheiben dazugeben, mit Salz und Pfeffer abschmecken und einmal aufkochen. Die Petersilie hacken und die Suppe damit bestreuen."}],"recipe_tips":[{"headline":"Statt Cabanossi","content":"Statt Cabanossi kannst du auch Wiener Würstchen oder Landjäger oder Speckwürfel in die Suppe geben."}]}</CustomStructuredRecipeJson>
+    <Title>Eintopf mit Sauerkraut</Title>
+    <Headline position="1">Eintopf mit Sauerkraut</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-09T09:12:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82qqbb7s51xbomgq2id">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="mehligkochend" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="2" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Paprikapulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Lorbeerblätter" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Tomaten" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" prefix="Gemüse- oder" plural="Fleischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6916" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="9" prefix="Bauernwürste bzw." plural="Cabanossi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9641" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus der Dose" plural="Sauerkraut" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" prefix="Einige" plural="Petersilie" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82qqbdrwnll1kpkte2id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln schälen und in 2 x 2 cm Würfel schneiden. Die Zwiebeln und den Knoblauch schälen und fein würfeln. Von den Tomaten den Strunk entfernen und die Tomaten grob würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82qqbdrwnwi141gcj2id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Sonnenblumenöl in einem Topf erhitzen die zuerst die Zwiebeln für ca. 2 Minuten, dann den Knoblauch dazugeben und für eine weitere Minute mitbraten. Das Paprikapulver dazugeben und für 1-2 Minuten sanft mitrösten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82qqbdrwnzs1lq0u12id">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Kartoffeln und die Tomaten dazugeben und kurz mit anschwitzen. Dann die Brühe aufgießen, das Lorbeerblatt dazugeben und die Suppe ca. 20 Minuten köcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68e760e3d97cf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Währenddessen die Bauernwürste in 2 cm Scheiben schneiden. Das Lorbeerblatt entfernen und nun das Sauerkraut dazugeben und für 5 Minuten mitköcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68e760f606b21">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Wurstscheiben dazugeben, mit Salz und Pfeffer abschmecken und einmal aufkochen. Die Petersilie hacken und die Suppe damit bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82qqbdrwo351dt10n2id">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Cabanossi-Scheiben kannst du auch Wiener Würstchen oder Landjäger in den Eintopf geben. Auch gewürfelter Speck passt gut, die Speckwürfel kannst du direkt mit den Zwiebeln zusammen andünsten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Sauerkraut-Eintopf mit Wienerle &amp; Co</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68e761153d7b5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Möchtest du frisches Sauerkraut verwenden, musst du beachten, dass dieses länger köcheln muss. Am besten gibst du es zusammen mit der Brühe zum Eintopf und lässt es dann sanft mitköcheln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Frisches Sauerkraut verwenden</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jl7a1wkxk1ljitiozg" file_variant="master" position="1">Eintopf mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e761a320d56">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jl73nl3bc1a6iesn7u" file_variant="master" position="1">Eintopf mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e761a4b0fdc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jl750216b1e7psgybc" file_variant="master" position="1">Eintopf mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e761a66ae90">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jl70gm679bfas811cm" file_variant="master" position="1">Eintopf mit Sauerkraut</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

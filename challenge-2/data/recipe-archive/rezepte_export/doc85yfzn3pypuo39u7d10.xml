@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85yfzn3pypuo39u7d10" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-22T14:00:56+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-22T14:04:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <Source topic="tmt85yg131hqbtme12dd1y"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Omas bester Milchreis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Ruhen/Warten","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":415,"kilojoule":1737,"carbonhydrates":69,"fat":9,"protein":12,"breadunit":6}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":"½","amountTo":1,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Milch mit 1 Prise Salz in einem Topf zum Kochen bringen."},{"headline":null,"content":"Milchreis zugeben und unterrühren. 2 EL Zucker einrühren."},{"headline":null,"content":"Vanilleschote längs halbieren und Mark herausschaben. Schote und Mark zum Reis geben."},{"headline":null,"content":"Alles aufkochen und bei kleiner Hitze 20–25 Minuten quellen lassen, dabei zwischendurch umrühren."},{"headline":null,"content":"Milchreis vom Herd nehmen und 15 Minuten ruhen lassen. Dann die Vanilleschote entfernen."},{"headline":null,"content":"Den übrigen Zucker mit Zimt mischen. Den Milchreis mit Zimt-Zucker bestreuen und servieren."}],"recipe_tips":[{"headline":null,"content":"Dazu passen heiße Kirschen oder Apfelkompott."}]}</CustomStructuredRecipeJson>
+    <Title>Omas bester Milchreis</Title>
+    <CustomRecipeNutritionalValueCalories position="1">415</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1737</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">69</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">12</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">6</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeTeaserside position="1">heiße Kirschen oder Apfelkompott.</CustomRecipeTeaserside>
+    <Headline position="1">Omas bester Milchreis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-22T14:00:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85yfzp6hyx51chqf5nfg">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchreis" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" max_amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85yfzqphnc911x8yonfg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch mit 1 Prise Salz in einem Topf zum Kochen bringen. Milchreis zugeben und unterrühren. 2 EL Zucker einrühren. Vanilleschote längs halbieren und Mark herausschaben. Schote und Mark zum Reis geben. Alles aufkochen und bei kleiner Hitze 20–25 Minuten quellen lassen, dabei zwischendurch umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85yfzqphq086l3dcnfg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Milchreis vom Herd nehmen und 15 Minuten ruhen lassen. Dann die Vanilleschote entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85yfzqphq4wu91r1nfg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den übrigen Zucker mit Zimt mischen. Den Milchreis mit Zimt-Zucker bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85yfzqphqk6zoq7cnfg">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die richtige Reissorte: Für Milchreis eignet sich Rundkornreis am besten, da er viel Stärke enthält, fest bleibt, aber trotzdem cremig wird. Gegen Ende der Kochzeit regelmäßig rühren, damit der Milchreis nicht anbrennt! </CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Milchreis - Old but Gold</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Newman, Rita</ImageCredit>
+      <DocumentRef doc_id="doc7r1girolc5i12po2hj3o" file_variant="master" position="1">Milchreis - Old but Gold</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

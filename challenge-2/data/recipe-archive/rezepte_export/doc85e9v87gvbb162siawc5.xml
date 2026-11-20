@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85e9v87gvbb162siawc5" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-13T07:53:53+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-13T08:02:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="16"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="70"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Früchtebrot","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Nüsse, gemischt (z. B. Haselnüsse, Walnüsse…)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Trockenfrüchte, gemischt (z. B. Feigen, Datteln…)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Äpfel, süß-säuerlich (ca. 300 g)","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Dinkelvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Nüsse in einer Pfanne ohne Öl rösten, etwas abkühlen lassen und hacken. Trockenfrüchte in kleine Stücke schneiden. Äpfel schälen, vierteln, das Kerngehäuse entfernen und raspeln."},{"headline":null,"content":"Gehackte Nüsse, geschnittene Trockenfrüchte und die geriebenen Äpfel mit Apfelsaft, Honig, Lebkuchengewürz, Zimt und der Prise Salz verrühren und über Nacht abgedeckt ziehen lassen."},{"headline":null,"content":"Den Backofen auf 175 Grad (Ober-/Unterhitze) vorheizen. Dinkelvollkornmehl und Backpulver unter die Mischung heben und gut verrühren. Falls der Teig zu trocken wirkt, noch 1-2 EL Apfelsaft hinzufügen. Eine Kastenform (ca. 28 x 10 cm) mit Backpapier auslegen und die Masse hineinfüllen und glattstreichen."},{"headline":null,"content":"Früchtebrot im vorgeheizten Backofen auf mittlerer Schiene etwa 70–80 Minuten backen. Anschließend etwas abkühlen lassen und erst dann aus der Form stürzen. Ausgekühltes Früchtebrot in Klarsichtfolie wickeln und für 1–2 Tage an einem kühlen Ort ziehen lassen, bevor es angeschnitten wird."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Früchtebrot</Title>
+    <Headline position="1">Früchtebrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-13T07:53:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85e9v54kguxso196wc5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8396" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="gemischte" suffix="(z. B. Haselnüsse, Walnüsse…)" plural="Nüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10751" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" prefix="gemischte" suffix="((z. B. Feigen, Datteln…)" plural="Trockenfrüchte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" prefix="süß-säuerliche" suffix="(ca. 300 g)" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Apfelsaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5596" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Dinkelvollkornmehl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Backpulver" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85e9v87gudk1lkcn9wc5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Nüsse in einer Pfanne ohne Öl rösten, etwas abkühlen lassen und hacken. Trockenfrüchte in kleine Stücke schneiden. Äpfel schälen, vierteln, das Kerngehäuse entfernen und raspeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85e9v87gulclvxrswc5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gehackte Nüsse, geschnittene Trockenfrüchte und die geriebenen Äpfel mit Apfelsaft, Honig, Lebkuchengewürz, Zimt und der Prise Salz verrühren und über Nacht abgedeckt ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85e9v87gup0se9vqwc5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 175 Grad (Ober-/Unterhitze) vorheizen. Dinkelvollkornmehl und Backpulver unter die Mischung heben und gut verrühren. Falls der Teig zu trocken wirkt, noch 1-2 EL Apfelsaft hinzufügen. Eine Kastenform (ca. 28 x 10 cm) mit Backpapier auslegen und die Masse hineinfüllen und glattstreichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85e9v87gusplewgcwc5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Früchtebrot im vorgeheizten Backofen auf mittlerer Schiene etwa 70–80 Minuten backen. Anschließend etwas abkühlen lassen und erst dann aus der Form stürzen. Ausgekühltes Früchtebrot in Klarsichtfolie wickeln und für 1–2 Tage an einem kühlen Ort ziehen lassen, bevor es angeschnitten wird.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Früchtebrot</p>
+<p>Fruechtebrot</p></div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7inhsw9hq2s5ka9jetf" file_variant="master" position="1">Fruechtebrot2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69dc86f583107">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Früchtebrot</p>
+<p>Fruechtebrot</p></div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7inhsp040z714q6xh6uj" file_variant="master" position="1">FruechtebrotStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69dc86f7c3d14">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Früchtebrot</p>
+<p>Fruechtebrot</p></div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7inht1kdux1xq44h6uj" file_variant="master" position="1">Fruechtebrot1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83xfhjagl891ihcbocnj" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-31T10:37:45+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-31T10:45:34+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pilzsauce","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Braten"},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"braune Champignons","unit":{"name":"g"},"prefix":null,"suffix":"(Steinchampignons)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"große Prise","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Champignons eventuell mit einem Pinsel putzen und sechsteln, bzw. große Pilze achteln. Die Zwiebel schälen und fein würfeln. Die Knoblauchzehe schälen und fein hacken."},{"headline":null,"content":"Das Öl in die Pfanne geben, erhitzen und die Butter darin zerlassen. Die Pilze ca. 3 Minuten bei mittlerer Hitze goldgelb darin anbraten. Die Zwiebel hinzugeben und 2 weitere Minuten anbraten. Den gehackten Knoblauch hinzugeben und ca. 1 Minute mitbraten. Mit der Gemüsebrühe ablöschen und diese etwas einköcheln lassen. Nun die Sahne aufgießen, mit Salz und Pfeffer würzen und ca. 5 Minuten einköcheln lassen. Mit der gehackten Petersilie bestreuen."}],"recipe_tips":[{"headline":"Steinchampignons","content":"Steinchampignons sind die braunen Champignons. Sie schmecken etwas würziger und intensiver. Du kannst die Sauce aber auch mit anderen Pilzen, z.B.: ergänzen.\n\nGetrocknetes Steinpilzpulver gibt der Sauce zusätzlich ein tolles Aroma. Dazu einfach 1 TL davon einstreuen und mitkochen."}]}</CustomStructuredRecipeJson>
+    <Title>Pilzsauce</Title>
+    <Headline position="1">Pilzsauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-31T10:37:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83xfhhfa0vlv46d1cnj">
+      <CustomRecipeIngredient topic="tmt80imrot7al54acusofv" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Steinchampignons)" position="1" plural="braune Champignons"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10386" position="2" amount="1" amount_max="2" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" suffix="(oder getrocknete Steinpilze)" plural="Steinpilze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Braten" plural="Sonnenblumenöl" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83xfhjagann5b20mcnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Champignons und die Steinpilze eventuell mit einem Pinsel putzen. Die Pilze in Sechstel bzw. große Pilze in Achtel schneiden. Die Zwiebel schälen und fein würfeln. Die Knoblauchzehe schälen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83xfhjagdt41gjm3ocnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Öl in die Pfanne geben, erhitzen und die Butter darin zerlassen. Die Pilze ca. 3 Minuten bei mittlerer Hitze goldgelb darin anbraten. Die Zwiebel hinzugeben und 2 weitere Minuten anbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6954ef8e1aabc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den gehackten Knoblauch hinzugeben und ca. 1 Minute mitbraten. Mit der Gemüsebrühe ablöschen und diese etwas einköcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6954ef978c8ee">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sahne aufgießen, mit Salz und Pfeffer würzen und ca. 5 Minuten einköcheln lassen. Die Petersilienblätter vom Stengel zupfen, fein hacken und die Soße damit bestreuen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83xfhjagdxjdiedqcnj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die braunen Champignons heißen auch Steinchampignons. Sie schmecken etwas würziger und intensiver als die weißen Champignons. Du kannst die Sauce aber mit allen essbaren Pilzen zubereiten – sie wird immer lecker. Getrocknetes Steinpilzpulver gibt der Sauce zusätzlich ein tolles Aroma. Dazu einfach 1 TL davon einstreuen und mitkochen.
+Getrocknetes Steinpilzpulver gibt der Sauce zusätzlich ein tolles Aroma. Dazu einfach 1 TL davon einstreuen und mitkochen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So bekommt deine Pilzsoße ein intensives Aroma</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdapj7augo6b8jtsb" file_variant="master" position="1">Pilzsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6954f0ba4531a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd9eliluc1asnf2iqc" file_variant="master" position="1">Pilzsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6954f0bc0a787">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd8vstwblys78ptrq" file_variant="master" position="1">Pilzsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6954f0bd6e2be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rd9zsda74lq8txtsb" file_variant="master" position="1">Pilzsoße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

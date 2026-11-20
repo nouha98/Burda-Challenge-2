@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786hyddxlma1af3017sm" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T01:48:28+01:00</created>
+  <identifier></identifier>
+  <modcount>14</modcount>
+  <modified>2024-12-03T09:53:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomCenshareId>551307</CustomCenshareId>
+    <Title position="1">Glühweincreme mit Orangenhippen </Title>
+    <Headline position="1">Glühweincreme mit Orangenhippen </Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">805</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3390</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">74</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">43</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>875394</CustomCenshareRecipeRelationshipParentOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T06:05:43+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="7b5903">
+      <CustomRecipeIngredient topic="tmt782p68wmrdx13tbp48gz" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit_topic="tmt71k9l2t09xx1jfg9ydbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9461" amount="375" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="70" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt782p5tyjsb41l9pg18gz" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782p5typwzq1msr808gz" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782q7ronweh8qtgr8gz" amount="2" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="2" unit_topic="tm_topic_default_unit" prefix="Stück"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Für die Mousse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="7b7943">
+      <CustomRecipeIngredient topic="tmt78667yr5xo2ak7w9idm" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="feiner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit_topic="tm_topic_default_unit" prefix="kleine"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Hippen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="7b8047">
+      <CustomRecipeIngredient topic="tmt7869visczrptjztfavd" amount="2" unit_topic="tm_topic_default_unit" prefix="kernlose"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit_topic="tm_topic_default_unit" suffix="zum Bestäuben"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="2">Für die Garnitur</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="7b8090">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Mousse die Sahne steif schlagen. Die Gelatine nach Packungsangabe in kaltem Wasser einweichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b809f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Zitrone und Orange heiß waschen, dann trocken tupfen. Mithilfe eines Sparschälers jeweils die Schalen dünn abschneiden, dann von beiden Früchten den Saft auspressen. Vanilleschote längs halbieren, das Mark herausschaben und für die Hippen beiseitestellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80ac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Zitrussaft und -schalen mit der ­ausgeschabten Vanilleschote, mit Anis, Zimt und Nelken sowie Wein und Zucker in einem Topf vermischen und auf etwa 100 ml einkochen. Glühweinsud durch ein feines Sieb passieren. Die Gelatine ausdrücken und im nicht mehr kochend heißen Sud auflösen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80bb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Quark mit Puderzucker verrühren, dann die Glühwein-Gelatine-Mischung zügig darunterrühren. Mit einem Löffel die geschlagene Sahne unterheben und die Creme für mindestens 3 Stunden kalt stellen. Für die Hippen die Orange auspressen. 70 ml Saft abmessen, mit dem Zucker sowie dem Ahornsirup erhitzen, bis sich der Zucker aufgelöst hat. Orangensirup etwas abkühlen lassen. Butter mit Vanillemark sowie Orangensirup verrühren. Mehl, Salz und Mandeln hinzufügen und alles zu einem Teig verarbeiten. Teig 30 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80c7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="5">Zubereitungsschritt 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="5">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Zwei Bleche mit Backpapier belegen. Schablone für die Hippen ausschneiden (wie man das macht, siehe im Tipp unterm Rezept).</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80d6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="6">Zubereitungsschritt 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="6">Teig mithilfe der Schablone auf das Backpapier streichen. Ein Blech auf der mittleren Schiene in den vorgeheizten Ofen schieben, die Hippen in 7–8 Minuten hellbraun backen. Anschließend aus dem Ofen nehmen und sofort um einen Holzlöffelstiel (oder etwas Ähn­liches) wickeln und auskühlen lassen. Achtung: Die Hippen lassen sich nur im heißen Zustand gut formen, man muss daher zügig arbeiten. Wer nicht gut mit dem heißen Gebäck umgehen kann, der zieht sich evtl. ein oder zwei Paar Küchenhandschuhe an, dann verbrennt man sich nicht so leicht die Finger.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80e2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="7">Zubereitungsschritt 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="7">Mit dem restlichen Blech und den übrigen Hippen ebenso verfahren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7b80ef">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="8">Zubereitungsschritt 8</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="8">Clementinen mit einem scharfen Messer so dick schälen, dass auch die weiße Haut mit entfernt wird. Die Fruchtfilets zwischen den Trennhäutchen herausschneiden. Von der Mousse große Nocken abstechen und zusammen mit den Fruchtfilets und Orangenhippen anrichten. Mit etwas Puder­zucker bestäuben und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="7b807f">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Tipp: Mithilfe einer Schablone kann man den Teig besser aufs Blech streichen, und die Hippen backen gleichmäßiger. Einfach aus einem Stück Pappe (etwa 1 mm dick) oder aus einer festen Kunststofffolie einen Kreis (Ø ca. 8 cm) ausschneiden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_553314_last" doc_id="doc786hxks27dsd5idz7t1" position="1">150114_Lust_Auf_Genuss_Set1_Session2</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_c09072">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel>Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_875396_last" doc_id="doc786t1td1ycx7t2u9lm9">150114_Lust_Auf_Genuss_Set1_Session2</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b7qkmgd2c31ioh3aq" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T06:05:44+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_551307</displayname>
+      <doc_id id="doc786hyddxlma1af3017sm"/>
+      <hash>01e51858d9c468bbf419e1cf72dac498</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T06:05:44+01:00</modified>
+      <size>8740</size>
+      <subpath>2019/12-08/4d/42/file78b7qkmgd2c31ioh3aq.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

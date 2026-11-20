@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81rbu9el6bbpjq3hit6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T11:37:15+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-08-01T12:45:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spekulatius-Keks-Kuchen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":120},{"name":"Backen","duration":25}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den All-In-Teig","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"gemahlene Haselnüsse oder Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":130,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":150,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null}]},{"headline":"Für die Füllung","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Schattenmorellen","unit":{"name":"Glas"},"prefix":null,"suffix":"(Abtropfgewicht je 350 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanille-Puddingpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sahnefix","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":15,"amountTo":null,"ingredient_name":"Spekulatiuskekse","unit":{"name":"Stück"},"prefix":"Ca.","suffix":null}]}],"preparation":[{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Backblech mit Backpapier belegen. Verstellbaren, rechteckigen Tortenrahmen darauf stellen und auf 20 x 30 cm einstellen. Du kannst vorab auch die Spekulatiuskekse nehmen und die 15 Kekse nebeneinander legen. So erhälst du die perfekte Einstellung für deinen Tortenrahmen."},{"headline":null,"content":"Mehl, Haselnüsse, Kakao, Backpulver und Zucker in einer Rührschüssel mischen. Eier, weiche Butter und Milch zugeben und zu einem glatten Teig verrühren. In den Backrahmen füllen, mit einem Tortenheber glattstreichen und im Ofen ca. 25 Minuten backen. Im Backrahmen auskühlen lassen."},{"headline":null,"content":"Schattenmorellen auf einem Sieb abtropfen lassen. 300 ml des Safts auffangen und in einem Topf aufkochen. Puddingpulver mit 2-3 EL des übrigen Saftes und Zucker glatt rühren. In den kochenden Kirschsaft rühren, 1 Minuten bei mittlerer Hitze köcheln lassen. Abgetropfte Kirschen zugeben, mischen und gleichmäßig auf dem Schokoladenboden verteilen. Etwas abkühlen lassen."},{"headline":null,"content":"Sahne in einem hohen Rührbecher steif schlagen, dabei Sahnefix und Zucker einrieseln lassen. Auf die abgekühlte Kirschschicht geben und glatt streichen. Spekulatiuskekse darauf legen und im Kühlschrank 2 Stunden kaltstellen."},{"headline":null,"content":"Vor dem Servieren mit einem scharfen Messer aus dem Tortenrahmen lösen und in 15keksgroße Stücke schneiden."}],"recipe_tips":[{"headline":"Statt einem rechteckigen Tortenrahmen","content":"kannst du den Spekulatiuskuchen auch in einer Ø 26 cm Springform backen. Verwende hier aber nur 400 g geschlagene Sahne."}]}</CustomStructuredRecipeJson>
+    <Title>Spekulatius-Keks-Kuchen</Title>
+    <Headline position="1">Spekulatius-Keks-Kuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T11:37:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81rbu4h7xyf47j50it6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zqvfhsits345kbd7n7" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" suffix="oder Mandeln" plural="gemahlene Haselnüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den All-In-Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81rbu762948xx6owit6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9691" amount="2" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(Abtropfgewicht je 350 g)" plural="Schattenmorellen" position="1"/>
+      <CustomRecipeIngredient topic="tmt80j85eq73ph18s68xgip" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="2" plural="Vanille-Puddingpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <CustomRecipeIngredient topic="tmt82su5xu2lky1gko8m14jk" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="5" plural="Sahnefix"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10306" amount="15" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Ca." position="7" suffix="-kekse" plural="Spekulatius"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81rbu9ektr81hppfoit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Backblech mit Backpapier belegen. Verstellbaren, rechteckigen Tortenrahmen darauf stellen und auf 20 x 30 cm einstellen. Du kannst vorab auch die Spekulatiuskekse nehmen und die 15 Kekse nebeneinander legen. So erhälst du die perfekte Einstellung für deinen Tortenrahmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu9eky1ytbnxbit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl, Haselnüsse, Kakao, Backpulver und Zucker in einer Rührschüssel mischen. Eier, weiche Butter und Milch zugeben und zu einem glatten Teig verrühren. In den Backrahmen füllen, mit einem Tortenheber glattstreichen und im Ofen ca. 25 Minuten backen. Im Backrahmen auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu9eky6o1g7loyit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Schattenmorellen auf einem Sieb abtropfen lassen. 300 ml des Safts auffangen und in einem Topf aufkochen. Puddingpulver mit 2-3 EL des übrigen Saftes und Zucker glatt rühren. In den kochenden Kirschsaft rühren, 1 Minuten bei mittlerer Hitze köcheln lassen. Abgetropfte Kirschen zugeben, mischen und gleichmäßig auf dem Schokoladenboden verteilen. Etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu9ekyb56tf2git6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sahne in einem hohen Rührbecher steif schlagen, dabei Sahnefix und Zucker einrieseln lassen. Auf die abgekühlte Kirschschicht geben und glatt streichen. Spekulatiuskekse darauf legen und im Kühlschrank 2 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu9ekyfszixnait6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Vor dem Servieren mit einem scharfen Messer aus dem Tortenrahmen lösen und in 15keksgroße Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81rbu9ekyjm10kwknit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du den Spekulatiuskuchen auch in einer Ø 26 cm Springform backen. Verwende hier aber nur 400 g geschlagene Sahne.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt einem rechteckigen Tortenrahmen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821658is7l31shxmg6e" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T15:19:06+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-21T12:32:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="14"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsl49ioisdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdnussbutter-Kuchen","recipe_seo_headline":null,"servings":{"amount":14.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Backen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":130,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":"und Butter für die Form"},{"amount":170,"amountTo":null,"ingredient_name":"Erdnussbutter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":270,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Vollmilchschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"gesalzene Erdnüsse","unit":{"name":"EL"},"prefix":null,"suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen."},{"headline":null,"content":"Kastenform (25 x11) fetten bzw. Silikonform bereitstellen. Weiche Butter mit Erdnussbutter, Zucker und Salz schaumig schlagen. Nach und nach Eier unterrühren und auf höchster Stufe weiterschlagen. Mehl mit Backpulver mischen und unter den Teig rühren. 50 g der Schokolade fein hacken und unter den Teig geben."},{"headline":null,"content":"In die Form füllen, glatt streichen und im unteren Drittel ca. 60 Minuten backen. Mit Hilfe eines Schaschlickspießes oder Zahnstochers in die Mitte des Kuchens stechen. Klebt kein Teig daran ist der Kuchen fertig gebacken. Erdnusskuchen auf einem Kuchenrost komplett erkalten lassen."},{"headline":null,"content":"Übrige Schokolade grob hacken und in einer Schüssel über dem heißen Wasserbad schmelzen. Kuchen aus der Form lösen und auf eine Platte setzen. Mit der flüssigen Schokolade bestreichen. Mit Erdnüssen bestreuen und anziehen lassen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Erdnussbutter-Kuchen</Title>
+    <Headline position="1">Erdnussbutter-Kuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T15:19:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8216550bak814nmo7g6e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" suffix="und Butter für die Form" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5801" amount="170" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdnussbutter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe: M)" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="270" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10931" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollmilchschokolade" position="8"/>
+      <CustomRecipeIngredient topic="tmt80n7c1vkon51173v34aw" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Bestreuen" position="9" plural="gesalzene Erdnüsse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821658is1xt1hn13og6e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Eine Kastenform (25 x 11 cm) fetten, alternativ eine Silikonform verwenden. Weiche Butter mit Erdnussbutter, Zucker und Salz schaumig schlagen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821658is24x10oggng6e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Nach und nach Eier unterrühren und auf höchster Stufe weiter schlagen. Mehl mit Backpulver mischen und unter den Teig rühren. 50 g der Schokolade fein hacken und unter den Teig mischen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821658is28jur3yqg6e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig in die vorbereitete Form füllen, glatt streichen und im unteren Drittel des vorgeheizten Backofens ca. 60 Minuten backen. Mit einem Holzspieß oder Zahnstocher in der Mitte des Kuchens die Stäbchenprobe machen: Klebt kein Teig mehr daran, ist der Kuchen fertig gebacken. Erdnusskuchen auf einem Kuchenrost komplett erkalten lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821658is2c0o405vg6e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Übrige Schokolade grob hacken und in einer Schüssel über dem heißen Wasserbad schmelzen. Kuchen aus der Form lösen und auf eine Platte setzen. Mit der flüssigen Schokolade bestreichen. Mit Erdnüssen bestreuen und anziehen lassen. Der Erdnussbutter-Kuchen ergibt ca. 16 Stücke. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Länger genießen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Der Erdnussbutter-Kuchen hält sich luftdicht verpackt bei Zimmertemperatur mindestens 3 Tage. Du kannst den Kuchen auch in Scheiben schneiden und einfrieren. 
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81profgwjgk8dcokuu3" file_variant="master" position="1">Erdnussbutterkuchen_83765.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a6f5ab2a53e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81prodt6o0k1ie3ncm9r" file_variant="master" position="1">Erdnussbutterkuchen_83547.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a6f5ad97977">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81procic8b4it05wmr3" file_variant="master" position="1">Erdnussbutterkuchen_83550.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

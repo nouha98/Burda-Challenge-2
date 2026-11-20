@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80mscj9w9mv19gv33fw9" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-14T13:58:58+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-07-14T11:02:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <Provider topic="tmt80msryy7a3qw4zk1g31"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vanilleeis im Filoteig vom Grill","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Ruhen/Warten","duration":120}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Vanilleeis","unit":{"name":"ml"},"prefix":"ca.","suffix":"(fertig gekauft oder selbst gemachtes Vanille- Parfait)"},{"amount":1,"amountTo":2,"ingredient_name":"Matcha","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Filoteig","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Erdbeerkonfitüre","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"neutrales Öl","unit":null,"prefix":"etwas","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze oder Erdbeerblüten","unit":null,"prefix":"evtl.","suffix":null}]}],"preparation":[{"headline":null,"content":"Eis aus der Packung nehmen, in 4 Rechtecke (à ca. 5x7 cm) schneiden. Eisportionen mit etwas Matcha bestäuben, einfrieren."},{"headline":null,"content":"Filoteig in 4 Rechtecke (à etwa 14x16 cm) schneiden. Eisportionen darin einwickeln, sofort wieder mind. 2 Stunden einfrieren."},{"headline":null,"content":"Erdbeeren waschen, putzen, klein schneiden, mit Konfitüre und Ahornsirup mischen."},{"headline":null,"content":"Eispäckchen rundum mit wenig Öl einpinseln. Auf dem heißen Grillrost von jeder Seite sehr kurz bräunen. Vom Grill nehmen, mit den Erdbeeren anrichten."},{"headline":null,"content":"Übriges Matcha-Pulver mit Puderzucker mischen, überstreuen. Evtl. mit Minze, Blüten garnieren, sofort servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Vanilleeis im Filoteig vom Grill</Title>
+    <SubHeadline position="1">Gegrilltes Eis mit frischen Erdbeeren 14217951</SubHeadline>
+    <Headline position="1">Vanilleeis im Filoteig vom Grill</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-14T13:58:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80mscln2konmpr3qfid">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10781" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="ca." suffix="(fertig gekauft oder selbst gemachtes Vanille- Parfait)" plural="Vanilleeis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8091" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Matcha" position="2" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5946" amount="2" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Filoteig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5776" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Erdbeerkonfitüre" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas neutrales" position="7" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="evtl." position="9" suffix="oder Erdbeerblüten" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80mscr0s93711pmf8fid">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eis aus der Packung nehmen, in 4 Rechtecke (à ca. 5x7 cm) schneiden. Eisportionen mit etwas Matcha bestäuben, einfrieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80mscr0sg29qz3mxfid">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Filoteig in 4 Rechtecke (à etwa 14x16 cm) schneiden. Eisportionen darin einwickeln, sofort wieder mind. 2 Stunden einfrieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80mscr0sgao1kqvmmfid">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Erdbeeren waschen, putzen, klein schneiden, mit Konfitüre und Ahornsirup mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80mscr0sgfr3zmtwfid">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eispäckchen rundum mit wenig Öl einpinseln. Auf dem heißen Grillrost von jeder Seite sehr kurz bräunen. Vom Grill nehmen, mit den Erdbeeren anrichten. Übriges Matcha-Pulver mit Puderzucker mischen, überstreuen. Evtl. mit Minze, Blüten garnieren, sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Vanille-Parfait: </CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">3 Eigelbe mit 75 g Puderzucker, Mark von 1/2 Vanilleschote und 1 EL heißem Wasser über einem heißen Wasserbad dickschaumig schlagen. Dann in eine mit Eiswasser gefüllte Schüssel stellen, mit dem Schneebesen schlagen, bis die Creme abgekühlt. 250 g Schlagsahne steif schlagen, unter die kalte Creme heben.  3 Eiweiß und 1 Prise Salz steif schlagen. Eischnee vorsichtig unter die Eiersahne heben. Terrinen- oder Kastenform mit Frischhaltefolie auslegen. Masse einfüllen, glatt streichen, 6–8 Stunden tiefkühlen. Zum Stürzen Form kurz in heißes Wasser tauchen, Parfait mit der Folie aus der Form stürzen. Folie abziehen und das Parfait in Scheiben bzw. Rechtecke schneiden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gegrilltes Eis mit frischen Erdbeeren</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Gottwald, Jorma</ImageCredit>
+      <DocumentRef doc_id="doc7vmxxhgyjr81gvv8k9f5" file_variant="master" position="1">Gegrilltes Eis mit frischen Erdbeeren</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

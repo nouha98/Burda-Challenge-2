@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825pj9hhca920juvdrc" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T11:18:38+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-29T11:26:14+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ananas-Kompott","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"frische Ananas","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 1300g, essbarer Teil: ca. 800g)"},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":"(optional)"}]}],"preparation":[{"headline":null,"content":"Für das Ananas-Kompott zunächst die Ananas schneiden. Dafür den Strunk und den Boden der Ananas abschneiden. Die Ananas aufrecht auf dem Brett platzieren und rundherum die Schale mit dem Messer abschneiden. Die kleinen braunen Punkte am besten auch vorsichtig herausschneiden, da diese sehr hart sind."},{"headline":null,"content":"Die Ananas vierteln. Ein Viertel seitlich auf das Brett legen und mit dem Messer die holzige Mitte herausschneiden. Jetzt das Viertel nochmals halbieren und in kleine Würfel schneiden."},{"headline":null,"content":"Die Ananas-Würfel mit dem Zucker in einen kleinen Topf geben und auf mittlerer Hitze erwärmen. Dabei immer wieder umrühren. Sobald der Zucker angefangen hat zu schmelzen, die Ananas-Stücke mit Wasser ablöschen. Zitronensaft und Vanilleextrakt zugeben und die Masse ca. 10-15 Minuten einköcheln lassen."},{"headline":null,"content":"Wenn dir die Masse noch zu viel Flüssigkeit enthält, entnehme ca. 2 EL der Flüssigkeit, verrühre sie mit der Speisestärke und gib sie wieder zum Kompott. 1-2 Minuten weiter erhitzen, bis die Flüssigkeit andickt. Kompott in ein Bügelglas geben, dieses direkt verschließen."}],"recipe_tips":[{"headline":"So prüfst du, ob die Ananas reif ist","content":"Um auch schon beim Einkaufen zu überprüfen, ob die Ananas die richtige Reife hat, ziehe einfach eines der Blätter aus dem Strunk. Wenn es am Ende hell ist und direkt nach frischer Ananas duftet, hat die Ananas die perfekte Reife."}]}</CustomStructuredRecipeJson>
+    <Title>Ananas-Kompott</Title>
+    <Headline position="1">Ananas-Kompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T11:18:38+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825pj7yec5x17mozsdrc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 1300g, essbarer Teil: ca. 800g)" position="1" prefix="frische" plural="Ananas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(optional)" plural="Speisestärke" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825pj9hhaub5sk0ydrc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Ananas-Kompott zunächst die Ananas schneiden. Dafür den Strunk und den Boden der Ananas abschneiden. Die Ananas aufrecht auf dem Brett platzieren und rundherum die Schale mit dem Messer abschneiden. Die kleinen braunen Punkte am besten auch vorsichtig herausschneiden, da diese sehr hart sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825pj9hhb3c112pakdrc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Ananas vierteln. Ein Viertel seitlich auf das Brett legen und mit dem Messer die holzige Mitte herausschneiden. Jetzt das Viertel nochmals halbieren und in kleine Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825pj9hhb8m1it6kfdrc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Ananas-Würfel mit dem Zucker in einen kleinen Topf geben und auf mittlerer Hitze erwärmen. Dabei immer wieder umrühren. Sobald der Zucker angefangen hat zu schmelzen, die Ananas-Stücke mit Wasser ablöschen. Zitronensaft und Vanilleextrakt zugeben und die Masse ca. 10-15 Minuten einköcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825pj9hhbdtbx4eydrc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Wenn dir die Masse noch zu viel Flüssigkeit enthält, entnehme ca. 2 EL der Flüssigkeit, verrühre sie mit der Speisestärke und gib sie wieder zum Kompott. 1-2 Minuten weiter erhitzen, bis die Flüssigkeit andickt. Kompott in ein Bügelglas geben, dieses direkt verschließen. Das Kompott hält sich im Kühlschrank gelagert mehrere Wochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="825pj9hhbiu1ettqfdrc">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Um auch schon beim Einkaufen zu überprüfen, ob die Ananas die richtige Reife hat, ziehe einfach eines der Blätter aus dem Strunk. Wenn es am Ende hell ist und direkt nach frischer Ananas duftet, hat die Ananas die perfekte Reife.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So prüfst du, ob die Ananas reif ist</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr7z2ac5usqu6efti" file_variant="master" position="1">AnanasKompott2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b17231ea939">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr7unve6xy9gfh9fn" file_variant="master" position="1">AnanasKompott_Step1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b172331177c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr7z58byr1hmwn8fte" file_variant="master" position="1">AnanasKompott_Step2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b1723482b29">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr7vyxbh5jo25dfps" file_variant="master" position="1">AnanasKompott1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

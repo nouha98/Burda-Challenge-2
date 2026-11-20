@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fl0ahny7mtavoipbu" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-26T17:02:10+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-26T17:03:57+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrb6hevkldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt83fl144rllw192hsppbw"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wodka Sour","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":1}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Grapefruitsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiweiß","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rosmarinzweig","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"50 ml Wodka, 50 ml Grapefruit- und 10 ml Zitronensaft mit 1 Handvoll Eiswürfel in einen Shaker geben und ca. 20 Sekunden schütteln. 1 Eiweiß hinzugeben und erneut kräftig schütteln. Durch ein Barsieb in ein beliebiges Glas füllen. Den Drink mit einem Rosmarinzweig garniert genießen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Wodka Sour</Title>
+    <Headline position="1">Wodka Sour</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-26T17:02:10+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fl0b762pg1gczzbqhc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6386" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Grapefruitsaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="10" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiweiß" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9336" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Rosmarinzweige" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fl0csvbe1j1vzrqhc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">50 ml Wodka, 50 ml Grapefruit- und 10 ml Zitronensaft mit 1 Handvoll Eiswürfel in einen Shaker geben und ca. 20 Sekunden schütteln. 1 Eiweiß hinzugeben und erneut kräftig schütteln. Durch ein Barsieb in ein beliebiges Glas füllen. Den Drink mit einem Rosmarinzweig garniert genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cocktails mit rosa Grapefruit und Rosmarin</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Lee, James</ImageCredit>
+      <DocumentRef doc_id="doc7ikrg974s3of41tgjng" file_variant="master" position="1">Cocktails mit rosa Grapefruit und Rosmarin</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

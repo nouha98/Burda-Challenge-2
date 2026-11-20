@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc837v8btkvjr1cbo1i1wp4" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-11T16:37:52+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-11T16:42:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sauce Bernaise","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":10}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Estragon und Kerbel","unit":{"name":"(Keine Einheit)"},"prefix":"einige","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"trockener Weißwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"schwarze Pfefferkörner","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Cayennepfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":null}]}],"preparation":[{"headline":null,"content":"Butter würfeln und in einem kleinen Topf schmelzen. Bei mittlerer Hitze ca. 5 Minuten köcheln lassen, bis die Butter hellbraun ist und durch ein Sieb mit Küchenpapier gießen."},{"headline":null,"content":"Kräuter waschen, abtropfen lassen, die Blätter von den Stielen trennen und fein schneiden. Zitrone heiß abwaschen, die Schale abreiben und den Saft auspressen."},{"headline":null,"content":"Schalotte abziehen, fein würfeln, in einen Topf mit Weißwein, Pfefferkörnern und den Kräuterstielen geben und auf die Hälfte einkochen. Reduktion durch ein Sieb gießen und etwas abkühlen lassen."},{"headline":null,"content":"Eigelbe mit der Reduktion in einer Schüssel mit einem Schneebesen verrühren und über einem Wasserbad unter ständigem Rühren zu einer cremigen Masse aufschlagen. (Das Wasser darf nicht kochen, da das Eigelb sonst gerinnen kann)."},{"headline":null,"content":"Schüssel vom Wasserbad nehmen, die warme Butter langsam, in einem dünnen Strahl unter ständigem Rühren in die Eimasse laufen lassen und cremig aufschlagen."},{"headline":null,"content":"Gehackte Kräuter unterheben, mit Salz, Cayennepfeffer, Zitronensaft und -abrieb abschmecken und die Sauce Bernaise nach Wunsch mit Rinderfilet oder Lachs und Kartoffeln servieren."}],"recipe_tips":[{"headline":"Geronnen?","content":"Wenn Dir die Soße beim ersten Mal nicht gelingt und sich die Butter trennt, nimm eine neue, saubere Schüssel und schlage erneut 1 Eigelb mit 2 EL lauwarmem Wasser über dem Wasserbad auf. Füge nun unter ständigem Rühren löffelweise die geronnene Soße und die restliche Butter hinzu."}]}</CustomStructuredRecipeJson>
+    <Title>Sauce Bernaise</Title>
+    <Headline position="1">Sauce Bernaise</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-11T16:37:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="837v89etfd212fidv1wp4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5851" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="einige" position="2" plural="Estragon"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="4"/>
+      <CustomRecipeIngredient topic="tmt80l6jxuiaz81dbdlx908" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="trockener Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="6" prefix="schwarze" plural="Pfefferkörner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" position="7" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" plural="Cayennepfeffer" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="837v8btkj0j109piq1wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter würfeln und in einem kleinen Topf schmelzen. Bei mittlerer Hitze ca. 5 Minuten köcheln lassen, bis die Butter hellbraun ist und durch ein Sieb mit Küchenpapier gießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v8btkm2shtam11wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Kräuter waschen, abtropfen lassen, die Blätter von den Stielen trennen und fein schneiden. Zitrone heiß abwaschen, die Schale abreiben und den Saft auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v8btkm6pjpd0p1wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Schalotte abziehen, fein würfeln, in einen Topf mit Weißwein, Pfefferkörnern und den Kräuterstielen geben und auf die Hälfte einkochen. Reduktion durch ein Sieb gießen und etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v8btkmaq12dw3x1wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eigelbe mit der Reduktion in einer Schüssel mit einem Schneebesen verrühren und über einem Wasserbad unter ständigem Rühren zu einer cremigen Masse aufschlagen. (Das Wasser darf nicht kochen, da das Eigelb sonst gerinnen kann.) Schüssel vom Wasserbad nehmen, die warme Butter langsam, in einem dünnen Strahl unter ständigem Rühren in die Eimasse laufen lassen und cremig aufschlagen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v8btkmee19toz1wp4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Gehackte Kräuter unterheben, mit Salz, Cayennepfeffer, Zitronensaft und -abrieb abschmecken und die Sauce Bernaise nach Wunsch mit Rinderfilet oder Lachs und Kartoffeln servieren. Lass es dir schmecken!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="837v8btkmlw1jlog71wp4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn Dir die Soße beim ersten Mal nicht gelingt und sich die Butter trennt, nimm eine neue, saubere Schüssel und schlage erneut 1 Eigelb mit 2 EL lauwarmem Wasser über dem Wasserbad auf. Füge nun unter ständigem Rühren löffelweise die geronnene Soße und die restliche Butter hinzu.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Geronnen?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pafggcoms14x70phqv" file_variant="master" position="1">Sauce Bernaise II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691359205c56e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pafnwh2sw1i1h22p8z" file_variant="master" position="1">Sauce Bernaise II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69135926a087c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pafj8fi8mae2n1jx5" file_variant="master" position="1">Sauce Bernaise II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6913592ce868e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pafqgrx6ax8rpik5u" file_variant="master" position="1">Sauce Bernaise II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

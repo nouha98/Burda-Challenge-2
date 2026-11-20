@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83srvvkumf51j94aq1o2d" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-22T09:10:20+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-22T09:17:00+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtk9r95nxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Johannisbeer-Muffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":null},{"name":"Backen","duration":25},{"name":"Kühlen","duration":null},{"name":"Ruhen/Warten","duration":null}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für Muffins","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"frische Johannisbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitronenabrieb","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Papierförmchen","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Eine Muffinform mit Papierförmchen auslegen. Die Johannisbeeren mit Hilfe einer Kuchengabel von den Rispen entfernen, in einer Schüssel sammeln."},{"headline":"Für den Teig","content":"Weiche Butter mit Zucker, Vanillezucker, Zitronenabrieb und Salz schaumig aufschlagen. Die Eier nach und nach hinzugeben. Das Mehl mit Backpulver mischen und zu dem Teig sieben, einmal gut umrühren. Den Teig mit Joghurt und Milch mischen und mit den Johannisbeeren mischen. Jedes Förmchen bis zu 2/3 mit dem Teig befüllen. Die Muffins für 25 Minuten im Ofen backen lassen. Nach dem Backen auf einem Kuchengitter auskühlen lassen und mit etwas Puderzucker bestäuben. Die Johannisbeer-Muffins frisch genießen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Johannisbeer-Muffins</Title>
+    <Headline position="1">Johannisbeer-Muffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-22T09:10:20+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83srvrblpps8nkaj1o2d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6881" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Johannisbeeren"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" plural="Vanilleextrakt" position="4"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronenabrieb" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Milch" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="12" suffix="zum Bestäuben"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für Muffins</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83srvvkub3ty8tlt1o2d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Muffinform mit Papierförmchen auslegen. Die Johannisbeeren waschen und mit Hilfe einer Kuchengabel von den Rispen entfernen. Die Beeren in einer Schüssel sammeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Johannisbeer-Muffins </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83srvvkugg718roky1o2d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die weiche Butter mit dem Zucker, dem Vanilleextrakt, dem Zitronenabrieb und dem Salz schaumig aufschlagen. Die Eier nach und nach hinzugeben. Das Mehl mit dem Backpulver mischen und zu dem Teig sieben. Alles gut verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6948fdc8b396c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Teig mit Joghurt und Milch mischen und die Johannisbeeren unterheben. Den Backofen auf 180 Grad Ober- und Unterhitze (Umluft 160 Grad) vorheizen. Jedes Förmchen zu 2/3 mit dem Teig befüllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6948fdcb20c11">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Muffins für 25 Minuten im Ofen backen lassen. Nach dem Backen auf einem Kuchengitter auskühlen lassen und mit etwas Puderzucker bestäuben. Die Johannisbeer-Muffins frisch genießen. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Extra fruchtig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Du kannst die kleinen Kuchen nach dem Abkühlen noch mit Zitronenglasur verzieren. Das sieht nicht nur toll aus, sondern schmeckt auch sommerliche frisch. Dafür 100 g Puderzucker mit 1-2 EL Zitronensaft zu einem dickflüssigen Zuckerguss verrühren.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe5wbdtlthpn3njci" file_variant="master" position="1">Johannisbeer-Muffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6948fe7858fa0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe60i59dy1hfqnxddv" file_variant="master" position="1">Johannisbeer-Muffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6948fe797d0c2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe5yzhzfs7j0lxdlp" file_variant="master" position="1">Johannisbeer-Muffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6948fe7adef26">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe5xiz0egt0k2ddkp" file_variant="master" position="1">Johannisbeer-Muffins</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81ptxsh6qc75cz7ztj9" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-29T13:41:06+02:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2025-07-29T13:51:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Türkischer Milchreis","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Garen","duration":25},{"name":"Backen","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gemahlener Zimt","unit":{"name":"TL"},"prefix":null,"suffix":"nach Belieben"},{"amount":null,"amountTo":null,"ingredient_name":"Gehackte Pistazienkerne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Milchreis-Körner in ein grobes Sieb geben und unter fließendem, kaltem Wasser abspülen bis das Wasser wieder klar ist."},{"headline":null,"content":"Milchreis mit 400 ml Wasser in einem Topf aufkochen. Bei mittlerer Hitze 10 Minuten und unter gelegentlichem Rühren köcheln lassen."},{"headline":null,"content":"100 ml der Milch mit Stärke in einer Schüssel glatt rühren. Übrige Milch (900 ml) und Stärke-Milchmix zum Milchreis geben, verrühren und erneut aufkochen. Unter gelegentlichem Rühren 15 Minuten köcheln lassen."},{"headline":null,"content":"Ofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Feuerfeste Porzellanförmchen (6 Stück á 150 ml) auf ein Backblech stellen. Recht flüssigen Milchreis gleichmäßig auf die Förmchen verteilen. Die Förmchen sollen ca. 1 cm unter Rand gefüllt sein. Etwa 1 l Wasser in einem Wasserkocher aufkochen und das kochende Wasser vorsichtig auf das mit den Förmchen belegte Blech gießen. Blech in das obere Drittel des Ofens schieben und 7-10 Minuten backen bis die Oberfläche eine leichte Bräunung hat."}],"recipe_tips":[{"headline":"Ofen weglassen","content":"Der Milchreis schmeckt auch ohne Bräunung im Backofen sehr lecker. Wenn es also schneller gehen muss, kannst du diesen direkt nach dem Einfüllen in die Förmchen servieren."}]}</CustomStructuredRecipeJson>
+    <Title>Türkischer Milchreis</Title>
+    <Headline position="1">Türkischer Milchreis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-29T13:41:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81ptxq8o56s74l94tj9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8846" position="6" prefix="gehackte" suffix="nach Belieben" plural="Pistazienkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchreis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Bourbon-Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speisestärke" position="5"/>
+      <CustomRecipeIngredient topic="tmt808hl2wiu6a94f0yvbq" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="nach Belieben" plural="gemahlener Zimt"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81ptxsh6p8n14bf87tj9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milchreis-Körner in ein grobes Sieb geben und unter fließendem, kaltem Wasser abspülen bis das Wasser wieder klar ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ptxsh6pft15ab4otj9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Milchreis mit 400 ml Wasser in einem Topf aufkochen. Bei mittlerer Hitze 10 Minuten und unter gelegentlichem Rühren köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ptxsh6pjt6ruw3tj9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">100 ml der Milch mit Stärke in einer Schüssel glatt rühren. Übrige Milch (900 ml) und Stärke-Milchmix zum Milchreis geben, verrühren und erneut aufkochen. Zucker und Bourbon-Vanillezucker hinzugeben und alles unter gelegentlichem Rühren ca. 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ptxsh6pn6zew7htj9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Ofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Feuerfeste Porzellanförmchen (6 Stück á 150 ml) auf ein Backblech stellen. Recht flüssigen Milchreis gleichmäßig auf die Förmchen verteilen. Die Förmchen sollen ca. 1 cm unter Rand gefüllt sein. Etwa 1 l Wasser in einem Wasserkocher aufkochen und das kochende Wasser vorsichtig auf das mit den Förmchen belegte Blech gießen. Blech in das obere Drittel des Ofens schieben und 7-10 Minuten backen bis die Oberfläche eine leichte Bräunung hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81ptxsh6pr5ogxtatj9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Der Milchreis schmeckt auch ohne Bräunung im Backofen sehr lecker. Wenn es also schneller gehen muss, kannst du diesen direkt nach dem Einfüllen in die Förmchen servieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ofen weglassen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6888b590b4e31">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Noch raffinierter schmeckt der Türkische Milchreis, wenn du ihn vor dem Servieren mit Zimt und einigen gehackten Pistazienkernen bestreust.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814oarte7s0zw60euda" file_variant="master" position="1">Turkischer_Milchreis_22974.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6888b5141a9b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814oap58q74g1x34fr6" file_variant="master" position="1">Tuerkischer_Milchreis_22724.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6888b5169adfb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814oav6j5051e636pfog" file_variant="master" position="1">Turkischer_Milchreis_22803.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6888b519ae369">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814oaqp9uxh12qappfs2" file_variant="master" position="1">Turkischer_Milchreis_22933.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6888b51c58339">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814oatatiu1asj6uuni" file_variant="master" position="1">Turkischer_Milchreis_22950.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

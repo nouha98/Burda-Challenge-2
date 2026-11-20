@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xhu2o9tk21be7jxlxm" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-22T13:09:48+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-10-22T13:14:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrki12cchrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr1c118dxhdo5"/>
+    <Source topic="tmt82xhw1v5brlhpvjalyb"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kuckis Lebkuchen-Schoki","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Vollmilchschokolade","unit":{"name":"g"},"prefix":"klein gehackt","suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Kakaopulver","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Kakao","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mini-Lebkuchenmännchen-Kekse","unit":null,"prefix":null,"suffix":"(von Pickert)"}]}],"preparation":[{"headline":null,"content":"Gebt 400 ml Milch mit ½ TL Lebkuchengewürz, 30 g klein gehackter Vollmilchschokolade und 2–3 EL Kakaopulver in einen Topf. Erhitzt den Mix unter Rühren, bis die Schokolade geschmolzen ist und sich alles gut verbunden hat."},{"headline":null,"content":"Verteilt die Mischung in zwei große Tassen."},{"headline":null,"content":"Schlagt dann 100 g Schlagsahne mit 1 Prise Lebkuchengewürz und 1 Packung Vanillinzucker steif und verteilt die Sahne auf der heißen Schokolade."},{"headline":null,"content":"Das Ganze mit Kakao bestäuben und mit Mini-Lebkuchenmännchen-Keksen garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Kuckis Lebkuchen-Schoki</Title>
+    <Headline position="1">Kuckis Lebkuchen-Schoki</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-22T13:09:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xhu52rjdllyxk1idv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7711" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="Männer (von Pickert)" position="9" prefix="Mini-" plural="Lebkuchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10931" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollmilchschokolade" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kakaopulver" position="4" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Lebkuchengewürz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6961" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Kakao" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xhu7br9s7yk3vaidv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gebt Milch mit Lebkuchengewürz, klein gehackter Vollmilchschokolade und Kakaopulver in einen Topf. Erhitzt den Mix unter Rühren, bis die Schokolade geschmolzen ist und sich alles gut verbunden hat. Verteilt die Mischung in zwei große Tassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xhu7brhh48ews0idv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schlagt dann Schlagsahne mit 1 Prise Lebkuchengewürz und Vanillinzucker steif und verteilt die Sahne auf der heißen Schokolade. Das Ganze mit Kakao bestäuben und mit Mini-Lebkuchenmännchen-Keksen garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lebkuchen-Latte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Lenaallesklar</ImageCredit>
+      <DocumentRef doc_id="doc81d05rp5wg41jnkt8jsm" file_variant="master" position="1">Lebkuchen-Latte</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

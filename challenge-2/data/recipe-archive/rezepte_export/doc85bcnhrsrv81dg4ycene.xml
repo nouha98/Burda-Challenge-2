@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85bcnhrsrv81dg4ycene" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-07T15:23:08+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-07T15:33:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <Source topic="tmt85bcs7mo61319ydwepo"/>
+    <Headline position="1">Regenbogen-Pizza mit Brokkoliboden</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-07T15:23:08+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="5" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="getrocknete" suffix="(z. B. Rosmarin, Thymian, Oregano)" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5131" position="1" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Brokkoli"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="2" amount="40" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5731" position="3" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Emmentaler"/>
+      <CustomRecipeIngredient topic="tmt80mscfcxid1gmv8efid" position="4" plural="Salz, Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="6" amount="4" plural="Eier"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Boden</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69d50607d8c56">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" prefix="rote" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" position="2" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Baby-Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7866" position="3" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Dose)" plural="Mais"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gelbe" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="5" amount="4" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt7kj6rhhp3wky0wfejo1" position="6" amount="120" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(alternativ gewürzte passierte Tomaten)" plural="Tomatensugo"/>
+      <CustomRecipeIngredient topic="tmt80mscfcxid1gmv8efid" position="7" plural="Salz, Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5731" position="8" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Emmentaler"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="9" amount="30" prefix="geriebener" plural="Parmesan"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Belag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 220 Grad Ober- und Unterhitze vorheizen. Zwei Backbleche mit Backpapier belegen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d506b66be03">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Brokkoli abbrausen, putzen und in Röschen teilen. Diese in der Küchenmaschine krümelig zerkleinern, dann in der Brühe ca. 5 Minuten köcheln, anschließend abkühlen lassen. In ein Sieb abgießen, ausdrücken und in eine Schüssel geben. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d506db86b17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Emmentaler, etwas Salz und Pfeffer, Kräuter und Eier hinzufügen und alles gut vermengen. Jeweils die Hälfte der Masse auf ein Blech geben und je zu einem runden Fladen formen. Die Böden nach einander im Backofen ca. 15 Minuten vorbacken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69d506f600577">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für den Belag die Zwiebel abziehen, halbieren und in Streifen schneiden. Den Spinat waschen, verlesen und grob hacken. Den Mais abgießen und abtropfen lassen. Alle Tomaten waschen, die Kirschtomaten halbieren, die großen Tomaten in Scheiben schneiden. Den Tomatensugo mit Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69d50712bbe93">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die vorgebackenen Böden kurz abkühlen lassen und dann mit dem Tomatensugo bestreichen. Jeweils die Hälfte des Emmentalers und Parmesans darauf verteilen und die Böden von außen nach innen mit Tomatenscheiben, Kirschtomaten, Mais, Spinat und der Hälfte der Zwiebelstreifen belegen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_69d507317e527">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Pizzen im Ofen bei 200 Grad nacheinander in ca. 10 Minuten fertig backen. Herausnehmen und kurz abkühlen lassen. Dann die Pizzen mittig mit den übrigen Zwiebelstreifen belegen. Pizzen jeweils halbieren und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rainbow-Pizza mit Broccoliboden</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Suedfels, Thorsten</ImageCredit>
+      <DocumentRef doc_id="doc7j4ulfsrwvc112kwykx7" file_variant="master" position="1">Rainbow-Pizza mit Broccoliboden</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

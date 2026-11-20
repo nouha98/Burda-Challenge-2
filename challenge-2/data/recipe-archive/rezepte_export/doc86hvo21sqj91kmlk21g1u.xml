@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86hvo21sqj91kmlk21g1u" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-29T09:49:20+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-06-29T10:07:34+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtwy19t4d8do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rphk12oxkodo5"/>
+    <Source topic="tmt86hvwhl5591ps3y01h93"/>
+    <CustomRecipeNutritionalValueCalories position="1">351</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1469</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">15</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">25</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Hackbällchen-Tarte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-29T09:49:20+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7fz8gviwa9x1lk6qmjxb" position="1" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" suffix="(Fertigprodukt, aus dem Kühlregal, ca. 300 g, alternativ Pizza- oder Blätterteig)" plural="Quicheteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6486" position="3" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="4" amount="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8551" position="5" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Paniermehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7906" position="6" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="gerebelt" plural="Majoran"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7661" position="9" amount="2" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Lauch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="10" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="zum Braten" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt7fu35st9dd3uj9mg383" position="11" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kochsahne"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" position="12" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="geriebener Käse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="13" amount="0.5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" suffix="z.B. Petersilie, Kerbel, Basilikum" plural="Kräuter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a4226edd4179">
+      <CustomRecipeIngredient topic="tmt803grcvcliwkuwm614fg" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Fett für die Form"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 °C vorheizen und die Backform einfetten. Den Teig entrollen, in die Form legen, dabei einen kleinen Rand formen. Den Boden mehrfach mit einer Gabel einstechen und im vorgeheizten Backofen ca. 10 Min. vorbacken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a42273e4147c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebel abziehen, fein schneiden, mit dem Hackfleisch, 2 Eiern, dem Paniermehl und dem Majoran vermengen, mit Salz und Pfeffer würzen. Aus der Hackmasse ca. 20 Bällchen formen. Den Lauch waschen, putzen und in Ringe schneiden. Die Hackbällchen und den Lauch in einer Pfanne im erhitzten Öl 5–7 Min. anbraten. Die übrigen Eier mit der Sahne und dem Käse verquirlen und mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a4227473cec7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hackbällchen und Lauch sowie den Eier-Sahne-Guss auf dem vorgebackenen Teig in der Form verteilen und zurück im Ofen in 25–30 Minuten goldbraun backen. Die Kräuter waschen, trocken tupfen, die Blättchen abzupfen, nach Belieben hacken und die Tarte zum Servieren damit garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Hackbällchen-Tarte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">FOODkiss</ImageCredit>
+      <DocumentRef doc_id="doc86eyifk4gcj9dwt4lyh" file_variant="master" position="1">Hackbällchen-Tarte</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

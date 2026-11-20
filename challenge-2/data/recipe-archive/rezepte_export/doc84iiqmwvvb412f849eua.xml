@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84iiqmwvvb412f849eua" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-10T11:43:55+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-02-10T11:52:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rooo2q49wdo5"/>
+    <Source topic="tmt84iiuk4offs12scnqewy"/>
+    <Headline position="1">Kohlrabi-Petersilien-Salat mit Stremellachs</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-10T11:43:55+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" position="1" amount="3" amount_max="4" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" plural="Kohlrabi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="3" amount="80" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="4" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="5" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_698b0c52a42b1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" position="2" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sauerrahm"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" position="3" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" position="4" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Currypulver"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="weißer" plural="Balsamicoessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_698b0cc48b556">
+      <CustomRecipeIngredient topic="tmt7g6dye16acyh0buaorm" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Stremellachs"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kohlrabi schälen und klein würfeln. In einer Pfanne in der Butter ca. 3–4 Min. andünsten. Mit der Brühe ablöschen, bissfest weitergaren. Alles beiseitestellen und abkühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_698b0d3224d9b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Petersilie abbrausen, trocken schütteln, Blättchen abzupfen. Einige zum Garnieren beiseitelegen, übrige hacken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_698b0d4596db7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Dressing alle Zutaten miteinander verrühren. Abschmecken. Kohlrabi abgießen, dabei Brühe auffangen. Kohlrabi mit dem Dressing vermischen. Sahne in den Kohlrabi-Sud rühren, gehackte Petersilie unterrühren. Abkühlen lassen und Kohlrabi untermengen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_698b0d598fd9b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Salat in vier Gläser füllen. Lachs zerteilen, auf den Salat in die Gläser geben, mit Pfeffer bestäuben und mit Petersilie garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">f r ZS Verlag / Sch tz, Anke</ImageCredit>
+      <DocumentRef doc_id="doc78gyicxlz40chc3e7cr" file_variant="master" position="1">Kohlrabi-Petersilien-Salat mit Stremellachs 'To go'</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820pwe7rva12t9rzval" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T18:14:25+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-20T13:53:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="12"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitronenkekse","recipe_seo_headline":null,"servings":{"amount":25.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Ruhen/Warten","duration":120},{"name":"Backen","duration":12}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Doppelrahm Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gelbe Lebensmittelfarbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"},{"amount":50,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":"Ca.","suffix":null}]}],"preparation":[{"headline":null,"content":"Weiche Butter mit Zucker und Salz schaumig schlagen. Frischkäse und Ei zugeben und verrühren. Zitrone heiß abwaschen, trocken tupfen und die Schale fein abreiben. Zitrone halbieren und auspressen. Abrieb und 5 EL Zitronensaft zum Teig geben. Mehl mit Stärke mischen und unterrühren. Nach Belieben 1 Tropfen Speisefarbe zugeben. Teig mit Folie abdecken und mind. 2 Stunden kühlstellen."},{"headline":null,"content":"Backblech mit Backpapier auslegen. Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen."},{"headline":null,"content":"Flache Schale mit Puderzucker füllen. Mit Hilfe eines Esslöffels walnussgroße Stücke zu Kugeln formen. Von allen Seiten in den Puderzucker drücken und mit Abstand auf das Blech geben. Im Backofen ca. 12 Minuten backen. Durch den Puderzucker bekommen die Kekse eine schöne, knusprige Oberfläche."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Zitronenkekse</Title>
+    <Headline position="1">Zitronenkekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T18:14:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820pwb1ry831k2woeval">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Doppelrahm Frischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7691" amount="1" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" suffix="(optional)" position="9" plural="Lebensmittelfarbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." plural="Puderzucker" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820pwe7rtx29lps1val">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Weiche Butter mit Zucker und Salz schaumig schlagen. Frischkäse und Ei zugeben und unterrühren. Zitrone heiß abwaschen, trocknen und die gelbe Schale grob abreiben. Zitrone halbieren und auspressen. Abrieb und 5 EL Zitronensaft zum Teig geben. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820pwe7ru3l18ji6eval">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl mit Backpulver mischen und unterrühren. Optional die Lebensmittelfarbe zugeben. Den Teig in Folie wickeln und mindestens 2 Stunden kühl stellen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820pwe7ru7913zhjcval">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ein Backblech mit Backpapier auslegen. Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Puderzucker in eine flache Schale füllen. Mit einem Esslöffel walnussgroße Teigstücke abstechen, zu Kugeln formen und rundherum im Puderzucker wälzen, leicht andrücken.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68a5b709d5fb0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zitronenkekse mit etwas Abstand auf das Blech legen und im vorgeheizten Backofen ca. 12 Minuten backen. Durch den Puderzucker bekommen die Kekse eine schöne, knusprige Oberfläche. Der Teig ergibt ca. 25 Zitronenplätzchen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">So bleiben deine Zitronenkekse saftig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wenn deine Zitronenkekse vollständig abgekühlt sind, lagerst du sie am besten in einer luftdichten Box. Kleiner Trick: Mit einem Stück Apfel in der Dose bleiben die Kekse schön saftig. Dieses alle zwei Tage austauschen - dann halten sich die Zitronenkekse mindestens 2 Wochen. 
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81prefz77ioxmomhmfz" file_variant="master" position="1">Zitronenkekse_72945.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a5b73669d65">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81preeo2c0pkxb8rmf" file_variant="master" position="1">Zitronenkekse_71993.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a5b73839618">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pred423awiaq6um9r" file_variant="master" position="1">Zitronenkekse_72054.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

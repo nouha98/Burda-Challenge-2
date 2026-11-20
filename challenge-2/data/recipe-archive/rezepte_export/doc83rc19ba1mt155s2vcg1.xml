@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83rc19ba1mt155s2vcg1" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-19T13:53:53+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-27T10:54:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <Source topic="tmt83rc2liysbd7n7a0cg2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <LastEditedBy topic="tmt84hz4j262xe1mvi2g1fxm"/>
+    <CustomRecipeNoteInformation position="1">Für 6 Gläser à ca. 150 ml</CustomRecipeNoteInformation>
+    <Headline position="1">Fruchtcocktail mit Mineralwasser 'Aqua fresca'</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-19T13:53:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8561" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Papaya"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6761" position="2" amount="0.5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Honigmelonen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="3" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="spritzig oder naturell zum Auffüllen" plural="Mineralwasser" prefix=" gut gekühltes"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Papaya und Honigmelone mit einem Messer schälen (die Papaya dabei evtl. etwas großzügiger schälen, denn dicht unter der Schale befinden sich Bitterstoffe).</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69454b5d65028">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Papaya halbieren. Die Kerne der Früchte herauskratzen und das Fruchtfleisch grob würfeln. Fruchtfleisch zusammen mit dem Limettensaft im Mixer pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69ef243001130">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Fruchtpüree zusammen mit je 1–2 Eiswürfeln in die 
+Gläser füllen. Mit gut gekühltem Mineralwasser auffüllen 
+und sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1"> Wenn Melone und Papaya schön reif und daher  
+schon etwas weicher sind, können Sie das Fruchtfleisch 
+auch einfach mit einem Löffel aus der Schale heben.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Gr fe &amp; Unzer Verlag / Kramp + G lling</ImageCredit>
+      <DocumentRef doc_id="doc7aa82nfaua1tdohqeio" file_variant="master" position="1">Erfrischender Fruchtcocktail mit Mineralwasser 'Aqua fresca'</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

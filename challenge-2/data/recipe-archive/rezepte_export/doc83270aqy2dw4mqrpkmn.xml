@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83270aqy2dw4mqrpkmn" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-31T15:39:33+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-31T16:21:06+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Heiße Schokolade mit Marshmallows","recipe_seo_headline":"Heiße Schokolade mit Marshmallows","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Vollmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"g"},"prefix":"ungesüßt","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":null,"suffix":"(optional)"},{"amount":2,"amountTo":null,"ingredient_name":"Mini-Marshmallows","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die heiße Schokolade die Zartbitterschokolade grob hacken. Die Milch in einen kleinen Topf geben und bei schwacher Hitze langsam erwärmen."},{"headline":null,"content":"Sobald die Milch heiß ist, die gehackte Schokolade zusammen mit Kakaopulver, Zimt sowie einer kleinen Prise Salz dazugeben. Mit einem Schneebesen einrühren, bis die Schokolade vollständig geschmolzen ist. Den Topf vom Herd nehmen und die Trinkschokolade nach Belieben mit Puderzucker abschmecken."},{"headline":null,"content":"Die heiße Schokolade auf Tassen verteilen, die Mini-Marshmallows darüber streuen und servieren. Lass es dir schmecken!"}],"recipe_tips":[{"headline":"Heiße Schokolade mit Sahne","content":"So wird deine heiße Schokolade noch cremiger: ersetze die Hälfte der Vollmilch in unserem Rezept durch Sahne. Die heiße Schokolade kannst du außerdem mit etwas Sprühsahne und Schokosauce garnieren – soo lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Heiße Schokolade mit Marshmallows</Title>
+    <CustomRecipeSeoTitle position="1">Heiße Schokolade mit Marshmallows</CustomRecipeSeoTitle>
+    <Headline position="1">Heiße Schokolade mit Marshmallows</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-31T15:39:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83270925jw61hdi1ikmn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterschokolade" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10916" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Vollmilch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="ungesüßt" plural="Kakaopulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(optional)" plural="Puderzucker" position="6" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt80qdhxaf3vb1mg1vhao1" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="Mini Marshmallows"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83270aqxnbcrz3olkmn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die heiße Schokolade die Zartbitterschokolade grob hacken. Die Milch in einen kleinen Topf geben und bei schwacher Hitze langsam erwärmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83270aqxugoixremkmn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sobald die Milch heiß ist, die gehackte Schokolade zusammen mit Kakaopulver, Zimt sowie einer kleinen Prise Salz dazugeben. Mit einem Schneebesen einrühren, bis die Schokolade vollständig geschmolzen ist. Den Topf vom Herd nehmen und die Trinkschokolade nach Belieben mit Puderzucker abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83270aqxus655egvkmn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die heiße Schokolade auf Tassen verteilen, die Mini-Marshmallows darüber streuen und servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83270aqxuwo46lg3kmn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">So wird deine heiße Schokolade noch cremiger: ersetze die Hälfte der Vollmilch in unserem Rezept durch Sahne. Die heiße Schokolade kannst du außerdem mit etwas Sprühsahne und Schokosauce garnieren – soo lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Heiße Schokolade mit Sahne</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n5os8rklhdkytu1bcc" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6904d3d03747e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n5oj8mc2v8slxm1aca" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6904d3d214d10">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n5oc5ro6e1i8jljnwf" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6904d3d3cb5a7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82n5ofcgd6e17lmf3nwf" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

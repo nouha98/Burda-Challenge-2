@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82p6z6zz487brnp8k91" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-06T09:24:23+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-09-10T10:11:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <Owner topic="owner-land"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnk1rdflido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt7efavzglihdblh9r25t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kohlrabi Pommes","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5},{"name":"Backen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Kohlrabi","unit":{"name":"Stück"},"prefix":null,"suffix":"(à ca. 250 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":"(edelsüß)"},{"amount":1,"amountTo":null,"ingredient_name":"Currypulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebelpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"getrockneter Rosmarin und Thymian","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kartoffelstärke","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kohlrabi waschen, abtropfen lassen, schälen, mit einem Messer in Stifte (1 cm x 10 cm) schneiden oder durch einen Pommesschneider drücken. Kohlrabistifte mit einem Geschirrtuch trockenreiben."},{"headline":null,"content":"Paprika-, Curry-, Zwiebelpulver und Kräuter in einer kleinen Schüssel vermengen und mit der Kartoffelstärke vermischen."},{"headline":null,"content":"Backofen auf 200 Grad Umluft (Ober-/Unterhitze: 220 Grad) vorheizen und ein Backblech mit Backpapier auslegen."},{"headline":null,"content":"Kohlrabi Pommes in eine Schüssel geben und mit Öl marinieren. Gewürzmischung zugeben, vermengen und auf dem Backblech verteilen, sodass keine Pommes zu dicht an der anderen liegt."},{"headline":null,"content":"Kohlrabi Pommes im vorgeheizten Ofen 25-30 Minuten knusprig backen, aus dem Ofen nehmen, salzen und nach Wunsch mit Sauerrahm servieren."}],"recipe_tips":[{"headline":"Parmesan","content":"Mische 2 EL geriebenen Parmesan unter die Gewürzmischung, so werden die Pommes besonders würzig."}]}</CustomStructuredRecipeJson>
+    <Title>Kohlrabi Pommes</Title>
+    <Headline position="1">Kohlrabi Pommes</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-06T09:24:23+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82p6z58fulg15vrffk91">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas getrockneter" position="5" suffix="und Thymian" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(à ca. 250 g)" plural="Kohlrabi" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(edelsüß)" plural="Paprikapulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Currypulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11506" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zwiebelpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7111" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kartoffelstärke" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82p6z6zz2x2lvkblk91">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kohlrabi waschen, abtropfen lassen, schälen, mit einem Messer in Stifte (1 cm x 10 cm) schneiden oder durch einen Pommesschneider drücken. Kohlrabistifte mit einem Geschirrtuch trockenreiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Kohlrabi-Pommes</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6z6zz35y191jmek91">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Paprika-, Curry-, Zwiebelpulver und Kräuter in einer kleinen Schüssel vermengen und mit der Kartoffelstärke vermischen. Backofen auf 200 Grad Umluft (Ober-/Unterhitze: 220 Grad) vorheizen und ein Backblech mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6z6zz3d515q93wk91">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kohlrabi Pommes in eine Schüssel geben und mit Öl marinieren. Gewürzmischung zugeben, vermengen und auf dem Backblech verteilen, sodass keine Pommes zu dicht an der anderen liegt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6z6zz3gjgakppk91">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Kohlrabi Pommes im vorgeheizten Ofen 25-30 Minuten knusprig backen, aus dem Ofen nehmen, salzen und nach Wunsch mit Sauerrahm servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82p6z6zz3koksn7mk91">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mische 2 EL geriebenen Parmesan unter die Gewürzmischung, so werden die Pommes besonders würzig.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Besonders würzig dank Parmesan</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68e36f2632343">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit du deine Kohlrabi-Pommes auch im Backofen schön knusprig bekommst, beachte folgende Tipps: 
+
+Die geschnittenen Kohlrabi-Sticks auf jeden Fall mit einem sauberen Geschirrtuch rundum trockentupfen. Am besten portionsweise arbeiten.
+Kohlrabi-Pommes gleichmäßig mit Öl marinieren, sie sollten leicht benetzt sein, aber nicht vor Öl triefen.
+Kartoffelstärke oder Maisstärke zu den Gewürzen geben, je nach Vorliebe kann etwas geriebener Parmesan für noch mehr Knuspergenuss sorgen.
+Die Pommes einzeln, nicht übereinander und nicht zu nah aneinander, auf dem Backblech verteilen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So werden deine Kohlrabi-Pommes knusprig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jlca57yiq14cadky3n" file_variant="master" position="1">Kohlrabi-Pommes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e3701ac6f31">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jlcf2aylj1ej8w5nff" file_variant="master" position="1">Kohlrabi-Pommes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e3701c813aa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jlcdicgdf1kxp6fnff" file_variant="master" position="1">Kohlrabi-Pommes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e3701dac4dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jlchq1jgiijloznff" file_variant="master" position="1">Kohlrabi-Pommes</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

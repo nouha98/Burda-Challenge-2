@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8387skr80fslzqmrc33" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-12T08:55:49+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-12T09:01:16+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbispüree","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Hokkaidokürbis","unit":{"name":"Stück"},"prefix":"kleiner","suffix":"mit ca. 500g"},{"amount":1,"amountTo":null,"ingredient_name":"mehlige Kartoffel","unit":{"name":"(Keine Einheit)"},"prefix":"große","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"große Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":"große Prise","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"geröstete Kürbiskerne","unit":{"name":"EL"},"prefix":"Optional","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Hokkaidokürbis vierteln, entkernen und grob würfeln. Die Kartoffel schälen und würfeln."},{"headline":null,"content":"Die Schalotten und den Knoblauch schälen und grob hacken."},{"headline":null,"content":"Den Kürbis mit Kartoffel, Schalotten und Knoblauch in einen Topf geben und mit der Gemüsebrühe auffüllen. Den Kürbis ca. 15 Minuten weichkochen."},{"headline":null,"content":"Mit Salz, Pfeffer und Muskatnuss würzen und der Sahne aufgießen."},{"headline":null,"content":"Mit einem Mixer zu einem sämigen Püree verarbeiten und mit den gerösteten Kürbiskernen dekorieren."}],"recipe_tips":[{"headline":"Kürbispüree ist eine leckere Beilage","content":"…statt Kartoffelpüree. Es passt sehr gut zu Schmorgerichten, aber auch zu Pasta."}]}</CustomStructuredRecipeJson>
+    <Title>Kürbispüree</Title>
+    <Headline position="1">Kürbispüree</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-12T08:55:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8387sg6f1o11g4nfcc33">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleiner" suffix="mit ca. 500g" plural="Hokkaidokürbis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="Optional" position="10" suffix="geröstet" plural="Kürbiskerne"/>
+      <CustomRecipeIngredient topic="tmt80j860dt4auamn8mgip" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="große" position="2" plural="mehligkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Schalotten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Muskatnuss" position="9" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8387skr7z80irm4ic33">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Hokkaidokürbis vierteln, entkernen und grob würfeln. Die Kartoffel schälen und würfeln. Die Schalotten und den Knoblauch abziehen und grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8387skr7zg91lv2k2c33">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Kürbiswürfel mit Kartoffel, Schalotten und Knoblauch in einen Topf geben und mit der Gemüsebrühe auffüllen. Den Kürbis ca. 15 Minuten leicht köcheln lassen, bis er weich ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8387skr7zjlmzmmfc33">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit Salz, Pfeffer und Muskatnuss würzen und der Sahne aufgießen. Mit einem Mixer zu einem sämigen Püree verarbeiten. Weiterverwenden oder mit den gerösteten Kürbiskernen dekorieren und servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8387skr7zuh2fmh7c33">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Cremige Beilage mal anders: Kürbispüree statt Kartoffelpüree. Das Püree passt auch sehr gut zu Schmorgerichten oder auch zu Pasta. Überraschend lecker schmeckt das feine Kürbispüree auch im herbstlichen Porridge – dafür mit 1 Prise Zimt und nicht mit Salz, Pfeffer und Muskatnuss würzen und einige EL zu deinem Porridge geben. So einfach zauberst du ein ganz besonderes, herbstliches Porridge, das von innen wärmt!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Das kannst du damit machen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8uw9wdfb1izs9z80b" file_variant="master" position="1">Kürbispüree</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69143ec63dc9a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8uzaknqavunac7xs" file_variant="master" position="1">Kürbispüree</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69143ec7e1ccf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8uxrkrtecz1au7xs" file_variant="master" position="1">Kürbispüree</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69143ec9922ad">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8v4xqb9kl8fass2" file_variant="master" position="1">Kürbispüree</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69143ecb144a2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8v23ul8i1ewa7nss2" file_variant="master" position="1">Kürbispüree</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

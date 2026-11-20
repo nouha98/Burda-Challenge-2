@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ko3usxf081dc0eqfj3" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-27T14:05:17+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-27T14:10:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Overnight Oats mit Joghurt","recipe_seo_headline":"Overnight Oats mit Joghurt","servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Kühlen","duration":240}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Overnight Oats","ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Chiasamen","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Pflanzenmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Joghurt oder eine pflanzliche Alternative","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für das Topping","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Gemischte Beeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Overnight Oats mit Joghurt die Haferflocken zusammen mit den Chiasamen pro Portion in jeweils ein Weckglas geben und vermengen. Ahornsirup sowie Pflanzenmilch dazugeben. Den Joghurt hinzufügen und alles kräftig verrühren. Das Glas luftdicht verschließen und die Overnight Oats über Nacht oder mindestens 4 Stunden in den Kühlschrank stellen und quellen lassen."},{"headline":null,"content":"Für das Topping die Beeren waschen, abtropfen lassen, verlesen und, falls nötig, klein schneiden. Auf den Overnight Oats verteilen und den Ahornsirup darüber träufeln. Guten Appetit!"}],"recipe_tips":[{"headline":"Porridge mit Joghurt","content":"Du frühstückst lieber etwas Warmes? Unser Rezept für Overnight Oats kannst du auch ganz leicht warm genießen! Bereite die Overnight Oats wie im Rezept beschrieben am Vortag zu und gebe sie am nächsten Morgen in einen kleinen Topf. Lasse alles dann niedriger bis mittlerer Hitze einige Minuten eindicken, bis die gewünschte Konsistenz erreicht ist. Fülle das Porridge in eine Schüssel um und garniere es anschließend mit den frischen Beeren oder Obst deiner Wahl – so gut!"}]}</CustomStructuredRecipeJson>
+    <Title>Overnight Oats mit Joghurt</Title>
+    <CustomRecipeSeoTitle position="1">Overnight Oats mit Joghurt</CustomRecipeSeoTitle>
+    <Headline position="1">Overnight Oats mit Joghurt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-27T14:05:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ko3st86bn1nbeymfj3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" plural="Chia-Samen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Ahornsirup" position="3" amount_error="1" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Pflanzenmilch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" suffix="oder eine pflanzliche Alternative" plural="Joghurt"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Overnight Oats</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82ko3tzrg1z3b7szfj3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4856" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Beerenmischung"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Ahornsirup" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ko3usxe4i189utlfj3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Haferflocken zusammen mit den Chiasamen pro Portion in jeweils ein Weckglas geben und vermengen. Ahornsirup sowie Pflanzenmilch dazugeben. Den Joghurt hinzufügen und alles kräftig verrühren. Das Glas luftdicht verschließen und die Overnight Oats über Nacht oder mindestens 4 Stunden in den Kühlschrank stellen und quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Overnight Oats mit Joghurt </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ko3usxebl10xo63fj3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Beeren waschen, abtropfen lassen, verlesen und, falls nötig, klein schneiden. Auf den Overnight Oats verteilen und den Ahornsirup darüber träufeln. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Topping </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82ko3usxeg4gdcrlfj3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du frühstückst lieber etwas Warmes? Unser Rezept für Overnight Oats kannst du auch ganz leicht warm genießen! Bereite die Overnight Oats wie im Rezept beschrieben am Vortag zu und gebe sie am nächsten Morgen in einen kleinen Topf. Lasse alles dann auf niedriger bis mittlerer Hitze einige Minuten eindicken, bis die gewünschte Konsistenz erreicht ist. Fülle das Porridge in eine Schüssel um und garniere es anschließend mit den frischen Beeren oder Obst deiner Wahl – so gut!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Porridge mit Joghurt</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82j2700hlpg198hqa1mom" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68d7d42fa10f5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82j25dh3rkpbftpk1lpm" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68d7d4313f954">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82j272wxdlktkg261mom" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68d7d4327c239">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82j277yh9v81knlkehgb" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

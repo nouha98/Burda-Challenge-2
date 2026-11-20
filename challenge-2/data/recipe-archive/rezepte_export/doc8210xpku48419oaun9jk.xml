@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8210xpku48419oaun9jk" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T08:33:35+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-20T08:37:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitronenmousse","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Zitronen","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 130 ml)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":250,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Zitronen heiß abwaschen, eine Zitrone fein abreiben. Eine halbe Zitrone zum Garnieren beiseite legen. Restlichen Früchte (2 ½ Zitrone) auspressen."},{"headline":null,"content":"Saft mit Abrieb in einem Topf aufkochen, Zucker zugeben und den Topf von dem Herd ziehen. Gelatine in kaltem Wasser einweichen, ausdrücken und in dem heißen Zitronensaft auflösen. 10 Minuten kühlstellen."},{"headline":null,"content":"Joghurt in eine Schüssel geben. Zitronenmix einrühren. Sahne steif schlagen und unterheben. Creme mind. 2 Stunden kaltstellen."},{"headline":null,"content":"Creme in einen Spritzbeutel mit Sterntülle füllen und in Dessertgläser (ca. 150 ml) einfüllen. Bis zum Servieren kaltstellen. Dessertgläser nach Belieben mit Minze und der beiseite gelegten Zitrone garnieren."}],"recipe_tips":[{"headline":null,"content":"Statt Gelatine kann man den Zitronensaft auch mit Stärke abbinden. 1 ½ EL Speisestärke mit 2 EL Wasser glatt rühren und in den kochenden Zitronensaft rühren. In den Joghurt einrühren und die Sahne unterheben. In Dessertgläser abfüllen, die Mousse ist nicht stichfest."}]}</CustomStructuredRecipeJson>
+    <Title>Zitronenmousse</Title>
+    <Headline position="1">Zitronenmousse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T08:33:35+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8210xnupjo1bcyxh9jk">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 130 ml)" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(3,5 % Fett)" plural="Joghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" plural="Minze" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8210xpktyvp1e4xv49jk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitronen heiß abwaschen, eine Zitrone fein abreiben. Eine halbe Zitrone zum Garnieren beiseite legen. Restlichen Früchte (2 ½ Zitrone) auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8210xpku1zbps1n9jk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Saft mit Abrieb in einem Topf aufkochen, Zucker zugeben und den Topf von dem Herd ziehen. Gelatine in kaltem Wasser einweichen, ausdrücken und in dem heißen Zitronensaft auflösen. 10 Minuten kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8210xpku2401af83v9jk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Joghurt in eine Schüssel geben. Zitronenmix einrühren. Sahne steif schlagen und unterheben. Creme mind. 2 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8210xpku28916imzf9jk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Creme in einen Spritzbeutel mit Sterntülle füllen und in Dessertgläser (ca. 150 ml) einfüllen. Bis zum Servieren kaltstellen. Dessertgläser nach Belieben mit Minze und der beiseite gelegten Zitrone garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8210xpku2c9sgfl79jk">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Gelatine kann man den Zitronensaft auch mit Stärke abbinden. 1 ½ EL Speisestärke mit 2 EL Wasser glatt rühren und in den kochenden Zitronensaft rühren. In den Joghurt einrühren und die Sahne unterheben. In Dessertgläser abfüllen, die Mousse ist nicht stichfest.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Die Alternative zu Gelatine</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81na34sx5l14c87c14j7" file_variant="master" position="1">Zitronen_Mousse_67476.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a56d2fcfa04">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81na34sia6bg4ufy11aa" file_variant="master" position="1">Zitronen_Mousse_65882.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a56d311d0b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81na3686o1l141zx911aa" file_variant="master" position="1">Zitronen_Mousse_67303.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc873gusk70ua1e9w1g1k9z" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-10T10:11:39+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-09-01T07:49:11+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <Source topic="tmt873h2qvas1y1jtc8d1lgd"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pesto Genovese","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Pinienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":"ca. 100","amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":"kalt gepresstem","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"grüne entsteinte Oliven","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"etwa 60","amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":"fein geriebenen","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Am Vortag Pinienkerne in einer Pfanne ohne Fett rösten."},{"headline":null,"content":"Knoblauchzehe abziehen. Basilikum abbrausen und die Blättchen abzupfen. Alles mit dem Olivenöl im elektrischen Alleszerkleinerer pürieren."},{"headline":null,"content":"Oliven fein würfeln. Mit Parmesan einrühren, salzen und pfeffern."},{"headline":null,"content":"In 8 Gläschen füllen, mit Olivenöl beträufeln und gut verschließen."}],"recipe_tips":[{"headline":null,"content":"Gekühlt ca. 1 Woche haltbar."}]}</CustomStructuredRecipeJson>
+    <Title>Pesto Genovese</Title>
+    <CustomRecipeNoteInformation position="1">8 Gläschen à 50 ml Inhalt</CustomRecipeNoteInformation>
+    <Headline position="1">Pesto Genovese</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-10T10:11:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="873guu9d743owz18joh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pinienkerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="2" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Basilikum" position="3"/>
+      <CustomRecipeIngredient topic="tmt7zien42rg0lbzlhdifb" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="kaltgepresstes Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8451" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="grüne entsteinte" plural="Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="6" prefix="fein geriebener" plural="Parmesan" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="873guxcj5av1n5r3xjoh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag Pinienkerne in einer Pfanne ohne Fett rösten. Knoblauchzehe abziehen. Basilikum abbrausen und die Blättchen abzupfen. Alles mit dem Olivenöl im elektrischen Alleszerkleinerer pürieren. Oliven fein würfeln. Mit Parmesan einrühren, salzen und pfeffern. In 8 Gläschen füllen, mit Olivenöl beträufeln und gut verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="873guxcjjm99qwqtjoh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Gekühlt ca. 1 Woche haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pesto als Gastgeschenk am italienischem Abend</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Stockfood Studios/ Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc86cdbf44j6v33ig28y6" file_variant="master" position="1">Pesto als Gastgeschenk am italienischem Abend</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

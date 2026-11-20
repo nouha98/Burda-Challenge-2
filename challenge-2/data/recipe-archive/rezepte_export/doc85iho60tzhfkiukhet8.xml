@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85iho60tzhfkiukhet8" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-21T12:51:29+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-21T13:00:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rolt1gbekbdo5"/>
+    <Source topic="tmt85ihsiam74x5bamsevw"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tamarinden-Jasminreis mit Chili und Sesam","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"gekochter Jasminreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sesamöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Tamarindenpaste","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sojasauce","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"gerösteter Sesam","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gekochten Jasminreis in Sesamöl und Butter in einer Pfanne 5 Minuten kräftig anbraten."},{"headline":null,"content":"Tamarindenpaste mit Sojasauce und Gemüsebrühe verrühren, zum Reis geben und 2 Minuten unter Rühren einkochen lassen."},{"headline":null,"content":"Mit Salz und Chiliflocken würzen, mit geröstetem Sesam bestreut anrichten und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Tamarinden-Jasminreis mit Chili und Sesam</Title>
+    <Headline position="1">Tamarinden-Jasminreis mit Chili und Sesam</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-21T12:51:29+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85iho77wa0zrjid1t9q">
+      <CustomRecipeIngredient topic="tmt852482muew016p7opczz" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="gekochter" plural="Jasminreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10111" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sesamöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt7uxbmgz2ygk16zygub6i" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tamarindenpaste" position="4" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sojasauce" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Chiliflocken" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="9" prefix="gerösteter" plural="Sesam"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85iho9h75ft1c1e1at9q">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gekochten Jasminreis in Sesamöl und Butter in einer Pfanne 5 Minuten kräftig anbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85iho9h77xy1k8zxdt9q">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Tamarindenpaste mit Sojasauce und Gemüsebrühe verrühren, zum Reis geben und 2 Minuten unter Rühren einkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85iho9h783a1n6fpbt9q">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit Salz und Chiliflocken würzen, mit geröstetem Sesam bestreut anrichten und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84m6167x9h4tkevhbvp" file_variant="master" position="1">Italienischer Reis mit Pesto, Arabischer Gewürz-Basmati mit Nüssen und Möhren, Tamarinden-Reis, Rote-Bete-Reis</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

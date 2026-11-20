@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82026uadipcuv76rebv" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-18T11:28:40+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-18T12:10:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Walnussbrot","recipe_seo_headline":"Walnussbrot – außen knusprig &amp; innen saftig","servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":60},{"name":"Ruhen/Warten","duration":60}],"difficulty":"einfach","price":"Erschwinglich","nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Walnüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"frische Hefe","unit":{"name":"Würfel"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"lauwarmes Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 1050)"},{"amount":2,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Walnüsse in grobe Stücke hacken. Hefe zusammen mit dem Honig in lauwarmem Wasser auflösen. Mehl mit dem Salz in einer Schüssel mischen. Hefewasser darübergießen und die gehackten Walnüsse dazugeben. Mit dem Knethaken für ca. 10 Minuten kneten lassen, bis ein elastischer Teig entsteht. Abgedeckten Teig an einem warmen Ort ca. 60 Minuten gehen lassen."},{"headline":null,"content":"Eine Schüssel mit Wasser auf den Boden des Backofens stellen. Den Ofen auf 250 Grad Ober-/Unterhitze (Umluft 220 Grad) vorheizen. Dabei den gusseisernen Topf mit in den Ofen stellen."},{"headline":null,"content":"Gusseisernen Topf aus dem Ofen holen und den Teig hineinlegen. Mit einem Messer den Teig einritzen. Brot im Topf in den Ofen stellen und für ca. 10 Minuten backen. Dann die Hitze auf 180 Grad reduzieren und das Walnussbrot für weitere 50 Minuten backen."},{"headline":null,"content":"Fertiges Brot sofort aus dem Topf auf ein Abkühlgitter stürzen und vollständig auskühlen lassen. In einem Brotkasten hält sich das Walnussbrot mindestens 3 Tage."}],"recipe_tips":[{"headline":"Wenn du keine Walnüsse magst","content":"Statt mit Walnüssen, kannst du dieses Brot auch mit Pekannüssen zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Walnussbrot</Title>
+    <CustomRecipeSeoTitle position="1">Walnussbrot – außen knusprig &amp; innen saftig</CustomRecipeSeoTitle>
+    <Headline position="1">Walnussbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-18T11:28:40+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82026ti4dqt10c2epebv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnüsse" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zg4j024otz1i5j3jbqf" amount="0.5" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" position="2" plural="frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="3"/>
+      <CustomRecipeIngredient topic="tmt7zien42m8s01jtiotifb" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" plural="lauwarmes Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 1050)" plural="Weizenmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82026uadh6w131pczebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Walnüsse in grobe Stücke hacken. Hefe zusammen mit dem Honig in lauwarmem Wasser auflösen. Mehl mit dem Salz in einer Schüssel mischen. Hefewasser darübergießen und die gehackten Walnüsse dazugeben. Mit dem Knethaken für ca. 10 Minuten kneten lassen, bis ein elastischer Teig entsteht. Abgedeckten Teig an einem warmen Ort ca. 60 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82026uadhec8bqrbebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine Schüssel mit Wasser auf den Boden des Backofens stellen. Den Ofen auf 250 Grad Ober-/Unterhitze (Umluft 220 Grad) vorheizen. Dabei den gusseisernen Topf mit in den Ofen stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82026uadhid6sp09ebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gusseisernen Topf aus dem Ofen holen und den Teig hineinlegen. Mit einem Messer den Teig einritzen. Brot im Topf in den Ofen stellen und für ca. 10 Minuten backen. Dann die Hitze auf 180 Grad reduzieren und das Walnussbrot für weitere 50 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82026uadht2u84cqebv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Fertiges Brot sofort aus dem Topf auf ein Abkühlgitter stürzen und vollständig auskühlen lassen. In einem Brotkasten hält sich das Walnussbrot mindestens 3 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82026uadhxc125qoxebv">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt mit Walnüssen, kannst du dieses Brot auch mit Pekannüssen zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Wenn du keine Walnüsse magst</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81fkw5o1h6fnfq8sl4c" file_variant="master" position="1">Walnussbrot1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a2fbe033ddd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81fkwgz7c851l39hoj2o" file_variant="master" position="1">WalnussbrotStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a2fbe201f8a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81fkw8iyo1l1m29orveh" file_variant="master" position="1">WalnussbrotStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68a2fbe394f2e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81fkwbayweu1fpg12l4c" file_variant="master" position="1">Walnussbrot2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

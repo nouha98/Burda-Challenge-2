@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82wedfffga919okstwog" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-20T09:57:45+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-20T10:13:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rob8cxtohdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt82wekor19lsxer23xog"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":null,"recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Yuzu-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Asienladen, alternativ Yuzu-Saft)"},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"in jedes Glas"},{"amount":40,"amountTo":null,"ingredient_name":"Umeshu","unit":{"name":"ml"},"prefix":null,"suffix":"(japanischer Pflaumenwein, Asienladen)"},{"amount":80,"amountTo":null,"ingredient_name":"Gin","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Zitronenlimonade","unit":{"name":"ml"},"prefix":"gekühlte","suffix":null}]}],"preparation":[{"headline":null,"content":"Yuzu-Zitrone auspressen. Die Glasränder mit dem Yuzu-Saft anfeuchten, in Zucker drücken und den Rand trocknen lassen."},{"headline":null,"content":"Eiswürfel in jedes Glas geben. Umeshu, Gin und übrigen Yuzu-Saft auf die Gläser verteilen."},{"headline":null,"content":"Mit gekühlter Zitronenlimonade auffüllen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>MFIC250012_Getraenke_Yuzu-Cocktail</Title>
+    <Headline position="1">Yuzu-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-20T09:57:45+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82wedg4zs2ux3f9anc4">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Asienladen, alternativ Yuzu-Saft)" position="1" prefix="Yuzu-" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8786" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="Umeshu (japanischer Pflaumenwein, Asienladen)" position="4" plural="Pflaumenwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gin" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11366" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="gekühlte" plural="Zitronenlimonade" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82wedhmcsq9hbot0nc4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Yuzu-Zitrone auspressen. Die Glasränder mit dem Yuzu-Saft anfeuchten, in Zucker drücken und den Rand trocknen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wedhmcxgy1m8x1snc4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eiswürfel in jedes Glas geben. Umeshu, Gin und übrigen Yuzu-Saft auf die Gläser verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wedhmcxo0qthgqnc4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit gekühlter Zitronenlimonade auffüllen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ekblom, Ulrika</ImageCredit>
+      <DocumentRef doc_id="doc79n6d7vkc4iu4ixmkvy" file_variant="master" position="1">Yuzu-Cocktail mit Umeshu und Gin (Japan)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

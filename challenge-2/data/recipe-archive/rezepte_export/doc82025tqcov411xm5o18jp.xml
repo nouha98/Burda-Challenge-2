@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82025tqcov411xm5o18jp" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-18T11:26:28+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-18T12:04:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schoko-Salzbrezeln","recipe_seo_headline":"Schoko-Salzbrezeln – das einfache Rezept","servings":{"amount":40.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Zartbitter-Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Salzbrezeln","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zuckerstreusel","unit":{"name":"EL"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Schokolade in grobe Stücke brechen und auf dem Wasserbad schmelzen. Dabei immer wieder umrühren."},{"headline":null,"content":"Brezeln einzeln in die geschmolzene Schokolade tauchen und auf einem Backpapier zum Trocknen ablegen. Nach Belieben mit Zuckerstreuseln dekorieren. Abgekühlte Schoko-Salzbrezeln luftdicht verpacken, so halten sich die Salzbrezeln mit Schoko mindestens 2 Wochen."}],"recipe_tips":[{"headline":"Ganz nach deinem Geschmack","content":"Statt mit dunkler Schokolade kannst du die Salzbrezeln auch mit weißer Schokolade überziehen. So lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Schoko-Salzbrezeln</Title>
+    <CustomRecipeSeoTitle position="1">Schoko-Salzbrezeln – das einfache Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Schoko-Salzbrezeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-18T11:26:28+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82025t7knmadt7ts18jp">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Zartbitter-Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt7jv0gju16s21nbqrg34o" amount="40" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Salzbrezeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11486" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Garnieren" plural="Zuckerstreusel" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82025tqcitlrze3q18jp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schokolade in grobe Stücke brechen und auf dem Wasserbad schmelzen. Dabei immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82025tqcj1559dzl18jp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Brezeln einzeln in die geschmolzene Schokolade tauchen und auf einem Backpapier zum Trocknen ablegen. Nach Belieben mit Zuckerstreuseln dekorieren. Abgekühlte Schoko-Salzbrezeln luftdicht verpacken, so halten sich die Salzbrezeln mit Schoko mindestens 2 Wochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82025tqcj5w1fvu5418jp">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt mit dunkler Schokolade kannst du die Salzbrezeln auch mit weißer Schokolade überziehen. So lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ganz nach deinem Geschmack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81fktjo7v41h7wndgnn" file_variant="master" position="1">SchokoSalzbrezeln1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a2fa8ab373f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81fktec62ix28y7ggco" file_variant="master" position="1">SchokoSalzbrezelnStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a2fa8c51f3f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81fktmnav9et3yybviv" file_variant="master" position="1">SchokoSalzbrezelnStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68a2fa8e1ff2f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81fktj4ye9c1aygzcgko" file_variant="master" position="1">SchokoSalzbrezeln2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

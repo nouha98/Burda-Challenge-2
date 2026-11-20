@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821kkpj2ccw176uxzm6w" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-21T10:02:26+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-24T10:25:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Organization topic="tmt6ow8nqbjsmf10ed5whmp" generator="com.digicol.se" score="2"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurm12gcltdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Arme Ritter Auflauf","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":15},{"name":"Ruhen/Warten","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":"für die Form"},{"amount":4,"amountTo":null,"ingredient_name":"alte Brötchen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":115,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Rosinen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Backofen auf 180°C (Umluft 160°C) vorheizen. Eine Auflaufform 20x15cm mit etwas Butter einfetten."},{"headline":null,"content":"Die Brötchen mit einem Sägemesser in dünne Scheiben aufschneiden. Die Milch mit Zucker, Vanillezucker und den Eiern mischen und über die Brötchen gießen."},{"headline":null,"content":"Die Brötchenscheiben 15 Minuten in der Masse liegen lassen, dann in die Auflaufform schichten, die Rosinen darüber verteilen. Aus Milch und Ei einen Guss mischen und den über die geschichteten Brötchenscheiben verteilen."},{"headline":null,"content":"Den Auflauf für 15 Minuten backen lassen, nach dem Backen kurz auskühlen lassen und mit Puderzucker bestäuben. Den Arme Ritter Auflauf lauwarm mit Vanillesoße oder Äpfeln servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Arme Ritter Auflauf</Title>
+    <Headline position="1">Arme Ritter Auflauf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-21T10:02:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821kklzi1t4dxdbqm6w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" suffix="für die Form" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5156" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="2" plural="Brötchen" prefix="alte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="115" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rosinen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Puderzucker" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821kkpj2bdu3dd7pm6w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180°C (Umluft 160°C) vorheizen. Eine Auflaufform 20x15cm mit etwas Butter einfetten. Die Brötchen mit einem Sägemesser in dünne Scheiben aufschneiden. Die Milch mit Zucker, Vanillezucker und den Eiern mischen und über die Brötchen gießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821kkpj2bp4nez4dm6w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Brötchenscheiben 15 Minuten in der Masse liegen lassen, dann in die Auflaufform schichten, die Rosinen darüber verteilen. Aus Milch und Ei einen Guss mischen und den über die geschichteten Brötchenscheiben verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821kkpj2bs0aulxhm6w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Auflauf für 15 Minuten backen lassen, nach dem Backen kurz auskühlen lassen und mit Puderzucker bestäuben. Den Arme Ritter Auflauf lauwarm mit Vanillesoße oder Äpfeln servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Leckere Variationen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Der Arme-Ritter-Auflauf schmeckt toll mit Vanillesoße. Du kannst auch einige Apfelspalten mitbacken oder den süßen Auflauf mit etwas Apfelmus servieren. Statt Rosinen kannst du auch frische Beeren verwenden. Diese am besten erst kurz vor Ende der Backzeit zugeben und nur wenige Minuten heiß werden lassen. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

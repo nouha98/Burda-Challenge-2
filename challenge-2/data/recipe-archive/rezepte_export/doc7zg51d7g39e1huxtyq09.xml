@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7zg51d7g39e1huxtyq09" dcx-version="6.3.1" version="1.0">
+  <created>2025-02-20T12:58:27+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-02-20T13:04:31+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="7"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rspedsi05do5"/>
+    <Keywords topic="tmt7zg540ol2tc7nci71jqr"/>
+    <Keywords topic="tmt6p4k6ykcic4gnowukmb"/>
+    <Keywords topic="tmt6rek7vzwx8j1dkm9jn9g"/>
+    <Keywords topic="tmt6q8xmwxd7yf6uahxe14"/>
+    <Keywords topic="tmt6pl1ah8amteh3lqb763"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cookies ohne Ei","recipe_seo_headline":null,"servings":{"amount":15.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":7}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Cookie Teig","ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":225,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schokochunks","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober- Unterhitze (Umluft 160 Grad) vorheizen. Ein Backblech mit Backpapier auslegen."},{"headline":null,"content":"Die Butter mit dem braunen Zucker mischen. Vanilleextrakt, Natron und Wasser zugeben und vermengen. Die trockenen Zutaten vermischen und sieben. Zu dem Teig geben und kneten. Die Schokochunks von Hand unter den Teig mischen."},{"headline":null,"content":"Kleine Kugeln aus dem Teig abstechen und erst rund dann flach formen. Mit etwas Abstand zueinander auf ein Blech geben, die Cookies für 7 Min. backen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Cookies ohne Ei</Title>
+    <Headline position="1">Cookies ohne Ei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-02-20T12:58:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="7zg519v4glke39yfq09">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Wasser" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="225" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt7zg4iw6zj2rwb3pubqf" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="9" plural="Schokochunks"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Cookie Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="7zg51d7g0bdkrjf7q09">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober- Unterhitze (Umluft 160 Grad) vorheizen. Ein Backblech mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7zg51d7g0l1xgp1jq09">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Butter mit dem braunen Zucker mischen. Vanilleextrakt, Natron und Wasser zugeben und vermengen. Die trockenen Zutaten vermischen und sieben. Zu dem Teig geben und kneten. Die Schokochunks von Hand unter den Teig mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7zg51d7g0q1ksn9oq09">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kleine Kugeln aus dem Teig abstechen und erst rund dann flach formen. Mit etwas Abstand zueinander auf ein Blech geben, die Cookies für 7 Min. backen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7zf2p885ne87dcmscs5" file_variant="master" position="1">CookiesohneEi2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_67b71a14bee31">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc7zf2pde1juo17gd3aso1" file_variant="master" position="1">CookiesohneEi1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_67b71a1643630">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc7zf2p39gbq9145woics6" file_variant="master" position="1">CookiesohneEiStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_67b71a17a4045">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc7zf2oybetjr11dj9dsl5" file_variant="master" position="1">CookiesohneEiStep2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834ch9khha0bktasbfl" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-04T20:10:31+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-06T18:35:10+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kalte Gurkensuppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bio-Salatgurke","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 400 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Dill und Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"mittelscharfer Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gurke waschen, abtropfen lassen, putzen und mit einem Sparschäler grob schälen und zerkleinern."},{"headline":null,"content":"Knoblauch abziehen, Kräuter waschen, abtropfen lassen, die Blätter abzupfen und hacken. Zitrone heiß abspülen, trocken tupfen, 1 TL Schale fein abreiben und den Saft auspressen."},{"headline":null,"content":"Gemüsebrühe, Senf, Olivenöl, die gehackten Kräuter, Gurke und Joghurt in ein hohes Gefäß geben und mit dem Mixstab fein pürieren. Mit Salz, Pfeffer, Zitronensaft und -abrieb abschmecken und bis zum Servieren kaltstellen."},{"headline":null,"content":"Vor dem Servieren noch einmal mit dem Mixstab aufschäumen und auf 4 Schalen verteilen. Nach Wunsch mit Gurkenstücken, Minze und Dill getoppt eiskalt genießen."}],"recipe_tips":[{"headline":"Eiskalt","content":"Serviere die Gurkensuppe an besonders heißen Tagen mit ein paar Eiwürfeln."}]}</CustomStructuredRecipeJson>
+    <Title>Kalte Gurkensuppe</Title>
+    <Headline position="1">Kalte Gurkensuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-04T20:10:31+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="834ch6zdwc25o094bfl">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" amount="etwas" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" position="3" amount_error="1" prefix="einige" suffix="und Minze" plural="Dill"/>
+      <CustomRecipeIngredient topic="tmt7t9p7jv2zxy10dx6933f" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 400 g)" plural="Bio-Salatgurken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt7z8ylf3zj4ncc1ktdmu" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="6" plural="mittelscharfer Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(3,5 % Fett)" plural="Naturjoghurt" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" plural="frisch gemahlener Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_690cdbad8fea0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" position="1" prefix="etwas fein geschnittene" plural="Salatgurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="2" prefix="Dillpitzen und" plural="Minze"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834ch9kh6yc19ulcpbfl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die kalte Gurkensuppe die Gurke waschen, abtropfen lassen, putzen und mit einem Sparschäler "streifenweise" schälen - ein Teil der Schale bleibt dran, da sie für eine kräftigere Farbe der Suppe sorgt. Die Gurke längs vierteln und in grobe Stücke schneiden. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834ch9khaa0r3js5bfl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauch abziehen und grob hacken. Kräuter waschen, abtropfen lassen, die Blätter von den Stielen abzupfen und anschließend hacken. Zitrone heiß abspülen und trocken tupfen. Dann die Schale fein abreiben (für das Grundrezept werden 1 TL Zitronenschale verwendet) und den Saft auspressen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834ch9khaegzbziwbfl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüsebrühe, Senf und Olivenöl in ein hohes Gefäß geben. Knoblauch, die gehackten Kräuter, Gurkenstücke sowie Joghurt dazugeben und alles zusammen mit dem Mixstab fein pürieren. Mit Salz, Pfeffer, Zitronensaft und -abrieb abschmecken und bis zum Servieren kaltstellen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834ch9khahi1eu75dbfl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Vor dem Servieren noch einmal mit dem Mixstab aufschäumen, auf tiefe Teller oder Schüsseln verteilen und nach Wunsch mit Gurkenstücken, Minze und Dill getoppt eiskalt genießen. Guten Appetit! 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="834ch9khalv52antbfl">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Serviere die Gurkensuppe an besonders heißen Tagen mit ein paar Eiwürfeln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Eiskalt</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zin1tcol7j2ckqn" file_variant="master" position="1">Kalte Gurkensuppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690cdc15328ef">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zlk9xfo1cl6bzjty" file_variant="master" position="1">Kalte Gurkensuppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690cdc1795354">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zrfe71k1b6wvnhqv" file_variant="master" position="1">Kalte Gurkensuppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690cdc19bd31f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zokv4f9iqbn2jty" file_variant="master" position="1">Kalte Gurkensuppe II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83i04mv41qa3oebtlus" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T10:04:19+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-01T10:09:05+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurb1ge0dtdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ravioliteig","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"Größe M"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Das Mehl in eine Schüssel geben und in der Mitte eine große Mulde machen."},{"headline":null,"content":"Die Eier in die Mulde schlagen, das Olivenöl und das Salz hinzugeben."},{"headline":null,"content":"Die Zutaten mit einem Holzlöffel oder mit der Küchenmaschine zu einem bröseligen Teig verkneten. Den Teig nun mit den Händen zu einer glatten Kugel kneten und abgedeckt im Kühlschrank mindestens 30 Minuten ruhen lassen."}],"recipe_tips":[{"headline":"Teig einfrieren","content":"Wer eine große Menge Teig herstellt, kann diese in 100g Platten gut einfrieren und hat so schnell den Teig verfügbar."}]}</CustomStructuredRecipeJson>
+    <Title>Ravioliteig</Title>
+    <Headline position="1">Ravioliteig</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T10:04:19+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83i04l4xowo1honxllus">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="Größe M" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83i04mv3cm91nly7lus">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Mehl in eine Schüssel geben und in der Mitte eine große Mulde machen. Die Eier in die Mulde schlagen, das Olivenöl und das Salz hinzugeben. Die Zutaten mit einem Holzlöffel oder mit der Küchenmaschine zu einem bröseligen Teig verkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83i04mv3j9tkto9rlus">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Teig mit den Händen zu einer glatten Kugel kneten und abgedeckt im Kühlschrank mindestens 30 Minuten ruhen lassen. Nach dem Ruhen den Teig durch die Nudelmaschine drehen und Teigplatten produzieren, aus denen die Raviolistücke geteilt werden können. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83i04mv3jlcnvyldlus">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Teig einfrieren: Wer eine große Menge Teig herstellt, kann diese in 100-g-Platten gut einfrieren und hat so schnell den Teig verfügbar.
+
+Kochen: Die gefüllten Ravioli werden in Salzwasser ca. 5 Minuten gekocht.
+
+Füllungen: Ob mit Ricotta und Spinat oder Tomaten und Mozzarella oder Hackfleisch – du kannst die Ravioli ganz nach Belieben füllen. Wenn du Zeit sparen willst, verwende einfach Kräuterfrischkäse!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Teig einfrieren, Kochen &amp; Füllungen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdy77aoebss06iiw6" file_variant="master" position="1">Ravioli Teig</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692d5b2bae37a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdws209oo2qnsku15" file_variant="master" position="1">Ravioli Teig</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692d5b2d836fa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdxczcs0k5f8h3uee" file_variant="master" position="1">Ravioli Teig</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692d5b2f19f75">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdze1riive5yqru15" file_variant="master" position="1">Ravioli Teig</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

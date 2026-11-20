@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84p4xcrds4x43dydaft" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-23T08:46:13+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-23T08:53:14+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rohta4opbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbis Linsen Curry","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Linsen Dal","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Hokkaido-Kürbis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Kokosmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"passierte Tomaten","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"rote Linsen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kurkuma","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kreuzkümmel","unit":{"name":"TL"},"prefix":"gemahlen","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":"kleines","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Koriander","unit":{"name":"Bund"},"prefix":"kleiner","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Kürbis halbieren, aushöhlen und in 2 cm Würfel schneiden. Die Zwiebel und die Knoblauchzehen schälen und fein würfeln."},{"headline":null,"content":"Die Butter in einem Topf erhitzen, zuerst die Kürbiswürfel ca. 2-3 Minuten, dann die Zwiebeln und den Knoblauch für 2-3 Minuten bei mittlerer Hitze farblos anschwitzen."},{"headline":null,"content":"Die Kokosmilch und die passierten Tomaten aufgießen, die Linsen dazugeben, Gemüsebrühe dazu, mit Kurkuma und Kreuzkümmel abschmecken und für ca. 20 -25 Minuten sanft köcheln lassen. Das Salz hinzugeben und mit Zitronensaft abschmecken. Den Ingwer fein reiben und dazugeben."},{"headline":null,"content":"Korianderblättchen darüber streuen."}],"recipe_tips":[{"headline":"Mein Tipp","content":"Als passende Beilage serviere ich am liebsten gedämpften Basmatireis dazu."}]}</CustomStructuredRecipeJson>
+    <Title>Kürbis Linsen Curry</Title>
+    <Headline position="1">Kürbis Linsen Curry</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-23T08:46:13+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84p4x65crvo2h4haft">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hokkaido-Kürbise" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="mittelgroße" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" max_amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="rote" plural="Linsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7326" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kokosmilch" position="6"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kurkuma" position="9"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="gemahlener" plural="Kreuzkümmel" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="11"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Ingwer" position="13" suffix="(kleines Stück)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Koriander" position="14" suffix="(kleines Bund)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84p4xcrd93n1emoc1aft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Kürbis waschen, halbieren, aushöhlen und in 2 cm große Würfel schneiden. Die Zwiebeln und die Knoblauchzehen abziehen und fein würfeln. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84p4xcrdhk59464waft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Butter in einem Topf erhitzen, zuerst die Kürbiswürfel ca. 2-3 Minuten, dann zusätzlich die Zwiebeln und den Knoblauch für 2-3 Minuten bei mittlerer Hitze farblos anschwitzen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84p4xcrdhq050zpkaft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Linsen dazugeben. Die Kokosmilch und die passierten Tomaten aufgießen. Gemüsebrühe dazugeben, mit Kurkuma und Kreuzkümmel abschmecken und für ca. 20-25 Minuten sanft köcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84p4xcrdhte14pmloaft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Das Salz hinzugeben. Zitrone auspressen und Curry mit Zitronensaft abschmecken. Den Ingwer schälen, fein reiben und dazugeben. Koriander waschen, abtropfen lassen, die Blättchen abzupfen und über das Curry streuen. Curry nach Belieben mit Reis servieren. Das Curry ist im Kühlschrank ca. 3 Tage lang haltbar. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84p4xcrdhwwcm4s1aft">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du dein Curry am liebsten scharf isst, kannst du fein gehackte Chilischoten ins Curry geben. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Schärferes Curry</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447j61hk0j7800hpdg" file_variant="master" position="1">KurbisLinsenCurry2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_699c0764f3209">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447j95l1mcir57m8yf" file_variant="master" position="1">KurbisLinsenCurryStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_699c0766aae69">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447j1m1ut21mzz9xpdm" file_variant="master" position="1">KurbisLinsenCurryStep2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_699c0768b6c25">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447iyojdndamlkepdg" file_variant="master" position="1">KurbisLinsenCurry1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

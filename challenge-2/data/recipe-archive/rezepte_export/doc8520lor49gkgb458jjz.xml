@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8520lor49gkgb458jjz" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-20T10:22:22+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-03-20T10:29:33+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="300"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananeneis am Stiel","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":300}],"difficulty":null,"price":null,"nutritions":{"calories":90,"kilojoule":376,"carbonhydrates":20,"fat":1,"protein":2,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"g"},"prefix":null,"suffix":"reife (Nettogewicht ohne Schale – entspricht 4 großen Bananen)"},{"amount":4,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"EL"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Eis-Förmchen","unit":{"name":"Stück"},"prefix":null,"suffix":"à ca. 80-90 ml plus Stiele (alternativ: größere Eisförmchen oder Plastikbecher plus Eisstiele)"}]}],"preparation":[{"headline":null,"content":"Bananen schälen, in grobe Stücke schneiden und zusammen mit Joghurt sowie Zitronensaft und Honig fein pürieren."},{"headline":null,"content":"Fruchtpüree in Eisförmchen füllen, Stiele hineinstecken und das Bananeneis mindestens 5 Stunden gefrieren lassen."},{"headline":null,"content":"Nach der Gefrierzeit Bananeneis am Stiel vorsichtig aus den Förmchen lösen. Falls das nicht sofort klappt, Förmchen kurz von außen mit den Händen anwärmen oder in lauwarmes Wasser tauchen."}],"recipe_tips":[{"headline":null,"content":"Bananeneis am Stiel lässt sich noch schneller zubereiten, wenn die Bananen geschält, halbiert und als Ganzes auf Holzspieße gesteckt werden. Wer mag, verziert sie noch mit wenig Schokolade und Kokosraspeln."}]}</CustomStructuredRecipeJson>
+    <Title>Bananeneis am Stiel</Title>
+    <CustomRecipeNutritionalValueCalories position="1">90</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">376</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">20</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Das braucht man: Eisförmchen à ca. 80-90 ml plus Stiele (alternativ: größere Eisförmchen oder Plastikbecher plus Eisstiele) </CustomRecipeNoteInformation>
+    <Headline position="1">Bananeneis am Stiel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-20T10:22:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8520ln9kgd52atp6jjz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Nettogewicht ohne Schale – entspricht 4 großen Bananen)" plural="Bananen" position="1" prefix="reife "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(1,5 % Fett)" plural="Joghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8520lor3s7c33l9jjjz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Bananen schälen, in grobe Stücke schneiden und zusammen mit Joghurt sowie Zitronensaft und Honig fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8520lor3zm9t378fjjz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Fruchtpüree in Eisförmchen füllen, Stiele hineinstecken und das Bananeneis mindestens 5 Stunden gefrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8520lor3zvm32006jjz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nach der Gefrierzeit Bananeneis am Stiel vorsichtig aus den Förmchen lösen. Falls das nicht sofort klappt, Förmchen kurz von außen mit den Händen anwärmen oder in lauwarmes Wasser tauchen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8520lor400g1agynpjjz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bananeneis am Stiel lässt sich noch schneller zubereiten, wenn die Bananen geschält, halbiert und als Ganzes auf Holzspieße gesteckt werden. Wer mag, verziert sie noch mit ein wenig Schokolade und Kokosraspeln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananeneis am Stiel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7puyne65340udcy4j2s" file_variant="master" position="1">Bananeneis_am_Stiel_13897.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69bd13768cc22">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananeneis am Stiel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7puyn5vysrbhknfy9u3" file_variant="master" position="1">Bananeneis_am_Stiel_13473.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69bd1378b0a4e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananeneis am Stiel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7puyn763l471eds2z9u3" file_variant="master" position="1">Bananeneis_am_Stiel_13511.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69bd137ae306b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananeneis am Stiel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7puynfnjl8j1gez19u3" file_variant="master" position="1">Bananeneis_am_Stiel_13876.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

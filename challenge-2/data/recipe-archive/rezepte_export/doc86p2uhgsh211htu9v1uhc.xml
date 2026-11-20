@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86p2uhgsh211htu9v1uhc" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-13T10:05:49+02:00</created>
+  <identifier></identifier>
+  <modcount>19</modcount>
+  <modified>2026-07-13T11:26:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Source topic="tmt86p337vlceu15hjn71vq9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ro9hjuhdkdo5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <Headline position="1">Mediterrane Fischsuppe mit Fenchel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-13T10:05:49+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5961" position="14" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weißes" suffix="(z.B. Seelachs oder Kabeljau)" plural="Fischfilets"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5756" position="15" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="frische" suffix="(alternativ TK-Erbsen)" plural="Erbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5911" position="1" amount="2" suffix="mit Grün" plural="Fenchelknollen" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="2" plural="Zwiebeln" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="2" plural="Knoblauchzehen" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="4" amount="350" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="festkochende" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="5" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="6" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="7" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="8" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="passierte" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5966" position="9" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" plural="Fischfond"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="11" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5921" position="12" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlene" plural="Fenchelsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="13" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Paprikapulver"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fenchel waschen, putzen, das Grün zur Seite geben und die Knollen in feine Streifen schneiden. Zwiebeln und Knoblauch abziehen, Zwiebeln in feine Streifen, Knoblauch in Würfel schneiden. Kartoffeln schälen, waschen und grob klein schneiden. Sämtliches Gemüse in einem Topf im Öl 3–4 Min. andünsten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a54a426e570a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomatenmark zugeben, kurz mitschwitzen, mit Wein ablöschen und diesen etwas verkochen lsassen.Tomaten und Fischfond angießen, mit Salz, Pfeffer, Fenchelsamen
+und Paprikapulver würzen und ca. 25 Minuten bei milder Hitze köcheln lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a54aca2b83f3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fischfilets kalt abbrausen,trocken tupfen, in ca. 3 cm große Stücke schneiden. Mit den Erbsen in den letzten 5 Minuten zur Suppe geben, bei milder Hitze fertig garen.
+Den Fischeintopf mit Salz und Pfeffer abschmecken. Vor dem Servieren mit Fenchelgrün garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Einenkel, Udo</ImageCredit>
+      <DocumentRef doc_id="doc7g9ii4ezrwjjm7s1ud" file_variant="master" position="1">Mediterrane Fischsuppe mit Fenchel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

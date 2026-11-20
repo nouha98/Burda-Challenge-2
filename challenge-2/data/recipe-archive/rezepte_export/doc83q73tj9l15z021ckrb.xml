@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83q73tj9l15z021ckrb" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T08:47:40+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-17T08:51:26+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tomatensalat mit Zwiebeln","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße bis kleine","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"TL"},"prefix":null,"suffix":"getrocknet"},{"amount":null,"amountTo":null,"ingredient_name":"frisches Basilikum","unit":{"name":"Zweig"},"prefix":"Einige","suffix":null}]}],"preparation":[{"headline":null,"content":"Die Tomaten waschen und den Strunk mit einem kleinen Messer herausschneiden. Die Tomaten in Spalten schneiden. Die Zwiebel schälen und fein würfeln."},{"headline":null,"content":"Weißweinessig mit Salz, Zucker, Pfeffer und dem Olivenöl in einer Schüssel verrühren. Getrockneten Basilikum untermischen."},{"headline":null,"content":"Mit frischen Basilikumblättern dekorieren."}],"recipe_tips":[{"headline":"Die Zwiebel","content":"Kann auch durch eine rote Zwiebel ersetzt werden, diese ist etwas milder im Geschmack."}]}</CustomStructuredRecipeJson>
+    <Title>Tomatensalat mit Zwiebeln</Title>
+    <Headline position="1">Tomatensalat mit Zwiebeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T08:47:40+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83q73qs0p3m141lbtkrb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Tomaten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße bis kleine" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißweinessig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="6" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="getrocknet" plural="Basilikum" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" prefix="frischer" position="9" plural="Basilikum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83q73tj9bxza9699krb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Tomaten waschen und den Strunk mit einem kleinen Messer herausschneiden. Die Tomaten in Spalten schneiden. Die Zwiebel schälen und fein würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83q73tj9fk5cj5xtkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Weißweinessig mit Salz, Zucker, Pfeffer und dem Olivenöl in einer Schüssel verrühren. Getrockneten Basilikum untermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83q73tj9fp4wjp1lkrb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit frischen Basilikumblättern dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83q73tj9fs018p4bjkrb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Kann auch durch eine rote Zwiebel ersetzt werden, diese ist etwas milder im Geschmack.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die Zwiebel</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz3r3ut15yzpygtjb" file_variant="master" position="1">Tomatensalat mit Zwiebeln II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_694260fbcc13c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz38mf79xr2ggrtjb" file_variant="master" position="1">Tomatensalat mit Zwiebeln II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_694260fd28316">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz3jnz4sh1edbbnj82" file_variant="master" position="1">Tomatensalat mit Zwiebeln II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc884h35qwlmcxdlpyqo4" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-21T10:43:01+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-10-21T10:56:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rob8cxtohdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <Source topic="tmt884h9iocw00qch4hqs1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Shiitake-Kohl-Gyoza","recipe_seo_headline":null,"servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Garen","duration":5},{"name":"Marinieren","duration":10}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Shiitake","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Spitzkohl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"frischer Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sojasauce","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sesamöl","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"½","amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"½","amountTo":null,"ingredient_name":"weißer Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Wantanblätter","unit":{"name":"Stück"},"prefix":null,"suffix":"(8–9 cm Ø)"}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Pikante Tom-Kha-Fonduebrühe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(siehe Rezept Seite 39, ersatzweise neutrale Brühe)"}]}],"preparation":[{"headline":null,"content":"Shiitake putzen und sehr fein hacken. Spitzkohl fein schneiden. Die Lauchzwiebeln in feine Ringe schneiden. Knoblauch und Ingwer fein hacken."},{"headline":null,"content":"Pilze, Kohl, Lauchzwiebeln, Knoblauch und Ingwer mischen. Sojasauce, Sesamöl, Zucker und weißen Pfeffer unterrühren. Mischung 10 Minuten marinieren lassen."},{"headline":null,"content":"Je 1 gehäuften TL Füllung mittig auf ein Wantanblatt setzen. Ränder mit Wasser bestreichen. Teigblatt halbmondförmig zusammenklappen und die obere Teigkante in kleinen Falten über die untere drücken. Ränder sorgfältig verschließen."},{"headline":null,"content":"Die Gyoza portionsweise in der heißen, nicht kochenden Tom-Kha-Brühe 4–5 Minuten gar ziehen lassen, bis der Teig weich und die Füllung durchgegart ist."}],"recipe_tips":[{"headline":"Dip-Duo","content":"Für den roten Dip Sweet-Chili-Sauce mit etwas Reisessig und Limettensaft verrühren. Für die weiße Sauce Kokosjoghurt-Alternative mit Limettensaft, Salz und 1 Prise Zucker glatt rühren und mit gehacktem Koriander bestreuen."}]}</CustomStructuredRecipeJson>
+    <Title>Shiitake-Kohl-Gyoza</Title>
+    <Headline position="1">Shiitake-Kohl-Gyoza</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-21T10:43:01+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="884h389r8xcazqe1qhk">
+      <CustomRecipeIngredient topic="tmt80lqy2e6ylg10wzv1rvm" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Shiitake-Pilze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10326" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spitzkohl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lauchzwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt80lqy2e4cfnjw7s7rvm" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="frischer Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sojasauce" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10111" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Sesamöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" amount_error="1" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt84wueldbdx11bhduwcok" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="weißer Pfeffer" position="9" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt7g0sv8l9xibq0yb5hbw" amount="20" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(8–9 cm Ø)" position="10" plural="Wan-Tan-Blätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="884h3a9llfa10titcqhk">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" prefix="pikante Tom-Kha-Fondue-" plural="Brühe"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="884h3ag3ugp9x5dnqhk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Shiitake putzen und sehr fein hacken. Spitzkohl fein schneiden. Die Lauchzwiebeln in feine Ringe schneiden. Knoblauch und Ingwer fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="884h3ag3y2xalvrrqhk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Pilze, Kohl, Lauchzwiebeln, Knoblauch und Ingwer mischen. Sojasauce, Sesamöl, Zucker und weißen Pfeffer unterrühren. Mischung 10 Minuten marinieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="884h3ag3y831l7tdeqhk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Je 1 gehäuften TL Füllung mittig auf ein Wantanblatt setzen. Ränder mit Wasser bestreichen. Teigblatt halbmondförmig zusammenklappen und die obere Teigkante in kleinen Falten über die untere drücken. Ränder sorgfältig verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="884h3ag3ybttrc88qhk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Gyoza portionsweise in der heißen, nicht kochenden Tom-Kha-Brühe 4–5 Minuten gar ziehen lassen, bis der Teig weich und die Füllung durchgegart ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="884h3ag3yfp1g699xqhk">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dip-Duo: Für den roten Dip Sweet-Chili-Sauce mit etwas Reisessig und Limettensaft verrühren. Für die weiße Sauce Kokosjoghurt-Alternative mit Limettensaft, Salz und 1 Prise Zucker glatt rühren und mit gehacktem Koriander bestreuen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gyoza-Fondue mit Gemüsefüllung</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc84xki2nlsue7jbfua21" file_variant="master" position="1">Gyoza-Fondue mit Gemüsefüllung</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

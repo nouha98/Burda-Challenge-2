@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82j40oug8d012551ter6" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-24T13:18:57+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T13:39:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="90"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rinderbrühe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Zubereitung","duration":90}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Rinderbrühe","ingredients":[{"amount":1500,"amountTo":null,"ingredient_name":"Rinderknochen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Suppenfleisch vom Rind","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Karotte","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Sellerieknolle","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lauch","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"schwarze Pfefferkörner","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Knochen und das Fleisch in kochendes Wasser geben und einmal aufkochen. Das Wasser abgießen und die Knochen und das Fleisch gut abbrausen und wieder in den Topf geben. Mit kaltem Wasser und dem Salz auffüllen, so dass Knochen und Fleisch ca. 3 cm bedeckt sind."},{"headline":null,"content":"Sobald das Wasser kocht, die Hitze reduzieren und sanft köcheln lassen. Dabei unbedingt den aufkommenden Schaum, (Eiweiß und Trübstoffe) mit einer Kelle abschöpfen. Währenddessen das Gemüse waschen. Karotten schälen, Sellerie vierteln. Lauch in grobe Stücke schneiden. Zwiebel schälen und grob würfeln. Das Gemüse dazugeben."},{"headline":null,"content":"Die Petersilie von den Stielen abzupfen. Das Gemüse, den Thymian und die Stiele der Petersilie (die Blätter werden aufgehoben) sowie die Gewürze (die Muskatnuss wird mit dem Messer leicht angedrückt) im Ganzen, sowie die Kräuter hinzugeben und mindestens 1,5 Stunden sanft köcheln lassen."},{"headline":null,"content":"Die Brühe dann durch ein Sieb mit Tuch passieren."},{"headline":null,"content":"Die Blätter der Petersilie fein hacken und auf die Suppe streuen."}],"recipe_tips":[{"headline":"Liebstöckel","content":"Frisch, ca. 1 Zweig oder 1 Teelöffel getrocknet"},{"headline":null,"content":"Das Suppenfleisch in feine Würfel schneiden und in der Suppe als Einlage servieren."}]}</CustomStructuredRecipeJson>
+    <Title>Rinderbrühe</Title>
+    <Headline position="1">Rinderbrühe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-24T13:18:57+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82j40mcwyqg10f9h3er6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="12" prefix="schwarze" suffix="-körner" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9211" amount="1500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rinderknochen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10421" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" suffix="vom Rind" plural="Suppenfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="4" plural="Karotte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10031" amount="0.25" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Sellerieknolle" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7661" amount="1" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Lauch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Thymian" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" amount="0.25" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Muskatnuss" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Lorbeerblätter" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Rinderbrühe</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82j40oufzn43873mer6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Knochen und das Fleisch in kochendes Wasser geben und einmal aufkochen. Das Wasser abgießen und die Knochen und das Fleisch gut abbrausen und wieder in den Topf geben. Mit kaltem Wasser und dem Salz auffüllen, so dass Knochen und Fleisch ca. 3 cm bedeckt sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82j40oug5h51jw7xser6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sobald das Wasser kocht, die Hitze reduzieren und sanft köcheln lassen. Dabei unbedingt den aufkommenden Schaum, (Eiweiß und Trübstoffe) mit einer Kelle abschöpfen. Währenddessen das Gemüse waschen. Karotten schälen, Sellerie vierteln. Lauch in grobe Stücke schneiden. Zwiebel schälen und grob würfeln. Das Gemüse dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82j40oug5kxoxj6jer6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Petersilie von den Stielen abzupfen. Das Gemüse, den Thymian und die Stiele der Petersilie (die Blätter werden aufgehoben) sowie die Gewürze (die Muskatnuss wird mit dem Messer leicht angedrückt) im Ganzen, sowie die Kräuter hinzugeben und mindestens 1,5 Stunden sanft köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82j40oug5xlkjzaner6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Brühe dann durch ein Sieb mit Tuch passieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82j40oug61ck8lsber6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die Blätter der Petersilie fein hacken und auf die Suppe streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82j40oug65dinfaer6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Frisch, ca. 1 Zweig oder 1 Teelöffel getrocknet</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Liebstöckel</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="82j40oug69zbmyf0er6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Das Suppenfleisch in feine Würfel schneiden und in der Suppe als Einlage servieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j2di9wkw39fhyc1lpm" file_variant="master" position="1">Rinderbruehe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8486r96af6go93e8i4d" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-21T09:05:52+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-21T09:21:30+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer Tiramisu","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Tiramisu","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":"(80 % Fett i. Tr.)"},{"amount":500,"amountTo":null,"ingredient_name":"Quark","unit":{"name":"g"},"prefix":null,"suffix":"(40 % Fett)"},{"amount":5,"amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"EL"},"prefix":null,"suffix":"(Mandellikör)"},{"amount":100,"amountTo":null,"ingredient_name":"Rohrzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon Vanille Zucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"frische Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"starker Kaffee","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Deko","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Minzblüten","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Eine Auflaufform mit hohem Rand (ca. 18 x 28 cm) kaltstellen."},{"headline":null,"content":"Mascarpone mit Quark, 3 EL Amaretto und 80 g Rohrzucker glattrühren. Vanillezucker zugegeben und 3-5 Minuten cremig aufschlagen."},{"headline":null,"content":"Himbeeren waschen, abtropfen lassen und 8 Himbeeren beiseitestellen."},{"headline":null,"content":"Restlichen Amaretto und Rohrzucker mit heißem Kaffee verrühren. Die Hälfte des Löffelbiskuits in die Auflaufform legen und mit der Hälfte des Kaffees beträufeln. ¼ der Creme darauf verteilen und glattstreichen. Übrige Himbeeren darauf verteilen, vorsichtig in die Creme drücken und mit einem weiteren ¼ der Creme bestreichen."},{"headline":null,"content":"Restliche Löffelbiskuits auflegen, mit Kaffee tränken und die übrige Creme darauf glattstreichen."},{"headline":null,"content":"Tiramisu abgedeckt in den Kühlschrank stellen und mind. 2 Stunden (am besten über Nacht) durchziehen lassen."},{"headline":null,"content":"Tiramisu mit Kakao bestreuen und in 8 Stücke schneiden. Mit restlichen Himbeeren und mit Minze garniert servieren."}],"recipe_tips":[{"headline":"Noch mehr Himbeere","content":"Für noch mehr Himbeergeschmack, kannst du für die letzte Schicht 2 TL Himbeermarmelade auf die Creme klecksen und verstreichen."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeer Tiramisu</Title>
+    <Headline position="1">Himbeer Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-21T09:05:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8486r5uyogl654sxi4d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas frische" suffix="zum Dekorieren nach Wunsch" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(80 % Fett i. Tr.)" plural="Mascarpone" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(40 % Fett)" plural="Quark" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(Mandellikör)" plural="Amaretto" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rohrzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="5" plural="Bourbon Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="6" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(30 % Fett)" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt803gypox7k815tn3w14fg" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="frische Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6931" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" prefix="starker heißer" plural="Kaffee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" position="11" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Backkakao"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Tiramisu</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8486r96a3o019gjkai4d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Auflaufform mit hohem Rand (ca. 20 x 25 cm) kaltstellen. Für das Himbeer-Tiramisu Mascarpone mit Quark, Amaretto, Rohrohrzucker und Vanillezucker in einer Küchenmaschine mit Rührbesen oder in einer Schüssel mit dem Handrührgerät glattrühren. Sahne zugegeben und 3-5 Minuten cremig aufschlagen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8486r96a6whut416i4d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Himbeeren waschen, abtropfen lassen und 8 Himbeeren zur Dekoration beiseitestellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8486r96a73drjkmji4d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Restlichen Amaretto und Rohrohrzucker mit heißem Kaffee verrühren. Die Hälfte der Löffelbiskuits in die Auflaufform legen und mit der Hälfte des Kaffees beträufeln. Ein Drittel der Creme darauf verteilen und glattstreichen. Mit Himbeeren gleichmäßig belegen und mit einem weiteren Drittel der Creme bestreichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8486r96a77n8woo6i4d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Restliche Löffelbiskuits auflegen, mit Kaffee tränken und die übrige Creme darauf glattstreichen. Tiramisu abgedeckt in den Kühlschrank stellen und mindestens 2 Stunden durchziehen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8486r96a7cl3utcri4d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Tiramisu mit Kakao bestreuen, in Stücke schneiden, mit restlichen Himbeeren und nach Wunsch mit frischer Minze garniert servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8486r96a7qubwuaci4d">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Streiche die Hälfte der Himbeeren durch ein Sieb und färbe ein Drittel der Creme damit rosa ein.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Farbtupfer dank Himbeerpüree</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc843jtbon5g21je85193t" file_variant="master" position="1">Himbeer-Tiramisu im Glas II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69708c8521de6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc843jtxpk1iw19tp46p0t" file_variant="master" position="1">Himbeer-Tiramisu im Glas II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69708c86b513e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc843jv0exfdk82pls193u" file_variant="master" position="1">Himbeer-Tiramisu im Glas II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69708c88e91ac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc843jtisek7n1a2kly193u" file_variant="master" position="1">Himbeer-Tiramisu im Glas II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

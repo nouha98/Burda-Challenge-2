@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82271wdq4x4d77vb48" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-22T15:12:15+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-25T09:00:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="240"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <Provider topic="tmt82277b7q6k2cls3lb68"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wildschweinkeule mit Portweinsauce","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":240},{"name":"Ruhen/Warten","duration":1440}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Knollensellerie","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Möhren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Portwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Balsamico-Essig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Johannisbeersaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pfefferkörner","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Gewürznelken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Wacholderbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lorbeerblätter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sternanis","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2000,"amountTo":null,"ingredient_name":"Wildschweinkeule","unit":{"name":"g"},"prefix":null,"suffix":"(ausgelöst, ohne Knochen)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butterschmalz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"rote Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Preiselbeeren","unit":{"name":"g"},"prefix":null,"suffix":"(Glas)"},{"amount":3,"amountTo":null,"ingredient_name":"Tannenhonig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senfpulver","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"mehligkochende Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Birnen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"lauwarmen Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch geriebene Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Saucenbinder","unit":{"name":"TL"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Am Vortag des Essens: Sellerie und Möhren waschen, schälen und beides in Würfel schneiden. Zwiebeln und Knoblauch abziehen, fein würfeln. Die Orange schälen und das Fruchtfleisch ebenfalls in Würfel schneiden. Für die Beize Thymianstiele, Gemüsewürfel (bis auf etwa die Hälfte der Knoblauchwürfel, die für das Chutney zurückbehalten werden), gewürfelte Orangenfilets, Portwein, Balsamico sowie 100 ml Johannisbeersaft vermengen und die Gewürze dazugeben. Fleisch mit Salz, Pfeffer und 1 EL Zucker einreiben, dann in einen großen Gefrierbeutel legen und mit der Johannisbeer-Balsamico-Mischung übergießen. Beutel gut verschließen und das Fleisch darin in den Kühlschrank stellen und für 24 Stunden beizen. Dabei den Beutel mehrmals drehen, damit sich die Beize gut verteilen kann."},{"headline":null,"content":"Gut 3 Stunden vor dem Essen den Backofen auf 180 Grad Ober-/Unterhitze vorheizen. Fleisch aus der Beize heben, die Beize durch ein Sieb gießen und auffangen, den Gemüse-Mix abtropfen lassen. Fleisch abtupfen und in einem großen Bräter im Butterschmalz rundum kräftig anbraten. Dann das Fleisch aus dem Bräter nehmen. Das abgetropfte Gemüse aus der Beize ebenfalls im Bräter anrösten. Tomatenmark einrühren, mitbraten. Fleisch wieder dazugeben und die Beize angießen. Bräter mit einem Deckel verschließen und das Wildschweinfleisch im vorgeheizten Ofen in ca. 3 Stunden weich schmoren."},{"headline":null,"content":"Inzwischen für das Chutney die roten Zwiebeln abziehen, klein würfeln, zusammen mit dem übrigen Knoblauch im Öl glasig dünsten. Preiselbeeren und Honig zufügen, karamellisieren lassen. Stärke mit den übrigen 100 ml Johannisbeersaft glatt rühren, zusammen mit dem Senfpulver und dem Apfelessig zum Zwiebel-Mix geben. Chutney 10 Minuten bei kleiner Hitze einkochen lassen und mit Salz, Pfeffer würzen."},{"headline":null,"content":"Etwa 40 Minuten vor dem Essen die Kartoffeln schälen, würfeln, in Salzwasser in ca. 20 Minuten weich garen. Birnen waschen, schälen, entkernen und in dünne Spalten schneiden. Birnenspalten in der Butter goldbraun braten. Dann aus der Butter heben und die Milch mit der Butter verrühren. Kartoffelwasser abgießen und die Kartoffeln gut ausdampfen lassen. Kartoffeln mit einem Stampfer zermusen und die Butter-Milch-Mischung unterrühren. Püree mit Salz, Pfeffer und Muskat abschmecken und die Birnenspalten locker unterheben."},{"headline":null,"content":"Fleisch aus dem Bräter nehmen und im Ofen warm halten. Den Fond durch ein Sieb passieren, aufkochen. Nach Belieben mit Saucenbinder andicken und die Sauce mit Salz und Pfeffer abschmecken. Wildschweinkeule in Scheiben schneiden und mit der Portweinsauce, dem Birnen-Kartoffel-Stampf und dem Preiselbeer-Chutney anrichten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Wildschweinkeule mit Portweinsauce</Title>
+    <SubHeadline position="1">Gebeizte, geschmorte Wildschweinkeule mit Portweinsoße, Preiselbeer-Chutney und Birnen-Kartoffelstampf 14286600.jpg</SubHeadline>
+    <Headline position="1">Wildschweinkeule mit Portweinsauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-22T15:12:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="822721coa9ff0tr2bpa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7271" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Knollensellerie" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Orange" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Thymian" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8891" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Portwein" position="7"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" plural="Balsamico-Essig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6906" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Johannisbeersaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zimtstangen" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Pfefferkörner" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="12" plural="Gewürznelken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10946" amount="10" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Wacholderbeeren" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lorbeerblätter" position="14"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Sternanis" position="15"/>
+      <CustomRecipeIngredient topic="tmt82283ifpmtjaeu97bjl" amount="2000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ausgelöst, ohne Knochen)" position="16" plural="Wildschweinkeule"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="17"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="18"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zucker" position="19"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5261" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butterschmalz" position="20"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tomatenmark" position="21"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="rote Zwiebeln" position="22"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="23"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8911" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Glas)" plural="Preiselbeeren" position="24"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10511" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tannenhonig" position="25"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="26"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10086" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Senfpulver" position="27"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Apfelessig" position="28"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="29" prefix="mehligkochende" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="30"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="31"/>
+      <CustomRecipeIngredient topic="tmt80ei3n5v7mdfe2k7n8j" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="32" plural="lauwarmen Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="33" prefix="frisch geriebene" plural="Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9621" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="nach Belieben" plural="Saucenbinder" position="34"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="822725efjq11hc6p9bpa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag des Essens: Sellerie und Möhren waschen, schälen und beides in Würfel schneiden. Zwiebeln und Knoblauch abziehen, fein würfeln. Die Orange schälen und das Fruchtfleisch ebenfalls in Würfel schneiden. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822725efm8938fj4bpa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Beize Thymianstiele, Gemüsewürfel (bis auf etwa die Hälfte der Knoblauchwürfel, die für das Chutney zurückbehalten werden), gewürfelte Orangenfilets, Portwein, Balsamico sowie 100 ml Johannisbeersaft vermengen und die Gewürze dazugeben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822725efmckueeksbpa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Fleisch mit Salz, Pfeffer und 1 EL Zucker einreiben, dann in einen großen Gefrierbeutel legen und mit der Johannisbeer-Balsamico-Mischung übergießen. Beutel gut verschließen und das Fleisch darin in den Kühlschrank stellen und für 24 Stunden beizen. Dabei den Beutel mehrmals drehen, damit sich die Beize gut verteilen kann. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822725efmfm1fveq0bpa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Gut 3 Stunden vor dem Essen den Backofen auf 180 Grad Ober-/Unterhitze vorheizen. Fleisch aus der Beize heben, die Beize durch ein Sieb gießen und auffangen, den Gemüse-Mix abtropfen lassen. Fleisch abtupfen und in einem großen Bräter im Butterschmalz rundum kräftig anbraten. Dann das Fleisch aus dem Bräter nehmen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822725efmiqd24mbbpa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Das abgetropfte Gemüse aus der Beize ebenfalls im Bräter anrösten. Tomatenmark einrühren, mitbraten. Fleisch wieder dazugeben und die Beize angießen. Bräter mit einem Deckel verschließen und das Wildschweinfleisch im vorgeheizten Ofen in ca. 3 Stunden weich schmoren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68a86eefbbed1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für das Chutney die roten Zwiebeln abziehen, klein würfeln, zusammen mit dem übrigen Knoblauch im Öl glasig dünsten. Preiselbeeren und Honig zufügen, karamellisieren lassen. Stärke mit den übrigen 100 ml Johannisbeersaft glatt rühren, zusammen mit dem Senfpulver und dem Apfelessig zum Zwiebel-Mix geben. Chutney 10 Minuten bei kleiner Hitze einkochen lassen und mit Salz, Pfeffer würzen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_68a86f09339ab">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Etwa 40 Minuten vor dem Essen die Kartoffeln schälen, würfeln, in Salzwasser in ca. 20 Minuten weich garen. Birnen waschen, schälen, entkernen und in dünne Spalten schneiden. Birnenspalten in der Butter goldbraun braten. Dann aus der Butter heben und die Milch mit der Butter verrühren. Kartoffelwasser abgießen und die Kartoffeln gut ausdampfen lassen. Kartoffeln mit einem Stampfer zermusen und die Butter-Milch-Mischung unterrühren. Püree mit Salz, Pfeffer und Muskat abschmecken und die Birnenspalten locker unterheben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_8_68a86f311bb37">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Fleisch aus dem Bräter nehmen und im Ofen warm halten. Den Fond durch ein Sieb passieren, aufkochen. Nach Belieben mit Saucenbinder andicken und die Sauce mit Salz und Pfeffer abschmecken. Wildschweinkeule in Scheiben schneiden und mit der Portweinsauce, dem Birnen-Kartoffel-Stampf und dem Preiselbeer-Chutney anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 8</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gebeizte, geschmorte Wildschweinkeule mit Portweinsoße, Preiselbeer-Chutney und Birnen-Kartoffelstampf</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc7xhbvx84mgo100fbt6ef" file_variant="master" position="1">Gebeizte, geschmorte Wildschweinkeule mit Portweinsoße, Preiselbeer-Chutney und Birnen-Kartoffelstampf</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

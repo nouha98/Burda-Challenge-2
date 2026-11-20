@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84q74gi9w5t1mj9qtdc2" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-25T10:19:48+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-02-25T10:25:48+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Orangendessert mit Joghurt","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Creme","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Orangen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(3,5 % Fettgehalt)"},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":"Ca.","suffix":"nach Belieben"},{"amount":1,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Von beiden Orangen oben und unten je eine dünne Scheibe abschneiden damit diese auf dem Schneidebrett nicht wegrollen können. Mit einem scharfen Messer die Schale herunterschneiden. Eventuell vorhandene weiße Hautreste wegschneiden. Geschälte Orange in die Hand nehmen und zwischen den Trennhäuten Filets herausschneiden. Orangenreste in der Hand zerdrücken und den Saft über einer Rührschüssel auspressen."},{"headline":null,"content":"Für die Creme Joghurt und Honig zu dem Orangensaft geben und mit einem Schneebesen verrühren. Wer die Creme etwas fester haben möchte, kann zusätzlich Magerquark in die Creme rühren. Vier Orangenfilets zum Garnieren beiseitestellen. Übrige Filets halbieren oder dritteln und in die Joghurtcreme rühren. Creme in die vorbereiteten Dessertgläser (á 200 ml) füllen. Vor dem Servieren mit den beiseite gelegten Orangenfilets und nach Belieben Minze garnieren."}],"recipe_tips":[{"headline":"Weihnachtliche Variante","content":"Rühre weihnachtliche Gewürze wie gemahlenen Zimt, Spekulatiusgewürz oder ähnliches in die Creme. Zusätzlich zum Garnieren mit Orangenfilets eignen sich Weihnachtsplätzchen oder gemahlener Zimt."}]}</CustomStructuredRecipeJson>
+    <Title>Orangendessert mit Joghurt</Title>
+    <Headline position="1">Orangendessert mit Joghurt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-25T10:19:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84q74f6tkow13gqaodc2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." suffix="nach Belieben" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Orangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(3,5 % Fettgehalt)" plural="Naturjoghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_699ebf3163f50">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="1" amount="1" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" suffix="zum Garnieren" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84q74gi9m1etxpc1dc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Von beiden Orangen je eine dünne Scheibe an der Ober- und Unterseite abschneiden, damit sie stabil auf dem Schneidebrett liegen. Anschließend die Schale mit einem scharfen Messer rundherum abschneiden, dabei möglichst auch die weiße Haut entfernen. Die geschälten Orangen in der Hand halten und mit einem Messer vorsichtig die Filets zwischen den Trennhäuten herausschneiden. Die verbliebenen Orangenreste in der Hand leicht auspressen und den aufgefangenen Saft in eine Rührschüssel geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84q74gi9puqfp2rddc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Creme Joghurt, Quark und Honig zum aufgefangenen Orangensaft geben und mit einem Schneebesen glattrühren. Vier schöne Orangenfilets für die Dekoration beiseitelegen. Die übrigen Filets halbieren oder dritteln und vorsichtig unter die Joghurtcreme heben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_699ebf61bb7bb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Creme in die vorbereiteten Dessertgläser (à 200 ml) füllen. Vor dem Servieren mit den beiseite gelegten Orangenfilets und nach Belieben Minze garnieren. Gekühlt hält sich das Orangendessert mindestens 2 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84q74gi9q4h1lx9sndc2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Rühre weihnachtliche Gewürze, wie gemahlenen Zimt, Spekulatiusgewürz oder ähnliches in die Creme. Zusätzlich zum Garnieren mit Orangenfilets eignen sich Weihnachtsplätzchen oder gemahlener Zimt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Weihnachtliche Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844qx8brvfr8ugb89tk" file_variant="master" position="1">Orangendessert mit Joghurt</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_699ec01244d3a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844qxbo2nt313sjce9pf" file_variant="master" position="1">Orangendessert mit Joghurt</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_699ec013d53f0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844qxa2zkj5cb85vmjm" file_variant="master" position="1">Orangendessert mit Joghurt</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_699ec015463da">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844qxczdcg11l5sp8m7d" file_variant="master" position="1">Orangendessert mit Joghurt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

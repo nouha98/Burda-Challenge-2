@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86q2vno87bs1gn1pmp4w" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-15T08:50:53+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-15T09:04:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtnb8t68udo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt86q322mg049fa0n6p8g"/>
+    <CustomRecipeNutritionalValueCalories position="1">1620</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">156</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">25</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">97</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Schokostrudel aus Blätterteig</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-15T08:50:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4936" position="1" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Blätterteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Tafel" plural="Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eigelb"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Blätterteig so zuschneiden, dass die Schokolade mittig liegt und je ca. 3 cm entfernt von den kurzen Tafelseiten endet. Teig an den Längsseiten diagonal in 1–2 cm breite Streifen teilen, dann im Wechsel überlappend über die Tafel legen. Den Teig mit Eigelb bestreichen. Im vorgeheizten Ofen bei 200–220 Grad 10–15 Min. backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schokostrudel aus Fertig-Bl?tterteig</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc6zlifv8b5xxjis3z4kq" file_variant="master" position="1">Schokostrudel aus Fertig-Bl?tterteig</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

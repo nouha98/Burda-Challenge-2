@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc838puvj9zmu1dvgjl59d" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-13T08:22:03+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-13T08:27:12+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spitzkohl-Eintopf mit Hackfleisch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":null,"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Spitzkohl","unit":{"name":"(Keine Einheit)"},"prefix":"kleiner oder ½","suffix":"(ca. 600g)"},{"amount":1,"amountTo":2,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"mehligkochend"},{"amount":2,"amountTo":null,"ingredient_name":"Butterschmalz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"gemischtes Hackfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":"große Prise","suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Fleischbrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Vom Spitzkohl die äußersten Blätter entfernen. Den Spitzkohl halbieren und den Strunk entfernen. Die Blätter in grobe Stücke von 3 x 3 cm schneiden."},{"headline":null,"content":"Die Zwiebel und den Knoblauch schälen und fein hacken. Die Kartoffeln schälen und in 2x2 cm Stücke würfeln."},{"headline":null,"content":"Das Butterschmalz in einem Topf erhitzen und das Hackfleisch darin für ca. 5 Minuten anbraten. Die Zwiebel und den Knoblauch, sowie das Paprikapulver dazugeben und für ca. 2 Minuten mitbraten."},{"headline":null,"content":"Die Fleischbrühe aufgießen und die Kartoffelwürfel, sowie den geschnittenen Kohl dazugeben. Mit Salz und Pfeffer würzen. Das Lorbeerblatt dazugeben und mit geschlossenem Deckel bei mittlerer Hitze ca. 15-20 Minuten köcheln lassen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Spitzkohl-Eintopf mit Hackfleisch</Title>
+    <Headline position="1">Spitzkohl-Eintopf mit Hackfleisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-13T08:22:03+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="838pur0bhm9w5c4g59d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10326" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleiner oder ½" suffix="(ca. 600g)" plural="Spitzkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" max_amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="mehligkochend" plural="Kartoffeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5261" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butterschmalz" position="5"/>
+      <CustomRecipeIngredient topic="tmt808hl36o8lfk2r77vbq" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="gemischtes Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Paprikapulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Fleischbrühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Pfeffer" position="10" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Lorbeerblätter" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="838puvj9y9k7s5ed59d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die äußersten Blätter vom Spitzkohl entfernen. Den Spitzkohl halbieren und den Strunk entfernen. Die Blätter in grobe Stücke von 3 x 3 cm schneiden. Die Zwiebel und den Knoblauch schälen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="838puvj9yjmm4kl059d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Kartoffeln schälen und in 2 x 2 cm große Stücke würfeln. Das Butterschmalz in einem Topf erhitzen und das Hackfleisch darin bei mittlerer Hitze für ca. 5 Minuten anbraten. Die Zwiebel und den Knoblauch, sowie das Paprikapulver dazugeben und für ca. 2 Minuten mitbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="838puvj9yoxbunm759d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Fleischbrühe aufgießen und die Kartoffelwürfel sowie den geschnittenen Kohl dazugeben. Mit Salz und Pfeffer würzen. Das Lorbeerblatt dazugeben und mit geschlossenem Deckel bei mittlerer Hitze ca. 15-20 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="838puvj9ytvxfrp659d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Petersilie klein hacken. Vor dem Servieren das Lorbeerblatt aus dem Eintopf entnehmen. Beim Servieren die gehackte Petersilie über den Eintopf streuen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Aufgewärmt schmeckt's noch besser!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Der Kohleintopf schmeckt besonders gut, wenn er das zweite Mal aufgekocht wurde, nachdem er einen Tag lang im Kühlschrank geruht hat.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mmanv90aq16k44ffbl" file_variant="master" position="1">Spitzkohl-Eintopf mit Hackfleisch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6915884a292e1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mmbk8lbmpyhd82hwn" file_variant="master" position="1">Spitzkohl-Eintopf mit Hackfleisch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6915884b98fac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mmblllx8n11q1gvf5u" file_variant="master" position="1">Spitzkohl-Eintopf mit Hackfleisch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6915884d56c81">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mmaqthezq53vt8f5y" file_variant="master" position="1">Spitzkohl-Eintopf mit Hackfleisch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81haqd1xtx51d9nwel0b" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-12T23:05:46+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2025-08-04T15:44:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fols"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeNutritionalValueCalories position="1">295</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">22</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">20</CustomRecipeNutritionalValueFat>
+    <SubHeadline position="1">StockFood RM-00281002-HighRes</SubHeadline>
+    <Headline position="1">Estragonsauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-12T23:05:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="1" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="2" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6246" position="3" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsefond"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="4" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5851" position="5" amount="0,5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Estragon"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">80 g Butter zerlassen, darin 80 g Mehl unter Rühren dünsten. 400 ml Gemüsefond langsam angießen, 400 ml Milch dazugeben und alles aufkochen. Gehackte Blätter von ½ Bund frischem Estragon unterrühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Kräftiges Rühren verhindert, dass sie Sauce klumpt.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Estragonrahm</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7a6t71gphyop1t6m94m" file_variant="master" position="1">StockFood RM-00281002-HighRes</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

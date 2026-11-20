@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88e7fdtrequ12cx2njs6" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-09T08:16:11+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-09T08:26:42+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <Source topic="tmt88e7k9135xiux7sscns"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tortellinisalat vegetarisch","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Salat","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Tortellini","unit":{"name":"g"},"prefix":null,"suffix":"mit vegetarischer Gemüsefüllung"},{"amount":150,"amountTo":null,"ingredient_name":"Rucola","unit":{"name":"g"},"prefix":"frischer","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikaschote","unit":{"name":"(Keine Einheit)"},"prefix":"große, rote","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Fenchelknolle","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"EL"},"prefix":"gehobelte","suffix":"Späne (oder z. B. Montello)"}]},{"headline":"Für das Dressing","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Stiel"},"prefix":"frisches","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":"weißer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Dijonsenf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Tortellini nach Packungsanweisung in kochendem Wasser garkochen. Auf ein Sieb abgießen und abtropfen lassen."},{"headline":null,"content":"Rucola waschen und trockenschleudern. Kirschtomaten waschen und halbieren. Paprikaschote halbieren, entkernen, waschen und in schmale Streifen schneiden. Fenchelknolle waschen, putzen und in dünne Streifen schneiden oder hobeln."},{"headline":null,"content":"Basilikum abbrausen, trockenschütteln und fein hacken. Essig mit Senf und Olivenöl verrühren, gehackten Basilikum unterrühren. Mit Pfeffer und Salz würzen. Tortellini, Rucola und Gemüse in einer Schüssel mit dem Dressing vermischen. Auf Tellern anrichten und mit den Parmesanspänen bestreuen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Tortellinisalat vegetarisch</Title>
+    <Headline position="1">Tortellinisalat vegetarisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-09T08:16:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88e7f6w5v87h0imtjs6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="gehobelte" suffix="-Späne (oder z. B. Montello)" plural="Parmesan" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10701" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="mit vegetarischer Gemüsefüllung" plural="Tortellini" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frischer" plural="Rucola" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="große, rote" plural="Paprikaschoten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5911" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Fenchelknollen" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="88e7f9t0k1v1g2auijs6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="4" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="frisches" plural="Basilikum" position="1"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="weißer" plural="Balsamicoessig" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Dijonsenf" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Fluorid" plural="Jodsalz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88e7fdtr9oy70i9hjs6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Tortellini nach Packungsanweisung in kochendem Wasser garkochen. Auf ein Sieb abgießen, abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88e7fdtrdzn11zudojs6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Rucola waschen, trockenschleudern. Kirschtomaten waschen, halbieren. Paprikaschote halbieren, entkernen, waschen, in schmale Streifen schneiden. Fenchelknolle waschen, putzen, in dünne Streifen schneiden oder hobeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88e7fdtre469tvlyjs6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Basilikum abbrausen, trockenschütteln, fein hacken. Essig mit Senf und Olivenöl verrühren, gehackten Basilikum unterrühren. Mit Pfeffer und Salz würzen. Tortellini, Rucola und Gemüse in einer Schüssel mit dem Dressing vermischen. Auf Tellern anrichten, mit den Parmesanspänen bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braqvt4x5i5hfcq4fm" file_variant="master" position="1">Tortellinislat_vegetarisch_93619.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6af175a6bca25">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brar11pcdglvxvzgds" file_variant="master" position="1">Tortellinisalat_vegetarisch_93511.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6af175a8a955c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braq8ci5vr713cue1c" file_variant="master" position="1">Tortellinisalat_vegetarisch_93501.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6af175aae1b1a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braqbrdxxk2pkg42be" file_variant="master" position="1">Tortellinisalat_vegetarisch_93611.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

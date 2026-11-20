@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83eeyg4lseg1dxmlpjs5" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-24T10:28:35+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-24T10:35:17+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ro3phuwntdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bayrischer Kartoffelsalat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1000,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":"festkochend","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ca. 120 g)"},{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Stange"},"prefix":"einige","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Stange"},"prefix":"einige","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Branntweinessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"mittelscharfer Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"frisch gemahlen","suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen, mit Schale 20-25 Minuten in kochendem Salzwasser garen, pellen und in Scheiben schneiden oder vorsichtig hobeln."},{"headline":null,"content":"Zwiebeln abziehen, halbieren und fein würfeln. Schnittlauch und Petersilie waschen, abtropfen lassen und Schnittlauch in Ringe schneiden. Petersilienblätter abzupfen und in feine Streifen schneiden."},{"headline":null,"content":"Gemüsebrühe mit Zwiebeln und 2 EL Essig aufkochen, 5 Minuten köcheln lassen, über die warmen Kartoffelscheiben gießen und in einer großen Schüssel schwenken, bis die Kartoffelstärke die Flüssigkeit gebunden hat."},{"headline":null,"content":"Kartoffelsalat mit Senf und Sonnenblumenöl vermengen und mit Salz, Zucker, Pfeffer und restlichem Essig abschmecken."},{"headline":null,"content":"Kartoffelsalat auf 4 Teller verteilen und mit Schnittlauch und Petersilie bestreut, z.B. zu Backhendl servieren."}],"recipe_tips":[{"headline":"Auf die Kartoffel kommt es an","content":"Cilena, Ditta, Linda, Nicola und Sieglinde sind festkochende Kartoffeln. Oft sind Sie im Supermarkt grün gekennzeichnet und eignen sich wunderbar für Deinen Kartoffelsalat."},{"headline":"Mit Speck, Gurken, Gewürzkurken","content":"Natürlich gibt es nicht DEN Kartoffelsalat! Jede Familie hat ihr eigenes Rezept. Verfeinere Deinen Bayrischen Kartoffelsalat nach Deinem Geschmack mit frischen Gurkenscheiben, Gewürzgurkenwürfeln und/oder Speck."}]}</CustomStructuredRecipeJson>
+    <Title>Bayrischer Kartoffelsalat</Title>
+    <Headline position="1">Bayrischer Kartoffelsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-24T10:28:35+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83eeycarfnp1hjk5vjs5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="festkochend" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 120 g)" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" plural="Schnittlauch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" plural="Petersilie" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt82mqwwadn5112w4x2gib" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Branntweinessige" position="7"/>
+      <CustomRecipeIngredient topic="tmt7z8ylf3zj4ncc1ktdmu" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" plural="mittelscharfer Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch gemahlen" plural="Pfeffer" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83eeyg4lcvku9bvtjs5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen, mit Schale 20-25 Minuten in kochendem Salzwasser garen, pellen und in Scheiben schneiden oder vorsichtig hobeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83eeyg4lhlk66xr9js5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebeln abziehen, halbieren und fein würfeln. Schnittlauch und Petersilie waschen, abtropfen lassen und Schnittlauch in Ringe schneiden. Petersilienblätter abzupfen und in feine Streifen schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83eeyg4lhptgde0ejs5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüsebrühe mit Zwiebeln und 2 EL Essig aufkochen, 5 Minuten köcheln lassen, über die warmen Kartoffelscheiben gießen und in einer großen Schüssel schwenken, bis die Kartoffelstärke die Flüssigkeit gebunden hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83eeyg4lhtg1cnqnnjs5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kartoffelsalat mit Senf und Sonnenblumenöl vermengen und mit Salz, Zucker, Pfeffer und restlichem Essig abschmecken. Kartoffelsalat auf 4 Teller verteilen und mit Schnittlauch und Petersilie bestreut, z.B. zu Backhendl servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83eeyg4li1iswiwqjs5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Cilena, Ditta, Linda, Nicola und Sieglinde sind festkochende Kartoffeln. Oft sind Sie im Supermarkt grün gekennzeichnet und eignen sich wunderbar für Deinen Kartoffelsalat.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Auf die Kartoffel kommt es an</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="83eeyg4llh27v6okjs5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Natürlich gibt es nicht DEN Kartoffelsalat! Jede Familie hat ihr eigenes Rezept. Verfeinere Deinen Bayrischen Kartoffelsalat nach Deinem Geschmack mit frischen Gurkenscheiben, Gewürzgurkenwürfeln und/oder Speck.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mit Speck, Gurken, Gewürzkurken</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8iuo8p7qmclkkpdp" file_variant="master" position="1">Bayrischer Kartoffelsalat II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692426d08b5bf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8j552jxgei4otnwf" file_variant="master" position="1">Bayrischer Kartoffelsalat II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692426d265f5b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8il3vddloqr4z8g4" file_variant="master" position="1">Bayrischer Kartoffelsalat II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692426d39d072">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8jcfzc6v1fu7yl8ul" file_variant="master" position="1">Bayrischer Kartoffelsalat II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

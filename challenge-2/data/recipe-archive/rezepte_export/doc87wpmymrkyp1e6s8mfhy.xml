@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87wpmymrkyp1e6s8mfhy" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-06T08:08:27+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2026-10-06T08:16:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Creator topic="tmt6ssta82hc821kzpxy6v4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rosmzhngwdo5"/>
+    <Source topic="tmt87wpqmv0st01k0ij1fjs"/>
+    <Headline position="1">Blaubeer-Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-06T08:08:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4956" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="tiefgekühlte" plural="Blaubeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt86yfo5psjhil2txkdhy" position="3" prefix="Saft von 1" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="4" amount="2" plural="Bio-Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9336" position="5" amount="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleine" plural="Rosmarinzweige"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="6" amount="1,2" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" plural="Mineralwasser"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: Tiefgekühlte Blaubeeren mit Zucker und 300 ml Wasser und Zitronensaft aufkochen. Etwa 15 Minuten köcheln lassen. Alles durch ein feines Sieb in ein Gefäß gießen, abkühlen lassen. In Flaschen füllen, verschlossen kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ac4913a5b0c9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">zum Servieren: Bio-Limetten heiß waschen, 8 Streifen Schale mit einem Sparschäler abschälen. Saft auspressen. Blaubeersaft und Limettensaft auf 8 Gläser verteilen, Eiswürfel zugeben. Mit je 1 kleinen Rosmarinzweig und Limettenschale garnieren. Mit Mineralwasser auffüllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Blaubeerlimonade</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc877pma5rky0ifa311vou" file_variant="master" position="1">Blaubeerlimonade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

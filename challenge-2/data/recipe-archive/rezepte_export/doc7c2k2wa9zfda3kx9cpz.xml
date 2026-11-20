@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2k2wa9zfda3kx9cpz" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:46:52+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2025-09-16T12:59:53+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt6ow9eajbcmv2l2v78m9" position="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy" position="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap" position="1"/>
+    <Creator topic="tmt7227qo31caggkepem67" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <Classification topic="dc_se_thesterm_6on9dzuhvh4d37u3bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="45" score="1"/>
+    <Classification topic="dc_se_thesterm_6on9dzuljhk6zvasbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="29" score="0.647992"/>
+    <Classification topic="dc_se_thesterm_6on9dzulav51m39qtbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="26" score="0.572855"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomBlpId position="1">45065</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:In Arbeit</CustomBlpDataField>
+    <CustomBlpDataField position="1">Notiz:StockFood
+Titel 	60305073
+Karottensuppe mit Ingwer, Mais, Kichererbsen und Gewürzen</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">380</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">29</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">24</CustomRecipeNutritionalValueFat>
+    <Title>Karottensuppe mit Ingwer, Mais, Kichererbsen und Gewürzen</Title>
+    <Headline position="1">Karottensuppe mit Ingwer, Mais, Kichererbsen und Gewürzen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2019-11-27T00:00:00+01:00</DateCreated>
+    <DateImported>2020-08-27T16:46:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="cd8e27">
+      <CustomRecipeIngredient topic="tmt796mn8nxz7s16qcqf70c" amount="2" unit_topic="tm_topic_default_unit" position="1" unit="(Keine Einheit)" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt794qf1bd6p11f8maye46" amount="3" unit_topic="tm_topic_default_unit" position="2" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt786ab5fqzzl14vp5z2mn" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" position="3" unit="Stück" plural="Ingwer (3 cm)"/>
+      <CustomRecipeIngredient topic="tmt794qf1ff4qhfppwke45" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" unit="g" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt7bzbue1e2jla374cbzx" amount="1" unit_topic="tmt71k9lavq8xsgd6tlive" position="5" unit="Dose" plural="Kichererbsen (400 ml)"/>
+      <CustomRecipeIngredient topic="tmt7c10wx5lftdmdiw8ec7" amount="1" unit_topic="tmt71k9lavq8xsgd6tlive" position="6" unit="Dose" plural="Gemüsemais (300 ml)"/>
+      <CustomRecipeIngredient topic="tmt794qf1aw8hwk36b5e46" amount="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt794qf1ftjavs1u17e45" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt796n3u7xued1f059jffr" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" position="9" unit="TL" plural="Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt796rbc3qh2v11hnenffr" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" unit="g" plural="Sojacreme"/>
+      <CustomRecipeIngredient topic="tmt794qf1b6z83tnhtue46" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" position="13" unit="TL" plural="Paprikapulver"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="cd8ea0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Schalotten und Knoblauch abziehen, würfeln. Ingwer schälen, raspeln. Möhren schälen, klein schneiden. Kichererbsen, Mais abtropfen. 4 EL Öl in einem Topf erhitzen. Möhren, Schalotten, Ingwer und Knoblauch darin andünsten. Mit Brühe ablöschen. Je die Hälfte Kichererbsen und Mais zugeben. Mit Kurkuma, Salz und Pfeffer würzen. 15 Min. köcheln. Im Mixer pürieren. 100 g Sojacreme einrühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="cd8eb7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Übrige Kichererbsen und übrigen Mais in einer Pfanne in 1 EL Öl leicht braun braten. Salzen, pfeffern, mit Paprikapulver abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="cd8ec4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Suppe aufkochen, abschmecken, in Schälchen anrichten. 100 g Sojacreme auf die Suppen träufeln, dekorativ verziehen. Gebratene Kichererbsen und Mais darauf verteilen. Evtl. garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">PhotoCuisine / Studio</ImageCredit>
+      <DocumentRef doc_id="doc74qu7y9av3mxmdb6bs5" file_variant="master" position="1">Karottensuppe mit Ingwer, Mais, Kichererbsen und Gew rzen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k2wifnqw13kcb4cpz" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:46:53+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k2wa9zfda3kx9cpz"/>
+      <hash>ae299d8fd0a064540fa1d925b93095a2</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:46:53+02:00</modified>
+      <size>5408</size>
+      <subpath>2020/08-27/a4/b9/file7c2k2wifnqw13kcb4cpz.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k2wgynns105p11cpz" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:46:53+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k2wa9zfda3kx9cpz"/>
+      <hash>de37994d2da2db36f3bd851128dfac0b</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:46:53+02:00</modified>
+      <size>433</size>
+      <subpath>2020/08-27/8f/24/file7c2k2wgynns105p11cpz.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

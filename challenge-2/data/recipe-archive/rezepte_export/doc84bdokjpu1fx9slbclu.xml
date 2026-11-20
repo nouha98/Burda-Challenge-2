@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84bdokjpu1fx9slbclu" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-27T14:12:34+01:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2026-01-27T15:29:14+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnpfffjjldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <SubHeadline position="1">Spinat-Grapefruit-Smoothie 14499289</SubHeadline>
+    <CustomRecipeNoteInformation position="1">Für 4 Gläser (à ca. 250 ml)</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">70</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">16</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Spinat-Grapefruit-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-27T14:12:34+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Baby-Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6461" position="2" amount="1" plural="Gurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6381" position="3" amount="2" plural="Grapefruit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="4" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ingwer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Spinat verlesen, waschen und abtropfen lassen. Ein paar Blätter zum Garnieren beiseite legen. Gurke waschen, putzen und in Scheiben teilen. Grapefruits schälen, Fruchtfleisch klein schneiden. Ingwer schälen, in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6978bad986ec3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Vorbereitete Zutaten mit ca. 200 ml Wasser im Mixer cremig pürieren. Smoothie in Gläser füllen, mit übrigem Spinat garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Spinat-Grapefruit-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Bergmann, Meike</ImageCredit>
+      <DocumentRef doc_id="doc83yjxm1ij881iyq7xbo9" file_variant="master" position="1">Spinat-Grapefruit-Smoothie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

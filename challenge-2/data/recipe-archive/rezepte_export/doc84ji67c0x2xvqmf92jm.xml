@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84ji67c0x2xvqmf92jm" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-12T09:42:15+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-12T09:55:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buchweizensalat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Buchweizen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"kleiner Bund Petersilie oder andere Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Chilipulver","unit":{"name":"(Keine Einheit)"},"prefix":"1 große Prise","suffix":"z.B.: Piment d´Espelette"},{"amount":50,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Buchweizen mehrmals mit klarem Wasser abspülen, dann für ca. 15 Minuten in einem Topf mit 3 Liter Wasser und etwas Salz, weich, jedoch mit leichtem Biss garen. Das Wasser abschütten und den Buchweizen über einem Sieb mit kaltem Wasser gut abspülen."},{"headline":null,"content":"Die Zucchini längs Vierteln oder sechsteln und in 1 cm Stücke schneiden. Die Möhre schälen und fein würfeln oder raspeln. Die Petersilie ohne Stiel fein hacken. Buchweizen mit dem Gemüse und den Kräutern in einer Schüssel verrühren."},{"headline":null,"content":"Den Saft der Zitrone auspressen und den Knoblauch schälen und pressen. Zitronensaft mit Salz, Chilipulver und Olivenöl zu einem sämigen Dressing verrühren."},{"headline":null,"content":"Den Salat kurz vor dem Servieren mit dem Dressing verrühren und den Feta darüber bröseln. Optional nochmals etwas Olivenöl und Chilipulver darüber streuen."}],"recipe_tips":[{"headline":"Kräuter","content":"Hast du viele frische Kräuter, darfst du natürlich auch Dill, Sauerampfer, Schnittlauch, Ruccola usw. fein hacken und unter den Salat mischen."}]}</CustomStructuredRecipeJson>
+    <Title>Buchweizensalat</Title>
+    <Headline position="1">Buchweizensalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-12T09:42:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84ji63sjgg11eco5s2jm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5186" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buchweizen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zucchini" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kirschtomaten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" position="6" suffix="(oder andere Kräuter; kleines Bund)" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5366" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="z.B.: Piment d´Espelette" plural="Chilipulver" position="9" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feta" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84ji67c0ko11jlei82jm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Buchweizen mehrmals mit klarem Wasser abspülen. Dann für ca. 15 Minuten in einem Topf mit 3 Liter Wasser und etwas Salz weich, jedoch mit leichtem Biss, garen. Das Wasser abschütten und den Buchweizen über einem Sieb mit kaltem Wasser gut abspülen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ji67c0rqvx2izp2jm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Zucchini waschen, putzen, längs vierteln oder sechsteln und in 1 cm große Stücke schneiden. Die Kirschtomaten waschen und halbieren. Die Möhre schälen und fein würfeln oder raspeln. Die Petersilie waschen, trockenschütteln, die Blätter vom Stiel zupfen und die Blätter fein hacken. Den Buchweizen mit dem Gemüse und den Kräutern in einer Schüssel verrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ji67c0rvbnord32jm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Saft der Zitrone auspressen. Den Knoblauch schälen und pressen. Zitronensaft mit Salz, Chilipulver und Olivenöl zu einem sämigen Dressing verrühren. Den Salat kurz vor dem Servieren mit dem Dressing verrühren. Den Feta darüber bröseln. Optional nochmals etwas Olivenöl und Chilipulver über den Salat streuen. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84ji67c0s1wgc75p2jm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Hast du viele frische Kräuter, darfst du natürlich auch Dill, Sauerampfer, Schnittlauch, Rucola usw. fein hacken und unter den Salat mischen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kräuter</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417muwvw1w9doendp9" file_variant="master" position="1">Buchweizensalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_698d9560c8476">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417ml02csn19pn4idp8" file_variant="master" position="1">Buchweizensalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_698d9562321a3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417msgs07d7yondehd" file_variant="master" position="1">Buchweizensalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_698d956392862">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8417mp09egm97vgedp8" file_variant="master" position="1">Buchweizensalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

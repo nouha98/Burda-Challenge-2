@@ -1,0 +1,33 @@
+das schmeckt! – Ergänzende Anforderungen
+
+Die HTML-Datei zeigt das gewünschte Ergebnis. Zusätzlich gilt:
+
+- Einsatz: Im Hackathon werden Trends recherchiert. Wie das geschieht,
+  bleibt den Teilnehmenden überlassen. Ausgewählte oder erstellte Rezepte
+  werden an das HTML-Template übergeben und entsprechend der HTML-Vorlage
+  dargestellt.
+- Wiederverwendbarkeit: Die Vorlage muss unterschiedliche Archivrezepte im
+  Format der beiliegenden XML-Datei aufnehmen, nicht nur das Lachsbeispiel.
+  Zutaten- und Schrittanzahl sowie Textlängen sind variabel.
+- Inhaltstreue: Zutaten, Mengen, Einheiten, Zeiten und Zubereitung vollständig
+  übernehmen; nichts erfinden, automatisch umrechnen oder zur Platzersparnis
+  kürzen. Fehlende optionale Angaben dürfen entfallen. Einen fehlenden
+  Nährwertbezug nicht als „pro Portion“ interpretieren.
+- Bildzuordnung: Im Hackathon generierte Bilder müssen zusätzlich zum
+  jeweiligen Rezept übergeben und im Template dargestellt werden können.
+- Umfang: Möglichst eine DIN-A4-Seite je Rezept. Lange Zubereitungen dürfen
+  auf zwei oder drei Seiten laufen; bei Bedarf weiter, ohne Inhalte zu
+  verlieren. Lesbare Schrift beibehalten. Schritte möglichst zusammenhalten;
+  überlange Schritte sinnvoll teilen. Jede Folgeseite braucht Kopfzeile,
+  Rezeptzuordnung, Fußzeile und korrekte Seitenzählung.
+
+Hinweise zum Beispiel
+
+- Das Bild ist ein Beispielbild. Die Nährwert-Bezugsmenge fehlt im Archivdatensatz.
+- Die Rezeptdaten werden aus der beiliegenden XML-Datei ausgelesen und
+  zusammen mit dem Bild in die HTML-Vorlage eingesetzt.
+- Das HTML zeigt das aus der XML-Datei erzeugte Beispiel. Logo und
+  Beispielbild sind in der HTML-Datei eingebettet.
+- Druck: A4, 100 %, keine Ränder, zusätzliche Browser-Kopf-/Fußzeilen aus.
+  Seitenaufteilung und PDF-Druckprobe sind geprüft; der tatsächliche
+  Browserdruck der aktuellen Fassung ist noch nicht abschließend verifiziert.

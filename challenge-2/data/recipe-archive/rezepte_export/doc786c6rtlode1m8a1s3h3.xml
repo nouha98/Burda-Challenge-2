@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786c6rtlode1m8a1s3h3" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T18:19:33+01:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2024-12-03T10:00:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="6"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt789qccd71ewy1bqne88"/>
+    <CustomCenshareId>435051</CustomCenshareId>
+    <Title position="1">Gewürz-Glühwein</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareRecipeRelationshipParentOf>520252</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Gewürz-Glühwein</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T23:40:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="440af5">
+      <CustomRecipeIngredient topic="tmt782lpzvcmc4141jwo8gz" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="700" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z.B. Lemberger oder Zweigelt)"/>
+      <CustomRecipeIngredient topic="tmt782q7ronweh8qtgr8gz" amount="2" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt7869nzokqtsaphhtavd" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8511" amount="6" unit_topic="tm_topic_default_unit" suffix="(Bio)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="440b5d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Rotwein mit Zimtstange, Gewürznelken, Sternanis und braunem Zucker ca. 10 Minuten erhitzen (nicht kochen!). Gewürze entfernen, nach Belieben etwas braunen Rum dazugeben. In jedes Glas eine Orangenscheibe geben und mit Glühwein aufgießen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="440b42">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Alkoholfrei</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Rotwein durch Kirsch-, Apfel- oder Traubensaft ersetzen und mit Orangensaft abschmecken.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mulled wine and spices on wooden background. Selective focus.; Shutterstock ID 144872518</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Magdalena Kucova</ImageCredit>
+      <DocumentRef doc_id="doc7a6rsc6tf4g1ghpvb94m" file_variant="master" position="1">Glühwein_Shutterstock-144872518-HighRes</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2slh2dbr3kwj1bn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:40:52+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_435051</displayname>
+      <doc_id id="doc786c6rtlode1m8a1s3h3"/>
+      <hash>228fbffc8f50e009c50aec99a6b1d783</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:40:52+01:00</modified>
+      <size>2666</size>
+      <subpath>2019/12-07/70/8d/file78b2slh2dbr3kwj1bn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

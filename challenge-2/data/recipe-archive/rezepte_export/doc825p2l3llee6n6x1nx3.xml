@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825p2l3llee6n6x1nx3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T10:42:34+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-29T10:48:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schoko Milchshake","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":"(alt. 4 EL Kakaopulver)"},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Schokoladeneis","unit":{"name":"g"},"prefix":"Ca.","suffix":"(entspricht ca. 4 Kugeln)"},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schokoladensauce","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben fertige","suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Milch, Kakao, Zucker und Schokoladeneis in ein hohes Gefäß geben. Mit dem Stabmixer 1 Minute zu einem sämigen Shake pürieren. Auf die vorbereiteten Gläser (á 250 ml) verteilen."},{"headline":null,"content":"Schlagsahne steif schlagen und auf die Gläser verteilen. Nach Belieben mit Schokoladensauce und/oder Schokoraspeln bestreuen und direkt servieren."}],"recipe_tips":[{"headline":"Nur Kakaopulver zu Hause?","content":"Einfach die doppelte Menge (4 EL) Kakaopulver statt Backkakao verwenden. Auf den Zucker kannst du dann verzichten, dieser ist im Kakaopulver schon enthalten."}]}</CustomStructuredRecipeJson>
+    <Title>Schoko Milchshake</Title>
+    <Headline position="1">Schoko Milchshake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T10:42:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825p2jk8kdl13n6x3nx3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9801" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." suffix="(entspricht ca. 4 Kugeln)" plural="Schokoladeneis" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9836" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben fertige" suffix="zum Garnieren" position="6" plural="Schokosauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(alt. 4 EL Kakaopulver)" plural="Backkakao" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825p2l3lkja18jnr0nx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch, Kakao, Zucker und Schokoladeneis in ein hohes Gefäß geben. Mit dem Stabmixer 1 Minute zu einem sämigen Shake pürieren. Auf die vorbereiteten Gläser (á 250 ml) verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825p2l3lkpzile29nx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schlagsahne steif schlagen und auf die Gläser verteilen. Nach Belieben mit Schokoladensauce und/oder Schokoraspeln bestreuen und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="825p2l3lktu15kszcnx3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Einfach die doppelte Menge (4 EL) Kakaopulver statt Backkakao verwenden. Auf den Zucker kannst du dann verzichten, dieser ist im Kakaopulver schon enthalten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Nur Kakaopulver zu Hause?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mra6mvagko098bfu0" file_variant="master" position="1">Schoko_Milchshake_20460.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b1694cba530">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mra3ljesj9xi7wftj" file_variant="master" position="1">Schoko_Milchshake_20051.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b1694dc847f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mra57jhhuzxob3fun" file_variant="master" position="1">Schoko_Milchshake_20453.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

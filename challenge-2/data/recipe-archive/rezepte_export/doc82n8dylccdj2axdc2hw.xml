@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82n8dylccdj2axdc2hw" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-02T13:49:07+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-02T13:56:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Farmersalat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10},{"name":"Ruhen/Warten","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Sellerieknolle","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 400g)"},{"amount":2,"amountTo":3,"ingredient_name":"mittelgroße Möhren","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Äpfel","unit":{"name":"Stück"},"prefix":null,"suffix":"(Sorte z.B. Elstar oder Topaz)"},{"amount":150,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(3,5 %)"},{"amount":2,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"gemahlener weißer Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":"Saft von","suffix":null}]}],"preparation":[{"headline":null,"content":"Die Sellerieknolle halbieren und mit einem großen Küchenmesser schälen. Die Hälften über einen Hobel ziehen und dann in feine Streifen schneiden oder hobeln."},{"headline":null,"content":"Die Möhren schälen und ebenso in feine Streifen hobeln."},{"headline":null,"content":"Die Äpfel mit Schale in feine Streifen hobeln oder schneiden."},{"headline":null,"content":"Joghurt und Mayonnaise mit Sahne in einer Schüssel verrühren, Salz und Pfeffer dazu rühren und zuletzt den Zitronensaft dazugeben."},{"headline":null,"content":"Den Salat mit der crèmigen Sauce verrühren und mit den Händen leicht verkneten und mindestens 2 Stunden im Kühlschrank ziehen lassen."}],"recipe_tips":[{"headline":"Ergänze den Salat","content":"Ergänze den Salat noch durch feingeschnittenen Weißkohl und genieße ihn zu Steak, Ofenkartoffel oder zur Brotzeit."}]}</CustomStructuredRecipeJson>
+    <Title>Farmersalat</Title>
+    <Headline position="1">Farmersalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-02T13:49:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82n8dw4c1t313e4xz2hw">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10031" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 400g)" plural="Sellerieknolle" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="2" max_amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="2" prefix="mittelgroße" plural="Möhren" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" max_amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Sorte z.B. Elstar oder Topaz)" plural="Äpfel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(3,5 %)" plural="Joghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mayonnaise" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" prefix="weißer" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Saft von" plural="Zitronen" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82n8dylbwc17oxsr2hw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sellerieknolle halbieren und mit einem großen Küchenmesser schälen. Die Hälften über einen Hobel ziehen und dann in feine Streifen schneiden oder hobeln. Die Möhren schälen und ebenso in feine Streifen hobeln. Die Äpfel mit Schale in feine Streifen hobeln oder schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82n8dylc0hw18rojl2hw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Joghurt und Mayonnaise mit Sahne in einer Schüssel verrühren, Salz und Pfeffer dazu rühren und zuletzt den Zitronensaft dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82n8dylc0lw8mg9k2hw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Den Salat mit der cremigen Sauce verrühren und mit den Händen leicht verkneten und mindestens 2 Stunden im Kühlschrank ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82n8dylc0qc10efpe2hw">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du einen Farmersalat wie vom Metzger zaubern willst, ist unser Grundrezept genau richtig. Soll er besonders fruchtig werden, nehme noch ca. 200 g abgetropfte Ananas-Stücke aus der Dose, schneide sie klein und hebe sie unter den fertigen Salat.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Farmersalat wie vom Metzger</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68de67a762a72">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ergänze den Salat noch durch feingeschnittenen Weißkohl und genieße ihn z.B. zu Steak, Ofenkartoffeln oder zu einer Brotzeit. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Farmersalat mit Weißkohl</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_3_68de67b97404f">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer keinen Gemüsehobel hat oder keinen passenden Einsatz um dünne Streifen zu raspeln, hobelt oder schneidet das Gemüse und die Äpfel am besten zunächst in schmale Scheiben. Anschließend die Scheiben mit einem Messer in dünne Streifen schneiden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kein Gemüsehobel</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 3</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjwxqq3he5cfxq123w" file_variant="master" position="1">Farmersalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68de68648c770">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjwrm3ot5aboxg11cm" file_variant="master" position="1">Farmersalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68de68662a2a9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjwuhaeb6rmdgn123w" file_variant="master" position="1">Farmersalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68de6867a75a1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjwn6j4291akqaf10az" file_variant="master" position="1">Farmersalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

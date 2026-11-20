@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87xus3n2qg01htz4czn2" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-08T13:31:19+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-10-08T14:00:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqq8a45undo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <Source topic="tmt87xv5ejdsw71cm5rm11jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hokkaido-Quiche","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Ruhen/Warten","duration":60}],"difficulty":null,"price":null,"nutritions":{"calories":555,"kilojoule":2323,"carbonhydrates":40,"fat":35,"protein":20,"breadunit":3}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"und etwas Mehl für die Form"},{"amount":110,"amountTo":null,"ingredient_name":"Quark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":"und etwas Butter für die Form"},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Hokkaido-Kürbis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Kochsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Oreganozweige","unit":{"name":"Zweig"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl, Quark, Butter und das Eigelb in einer Küchenmaschine zu einem geschmeidigen Teig verkneten. Teig in Frischhaltefolie wickeln und im Kühlschrank 60 Minuten ruhen lassen."},{"headline":null,"content":"Kürbis waschen, vierteln, Kerne entfernen. Kürbis in dünne Spalten schneiden."},{"headline":null,"content":"Milch, Kochsahne und die Eier kräftig verrühren. Zwiebel abziehen und klein würfeln. Parmesan fein reiben."},{"headline":null,"content":"Öl erhitzen, Zwiebelwürfel darin andünsten."},{"headline":null,"content":"Tarteform fetten und mit Mehl bestäuben. Teig etwas größer als die Form ausrollen und die Form damit auslegen."},{"headline":null,"content":"Mit den Kürbisspalten bedecken. Zwiebeln und geriebenen Käse darauf verteilen. Eiermischung darübergießen. Oregano darauf verteilen."},{"headline":null,"content":"Quiche im Garkorb des Airfryers bei 170 Grad goldbraun backen."}],"recipe_tips":[{"headline":null,"content":"Lässt sich gut vorbereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Hokkaido-Quiche</Title>
+    <CustomRecipeNutritionalValueCalories position="1">555</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2323</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">35</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">20</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Hokkaido-Quiche (Airfryer)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-08T13:31:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87xus5z7iptseqcr14kn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und etwas Mehl für die Form" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="110" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Quark" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und etwas Butter für die Form" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eigelb" position="4"/>
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hokkaido-Kürbise" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt7fu35st9dd3uj9mg383" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kochsahne" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe M)" plural="Eier" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Parmesan" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="11"/>
+      <CustomRecipeIngredient topic="tmt85m18zqfm2wx2shidtg" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Oreganozweige" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87xus9rt4mee8rir14kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, Quark, Butter und das Eigelb in einer Küchenmaschine zu einem geschmeidigen Teig verkneten. Teig in Frischhaltefolie wickeln und im Kühlschrank 60 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xus9rt4wpum61914kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Kürbis waschen, vierteln, Kerne entfernen. Kürbis in dünne Spalten schneiden. Milch, Kochsahne und die Eier kräftig verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xus9rt51e1k370414kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zwiebel abziehen und klein würfeln. Parmesan fein reiben. Öl erhitzen, Zwiebelwürfel darin andünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xus9rt55l17wozj14kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Airfryergerechte Tarteform fetten und mit Mehl bestäuben. Teig etwas größer als die Form ausrollen und die Form damit auslegen. Mit den Kürbisspalten bedecken. Zwiebeln und geriebenen Käse darauf verteilen. Eiermischung darübergießen. Oregano darauf verteilen. Quiche im Garkorb des Airfryers bei 170 Grad 25-30 Minuten goldbraun backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87xus9rt5oyymx0f14kn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>ERSTVERÖFFENTLICHUNG in: LaG 11/2015, Seite 54 VERÖFFENTLICHT in: MFI book 11/2017, Kürbis LK 10/2019, Vorschau LK 11/2019</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Thorsten Suedfels</ImageCredit>
+      <DocumentRef doc_id="doc7alzfcgvjlgpkfiko60" file_variant="master" position="1">hokkaido_quiche_0168 V V Cover</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

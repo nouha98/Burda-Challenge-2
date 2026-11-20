@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83bsu2cbkv71ldz19k3e" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-19T08:21:24+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-19T08:27:44+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Garnelen-Marinade","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":10,"amountTo":null,"ingredient_name":"Riesengarnelen","unit":{"name":"Stück"},"prefix":null,"suffix":"geschält"},{"amount":100,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":8,"ingredient_name":"Thymian","unit":{"name":"Zweig"},"prefix":null,"suffix":"oder 1 TL getrockneter Thymian"},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Cayenne","unit":{"name":"Prise"},"prefix":null,"suffix":"oder Piment d´Espelette"}]}],"preparation":[{"headline":null,"content":"Die Knoblauchzehen schälen und fein hacken oder pressen. Den Thymian vom Stängel abzupfen."},{"headline":null,"content":"Von der Zitrone die Schale fein abreiben und den Saft auspressen."},{"headline":null,"content":"Alle Zutaten miteinander vermengen und die Garnelen darin für ca. 30 Minuten einlegen."},{"headline":null,"content":"Eine Pfanne erhitzen und die Garnelen mit der Marinade in die heiße Pfanne geben und für ca. 2 Minuten pro Seite braten."}],"recipe_tips":[{"headline":"Solltest du die Garnelen grillen…","content":".. werden die Garnelen nur leicht mit Öl eingepinselt und nach dem Grillen in die Marinade gelegt. Dazu schmeckt frisch gebackenes Baguette oder Ciabatta richtig lecker."}]}</CustomStructuredRecipeJson>
+    <Title>Garnelen-Marinade</Title>
+    <Headline position="1">Garnelen-Marinade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-19T08:21:24+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83bsu0z7xpcrk9sck3e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9151" amount="10" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="geschält" plural="Riesengarnelen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="4" max_amount="8" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" suffix="oder 1 TL getrockneter Thymian" plural="Thymian" position="3" amount_max="8"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="oder Piment d´Espelette" position="6" amount="1" plural="Cayennepfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83bsu2cbc6wl7wlok3e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Knoblauchzehen schälen und fein hacken oder pressen. Den Thymian vom Stängel abzupfen. Von der Zitrone die Schale fein abreiben und den Saft auspressen. Alle Zutaten für die Marinade verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Marinade </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83bsu2cbe75nviudk3e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Garnelen in einen tiefen Teller legen. Mit der Marinade vermengen und für ca. 30 Minuten einlegen. Eine Pfanne erhitzen und die Garnelen mit der Marinade in die heiße Pfanne geben. Für ca. 2 Minuten pro Seite braten. Aus der Pfanne nehmen und servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83bsu2cbeix19ldick3e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">.. werden die Garnelen nur leicht mit Öl eingepinselt und nach dem Grillen in die Marinade gelegt. Dazu schmeckt frisch gebackenes Baguette oder Ciabatta richtig lecker.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Solltest du die Garnelen grillen…</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0rcjizmmlr9wm87" file_variant="master" position="1">Garnelen-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691d716c65349">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0t96w9xzxcsam7c" file_variant="master" position="1">Garnelen-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691d716dd656f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0pxe5b8wj4sbm8e" file_variant="master" position="1">Garnelen-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691d716f37763">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms0ngaype1ewtz7m7f" file_variant="master" position="1">Garnelen-Marinade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

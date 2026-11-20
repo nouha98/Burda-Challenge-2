@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8885sabxsiuoazyzufc" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-28T13:53:16+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-10-28T13:57:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <Source topic="tmt8885u8q0h2c1df309ugp"/>
+    <CustomRecipeNutritionalValueCalories position="1">510</CustomRecipeNutritionalValueCalories>
+    <Headline position="1">Herbstliche Pizza mit Birnen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-28T13:53:16+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6626" position="1" amount="0.5" unit_topic="tmt7domm3x9duhskfqwfif" unit="Würfel" plural="Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="3" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="4" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" position="6" amount="4" plural="Birnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="7" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="8" amount="2" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" position="9" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Crème fraîche"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6341" position="10" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Gorgonzola"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8911" position="11" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="aus dem Glas" plural="Preiselbeeren"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hefe, Zucker in ca. 200 ml lauwarmem Wasser auflösen. Mit Mehl, 2 EL Öl, 1 TL Salz glatt verkneten. Ca. 30 Min. zugedeckt gehen lassen. Birnen halbieren, entkernen, in feine 
+Spalten schneiden. Mit Zitronensaft beträufeln. Zwiebeln abziehen, in Ringe schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ae1f0e5d602b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Teig zu 8 kleinen, dünnen Fladen ausrollen. Mit 2 EL Öl bepinseln. Mit Crème fraîche bestreichen, schmalen Rand frei lassen. Birnen, Gorgonzola, Zwiebeln, Beeren darauf verteilen. Auf dem heißen Grill bei geschlossenem Deckel ca. 10 Min. goldbraun grillen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Den Teig mindestens zehn Minuten kneten</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Winterpizza mit Birnen, Blauschimmelk?se und roten Zwiebeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Kompanik, Hannah</ImageCredit>
+      <DocumentRef doc_id="doc71e4ij0gcrb3ulwgj9l" file_variant="master" position="1">Winterpizza mit Birnen, Blauschimmelk?se und roten Zwiebeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

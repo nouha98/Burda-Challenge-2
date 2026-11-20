@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82p6kasfp4yg2p8wqiz" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-06T08:52:11+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-06T08:59:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kohlrabi Carpaccio","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kohlrabi","unit":{"name":"Stück"},"prefix":"kleine","suffix":"(à ca. 200 g)"},{"amount":null,"amountTo":null,"ingredient_name":"Meersalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"frisch gemahlener","suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Pinienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"(37 % Fett i.Tr.)"}]}],"preparation":[{"headline":null,"content":"Kohlrabi waschen, abtropfen lassen und die feinen Blätter beiseitelegen. Kohlrabiknolle schälen, mit Hilfe eines Hobels oder mit dem Messer in dünne Scheiben schneiden, in eine Schüssel geben und mit ½ TL Salz vermengen."},{"headline":null,"content":"Schnittlauch waschen, abtropfen lassen und in feine Ringe schneiden. Zitrone heiß abwaschen, trocken tupfen, die Schale fein abreiben und den Saft auspressen. Zitronensaft mit 2 EL Olivenöl glattrühren, mit Meersalz und Pfeffer würzen und mit dem Schnittlauch verrühren."},{"headline":null,"content":"Eine kleine Pfanne erhitzen, Pinienkerne zugeben, 2-3 Minuten goldbraun rösten und auf einem Teller auskühlen lassen. Parmesan mit einem Sparschäler dünn hobeln."},{"headline":null,"content":"Kohlrabischeiben abtropfen lassen. 2 Teller mit dem restlichen Olivenöl bestreichen, pfeffern und mit den Kohlrabischeiben belegen."},{"headline":null,"content":"Kohlrabiblätter auf dem Carpaccio verteilen, mit der Vinaigrette beträufeln und mit gehobeltem Parmesan, Zitronenabrieb und gerösteten Pinienkernen bestreut servieren."}],"recipe_tips":[{"headline":"Apfel und Rauchfisch","content":"Serviere das Carpaccio mit hauchdünn geschnittenen Apfelscheiben und geräuchertem Fisch wie Forelle, Lachs oder Aal."}]}</CustomStructuredRecipeJson>
+    <Title>Kohlrabi Carpaccio</Title>
+    <Headline position="1">Kohlrabi Carpaccio</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-06T08:52:11+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82p6k7lck4o16535yqiz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" suffix="(à ca. 200 g)" plural="Kohlrabi" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8116" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Meersalz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schnittlauch" position="3" prefix="etwas" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch gemahlener" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pinienkerne" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(37 % Fett i.Tr.)" plural="Parmesan" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82p6kasfg3bj0tvdqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kohlrabi waschen, abtropfen lassen und die feinen Blätter beiseitelegen. Kohlrabiknolle schälen, mit Hilfe eines Hobels oder mit dem Messer in dünne Scheiben schneiden, in eine Schüssel geben und mit ½ TL Salz vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6kasfji1ygh7dqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schnittlauch waschen, abtropfen lassen und in feine Ringe schneiden. Zitrone heiß abwaschen, trocken tupfen, die Schale fein abreiben und den Saft auspressen. Zitronensaft mit 2 EL Olivenöl glattrühren, mit Meersalz und Pfeffer würzen und mit dem Schnittlauch verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6kasfjo0ygo8vqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eine kleine Pfanne erhitzen, Pinienkerne zugeben, 2-3 Minuten goldbraun rösten und auf einem Teller auskühlen lassen. Parmesan mit einem Sparschäler dünn hobeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6kasfjs5ocnqgqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kohlrabischeiben abtropfen lassen. 2 Teller mit dem restlichen Olivenöl bestreichen, pfeffern und mit den Kohlrabischeiben belegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82p6kasfkltsebtgqiz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Kohlrabiblätter auf dem Carpaccio verteilen, mit der Vinaigrette beträufeln und mit gehobeltem Parmesan, Zitronenabrieb und gerösteten Pinienkernen bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82p6kasfks6mpxcvqiz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Serviere das Carpaccio mit hauchdünn geschnittenen Apfelscheiben und geräuchertem Fisch wie Forelle, Lachs oder Aal.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Apfel und Rauchfisch</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jl6lbtxna1a4yiz11od" file_variant="master" position="1">Kohlrabi-Carpaccio II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e368d77a706">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jl6dt9kjphjpp9nff" file_variant="master" position="1">Kohlrabi-Carpaccio II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e368d957270">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jl6i2hkug99r3m123w" file_variant="master" position="1">Kohlrabi-Carpaccio II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e368db10d74">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jl6h18c69dxnvaozg" file_variant="master" position="1">Kohlrabi-Carpaccio II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

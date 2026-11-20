@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83vxt2pq6p310topc1gt1" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-28T12:58:55+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-12-28T12:58:55+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="10"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gorgonzolasauce","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Gorgonzola","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"eine gute Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"wie z.B.: Schnittlauch oder Petersilie"}]}],"preparation":[{"headline":null,"content":"Den Knoblauch schälen und fein hacken."},{"headline":null,"content":"Den Gorgonzola in Stücke zupfen."},{"headline":null,"content":"Das Butter in einem Topf zerlassen und die gehackte Knoblauchzehe 1 Minute darin andünsten."},{"headline":null,"content":"Das Mehl mit einem Kochlöffel hinzurühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den Käse einrühren bis er geschmolzen ist. Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken."},{"headline":null,"content":"Die Nudeln nach Packungsangabe kochen und mit der Sauce mischen."},{"headline":null,"content":"Die Kräuter fein schneiden und kurz vor dem Servieren über die Nudeln geben."}],"recipe_tips":[{"headline":"Welche Nudeln?","content":"Am besten passen dazu Spaghetti, es passen aber auch Makkaroni oder Penne gut dazu."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Gorgonzolasauce</Headline>
+    <Title>Gorgonzolasauce</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-28T12:58:55+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83vxszbawqrsy4ud1gt1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6341" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Gorgonzola" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="eine gute Prise" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="8"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="wie z.B.: Schnittlauch oder Petersilie" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppr9g225z01gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Knoblauch schälen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppw5x1c7i1g1gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Gorgonzola in Stücke zupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppwad18nxrh1gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Butter in einem Topf zerlassen und die gehackte Knoblauchzehe 1 Minute darin andünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppwde6t1ub1gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Das Mehl mit einem Kochlöffel hinzurühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den Käse einrühren bis er geschmolzen ist. Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppwhkhp1fk1gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die Nudeln nach Packungsangabe kochen und mit der Sauce mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt2ppwlliiz9p1gt1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Die Kräuter fein schneiden und kurz vor dem Servieren über die Nudeln geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83vxt2ppwoyxqqfj1gt1">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Am besten passen dazu Spaghetti, es passen aber auch Makkaroni oder Penne gut dazu.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Welche Nudeln?</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

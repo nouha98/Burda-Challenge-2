@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82k54dl80q8185ajo7e" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-26T13:27:18+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-05T12:55:04+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="540"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitronensorbet","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":540}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Sorbet","ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Glukosesirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronen","unit":{"name":"Stück"},"prefix":null,"suffix":"(Saft und Abrieb, ca. 300 ml)"}]},{"headline":"Zum Servieren","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":"(in Scheiben geschnitten)"},{"amount":null,"amountTo":null,"ingredient_name":"Frische Minzblätter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zucker mit Wasser in einen kleinen Topf geben und sprudelnd aufkochen lassen."},{"headline":null,"content":"Zitronen heiß waschen, den Abrieb in den Sirup geben, halbieren, auspressen und den Zitronensaft ebenfalls in den Sirup geben."},{"headline":null,"content":"Für 3 Minuten simmern lassen. Den Zitronensirup durch ein Sieb schütten und auffangen. Für 2 Stunden auskühlen lassen."},{"headline":null,"content":"In der Zwischenzeit zwei Eiweiße mit einer Prise Salz steif aufschlagen, die Eiweiße zu dem Zitronensirup geben und alles gut mischen."},{"headline":null,"content":"Diese Sorbetmasse in das Gefrierfach geben und für 1 Stunde kühlen."},{"headline":null,"content":"Wer eine Eismaschine besitzt, kann die Mischung jetzt in die Eismaschine geben und lässt sie für 20 Minuten cremig gefrieren, danach umfüllen und nochmals für 6 Stunden besser über Nacht tiefkühlen."},{"headline":null,"content":"Wer keine Eismaschine besitzt, kann die Mischung einfach im Gefrierfach lassen und in den kommenden 5 Stunden ab und an mischen, damit sich die Eiskristalle besser verteilen."},{"headline":null,"content":"Die Zitrone in dünne Scheiben schneiden und auf einem kleinen Teller anrichten. 1-2 Kugeln Sorbet abstechen und mittig darauf portionieren, mit frischer Minze dekorieren."}],"recipe_tips":[{"headline":"Zitronen immer heiß abwaschen","content":"Die Zitronen sind mit einer wachsartigen Schicht behandelt, die sich nur durch heißes Wasser abreiben lässt."}]}</CustomStructuredRecipeJson>
+    <Title>Zitronensorbet</Title>
+    <Headline position="1">Zitronensorbet</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-26T13:27:18+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82k54c29rk8jrgnjo7e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt7gxphkdngxztax1dkun" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Glukosesirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Saft und Abrieb, ca. 300 ml)" plural="Zitronen" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Sorbet</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82k54d0oyoxxtrxno7e">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(in Scheiben geschnitten)" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="einige frische" plural="Minzblätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82k54dl7tauewxiqo7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Zitronensorbet Zucker und Wasser in einen kleinen Topf geben und sprudelnd aufkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82k54dl7w6g1bmev4o7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Währenddessen die Zitronen heiß waschen, trocknen lassen und die Schale mit einer feinen Reibe abreiben. Dann die Zitronen halbieren, auspressen und den Zitronensaft (ca. 300 ml), den Abrieb, sowie den Glukosesirup in den Topf geben. Für 3 Minuten auf niedriger bis mittlerer Stufe köcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82k54dl7wbmlk4oso7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Zitronensirup durch ein Sieb schütten und auffangen. Für 2 Stunden auskühlen lassen. In der Zwischenzeit Eiweiße mit Salz steif aufschlagen. Die Eiweiße zu dem Zitronensirup geben, alles gut vermengen. Die Masse in das Gefrierfach stellen und für 1 Stunde kühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82k54dl7wfasr9pno7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Wer keine Eismaschine besitzt, kann die Mischung einfach im Gefrierfach lassen und diese in den folgenden 5 Stunden ab und an umrühren, damit sich die Eiskristalle besser verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82k54dl7wir17ugd4o7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Zum Servieren die Zitrone waschen, trocknen, in dünne Scheiben schneiden und auf einem kleinen Teller anrichten. 1-2 Kugeln Sorbet abstechen und mittig portionieren. Mit frischer Minze dekorieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82k54dl7wwz2j50wo7e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Zitronen sind mit einer wachsartigen Schicht behandelt, die sich nur durch heißes Wasser abreiben lässt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zitronen immer heiß abwaschen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j2ukwu8hw1jrfke1mnf" file_variant="master" position="1">Zitronensorbet II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e24e5e0ef57">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j2uqx6wbt16s8se1lss" file_variant="master" position="1">Zitronensorbet II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e24e600c718">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j2ush8j2s1211r91mnf" file_variant="master" position="1">Zitronensorbet II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e24e61c2dfb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j2uo27yzcwclcv1mco" file_variant="master" position="1">Zitronensorbet II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

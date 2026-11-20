@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ez8fbgr9kks1ackfyg" dcx-version="6.3.1" version="1.0">
+  <created>2021-03-19T09:04:15+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-27T13:22:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeNutritionalValueCalories position="1">310</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1300</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">46</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">13</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Bärlauchsuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-03-19T09:04:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" position="1" amount="1/2" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="2" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(mehlig kochend)" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="3" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="4" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="5" amount="1,2" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" suffix="(inst.)" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4801" position="6" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Bärlauch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10211" position="7" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(vegan)" plural="Sojasahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" plural="Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">½ Blumenkohl waschen, putzen, in Röschen teilen. 150 g Kartoffeln (mehlig kochend) schälen, waschen und würfeln. 1 Zwiebel abziehen, würfeln. 1 EL Öl erhitzen, Zwiebel darin glasig dünsten.
+Blumenkohl und Kartoffeln zugeben. Mit 1,2 l Gemüsebrühe (inst.) ablöschen, 20 Minuten köcheln. Suppe pürieren. 1 Bund Bärlauch waschen, hacken. Mit 100 g Soja-Sahne (vegan) pürieren, in die Suppe einrühren. Salzen, pfeffern, servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Baerlauchsuppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">EISING STUDIO l FOOD PHOTO &amp; VID</ImageCredit>
+      <DocumentRef doc_id="doc7a6qtsc3rcyutkr494h" file_variant="master" position="1">MFI Griechenland</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82j1tmr0aldoixkff98" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-24T10:28:00+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-06T18:24:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt82j5cm2oebkf660igs2"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Espresso-Bananen-Softeis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":225,"kilojoule":941,"carbonhydrates":31,"fat":12,"protein":2,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"reife Bananen","unit":{"name":"Stück"},"prefix":null,"suffix":"(in Scheiben eingefroren)"},{"amount":150,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Instant-Espressogranulat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Espressopulver","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Die gefrorenen Bananenscheiben mit Crème fraîche, Espressogranulat, Ahornsirup und Salz im Standmixer zu einem cremigen Eis mixen."},{"headline":null,"content":"Eis in den Spritzbeutel füllen. Spiralförmig in Becher spritzen und mit Espressopulver bestreut servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Espresso-Bananen-Softeis</Title>
+    <CustomRecipeNutritionalValueCalories position="1">225</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">941</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">31</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2.6</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Bananen müssen vorab tiefgefroren werden
+Das braucht man: Standmixer, Spritzbeutel mit Lochtülle
+</CustomRecipeNoteInformation>
+    <Headline position="1">Espresso-Bananen-Softeis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-24T10:28:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82j1tqitz4oolhjder6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(in Scheiben eingefroren)" position="1" plural="Bananen" prefix="reife "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Crème fraîche" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="6" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" prefix="Instant-" suffix="granulat" plural="Espressi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt7hmb7mktrbblz1dl2ti" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Bestreuen" plural="Espressopulver" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82j1trongaerhfweer6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die gefrorenen Bananenscheiben mit Crème fraîche, Espressogranulat, Ahornsirup und Salz im Standmixer zu einem cremigen Eis mixen. Eis in den Spritzbeutel füllen. Spiralförmig in Becher spritzen und mit Espressopulver bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc7t430cxxz551dr0r595v" file_variant="master" position="1">LaG_0924_BE_Espresso-Softeis_177.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

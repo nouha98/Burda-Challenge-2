@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82jqds6fhzs98dd22kh" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-25T18:19:55+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-25T18:23:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Curry Dip","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1.5,"amountTo":null,"ingredient_name":"Currypulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":"große","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Joghurt in eine Schüssel geben. Die Knoblauchzehe schälen und fein hacken."},{"headline":null,"content":"Knoblauch, Currypulver, Honig, Salz, Pfeffer und Zimt dazurühren und 5 Minuten ziehen lassen."}],"recipe_tips":[{"headline":"Verwendung zu","content":"Fondue, als Grillsauce, zu Gemüse oder Ofenkartoffel"}]}</CustomStructuredRecipeJson>
+    <Title>Curry Dip</Title>
+    <Headline position="1">Curry Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-25T18:19:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82jqdpxr8kj18axh72kh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Currypulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="große" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82jqds6f3d0mm0ey2kh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Joghurt in eine Schüssel geben. Die Knoblauchzehe schälen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jqds6ff54hla852kh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauch, Currypulver, Honig, Salz, Pfeffer und Zimt dazurühren und 5 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82jqds6ffc3oz10u2kh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Der Curry-Dip passt prima zu Fondue, als Grillsauce, zu Ofengemüse oder Ofenkartoffeln. Du kannst ihn auch mit Baguette und Gemüsesticks als Snack servieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Verwendung des Dips</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j15jg5fvswqa011jub" file_variant="master" position="1">Curry Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68d56c7051e1f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j15dg60abir17h1mco" file_variant="master" position="1">Curry Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68d56c71b72ec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j15ge33e91lxrs91m7z" file_variant="master" position="1">Curry Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68d56c7370d2a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j15mrxmsxxf48eena" file_variant="master" position="1">Curry Dip</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

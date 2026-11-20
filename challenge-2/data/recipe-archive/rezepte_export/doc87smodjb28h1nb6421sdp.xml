@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87smodjb28h1nb6421sdp" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-28T09:27:53+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-09-28T09:31:44+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rupkmxarudo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnk1rdflido5"/>
+    <Source topic="tmt87smq5jjj602dlx81sjh"/>
+    <CustomRecipeNutritionalValueCalories position="1">355</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">10</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">27</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">21</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kiwi-Putensalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-28T09:27:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7366" position="1" amount="1" suffix="(ca. 150 g)" plural="Kopfsalate"/>
+      <CustomRecipeIngredient topic="tmt86pmgfo6b55fmvgzgq8" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Fetakäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7216" position="3" amount="5" suffix="(z.B. grüne und/oder gelbe)" plural="Kiwis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="4" prefix="Saft von 1" plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" position="6" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Weißweinessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="7" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8961" position="10" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geräucherte" plural="Putenbrust"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kopfsalat putzen, waschen und trocken schleudern. Feta abtropfen lassen, würfeln. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6aba1783b49c4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kiwis schälen, 4 Kiwis längs halbieren und in Spalten schneiden. Übrige Kiwi klein schneiden, mit Limettensaft, Olivenöl, Essig und Brühe pürieren, salzen, pfeffern. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6aba179435642">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Geräucherte Putenbrust in mundgerechte Stücke schneiden. Kopfsalatblätter in eine Salatschüssel legen, Putenbrust, Kiwispalten und Feta darauf verteilen. Mit dem Dressing beträufeln und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Cato-Symonds, Shaun</ImageCredit>
+      <DocumentRef doc_id="doc7bv8d7yu9wn1jxwvw1rc" file_variant="master" position="1">Salat mit Kiwi, Feta &amp; ger ucherter Putenbrust</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

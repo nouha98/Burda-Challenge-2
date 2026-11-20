@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ky286gnimo1mvvsuji1" dcx-version="6.3.1" version="1.0">
+  <created>2022-05-11T12:23:43+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-06T15:56:22+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="3"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Headline position="1">Kuckis Kirsch-Shake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-05-11T12:23:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9636" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="tiefgekühlte" plural="Sauerkirschen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt7ky2aavxkowqa9wwl79" position="3" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Kirschnektar"/>
+      <CustomRecipeIngredient topic="tmt7ky2adcnmk113ihi3kq7" position="4" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Aronia"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den gibt es nicht zu kaufen, er ist echt superlecker und dazu fix zubereitet. Und so geht’s: Lasst 300 g tiefgekühlte Sauerkirschen auftauen (in der Kirschzeit könnt ihr natürlich frische Kirschen nehmen, waschen und entsteinen). Gebt diese mit 300 g Naturjoghurt und 100 ml Kirschnektar in einen Mixer und püriert alles so lange, bis ihr einen trinkfähigen Shake ohne größere Stücke habt. Füllt diesen in hohe Gläser, garniert sie eventuell mit Kräuterblättchen (wie Zitronenmelisse), fertig! Noch fruchtiger und röter wird der Shake, wenn ihr zusätzlich noch 1–2 TL Aronia-Pulver (gibt’s im gut sortierten Supermarkt oder Reformhäusern) untermixt.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc7dkfcjgscnbg9gxt1u0" file_variant="master" position="1">Erdbeersmoothie mit Joghurt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

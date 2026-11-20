@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83k3yamzemh148vdnbxu" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-05T12:27:03+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-23T10:18:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Country topic="country-BR" generator="com.digicol.se" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0roz41f4p08do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="tmt828c3lblxnd13w060gcp"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnk1rdflido5"/>
+    <Source topic="tmt83k41umsyqoq26ygbzf"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="480"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <LastEditedBy topic="tmt84hz4j262xe1mvi2g1fxm"/>
+    <Headline position="1">Gegrillte Caipirinha-Hähnchenschenkel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-05T12:27:03+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt807t3j1nw691coxsuevv" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="rote Chilischote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="2" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="3" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Bio-Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5271" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Cachaca"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6531" position="5" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(Ober- und Unterschenkel)" plural="Hähnchenkeulen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="6" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9006" position="9" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Quinoa"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="10" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="11" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" position="12" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Currypulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="13" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Chilischote abbrausen, putzen und in Ringe schneiden. Koriander grob hacken. Limetten waschen, trocken tupfen, die Schale fein abreiben und den Saft auspressen. Beides mit dem Cachaça, Chili und Koriander verrühren. Hähnchenschenkel trocken tupfen und am Gelenk teilen. Mit der Marinade vermengen. Zugedeckt über Nacht im Kühlschrank ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6932c29e59383">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Grill anheizen. Hähnchen aus der Marinade nehmen, trocken tupfen, mit 2 EL Öl bepinseln und mit Salz und Pfeffer würzen. 15–20 Minuten rundherum grillen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6932c2e1500ec">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Quinoa in einem Sieb abbrausen und gut abtropfen lassen. In einem Topf in 2 EL Öl andünsten. Zwiebel und Knoblauch abziehen und würfeln, bzw. fein hacken. Mit in den Topf geben und kurz mitbraten. Mit Curry, Salz und Pfeffer würzen und die Brühe angießen, 15 Minuten gar kochen. Hähnchen auf der Quinoa anrichten und nach Belieben mit Chilisauce servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Morgans, Gareth</ImageCredit>
+      <DocumentRef doc_id="doc7eyd3u4hsntogg9pic3" file_variant="master" position="1">Gegrillte Caipirinha-H hnchenschenkel (Brasilien)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

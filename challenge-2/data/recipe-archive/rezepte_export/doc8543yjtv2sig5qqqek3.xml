@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8543yjtv2sig5qqqek3" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-24T12:08:46+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-24T12:19:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt85443kuj0va1mgq7ceme"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Violette Panna cotta","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":240}],"difficulty":null,"price":null,"nutritions":{"calories":465,"kilojoule":1946,"carbonhydrates":19,"fat":40,"protein":3,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"weiße Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schale von Bio-Limette","unit":{"name":"TL"},"prefix":"abgeriebene","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":45,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gelatine in kaltem Wasser einweichen. Die Vanilleschote längs aufschneiden und das Mark herausschaben. Vanillemark, Limettenschale, 50 g Heidelbeeren, 30 g Zucker und Sahne in einem Topf aufkochen. Vom Herd ziehen. Gelatine gut ausdrücken und in der Heidelbeersahne auflösen."},{"headline":null,"content":"In 4 Förmchen à 150 ml Inhalt füllen. Abkühlen lassen. Mit Frischhaltefolie bedecken. Mindestens 4 Std. in den Kühlschrank stellen."},{"headline":null,"content":"150 g Heidelbeeren mit 50 ml Wasser und 15 g Zucker in einem Topf aufkochen. Stärke mit Limettensaft verrühren. Zu den Heidelbeeren geben und unter Rühren erneut aufkochen. Vollständig abkühlen lassen."},{"headline":null,"content":"Förmchen kurz in heißes Wasser tauchen und stürzen. Evtl. auf Keksen oder runden Mürbeteigböden anrichten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Violette Panna cotta</Title>
+    <CustomRecipeNutritionalValueCalories position="1">465</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1946</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">19</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">40</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">3</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Violette Panna cotta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-24T12:08:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8543yl9vo3o13q6nnqji">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="5" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" position="1" prefix="weiße" plural="Gelatine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="abgeriebene Schale von 1" position="3" plural="Bio-Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Heidelbeeren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="45" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Schlagsahne" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8543ymtwthttaxmhqji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gelatine in kaltem Wasser einweichen. Die Vanilleschote längs aufschneiden und das Mark herausschaben. Vanillemark, Limettenschale, 50 g Heidelbeeren, 30 g Zucker und Sahne in einem Topf aufkochen. Vom Herd ziehen. Gelatine gut ausdrücken und in der Heidelbeersahne auflösen. In 4 Förmchen à 150 ml Inhalt füllen. Abkühlen lassen. Mit Frischhaltefolie bedecken. Mindestens 4 Std. in den Kühlschrank stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8543ymtwxx11chd36qji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">150 g Heidelbeeren mit 50 ml Wasser und 15 g Zucker in einem Topf aufkochen. Stärke mit Limettensaft verrühren. Zu den Heidelbeeren geben und unter Rühren erneut aufkochen. Vollständig abkühlen lassen. Förmchen kurz in heißes Wasser tauchen und stürzen. Evtl. auf Keksen oder runden Mürbeteigböden anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganes Panacotta mit Heidelbeeren und Veilchen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc7y5vd1qz98xkc7w5627" file_variant="master" position="1">Veganes Panacotta mit Heidelbeeren und Veilchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8248kf7dhy0ot46pldu" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-26T14:35:12+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-26T15:07:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tiramisu im Glas ohne Ei","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Kaffee","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":15,"amountTo":null,"ingredient_name":"Löffelbiskuit","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 100g)"},{"amount":2,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kaffee aufkochen und vollständig abkühlen lassen, dann Amaretto einrühren. 6 Dessertgläser (à 125 ml) bereitstellen."},{"headline":null,"content":"Sahne mit den Quirlen des Handrührgeräts cremig-steif schlagen, dann beiseite stellen. Mascarpone mit Puderzucker und Vanilleextrakt auf niedriger Stufe kurz verrühren, damit alles vermischt ist. Dann mit einem Teigspatel oder Schneebesen vorsichtig die Sahne unterheben. Creme in einen großen Spritzbeutel füllen und die Spitze des Beutels etwa 1 cm breit aufschneiden."},{"headline":null,"content":"Ein Drittel der Löffelbiskuit in kleine Stücke brechen und in die Gläser füllen. Mit je 1-2 EL der Kaffeemischung beträufeln. Mithilfe des Spritzbeutels eine dünne Schicht Creme auf die Löffelbiskuitböden spritzen."},{"headline":null,"content":"Jetzt mit dem zweiten Drittel der Löffelbiskuit eine zweite Schicht auf die Creme setzen, mit der Kaffeemischung beträufeln und eine Schicht Creme aufspritzen. Diesen Schritt nochmals wiederholen, mit der Creme abschließen."},{"headline":null,"content":"Creme mit einem Löffel glattstreichen. Backkakao in ein Sieb geben und damit die Desserts bestreuen. Desserts bis zum Servieren kühlstellen, mindestens aber 30 Minuten. Kurz vor dem Servieren gerne nochmal mit Backkakao bestreuen."}],"recipe_tips":[{"headline":"Variante für Kinder","content":"Um dieses Dessert für Kinder zu machen, kannst du die Kaffee-Amaretto-Mischung einfach durch ausgekühlte Trinkschokolade ersetzen."}]}</CustomStructuredRecipeJson>
+    <Title>Tiramisu im Glas ohne Ei</Title>
+    <Headline position="1">Tiramisu im Glas ohne Ei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-26T14:35:12+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8248kd5br6cdqqp6ldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6931" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kaffee" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Amaretto" position="2" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="15" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 100g)" plural="Löffelbiskuits" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8248kf7chms9voagldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kaffee aufkochen und vollständig abkühlen lassen, dann Amaretto einrühren. 6 Dessertgläser (à 125 ml) bereitstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kf7cmbpepw3pldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sahne mit den Quirlen des Handrührgeräts cremig-steif schlagen, dann beiseite stellen. Mascarpone mit Puderzucker und Vanilleextrakt auf niedriger Stufe kurz verrühren, damit alles vermischt ist. Dann mit einem Teigspatel oder Schneebesen vorsichtig die Sahne unterheben. Creme in einen großen Spritzbeutel füllen und die Spitze des Beutels etwa 1 cm breit aufschneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kf7cmghhplr6ldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ein Drittel der Löffelbiskuit in kleine Stücke brechen und in die Gläser füllen. Mit je 1-2 EL der Kaffeemischung beträufeln. Mithilfe des Spritzbeutels eine dünne Schicht Creme auf die Löffelbiskuitböden spritzen. Wieder ein Drittel der Löffelbiskuit auf die Creme setzen. Nochmals wiederholen und mit der restlichen Creme abschließen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kf7cmkm1l6fk4ldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Creme mit einem Löffel glatt streichen. Backkakao in ein Sieb geben und die Desserts damit bestreuen. Desserts mindestens 30 Minuten oder bis zum Servieren kühl stellen. Kurz vor dem Servieren gerne nochmal mit Backkakao bestreuen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kf7cmnl1czee6ldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Creme mit einem Löffel glattstreichen. Backkakao in ein Sieb geben und damit die Desserts bestreuen. Desserts bis zum Servieren kühlstellen, mindestens aber 30 Minuten. Kurz vor dem Servieren gerne nochmal mit Backkakao bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8248kf7cmrdkehkgldu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit die Kleinen naschen dürfen, kannst du die Kaffee-Amaretto-Mischung einfach durch ausgekühlte Trinkschokolade ersetzen. So lecker!
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Variante für Kinder</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mnryl8x8y18bn55bfn" file_variant="master" position="1">TiramisuimGlasohneEiStep.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68adb198b2dd7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mns2z9ntkr8372bfn" file_variant="master" position="1">TiramisuimGlasohneEi2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

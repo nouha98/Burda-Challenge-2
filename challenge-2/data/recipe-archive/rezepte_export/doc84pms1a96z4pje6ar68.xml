@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84pms1a96z4pje6ar68" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-24T07:55:59+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-02-24T08:18:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Chia-Pudding mit Kokosmilch","recipe_seo_headline":"Chia-Pudding mit Kokosmilch – sooo lecker &amp; einfach","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":240}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für den Chia-Kokos-Pudding","ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Chiasamen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Kokosmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für das Mango-Püree","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Mango","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null}]},{"headline":"Für das Topping","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Passionsfrucht","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Kokosraspeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren (optional)"}]}],"preparation":[{"headline":null,"content":"Für den Chia-Pudding mit Kokosmilch die Chiasamen in die Gläser hineingeben, Kokosmilch darüber gießen und gut verrühren. Ahornsirup zufügen und alles sorgfältig mischen, bis eine gleichmäßige Masse entsteht. Die Mischung mindestens 4 Stunden, besser über Nacht, im Kühlschrank quellen lassen. Zwischendurch umrühren, damit die Samen nicht verklumpen."},{"headline":null,"content":"Mango waschen, trocknen, schälen und das Fruchtfleisch vom Kern schneiden. In einem Mixer oder mit einem Pürierstab zu einem feinen Püree verarbeiten. Bei Bedarf mit wenig Ahornsirup nachsüßen. Bis zur Verwendung kühl stellen."},{"headline":null,"content":"Himbeeren waschen und trocken tupfen. Passionsfrucht halbieren und das Fruchtfleisch herauslösen. Den Chia-Pudding aus dem Kühlschrank nehmen und das Mango-Püree darauf verteilen. Mit Himbeeren und Passionsfrucht toppen, anschließend mit Kokosraspeln bestreuen. Direkt genießen oder gut verschlossen bis zu 2 Tage im Kühlschrank aufbewahren."}],"recipe_tips":[{"headline":"Welche Kokosmilch?","content":"Für meinen Chia-Pudding habe ich flüssige Kokosmilch aus dem Tetrapack verwendet – sie lässt sich gut verrühren und sorgt für eine angenehm cremig-leichte Konsistenz. Du kannst aber auch die feste Kokosmilch aus der Dose nehmen, für besonders cremigen Pudding. Dann am besten mit etwas Wasser oder Milch verdünnen!"}]}</CustomStructuredRecipeJson>
+    <Title>Chia-Pudding mit Kokosmilch</Title>
+    <CustomRecipeSeoTitle position="1">Chia-Pudding mit Kokosmilch – sooo lecker &amp; einfach</CustomRecipeSeoTitle>
+    <Headline position="1">Chia-Pudding mit Kokosmilch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-24T07:55:59+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84pmrza17g81jsj7vr68">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Chiasamen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7326" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kokosmilch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Chia-Kokos-Pudding</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84pmrzz5iq815mgyvr68">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="(optional)" plural="Ahornsirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Mangos" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Mango-Püree</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84pms0dprpfl79zgr68">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Himbeeren" position="1" prefix="einige"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8596" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Passionsfrucht" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kokosraspeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren (optional)" plural="Minze" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84pms1a92wyyqh2r68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Chia-Pudding mit Kokosmilch die Chiasamen in die Gläser (à 200 ml) hineingeben, Kokosmilch darüber gießen und gut verrühren. Ahornsirup hinzufügen und alles sorgfältig mischen, bis eine gleichmäßige Masse entsteht. Die Mischung mindestens 4 Stunden, besser über Nacht, im Kühlschrank quellen lassen. Zwischendurch umrühren, damit die Samen nicht verklumpen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84pms1a933nxgcogr68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mango waschen, trocknen, schälen und das Fruchtfleisch vom Kern schneiden. Das Fruchtfleisch in einem Mixer oder mit einem Pürierstab zu einem feinen Püree verarbeiten. Bei Bedarf mit etwas Ahornsirup nachsüßen. Bis zur Verwendung kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84pms1a937te0kq9r68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Himbeeren waschen und trocken tupfen. Passionsfrucht halbieren und das Fruchtfleisch herauslösen. Den Chia-Pudding aus dem Kühlschrank nehmen und das Mango-Püree darauf verteilen. Mit Himbeeren und Passionsfrucht toppen, mit Kokosraspeln bestreuen und nach Wunsch mit einem Minzeblatt garnieren. Direkt genießen oder gut verschlossen bis zu 2 Tage im Kühlschrank aufbewahren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84pms1a93c8728rur68">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für meinen Chia-Pudding habe ich flüssige Kokosmilch aus dem Tetra Pak verwendet – sie lässt sich gut verrühren und sorgt für eine angenehm cremig-leichte Konsistenz. Du kannst aber auch die feste Kokosmilch aus der Dose nehmen, für besonders cremigen Pudding. Dann am besten mit etwas Wasser oder Milch verdünnen!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Welche Kokosmilch?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Leonie Schulz &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc844l97d5yqend58v1wwg" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_699d4d5a54a59">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Leonie Schulz &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc844l9ceyk9e1g3nw6h8j" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_699d4d5bc6e7e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Leonie Schulz &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc844l9308tzclsaa11w2n" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_699d4d5d4bf6f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>einfach kochen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Leonie Schulz &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc844l8ztouy9idd9d1wx6" file_variant="master" position="1">BurdaVerlag Publishing GmbH</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

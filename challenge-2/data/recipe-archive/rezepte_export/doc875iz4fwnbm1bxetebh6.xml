@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc875iz4fwnbm1bxetebh6" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-14T10:21:45+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-08-14T10:43:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt875j8z03w6aavap8bnk"/>
+    <Headline position="1">Lebkuchen-Streifen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-14T10:21:45+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="3" amount="1" prefix="reife" suffix="(ca. 150 g)" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Walnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8466" position="2" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Orangeat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="4" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6706" position="5" amount="0.5" plural="Hirschhornsalz"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" position="6" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="gemahlene Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" position="7" amount="0.25" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Lebkuchengewürz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="8" amount="2" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="9" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="10" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="11" plural="Salz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a7ed13d58bec">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="2" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" position="3" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gehackte" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7176" position="4" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kandierte" plural="Kirschen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Guss</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Teig Walnüsse und Orangeat fein hacken. Banane mit Zitronensaft pürieren. Hirschhornsalz mit 1 EL lauwarmem Wasser glatt rühren. Alles in einer Schüssel mit Mandeln und Lebkuchengewürz mischen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a7ed1876e904">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eier, Zucker, Mehl und eine Prise Salz mit dem Handrührgerät ca. 5 Min. cremig rühren und unter die Bananen-Mischung heben. Teig ca. 30 Min. ruhen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a7ed19992205">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Masse auf ein mit Backpapier belegtes Backblech geben und zu einem 1 cm dicken Rechteck verstreichen. Im heißen Ofen bei 180 °C (Umluft 160 °C, 2. Schiene von unten) 18–20 Min. backen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a7ed1a78fc3c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Guss Puderzucker mit Zitronensaft glatt rühren und sofort auf die noch heiße Lebkuchenplatte streichen. Mit Pistazien bestreuen, mit Kirschen belegen und auf dem Blech vollständig auskühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6a7ed1be1d53a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Lebkuchen in 3 cm breite Streifen schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Weihnachtsplätzchen 2016</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">BERND GÖLLING</ImageCredit>
+      <DocumentRef doc_id="blpbild-4625648" file_variant="master" position="1">bfpreis:40-160C  BSV; </DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

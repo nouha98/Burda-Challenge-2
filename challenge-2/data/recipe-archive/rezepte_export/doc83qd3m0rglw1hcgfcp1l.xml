@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qd3m0rglw1hcgfcp1l" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T16:34:18+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-12-17T17:38:13+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-hbm"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="270"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt83qdx66ta7qcvqi0pg8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer-Mousse","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Kühlen","duration":270},{"name":"Backen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Kekse","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"plus etwas Mehl zum Arbeiten"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für die Mousse","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"gemahlene Gelatine","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null}]},{"headline":"zum Garnieren","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"essbare Rosenblüten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Butter mit Zucker schaumig rühren. Mehl, Backpulver und Kakao mischen. Unter die Buttermasse kneten. Teig in Folie wickeln, ca. 30 Minuten kühl stellen. Backofen auf 180 Grad vorheizen. Teig auf bemehlter Fläche ausrollen, Herzen ausstechen. Auf mit Backpapier belegtem Blech ca. 15 Min. backen. Kekse auskühlen lassen."},{"headline":null,"content":"Gelatine mit 6 EL kaltem Wasser verrühren, 10 Minuten quellen lassen. Himbeeren verlesen. 500 g Himbeeren mit Zucker pürieren und durch ein feines Sieb streichen. ¼ Himbeerpüree erwärmen, Gelatine darin unter Rühren auflösen. Gelatinemischung unter restl. Himbeerpüree rühren. Sobald die Mischung zu gelieren beginnt, Sahne steif schlagen und unterheben. Mousse in Gläser füllen. Übrige Himbeeren mit Vanillezucker pürieren und in den Gläschen auf der Mousse verteilen. Mousse ca. 4 Stunden kühl stellen."},{"headline":null,"content":"Zum Servieren mit Keksen und Rosenblüten garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Himbeer-Mousse</Title>
+    <CustomRecipeSeoTitle position="1">Himbeer-Mousse</CustomRecipeSeoTitle>
+    <Headline position="1">Himbeermousse dekoriert mit Rosenblüten und Herzplätzchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T16:34:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qd3of4dde11fmp4tkc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="plus etwas Mehl zum Arbeiten" plural="Mehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kakaopulver" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Kekse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83qd3qe5wcl1ci68vtkc">
+      <CustomRecipeIngredient topic="tmt80inmgl2xtdtj4fsofv" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="1" plural="gemahlene Gelatine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="750" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Mousse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83qd3sj1egpxkxpxtkc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9301" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Rosenblüte" prefix="essbare" suffix="-blätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Garnieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qd3t578bamgh1otkc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Kekse Butter mit Zucker schaumig rühren. Mehl, Backpulver und Kakao mischen. Unter die Buttermasse kneten. Teig in Folie wickeln, ca. 30 Minuten kühl stellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6942dc0905e3e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad vorheizen. Teig auf bemehlter Fläche ausrollen, Herzen ausstechen. Auf mit Backpapier belegtem Blech ca. 15 Min. backen. Kekse auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qd3t58aq01me6e7tkc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Mousse Gelatine mit 6 EL kaltem Wasser verrühren, 10 Minuten quellen lassen. Himbeeren verlesen. 500 g Himbeeren mit Zucker pürieren und durch ein feines Sieb streichen. ¼ Himbeerpüree erwärmen, Gelatine darin unter Rühren auflösen. Gelatinemischung unter restl. Himbeerpüree rühren. Sobald die Mischung zu gelieren beginnt, Sahne steif schlagen und unterheben. Mousse in Gläser füllen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qd3t58axu7xuq2tkc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Übrige Himbeeren mit Vanillezucker pürieren und in den Gläschen auf der Mousse verteilen. Mousse ca. 4 Stunden kühl stellen. Zum Servieren mit Keksen und Rosenblüten garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Castilho, Rua</ImageCredit>
+      <DocumentRef doc_id="doc739idnmo8d1ar7wxi2q" file_variant="master" position="1">Himbeermousse dekoriert mit Rosenblüten und Herzplätzchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

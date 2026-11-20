@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85nt65gi4cj1aeb6bdog" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-01T21:19:18+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-05-04T08:08:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt85ntaoggmtwtcq3uf14"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hibiskus-Gin-Cocktail","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"getrocknete Hibiskusblüten","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":"(heiß)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Gin","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Tonic Water","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Hibiskusblüten mit ca. 100 ml heißem Wasser überbrühen. Zucker und Limettensaft zugeben und ziehen lassen, dann abkühlen lassen."},{"headline":null,"content":"Hibiskusaufguss mit Gin und einer Handvoll Eiswürfel in einen Shaker geben, kräftig schütteln und in zwei Sektschalen füllen. Mit Tonic Water auffüllen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Hibiskus-Gin-Cocktail</Title>
+    <Headline position="1">Hibiskus-Gin-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-01T21:19:18+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85nt66anxh58bctcikl">
+      <CustomRecipeIngredient topic="tmt82xgl8u2xcptganklc5" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" prefix="getrocknete" plural="Hibiskusblüten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(heiß)" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gin" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10686" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Tonic Water" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85nt67et0sm3140aikl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Hibiskusblüten mit ca. 100 ml heißem Wasser überbrühen. Je 1 EL Zucker und Limettensaft zugeben und ziehen lassen, dann abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85nt67et0znx7i1hikl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Hibiskusaufguss mit Gin und einer Handvoll Eiswürfel in einen Shaker geben, kräftig schütteln und in zwei Sektschalen füllen. Mit Tonic Water auffüllen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Red Lips Cocktail mit Aperol und roten Früchten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Winkelmann, Bernhard</ImageCredit>
+      <DocumentRef doc_id="doc83wxqk7h1ogl14xwieu" file_variant="master" position="1">Red Lips Cocktail mit Aperol und roten Früchten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

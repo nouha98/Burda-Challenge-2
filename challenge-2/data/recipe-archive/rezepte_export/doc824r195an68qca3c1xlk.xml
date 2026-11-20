@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc824r195an68qca3c1xlk" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-27T14:32:52+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-28T13:02:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Brotgewürz selber machen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kümmel","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Anis","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Fenchelsamen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Koriander","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Gewürze zusammen in eine Gewürzmühle oder einen Mörser geben und möglichst fein mahlen. Das Brotgewürz einfach in ein kleines Glas mit Schraubverschluss oder ein Bügelglas abfüllen und luftdicht verschließen."}],"recipe_tips":[{"headline":"Du kannst die Zutaten auch gemahlen kaufen","content":"Natürlich kannst du die verschiedenen Gewürze auch fertig gemahlen kaufen. Allerdings gibt es ein kräftigeres Aroma, wenn du sie selbst mahlst."}]}</CustomStructuredRecipeJson>
+    <Title>Brotgewürz selber machen</Title>
+    <Headline position="1">Brotgewürz selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-27T14:32:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="824r17yn6hy9qvlp1xlk">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7531" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" plural="Kümmelsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4531" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Anis" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5921" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Fenchelsamen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Koriander" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="824r195ahmou25gh1xlk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Gewürze zusammen in eine Gewürzmühle oder einen Mörser geben und möglichst fein mahlen. Das Brotgewürz einfach in ein kleines Glas mit Schraubverschluss oder ein Bügelglas abfüllen und luftdicht verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68b0371929427">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Um ein leckeres Brot daraus zu backen, nimm je nach gewünschtem Aroma 1-2 Esslöffel der fertigen Mischung und gib es zu 500 g Mehl. Bereite dann das Brot ganz normal nach Anleitung zu. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="824r195ahty1l0w4u1xlk">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Natürlich kannst du die verschiedenen Gewürze auch fertig gemahlen kaufen. Allerdings gibt es ein kräftigeres Aroma, wenn du sie selbst mahlst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Du kannst die Zutaten auch gemahlen kaufen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxixnxxf142ibcfti" file_variant="master" position="1">Brotgewuerzselbermachen2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b03729cf396">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxk7m0pe1f2fkvfti" file_variant="master" position="1">Brotgewuerzselbermachen_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b0372c7f937">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxnjt62uu1qkpfps" file_variant="master" position="1">Brotgewuerzselbermachen1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

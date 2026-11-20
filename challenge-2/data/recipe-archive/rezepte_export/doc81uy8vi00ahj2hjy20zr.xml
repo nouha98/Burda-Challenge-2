@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81uy8vi00ahj2hjy20zr" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-08T12:49:04+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-08-08T12:56:26+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrnd13o7kudo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hasenfrühstück","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":1440},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Möhren/Karotten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Äpfel","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 400 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"(walnussgroß)"},{"amount":2,"amountTo":null,"ingredient_name":"Orangen","unit":{"name":"(Keine Einheit)"},"prefix":"Bio","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker 2:1","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schöne Osteretiketts","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Möhren und Äpfel waschen, trocken tupfen und schälen. Ingwer mit einem Teelöffel oder Messer schälen. Möhren, Äpfel und Ingwer über einer Haushaltsreibe grob raspeln und in einen Topf geben. Orangen heiß abwaschen, trocken tupfen und die Schale fein abreiben. Orangen halbieren und auspressen. Zitrone halbieren, ebenfalls auspressen. Saft abmessen und eventuell mit Wasser auf insgesamt 350 ml auffüllen. Saft zu dem Möhrenmix geben. Gelierzucker und Vanillinzucker zugeben und mit einem Kochlöffel vermischen."},{"headline":null,"content":"Zutaten aufkochen und 5 Minuten sprudelnd kochen lassen. Dabei gelegentlich mit dem Kochlöffel umrühren. Topf von der Herdplatte ziehen und die Marmelade einmal durchpürieren. Mit Hilfe einer Schöpfkelle die Marmelade auf vier saubere Gläser (á 250 ml) verteilen. Verschließen und über Nacht festwerden lassen. Mit einem österlichen Etikett verzieren."}],"recipe_tips":[{"headline":"Statt Bio-Orangen","content":"kannst du auch 200 ml Orangen-Direktsaft aus dem Kühlregal verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Hasenfrühstück</Title>
+    <Headline position="1">Hasenfrühstück</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-08T12:49:04+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81uy8u8s0ac1atlbm20zr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(walnussgroß)" plural="Ingwer" position="3" prefix="walnussgroßer"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Karotte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 400 g)" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Bio" position="4" plural="Orangen"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="5"/>
+      <CustomRecipeIngredient topic="tmt80lb3kjewbmoog2j1ybk" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Gelierzucker 2:1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81uy8vhzrsks5k4d20zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Möhren und Äpfel waschen, trocken tupfen und schälen. Ingwer mit einem Teelöffel oder Messer schälen. Möhren, Äpfel und Ingwer über einer Haushaltsreibe grob raspeln und in einen Topf geben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6895d6da3140d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Orangen heiß abwaschen, trocken tupfen und die Schale fein abreiben. Orangen halbieren und auspressen. Zitrone halbieren, ebenfalls auspressen. Saft abmessen und eventuell mit Wasser auf insgesamt 350 ml auffüllen. Saft zu dem Möhrenmix geben. Gelierzucker und Vanillinzucker zugeben und mit einem Kochlöffel vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81uy8vhzv3akl0z120zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zutaten aufkochen und 5 Minuten sprudelnd kochen lassen. Dabei gelegentlich mit dem Kochlöffel umrühren. Topf von der Herdplatte ziehen und die Marmelade einmal durchpürieren. Mit Hilfe einer Schöpfkelle die Marmelade auf vier saubere Gläser (á 250 ml) verteilen. Verschließen und über Nacht festwerden lassen. Mit einem österlichen Etikett verzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81uy8vhzv81133t1x20zr">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch 200 ml Orangen-Direktsaft aus dem Kühlregal verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt Bio-Orangen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6895d77a4af85">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Hasenfrühstück-Marmelade hält sich im verschlossenen Zustand für mindestens 6 Monate.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awo0dd7ef1csc6to4h" file_variant="master" position="1">Hasenfruehstueck_2179.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6895d7d1952b4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awo0d1zbs19vv2qruu" file_variant="master" position="1">Hasenfruehstueck_1908.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6895d7d322759">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awnxfnowl186g9po6w" file_variant="master" position="1">Hasenfruehstueck_1930.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6895d7d5f1b91">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awnxi1q371j53muls7" file_variant="master" position="1">Hasenfruehstueck_2170.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

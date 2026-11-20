@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84tvngl4nsxdol7zm9z" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-04T14:16:48+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-03-04T14:30:05+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buchweizengrütze","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Ruhen/Warten","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Buchweizengrütze","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"pflanzliche Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Buchweizen","unit":{"name":"g"},"prefix":"grob zu Grütze zerkleinert","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für das Topping","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"Filets daraus geschnitten"},{"amount":1,"amountTo":null,"ingredient_name":"gemischte Beeren","unit":{"name":"Handvoll"},"prefix":null,"suffix":"(z. Bsp. Erdbeeren, Himbeeren)"},{"amount":50,"amountTo":null,"ingredient_name":"Walnüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":"Optional","suffix":null}]}],"preparation":[{"headline":"Für die Buchweizengrütze","content":"Den Buchweizen in den Multi Zerkleinerer geben und grob zerkleinern. Die pflanzliche Milch in einem kleinen Topf geben und erhitzen, den grob geschroteten Buchweizen und eine Prise Salz einrühren. Bei schwacher Hitze ca. 15 Minuten köcheln lassen, dabei gelegentlich umrühren, bis die Masse cremig ist und der Buchweizen weich. Kurz vor Ende der Garzeit den Ahornsirup unterrühren. Topf vom Herd nehmen und die Grütze 5 Minuten quellen lassen."},{"headline":null,"content":"Die Orange mit einem scharfen Messer so schälen, dass auch die weiße Haut entfernt ist. Die Filets zwischen den Trennhäuten herausschneiden. Die Beeren waschen und trocknen, die Erdbeeren vierteln. Die Walnüsse grob hacken und in einer Pfanne ohne Fett leicht anrösten, dann auskühlen lassen."},{"headline":null,"content":"Die warme Buchweizengrütze in zwei Schalen füllen. Mit Orangenfilets, Beeren und Walnüssen dekorieren. Optional: mit etwas zusätzlichem Ahornsirup verfeinern."}],"recipe_tips":[{"headline":"Buchweizengrütze fertig kaufen","content":"In gut sortierten Supermärkten bekommt man die Körner schon grob geschrotet zu kaufen, man kann sie jedoch auch gut selbst zerkleinern. Wer keinen Multi Zerkleinerer hat, kann die Körner auch mörsern."}]}</CustomStructuredRecipeJson>
+    <Title>Buchweizengrütze</Title>
+    <CustomRecipeNoteInformation position="1">Du benötigst: Multizerkleinerer, kleiner Topf, Kochlöffel, Messer, Schneidebrett, kleine Pfanne, Küchemesser</CustomRecipeNoteInformation>
+    <Headline position="1">Buchweizengrütze</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-04T14:16:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84tvne8w0fml9di5m9z">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5186" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buchweizen" position="1"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Pflanzenmilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Buchweizengrütze</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84tvnfn5git18nes9m9z">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="Filets daraus geschnitten" plural="Orange" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" suffix="(z. B. Erdbeeren, Himbeeren)" position="2" plural="Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnüsse" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_69a83211d143d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="1" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="nach Belieben" plural="Ahornsirup"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84tvngl483a1fj40am9z">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Buchweizengrütze Buchweizen im Multizerkleinerer grob zerkleinern. Pflanzliche Milch in einem kleinen Topf erhitzen, den grob geschroteten Buchweizen und eine Prise Salz einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84tvngl4ei010ll6lm9z">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Bei schwacher Hitze ca. 15 Minuten köcheln lassen und dabei gelegentlich umrühren, bis die Masse cremig ist und der Buchweizen weich geworden ist. Kurz vor Ende der Garzeit den Ahornsirup unterrühren. Den Topf vom Herd nehmen und die Grütze ca. 5 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84tvngl4en4wspzhm9z">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für das Topping Orange so schälen, dass auch die weiße Haut vollständig entfernt wird. Filets zwischen den Trennhäuten herausschneiden. Beeren waschen, trocknen und Erdbeeren vierteln. Walnüsse grob hacken und ohne Fett in einer Pfanne leicht anrösten, anschließend auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69a832cdcd681">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Warme Buchweizengrütze in zwei Schalen füllen und mit Orangenfilets, Beeren und Walnüssen dekorieren. Optional kann die Grütze mit etwas zusätzlichem Ahornsirup verfeinert werden. Sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84tvngl4eqq4inljm9z">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">In gut sortierten Supermärkten bekommt man die Körner schon grob geschrotet zu kaufen, man kann sie jedoch auch gut selbst zerkleinern. Wer keinen Multizerkleinerer hat kann die Körner auch mörsern. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Buchweizengrütze fertig kaufen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bdm61bc1f1dfs0yl4d" file_variant="master" position="1">Buchweizengrütze II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69a833c997a75">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bdlx7ffn86fw5ql6r" file_variant="master" position="1">Buchweizengrütze II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69a833cbc5365">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bdm37ht8o1gnb5ukmn" file_variant="master" position="1">Buchweizengrütze II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69a833d96a902">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bdluhcbmu213ful62" file_variant="master" position="1">Buchweizengrütze II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69a833dc40f87">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bdm005kbc1wmqal7d" file_variant="master" position="1">Buchweizengrütze II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fxme7u295w6yx729r" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-27T09:24:09+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-27T09:29:51+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Reissuppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Langkornreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Möhren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Hähnchenbrust ohne Haut","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Reis in einem Sieb unter fließendem Wasser spülen, bis das Wasser klar ist (so verliert der Reis die anhaftende Stärke und die Suppe wird feiner)."},{"headline":null,"content":"Möhren, Schnittlauch und Petersilie waschen und abtropfen lassen. Möhren schälen, ca. 1 cm groß würfeln, den Schnittlauch in feine Ringe schneiden und Petersilienblätter zupfen und hacken. Hähnchenbrust abspülen, trocken tupfen und ebenfalls in 1 cm große Würfel schneiden."},{"headline":null,"content":"Möhren, Gemüsebrühe und Wasser in einem großen Topf aufkochen, Reis einrühren und unter gelegentlichen rühren ca. 15 Minuten köcheln lassen. Hähnchenbrustwürfel zugeben, weitere 5 Minuten köcheln lassen und mit Salz und Pfeffer abschmecken."},{"headline":null,"content":"Suppe auf 4 Schalen verteilen und mit Kräutern bestreut servieren."}],"recipe_tips":[{"headline":"Selbstgemachte Gemüsebrühe","content":"Anstelle der Gemüsebrühe kannst Du auch einen Bund Suppengemüse würfeln und mit 1 Liter Wasser und etwas Salz zum Kochen bringen."}]}</CustomStructuredRecipeJson>
+    <Title>Reissuppe</Title>
+    <Headline position="1">Reissuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-27T09:24:09+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fxma5po2c1f2fr29r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7651" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Langkornreis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Möhren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6516" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" suffix="ohne Haut" plural="Hähnchenbrust"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="9" plural="frisch gemahlener Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fxme7tt7m1gy9oh29r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Reis in einem Sieb unter fließendem Wasser spülen, bis das Wasser klar ist (so verliert der Reis die anhaftende Stärke und die Suppe wird feiner). Möhren, Schnittlauch und Petersilie waschen und abtropfen lassen. Möhren schälen, ca. 1 cm groß würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxme7tx1t78zah29r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Schnittlauch in feine Ringe schneiden und die Petersilienblätter vom Stängel zupfen und hacken. Hähnchenbrust mit Küchenpapier trocken tupfen und ebenfalls in 1 cm große Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxme7tx9c12056o29r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Möhren, Gemüsebrühe und Wasser in einem großen Topf aufkochen, Reis einrühren und unter gelegentlichem Rühren ca. 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxme7txep4s84029r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Hähnchenbrustwürfel zugeben, weitere 5 Minuten köcheln lassen und mit Salz und Pfeffer abschmecken. Suppe auf Schalen verteilen und mit Kräutern bestreut servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83fxme7txkl1bb29l29r">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Anstelle der Gemüsebrühe kannst du auch einen Bund Suppengemüse würfeln und mit 1 Liter Wasser und etwas Salz zum Kochen bringen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Selbstgemachte Gemüsebrühe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n97fo86yf1894418ht" file_variant="master" position="1">Reissuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69280bfbcd307">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n96xy71l1d3k7k1fkz" file_variant="master" position="1">Reissuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69280bfd0e29f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n97pxde1t1g0hn98g4" file_variant="master" position="1">Reissuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69280bfe72948">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n976x6osjmgog78hw" file_variant="master" position="1">Reissuppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

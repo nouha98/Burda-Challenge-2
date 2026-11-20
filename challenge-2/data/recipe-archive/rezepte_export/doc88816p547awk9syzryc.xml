@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88816p547awk9syzryc" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-28T07:55:11+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-10-28T08:17:33+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-superilluguterrat"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <Source topic="tmt8881e0z142hjkmyms2g"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Japanische Pilz-Tofu-Spieße","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Marinieren","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":420,"kilojoule":1758,"carbonhydrates":26,"fat":32,"protein":10,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Rosenkohl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Shiitake-Pilze","unit":{"name":"Stück"},"prefix":"kleine","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Räuchertofu","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":"am Stück"},{"amount":4,"amountTo":null,"ingredient_name":"Teriyaki-Sauce","unit":{"name":"EL"},"prefix":null,"suffix":"(asiatische Würzsauce)"},{"amount":4,"amountTo":null,"ingredient_name":"Mirin","unit":{"name":"EL"},"prefix":null,"suffix":"(süßer Reiswein)"},{"amount":100,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Yuzu-Saft","unit":{"name":"EL"},"prefix":null,"suffix":"(ersatzweise Limettensaft)"},{"amount":1,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Rosenkohl putzen, halbieren und in Salzwasser kochen. Kalt abschrecken und abtropfen lassen."},{"headline":null,"content":"Pilze putzen und die Stiele entfernen. Tofu in dicke Scheiben schneiden. Tofu abwechselnd mit Pilzen und Rosenkohl auf lange Holzspieße stecken."},{"headline":"Marinade zubereiten","content":"Knoblauch abziehen und 15 g Ingwer schälen. Beides fein hacken und mit Teriyaki-Sauce und Mirin verrühren. Marinade auf die Spieße träufeln. Spieße etwa 30 Minuten ruhen lassen, dabei ab und zu wenden."},{"headline":"Yuzu-Mayonnaise zubereiten","content":"Restliche 15 g Ingwer schälen und fein reiben. Mit Mayonnaise, Joghurt und Yuzu-Saft verrühren. Mit Agavendicksaft und Salz würzen."},{"headline":null,"content":"Öl in einer beschichteten Pfanne erhitzen. Spieße darin rundherum braten und mit der Yuzu-Mayonnaise anrichten."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Japanische Pilz-Tofu-Spieße</Title>
+    <CustomRecipeNutritionalValueCalories position="1">420</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1758</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">26</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">32</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Japanische Pilz-Tofu-Spieße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-28T07:55:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88816qs40yckdhcgnqn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9311" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rosenkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt80lqy2e6ylg10wzv1rvm" amount="20" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine" plural="Shiitake-Pilze" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9071" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Räuchertofu" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="am Stück" plural="Ingwer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10541" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(asiatische Würzsauce)" plural="Teriyaki-Sauce" position="7"/>
+      <CustomRecipeIngredient topic="tmt7ebq275t26er75m93vj" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(süßer Reiswein)" plural="Mirin" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mayonnaise" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="10"/>
+      <CustomRecipeIngredient topic="tmt84no386zg8givlz2bqw" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ersatzweise Limettensaft)" plural="Yuzu-Saft" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Agavendicksaft" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88816vf1hmq9366gnqn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rosenkohl putzen, halbieren und in Salzwasser 2-3 Min. kochen. Kalt abschrecken und abtropfen lassen. Pilze putzen. Die Stiele entfernen. Tofu in dicke Scheiben schneiden. Abwechselnd mit Pilzen und Kohl auf lange Holzspieße stecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88816vf1k1u5hbn0nqn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Marinade Knoblauch abziehen und 15 g Ingwer schälen. Beides fein hacken. Mit Teriyaki-Sauce und Mirin verrühren. Diese Marinade auf die Spieße träufeln. Spieße ca. 30 Min. ruhen lassen, dabei ab und zu wenden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88816vf1k69erh14nqn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">15 g Ingwer schälen und fein reiben. Mit Mayonnaise, Joghurt und Yuzu-Saft verrühren. Mit Agavendicksaft und Salz würzen. Öl in einer beschichteten Pfanne erhitzen. Die Spieße darin rundherum 5-7 Min. braten. Mit der Yuzu-Mayonnaise anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="3"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7jnxlxemdyc5lw48cam" file_variant="master" position="1">Pilz-Tofu Spieß mit Yuzu Mayonnaise</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

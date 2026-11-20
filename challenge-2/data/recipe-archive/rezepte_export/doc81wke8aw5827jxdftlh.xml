@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81wke8aw5827jxdftlh" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-11T16:15:49+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-12T11:43:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Diplomatencreme","recipe_seo_headline":"Diplomatencreme – einfaches Grundrezept","servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":120},{"name":"Ruhen/Warten","duration":30}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":"Gr. M, ca.","suffix":"(100 g)"},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"kalte","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Vanilleschote mit einem kleinen Messer längs aufschneiden, dann mit der stumpfen Seite der Klinge das Vanillemark herauskratzen. Milch, ausgekratzte Vanilleschote, Vanillemark und Salz in einem großen Topf auf mittlerer Stufe zum Köcheln bringen. Topf von der Herdplatte ziehen, Deckel aufsetzen und Mischung für 30 Minuten ziehen lassen."},{"headline":null,"content":"Zucker und Stärke mit einem Schneebesen in einer großen Schüssel verrühren. Eigelb untermischen, bis die Mischung leicht aufhellt. Vanillemilch zurück auf den Herd geben und auf mittlerer Stufe erneut gerade so zum Köcheln bringen."},{"headline":null,"content":"Die Hälfte der heißen Milch-Mischung nach und nach mit einer Kelle zu der Eigelb-Zucker-Mischung geben und direkt verrühren. Milch-Eigelb-Mischung zurück in den Topf zur restlichen Milch-Mischung geben."},{"headline":null,"content":"Pudding auf mittlerer Hitze unter konstantem Rühren erhitzen, bis er andickt und träge blubbert, dann unter Rühren für 2 weitere Minuten kochen. Pudding von der Herdplatte nehmen. Kalte Butter in zwei Stücken einzeln unterrühren, dann das Vanilleextrakt untermischen."},{"headline":null,"content":"Pudding in eine große Schüssel füllen und mit Frischhaltefolie abdecken, dabei die Folie direkt an der Oberfläche anlegen, damit sich keine Haut bildet, dann im Kühlschrank abkühlen lassen. Das dauert mindestens 2 Stunden."},{"headline":null,"content":"Sahne steif aufschlagen. Pudding aus dem Kühlschrank nehmen, die Vanilleschote entfernen und mit einem Schneebesen glattrühren. 3 EL der Sahne hinzugeben und unterrühren, dann den Rest der Sahne vorsichtig unterheben. Die Diplomatencreme hält sich abgedeckt im Kühlschrank für mindestens 3 Tage."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Diplomatencreme</Title>
+    <CustomRecipeSeoTitle position="1">Diplomatencreme – einfaches Grundrezept</CustomRecipeSeoTitle>
+    <Headline position="1">Diplomatencreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-11T16:15:49+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81wke61bnn5qgmbctlh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Gr. M, ca." suffix="(100 g)" position="6" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="450" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speisestärke" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="kalte" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="9" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avlxe9ma4vtlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Vanilleschote mit einem kleinen Messer längs aufschneiden, dann mit der stumpfen Seite der Klinge das Vanillemark herauskratzen. Milch, ausgekratzte Vanilleschote, Vanillemark und Salz in einem großen Topf auf mittlerer Stufe zum Köcheln bringen. Topf von der Herdplatte ziehen, Deckel aufsetzen und Mischung für 30 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avsgy1cgqaatlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zucker und Stärke mit einem Schneebesen in einer großen Schüssel verrühren. Eigelb untermischen, bis die Mischung leicht aufhellt. Vanillemilch zurück auf den Herd geben und auf mittlerer Stufe erneut gerade so zum Köcheln bringen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avsoxda5xitlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Hälfte der heißen Milch-Mischung nach und nach mit einer Kelle zu der Eigelb-Zucker-Mischung geben und direkt verrühren. Milch-Eigelb-Mischung zurück in den Topf zur restlichen Milch-Mischung geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avsv61muaactlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Pudding auf mittlerer Hitze unter konstantem Rühren erhitzen, bis er andickt und träge blubbert, dann unter Rühren für 2 weitere Minuten kochen. Pudding von der Herdplatte nehmen. Kalte Butter in zwei Stücken einzeln unterrühren, dann das Vanilleextrakt untermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avt11fajn5tlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Pudding in eine große Schüssel füllen und mit Frischhaltefolie abdecken, dabei die Folie direkt an der Oberfläche anlegen, damit sich keine Haut bildet, dann im Kühlschrank abkühlen lassen. Das dauert mindestens 2 Stunden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wke8avt7a4ak4wtlh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Sahne steif aufschlagen. Pudding aus dem Kühlschrank nehmen, die Vanilleschote entfernen und mit einem Schneebesen glattrühren. 3 EL der Sahne hinzugeben und unterrühren, dann den Rest der Sahne vorsichtig unterheben. Die Diplomatencreme hält sich abgedeckt im Kühlschrank für mindestens 3 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81axrbtwdqvarnsnos7" file_variant="master" position="1">Diplomatencreme3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689b0cbac7342">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81axrftxx551jfi1qsey" file_variant="master" position="1">DiplomatencremeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689b0cbd8a374">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81axrevvtqd9znxlws" file_variant="master" position="1">DiplomatencremeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689b0cbf6c2c4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81axrlw75c3129q6trru" file_variant="master" position="1">Diplomatencreme2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689b0cc12bc16">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81axrix9jyuf0blmsey" file_variant="master" position="1">Diplomatencreme1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

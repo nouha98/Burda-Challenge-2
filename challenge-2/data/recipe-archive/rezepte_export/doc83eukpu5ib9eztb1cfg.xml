@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83eukpu5ib9eztb1cfg" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-25T06:44:27+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2025-11-25T07:32:50+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-cafo"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqphj3nnedo5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqaft2ohqdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="90"/>
+    <Source topic="tmt83ev3e4maky1f37qicn2"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeNoteInformation position="1">Zubereitung: ca. 40 Minuten, Garzeit: ca. 1 1/2 Stunden. 
+
+Für ca. 4–6 Portionen.
+Nährwerte bei 6 Portionen: 550 kcal, 23 g KH, 38 g E, 33 g F.</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">820</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">35</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">57</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">50</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Lammkeule mit Pistazienkruste</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-25T06:44:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7631" position="1" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" prefix="küchenfertige" suffix="ohne Knochen" plural="Lammkeule"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5891" position="5" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Trocken-" plural="Feigen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="6" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4641" position="7" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleine" plural="Auberginen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="8" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10371" position="9" amount="2" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Staudensellerie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="10" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für Flesch und Gemüse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_692549e5658c7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="2" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8846" position="3" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Pistazienkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Semmelbrösel"/>
+      <CustomRecipeIngredient topic="tmt7jbk1j0uclg1mz9h8fy6" position="5" amount="1/4" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kreuzkümmelpulver"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="6" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="7" amount="4" amount_max="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="8" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Kruste</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69254a7a0ced8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fleisch trocken tupfen, salzen, pfeffern und in einem Bräter mit Öl rundherum scharf anbraten, dann im Ofen ca. 1,5 Stunden garen. Nach Bedarf ab und zu etwas Wasser angießen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69254a8f51c30">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Feigen in einer Schüssel mit 150 ml heißem Wasser übergießen und ziehen lassen. Schalotten abziehen und vierteln. Aubergine waschen, putzen, in mundgerechte Würfel schneiden und mit Salz bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69254aa699080">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kurz ziehen lassen, abtupfen und mit den Schalotten nach 1 Stunde Garzeit zum Fleisch geben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69254ab7d364c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Kruste Knoblauch abziehen, grob hacken und mit Petersilie, Pistazien, Semmelbröseln und den Gewürzen in einem Mixer fein pürieren. Mit Öl und Parmesan vermischen, salzen und pfeffern. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_69254ad22c6a3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Pistazienmischung in den letzten ca. 20 Minuten auf das Fleisch streichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_69254ad96f388">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten waschen, vierteln, von Stielansatz und Kernen befreien und klein schneiden. Sellerie waschen, putzen und schräg in 2 cm breite Stücke schneiden. Knoblauch andrücken und mit Tomaten, Sellerie und Feigen (inkl. Einweichwasser) vermengen. In den letzten ca. 10 Minuten mitschmoren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_8_69254af18f2df">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 8</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die fertig gegarte Keule aus dem Ofen nehmen, kurz ruhen lassen und mit dem abgeschmeckten Gemüse und der Sauce servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lammkeule mit Pistazienkruste</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Eising Studio - Food Photo &amp; Video</ImageCredit>
+      <DocumentRef doc_id="doc7wfraitv09dpwpn6j8r" file_variant="master" position="1">Lammkeule mit Pistazienkruste</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

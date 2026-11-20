@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786b80t2msy1fy470gkc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T17:04:24+01:00</created>
+  <identifier></identifier>
+  <modcount>18</modcount>
+  <modified>2024-12-03T09:59:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomCenshareId>388428</CustomCenshareId>
+    <Title position="1">Feine Kaffeecreme-Torte</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">365</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1540</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">27</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>619627</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>762469</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>723351</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>979753</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Feine Kaffeecreme-Torte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T21:09:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="9d5319">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="Zartbitterschokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6941" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="3" unit="EL" plural="Kaffeelikör"/>
+      <CustomRecipeIngredient topic="tmt786b80sxd0yvi249gkc" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" position="1" unit="(keine Einheit)" plural="Schoko-Mokkabohne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9831" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" position="4" unit="(keine Einheit)" plural="Schokoraspel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="2">AUSSERDEM</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="9d3a67">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="75" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" unit="g" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6946" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(instant)" position="5" unit="TL" plural="Kaffeepulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="6" unit_topic="tm_topic_default_unit" suffix="(Größe M)" position="2" unit="(keine Einheit)" plural="Eier"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">FÜR DEN BISKUIT</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="9d47d5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6931" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="starker" position="2" unit="ml" plural="Kaffee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="175" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" position="4" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="3" unit_topic="tm_topic_default_unit" position="1" unit="(keine Einheit)" plural="Eigelb"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">FÜR DIE CREME</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="9d535e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Butter schmelzen. Eier trennen. Eiweiß steif schlagen, Zucker einrieseln lassen. Eigelbe, Puderzucker und Kaffeepulver über dem heißen Wasserbad dick­cremig aufschlagen. Schüssel he­raus­nehmen, Mix kalt schlagen. Eischnee nach und nach darunterrühren. Mehl darübersieben, locker unterheben. Butter unterziehen. Teig in die mit Backpapier ausgelegte Form füllen. Ca. 35 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="9d536e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Für die Creme Eigelbe mit Kaffee und 50 g Puderzucker verrühren, über dem heißen Wasserbad dick­cremig aufschlagen, vom Wasserbad nehmen. Butter mit restlichem Puderzucker (50 g) schaumig rühren. Abgekühlte Eigelbcreme löffelweise unter die Butter rühren. Sahne steif schlagen, nach und nach unter die Creme rühren. Ca. 30 Minuten kühl stellen. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="9d537d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Den Biskuit zweimal waagerecht durchschneiden. Zartbitterschokolade schmelzen. 1 Boden damit bestreichen. Zweiten Boden auflegen, mit 1 EL Likör beträufeln. Ein Drittel Kaffeecreme daraufgeben, glatt streichen. Dritten Boden auflegen, leicht andrücken, mit übrigem Likör (1 EL)beträufeln. Kuchen mit restlicher Creme überziehen, mit Schokoraspeln und Bohnen garnieren.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_393491_last" doc_id="doc786b7bcjjcw1djt6aavs" position="1">MFI-Backen_2_14_zuckerreduzirt</DocumentRef>
+    </Image>
+    <Image taggroup_id="a023e8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="2">Picture 2</ImageLabel>
+      <DocumentRef file_variant="censhare_393492_last" doc_id="doc786b7d6b93ncgx4davt" position="2">393492-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_9d98b0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_619624_last" doc_id="doc786jqiru3rb2dmi87t2" position="1">MFI-Backen_2_14_zuckerreduzirt</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_9d99e3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_619625_last" doc_id="doc786jqk15vbkiltio7t3" position="1">619625-master-first.psd</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b0upwxqqf1bjhirbn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T21:09:46+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_388428</displayname>
+      <doc_id id="doc786b80t2msy1fy470gkc"/>
+      <hash>369ce30fca4a6dc111546805a29cb5d9</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T21:09:46+01:00</modified>
+      <size>6024</size>
+      <subpath>2019/12-07/cd/16/file78b0upwxqqf1bjhirbn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

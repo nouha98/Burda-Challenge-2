@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85439hv7ht5l6tfqqji" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-24T11:14:35+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-24T11:18:23+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Blumenkohlsuppe","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Blumenkohl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mehligkochend"},{"amount":0.5,"amountTo":null,"ingredient_name":"Lauchzwiebel","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ vegane Bio-Instant-Brühe)"},{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":"(vegan) vom Vortag"},{"amount":2,"amountTo":null,"ingredient_name":"Kürbiskern","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sojacreme","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"Spritzer"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":"gemahlener, weißer","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Blumenkohl waschen, putzen, in Röschen teilen. Die Kartoffeln schälen und in kleine Würfel schneiden."},{"headline":null,"content":"Lauchzwiebeln waschen, putzen, grünen und weißen Teil getrennt in Röllchen schneiden. Den grünen Teil zur Seite stellen."},{"headline":null,"content":"In einem weiten Topf 1 EL Rapsöl erhitzen. Die weißen Lauchzwiebelringe hinzufügen und bei mittlerer Hitze 2-3 Minuten andünsten. Blumenkohl und Kartoffeln hinzufügen, 1-2 Minuten mitbraten. Mit Brühe ablöschen, alles einmal aufkochen. Anschließend zugedeckt bei niedriger Hitze ca. 20 Minuten köcheln lassen."},{"headline":null,"content":"In der Zwischenzeit das Vollkornbrot in gleichmäßige Würfel schneiden. Übriges Öl (1 EL) in einer Pfanne erhitzen und die Brotwürfel bei mittlerer Hitze darin anrösten, Kürbiskerne und grüne Lauchzwiebelringe in die Pfanne geben und weitere 2-3 Minuten andünsten."},{"headline":null,"content":"Sojacreme in die Suppe einrühren, alles fein pürieren. Mit Zitronensaft, Senf, weißem Pfeffer und etwas Salz abschmecken. Heiße Suppe in Teller verteilen und mit den Brotwürfeln, Kürbiskernen und den grünen Lauchzwiebelringen als Einlage servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Vegane Blumenkohlsuppe</Title>
+    <Headline position="1">Vegane Blumenkohlsuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-24T11:14:35+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85439e7u96v11optvqji">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Blumenkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kartoffeln" position="2" prefix="mehligkochende"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Lauchzwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ vegane Bio-Instant-Brühe)" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" suffix="(vegan) vom Vortag" plural="Vollkornbrote" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="Kürbiskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10176" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sojacreme" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" plural="Zitronensaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="gemahlener, weißer" plural="Pfeffer" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85439hv7d2q14qu12qji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Blumenkohl waschen, putzen, in Röschen teilen. Die Kartoffeln schälen und in kleine Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85439hv7gc11jgw5iqji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lauchzwiebeln waschen, putzen, grünen und weißen Teil getrennt in Röllchen schneiden. Den grünen Teil zur Seite stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85439hv7gisdu6g2qji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In einem weiten Topf 1 EL Rapsöl erhitzen. Die weißen Lauchzwiebelringe hinzufügen und bei mittlerer Hitze 2-3 Minuten andünsten. Blumenkohl und Kartoffeln hinzufügen, 1-2 Minuten mitbraten. Mit Brühe ablöschen, alles einmal aufkochen. Anschließend zugedeckt bei niedriger Hitze ca. 20 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85439hv7go026ncgqji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">In der Zwischenzeit das Vollkornbrot in gleichmäßige Würfel schneiden. Übriges Öl (1 EL) in einer Pfanne erhitzen und die Brotwürfel bei mittlerer Hitze darin anrösten, Kürbiskerne und grüne Lauchzwiebelringe in die Pfanne geben und weitere 2-3 Minuten andünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85439hv7gxveihu2qji">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Sojacreme in die Suppe einrühren, alles fein pürieren. Mit Zitronensaft, Senf, weißem Pfeffer und etwas Salz abschmecken. Heiße Suppe in Teller verteilen und mit den Brotwürfeln, Kürbiskernen und den grünen Lauchzwiebelringen als Einlage servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79fcwcvha8yk8d3f8s" file_variant="master" position="1">Vegane_Blumenkohlsuppe_mit_Brotcroutons_57763.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69c264e8f2645">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdt0z8tkwhwr4l5y" file_variant="master" position="1">Vegane_Blumenkohlsuppe_mit_Brotcroutons_57571.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69c264ebe2dba">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdkez991d3hhxsl5y" file_variant="master" position="1">Vegane_Blumenkohlsuppe_mit_Brotcroutons_57590.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69c264ed6f209">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdo19uv4k1b6hm43nv" file_variant="master" position="1">Vegane_Blumenkohlsuppe_mit_Brotcroutons_57757.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

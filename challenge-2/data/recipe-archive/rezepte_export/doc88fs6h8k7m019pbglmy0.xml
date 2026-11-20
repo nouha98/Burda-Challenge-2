@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88fs6h8k7m019pbglmy0" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-12T09:54:15+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-11-12T10:03:25+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Creator topic="tmt8589me6ytdz910vuoh5"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq6p1ikrjgdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <Source topic="tmt88fs98l28gl9vomknob"/>
+    <CustomRecipeNutritionalValueCalories position="1">260</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">23</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">13</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kohlrabi-Fries aus der Heißluftfritteuse mit Quarkdip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-12T09:54:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" position="1" amount="2" plural="Kohlrabi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7161" position="3" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Ketchup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" position="5" amount="1.5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sojasauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4751" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Balsamico"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="7" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="zum Braten" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt7njo5r072uo1ac2639rv" position="8" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(ersatzweise Semmelbrösel)" plural="Panko"/>
+      <CustomRecipeIngredient topic="tmt86zuxq1rvqgysc8c1rif" position="9" plural="Sprühöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für Fries</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6af57f48ad3e8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="1" amount="1/2" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="1" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" position="3" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Quark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="4" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Ahornsirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="7" prefix="schwarzer" plural="Pfeffer aus der Mühle"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Dip</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Fries die Kohlrabi putzen, schälen und in ca. 1 cm dicke Stifte schneiden. In ausreichend Salzwasser in 5–8 Minuten mit Biss garen. Die Stifte abgießen, abtropfen und lauwarm abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6af57f9cb512b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ketchup, Sahne, Sojasauce und Essig mit Öl verrühren. Panko in eine flache Schale geben. Kohlrabistifte portionsweise erst im Ketchup-Mix, dann im Panko wenden und die Panade leicht andrücken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6af57fa32807c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Heißluftfritteuse auf 180 °C vorheizen. Den Korb der Fritteuse mit Öl einsprühen. 
+Kohlrabistifte nebeneinander – bei Bedarf portionsweise nacheinander – in den Frittierkorb legen und in 5-10 Minuten knusprig braun frittieren. Dabei einmal wenden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6af57fb2545ef">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für den Dip Petersilie waschen, trockenschütteln und mitsamt den Stielen grob schneiden. Knoblauch abziehen und grob würfeln. Beides mit 2-3 EL Quark, Ahornsirup und Zitronensaft pürieren. Die Mischung mit übrigem Quark glatt rühren und alles mit Salz und Pfeffer würzen. Den Dip abschmecken und zu den Kohlrabi-Fries servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kohlrabi-Fries aus der Heißluftfritteuse mit Quarkdip</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Kornfeld, Viktoria</ImageCredit>
+      <DocumentRef doc_id="doc8815ewl76g9d2axzrg5" file_variant="master" position="1">Kohlrabi-Fries aus der Heißluftfritteuse mit Quarkdip</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

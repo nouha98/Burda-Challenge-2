@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786awm9aaid8jk7e2mn" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T16:39:44+01:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2024-08-26T08:52:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomCenshareId>365417</CustomCenshareId>
+    <Title position="1">Nuss-Himbeer-Torte mit Schokosahne</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">415</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1750</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">41</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">23</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>580675</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>964752</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Nuss-Himbeer-Torte mit Schokosahne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T19:59:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="528cd1">
+      <CustomRecipeIngredient topic="tmt782q8ess0w81jdmg08gz" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6946" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(instant)" position="3" unit="EL" plural="Kaffeepulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" unit="g" plural="Puderzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Schokosahne</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="529be9">
+      <CustomRecipeIngredient topic="tmt78663rufzed1g1xneidm" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="gemahlene Haselnüsse"/>
+      <CustomRecipeIngredient topic="tmt786awm91bcgztjul2mn" unit_topic="tmt71qxz4dp0wy1cok4w7e0" suffix="zum Garnieren" position="2" unit="(keine Einheit)" plural="Himbeere"/>
+      <CustomRecipeIngredient topic="tmt7869qwfvulht1xb2avd" unit_topic="tmt71qxz4dp0wy1cok4w7e0" suffix="zum Garnieren" position="3" unit="(keine Einheit)" plural="Minzeblatt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="6" unit_topic="tmt71qxz4dp0wy1cok4w7e0" suffix="(Größe M)" position="4" unit="(keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ungesüßt)" position="7" unit="EL" plural="Kakaopulver"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="2">Für den Biskuit</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="52842c">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="tiefgekühlte" position="1" unit="g" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="3" unit_topic="tmt71k9l2t09xx1jfg9ydbs" position="2" unit="Blatt" plural="Gelatine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Puderzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Für den Himbeer-Kern</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="529c36">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Am Vortag:</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">Beeren auftauen lassen. Gelatine einweichen. Beeren pürieren, durch ein Sieb streichen. Mit Puderzucker mischen, erwärmen. Gelatine ausdrücken, ins Fruchtpüree rühren, bis sie sich löst. Püree in eine runde Form gießen (Ø ca. 22 cm; z. B. Gratinform oder flache Schüssel), über Nacht einfrieren. Für die Sahne Schokolade grob hacken. Sahne mit Kaffeepulver aufkochen, Schokolade darin schmelzen. Über Nacht kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="529c4b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Am Tag des Servierens:</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Für die Biskuitböden Eier trennen. Eigelbe und Zucker schaumig rühren. Eiweiß steif schlagen, den Schnee unter den Eigelb-Mix heben. Masse halbieren. Unter eine Hälfte 60 g Mehl und Kakaopulver mischen, unter die andere restliches Mehl (40 g) und die Haselnüsse heben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="529c5c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Erste Biskuitmasse in die mit Backpapier ausgelegte Springform geben, die zweite in einen mit Alufolie abgedichteten Tortenring (Ø 22 cm) füllen. Beide im Ofen nebeneinander 20–25 Minuten backen. Auskühlen lassen, aus den Formen lösen. Tipp: Wer keinen Tortenring hat, kann die Biskuits in der Springform auch nacheinander backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="529c6a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Schokosahne steif schlagen. Biskuitböden waagerecht halbieren. Einen Schokoboden in den Tortenring setzen, dünn mit Schokosahne bestreichen. Nussboden darauflegen, Schokosahne dünn aufstreichen. Den aus der Form gelösten Himbeer-Kern darauflegen. Mit Schokosahne dünn bestreichen. Zweiten Schokoboden aufsetzen, dünn mit Schokosahne bestreichen. Letzten Nussboden darauflegen. Torte aus dem Ring lösen. Oberen Boden und Rand wolkig mit übriger Schokosahne bestreichen. Torte mit Himbeeren und Minze garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_376457_last" doc_id="doc786avrwsi7kyqd6uavt" position="1">MFI-Schokokuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_53f95d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_580677_last" doc_id="doc786j5uvb7he1mdj7t7t2" position="1">MFI-Schokokuchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78azy91hbnb1gvggybn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T19:59:33+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_365417</displayname>
+      <doc_id id="doc786awm9aaid8jk7e2mn"/>
+      <hash>1f75122f462e5b79c15cc28b6de97953</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T19:59:33+01:00</modified>
+      <size>6324</size>
+      <subpath>2019/12-07/cd/a1/file78azy91hbnb1gvggybn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

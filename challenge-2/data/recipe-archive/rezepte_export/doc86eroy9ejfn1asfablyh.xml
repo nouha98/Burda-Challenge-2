@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86eroy9ejfn1asfablyh" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-23T08:32:19+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-23T08:39:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rolt1gbekbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <Source topic="tmt86ersfa9rdt84j7td89"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Linsenaufstrich","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Garen","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Linse","unit":{"name":"g"},"prefix":null,"suffix":"rote (getrocknet)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Kreuzkümmel","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Koriander","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instantbrühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":"glatte","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]},{"headline":"Außerdem","ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebel abziehen und fein würfeln, Knoblauch abziehen und fein hacken. Linsen auf ein Sieb geben, abwaschen und abtropfen lassen. Olivenöl in einem Topf erhitzen und Zwiebel sowie Knoblauch darin bei mittlerer Hitze glasig dünsten. Linsen und Kreuzkümmel sowie Koriander dazugeben und kurz mitbraten. Mit der Gemüsebrühe ablöschen und etwa 15 Minuten geschlossen garen."},{"headline":null,"content":"In der Zwischenzeit Petersilie abbrausen, trockenschütteln, die dicken Stiele entfernen und fein hacken. Nach Ende der Garzeit die Linsen mit dem Pürierstab fein pürieren und mit Limettensaft, Pfeffer und etwas Salz abschmecken und etwa die Hälfte der Petersilie unterheben. Die Vollkornbrote mit dem Aufstrich bestreichen und mit der restlichen Petersilie garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Linsenaufstrich</Title>
+    <Headline position="1">Linsenaufstrich</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-23T08:32:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86eropn5qkzlrnexlyh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(getrocknet)" plural="Linsen" position="3" prefix="rote "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kreuzkümmel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Koriander" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ Bio-Instantbrühe)" plural="Gemüsebrühe" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="glatte" plural="Petersilie" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="86eroxnwiw7zsyoklyh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86eroy9eiszj6fwzlyh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und fein würfeln, Knoblauch abziehen und fein hacken. Linsen auf ein Sieb geben, abwaschen und abtropfen lassen. Olivenöl in einem Topf erhitzen und Zwiebel sowie Knoblauch darin bei mittlerer Hitze glasig dünsten. Linsen und Kreuzkümmel sowie Koriander dazugeben und kurz mitbraten. Mit der Gemüsebrühe ablöschen und etwa 15 Minuten geschlossen garen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86eroy9ej00181y66lyh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit Petersilie abbrausen, trockenschütteln, die dicken Stiele entfernen und fein hacken. Nach Ende der Garzeit die Linsen mit dem Pürierstab fein pürieren und mit Limettensaft, Pfeffer und etwas Salz abschmecken und etwa die Hälfte der Petersilie unterheben. Die Vollkornbrote mit dem Aufstrich bestreichen und mit der restlichen Petersilie garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7e5g624m7no1n4wi4od5" file_variant="master" position="1">Linsenaufstrich_3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a3a2a28a8381">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc7e5g77uhms1d9gk0od2" file_variant="master" position="1">Linsenaufstrich_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a3a2a2bc4d5b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc7e5g6wagnvqmzbb4od6" file_variant="master" position="1">Linsenaufstrich_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a3a2a2e4433a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc7e5g5fc1g6g1btm4pod6" file_variant="master" position="1">Linsenaufstrich_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

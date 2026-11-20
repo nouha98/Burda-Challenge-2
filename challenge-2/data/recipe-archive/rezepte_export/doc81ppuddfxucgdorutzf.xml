@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81ppuddfxucgdorutzf" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-29T08:22:19+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-29T08:28:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="40"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apfel-Rhabarber Kuchen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Backen","duration":40}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für die Füllung","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Rhabarber","unit":{"name":"Stange"},"prefix":null,"suffix":"(ca. 400 g)"},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Äpfel","unit":{"name":"Stück"},"prefix":"kleine","suffix":"(ca. 300 g)"}]},{"headline":"Für den Teig","ingredients":[{"amount":170,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":"und Butter für die Form"},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Rhabarber grob schälen, holziges Ende entfernen. Stangen in ca. 1 cm breite Stücke schneiden. In eine Rührschüssel geben und mit dem Zucker mischen. Äpfel schälen, vierteln und Kerngehäuse entfernen. In Würfel (ca. 1 cm) schneiden und zu dem Rhabarber geben."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Springform (Ø 26 cm) fetten. Butter, Zucker und Salz auf höchster Stufe des Handrührgerätes schaumig weiß schlagen. Eier nacheinander zugeben und weiterschlagen. Mehl mit Backpulver mischen und in den Teig rühren. In die Form füllen und glatt streichen. Früchte darauf streuen in im Ofen ca. 40 Minuten backen. Etwas auskühlen lassen. Nach Belieben mit etwas Puderzucker bestreuen oder weiteren Apfelwürfeln ausgarnieren."}],"recipe_tips":[{"headline":"Leckere Rumnote","content":"Mische die Früchte mit Zucker und 3 EL Rum für eine besonders feine Note."}]}</CustomStructuredRecipeJson>
+    <Title>Apfel-Rhabarber Kuchen</Title>
+    <Headline position="1">Apfel-Rhabarber Kuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-29T08:22:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81ppuanuf6slli6ptzf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" suffix="(ca. 300 g)" plural="Äpfel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9141" amount="2" unit="Stange" unit_topic="tmt_ingredient_unit_stange" suffix="(ca. 400 g)" plural="Rhabarber" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81ppubfdugic8sdktzf">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="170" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Butter für die Form" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81ppuddfwk414rnj1tzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rhabarber grob schälen, holziges Ende entfernen. Stangen in ca. 1 cm breite Stücke schneiden. In eine Rührschüssel geben und mit dem Zucker mischen. Äpfel schälen, vierteln und Kerngehäuse entfernen. In Würfel (ca. 1 cm) schneiden und zu dem Rhabarber geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ppuddfwuogwpyntzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Springform (Ø 26 cm) fetten. Butter, Zucker und Salz auf höchster Stufe des Handrührgerätes schaumig weiß schlagen. Eier nacheinander zugeben und weiterschlagen. Mehl mit Backpulver mischen und in den Teig rühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_688869841dfbf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">In die Form füllen und glatt streichen. Früchte darauf streuen in im Ofen ca. 40 Minuten backen. Etwas auskühlen lassen. Nach Belieben mit etwas Puderzucker bestreuen oder weiteren Apfelwürfeln ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81ppuddfx13nfp6otzf">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mische die Früchte mit Zucker und 3 EL Rum für eine besonders feine Note.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Leckere Rumnote</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814o9a9vbnm11gderuj5" file_variant="master" position="1">Apfel_Rhabarber_Kuchen_23448.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68886a11aef11">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814o978zay0moelguj9" file_variant="master" position="1">Apfel_Rhabarber_Kuchen_22788.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68886a14306b7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814o95yljba14khmifs2" file_variant="master" position="1">Apfel_Rhabarber_Kuchen_23226.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68886a1618ca9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814o9apfk4l1hpxveftu" file_variant="master" position="1">Apfel_Rhabarber_Kuchen_23463.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

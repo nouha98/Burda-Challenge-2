@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc824r27p0842c84jb1xlj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-27T14:34:56+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-28T13:16:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="300"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Panna Cotta Grundrezept","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":300}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Panna Cotta","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für das Topping","ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Panna Cotta die Vanilleschote einritzen und mit dem Messerrücken auskratzen. Die Gelatine in einer Schale mit kaltem Wasser ca. 5 Min. einweichen. Sahne und Zucker zusammen mit dem Mark der Vanilleschote in einen Topf geben und kurz aufkochen lassen, bis sich der Zucker aufgelöst hat."},{"headline":null,"content":"Topf vom Herd nehmen. Die eingeweichten Gelatineblätter leicht ausdrücken, dann in den Topf mit der noch heißen (aber nicht mehr kochenden) Flüssigkeit geben. Kurz durchrühren, bis sich die Gelatineblätter aufgelöst haben. 4 Dessertschälchen (à 125 ml) bereitstellen. Die flüssige Panna Cotta hineingießen und die Schälchen ca. 10-15 Min. abkühlen lassen. Das Dessert anschließend mindestens 5 Stunden, am besten aber über Nacht kühlstellen."},{"headline":null,"content":"Für das Topping Erdbeeren waschen. Von 200 g der Erdbeeren das Grün entfernen und sie mit Zucker und 1 TL Zitronensaft gut pürieren. Die restlichen Erdbeeren mitsamt Grün halbieren."},{"headline":null,"content":"Die gestockten Panna Cotta-Gläser kurz vor dem Servieren aus dem Kühlschrank nehmen. Zum Stürzen eine Schale mit heißem Wasser vorbereiten. Die Schälchen mit dem Boden ca. 30-60 Sekunden in die Schale stellen (dabei darauf achten, dass kein Wasser in die Schälchen gelangt). Dann mit einem Messer vorsichtig den Rand von den Schälchen lösen und das Dessert auf einen Teller stürzen."},{"headline":null,"content":"Jedes Panna Cotta Dessert erst kurz vor dem Servieren mit der Erdbeersoße übergießen und mit den halben Erdbeeren garnieren."}],"recipe_tips":[{"headline":null,"content":"Förmchen, die man von beiden Seiten öffnen kann, erleichtern das Stürzen."}]}</CustomStructuredRecipeJson>
+    <Title>Panna Cotta Grundrezept</Title>
+    <Headline position="1">Panna Cotta Grundrezept</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-27T14:34:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="824r25nt1evxygu81xlj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Panna Cotta</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="824r26ov2i1xdshz1xlj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="824r27p05no15l2j11xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Panna Cotta die Vanilleschote einritzen und mit dem Messerrücken auskratzen. Die Gelatine in einer Schale mit kaltem Wasser ca. 5 Min. einweichen. Sahne und Zucker zusammen mit dem Mark der Vanilleschote in einen Topf geben und kurz aufkochen lassen, bis sich der Zucker aufgelöst hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824r27p05v79ylcw1xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Topf vom Herd nehmen. Die eingeweichten Gelatine leicht ausdrücken, in den Topf mit der noch heißen (nicht mehr kochenden) Flüssigkeit geben. Kurz durchrühren, bis sich die Gelatine aufgelöst hat. 4 Schälchen (à ca. 125 ml) bereitstellen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824r27p05zd1dcoy91xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die flüssige Panna Cotta hineingießen und die Schälchen ca. 10-15 Minuten abkühlen lassen. Das Dessert anschließend mindestens 5 Stunden, am besten über Nacht, kühl stellen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824r27p062s1e9u2a1xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Für das Topping Erdbeeren waschen. Von 200 g der Erdbeeren das Grün entfernen, mit Zucker und Zitronensaft in ein hohes Gefäß geben und fein pürieren. Die restlichen Erdbeeren (mit Grün) für die Deko halbieren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824r27p066c1frx831xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die gestockte Panna Cotta kurz vor dem Servieren aus dem Kühlschrank nehmen. Zum Stürzen eine weite Schale mit heißem Wasser vorbereiten.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68b03a46304ad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Je ein Schälchen mit dem Boden ca. 30-60 Sekunden in die Schale mit heißem Wasser stellen (dabei darauf achten, dass kein Wasser in die Schälchen gelangt). Mit einem Messer die Panna Cotta vorsichtig vom Schälchen lösen und auf einen Teller stürzen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_68b03a4b950e3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Jedes Panna Cotta Dessert erst kurz vor dem Servieren mit der Erdbeersoße übergießen und mit den halben Erdbeeren garnieren. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="824r27p06ahn21ce1xlj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Erdbeeren kannst du auch Himbeeren verwenden. Mit Mango wird das Dessert exotisch-erfrischend. Du kannst den Klassiker einfach mit deinen Lieblings-Beeren garnieren – das sieht immer toll aus!
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Fruchtige Abwechslung</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxwa0qug1gsx0ufte" file_variant="master" position="1">PannaCottaGrundrezept2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b03a5f8c0d2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxux2k3rp85iwfte" file_variant="master" position="1">PannaCottaGrundrezept_Step3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b03a621a5ec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqy0vk489hj6aqftj" file_variant="master" position="1">PannaCottaGrundrezept_Step1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b03a6433063">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxzlr76e1j4f309cd" file_variant="master" position="1">PannaCottaGrundrezept_Step2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68b03a65e9649">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mqxxsc6hjov6aufu0" file_variant="master" position="1">PannaCottaGrundrezept1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

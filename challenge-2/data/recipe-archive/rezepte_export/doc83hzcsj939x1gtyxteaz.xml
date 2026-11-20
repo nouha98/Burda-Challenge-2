@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83hzcsj939x1gtyxteaz" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T09:04:07+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-12-01T09:15:05+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"French Toast vegan","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Toastbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl oder Kokosfett","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Hafermilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Reismehl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Topping","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Frische Beeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"z.B. Himbeeren, Heidelbeeren, Brombeeren"}]}],"preparation":[{"headline":null,"content":"Die Toastscheiben diagonal halbieren. Die Hafermilch in eine Schüssel geben und mit dem Zimtpulver und dem Reismehl verrühren. Eine Pfanne mit Sonnenblumenöl oder Kokosfett erhitzen. Die Toastscheiben einige Sekunden in die Hafermilch tauchen, etwas abtropfen lassen und direkt in die heiße Pfanne geben und bei mittlerer Hitze von beiden Seiten jeweils ca. 2 Minuten goldgelb ausbacken."},{"headline":null,"content":"Den French Toast auf einem Teller anrichten und mit dem Ahornsirup begießen und mit frischen Beeren servieren."}],"recipe_tips":[{"headline":"So richtig süß","content":"Wer French Toast so richtig süß mag, kann in die Hafermilch 2 EL Ahornsirup geben und gut verrühren."}]}</CustomStructuredRecipeJson>
+    <Title>French Toast vegan</Title>
+    <Headline position="1">French Toast vegan</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T09:04:07+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83hzcqmjmnkhycxkeaz">
+      <CustomRecipeIngredient topic="tmt7e9lnvgqkcyycdmcmi6" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="Hafermilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10356" position="3" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Stärke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" suffix="oder Kokosfett" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" amount="6" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Toastbrote" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83hzcsalbtj51hqgeaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="z.B. Himbeeren, Heidelbeeren, Brombeeren" position="1" prefix="frische" plural="Beeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83hzcsj8wf6y7x68eaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Hafermilch in eine Schüssel geben und mit dem Zimtpulver und der Stärke verrühren. Eine Pfanne mit Sonnenblumenöl oder Kokosfett erhitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83hzcsj8zwio9bzveaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Toastscheiben einige Sekunden in die Hafermilch tauchen, etwas abtropfen lassen und direkt in die heiße Pfanne geben. Die Toastscheiben bei mittlerer Hitze von beiden Seiten jeweils ca. 2 Minuten goldgelb ausbacken. Den veganen French Toast auf einem Teller anrichten und mit dem Ahornsirup begießen. Mit den frischen Beeren servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83hzcsj9020lijnmeaz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer French Toast so richtig süß mag, kann in die Hafermilch 2 EL Ahornsirup geben und gut verrühren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So richtig süß</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc82qsn0eor9y1canoxvau" file_variant="master" position="1">French Toast vegan</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692d4e578c60d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc82qsmt0wtgo1frr0l1fvd" file_variant="master" position="1">French Toast vegan</DocumentRef>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+    </Image>
+    <Image taggroup_id="image_3_692d4e595c139">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc82qsnzqdys6cpjtm1g54" file_variant="master" position="1">French Toast vegan</DocumentRef>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+    </Image>
+    <Image taggroup_id="image_4_692d4e7a9b32e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc82qsnz6f6f712aor8wig" file_variant="master" position="1">French Toast vegan</DocumentRef>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

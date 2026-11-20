@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86r7wafid3b6tui8d63" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-17T14:04:00+02:00</created>
+  <identifier></identifier>
+  <modcount>18</modcount>
+  <modified>2026-07-22T10:26:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <Source topic="tmt86tpe79whpzuwyl0pl6"/>
+    <CustomRecipeNutritionalValueCalories position="1">370</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">52</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">3</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">8</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Herbstlicher Obstsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-17T14:04:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10726" position="3" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="helle " suffix="(kernlos)" plural="Trauben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10726" position="4" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="dunkle" suffix="(kernlos)" plural="Trauben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="große" plural="Birnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8776" position="2" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Pflaumen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" position="5" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rotwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="6" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt7tb8az1lhgx8ub5wmvp" position="7" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" plural="Bio-Orangenschale"/>
+      <CustomRecipeIngredient topic="tmt817dnmkj6ua9a91x9ru" position="8" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Nelken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="9" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" position="10" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Walnusskerne"/>
+      <CustomRecipeIngredient topic="tmt7zien51ky8xzlwaeifb" position="11" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Puderzucker zum Bestäuben"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Birne schälen, halbieren, vierteln und das Kerngehäuse entfernen. Pflaumen waschen, halbieren, entsteinen, in Spalten schneiden. Trauben waschen und halbieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a5a1b514501a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Wein mit Zimt, Orangenschale, Nelken und Zucker erhitzen, einige Minuten kochen lassen. Früchte in den Sud geben und zugedeckt 5 Minuten 
+köcheln lassen. Früchte mit einem Schaumlöffel herausnehmen und Sud sirupartig einkochen. Zum Servieren Sirup über die Früchte gießen, mit 
+Walnüssen garnieren, mit Puderzucker bestäuben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc86sqm4jbug315ys2skuv" file_variant="master" position="1">Herbstlicher fruchtsalat.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

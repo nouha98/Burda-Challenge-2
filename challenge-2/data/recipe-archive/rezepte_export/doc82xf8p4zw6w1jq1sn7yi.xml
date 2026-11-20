@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xf8p4zw6w1jq1sn7yi" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-22T09:47:53+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-22T09:55:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spinat Suppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Blattspinat","unit":{"name":"g"},"prefix":null,"suffix":"(tiefgekühlt oder frisch)"},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":"(vorwiegend festkochend)"},{"amount":150,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"g"},"prefix":null,"suffix":"(30 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Spinat auftauen, abtropfen lassen und ausdrücken. Zwiebeln und Knoblauch abziehen, Kartoffeln schälen und zusammen in Würfel schneiden."},{"headline":null,"content":"Die Hälfte der Crème fraîche mit einem Schneebesen aufschlagen und mit Salz und Pfeffer abschmecken."},{"headline":null,"content":"Gemüsewürfel mit 1 TL Salz in einem Topf in erhitztem Öl 3-5 Minuten anschwitzen. Mit Brühe auffüllen und mit Deckel bei mittlerer Hitze ca. 20 Minuten köcheln lassen."},{"headline":null,"content":"Ausgedrückten Spinat zur Suppe geben, noch einmal aufkochen und mit dem Stabmixer fein pürieren. Übrige Crème fraîche einrühren und mit Salz, Pfeffer und Muskatnuss abschmecken."},{"headline":null,"content":"Suppe auf 4 Teller oder Schalen verteilen, mit aufgeschlagener Crème fraîche und nach Wunsch mit Walnusskernen bestreut servieren."}],"recipe_tips":[{"headline":"Knoblauch-Mandel-Croûtons","content":"Schwenkt Toastbrotwürfel mit angedrücktem Knoblauch und Butter in der Pfanne und mischt sie mit gehobelten Mandeln."}]}</CustomStructuredRecipeJson>
+    <Title>Spinat Suppe</Title>
+    <Headline position="1">Spinat Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-22T09:47:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xf8mxzmkjfyiwd7yi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(tiefgekühlt oder frisch)" plural="Blattspinat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(vorwiegend festkochend)" plural="Kartoffeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(30 % Fett)" plural="Crème fraîche" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="7" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="10" prefix="geriebene" plural="Muskatnuss"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xf8p4zuurgmdcu7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Spinat auftauen, abtropfen lassen und ausdrücken. Zwiebeln und Knoblauch abziehen, Kartoffeln schälen und zusammen in Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Spinatsuppe</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xf8p4zv1z830v37yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Hälfte der Crème fraîche mit einem Schneebesen aufschlagen und mit Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xf8p4zv5g2dyya7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüsewürfel mit 1 TL Salz in einem Topf in erhitztem Öl 3-5 Minuten anschwitzen. Mit Brühe auffüllen und mit Deckel bei mittlerer Hitze ca. 20 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xf8p4zv8k1lsveg7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Ausgedrückten Spinat zur Suppe geben, noch einmal aufkochen und mit dem Stabmixer fein pürieren. Übrige Crème fraîche einrühren und mit Salz, Pfeffer und Muskatnuss abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xf8p4zvc417lfxf7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Suppe auf 4 Teller oder Schalen verteilen, mit aufgeschlagener Crème fraîche und nach Wunsch mit Walnusskernen bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82xf8p4zvg55d18p7yi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Schwenkt Toastbrotwürfel mit angedrücktem Knoblauch und Butter in der Pfanne und mischt sie mit gehobelten Mandeln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Knoblauch-Mandel-Croûtons</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Marc Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82loucc11o01bvnjwh6h" file_variant="master" position="1">Spinat Suppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f88df508f25">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Marc Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82loudszgqrtymstfvg" file_variant="master" position="1">Spinat Suppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f88df69e6a0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Marc Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lougvndyuo5pi8ogp" file_variant="master" position="1">Spinat Suppe II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f88df837baf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Marc Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lou9llbc9xfgj7odu" file_variant="master" position="1">Spinat Suppe II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

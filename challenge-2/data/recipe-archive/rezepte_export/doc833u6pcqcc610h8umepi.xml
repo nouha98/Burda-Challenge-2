@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc833u6pcqcc610h8umepi" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-03T20:26:25+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-03T20:40:50+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Caipirinha","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Bio-Limetten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Crushed Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Cachaca","unit":{"name":"cl"},"prefix":null,"suffix":"(Zuckerrohrschnaps)"}]}],"preparation":[{"headline":null,"content":"Limetten abwaschen, abtropfen lassen, halbieren und in je 8 Stücke schneiden."},{"headline":null,"content":"Limettenspalten mit dem Zucker auf 2 Gläser (ca. 200 ml) verteilen und mit einem Holzstößel oder Löffel zerdrücken, bis der Zucker sich aufgelöst hat."},{"headline":null,"content":"Gläser bis zum Rand mit Crushed Eis befüllen und mit Cachaca auffüllen. Mit einem Barlöffel langsam verrühren und eiskalt servieren."}],"recipe_tips":[{"headline":"Pfefferminztee","content":"Besonders erfrischend und nicht ganz so alkoholisch schmeckt der Klassiker, wenn Du einen Teil des Cachacas durch kalten, frisch gebrühten Pfefferminztee ersetzt."}]}</CustomStructuredRecipeJson>
+    <Title>Caipirinha</Title>
+    <Headline position="1">Caipirinha</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-03T20:26:25+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="833u6nopocm1kdeiepi">
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Limetten" position="1" suffix="(siehe Tipp)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rohrohrzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" plural="Crushed Ice"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5271" amount="12" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" suffix="(Zuckerrohrschnaps)" plural="Cachaca" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="833u6pcpisi1a5k1xepi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limetten abwaschen, abtropfen lassen, halbieren. Limettenhälften in kleine Spalten schneiden. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6pcpu3pqml40epi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Limettenspalten mit dem Zucker in das Glas geben (à ca. 200 ml) und mit einem Holzstößel oder Löffel zerdrücken, bis sich der Zucker aufgelöst hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6pcpudk1lluzdepi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Glas bis zum Rand mit Crushed Eis befüllen und mit Cachaça auffüllen. Mit einem Barlöffel langsam verrühren und eiskalt servieren. Lass es dir schmecken! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="833u6pcpuiv1kykvxepi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Da beim „Caipi“ die Limetten komplett mit Schale in den Cocktail kommen, empfehlen wir die Verwendung von Bio-Limetten. Ihre Schale ist weder gewachst noch mit Konservierungsmitteln behandelt. Außerdem dürfen im Bio-Anbau keine chemisch-synthetischen Pflanzenschutzmittel verwendet werden. Da sie in der Regel etwas kleiner sind als konventionell erzeugte Limetten, benötigt man pro Drink ca. 1,5 bis 2 Bio-Limetten (statt 1 normal großen Limette). Wer keine Bio-Limetten im Supermarkt findet, sollte bei konventioneller Ware auf jeden Fall auf das Schild „Schale zum Verzehr geeignet“ achten!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Bio-Limetten oder normale Limetten?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_69090509b9d3e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Besonders erfrischend und nicht ganz so alkoholisch schmeckt der Klassiker, wenn du einen Teil des Cachaça durch kalten, frisch gebrühten Pfefferminztee ersetzt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Pfiffige Minz-Variante mit kaltem Pfefferminztee</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82pskfd3htkw126p7j" file_variant="master" position="1">Caipirinha Bowle II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6909052a0a5d4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82pskijxmuak91lk1s88" file_variant="master" position="1">Caipirinha Bowle II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6909052c21811">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82pskgrb65dqia01oyd" file_variant="master" position="1">Caipirinha Bowle II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

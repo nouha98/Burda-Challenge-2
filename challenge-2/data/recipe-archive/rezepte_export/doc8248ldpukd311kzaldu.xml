@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8248ldpukd311kzaldu" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-26T14:37:16+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-26T15:32:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="140"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buttermilch Dessert","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":140}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Buttermilch Dessert","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"natur"},{"amount":70,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Abrieb und Saft)"}]},{"headline":"Für die Dekoration","ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Zitronenscheiben","unit":{"name":"Stück"},"prefix":"ganze","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze Blättchen","unit":{"name":"(Keine Einheit)"},"prefix":"Einige","suffix":null}]}],"preparation":[{"headline":"Für das Buttermilch Dessert","content":"Sahne aufschlagen und bis zur Weiterverarbeitung im Kühlschrank kühlen. Die Gelatine in kaltem Wasser einweichen lassen. Buttermilch mit Joghurt, Zucker, Zitronenabrieb – Saft verrühren. Drei Esslöffel von der Buttermilchmischung in einem kleinen Topf leicht erwärmen, die Gelatine ausdrücken und darin auflösen. Esslöffelweise von der Buttermilchmischung hinzugeben, bis beides wieder die gleiche Temperatur hat. Die Buttermilchmischung für 20 Minuten im Kühlschrank anziehen lassen, jedoch bevor die Masse stockt, die Sahne unterheben. Die Masse bis zu 2/3 in die 6 Dessertgläser à 220 ml Fassungsvermögen einfüllen. Für 2 Stunden im Kühlschrank stocken lassen, mit Zitronenscheiben und Minze dekorieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Buttermilch Dessert</Title>
+    <Headline position="1">Buttermilch Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-26T14:37:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8248lbxi0091e4k55ldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Buttermilch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="natur" plural="Joghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Abrieb und Saft)" plural="Zitronen" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Buttermilch Dessert</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8248ldgbex2ajgpmldu">
+      <CustomRecipeIngredient topic="tmt85x1kw1kjc915bu84hg5" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="ganze" plural="Zitronenscheiben" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Einige" position="2" plural="Minzblätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8248ldpuhfk1i6fzyldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Buttermilch Dessert die Sahne aufschlagen und bis zur Weiterverarbeitung im Kühlschrank kühlen. Die Gelatine ca. 5 Min. in einer Schale mit kaltem Wasser einweichen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68adb73d2cac1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Buttermilch mit Joghurt, Zucker, Zitronenabrieb und –saft verrühren. Drei Esslöffel von der Buttermilch-Mischung in einen kleinen Topf geben und leicht erwärmen. Die Gelatine vorsichtig mit den Händen ausdrücken und in der warmen (nicht kochenden!) Buttermilch-Mischung auflösen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68adb743eacc5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Esslöffelweise von der kühlen Buttermilch-Mischung zum Topf geben, bis die Temperatur des Topfinhalts deutlich gesunken ist. Dann den Topfinhalt zur restlichen Buttermilch-Mischung geben und kurz verrühren. Die Buttermilchmischung für ca. 20 Min. im Kühlschrank anziehen lassen. Bevor die Masse zu fest ist die Sahne unterheben.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68adb74a99619">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sechs Dessertgläser (à 220 ml) bereitstellen. Die Masse bis zu 2/3 in die Gläser füllen einfüllen. Desserts für 2 Stunden im Kühlschrank fest werden lassen, dann mit Zitronenscheiben und Minze dekorieren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mnqilu6za1kn8xzfjj" file_variant="master" position="1">ButtermilchDessert1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68adb75a1aa5f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mnqk89mdf30n2kbfn" file_variant="master" position="1">ButtermilchDessert2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

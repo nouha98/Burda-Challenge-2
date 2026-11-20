@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc870d4g19x8o15hnfbfhm" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-04T09:13:34+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-08-04T09:28:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="75"/>
+    <CustomRecipeThesaurs topic="tmt81byh4tyu77he57nfj5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <Source topic="tmt870db73rsrkk8gnafkv"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Döppekooche (Kartoffelkuchen)","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Backen","duration":75}],"difficulty":null,"price":null,"nutritions":{"calories":595,"kilojoule":2500,"carbonhydrates":45,"fat":38,"protein":17,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"durchwachsener Speck","unit":{"name":"g"},"prefix":null,"suffix":"(in Scheiben)"},{"amount":"1,2","amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"kg"},"prefix":null,"suffix":"(vorwiegend festkochend)"},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"getrockneter Majoran","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"für die Form"},{"amount":1,"amountTo":null,"ingredient_name":"Apfelmus","unit":{"name":"Glas"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen."},{"headline":null,"content":"Speckscheiben längs halbieren, dann quer in 1 cm große Stücke schneiden."},{"headline":null,"content":"Kartoffeln schälen, waschen, Zwiebeln abziehen, beides grob reiben und in einem Sieb abtropfen lassen."},{"headline":null,"content":"Inzwischen Eier verquirlen und mit Salz, Pfeffer, Muskat und Majoran würzen."},{"headline":null,"content":"Speck und Eier in einer Schüssel mit dem Kartoffel-Zwiebel-Mix mischen."},{"headline":null,"content":"Auflaufform mit Butter fetten. Dann die Kartoffelmasse einfüllen und glatt streichen."},{"headline":null,"content":"Döppekooche im Ofen auf der untersten Schiene ca. 75 Minuten backen."},{"headline":null,"content":"Mit Apfelmus servieren."}],"recipe_tips":[{"headline":null,"content":"Dazu passt: grüner Salat."}]}</CustomStructuredRecipeJson>
+    <Title>Döppekooche (Kartoffelkuchen)</Title>
+    <CustomRecipeNutritionalValueCalories position="1">595</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2500</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">45</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">38</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">17</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">für 1 Auflaufform (18 x 32 cm)</CustomRecipeNoteInformation>
+    <CustomRecipeTeaserside position="1">grüner Salat.</CustomRecipeTeaserside>
+    <Headline position="1">Döppekooche (Kartoffelkuchen)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-04T09:13:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="870d4iekm4p1628mnlam">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10261" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(in Scheiben)" position="1" prefix="durchwachsener" plural="Speck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="1.2" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" suffix="(vorwiegend festkochend)" plural="Kartoffeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Muskatnuss" position="7"/>
+      <CustomRecipeIngredient topic="tmt80j1g3walz6o5a0sgip" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" plural="getrockneter Majoran"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="für die Form" plural="Butter" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4571" amount="1" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" plural="Apfelmus" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="870d4k99c86ec1fblam">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Speckscheiben längs halbieren, dann quer in 1 cm große Stücke schneiden. Kartoffeln schälen, waschen, Zwiebeln abziehen, beides grob reiben und in einem Sieb abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="870d4k99fgj65tf2lam">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Inzwischen Eier verquirlen und mit Salz, Pfeffer, Muskat und Majoran würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="870d4k99flc18y6y2lam">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Speck und Eier in einer Schüssel mit dem Kartoffel-Zwiebel-Mix mischen. Auflaufform mit Butter fetten. Dann die Kartoffelmasse einfüllen und glatt streichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="870d4k99fow1ciq9ulam">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Döppekooche im Ofen auf der untersten Schiene ca. 75 Minuten backen. Mit Apfelmus servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="870d4k99g9i14syu0lam">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">So bleiben die Kartoffeln hell: 1 Msp. Natron oder Knödelhilfe (ein Antioxidationsmittel) unter die rohe Kartoffelmasse mischen, dann werden sie nicht braun. </CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Döppekooche mit Speck und Apfelmus</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Eising Studio</ImageCredit>
+      <DocumentRef doc_id="doc7p25usndmi1wo0451ru" file_variant="master" position="1">Döppekooche mit Speck und Apfelmus</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81q94m243ds2m5pz22i3" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-30T09:23:34+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-30T09:32:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="12" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Amerikanische Buttercreme","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Amerikanische Buttercreme","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":"gesiebt"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die Buttercreme","content":"Weiche Butter cremig aufschlagen. Den Puderzucker sieben und eslöffelweise zur Butter geben und untermischen. Erst wenn der Puderzucker sich gut vermengt hat, den nächsten Löffel Puderzucker untermischen. 1 Prise Salz untermengen. Zuletzt 2 EL Milch untermischen, dadurch löst sich der Puderzucker wieder etwas besser auf und die Creme wird glatter."}],"recipe_tips":[{"headline":"Wenn die Creme aufgetragen wird (zum Beispiel auf Cupcakes)","content":"trocknet sie recht schnell außen aus, das liegt am hohen Zuckeranteil des Frostings."}]}</CustomStructuredRecipeJson>
+    <Title>Amerikanische Buttercreme</Title>
+    <Headline position="1">Amerikanische Buttercreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-30T09:23:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81q94l3islj15cy1n22i3">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="gesiebt" plural="Puderzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Milch" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Amerikanische Buttercreme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81q94m23p8w1m5gpd22i3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Weiche Butter cremig aufschlagen. Den Puderzucker sieben und eslöffelweise zur Butter geben und untermischen. Erst wenn der Puderzucker sich gut vermengt hat, den nächsten Löffel Puderzucker untermischen. 1 Prise Salz untermengen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Buttercreme</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6889c9ab83ba7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zuletzt 2 EL Milch untermischen, dadurch löst sich der Puderzucker wieder etwas besser auf und die Creme wird glatter.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81q94m23tmgsqgo122i3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">trocknet sie recht schnell außen aus, das liegt am hohen Zuckeranteil des Frostings.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Wenn die Creme aufgetragen wird (zum Beispiel auf Cupcakes)</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814ovnxe9g3joo4ofr6" file_variant="master" position="1">AmerikanischeButtercreme2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6889ca7515b54">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814ovk80zj811d82luj5" file_variant="master" position="1">AmerikanischeButtercremeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6889ca770f6f3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814ovj7v48mftcplfs2" file_variant="master" position="1">AmerikanischeButtercremeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6889ca7953a9b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814ovfplfral4wsl22ck" file_variant="master" position="1">AmerikanischeButtercreme1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

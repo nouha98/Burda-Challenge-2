@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8642mmtz4r9187cgiekq" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-02T12:55:54+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-06-02T13:06:04+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" plural="Stücke" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpvd37ecdo5"/>
+    <Source topic="tmt8642p57fs9jd8incely"/>
+    <CustomRecipeNoteInformation position="1">Quicheform (Ø 24 cm)</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">290</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">23</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">19</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Ricotta-Polenta-Kuchen mit Rosmarin-Sirup</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-02T12:55:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="3" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gemahlene, blanchierte" suffix="und mehr für die Form" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiche" suffix="und Butter für die Form" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8876" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Polenta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="2" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="5" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7zfs3ls179yitds7lr0" position="7" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier (Gr. M)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9146" position="8" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ricotta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="9" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt7tb9s8afldxz06c3mvf" position="10" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="abgeriebene " plural="Bio-Zitronenschale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7951" position="11" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mandelblättchen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Kuchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a1eb7e1c18f8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" position="1" amount="4" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="2" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="3" amount="80" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Zitronensaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Sirup</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen. Eine Quicheform mit Butter fetten und mit Mandeln ausstreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a1eb83fefadb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Polenta, Backpulver und Mandeln mischen. Butter mit Zucker und Salz cremig rühren. Eier trennen und das Eigelb nach und nach untermixen. Ricotta, Polenta-Mischung, Zitronensaft und -schale unterrühren. Eiweiße steif schlagen und unterheben. Den Teig in die Form füllen und glattstreichen. Mit den Mandelblättchen bestreuen. Im Ofen ca. 50 Minuten backen (Stäbchenprobe). </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a1eb89fc13ef">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Rosmarin zerzupfen. Ein wenig zum Garnieren beiseitelegen. Den Rest mit Honig und Zitronensaft erwärmen und mindestens 10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a1eb8c249521">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Kuchen noch warm mit etwa der Hälfte des Sirups tränken und auskühlen lassen. Mit restlichem Rosmarin garnieren und mit übrigem Sirup servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Ricotta-Polenta-Kuchen mit Zitronen-Rosmarin-Sirup</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc85n1xbmektc1cmg8727u" file_variant="master" position="1">Ricotta-Polenta-Kuchen mit Zitronen-Rosmarin-Sirup</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

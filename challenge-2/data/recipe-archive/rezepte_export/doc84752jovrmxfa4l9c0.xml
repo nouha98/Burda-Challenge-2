@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84752jovrmxfa4l9c0" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-19T08:12:04+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-19T08:22:23+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtwy19t4d8do5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Blumenkohlauflauf mit Hackfleisch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":40},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"frischer Blumenkohl","unit":{"name":"Stück"},"prefix":null,"suffix":"(400g)"},{"amount":400,"amountTo":null,"ingredient_name":"gemischtes Hackfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"rote Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Reibkäse","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Blumenkohl, in kleine Röschen schneiden, waschen und in kochendem Salzwasser für 7 Minuten blanchieren. Den Blumenkohl abschütten und ausdampfen lassen. Den Blumenkohl in eine Auflaufform geben."},{"headline":"In der Zwischenzeit","content":"Die rote Zwiebel in feine Würfelchen schneiden. Das Öl in einer Pfanne erhitzen und zusammen mit dem Hackfleisch anbraten. Mit Tomatenmark und Brühe mischen und leicht einköcheln lassen. Das Hackfleisch mit Salz, Pfeffer, Paprika und italienischen Kräutern würzen. Das Hackfleisch auf dem Blumenkohl verteilen."},{"headline":"Für die Béchamelsauce","content":"Die Butter in einem kleinen Topf schmelzen lassen, das Mehl hinzugeben und für 2 Min klümpchenfrei rühren. Mit Milch ablöschen, ständig rühren damit die Sauce klümpchenfrei eindickt. Mit Sahne, Salz, Pfeffer und Paprika würzen. Über das Hackfleisch verteilen. Den Auflauf für 25 Minuten backen lassen. Noch heiß servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Blumenkohlauflauf mit Hackfleisch</Title>
+    <Headline position="1">Blumenkohlauflauf mit Hackfleisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-19T08:12:04+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84752ex8n5j1gveyg9c0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(400g)" position="1" prefix="frischer" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="rote Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Öl" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl36o8lfk2r77vbq" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="gemischtes Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Tomatenmark" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="7" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Paprikapulver" position="8" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6851" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" plural="Italienische Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mehl" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="13" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9101" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="14" plural="Reibkäse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84752jovhp1253x89c0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Blumenkohl in kleine Röschen schneiden, waschen und in kochendem Salzwasser für 7 Minuten blanchieren. Den Blumenkohl abschütten und ausdampfen lassen. Den Blumenkohl in eine Auflaufform geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Auflauf </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84752jovlmvliefn9c0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit die rote Zwiebel schälen und in feine Würfelchen schneiden. Das Öl in einer Pfanne erhitzen und die Zwiebel zusammen mit dem Hackfleisch anbraten, bis das Hackfleisch krümelig ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84752jovnxvl1zsi9c0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Tomatenmark und Brühe dazugeben, mischen und die Flüssigkeit leicht einköcheln lassen. Das Hackfleisch mit Salz, Pfeffer, Paprikapulver und italienischen Kräutern würzen und abschmecken. Das Hackfleisch auf dem Blumenkohl verteilen. Den Backofen auf 180 Grad Ober- und Unterhitze (Umluft 160 Grad) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="3"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_696dda4385fd0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Béchamelsauce die Butter in einem kleinen Topf schmelzen lassen, das Mehl hinzugeben und für 2 Min mit einem Schneebesen klümpchenfrei rühren. Mit Milch ablöschen, dabei ständig rühren, bis die Sauce klümpchenfrei eindickt. Mit Sahne, Salz, Pfeffer und Paprikapulver würzen und abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_696dda562d8c6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sauce über das Hackfleisch verteilen. Den Auflauf mit Käse bestreuen und für 25 Minuten im Backofen backen lassen. Noch heiß servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8421oqfutegacuj3fty" file_variant="master" position="1">BlumenkohlauflaufmitHackfleisch_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_696ddba1b2136">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8421on6caqx133yovis2" file_variant="master" position="1">BlumenkohlauflaufmitHackfleisch_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_696ddba573d2f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8421otbbog418mjw3fum" file_variant="master" position="1">BlumenkohlauflaufmitHackfleisch_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

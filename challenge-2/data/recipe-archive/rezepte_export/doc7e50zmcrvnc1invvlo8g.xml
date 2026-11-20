@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e50zmcrvnc1invvlo8g" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-19T14:09:45+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:39+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6u660fouejk1coe7h1l1"/>
+    <Creator topic="tmt6u660fouejk1coe7h1l1"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6u660fouejk1coe7h1l1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <DateImported>2021-01-19T14:09:45+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">575</CustomRecipeNutritionalValueCalories>
+    <Headline position="1">Warmer Reissalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9106" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Reis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="3" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" plural="Zucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6006dd0d3eec0">
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">sadfasdfasdf</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Reis abbrausen, mit Brühe, Safran aufkochen, ca. 20 Min. bei kleinster Hitze quellen lassen. Mit Salz, Cayennepfeffer würzen. Abkühlen. Tomaten entkernen, würfeln. Mit grüner Paprika, Zwiebel, Salz, Zitronensaft, Tabasco mischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6006dbf70b7a7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Salat in Streifen schneiden. Filets abtupfen, würfeln. Mit Honig und Essig marinieren. In Öl scharf anbraten. Würzen. Mit Reis, Paprikastreifen, Bohnen, je 1 EL Tomaten-Salsa in 4 Schalen anrichten. Joghurt mit Knoblauch, Koriander, Salz und Pfeffer verrühren. Mit Reissalat &amp; übriger Salsa servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">StockFood Studios</ImageCredit>
+      <DocumentRef doc_id="blpbild-4709125" file_variant="master" position="1">Reis mit Bohnen-Hähnchen-Salat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

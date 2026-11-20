@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83cv2u8cxmo19pk2bn17" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-21T09:58:36+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-21T10:07:54+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gulasch mit Sauerkraut","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":120}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Gulaschfleisch","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. aus der Rinderhesse/-wade) 3-4cm große Würfel"},{"amount":300,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"g"},"prefix":"fein","suffix":"gewürfelt"},{"amount":3,"amountTo":4,"ingredient_name":"Butterschmalz oder Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":"zum Anbraten"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kümmel","unit":{"name":"TL"},"prefix":null,"suffix":"gemahlen"},{"amount":1,"amountTo":null,"ingredient_name":"Majoran","unit":{"name":"TL"},"prefix":null,"suffix":"getrocknet"},{"amount":40,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"g"},"prefix":null,"suffix":"edelsüß"},{"amount":40,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"g"},"prefix":null,"suffix":"rosenscharf"},{"amount":300,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Sauerkraut","unit":{"name":"g"},"prefix":null,"suffix":"aus dem Glas/Dose"}]}],"preparation":[{"headline":null,"content":"Die Zwiebeln schälen und in feine Würfel schneiden."},{"headline":null,"content":"Das Butterschmalz in einem Topf erhitzen und die Zwiebeln darin bei mittlerer Hitze für etwa 10 Minuten anschwitzen. Den Zucker dazugeben und nochmals vorsichtig für weitere 5 Minuten goldbraun anschwitzen."},{"headline":null,"content":"Das Fleisch in den Topf geben, Salz und Gewürze hinzugeben und alles gut umrühren."},{"headline":null,"content":"Für 1 weitere Minuten anschwitzen, ohne dass die Gewürze verbrennen. Mit dem Rotwein ablöschen und fast komplett einkochen lassen."},{"headline":null,"content":"Das Fleisch nun mit Wasser leicht bedecken und ca. 1,5-2 h Stunden sanft köcheln lassen. Das Fleisch sollte weich sein. Die Gardauer hängt nicht nur von der Würfelgröße, sondern auch der Fleischqualität ab. Währenddessen immer wieder mal umrühren und eventuell etwas Wasser nachgießen, sollte zu viel Flüssigkeit eingekocht sein, so dass eine sämige Sauce entsteht."},{"headline":null,"content":"Nun das Sauerkraut (ggbfs. auf einem Sieb abtropfen lassen) in das Gulasch geben und für weitere 5 Minuten köcheln lassen."},{"headline":null,"content":"Mit Pfeffer und Salz abschmecken."}],"recipe_tips":[{"headline":"Noch sämiger und intensiver…","content":"wird die Soße, wenn das Gulasch über Nacht im Kühlschrank durchziehen kann und am nächsten Tag nochmals vorsichtig erwärmt wird. Dazu passen Petersilienkartoffeln oder Knödel."}]}</CustomStructuredRecipeJson>
+    <Title>Gulasch mit Sauerkraut</Title>
+    <Headline position="1">Gulasch mit Sauerkraut</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-21T09:58:36+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83cv2pu51zqfhvdxn17">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="fein" suffix="gewürfelt" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6451" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. aus der Rinderhesse/-wade) 3-4cm große Würfel" plural="Gulaschfleisch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt82nb55795rm1fxlin14r5" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="gemahlen" plural="Kümmel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7906" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="getrocknet" plural="Majoran" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="edelsüß" plural="Paprikapulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="rosenscharf" plural="Paprikapulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rotwein" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="1000" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9641" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus dem Glas/Dose" plural="Sauerkraut" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5261" amount="3" max_amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="oder Sonnenblumenöl zum Anbraten" position="12" plural="Butterschmalz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83cv2u8cpfqowljon17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebeln schälen und in feine Würfel schneiden. Das Butterschmalz in einem Topf erhitzen und die Zwiebeln darin bei mittlerer Hitze für etwa 10 Minuten anschwitzen. Den Zucker dazugeben und nochmals vorsichtig für weitere 5 Minuten goldbraun anschwitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cv2u8ctaqzzkjqn17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Fleisch in den Topf geben, Salz und Gewürze hinzugeben und alles gut umrühren. Für 1 weitere Minute anschwitzen, ohne dass die Gewürze verbrennen. Mit dem Rotwein ablöschen und fast komplett einkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cv2u8ctf6k4oaen17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Fleisch mit Wasser leicht bedecken und ca. 1,5-2 Stunden sanft köcheln lassen. Das Fleisch sollte weich sein. Die Gardauer hängt nicht nur von der Würfelgröße, sondern auch von der Fleischqualität ab.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cv2u8ctly16kyxn17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Währenddessen immer wieder mal umrühren und eventuell etwas Wasser nachgießen, sollte zu viel Flüssigkeit eingekocht sein, so dass eine sämige Sauce entsteht.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cv2u8ctpsix1orn17">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Das Sauerkraut (gegebenenfalls in einem Sieb abtropfen lassen) in das Gulasch geben und für weitere 5 Minuten köcheln lassen. Mit Pfeffer und Salz abschmecken. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83cv2u8cu1g1hqgbcn17">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Noch intensiver wird die Soße, wenn das Gulasch über Nacht im Kühlschrank durchziehen kann und am nächsten Tag nochmals vorsichtig erwärmt wird. Dazu passen Petersilienkartoffeln oder Knödel.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für eine noch sämigere Soße</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mtfq654h5poperm6b" file_variant="master" position="1">Gulasch mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69202be61e9eb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mtfkewfw66t6xym7f" file_variant="master" position="1">Gulasch mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69202be7be50d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mtfirxccogxwzm8e" file_variant="master" position="1">Gulasch mit Sauerkraut</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69202be9111f3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mtfnfim5jfazdlmdx" file_variant="master" position="1">Gulasch mit Sauerkraut</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

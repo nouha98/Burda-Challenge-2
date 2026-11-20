@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc835cd7206aciq9z53yi" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-06T18:44:14+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-07T14:39:52+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Mojito","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Bio-Limetten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"frische Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Crushed Ice","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"brauner Rum","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Limetten und Minze abwaschen und abtropfen lassen. Limetten halbieren, jeweils in 4 Spalten schneiden und die Minze grob zupfen."},{"headline":null,"content":"Limettenspalten und Minze mit dem Zucker auf 2 Gläser (à ca. 300 ml) verteilen und mit einem Holzstößel oder Löffel zerdrücken, bis sich der Zucker aufgelöst hat."},{"headline":null,"content":"Gläser 2/3 mit Crushed Ice befüllen. Rum einfüllen und mit Mineralwasser auffüllen."},{"headline":null,"content":"Mit einem Barlöffel langsam verrühren und nach Wunsch mit einer Limettenspalte und frischer Minze servieren."}],"recipe_tips":[{"headline":"Virgin Green Tea Mojito","content":"Verzichte auf den Rum und koche dir stattdessen mit einigen Stielen frischer Minze einen kräftigen Grüntee. Tee abkühlen lassen und den Drink wie beschrieben zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Mojito</Title>
+    <Headline position="1">Mojito</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-06T18:44:14+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="835cd5nef7twiqdd3yi">
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="3" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" position="2" prefix="frische" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Rohrohrzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Crushed Ice" position="4"/>
+      <CustomRecipeIngredient topic="tmt803gs74inn611pczsfqd" amount="12" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="5" plural="brauner Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="835cd72055egw6rp3yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limetten und Minze abwaschen und abtropfen lassen. Limetten halbieren, jeweils in 4 Spalten schneiden und die Minze grob zupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="835cd7205d41kpsi33yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Limettenspalten und Minze mit dem Zucker auf 2 Gläser (à ca. 300 ml) verteilen und mit einem Holzstößel oder Löffel zerdrücken, bis sich der Zucker aufgelöst hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="835cd7205h410g9ep3yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Gläser zu 2/3 mit Crushed Ice befüllen. Dann den Rum einfüllen und mit Mineralwasser aufgießen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="835cd7205mcpm9l33yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Mit einem Barlöffel langsam verrühren und nach Wunsch mit einer Limettenspalte und frischer Minze servieren. Lass es dir schmecken!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="835cd7205qe1elnv93yi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verzichte auf den Rum und koche dir stattdessen mit einigen Stielen frischer Minze einen kräftigen Grüntee. Tee abkühlen lassen und den Drink wie beschrieben zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mojito alkoholfrei: Virgin Green Tea Mojito</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa0twk7hs11n5x6kqn" file_variant="master" position="1">Mojito II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690df62a09210">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa0r6uxww6zuxwjx5" file_variant="master" position="1">Mojito II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690df62be4fff">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa0pma2mvc36o5ubx" file_variant="master" position="1">Mojito II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

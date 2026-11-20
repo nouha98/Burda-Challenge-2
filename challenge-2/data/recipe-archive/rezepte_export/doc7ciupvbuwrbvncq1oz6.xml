@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ciupvbuwrbvncq1oz6" dcx-version="6.3.1" version="1.0">
+  <created>2020-09-28T09:55:22+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2022-04-20T15:33:11+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <ImportedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <Keywords topic="tmt7cius5vydtd132p79nbk"/>
+    <DateImported>2020-09-28T09:55:22+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">230</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Apfel-Joghurt-Shake mit Beeren</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="1" amount="4" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" position="2" amount="8" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="3" amount="4" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="4" amount="550" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="5" amount="4" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" position="7" amount="8" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="(Instant)" plural="Haferflocken"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1. Äpfel waschen, entkernen und in Würfel schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_5f719716ee584">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">2. Apfelwürfel, Beeren, Zitronen-saft, Joghurt, Honig, Vanillezu-cker und Instant-Haferflocken in einen Mixer füllen. Alle Zutaten fein pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>S?sser Gem?sesmoothie mit Apfel und Zimt</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Kirchherr, Jo</ImageCredit>
+      <DocumentRef doc_id="doc70z774gc2e9ihxb69y1" file_variant="master" position="1">S?sser Gem?sesmoothie mit Apfel und Zimt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

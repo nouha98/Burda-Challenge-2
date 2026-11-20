@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83r8ne38cuudfmgkixm" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-19T09:30:21+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-19T09:36:25+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="360"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zimteis","recipe_seo_headline":null,"servings":{"amount":600.0,"unit":"other"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":20},{"name":"Ruhen/Warten","duration":360}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Stange"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Milch mit der Sahne in einen Topf geben und die Zimtstangen leicht zerbrochen dazulegen. Die Milch-Sahne Mischung einmal aufkochen und für ca. 15 Minuten ziehen lassen."},{"headline":null,"content":"Die Eier trennen und die Eigelbe in eine Metallschüssel geben und zusammen mit Zucker und Salz mit dem Handrührgerät ca. 4 Minuten schaumig rühren."},{"headline":null,"content":"Die Milch dann auf die Ei Masse gießen und verrühren."},{"headline":null,"content":"Diese Schüssel auf einen Topf mit siedendem Wasser stellen und die Eismasse mit dem Schneebesen rühren, bis diese cremig und dickflüssig ist. Die Masse im Kühlschrank abkühlen lassen und dann direkt in eine Kastenform gießen und für ca. 6 Stunden im Gefrierfach fest werden lassen."},{"headline":null,"content":"Wer eine Eismaschine hat, kann die Masse innerhalb 20 Minuten gefrieren und das Eis dann für ca. 1 h in das Gefrierfach legen, damit es fest wird."}],"recipe_tips":[{"headline":"Vorsicht!","content":"Zu viel Hitze kann das Eigelb ausflocken lassen."}]}</CustomStructuredRecipeJson>
+    <Title>Zimteis</Title>
+    <Headline position="1">Zimteis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-19T09:30:21+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83r8nc3sw7oq6gisixm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83r8ne382vb1jnfgiixm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Milch mit der Sahne in einen Topf geben und die Zimtstangen leicht zerbrochen hineinlegen. Die Milch-Sahne-Mischung einmal aufkochen und für ca. 15 Minuten bei abgeschaltetem Herd ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83r8ne386jpnt8v7ixm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Eier trennen und die Eigelbe in eine Metallschüssel geben. Die Eigelbe zusammen mit Zucker und Salz mit dem Handrührgerät ca. 4 Minuten schaumig rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83r8ne386omfuigpixm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Milchsahne durch ein Sieb auf die Ei-Masse gießen (die Zimtstangen bleiben im Sieb) und verrühren. Diese Schüssel auf einen Topf mit siedendem Wasser stellen und die Eimasse mit dem Schneebesen rühren, bis diese cremig und dickflüssig ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83r8ne386sobw37sixm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Masse im Kühlschrank abkühlen lassen und dann direkt in eine Kastenform gießen. Die Form für ca. 6 Stunden im Gefrierfach fest werden lassen. Wer eine Eismaschine hat, kann die Masse innerhalb 20 Minuten gefrieren und das Eis dann für ca. 1 Stunde in das Gefrierfach legen, damit es fest wird. Das Zimteis ergibt ca. 600 g. Lass dir das Eis schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83r8ne386zlc1ln4ixm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Zu viel Hitze kann das Eigelb ausflocken lassen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vorsicht!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz0x4irw71avntrlgu" file_variant="master" position="1">Zimteis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69450e84eeeef">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz0kclu83oc8c9kxo" file_variant="master" position="1">Zimteis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69450e8695833">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz0dmvx3s142sswtey" file_variant="master" position="1">Zimteis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69450e87ca07a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sz0q5zu9ztamnnpmd" file_variant="master" position="1">Zimteis II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

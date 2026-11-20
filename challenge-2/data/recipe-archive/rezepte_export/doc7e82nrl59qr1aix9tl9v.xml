@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e82nrl59qr1aix9tl9v" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-25T12:27:22+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-07-27T13:22:26+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <Creator topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <StoryType topic="storytype-recipe"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeNoteInformation position="1">Zutaten für 2 Gläser (ca. 300ml).</CustomRecipeNoteInformation>
+    <Headline position="1">Green Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-01-25T12:27:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10316" position="1" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="2" amount="1/2" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" position="3" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Salatgurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="4" amount="1" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt7e82oxucbo6gz0axl8m" position="5" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Kokoswasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="6" amount="1" prefix="Handvoll" plural="Eiswürfel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">50 g Spinat, 1⁄2 Bund Minze, 150 g Salatgurke und 1 Apfel waschen. Den Apfel und 1⁄2 Avocado entkernen. Alle Zutaten mit 200 ml Kokoswasser und 1 Handvoll Eiswürfeln in einem Mixer cremig pürieren. Je nach Konsistenz noch etwas Wasser untermixen. In Gläser oder kleine Flaschen füllen, servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc7a6qq5ellly1a3cqw94h" file_variant="master" position="1">Gr ner Super-Smoothie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

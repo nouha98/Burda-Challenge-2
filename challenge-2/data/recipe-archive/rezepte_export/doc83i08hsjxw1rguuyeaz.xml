@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83i08hsjxw1rguuyeaz" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T10:12:40+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-01T10:19:18+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Reissalat mit Thunfisch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Parboiled Reis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Thunfisch in Öl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Maiskörner","unit":{"name":"g"},"prefix":null,"suffix":"aus der Dose"},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":"gemahlen","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Einen großen Topf mit Wasser aufstellen, wenn das Wasser sprudelt, zuerst das Salz, dann die Nudeln hinzugeben und nach Packungsangabe kochen, abgießen und mit kaltem Wasser abschrecken. Die Nudeln gut abtropfen lassen. Währenddessen die Lauchzwiebeln putzen und in dünne Scheiben schneiden. Die Maiskörner abgießen und abwaschen. Die Paprika vierteln und das Kerngehäuse entfernen. Den Thunfisch mit einer Gabel zerteilen."},{"headline":null,"content":"In einer Schüssel, die Mayonnaise mit dem Zitronensaft und dem Weißweinessig, sowie mit dem Salz und dem Pfeffer verrühren."},{"headline":null,"content":"Die Petersilie fein hacken."},{"headline":null,"content":"Die Nudeln, das Gemüse und den Thunfisch in die Schüssel geben und mit der Sauce gut vermischen. Mit gehackter Petersilie bestreuen."}],"recipe_tips":[{"headline":"Die Wahl der Reissorte","content":"Natürlich können auch andere Reissorten, wie z.B. Basmatireis verwendet werden."}]}</CustomStructuredRecipeJson>
+    <Title>Reissalat mit Thunfisch</Title>
+    <Headline position="1">Reissalat mit Thunfisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T10:12:40+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83i08c5e1xw7io3geaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9106" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="Parboiled" plural="Reis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" suffix="in Öl" plural="Thunfisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Paprika" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Lauchzwiebeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7891" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus der Dose" plural="Maiskörner" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weißweinessig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mayonnaise" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="gemahlen" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83i08hsjq0lgd84ieaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Einen großen Topf mit Wasser erhitzen. Wenn das Wasser sprudelt, zuerst das Salz, dann den Reis hinzugeben und nach Packungsangabe kochen. Reis abgießen und mit kaltem Wasser abschrecken. Den Reis gut abtropfen lassen. Währenddessen die Lauchzwiebeln waschen, putzen und in dünne Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83i08hsjthdqhmcbeaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Maiskörner abgießen und abwaschen. Die Paprika waschen, vierteln und das Kerngehäuse entfernen. Paprika in kleine Stücke schneiden. Den Thunfisch aus der Dose nehmen und mit einer Gabel auf einem Teller zerteilen. In einer Schüssel die Mayonnaise mit dem Zitronensaft und dem Weißweinessig verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83i08hsjtmf18t7saeaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Sauce anschließend mit dem Salz und dem Pfeffer verrühren. Den Reis, das Gemüse (Lauchzwiebeln, Mais und Paprika) und den Thunfisch in die Schüssel geben und mit der Sauce gut vermischen. Die Petersilie waschen, abtropfen lassen und die Blättchen vom Stiel zupfen. Petersilienblätter fein hacken und den Salat mit der gehackten Petersilie bestreuen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83i08hsjtu01fz7gaeaz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Natürlich können auch andere Reissorten, wie z.B. Basmatireis verwendet werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die Wahl der Reissorte</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82re6dzm3kmjvnyotrt" file_variant="master" position="1">Reissalat mit Thunfisch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692d5d9253781">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82re616u3sg1h7p5ij4" file_variant="master" position="1">Reissalat mit Thunfisch</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692d5d93d2316">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82re66r2qky1c0fegiqc" file_variant="master" position="1">Reissalat mit Thunfisch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

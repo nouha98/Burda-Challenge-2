@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85pmnqn7ymr1dn9fhddp" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-05T10:17:26+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-05-05T10:25:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="720"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Keywords topic="tmt6qekg4daxbl1h1mex90a"/>
+    <Source topic="tmt85pmrc89tdk65xsndfd"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Beerenaufstrich mit Chiasamen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":720}],"difficulty":null,"price":null,"nutritions":{"calories":30,"kilojoule":126,"carbonhydrates":6,"fat":0,"protein":1,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Rote Johannisbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Blaubeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Chiasamen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Beeren eventuell abbrausen, putzen und gut abtropfen lassen. Früchte im Standmixer fein pürieren. Chiasamen unterrühren. Das Püree mit Ahornsirup süßen. Die Mischung in das saubere Glas füllen. Im Kühlschrank zugedeckt 12 Stunden quellen lassen. Der Aufstrich ist gekühlt etwa 1 Woche haltbar."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Beerenaufstrich mit Chiasamen</Title>
+    <CustomRecipeNutritionalValueCalories position="1">30</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">126</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">6</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Aufstrich muss 12 Stunden kühlen
+Standmixer</CustomRecipeNoteInformation>
+    <Headline position="1">Beerenaufstrich mit Chiasamen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-05T10:17:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85pmnrxqehc1cv5rjqnr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6881" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" prefix="rote" plural="Johannisbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4956" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Blaubeeren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Chiasamen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85pmnuppon716asguqnr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Beeren eventuell abbrausen, putzen und gut abtropfen lassen. Früchte im Standmixer fein pürieren. Chiasamen unterrühren. Das Püree mit Ahornsirup süßen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69f9a8d236b89">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Mischung in das saubere Glas füllen. Im Kühlschrank zugedeckt 12 Stunden quellen lassen. Der Aufstrich ist gekühlt etwa 1 Woche haltbar.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Gr fe &amp; Unzer Verlag / Kramp + G lling</ImageCredit>
+      <DocumentRef doc_id="doc79o5o5cagbl1iu85824r" file_variant="master" position="1">Schnelle Beerenkonfit re mit Chiasamen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

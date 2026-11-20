@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84r82per9b8fyxvkl0a" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-27T10:16:22+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-27T10:24:45+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananenmuffins ohne Zucker","recipe_seo_headline":"Bananenmuffins ohne Zucker – so schnell und lecker","servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"Stück"},"prefix":"reife","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"neutrales Öl","unit":{"name":"ml"},"prefix":null,"suffix":"(z.B. Sonnenblumenöl)"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":260,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 630)"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Muffinform mit Papierförmchen auslegen oder einfetten. Backofen auf 180 Grad Ober-/ Unterhitze (Umluft: 160 Grad) vorheizen. Bananen mit einer Gabel zu einem Brei zerdrücken. Anschließend mit Milch, Öl und Eier in einer Schüssel gut verrühren."},{"headline":null,"content":"Dinkelmehl mit Backpulver, Natron und Zimt vermischen und kurz unter den Teig rühren. Teig in die Muffinform einfüllen und im vorgeheizten Ofen ca. 20 Minuten backen. Die Bananenmuffins ohne Zucker halten sich luftdicht verpackt mindestens 4 Tage."}],"recipe_tips":[{"headline":"Auch lecker","content":"Du kannst die Muffins auch noch mit 75 g gehackter zuckerfreier Schokolade verfeinern."}]}</CustomStructuredRecipeJson>
+    <Title>Bananenmuffins ohne Zucker</Title>
+    <CustomRecipeSeoTitle position="1">Bananenmuffins ohne Zucker – so schnell und lecker</CustomRecipeSeoTitle>
+    <CustomRecipeNoteInformation position="1">Du benötigst: Rührgerät, Schüssel, Muffinform (12 Mulden), Papierförmchen</CustomRecipeNoteInformation>
+    <Headline position="1">Bananenmuffins ohne Zucker</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-27T10:16:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84r82o48jgppdvprl0a">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zg4iyp9gw519anvmbqf" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z.B. Sonnenblumenöl)" position="3" plural="neutrales Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="260" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 630)" plural="Dinkelmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimtpulver" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84r82per3yt1gus7kl0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Muffinform mit Papierförmchen auslegen oder einfetten. Backofen auf 180 Grad Ober-/ Unterhitze (Umluft: 160 Grad) vorheizen. Bananen mit einer Gabel zu einem Brei zerdrücken. Anschließend mit Milch, Öl und Eiern in einer Schüssel gut verrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84r82per6cggkx5sl0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Dinkelmehl mit Backpulver, Natron und Zimt vermischen und kurz unter den Teig rühren. Teig in die Muffinform einfüllen und im vorgeheizten Ofen ca. 20 Minuten backen. Die Bananenmuffins ohne Zucker halten sich luftdicht verpackt mindestens 4 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84r82per6h316f58ll0a">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Muffins auch noch mit 75 g gehackter zuckerfreier Schokolade verfeinern.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Auch lecker</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844s87c7sag148wefmig" file_variant="master" position="1">Bananenmuffins ohne Zucker</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69a162d74d979">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844s7x7vm4huper5mig" file_variant="master" position="1">Bananenmuffins ohne Zucker</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69a162d8cf026">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844s8a1dlh3hgmr2ecn" file_variant="master" position="1">Bananenmuffins ohne Zucker</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69a162db17d22">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844s7zxv2uoi9bq3m7d" file_variant="master" position="1">Bananenmuffins ohne Zucker</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69a162dc85dfb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844s84e47m83a9xdm9f" file_variant="master" position="1">Bananenmuffins ohne Zucker</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

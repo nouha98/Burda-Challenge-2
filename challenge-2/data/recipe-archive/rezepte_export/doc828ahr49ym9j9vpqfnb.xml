@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc828ahr49ym9j9vpqfnb" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-03T11:55:12+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-03T12:03:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <Creator topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="tmt81c00dbs9e9oco8zg8g"/>
+    <Provider topic="tmt828ali2yhw4bildafpf"/>
+    <SubHeadline position="1">Lachs in weißer Mandarinensauce mit Brioche-Krümeln 14081871</SubHeadline>
+    <Headline position="1">Lachs in weißer Mandarinensauce mit Brioche-Krümeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-03T11:55:12+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7931" position="5" amount="8" prefix="kleine" suffix="Bio" plural="Mandarinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7581" position="1" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Lachsfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="2" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="3" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="4" plural="Pfeffer aus der Mühle"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Lachs</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_68b810e6336ed">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7931" position="1" amount="4" suffix="Bio" plural="Mandarinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="2" amount="1" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" position="4" amount="1.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Dijonsenf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="7" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="9" plural="Pfeffer aus der Mühle"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_68b811599a733">
+      <CustomRecipeIngredient topic="tmt7cv7bxfmzmftb2851sh" position="1" amount="3" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" suffix="vom Vortag" plural="Brioches"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="3" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="gehackt" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8701" position="4" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="rot" plural="Pfefferbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5576" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="gehackt" plural="Dillspitze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 200 °C Ober- und Unterhitze vorheizen. Ein Backblech mit Backpapier belegen. Das Lachsfilet abbrausen, trockentupfen, mit Olivenöl bestreichen und mit Salz und Pfeffer würzen. Auf das Blech legen. Kleine Mandarinen heiß waschen, trockentupfen und halbieren. Dann die Hälften mit der Schnittfläche nach oben neben dem Fisch verteilen. Den Lachs im Ofen 20-25 Minuten garen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68b811b91bce7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für die Sauce die 4 Mandarinen heiß waschen, trockentupfen, die Schale fein abreiben und den Saft auspressen. Schalotte abziehen und fein würfeln. In einer Pfanne das Öl erhitzen und die Schalotte darin glasig anschwitzen. Mit dem Mandarinensaft ablöschen. Senf, Honig, Weißwein und Sahne zufügen und alles unter gelegentlichem Rühren in 10-12 Minuten sämig einkochen. Die Sauce mit Salz, weißem Pfeffer und Mandarinenabrieb würzen und abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68b811c45695a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Topping die Brioche-Scheiben zerkrümeln. In einer Pfanne die Butter erhitzen und die Krümel darin rösten. Pistazien zugeben und mitrösten, bis die Brioche-Krümel goldbraun sind.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68b811cb3689d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Lachs in eine vorgewärmte Servierschale legen und mit der Mandarinensauce übergießen. Das Topping darüber verteilen, alles mit roten Pfefferbeeren und Dillspitzen bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lachs in weißer Mandarinensauce mit Brioche-Krümeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Stile Italia Edizioni / Giorgi, Stefania</ImageCredit>
+      <DocumentRef doc_id="doc81wkzew31xx1mq6mqnjo" file_variant="master" position="1">Lachs in weißer Mandarinensauce mit Brioche-Krümeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

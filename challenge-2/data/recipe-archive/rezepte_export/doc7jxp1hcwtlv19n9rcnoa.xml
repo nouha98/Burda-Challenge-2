@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jxp1hcwtlv19n9rcnoa" dcx-version="6.3.1" version="1.0">
+  <created>2022-03-01T16:46:28+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2022-04-20T15:28:26+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Keywords topic="tmt7jxp23kal3oy46hef4c"/>
+    <Keywords topic="tmt7jxp23kj77b1lurx6f4c"/>
+    <Keywords topic="tmt6ow8t3bye6onurivhh1"/>
+    <Keywords topic="tmt6p2978fgp3o1gu72g8m4"/>
+    <Source topic="tmt7jxp23kquh0brblhf4c"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <DateImported>2022-03-01T16:46:28+01:00</DateImported>
+    <SubHeadline position="1">Glühwein-Macchiato mit Milchschaum, Zimtstern</SubHeadline>
+    <CustomRecipeNutritionalValueCalories position="1">300</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">35</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">9</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Glühwein-Macchiato</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6321" position="1" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Glühwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="3" amount="1" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="4" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Zimt"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Glühwein mit Zucker und Zimtstange in einen Topf geben und zum Kochen bringen. Sprudelnd auf die Hälfte einköcheln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_621e406e1af37">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Milch erhitzen und aufschäumen. Auf 4 Gläser verteilen. Den Glühweinsirup vorsichtig über den Rücken eines Esslöffels in die Gläser laufen lassen. Mit Zimt und evtl. je 1 Zimtstange garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wenn das Ganze ebenso schön aussehen, aber alkoholfrei sein soll, kann man den Glühwein einfach durch Kirschsaft ersetzen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Schulte-Ladbeck, Stefan</ImageCredit>
+      <DocumentRef doc_id="doc766ai51vjy8nsu7ym3f" file_variant="master" position="1">Gl hwein-Macchiato mit Milchschaum, Zimtstern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

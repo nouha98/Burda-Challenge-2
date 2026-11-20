@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82uu50y5fur1ixjjwlkq" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-17T09:00:06+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-17T09:06:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Omas Fleischsalat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Fleischwurst","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Schinkenwurst","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Essiggurken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Miracel Whip","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"frische Kräuter","unit":{"name":"Bund"},"prefix":null,"suffix":"wie z.B.: Schnittlauch oder Petersilie"}]}],"preparation":[{"headline":null,"content":"Die Fleischwurst und die Schinkenwurst in Scheiben schneiden und daraus sehr dünne Streifen schneiden."},{"headline":null,"content":"Die Essiggurken ebenso in dünne Streifen schneiden."},{"headline":null,"content":"In einer Schüssel Miracel Whip, Mayonnaise und Joghurt mit dem Salz und dem Pfeffer verrühren, 50 ml Essiggurkenwasser dazu rühren und die Wurst- und Gurkenstreifen untermengen."},{"headline":null,"content":"Die Kräuter fein hacken und darüber streuen."}],"recipe_tips":[{"headline":null,"content":"Am besten schmeckt der Salat mit frisch gebackenem Bauernbrot und einer extra Umdrehung Pfeffer aus der Mühle."}]}</CustomStructuredRecipeJson>
+    <Title>Omas Fleischsalat</Title>
+    <Headline position="1">Omas Fleischsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-17T09:00:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82uu4z79xqsojf7xlkq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="wie z.B.: Schnittlauch oder Petersilie" position="9" prefix="frische" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6016" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Fleischwurst" position="1"/>
+      <CustomRecipeIngredient topic="tmt7dnmrl6efauboa1ac" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schinkenwurst" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5841" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Essiggurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" suffix="&quot;Miracle Whip&quot;" plural="Mayonnaise"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mayonnaise" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82uu50y5aj4uu7fllkq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Fleischwurst und die Schinkenwurst in Scheiben schneiden und daraus sehr dünne Streifen schneiden. Die Essiggurken ebenso in dünne Streifen schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Fleischsalat</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82uu50y5cww908ulkq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In einer Schüssel Miracel Whip, Mayonnaise und Joghurt mit dem Salz und dem Pfeffer verrühren, 50 ml Essiggurkenwasser dazu rühren und die Wurst- und Gurkenstreifen untermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82uu50y5d0p72gr5lkq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Kräuter waschen und abtropfen lassen. Blätter vom Stiel zupfen, fein hacken und vor dem Servieren über den Salat streuen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82uu50y5d5216a0b2lkq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Am besten schmeckt der Salat mit frisch gebackenem Bauernbrot und einer extra Umdrehung Pfeffer aus der Mühle.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Brotzeit</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmjwefudk5ye50ogp" file_variant="master" position="1">Omas Fleischsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f1eade61f8b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmnbwtn53lspxrdg2" file_variant="master" position="1">Omas Fleischsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f1eadfb9bbc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmn95qsit16cvdtddn" file_variant="master" position="1">Omas Fleischsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f1eae31133e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmjzgx5ex6xozeuys" file_variant="master" position="1">Omas Fleischsalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68f1eae4c5572">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmjuzb10z7nnddfvg" file_variant="master" position="1">Omas Fleischsalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ww4ebhmg31evlz7u7r" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-30T09:30:14+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-30T09:41:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pralinen selber machen","recipe_seo_headline":null,"servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":45},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für die Pralinen","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Zartbitterkuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Rumaroma","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"Fläschchen"},{"amount":120,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die Pralinen","content":"Zartbitterkuvertüre klein hacken, in einer Schüssel über einem Wasserbad schmelzen lassen. Die Löffelbiskuit von Hand klein brechen und in einen Gefrierbeutel geben mit dem Wellholz klein arbeiten, bis kleine feine Krümel entstanden sind. Puderzucker sieben, mit der weichen Butter zusammen mischen, Biskuitbrösel einarbeiten, mit Rum Aroma mischen und zuletzt die Kuvertüre untermischen, bis eine homogene Masse entstanden ist. Die Masse für 30 Min. kühl stellen. Mit 2 Teelöffel kleine Portionen abstechen und in der Hand rund formen. Backkakao in eine Schüssel geben und jede Kugel darin wälzen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pralinen selber machen</Title>
+    <Headline position="1">Pralinen selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-30T09:30:14+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ww4ckv0e8fipt3u7r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterkuvertüre" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9406" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Fläschchen)" plural="Rumaroma" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Backkakao" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Pralinen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ww4ebhf9h1f3rysu7r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zartbitterkuvertüre klein hacken, in einer Schüssel über einem Wasserbad schmelzen lassen. Die Löffelbiskuit von Hand klein brechen und in einen Gefrierbeutel geben, mit dem Wellholz klein arbeiten, bis kleine feine Krümel entstanden sind. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Pralinen</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69538f41f3509">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Puderzucker sieben, mit der weichen Butter zusammen mischen, Biskuitbrösel einarbeiten, mit Rum Aroma mischen und zuletzt die Kuvertüre untermischen, bis eine homogene Masse entstanden ist. Die Masse für 30 Min. kühl stellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69538f4d78540">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit 2 Teelöffel kleine Portionen abstechen und in der Hand rund formen. Backkakao in eine Schüssel geben und jede Kugel darin wälzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Die Pralinen sind gekühlt ca. 2 Wochen haltbar.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7kjfaok1801qzdj0" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6953902cd9578">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7tht6cg1ab75odnl" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6953902e6e8d3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7o1egzqpkqp5jf8" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_695390307c101">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7hw88sw1fv0ohjdg" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69539035104f4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7s0e1uf1h6m1gdlp" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_69539036a21ce">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCredit position="6">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7p8f75ykc6eejfs" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_7_695390384928c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 7</ImageLabel>
+      <ImageCredit position="7">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe7jb4nitao915jdg" file_variant="master" position="1">Pralinen selber machen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

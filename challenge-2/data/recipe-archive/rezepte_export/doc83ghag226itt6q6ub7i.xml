@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ghag226itt6q6ub7i" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-28T10:55:16+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-11-28T11:25:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt82mpu96zcgzjtrvng2d"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="105"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt83gho9rh2pjwydnybe9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Softeis mit Mandarinensauce","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":105}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Sauce","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Mandarinen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]},{"headline":"Für das Eis","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Glukosesirup","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"gezuckerte Kondensmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Milchpulver","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Zum Garnieren","ingredients":[{"amount":40,"amountTo":null,"ingredient_name":"Piemonteser Haselnusskerne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Becher zum Servieren in den Froster stellen. Für die Sauce Gelatine in kaltem Wasser einweichen. Mandarinen schälen, dabei auch die weiße Haut vollständig entfernen. Mandarinen filetieren, dabei Saft auffangen. Mandarinenfilets samt -saft mit Zucker und Salz aufkochen, ca. 5 Minuten köcheln lassen. Vom Herd nehmen und fein pürieren. Gelatine ausdrücken, darin unter Rühren auflösen. Sauce kalt stellen."},{"headline":null,"content":"Für das Eis Milch, Sahne, Zucker, Glukosesirup, Kondensmilch und Salz in einem Topf unter Rühren aufkochen. Milchpulver zügig unterrühren. Die Masse abkühlen lassen, dann in der Eismaschine in ca. 45 Minuten cremig gefrieren lassen. Das Eis in den Spritzbeutel füllen und ca. 1 Stunde in den Gefrierschrank legen."},{"headline":null,"content":"Vor dem Servieren die Haselnüsse grob hacken. Die Sauce noch mal glatt rühren. Das Eis in die gekühlten Becher spritzen. Mit Mandarinensauce beträufeln und mit Haselnüssen garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Softeis mit Mandarinensauce</Title>
+    <CustomRecipeNoteInformation position="1">Eismaschine, Spritzbeutel mit großer Sterntülle</CustomRecipeNoteInformation>
+    <Headline position="1">Softeis mit Mandarinensauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-28T10:55:16+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ghaiap6hz1h5t4rkxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="2" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7931" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Mandarinen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83ghajp4kxfg2psykxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt7gxphkdngxztax1dkun" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Glukosesirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zqvl6qy5gzrvvgl7n7" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="gezuckerte Kondensmilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6" amount="1"/>
+      <CustomRecipeIngredient topic="tmt7gu3zkavp9v1i93cidiz" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchpulver" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Eis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83ghal7lvkx2ossskxn">
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Haselnusskerne" prefix="Piemonteser"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Garnieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ghallv62shxwrvkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Becher zum Servieren in den Froster stellen. Für die Sauce Gelatine in kaltem Wasser einweichen. Mandarinen schälen, dabei auch die weiße Haut vollständig entfernen. Mandarinen filetieren, dabei Saft auffangen. Mandarinenfilets samt -saft mit Zucker und Salz aufkochen, ca. 5 Minuten köcheln lassen. Vom Herd nehmen und fein pürieren. Gelatine ausdrücken, darin unter Rühren auflösen. Sauce kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ghallvax1rbl2dkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für das Eis Milch, Sahne, Zucker, Glukosesirup, Kondensmilch und Salz in einem Topf unter Rühren aufkochen. Milchpulver zügig unterrühren. Die Masse abkühlen lassen, dann in der Eismaschine in ca. 45 Minuten cremig gefrieren lassen. Das Eis in den Spritzbeutel füllen und ca. 1 Stunde in den Gefrierschrank legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ghallvb2dyvu1okxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vor dem Servieren die Haselnüsse grob hacken. Die Sauce noch mal glatt rühren. Das Eis in die gekühlten Becher spritzen. Mit Mandarinensauce beträufeln und mit Haselnüssen garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7efr25bv3sx1medfwksk" file_variant="master" position="1">Sweet Dreams Heft 06/21 „Mandarine und Orange“, Verlag Burda, Offenburg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

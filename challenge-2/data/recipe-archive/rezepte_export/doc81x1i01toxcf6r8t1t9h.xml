@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x1i01toxcf6r8t1t9h" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T14:27:23+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-13T12:43:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Milchreis mit Kokosmilch","recipe_seo_headline":"Kokosmilchreis mit Mango - veganes Dessert","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Garen","duration":35},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Kokosmilch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":"(ersatzweise 50 g Ahornsirup)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milchreis-Körner","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mango","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kokosmilch, Wasser und Zucker in einem Topf aufkochen. Vanilleschote längs aufschneiden und mit der stumpfen Messerseite das Mark herauskratzen. Vanillemark und Schote in die Kokosmilch geben. Milchreiskörner in die kochende Milch geben. Bei niedriger bis mittlerer Hitze unter gelegentlichem Rühren 35 Minuten köcheln lassen. Die letzten 10 Minuten muss der Milchreis öfter umgerührt werden damit dieser nicht am Topfboden anbrennt. Topf von der Herdplatte ziehen und den Kokosmilchreis 10 Minuten ziehen lassen."},{"headline":null,"content":"Für das Topping Mango mit einem Sparschäler schälen. Links und recht am Kern entlang das Fruchtfleisch abschneiden und in 1 cm große Würfel schneiden, beiseitestellen. Übriges Fruchtfleisch von der Mango schneiden und in einen Rührbecher geben. Limette heiß abwaschen, trocken tupfen und die Schale mit einem Zestenreißer herunterreißen. Limette halbieren und auspressen. Saft ebenfalls in den Rührbecher geben und mit einem Pürierstab durchpürieren. Mangomus mit den beiseite gelegten Fruchtstücken mischen. Kokosmilchreis auf zwei Dessertschüsseln (á 300 ml) verteilen. Mit Mango-Topping und Limettenzesten garnieren."}],"recipe_tips":[{"headline":"Statt Mango","content":"kannst du den Kokosmilchreis auch mit verschiedenen Früchten der Saison zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Milchreis mit Kokosmilch</Title>
+    <CustomRecipeSeoTitle position="1">Kokosmilchreis mit Mango - veganes Dessert</CustomRecipeSeoTitle>
+    <Headline position="1">Milchreis mit Kokosmilch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T14:27:23+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x1hxtmhols6aaq1t9h">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7326" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosmilch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ersatzweise 50 g Ahornsirup)" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Milchreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Mangos" position="6"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Limetten" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x1i01to011a9iog1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kokosmilch, Wasser und Zucker in einem Topf aufkochen. Vanilleschote längs aufschneiden und mit der stumpfen Messerseite das Mark herauskratzen. Vanillemark und Schote in die Kokosmilch geben. Milchreiskörner in die kochende Milch geben. Bei niedriger bis mittlerer Hitze unter gelegentlichem Rühren 35 Minuten köcheln lassen. Die letzten 10 Minuten muss der Milchreis öfter umgerührt werden damit dieser nicht am Topfboden anbrennt. Topf von der Herdplatte ziehen und den Kokosmilchreis 10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1i01to8j17l37b1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für das Topping Mango mit einem Sparschäler schälen. Links und recht am Kern entlang das Fruchtfleisch abschneiden und in 1 cm große Würfel schneiden, beiseitestellen. Übriges Fruchtfleisch von der Mango schneiden und in einen Rührbecher geben. Limette heiß abwaschen, trocken tupfen und die Schale mit einem Zestenreißer herunterreißen. Limette halbieren und auspressen. Saft ebenfalls in den Rührbecher geben und mit einem Pürierstab durchpürieren. Mangomus mit den beiseite gelegten Fruchtstücken mischen. Kokosmilchreis auf zwei Dessertschüsseln (á 300 ml) verteilen. Mit Mango-Topping und Limettenzesten garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x1i01tochrfk81t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst du den Kokosmilchreis auch mit verschiedenen Früchten der Saison zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Keine reife Mango da?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az4e3ghxg1777fosmy" file_variant="master" position="1">Milchreis_mit_Kokos_12306.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689c6c25c5696">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az49kqxnotwtz2smy" file_variant="master" position="1">Milchreis_mit_Kokos_12134.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689c6c273c3b0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az4b3wtsjjkzd1sc1" file_variant="master" position="1">Milchreis_mit_Kokos_12176.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689c6c28b3129">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az4ciza6rj0j7eshp" file_variant="master" position="1">Milchreis_mit_Kokos_12318.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

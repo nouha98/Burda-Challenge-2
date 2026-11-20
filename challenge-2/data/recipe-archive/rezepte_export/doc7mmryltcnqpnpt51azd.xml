@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7mmryltcnqpnpt51azd" dcx-version="6.3.1" version="1.0">
+  <created>2022-09-06T16:18:19+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-07-14T11:02:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Headline position="1">Monopoly-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-09-06T16:18:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7tb8az1lhgx8ub5wmvp" position="0" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="abgeriebene" suffix="(Bio)" plural="Orangenschale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt7jnr54csnzc18i00a1hq" position="2" plural="Goldpuder"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" position="3" plural="Orangensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="4" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt7j5c52qvxi8mf76p45t" position="5" amount="160" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Ingwersirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8006" position="6" amount="800" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Mangosaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9436" position="7" suffix="von 1 Orange" plural="Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="8" suffix="mit Kohlensäure" plural="Mineralwasser"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zum Servieren: 1 TL abger. Orangenschale (Bio) mit 2 EL Zucker und evtl. essbarem Goldpuder auf einem Teller mischen. 8 Gläser am Rand mit etwas Orangensaft benetzen, in den Zucker-Mix drücken. Umdrehen, Eiswürfel hineingeben. 160 ml Ingwersirup mit 800 ml Mangosaft und Saft von 1 Orange mischen, auf die Gläser verteilen. Mit gekühltem Mineralwasser mit Kohlensäure auffüllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>MFI Gastlichkeit</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc7gjsjfkn8qfh32ybwt" file_variant="master" position="1">Monopoly Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

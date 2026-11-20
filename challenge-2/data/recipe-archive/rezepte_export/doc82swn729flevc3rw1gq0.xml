@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82swn729flevc3rw1gq0" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-13T14:50:03+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-13T14:52:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt82swoey1kpfonavn1h2g"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gin Fizz mit Birne","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":173,"kilojoule":724,"carbonhydrates":45,"fat":0,"protein":0,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Birne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":"kleines","suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"alkoholfreier Gin","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"},{"amount":2,"amountTo":null,"ingredient_name":"Zimtstangen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Birne halbieren, zwei sehr dünne Scheiben abschneiden, beiseitelegen. Restliche Birne würfeln. Ingwer schälen, hacken. Birne und Ingwer mit 50 g Zucker einkochen, pürieren, abkühlen lassen."},{"headline":null,"content":"Glasränder mit 1 EL Zitronensaft befeuchten und in etwas Zucker drücken, sodass ein Zuckerrand entsteht."},{"headline":null,"content":"Gin, Zitronensaft und Birnenpüree mischen, auf zwei Gläser verteilen. Mit Mineralwasser auffüllen und mit Birnenscheiben und Zimtstangen garniert servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Gin Fizz mit Birne</Title>
+    <CustomRecipeNutritionalValueCalories position="1">173</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">724</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">45</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <Headline position="1">Gin Fizz mit Birne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-13T14:50:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82swn8sj55x1ds80kln9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleines" plural="Ingwer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" prefix="alkoholfreier" plural="Gin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" plural="Mineralwasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zimtstangen" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82swna69qk21my284ln9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Birne halbieren, zwei sehr dünne Scheiben abschneiden, beiseitelegen. Restliche Birne würfeln. Ingwer schälen, hacken. Birne und Ingwer mit 50 g Zucker einkochen, pürieren, abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82swna69ucn1n2jixln9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Glasränder mit 1 EL Zitronensaft befeuchten und in etwas Zucker drücken, sodass ein Zuckerrand entsteht.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82swna69uh41215c9ln9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gin, Zitronensaft und Birnenpüree mischen, auf zwei Gläser verteilen. Mit Mineralwasser auffüllen und mit Birnenscheiben und Zimtstangen garniert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7gnkx680elv18is9md5a" file_variant="master" position="1">Gin Fizz mit Birne und Zimt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

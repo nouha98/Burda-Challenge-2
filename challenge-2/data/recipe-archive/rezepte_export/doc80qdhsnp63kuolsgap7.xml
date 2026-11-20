@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80qdhsnp63kuolsgap7" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-21T13:32:43+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-01-29T10:23:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rspedsi05do5"/>
+    <Keywords topic="tmt6zrkdped91s2ptylh1f"/>
+    <Keywords topic="tmt6p4k6ykcic4gnowukmb"/>
+    <Keywords topic="tmt6ow8qezkmsx7sgbkdj9"/>
+    <Keywords topic="tmt76zf5qwcfyb8pqwl2y2"/>
+    <Keywords topic="tmt6p3e3l5fsn4e0ein8m5"/>
+    <Keywords topic="tmt6qg72rbcybk1369v32nc"/>
+    <Keywords topic="tmt7b4hnor11kx1abvdrkm"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="35"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"No bake Cookies","recipe_seo_headline":null,"servings":{"amount":35.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die No bake Cookies","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Zartbitter-Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":110,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Erdnussbutter cremig","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Erdnüsse geröstet ohne Salz","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Kokosraspel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"gehackte Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"kernige Haferkekse","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Ein Backblech 30x40cm mit Backpapier auslegen."},{"headline":null,"content":"Zunächst Zartbitter-Kuvertüre fein hacken. Diese zusammen mit Milch, Backkakao, Zucker und Vanilleextrakt in einen kleinen Topf geben. Auf mittlerer Stufe schmelzen lassen, dabei gut umrühren. Butter und Erdnussbutter hinzufügen und in der Schokoladenmasse schmelzen lassen."},{"headline":null,"content":"Die gerösteten Erdnüsse grob hacken und mit den Kokosraspeln, gehackten Mandeln und den kernigen Haferkeksen unter die flüssige Schokoladenmischung rühren. Mithilfe von Teelöffeln kleine Häufchen auf das Backblech setzen. Die No bake Cookies im Kühlschrank für 30 Minuten fest werden lassen und anschließend genießen!"}],"recipe_tips":[{"headline":"Nussvariation","content":"Falls Du keine gehackten Mandeln oder Kokosraspeln hast, kannst Du auch auf gehackte Hasel- oder Walnüsse ausweichen. Es gelingt auch mit einer Variation."}]}</CustomStructuredRecipeJson>
+    <Title>No bake Cookies</Title>
+    <Headline position="1">No bake Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-21T13:32:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80qdhmrcyi99652cap7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Zartbitter-Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Backkakao" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Vanilleextrakt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="110" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5801" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="Erdnussbutter" prefix="cremige"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" plural="Erdnüsse" suffix=" geröstet ohne Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosraspeln" position="9"/>
+      <CustomRecipeIngredient topic="tmt80inyfux19f1jp8o3ofv" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" plural="gehackte Mandeln"/>
+      <CustomRecipeIngredient topic="tmt808b1bhjvief718dvbp" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="11" plural="kernige Haferkekse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die No bake Cookies</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80qdhsnp4x41mbwoyap7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ein Backblech 30x40cm mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Vorbereitung</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80qdhsnp54p1gnxezap7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zunächst Zartbitter-Kuvertüre fein hacken. Diese zusammen mit Milch, Backkakao, Zucker und Vanilleextrakt in einen kleinen Topf geben. Auf mittlerer Stufe schmelzen lassen, dabei gut umrühren. Butter und Erdnussbutter hinzufügen und in der Schokoladenmasse schmelzen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80qdhsnp59cp0vk9ap7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die gerösteten Erdnüsse grob hacken und mit den Kokosraspeln, gehackten Mandeln und den kernigen Haferkeksen unter die flüssige Schokoladenmischung rühren. Mithilfe von Teelöffeln kleine Häufchen auf das Backblech setzen. Die No bake Cookies im Kühlschrank für 30 Minuten fest werden lassen und anschließend genießen!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80qdhsnp5dj1i4ycrap7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls Du keine gehackten Mandeln oder Kokosraspeln hast, kannst Du auch auf gehackte Hasel- oder Walnüsse ausweichen. Es gelingt auch mit einer Variation.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Nussvariation</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_682f4cc84c9f2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Gekühlt, 2 Tage</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc80ncq4zrua1jxmpkcyh" file_variant="master" position="1">NoBakeCookies2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_682f4d13ea339">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc80ncql8goyd1mjt0gd0c" file_variant="master" position="1">NoBakeCookies1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_682f4d15ca659">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc80ncqcet06hxfnr91qys" file_variant="master" position="1">NoBakeCookiesStep2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_682f4d181888b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc80ncqswni8id7s759jq" file_variant="master" position="1">NoBakeCookiesStep1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

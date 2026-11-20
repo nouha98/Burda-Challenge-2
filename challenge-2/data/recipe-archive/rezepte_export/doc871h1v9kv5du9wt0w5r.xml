@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc871h1v9kv5du9wt0w5r" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-06T13:01:54+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-08-06T13:11:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtwy19t4d8do5"/>
+    <Source topic="tmt871h6hqcd6s1in1xuwyb"/>
+    <CustomRecipeNutritionalValueCalories position="1">715</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3010</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">68</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">35</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">32</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Tomaten-Penne mit Hackbällchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-06T13:01:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" position="1" amount="1" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Toastbrot"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt808hl36o8lfk2r77vbq" position="3" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="gemischtes Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="4" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Paprikapulver"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Hackbällchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a746a4e126f4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" position="8" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kurze" suffix="(z. B. Penne rigate)" plural="Nudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="3" amount="2" amount_max="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="zum Braten" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" position="4" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="5" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(instant)" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" position="7" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Balsamicoessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" position="9" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="10" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Bällchen Toastbrot in warmem Wasser einweichen. Zwiebel abziehen, sehr fein würfeln. Brot ausdrücken, mit Zwiebel, Hack und Ei verkneten. Masse mit Salz, Pfeffer und Paprikapulver kräftig würzen, daraus walnussgroße Bällchen formen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a746b195768a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Sauce Zwiebel und Knoblauch abziehen und fein würfeln bzw. hacken. In einem großen weiten Topf Öl erhitzen, Zwiebel, Knoblauch und Hackbällchen darin anbraten. Die Bällchen dabei ab und zu wenden. Tomaten und Brühe angießen, mit Salz, Pfeffer, Zucker und Essig würzen. Rohe Nudeln einrühren. Alles aufkochen und unter gelegentlichem vorsichtigem Rühren (damit die Hackbällchen nicht zerfallen) bei mittlerer Hitze 11 Minuten garen. Mix vom Herd nehmen, ca. 5 Minuten ziehen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a746b22e02f6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mozzarella abtropfen lassen, würfeln. Petersilienblätter fein hacken. Nudeltopf abschmecken, zum Servieren mit Mozzarella und Petersilie bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Hackbällchen-Tomaten-Penne</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7a5ffx52u6q19ytkrp9o" file_variant="master" position="1">MFI_HACKBAELLCHEN_PENNE_ONEPOT V</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

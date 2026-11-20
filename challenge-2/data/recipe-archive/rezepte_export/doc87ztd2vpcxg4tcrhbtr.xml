@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87ztd2vpcxg4tcrhbtr" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-12T09:06:02+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-10-12T09:19:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt87ztjatuy7duad5a207o"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spinat-Smoothie","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":{"calories":209,"kilojoule":875,"carbonhydrates":27,"fat":9,"protein":5,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Spinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Mandelmus","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"ml"},"prefix":null,"suffix":"(100 % Fruchtanteil, alternativ: selbstgepresst)"},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Spinat putzen, waschen, trockenschleudern und grob schneiden. Bananen schälen und grob zerteilen."},{"headline":null,"content":"Spinat und Bananen in einen (Hochleistungs-) Mixer geben, Mandelmus, Orangensaft und Wasser dazugeben und fein pürieren."},{"headline":null,"content":"Smoothie auf 4 Gläser verteilen und servieren."}],"recipe_tips":[{"headline":null,"content":"Du kannst die Bananen schon einen Tag vorher schälen, klein schneiden und in einem Gefrierbeutel einfrieren. Dann kannst du die Stücke direkt in den Mixer geben und hast einen gekühlten Smoothie!"}]}</CustomStructuredRecipeJson>
+    <Title>Spinat-Smoothie</Title>
+    <CustomRecipeNutritionalValueCalories position="1">209</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">875</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">27</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Spinat-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-12T09:06:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87ztd1cgzjs1639bfbtr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10316" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Spinat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7971" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mandelmus" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(100 % Fruchtanteil, alternativ: selbstgepresst)" plural="Orangensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87ztd2voxcl1bfyidbtr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Spinat putzen, waschen, trockenschleudern und grob schneiden. Bananen schälen und grob zerteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87ztd2vp8f77dr82btr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Spinat und Bananen in einen (Hochleistungs-) Mixer geben, Mandelmus, Orangensaft und Wasser dazugeben und fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87ztd2vp8l313vdfdbtr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Smoothie auf 4 Gläser verteilen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87ztd2vp8p18mfnubtr">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Bananen schon einen Tag vorher schälen, klein schneiden und in einem Gefrierbeutel einfrieren. Dann kannst du die Stücke direkt in den Mixer geben und hast einen gekühlten Smoothie!</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqidbb29kwt6c0fdu9" file_variant="master" position="1">Spinat-Smoothie-hoch-3831.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6acc89f6ddec1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqib3t96f74d6ajduc" file_variant="master" position="1">Spinat-Smoothie-step1-3725.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6acc89f8a90d9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqhu5lv7127lalidua" file_variant="master" position="1">Spinat-Smoothie-step2-3731.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6acc89fa9235b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7fqi86na1rn1hxkfcduf" file_variant="master" position="1">Spinat-Smoothie-quer-3826.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

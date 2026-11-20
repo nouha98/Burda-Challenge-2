@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786b8jfhvvt1dy1yegkc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T17:05:31+01:00</created>
+  <identifier></identifier>
+  <modcount>14</modcount>
+  <modified>2024-12-03T09:56:48+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>391160</CustomCenshareId>
+    <Title position="1">Holunder-Cocktail </Title>
+    <Headline position="1">Holunder-Cocktail </Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareRecipeRelationshipParentOf>774102</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>969094</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>856693</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>641712</CustomCenshareRecipeRelationshipParentOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T21:24:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="214de3">
+      <CustomRecipeIngredient topic="tmt786ax3sreesuejgc2mn" amount="120" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="Fliederbeersaft oder " suffix="(dunkelrot)"/>
+      <CustomRecipeIngredient topic="tmt786b8jewittlhlkrgkc" amount="60" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="klaren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" amount="1" unit_topic="tm_topic_default_unit" prefix="Flasche gekühlter" suffix="oder Prosecco"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" unit_topic="tm_topic_default_unit" prefix="evtl" suffix="oder Minze zum Garnieren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="214e2f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Am Morgen der Einladung: 120 ml Fliederbeer oder Holunderbeersaft mit 60 ml Haselnusslikör mischen, kalt stellen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="214e3c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren: Saftmischung in 6 Sektgläser verteilen, mit kaltem Sekt (1 Flasche) auffüllen. Mit Zimtstange oder Minzeblättchen garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="214e1d">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Kürbischips und Kürbiskerne zum Knabbern</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_405366_last" doc_id="doc786b828vkkgcjiqhavs" position="1">405366-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="23677c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="2">Picture 2</ImageLabel>
+      <DocumentRef file_variant="censhare_405376_last" doc_id="doc786b82m2ceb622hiavs" position="2">405376-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_1b61be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel>Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_641710_last" doc_id="doc786jw4qcthy7cpy17t3">641710-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_1b62cb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel>Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_641711_last" doc_id="doc786jw50ckn71ifww17t2">641711-master-first.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b11ot0x9v1m0bdbbn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T21:24:50+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_391160</displayname>
+      <doc_id id="doc786b8jfhvvt1dy1yegkc"/>
+      <hash>86ed0623fa87ffc8ad209e8f8a05389f</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T21:24:50+01:00</modified>
+      <size>2300</size>
+      <subpath>2019/12-07/68/2f/file78b11ot0x9v1m0bdbbn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

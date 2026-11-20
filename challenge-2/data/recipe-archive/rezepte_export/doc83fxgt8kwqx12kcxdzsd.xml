@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fxgt8kwqx12kcxdzsd" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-27T09:12:04+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-27T09:20:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Quarkbrötchen","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Backen","duration":20},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumen- oder Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 550)"},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mehl zur Teigverarbeitung","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":null}]}],"preparation":[{"headline":null,"content":"Ei aufschlagen und mit Quark, 4 EL Milch und Öl verrühren. Mehl mit Backpulver und Salz mischen, mit der Quarkmasse zu einem glatten Teig verkneten und abgedeckt 10 Minuten ruhen lassen."},{"headline":null,"content":"Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und ein Backblech mit Backpapier auslegen."},{"headline":null,"content":"Teig auf einer mit Mehl bestäubten Arbeitsfläche zu einer Rolle formen und in 8 Stücke teilen. Teig in der Handfläche zu Brötchen formen und gleichmäßig mit etwas Abstand auf dem Backblech verteilen."},{"headline":null,"content":"Die Brötchen mit einem bemehlten Messer ca. 0,5 cm tief einschneiden, mit einem Pinsel mit restlicher Milch bestreichen und im vorgeheizten Ofen im unteren Drittel 15-20 Minuten goldbraun backen."},{"headline":null,"content":"Quarkbrötchen etwas auskühlen lassen und nach Wunsch mit Butter und Lieblingsmarmelade genießen."}],"recipe_tips":[{"headline":"Bunter Mix","content":"Bestreue deine Brötchen nach dem Bestreichen mit Milch mit Haferflocken, Sonnenblumen-, Kürbiskernen, Mohn, Sesam oder Chiasamen."}]}</CustomStructuredRecipeJson>
+    <Title>Quarkbrötchen</Title>
+    <Headline position="1">Quarkbrötchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-27T09:12:04+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fxgr9m5m91kt3a1zsd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(1,5 % Fett)" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt80j1gxqrm555fxqsgip" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" plural="Raps- oder Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 550)" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt8047u84rjowuei3rfdv" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" position="8" plural="Mehl zur Teigverarbeitung"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fxgt8kpkj12dpz2zsd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ei aufschlagen und mit Quark, 4 EL Milch und Öl verrühren. Mehl mit Backpulver und Salz mischen, mit der Quarkmasse zu einem glatten Teig verkneten und abgedeckt 10 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxgt8kso6shcq2zsd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und ein Backblech mit Backpapier auslegen. Mehl zum Bearbeiten des Teigs auf der Arbeitsfläche verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxgt8kssy2xaqdzsd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig auf der mit Mehl bestäubten Arbeitsfläche zu einer Rolle formen und in 8 Stücke teilen. Teig in der Handfläche zu Brötchen formen. Gleichmäßig mit etwas Abstand auf dem vorbereiteten Backblech verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxgt8kt1f1a8qxnzsd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Brötchen mit einem bemehlten Messer ca. 0,5 cm tief einschneiden, mit einem Pinsel mit restlicher Milch bestreichen und im vorgeheizten Ofen im unteren Drittel 15-20 Minuten goldbraun backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fxgt8kt6hggvi8zsd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Quarkbrötchen etwas auskühlen lassen und nach Wunsch mit Butter und Lieblingsmarmelade genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83fxgt8ktafg9ncdzsd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bestreue deine Brötchen nach dem Bestreichen mit Milch mit Haferflocken, Sonnenblumen-, Kürbiskernen, Mohn, Sesam oder Chiasamen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Bunter Mix</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9eewarzc1n6a1k8wp" file_variant="master" position="1">Quarkbrötchen II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692809c5a28c9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ejjw9vt5gl6s8pk" file_variant="master" position="1">Quarkbrötchen II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692809c76df4b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9edc16n81i8hvr83b" file_variant="master" position="1">Quarkbrötchen II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692809c8b61a3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ehvk0ih1f4wwj83b" file_variant="master" position="1">Quarkbrötchen II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

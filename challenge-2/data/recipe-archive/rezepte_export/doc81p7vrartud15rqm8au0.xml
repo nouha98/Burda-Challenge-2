@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81p7vrartud15rqm8au0" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-28T09:04:03+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-28T09:13:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apfel Nuss Muffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Muffins","ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":175,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(type 405)"},{"amount":1.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"gemahlene Haselnüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"mittelgroßer Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Teig","content":"Ein Muffinblech mit 12 Papierförmchen auslegen, den Backofen auf 180 Grad Ober-/Unterhitze (160 Grad Umluft) vorheizen. Weiche Butter mit Zucker cremig aufschlagen, die Eier aufschlagen und zusammen mit dem Vanilleextrakt nach und nach unter die Buttermischung rühren. Mehl mit Backpulver, gemahlenen Haselnüssen und Zimt mischen und unter den Teig rühren. Mit Milch den Teig glattrühren. Den Apfel schälen, vierteln und entkernen. Apfelviertel in kleine Würfel schneiden, die Apfelwürfel unter den Teig mischen. Jeweils 2 Esslöffel Teig in die Papierförmchen füllen. Die Apfel-Nussmuffins für 20 Minuten goldbraun backen lassen."}],"recipe_tips":[{"headline":"Die gemahlenen Nüsse werden aromatischer, wenn man sie davor kurz röstet","content":"Die Nüsse auf einem Backblech verteilen und bei 180 Grad 10 Minuten rösten lassen, bis die Nüsse duften. Die Nüsse dann abkühlen lassen."}]}</CustomStructuredRecipeJson>
+    <Title>Apfel Nuss Muffins</Title>
+    <Headline position="1">Apfel Nuss Muffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-28T09:04:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81p7vp5ygea1m7eqxau0">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="175" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(type 405)" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zqvfhsits345kbd7n7" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="gemahlene Haselnüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="70" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" prefix="mittelgroßer" plural="Äpfel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Muffins</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81p7vrar4apy4f43au0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ein Muffinblech mit 12 Papierförmchen auslegen, den Backofen auf 180 Grad Ober-/Unterhitze (160 Grad Umluft) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_688721b25b09b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Weiche Butter mit Zucker cremig aufschlagen, die Eier aufschlagen und zusammen mit dem Vanilleextrakt nach und nach unter die Buttermischung rühren. Mehl mit Backpulver, gemahlenen Haselnüssen und Zimt mischen und unter den Teig rühren. Mit Milch den Teig glattrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_688721b3db8ef">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Apfel schälen, vierteln und entkernen. Apfelviertel in kleine Würfel schneiden, die Apfelwürfel unter den Teig mischen. Jeweils 2 Esslöffel Teig in die Papierförmchen füllen. Die Apfel-Nussmuffins für 20 Minuten goldbraun backen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81p7vrara7915c5thau0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Nüsse auf einem Backblech verteilen und bei 180 Grad 10 Minuten rösten lassen, bis die Nüsse duften. Die Nüsse dann abkühlen lassen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die gemahlenen Nüsse werden aromatischer, wenn man sie davor kurz röstet</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814c5n1bnc2g2jvmeub" file_variant="master" position="1">ApfelNussMuffins1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68872301caef3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814by299ic01h2rau1tao" file_variant="master" position="1">ApfelNussMuffinsStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688723048d3cd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814bxza8ot41e4dx21tao" file_variant="master" position="1">ApfelNussMuffinsStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6887230a2c970">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814by6ziqwx18j83q1umw" file_variant="master" position="1">ApfelNussMuffins2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6887230be47b1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc814bybo6yld7iybi1umw" file_variant="master" position="1">ApfelNussMuffins3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

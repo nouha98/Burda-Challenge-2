@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82nn1lj0x5k9d19hn67" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-03T08:50:06+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-03T08:56:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tempura-Garnelen","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"eiskalt","suffix":"etwa"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Erdnussöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Riesengarnelen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Speisestärke und das Mehl mit dem Backpulver in einer Schüssel vermischen. Das kalte Wasser nach und nach mit einem Schneebesen einrühren. Mit Salz würzen."},{"headline":null,"content":"Die Garnelen mit Küchenkrepp abtupfen, mit Salz würzen und von beiden Seiten im Mehl wenden."},{"headline":null,"content":"Das Öl in einem Topf erhitzen (ca. 180°C). Die Garnelen durch den Teig ziehen, etwas abtropfen lassen und ca. 3-4 Minuten goldgelb und knusprig ausbacken. Auf Küchenkrepp abtropfen lassen."}],"recipe_tips":[{"headline":"Dazu passt eine asiatische Dipp-Sauce","content":"z.B.: Sweet Chili Sauce. Eiskaltes Wasser lässt den Teig knuspriger werden. Dazu kannst du einfach ein paar Eiswürfel ins Wasser geben oder das abgemessene Wasser für 20 Minuten in das Gefrierfach stellen."}]}</CustomStructuredRecipeJson>
+    <Title>Tempura-Garnelen</Title>
+    <Headline position="1">Tempura-Garnelen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-03T08:50:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82nn1jv06fs1i94unn67">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="eiskalt" suffix="etwa" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speisestärke" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenmehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5816" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Erdnussöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9151" amount="10" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Riesengarnelen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenmehl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82nn1lj0nrr1413o9n67">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Speisestärke und das Mehl mit dem Backpulver in einer Schüssel vermischen. Das kalte Wasser nach und nach mit einem Schneebesen einrühren. Mit Salz würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82nn1lj0r7tlx94en67">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Garnelen mit Küchenkrepp abtupfen, mit Salz würzen und von beiden Seiten im Mehl wenden. Mehl vorsichtig etwas abklopfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82nn1lj0rew8lptrn67">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Öl in einem Topf erhitzen (ca. 180°C). Die Garnelen durch den Teig ziehen, etwas abtropfen lassen und ca. 3-4 Minuten goldgelb und knusprig ausbacken. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68df72adb0cb5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Garnelen mit Hilfe einer Schaumkelle aus dem Öl nehmen und auf Küchenpapier abtropfen lassen. Nach Belieben mit Sweet Chili Sauce oder einem Dip servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68df72ca3b45d">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Eiskaltes Wasser lässt den Teig knuspriger werden. Dafür kannst du einfach ein paar Eiswürfel ins Wasser geben oder das abgemessene Wasser für ca. 20 Minuten in das Gefrierfach stellen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Noch knuspriger</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjytwit55h8ckzn7u" file_variant="master" position="1">Tempura-Garnelen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68df738a64538">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjyr2equ018ncr8ybb" file_variant="master" position="1">Tempura-Garnelen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68df738c75f0d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjyl0ayc113p2t4ni9" file_variant="master" position="1">Tempura-Garnelen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68df738f24d5a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjyo8b6gg8ud6vo45" file_variant="master" position="1">Tempura-Garnelen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68df73908f7c5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jjywzs3it10u2hwybb" file_variant="master" position="1">Tempura-Garnelen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

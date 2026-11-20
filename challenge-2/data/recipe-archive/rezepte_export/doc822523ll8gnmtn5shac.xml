@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc822523ll8gnmtn5shac" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-22T12:37:00+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-10T12:18:36+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="8"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Glutenfreie Vanillekipferl","recipe_seo_headline":null,"servings":{"amount":50.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":120},{"name":"Kühlen","duration":120},{"name":"Backen","duration":8}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":180,"amountTo":null,"ingredient_name":"glutenfreies Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mandelmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":165,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"ausgekratzt"},{"amount":1,"amountTo":null,"ingredient_name":"Prise Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten bis auf das Ei in eine Rührschüssel geben und zwischen den Händen zerreiben bis eine krümelige Masse entsteht."},{"headline":null,"content":"Das Ei hinzugeben und den Teig kneten bis er homogen ist. 2 lange Teig Schlangen formen und im Kühlschrank für 2 Stunden fest werden lassen."},{"headline":null,"content":"2 Backbleche mit Backpapier auslegen, Backofen auf 200 Grad Ober-/ Unterhitze (Umluft: 180 Grad) vorheizen. Aus dem Teig 50x kleine Vanillekipferl formen. Mit etwas Abstand auf die Bleche legen und für 8 min goldbraun backen lassen. Noch heiß mit Puderzucker bestreuen, luftdicht verpacken."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Glutenfreie Vanillekipferl</Title>
+    <Headline position="1">Glutenfreie Vanillekipferl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-22T12:37:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8225218nvp3binsxhac">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="glutenfreies" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7961" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mandelmehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Mandeln" prefix="gemahlene "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="165" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="ausgekratzt" plural="Vanilleschoten" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="822523ll73r1g97ijhac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Vanilleschote auskratzen und mit dem glutenfreien Mehl, Mandelmehl, gemahlenen Mandeln, Butter, 60 g des Puderzuckers und Salz ein eine Schüssel geben. Zutaten zwischen den Händen zerreiben, bis eine krümelige Masse entsteht.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822523ll7ds10vddxhac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Ei hinzugeben und den Teig kneten, bis er homogen ist. Aus dem Teig 2 lange Teig-Schlangen formen und diese im Kühlschrank für 2 Stunden fest werden lassen. Währenddessen Backbleche mit Backpapier auslegen, Backofen auf 200 Grad Ober-/ Unterhitze (Umluft: 180 Grad) vorheizen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="822523ll7k31l8724hac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Aus dem Teig 50 kleine Vanillekipferl formen. Mit etwas Abstand auf die Bleche legen und für 8 Min. goldbraun backen lassen. Noch heiß mit dem restlichen Puderzucker bestreuen, auskühlen lassen, dann in einer Plätzchendose lagern.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Mandelmehl mit gemahlenen Mandeln ersetzen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Falls du kein Mandelmehl zur Hand hast, kannst du es auch durch gemahlene Mandeln ersetzen und nimmst somit einfach 120 g gemahlene Mandeln ins Rezept.
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ps2gkdrs0k7lcltj8" file_variant="master" position="1">GlutenfreieVanillekipferl1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a84bc8e94b3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ps2hxa49yulhsctj8" file_variant="master" position="1">GlutenfreieVanillekipferl2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

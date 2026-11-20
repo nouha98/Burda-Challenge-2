@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81ud0gqwrzckk7h6gvj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-07T09:16:04+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-07T09:25:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Quarkpfannkuchen","recipe_seo_headline":"Quarkpfannkuchen – nach Omas Rezept","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":12},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Quark","unit":{"name":"g"},"prefix":null,"suffix":"(20%)"}]},{"headline":"Außerdem","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":"zum Bestäuben"},{"amount":"Etwas","amountTo":null,"ingredient_name":"Fett","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"für die Pfanne"}]}],"preparation":[{"headline":null,"content":"Für den Teig Mehl, Milch, Eier, Zucker und Salz zu einem glatten Teig verrühren. Quark hinzufügen und unterrühren."},{"headline":null,"content":"In einer Pfanne etwas Fett zerlassen und jeden Quarkeierkuchen von beiden Seiten goldbraun ausbacken. Am besten warm servieren. Gekühlt halten sich die Quarkpfannkuchen mindestens 3 Tage."}],"recipe_tips":[{"headline":"Perfekte Kombi","content":"Toppe Omas Quarkpfannkuchen mit unserem leckeren Blaubeer-Kompott. So fruchtig! Rezept einfügen: https://www.einfachbacken.de/rezepte/blaubeer-kompott-in-nur-2-schritten"}]}</CustomStructuredRecipeJson>
+    <Title>Quarkpfannkuchen</Title>
+    <CustomRecipeSeoTitle position="1">Quarkpfannkuchen – nach Omas Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Quarkpfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-07T09:16:04+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81ud0f5k6215d41dgvj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Weizenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(20%)" plural="Quark" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81ud0g68e35v9xykgvj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Bestäuben" plural="Puderzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" amount="Etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="für die Pfanne" plural="Fett" position="2" prefix="etwas" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81ud0gqvw9c1c9w8igvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Teig Mehl, Milch, Eier, Zucker und Salz zu einem glatten Teig verrühren. Quark hinzufügen und unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81ud0gqw94o1bqeb4gvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer Pfanne etwas Fett zerlassen und jeden Quarkeierkuchen von beiden Seiten goldbraun ausbacken. Am besten warm servieren. Gekühlt halten sich die Quarkpfannkuchen mindestens 3 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81ud0gqw9c36ioh8gvj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Toppe Omas Quarkpfannkuchen mit unserem leckeren Blaubeer-Kompott. So fruchtig! Rezept einfügen: https://www.einfachbacken.de/rezepte/blaubeer-kompott-in-nur-2-schritten</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Perfekte Kombi</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81aweipqvck6kcu1o7x" file_variant="master" position="1">Quarkpfannkuchen3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689454b536fd4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81awecf7i4m11ppfarql" file_variant="master" position="1">QuarkpfannkuchenStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Quark hinzufügen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_689454b740588">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81awefun1iv18ahvro4h" file_variant="master" position="1">QuarkpfannkuchenStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pfannkuchen wenden</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_689454b9ced2e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81awen3tdev14xou2rr2" file_variant="master" position="1">Quarkpfannkuchen1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689454bbefe70">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81awea970cyes3vvlws" file_variant="master" position="1">Quarkpfannkuchen2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e9k4biq8j9y5szi4aq" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-28T09:49:06+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="90"/>
+    <Keywords topic="tmt7e9k6rnpb4p7kqlgacr"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <DateImported>2021-01-28T09:49:06+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">205</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">11</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">16</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Rote-Bete-Salat auf Pumpernickel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" position="1" amount="2" prefix="kleinere" plural="Rote Bete"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="2" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8951" position="5" amount="3" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Pumpernickel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" position="6" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Crème fraîche"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5281" position="7" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Camembert"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Rote Beten waschen,
+trocken tupfen und je auf ein großes Stück Backpapier legen. Mit Salz,
+Pfeffer und Zucker würzen. Je 1 EL Öl aufträufeln und das Backpapier zu
+Päckchen verschließen. Päckchen auf ein Blech setzen und im Ofen
+ca. 1 Std. garen. Beten aus dem Ofen nehmen und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6013cb20cd703">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Pumpernickel in Quadrate (ca. 4 x 4 cm) schneiden. Knollen auswickeln,
+schälen und klein schneiden oder raspeln. Mit Crème fraîche mischen.
+Salzen und pfeffern. Auf die Pumpernickelstücke verteilen. Den Camembert
+erst in Scheiben, dann in Stücke teilen. Auf die Häppchen legen und
+nach Wunsch mit Kapern garnieren. Evtl. mit Pfeffer übermahlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Kompanik, Hannah</ImageCredit>
+      <DocumentRef doc_id="doc775t2jpfi956xf88krr" file_variant="master" position="1">Pumpernickel mit Roter Bete und Weichk se zu Sylvester</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

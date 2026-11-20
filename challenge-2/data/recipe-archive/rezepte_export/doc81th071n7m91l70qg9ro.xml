@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81th071n7m91l70qg9ro" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-05T15:44:22+02:00</created>
+  <identifier></identifier>
+  <modcount>13</modcount>
+  <modified>2026-11-05T08:34:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-land"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <Source topic="tmt87ngtlrqnrd1g1922au7"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":null,"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1.2,"amountTo":null,"ingredient_name":"Rotkohl","unit":{"name":"kg"},"prefix":"kleiner","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Pflanzenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":"fruchtiger","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Hokkaido-Kürbisfruchtfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Quittengelee","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Schalotte abziehen und fein würfeln. Kohl waschen, putzen und in feine Streifen schneiden. Öl erhitzen. Kohl und Schalotte darin anschwitzen. Mit Wein und Saft aufgießen. Lorbeerblatt und Zimt dazugeben. Aufkochen und 1 Std. bei kleiner Hitze köcheln lassen, dabei ab und zu umrühren und bei Bedarf etwas Wasser dazugeben."},{"headline":null,"content":"Den Kürbis waschen und mit Schale in dünne Scheiben schneiden. Für die letzten 15 Min. unter den Kohl mischen und mitgaren. Die Zimtstange entfernen."},{"headline":null,"content":"Den Rotkohl mit Essig, Quittengelee, Salz und Pfeffer pikant abschmecken. Die Kürbiskerne in einer Pfanne ohne Fett 2–3 Min. rösten. Vor dem Servieren unter den Rotkohl mischen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Rotkohl</Title>
+    <SubHeadline position="1">Knusprig gebackene Rotkohl-Brote mit Walnüssen 13642496</SubHeadline>
+    <Headline position="1">Rotkohl-Brote mit Walnüssen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-05T15:44:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81th09utwut15il7ilse">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9361" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rotkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" amount="8" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Pflanzenöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9376" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rotweinessig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4841" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Bauernbrot" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" amount="16" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Walnusskerne" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sauerrahm" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="8" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8666" amount="1" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Petersilienblätter" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81th0e4oz541i6lfalse">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 200 Grad Ober-/Unterhitze vorheizen. Kohl putzen und fein schneiden. Auf ein geöltes Blech geben. 4 EL Öl, Essig und 1 Prise Salz verrühren. Auf den Kohl träufeln. 35 Min. backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81th0e4p45whg8lelse">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Brote mit je 1 EL Öl bestreichen und zusammen mit den Walnüssen auf das Blech legen. 5–7 Min. mitbacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81th0e4p4fn1d887zlse">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Sauerrahm glatt rühren. Knoblauch halbieren. Die gebackenen Brote damit einreiben. Sauerrahm auf die Brote streichen. Salzen und pfeffern. Rotkohl, Walnüsse und Petersilie auf den Broten verteilen und alles servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Knusprig gebackene Rotkohl-Brote mit Walnüssen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc7w4xc81c5n6i8emhb6q" file_variant="master" position="1">Knusprig gebackene Rotkohl-Brote mit Walnüssen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

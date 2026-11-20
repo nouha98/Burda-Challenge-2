@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7868ke6zsj6ppdihavd" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T13:37:37+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2024-12-03T09:59:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomCenshareId>250296</CustomCenshareId>
+    <Title position="1">Mojito-Slush</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">275</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1160</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">39</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>449509</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Mojito-Slush</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-06T09:22:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="998e8c">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="5" unit_topic="tmt71k9mrz8iyeyycjkivd" position="2" unit="Zweig" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="weißer" position="5" unit="ml" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt7866pyn40nmemjt2avd" unit_topic="tm_topic_default_unit" prefix="nach Belieben " suffix="oder Mineralwasser zum Aufgießen" position="1" unit="(keine Einheit)" plural="Sodawasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="6" unit_topic="tm_topic_default_unit" suffix="(Bio)" position="3" unit="(keine Einheit)" plural="Limetten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="998ee7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Gläser in das Tiefkühlfach stellen. Minzeblättchen abzupfen. Von 5 Limetten den Saft auspressen. Übrige Limette heiß waschen, in dünne Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="998ef5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Limettensaft mit Zucker, Rum, Eiswürfeln und etwa drei Vierteln der Minzeblättchen in einem Mixer zerkleinern. Mojito-Masse zusammen mit den Limettenscheiben in die Gläser füllen. Nach Belieben mit Soda- oder Mineralwasser auffüllen. Mit den übrigen Minzeblättchen garnieren und servieren.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="998ed5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Die Mojito-Masse im Gefrierschrank für einige Stunden tiefkühlen. Dabei etwa jede halbe Stunde umrühren, damit sich keine großen Eiskristalle bilden. Und dann eiskalt genießen. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_264162_last" doc_id="doc7866p2ntixd176j4iavs" position="1">264162-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_3084c3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_449508_last" doc_id="doc786cuo5et7611j5baavt" position="1">449508-master-first.psd</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78a99rj5rc81hywmyhcr" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-06T09:22:33+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_250296</displayname>
+      <doc_id id="doc7868ke6zsj6ppdihavd"/>
+      <hash>8cbce806ab81bc77f5ddf39c09915e6c</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-06T09:22:33+01:00</modified>
+      <size>3035</size>
+      <subpath>2019/12-06/a6/c2/file78a99rj5rc81hywmyhcr.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

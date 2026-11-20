@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82sttjuzcdh137g7r132g" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-13T11:10:15+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-10-13T12:02:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <Source topic="tmt82stvl7rcz510t9qu139n"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rolt1gbekbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <Headline position="1">Hibiskus-Granatapfel-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-13T11:10:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt82stua4j0h0mabb7134p" position="1" amount="350" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Hibiskustee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6381" position="2" amount="1" plural="Grapefruit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6366" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Granatapfelkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5891" position="4" amount="1" plural="Feigen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" position="5" amount="1" plural="Mangos"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="6" amount="1" plural="Bananen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tee nach Packungsanleitung aufbrühen. Gut auskühlen lassen. Grapefruit auspressen, Granatapfelkerne aus der Schale herauslösen. Feige in Spalten schneiden. Mango und Banane schälen und in Stücke schneiden. Alle Zutaten zu einem Smoothie mixen. Dann mit Tee aufgießen und noch einmal kurz mixen. Auf zwei Gläser verteilen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Granatapfelsmoothie in Flaschen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Kompanik, Hannah</ImageCredit>
+      <DocumentRef doc_id="doc74c2zei58wg1a0katj8i" file_variant="master" position="1">Granatapfelsmoothie in Flaschen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

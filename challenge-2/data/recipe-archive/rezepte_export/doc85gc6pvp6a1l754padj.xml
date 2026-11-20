@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85gc6pvp6a1l754padj" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-17T08:19:28+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-04-17T08:26:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <Keywords topic="tmt6owb8mk8pdg8qke08lz"/>
+    <Keywords topic="tmt6p4vj2sgm9zjfqr98ly"/>
+    <Source topic="tmt85gc9zgf6b9rz9bbaem"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ananas-Lachs-Tacos","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Grillen","duration":25}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Ananas","unit":{"name":"Stück"},"prefix":null,"suffix":"groß, reif"},{"amount":700,"amountTo":null,"ingredient_name":"Lachsfilet ohne Haut","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"in Würfeln"},{"amount":1,"amountTo":null,"ingredient_name":"grüne Chilischote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"in Ringen"},{"amount":"einige","amountTo":null,"ingredient_name":"Minzeblättchen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"gehackt"},{"amount":2,"amountTo":3,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"geräuchertes Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Mais-Tortillas","unit":{"name":"Stück"},"prefix":null,"suffix":"Ø ca. 15 cm"}]}],"preparation":[{"headline":null,"content":"Ananas längs halbieren, Fruchtfleisch auslösen."},{"headline":null,"content":"Lachs mit Salz und Chiliflocken würzen, in die Ananashälften legen, mit gewässertem Küchengarn fest umwickeln."},{"headline":null,"content":"Unter Wenden geschlossen mind. 25 Minuten grillen."},{"headline":null,"content":"Ananas-Fruchtfleisch fein würfeln, mit Zwiebel, Chili, Minze, Limettensaft, etwas braunem Zucker und geräuchertem Paprikapulver mischen und abschmecken."},{"headline":null,"content":"Tortillas auf dem Grill kurz rösten."},{"headline":null,"content":"Lachs aus den Ananashälften lösen, zerzupfen und mit Tortillas, Ananas-Salsa, evtl. Kokos-Chips und gerösteten Erdnüssen anrichten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Ananas-Lachs-Tacos</Title>
+    <CustomRecipeNoteInformation position="1">Küchengarn (gewässert)</CustomRecipeNoteInformation>
+    <Headline position="1">Ananas-Lachs-Tacos</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-17T08:19:28+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85gc6r4kb9koxewaipc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="in Ringen" position="6" prefix="grüne" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="einige" suffix="(gehackt)" plural="Minzblätter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Ananas" position="1" prefix="große, reife"/>
+      <CustomRecipeIngredient topic="tmt80lqatw24k7ce721rvm" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Lachsfilet ohne Haut"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Chiliflocken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(in Würfeln)" plural="Zwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="8" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="9" prefix="etwas" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt80lpora21xt13f3rervm" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="10" plural="geräuchertes Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt80rdjfpub1g1mo66a1p4p" amount="12" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="Ø ca. 15 cm" position="11" plural="Mais-Tortillas"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85gc6vpa1yd9krfiipc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ananas längs halbieren, Fruchtfleisch auslösen. Lachs mit Salz und Chili würzen, in die Ananashälften legen, mit Küchengarn fest umwickeln. Unter Wenden geschlossen mind. 25 Minuten grillen. Fruchtfleisch fein würfeln, mit Zwiebel, Chili, Minze, Limettensaft, Zucker und Paprikapulver mischen, abschmecken. Tortillas auf dem Grill kurz rösten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85gc6vpa4w529wpcipc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Lachs auslösen, zerzupfen. Mit Tortillas, Salsa, evtl. Kokos-Chips und gerösteten Erdnüssen anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pineaaple Lox, Lachs, Tacos, Ananas-Salsa; Styling: Krisztina Zombori; Rezepte &amp; Foodstyling: Katja Baum</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Thorsten Suedfels</ImageCredit>
+      <DocumentRef doc_id="doc7etlokskg6ssshdvm7d" file_variant="master" position="1">Lust auf Genuss, American Barbecue 05/2021</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

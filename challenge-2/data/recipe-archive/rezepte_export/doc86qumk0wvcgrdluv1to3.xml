@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86qumk0wvcgrdluv1to3" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-16T20:50:56+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-16T21:08:48+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp53fbfjjdo5"/>
+    <Source topic="tmt86quutk1umttqhi11v76"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Fenchel-Joghurt-Dip mit Anis und Kräutern","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":110,"kilojoule":460,"carbonhydrates":9,"fat":6,"protein":5,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Anissamen","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Fenchel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"½","amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Dill","unit":{"name":"Bund"},"prefix":"kleines","suffix":null},{"amount":4,"amountTo":5,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"griechischer Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Anissamen in einer heißen Pfanne ohne Öl rösten, bis sie duften. Herausnehmen, abkühlen lassen und im Mörser fein zerstoßen."},{"headline":null,"content":"Fenchel waschen, putzen, Fenchelgrün abschneiden und beiseitelegen. Knollen halbieren, Fenchel in feine Scheiben hobeln. Mit Salz und zwei Dritteln der Anissamen verkneten. Fenchel etwas ruhen lassen."},{"headline":null,"content":"Knoblauch abziehen und fein hacken. Fenchelgrün fein hacken. Dillspitzen und Minzblätter abzupfen, fein hacken."},{"headline":null,"content":"Den Joghurt mit Knoblauch, Kräutern und Fenchelgrün verrühren. Fenchel unterheben. Dip mit Pfeffer würzen und mindestens 15 Minuten kalt stellen."},{"headline":null,"content":"Dip mit restlichem Anis bestreuen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Fenchel-Joghurt-Dip mit Anis und Kräutern</Title>
+    <CustomRecipeNutritionalValueCalories position="1">110</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">460</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">9</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Dip muss 15 Minuten kalt stehen</CustomRecipeNoteInformation>
+    <Headline position="1">Fenchel-Joghurt-Dip mit Anis und Kräutern</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-16T20:50:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86qumlx7ae18me124u1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4536" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Anissamen" position="1"/>
+      <CustomRecipeIngredient topic="tmt82jnzmhnjw4974cey5n" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Fenchel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="kleines" plural="Dill" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="4" max_amount="5" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Minze" position="6" amount_max="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="griechischer Joghurt" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="8" plural="schwarzer Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86qumna8v9vfrlw524u1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Anissamen in einer heißen Pfanne ohne Öl rösten, bis sie duften. Herausnehmen, abkühlen lassen und im Mörser fein zerstoßen. Fenchel waschen, putzen, Fenchelgrün abschneiden und beiseitelegen. Knollen halbieren, Fenchel in feine Scheiben hobeln. Mit Salz und zwei Dritteln der Anissamen verkneten. Fenchel etwas ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86qumna8xcw1ncflh24u1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauch abziehen und fein hacken. Fenchelgrün fein hacken. Dillspitzen und Minzblätter abzupfen, fein hacken. Den Joghurt mit Knoblauch, Kräutern und Fenchelgrün verrühren. Fenchel unterheben. Dip mit Pfeffer würzen und mindestens 15 Minuten kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86qumna8xhitly8224u1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Dip mit restlichem Anis bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86qumna8xlyetoos24u1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Joghurt mit Knoblauch, Kräutern und Fenchelgrün verrühren. Fenchel unterheben. Dip mit Pfeffer würzen und mindestens 15 Minuten kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86qumna8xpk13gvmb24u1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Dip mit restlichem Anis bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Brot und Dips aus der Türkei - Flowerbread, Fenchel-Cacik, Baba Ganoush, Green Ezme</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc81qphf5qlxs1l4oby3jf" file_variant="master" position="1">Brot und Dips aus der Türkei - Flowerbread, Fenchel-Cacik, Baba Ganoush, Green Ezme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

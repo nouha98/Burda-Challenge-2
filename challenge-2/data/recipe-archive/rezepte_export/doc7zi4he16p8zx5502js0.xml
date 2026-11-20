@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7zi4he16p8zx5502js0" dcx-version="6.3.1" version="1.0">
+  <created>2025-02-24T09:40:17+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-08-04T15:44:22+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <Keywords topic="tmt6p3oq7e89b8stdae8m4"/>
+    <Keywords topic="tmt6owhpimpbeh1iwz528ma"/>
+    <Keywords topic="tmt7aatrxk7bz75jvcegwl"/>
+    <Keywords topic="tmt7zi4sbnmhz88naorr4a"/>
+    <Keywords topic="tmt7zi4sbnoqzp2ro5pr4a"/>
+    <Keywords topic="tmt6q8xmwxd7yf6uahxe14"/>
+    <Keywords topic="tmt6qf64sfqj3d1fpl984n2"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Thunfisch Muffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Backen","duration":25},{"name":"Kühlen","duration":15}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für die Thunfischmuffins","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Thunfisch in eigenem Saft","unit":{"name":"Dose"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Reibkäse","unit":{"name":"g"},"prefix":null,"suffix":"(zum Beispiel Gouda)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"rot"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Paprika edelsüß","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober- Unterhitze (Umluft 160 Grad) vorheizen. Eine Silikonmuffinform vorbereiten."},{"headline":null,"content":"Den Thunfisch abschütten und zusammen mit Reibkäse in einer Schüssel vermengen."},{"headline":null,"content":"Die Zwiebel und die Paprika in kleine Würfel schneiden. Die Zucchini in feine Streifen hobeln, zur Thunfischmasse hinzugeben. Eier, Gewürze und Kräuter hinzugeben alles zu einer glatten Masse verrühren."},{"headline":null,"content":"Je 2 EL der Masse in die Silikonform füllen und für 25 Min. backen lassen. Die Thunfisch Muffins für 15 Min. erkalten, mit Hilfe eines Löffels aus der Form heben und dann lauwarm servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Thunfisch Muffins</Title>
+    <Headline position="1">Thunfisch Muffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-02-24T09:40:17+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="7zi4h81zraq10r1h1js0">
+      <CustomRecipeIngredient topic="tmt7zi4he17nygz12hajs0" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" position="1" plural="Thunfisch in eigenem Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9101" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(zum Beispiel Gouda)" position="2" plural="Reibkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="rot" plural="Paprika" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zucchini" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="8" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" amount="1/4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="9" plural="Paprika edelsüß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Schnittlauch" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Petersilie" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Thunfischmuffins</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="7zi4he167k91k6agdjs0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober- Unterhitze (Umluft 160 Grad) vorheizen. Eine Silikonmuffinform vorbereiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7zi4he16me9161ozajs0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Thunfisch abschütten und zusammen mit Reibkäse in einer Schüssel vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7zi4he16mracpng9js0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Zwiebel und die Paprika in kleine Würfel schneiden. Die Zucchini in feine Streifen hobeln, zur Thunfischmasse hinzugeben. Eier, Gewürze und Kräuter hinzugeben alles zu einer glatten Masse verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="7zi4he16n078xvlrjs0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Je 2 EL der Masse in die Silikonform füllen und für 25 Min. backen lassen. Die Thunfisch Muffins für 15 Min. erkalten, mit Hilfe eines Löffels aus der Form heben und dann lauwarm servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7zf2ew1x6as22lrrso1" file_variant="master" position="1">ThunfischMuffins2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_67bc35c6e14ac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc7zf2erh77n5gxasosl5" file_variant="master" position="1">ThunfischMuffins1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_67bc35c899290">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc7zf2emwwq131d5ij2csm" file_variant="master" position="1">ThunfischMuffinsStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_67bc35ca5b400">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc7zf2f1ly1lg11jqvccsn" file_variant="master" position="1">ThunfischMuffinsStep2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

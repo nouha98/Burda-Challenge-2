@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ufmya1z0810bbjr2iy" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-16T14:11:09+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-16T14:20:51+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbis-Porridge","recipe_seo_headline":"Kürbis-Porridge – cremiges Blitz-Rezept","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Porridge","ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Zarte Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Pflanzendrink","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Kürbispüree","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Gemahlener Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Pumpkin Spice","unit":{"name":"TL"},"prefix":null,"suffix":"(optional)"},{"amount":"1-2","amountTo":null,"ingredient_name":"Ahornsirup oder Agavendicksaft","unit":{"name":"TL"},"prefix":null,"suffix":null}]},{"headline":"Für das Topping","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Pekannüsse oder Walnüsse","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kleiner Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Mandelmus","unit":{"name":"EL"},"prefix":null,"suffix":"(oder anderes Nussmus)"}]}],"preparation":[{"headline":null,"content":"Für das Topping Nüsse grob hacken. Apfel halbieren, das Gehäuse entfernen und in Würfel schneiden."},{"headline":null,"content":"Für das Porridge alle Zutaten in einen kleinen Topf geben. Verrühren und bei mittlerer Hitze aufkochen."},{"headline":null,"content":"Das Porridge ca. 1-2 Minuten leicht köcheln lassen, bis es die gewünschte Konsistenz hat. Vorsicht: Es zieht noch etwas an."},{"headline":null,"content":"Kürbis-Porridge auf 2 Schüsseln aufteilen und je nach Belieben mit Nüssen, Apfelstücken und Mandelmus garnieren. Servieren und genießen!"}],"recipe_tips":[{"headline":"Kürbispüree selber machen","content":"Kürbis waschen oder je nach Sorte schälen, halbieren und die Kerne entfernen. Hokkaidokürbis kann mit Schale verarbeitet werden. Kürbis in Würfel schneiden und auf einem mit Backpapier ausgelegten Backblech verteilen. Im Ofen bei 200 Grad 25-30 Minuten backen, bis die Stücke weich sind. Alternativ in einem Topf mit Wasser 15-20 Minuten kochen lassen, bis der Kürbis weich ist und anschließend abgießen. Im Mixer fein pürieren. 1 kg Kürbis ergibt ungefähr 350-400 g Kürbispüree. Das selbst gemachte Kürbispüree kann auch eingefroren werden."}]}</CustomStructuredRecipeJson>
+    <Title>Kürbis-Porridge</Title>
+    <CustomRecipeSeoTitle position="1">Kürbis-Porridge – cremiges Blitz-Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Kürbis-Porridge</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-16T14:11:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ufmuh94f5151itm2iy">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6266" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(optional)" position="6" prefix="Pumpkin Spice" plural="Gewürze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" suffix="zart" plural="Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Pflanzendrink" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11736" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbispüree" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" prefix="gemahlener" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="7" amount_error="1" suffix="oder Agaviendicksaft" plural="Ahornsirup"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Porridge</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82ufmx8hbg210ajym2iy">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" prefix="Pekannuss" plural="Walnüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="kleiner" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7971" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(oder anderes Nussmus)" plural="Mandelmus" position="3" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ufmya1rxtig4i42iy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Topping Nüsse grob hacken. Apfel halbieren, das Gehäuse entfernen und in Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ufmya1ute90ha62iy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für das Porridge alle Zutaten in einen kleinen Topf geben. Verrühren und bei mittlerer Hitze aufkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ufmya1uywal3192iy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Porridge ca. 1-2 Minuten leicht köcheln lassen, bis es die gewünschte Konsistenz hat. Vorsicht: Es zieht noch etwas an.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ufmya1v2czq3ah2iy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kürbis-Porridge auf 2 Schüsseln aufteilen und je nach Belieben mit Nüssen, Apfelstücken und Mandelmus garnieren. Servieren und genießen!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82ufmya1v6exxw982iy">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Kürbis waschen oder je nach Sorte schälen, halbieren und die Kerne entfernen. Hokkaidokürbis kann mit Schale verarbeitet werden. Kürbis in Würfel schneiden und auf einem mit Backpapier ausgelegten Backblech verteilen. Im Ofen bei 200 Grad 25-30 Minuten backen, bis die Stücke weich sind. Alternativ in einem Topf mit Wasser 15-20 Minuten kochen lassen, bis der Kürbis weich ist und anschließend abgießen. Im Mixer fein pürieren. 1 kg Kürbis ergibt ungefähr 350-400 g Kürbispüree. Das selbst gemachte Kürbispüree kann auch eingefroren werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kürbispüree selber machen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc82ll6jth9idhzdgnux7" file_variant="master" position="1">Kürbis-Porridge</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f0e304b8551">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc82ll6gocq1d15xywnuyp" file_variant="master" position="1">Kürbis-Porridge</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f0e3074c716">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc82ll6duw13dnxr98uve" file_variant="master" position="1">Kürbis-Porridge</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f0e308cfac4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc82ll6i5awyskdpamuyr" file_variant="master" position="1">Kürbis-Porridge</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

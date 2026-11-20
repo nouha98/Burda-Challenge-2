@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82glw64q03k9xbt2bpn" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-19T16:22:53+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-19T16:30:08+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7z7ez5e95leen2xmoos"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqq8a45undo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0row717kjahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Provider topic="tmt82glziyfudiw7i7jbr4"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Beeren-Vanilleeis mit Cookies","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":480,"kilojoule":2011,"carbonhydrates":61,"fat":23,"protein":6,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Brombeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"3:1"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleeis","unit":{"name":"l"},"prefix":"leicht angetautes","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Mürbeteigkekse","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Brombeeren und Erdbeeren putzen, vierteln. Mit Gelierzucker in einem Topf verrühren, aufkochen und 3–4 Minuten köcheln. Grob pürieren, abkühlen lassen."},{"headline":null,"content":"Vanilleeis abwechselnd mit Beerensauce in eine Form füllen, leicht marmorieren. Eis 15 Minuten einfrieren."},{"headline":null,"content":"Kekse zerbrechen, auf dem Eis verteilen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Beeren-Vanilleeis mit Cookies</Title>
+    <CustomRecipeNutritionalValueCalories position="1">480</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2011</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">61</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">23</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <SubHeadline position="1">Vanille-Beeren-Eis mit Cookies 11302761</SubHeadline>
+    <CustomRecipeNoteInformation position="1">Vanilleeis muss leicht angetaut sein</CustomRecipeNoteInformation>
+    <Headline position="1">Beeren-Vanilleeis mit Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-19T16:22:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82glw7pcxwokg1faoht">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5146" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Brombeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="3:1" plural="Gelierzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10781" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" prefix="leicht angetautes" plural="Vanilleeis" position="4"/>
+      <CustomRecipeIngredient topic="tmt7p4nducqj9z1bmv5n3y6" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mürbeteigkekse" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82glw85djk5z3y6zoht">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Brombeeren und Erdbeeren putzen, vierteln. Mit Gelierzucker in einem Topf verrühren, aufkochen und 3–4 Minuten köcheln. Grob pürieren, abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82glw85dlsh189yn1oht">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Vanilleeis abwechselnd mit Beerensauce in eine Form füllen, leicht marmorieren. Eis 15 Minuten einfrieren. Kekse zerbrechen, auf dem Eis verteilen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Pilossof, Judd</ImageCredit>
+      <DocumentRef doc_id="doc7exr3ezdm68884bjc0k" file_variant="master" position="1">Vanille-Beeren-Eis mit Cookies</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84izldr1kqtr7s739jb" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-11T09:35:58+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-02-11T09:43:11+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buchweizen Pancakes","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Backen","duration":3},{"name":"Ruhen/Warten","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Pancakes","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Buchweizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"pflanzliche Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(z. Bsp. Mandelmilch)"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":40,"amountTo":null,"ingredient_name":"Kokosöl","unit":{"name":"g"},"prefix":"flüssiges","suffix":null}]},{"headline":"Für die Deko","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"Stück"},"prefix":"kleine","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minzblättchen","unit":{"name":"(Keine Einheit)"},"prefix":"einige","suffix":null}]}],"preparation":[{"headline":"Für die Pancakes","content":"Buchweizenmehl, Backpulver, Vanilleextrakt, Zimt und Salz in einer Schüssel vermengen. Pflanzliche Milch den trockenen Zutaten geben und gut mischen. Eier aufschlagen und nach und nach hinzugeben. Kokosöl in einen kleinen Topf geben und bei niedriger Temperatur schmelzen. Zuletzt das flüssige Kokosöl hinzufügen und alles zu einem glatten Teig verrühren. Den Pancaketeig etwa 15 Minuten ruhen lassen. Eine beschichtete Pfanne leicht einfetten und auf mittlerer Stufe erhitzen. Den Teig portionsweise in die Pfanne geben und die Pancakes von beiden Seiten goldbraun backen. Die Pancakes auf einem Teller stapeln, mit Ahornsirup beträufeln und mit Bananenscheiben und Minzblättchen dekorieren."}],"recipe_tips":[{"headline":"für noch luftigere Pancakes","content":"kannst du die Eier trennen, das Eiweiß aufschlagen und zuletzt zum unter den Teig heben."}]}</CustomStructuredRecipeJson>
+    <Title>Buchweizen Pancakes</Title>
+    <Headline position="1">Buchweizen Pancakes</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-11T09:35:58+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84izla1c7htr0a099jb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="für die Pfanne" plural="Fett"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5191" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buchweizenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. Bsp. Mandelmilch)" position="6" plural="Pflanzenmilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="flüssiges" plural="Kokosöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Pancakes mit Buchweizen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84izlcr0lpi1lu7rh9jb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" plural="Minzblätter" amount="2" amount_max="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Deko</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84izldr1cztafcpd9jb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Pancakes, Buchweizenmehl, Backpulver, Vanilleextrakt, Zimt und Salz in einer Schüssel vermengen. Pflanzliche Milch zu den trockenen Zutaten geben und unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_698c401e2f094">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eier aufschlagen und nach und nach zu der Mehlmischung rühren. Kokosöl in einen kleinen Topf geben und bei niedriger Temperatur schmelzen. Das flüssige Kokosöl in die Schüssel geben und alles zu einem glatten Teig verrühren. Den Pancaketeig etwa 15 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_698c403a94ad0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine beschichtete Pfanne leicht einfetten und auf mittlerer Stufe erhitzen. Den Teig portionsweise in die Pfanne geben und die Pancakes von beiden Seiten goldbraun backen (insgesamt ca. 3 Minuten).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_698c404339b87">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Deko, Bananen schälen und in Scheiben schneiden. Die Pancakes auf einem Teller stapeln, mit Ahornsirup beträufeln und mit Bananenscheiben und Minzblättchen dekorieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84izldr1hhv17cdws9jb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du deine Pancakes noch fluffiger haben möchtest, kannst du die Eier trennen, das Eiweiß aufschlagen und zuletzt unter den Teig heben. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für noch luftigere Pancakes</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841jgvmbxlu19nd9626i" file_variant="master" position="1">Buchweizen-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_698c4115adc9c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841jih8iqcj1iw13w2iu" file_variant="master" position="1">Buchweizen-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_698c411796d32">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841jikfjlbn15jm462ip" file_variant="master" position="1">Buchweizen-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_698c411aa8d5a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841jiailp2t1j1ep626f" file_variant="master" position="1">Buchweizen-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_698c411ca64c4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841jgsv26ec1cs7i526e" file_variant="master" position="1">Buchweizen-Pancakes</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

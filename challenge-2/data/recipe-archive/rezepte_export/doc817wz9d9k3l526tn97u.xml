@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc817wz9d9k3l526tn97u" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-24T16:52:27+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2026-01-22T12:28:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt7865q4pbrpzhzsa7idm" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="90"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ro3phuwntdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomRecipeNoteInformation position="1">Du benötigst: Rührschüssel, Küchenmaschine oder Handrührgerät mit Knethaken, Geschirrtuch, Schneidebrett, Küchenmesser, 2 Schüsseln, großer Topf, Schaumkelle, Topfhandschuhe, Backblech, Backpapier</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">810</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">110</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">30</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">26</CustomRecipeNutritionalValueFat>
+    <SubHeadline position="1">Brizza02.jpg</SubHeadline>
+    <Headline position="1">Brizza (Brezel-Pizza)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-24T16:52:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6626" position="3" amount="0,5" unit_topic="tmt7domm3x9duhskfqwfif" unit="Würfel" prefix="frischer" suffix="(= 21 g)" plural="Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="1" amount="350" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" position="4" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Dinkelmehl" suffix="Type 630"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8116" position="5" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Meersalz"/>
+      <CustomRecipeIngredient topic="tmt80pcwuusu5s5mrdbs55" position="6" prefix="etwas" plural="Mehl zum Arbeiten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_685acde4dffe5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4871" position="8" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" suffix="(45 % Fett i. Tr.)" plural="Bergkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6351" position="9" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" suffix="(48 % Fett i. Tr.)" plural="Gouda"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="1" amount="1" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(20 % Fett)" plural="Schmand"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7461" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Doppelrahmstufe)" plural="Kräuterfrischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" position="5" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7cv783h17cw1ly1jv1qr" position="6" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(= ca. 2 Stück)" plural="Weißwürste"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" position="7" amount="0,5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Schnittlauch"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Belag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_685ace848286d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="1" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" prefix="zimmerwarmes" plural="Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" position="2" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="-Pulver" plural="Natron"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Lauge</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_4_685aceb24a2aa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5126" position="1" prefix="nach Wunsch Mini-" suffix="zum Dekorieren" plural="Brezeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Teig</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">250 ml Wasser mit Zucker und Hefe verrühren, mit 250 g Mehl zu einem glatten Teig rühren und abgedeckt ca. 30 Minuten gehen lassen. Restliches Mehl und Wasser einarbeiten, Salz zugeben und ca. 3 Minuten auf der höchsten Stufe der Küchenmaschine oder mit den Händen auf der Arbeitsfläche kräftig durchkneten, bis der Teig elastisch ist. Teig zu Kugeln portionieren (das Grundrezept ergibt 4 Stück), mit Mehl bestäuben und mit einem Geschirrtuch abgedeckt 90 Minuten bei Raumtemperatur oder im Kühlschrank für den nächsten Tag gehen lassen, bis sich der Teig verdoppelt hat.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_685acf59db2c3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Belag</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und in feine Ringe schneiden. Schmand in eine Schüssel geben, mit Kräuterfrischkäse glattrühren und mit Salz und Pfeffer würzen. Weißwürste von der Haut befreien und in 0,5 cm dicke Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_685acf76a159c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Lauge</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">Wasser in einen Topf geben, Natron zugeben, aufkochen und vorsichtig verrühren, bis sich das Natron aufgelöst hat. Teig portionsweise auf einer mit Mehl bestäubten Arbeitsfläche zu runden Fladen (ca. 25 cm Durchmesser) auseinanderziehen. 30 Sekunden von jeder Seite in die heiße Lauge tauchen und – am besten mit Handschuhen – abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_685acf894d12d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In der Zwischenzeit den Backofen mit einem Backblech in der zweiten Schiene von unten auf 230 Grad Ober-/Unterhitze vorheizen. Schnittlauch waschen, abtropfen lassen und in Ringe schneiden. Gouda und Bergkäse in eine Schüssel geben und miteinander vermischen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_685acf98a3ddf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Teiglinge mit der Schmandcreme bestreichen, mit Weißwurst und Zwiebeln belegen und mit Käse bestreuen. Brizza nacheinander mit Hilfe eines Backpapiers auf das Blech geben und ca. 15 Minuten goldbraun backen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_685acfa596da9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Brizza aus dem Ofen nehmen, mit Schnittlauch bestreuen. Nach Wunsch mit Mini-Brezeln bestreut servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc80u1llvlzpxjhoanayv" file_variant="master" position="1">Brizza02.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

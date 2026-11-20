@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc887u8ighiyclv3z4oga" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-27T22:54:10+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-10-29T12:50:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Creator topic="tmt8589me6ytdz910vuoh5"/>
+    <StoryType topic="storytype-recipe"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="240"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruds18czicdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp53fbfjjdo5"/>
+    <Source topic="tmt887uekuh8j697cnwoga"/>
+    <LastEditedBy topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <CustomRecipeNoteInformation position="1">Metallspieße</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">800</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">85</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">43</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">34</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Hähnchen-Döner-Kebabs aus der Heißluftfritteuse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-27T22:54:10+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" position="1" amount="70" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="griechischer Joghurt"/>
+      <CustomRecipeIngredient topic="tmt82yhxd70jaombyqkbbu" position="2" amount="1.5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Granatapfelmelasse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="4" amount="1.5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="5" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt7jbk1j0uclg1mz9h8fy6" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kreuzkümmelpulver"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="7" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="8" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Paprikapulver" prefix="edelsüßes"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7236" position="10" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Knoblauchpulver"/>
+      <CustomRecipeIngredient topic="tmt7eittsuzghjtnlaslt5" position="11" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="ohne Knochen" plural="Hähnchenoberkeulen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="12" amount="2" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt82tekrmbtdw1l85tqdyj" position="13" plural="Ölsprays"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Hähnchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6ae11df10fcbc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5201" position="1" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Bulgur"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="2" amount="3" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="3" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="4" amount="3" prefix="Stängel" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="5" amount="2" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="6" amount="1" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="7" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="9" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="10" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Taboulé</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6ae11df25e956">
+      <CustomRecipeIngredient topic="tmt8521pd516xkmlolnbqm" position="3" prefix="nach Belieben" suffix="zum Servieren" plural="Knoblauchsauce"/>
+      <CustomRecipeIngredient topic="tmt82ex9w1izsxl4iqb1ygn" position="1" amount="4" prefix="erwärmte" plural="Pitabrote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8636" position="2" prefix="grüne, eingelegte" plural="Peperoni"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Joghurt in einer großen Schüssel mit Granatapfelmelasse, Tomatenmark, Olivenöl, Honig, Kreuzkümmel, Zimt, Paprikapulver, Pfeffer und Knoblauchpulver gut vermischen. Die Hähnchenkeulen trocken tupfen und sorgfältig in der Marinade wenden, bis sie gleichmäßig bedeckt sind. Abgedeckt mindestens 4 Stunden oder über Nacht im Kühlschrank marinieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ae12009ee381">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Bulgur in einer Schüssel mit lauwarmem Wasser bedecken und ca. 20 Minuten quellen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6ae1200c37214">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">3 Tomaten waschen, vierteln, entkernen und das Fruchtfleisch klein würfeln. Blätter von Petersilie und Minze abzupfen und fein hacken. Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Schalotte abziehen und fein würfeln. Zitronensaft mit Öl, Salz und Pfeffer verrühren und mit den vorbereiteten Zutaten zum Bulgur geben. Alles gut vermengen und bis zum Servieren durchziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6ae1201b6f05e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Hähnchen die restlichen 2 Tomaten waschen, trockentupfen, in größere Stücke oder Scheiben schneiden. In den Korb legen, mit Öl besprühen und ca. 5 Minuten bei 200 Grad garen. Auf einen Teller geben und abgedeckt warm halten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6ae1202dc7e61">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Hähnchenkeulen mit 3 Metallspießen fixieren (jeweils am Ende und in der Mitte). Garkorb mit Backpapier auslegen. Die aufgespießten Keulen in den Korb legen. Spieße bei 180 Grad 15 Minuten garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6ae12048187ca">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Dann die Keulen wenden und weitere 15 Minuten garen, bis sie durch sind. Dabei ggf. mit Folie abdecken, falls sie zu stark bräunen. Dann auf einen Teller legen und 5 Minuten bedeckt ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6ae1205335786">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Spieße entfernen, Fleisch in Stücke schneiden und mit dem Bratensaft beträufeln. Hähnchen mit dem Taboulé auf den erwärmten Pita-Broten anrichten, mit den gegarten Tomaten und eingelegten Peperoni toppen. Alles nach Belieben mit etwas Knoblauchsauce beträufeln und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Hähnchen-Döner-Kebabs aus der Heißluftfritteuse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc881hw5c0h3am1ecxbjs" file_variant="master" position="1">Hähnchen-Döner-Kebabs aus der Heißluftfritteuse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

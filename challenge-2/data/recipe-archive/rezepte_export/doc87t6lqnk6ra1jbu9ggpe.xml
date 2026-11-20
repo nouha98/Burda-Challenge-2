@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87t6lqnk6ra1jbu9ggpe" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-29T11:19:08+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-09-29T15:09:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <Source topic="tmt87t6nn22h5ws2wrvgq6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gemüse-Fleischtopf mit Kartoffelhaube","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Backen","duration":45}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Möhren","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Kürbisfruchtfleisch","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. vom Muskatkürbis)"},{"amount":800,"amountTo":null,"ingredient_name":"Schweinelende","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Pflanzenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"ca. 500","amountTo":null,"ingredient_name":"Fleischbrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"dunkles Bier","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"vorwiegend festkochende Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"geriebener Hartkäse","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Gruyère)"}]}],"preparation":[{"headline":null,"content":"Möhren putzen, schälen und klein würfeln. Zwiebel und Knoblauch abziehen und fein würfeln bzw. hacken. Kürbisfruchtfleisch ebenfalls in kleine Würfel schneiden. Fleisch trocken tupfen und mundgerecht würfeln. Thymianblätter abzupfen."},{"headline":null,"content":"Fleisch in einem Schmortopf im heißen Öl braun anbraten. Möhren, Zwiebeln, Knoblauch und Kürbis kurz mitanschwitzen. Brühe und Bier angießen. Alles mit Salz und Pfeffer würzen. Etwa 15 Minuten köcheln lassen."},{"headline":null,"content":"Inzwischen Kartoffeln waschen, schälen und in dünne Scheiben hobeln. Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen."},{"headline":null,"content":"Die Hälfte des Thymians zum Eintopf geben und noch mal abschmecken. Die Kartoffelscheiben fächerartig auf den Eintopf legen. Mit Salz und Pfeffer würzen, mit übrigem Thymian bestreuen und mit Crème fraîche bestreichen. Mit Käse bestreuen."},{"headline":null,"content":"Im Ofen ca. 45 Minuten goldbraun fertig garen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Gemüse-Fleischtopf mit Kartoffelhaube</Title>
+    <Headline position="1">Deftiger Gemüse-Fleischtopf mit Kartoffelhaube</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-29T11:19:08+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87t6lvjzdjn7sjskpi3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6571" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. Gruyère)" position="14" plural="Hartkäse" prefix="geriebener"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7551" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. vom Muskatkürbis)" plural="Kürbisfruchtfleisch" position="4"/>
+      <CustomRecipeIngredient topic="tmt87t6mu1lr9s1b83uogpw" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Schweinelenden"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="6" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Thymian" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Pflanzenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Fleischbrühe" position="8" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4881" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="9" plural="Bier" prefix="dunkles"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="11" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j8jh7ru8o1mun50gip" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" plural="vorwiegend festkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Crème fraîche" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87t6lz30r43ysk03pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Möhren putzen, schälen und klein würfeln. Zwiebel und Knoblauch abziehen und fein würfeln bzw. hacken. Kürbisfruchtfleisch ebenfalls in kleine Würfel schneiden. Fleisch trocken tupfen und mundgerecht würfeln. Thymianblätter abzupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6lz30u4p1iieb0pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Fleisch in einem Schmortopf im heißen Öl braun anbraten. Möhren, Zwiebeln, Knoblauch und Kürbis kurz mitanschwitzen. Brühe und Bier angießen. Alles mit Salz und Pfeffer würzen. Etwa 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6lz30uad19dgycpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Inzwischen Kartoffeln waschen, schälen und in dünne Scheiben hobeln. Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t6lz30udz1cjyexpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Hälfte des Thymians zum Eintopf geben und noch mal abschmecken. Die Kartoffelscheiben fächerartig auf den Eintopf legen. Mit Salz und Pfeffer würzen, mit übrigem Thymian bestreuen und mit Crème fraîche bestreichen. Mit Käse bestreuen. Im Ofen ca. 45 Minuten goldbraun fertig garen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Eintopf mit Kartoffeln und Schweinelende</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc85jmptyhdn61mumdx1r4y" file_variant="master" position="1">Eintopf mit Kartoffeln und Schweinelende</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

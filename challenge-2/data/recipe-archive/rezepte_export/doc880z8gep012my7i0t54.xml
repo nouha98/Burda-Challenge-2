@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc880z8gep012my7i0t54" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-14T15:25:39+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-10-14T15:36:22+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt81mb06zhac013huiz9o3" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt880zdf15fzo1eztzst7x"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hafer-Vollkorn-Brot","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Backen","duration":40}],"difficulty":null,"price":null,"nutritions":{"calories":240,"kilojoule":1005,"carbonhydrates":48,"fat":3,"protein":8,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":220,"amountTo":null,"ingredient_name":"Vollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 550) und Mehl zum Arbeiten"},{"amount":80,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":null,"prefix":null,"suffix":"für die Form"}]}],"preparation":[{"headline":null,"content":"Beide Sorten Mehl, Haferflocken, Salz und Natron in einer Schüssel vermischen. Buttermilch und Honig zugeben und alles mit einem Holzlöffel zu einem Teig verkneten."},{"headline":null,"content":"Teig auf einer bemehlten Arbeitsfläche mit den Händen glatt kneten, dann zu einem ca. 3 cm dicken Fladen flach drücken und die Ränder von außen nach innen rundum einfalten, sodass eine kompakte Teigkugel entsteht."},{"headline":null,"content":"Teigling leicht bemehlen, mit der Knetfalz nach unten in den gefetteten Garkorb des Airfryers oder eine gefettete Airfryer-geeignete Backform legen. Mittig kreuzförmig einschneiden."},{"headline":null,"content":"Bei 200 Grad 15 Minuten anbacken. Temperatur auf 170 Grad reduzieren und weitere 25 Minuten backen."}],"recipe_tips":[{"headline":null,"content":"Für alle, die ein Brot mit mehr Ballaststoffen suchen."}]}</CustomStructuredRecipeJson>
+    <Title>Hafer-Vollkorn-Brot</Title>
+    <CustomRecipeNutritionalValueCalories position="1">240</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1005</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">48</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">3</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Hafer-Vollkorn-Brot (Airfryer)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-14T15:25:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="880z8i61yja1k33rkrg5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10886" amount="220" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollkornmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 550) und Mehl zum Arbeiten" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buttermilch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="für die Form" plural="Butter" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="880z8kk4zk51dleldrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Beide Sorten Mehl, Haferflocken, Salz und Natron in einer Schüssel vermischen. Buttermilch und Honig zugeben und alles mit einem Holzlöffel zu einem Teig verkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z8kk68rs156kxgrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Teig auf einer bemehlten Arbeitsfläche mit den Händen glatt kneten, dann zu einem ca. 3 cm dicken Fladen flach drücken und die Ränder von außen nach innen rundum einfalten, sodass eine kompakte Teigkugel entsteht.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z8kk68zo6bkz9rg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teigling leicht bemehlen, mit der Knetfalz nach unten in den gefetteten Garkorb des Airfryers oder eine gefettete Airfryer-geeignete Backform legen. Mittig kreuzförmig einschneiden. Bei 200 Grad 15 Minuten anbacken. Temperatur auf 170 Grad reduzieren und weitere 25 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="880z8kk698k1bwp7crg5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Frisch gebackenes Vollkornbrot aus der Heißluftfritteuse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Kornfeld, Viktoria</ImageCredit>
+      <DocumentRef doc_id="doc86tv6qyrdf8tktcxf0r" file_variant="master" position="1">Frisch gebackenes Vollkornbrot aus der Heißluftfritteuse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

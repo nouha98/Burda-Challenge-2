@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786qb42flbs1a380vlln" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T12:38:48+01:00</created>
+  <identifier></identifier>
+  <modcount>24</modcount>
+  <modified>2025-10-30T16:25:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt831p3r82zd1bpboo1a0z"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <CustomCenshareId>782792</CustomCenshareId>
+    <Title position="1">Kalbsmedaillons mit gefüllten Zitronen</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">530</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2230</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">11</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">53</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">30</CustomRecipeNutritionalValueFat>
+    <CustomCenshareImportIssue>empty ingredient</CustomCenshareImportIssue>
+    <CustomCenshareRecipeRelationshipChildOf>303426</CustomCenshareRecipeRelationshipChildOf>
+    <Headline position="1">Kalbsmedaillons mit gefüllten Zitronen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T16:33:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="e4f2e1">
+      <CustomRecipeIngredient topic="tmt7869nhc9khk1h5k2gavd" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Kalamata-Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" prefix="milde" position="2" unit="l" plural="Fleischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11361" amount="2" unit_topic="tmt78awc7b61w36c313ajd" position="3" unit="Stiel" plural="Zitronengras"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="gehackte" position="4" unit="EL" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5851" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" position="5" unit="Zweig" plural="Estragon"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="kalte" position="7" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" unit_topic="tm_topic_default_unit" prefix="ein paar Tropfen" suffix="-Öl (ersatzweise Olivenöl oder ein anderes Nussöl)" position="8" unit="(Keine Einheit)" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="3" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8116" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Meersalz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6956" amount="6" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Kaffir-Limettenblätter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit_topic="tm_topic_default_unit" position="12" unit="(Keine Einheit)" plural="Orange"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="13" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" position="14" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6991" amount="4" unit_topic="tm_topic_default_unit" suffix="(à etwa 150 g)" position="15" unit="(Keine Einheit)" plural="Kalbsfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" unit_topic="tm_topic_default_unit" prefix="evtl." position="16" unit="(Keine Einheit)" plural="Kräuter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="e4f36e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Zitronen heiß waschen. 2 Zitronen halbieren, jeweils die Schnittflächen mit etwas Meersalz einreiben. Die Zitronenhälften in Alufolie wickeln und im Backofen in etwa 25 Minuten garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="e4f37f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Zitronenhälften auswickeln, den entstandenen Saft in eine kleine Schüssel abgießen. Das weiche Fruchtfleisch vorsichtig aus den Zitronenhälften löffeln, zum Saft in die Schüssel geben und beiseitestellen. Von der übrigen Zitrone die Schale fein abreiben. Zitrone halbieren, 4 dünne Scheiben davon abschneiden, vom Rest den Saft auspressen. Brühe in einem großen Topf erhitzen. Zitronensaft, -schale und die Kaffirlimettenblätter in die Brühe geben. Das Zitronengras in Stücke schneiden, mit in die Brühe geben und alles bei kleiner Hitze 5 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="e4f38c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Die Orange mit einem scharfen Messer so dick schälen, dass auch die weiße Haut mitentfernt wird. Orangenfilets zwischen den Trennhäuten herausschneiden, Saft dabei auffangen. Gesamten Saft aus dem Orangenrest ausdrücken und mit den Orangenfilets und dem aufgefangenen Saft in einem Topf einkochen lassen, bis die Flüssigkeit fast komplett verdampft ist.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="e4f39b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Olivenfruchtfleisch von den Steinen schneiden, fein hacken. Oliven, Zitronensaft und ausgelöstes Fruchtfleisch aus den gegarten Zitronenhälften sowie gehackte Pistazien zu den eingekochten Orangenfilets geben. Erneut etwas einkochen lassen. Estragon fein hacken, zur Olivenmasse geben. Mit Salz und Pfeffer abschmecken. Das Oliven-Zitrus-Ragout in die Zitronenhälften füllen. Mozzarella abgießen, in Stücke zupfen und auf den gefüllten Zitronen verteilen. Zitronen in eine ofenfeste Form setzen und im Backofen bei 200 Grad (Umluft: 180 Grad) ca. 13 Minuten gratinieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="e4f3a9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="5">Zubereitungsschritt 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="5">Inzwischen Brühe zum Kochen bringen. Fleisch abbrausen, trocken tupfen. Je 1 Zitronenscheibe auf jedes Filet legen und kreuzweise mit dem Garn verschnüren, dabei eine große Schlaufe machen. Schlaufen über den Stiel eines Holzkochlöffels streifen und das Fleisch so in die Brühe hängen, dass es sich in der Mitte des Topfes befindet, den Topfboden jedoch nicht berührt. Fleisch in der simmernden Brühe in ca. 10 Minuten garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="e4f3b7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="6">Zubereitungsschritt 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="6">Rosa gegartes Fleisch herausnehmen und vor dem Anrichten 5 Minuten ruhen lassen. Dabei warm halten. Inzwischen für die Sauce 250 ml Brühe abnehmen und durch ein Sieb in einen kleinen Topf gießen. Etwas reduzieren und mit der kalten Butter in Flöckchen leicht binden. Sauce mit Salz und Pfeffer abschmecken. Kalbsfilets salzen, pfeffern, evtl. mit Kräutern garnieren und mit der Sauce anrichten. Gefüllte Zitronen mit Pistazienöl beträufeln und zu den Medaillons servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="e4f35b">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Tipp: Die übrig gebliebene Brühe schmeckt hervorragend als Basis für eine Suppe.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7869mnlwto2e7qoeavt" file_variant="censhare_307116_last" position="1">307116-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="eecb3c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="2">Picture 2</ImageLabel>
+      <DocumentRef doc_id="doc786qa91lt361amlw8lm7" file_variant="censhare_782795_last" position="2">782795-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="f85dc6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="3">Picture 3</ImageLabel>
+      <DocumentRef doc_id="doc7869mpx9y4z99g4savs" file_variant="censhare_307117_last" position="3">307117-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="fde478">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="4">Picture 4</ImageLabel>
+      <DocumentRef doc_id="doc786qa9dlype4d70slm6" file_variant="censhare_782797_last" position="4">782797-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="04f01d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="5">Picture 5</ImageLabel>
+      <DocumentRef doc_id="doc7869ml5llg2jo5g2avt" file_variant="censhare_307114_last" position="5">307114-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="07cf78">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="6">Picture 6</ImageLabel>
+      <DocumentRef doc_id="doc786qajutww588mpmlm8" file_variant="censhare_782799_last" position="6">782799-master-first.psd</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bfst1has113x89z72b" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T16:33:21+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_782792</displayname>
+      <doc_id id="doc786qb42flbs1a380vlln"/>
+      <hash>fa5dc1ae0520df4d9e10c7108c95cafa</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T16:33:21+01:00</modified>
+      <size>7749</size>
+      <subpath>2019/12-08/e5/db/file78bfst1has113x89z72b.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

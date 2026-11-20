@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834lfgn3qq8zp7gpq30" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-05T07:47:15+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-05T07:53:36+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rupw15cny7do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bijyxzclzgl9gd8xo"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gemüse-Smoothie","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Brokkoli","unit":{"name":"Stück"},"prefix":"kleiner","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Babyspinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Pflücksalate oder andere Blattsalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Kräuter","unit":{"name":"Bund"},"prefix":null,"suffix":"wie z.B: glatte Petersilie"},{"amount":200,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"Ca.","suffix":null}]}],"preparation":[{"headline":null,"content":"Das Gemüse und die Kräuter waschen und eventuell grob schneiden. Vom Brokkoli kleine Röschen abtrennen."},{"headline":null,"content":"Die Petersilie mit Stängel grob hacken."},{"headline":null,"content":"Alle Zutaten mit dem Wasser in einen Mixbecher geben und fein und sämig pürieren."}],"recipe_tips":[{"headline":null,"content":"Wenn du magst, kannst du auch 3-4 Eiswürfel während des Mixvorgangs dazugeben. So bleibt das Gemüse schön grün und der Smoothie schmeckt kalt noch besser. Je nach Gemüsemenge musst du die Wassermenge etwas anpassen. Statt Wasser kannst du z.B. auch Apfelsaft nehmen um den Smoothie etwas süßer zu machen."}]}</CustomStructuredRecipeJson>
+    <Title>Gemüse-Smoothie</Title>
+    <Headline position="1">Gemüse-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-05T07:47:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="834lffdb02fpcxdeq30">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5131" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleiner" plural="Brokkoli" position="1"/>
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Babyspinat" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4946" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" prefix="Pflücksalat oder anderer" plural="Blattsalat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="wie z.B: glatte Petersilie" plural="Kräuter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="Ca." plural="Wasser" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834lfgn3im01c4giq30">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Brokkoli waschen und vom Brokkoli kleine Röschen abtrennen. Den Spinat und den Salat waschen, abtropfen lassen und eventuell grob schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834lfgn3lac1n8r6nq30">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Petersilie waschen, abtropfen lassen und mit Stängel grob hacken. Alle Zutaten mit dem Wasser in einen Mixbecher geben und fein und sämig pürieren. Danach in Gläser (à 180 ml) füllen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="834lfgn3lk77umtqq30">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Je nach Gemüsemenge musst du die Wassermenge etwas anpassen. Statt Wasser kannst du z. B. auch Apfelsaft nehmen, um den Smoothie etwas süßer zu machen. Wenn du magst, kannst du auch 3-4 Eiswürfel während des Mixvorgangs dazugeben. So bleibt das Gemüse schön grün und der Smoothie schmeckt kalt noch besser.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Wassermenge und Eiswürfel</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmxjn7sw3sdzeufvg" file_variant="master" position="1">Gemüse-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690af46c169b8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmxpgh1ug18ndlpofk" file_variant="master" position="1">Gemüse-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690af46d3db27">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmxwmu40ydhai8olb" file_variant="master" position="1">Gemüse-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690af46ebc2bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lmxecjaa8kh06kolb" file_variant="master" position="1">Gemüse-Smoothie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

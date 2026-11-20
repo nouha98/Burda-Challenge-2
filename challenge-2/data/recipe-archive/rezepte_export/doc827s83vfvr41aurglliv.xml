@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827s83vfvr41aurglliv" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-02T12:13:05+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-02T12:17:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Schoko-Muffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 630)"},{"amount":50,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Kokosblütenzucker","unit":{"name":"g"},"prefix":null,"suffix":"(oder Zucker)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"neutrales Pflanzenöl","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. Rapsöl)"},{"amount":350,"amountTo":null,"ingredient_name":"Pflanzenmilch","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. Haselnuss- oder Haferdrink)"},{"amount":100,"amountTo":null,"ingredient_name":"Zartbitter-Schokodrops","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen. Eine Muffinform (12 Mulden) mit Muffinförmchen auslegen."},{"headline":null,"content":"Mehl, Kakao, Zucker, Salz und Backpulver in einer Rührschüssel mischen. Öl und Pflanzenmilch zugeben und alles kurz glattrühren. 1 EL Schokodrops zur Seite legen, den Rest unter den Teig heben."},{"headline":null,"content":"Den Teig in die Förmchen füllen. Die übrigen Schoko-Drops auf dem Teig verteilen. Die Muffins im vorgeheizten Ofen ca. 20 Minuten backen."}],"recipe_tips":[{"headline":"Noch schokoladiger","content":"Statt Pflanzenmilch kannst du auch einen veganen Schokodrink für die Muffins verwenden. Die Schoko-Drops kannst du auch mit deiner Lieblings-Schokolade ersetzen: Einfach hacken und unter den Teig heben."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Schoko-Muffins</Title>
+    <Headline position="1">Vegane Schoko-Muffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-02T12:13:05+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827s819mvqx15wk7pliv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 630)" plural="Dinkelmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Backkakao" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7291" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(oder Zucker)" plural="Kokosblütenzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt7zien42pdzdehqsvifb" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. Rapsöl)" position="6" plural="neutrales Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. Haselnuss- oder Haferdrink)" plural="Pflanzenmilch" position="7"/>
+      <CustomRecipeIngredient topic="tmt803gr9trxyo14wjb8fqd" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" plural="Schoko-Drops" prefix="Zartbiter-"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827s83vffe11b501oliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen. Eine Muffinform (12 Mulden) mit Muffinförmchen auslegen. Mehl, Kakao, Zucker, Salz und Backpulver in einer Rührschüssel mischen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827s83vfjjr6fiwwliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Öl und Pflanzenmilch zugeben und alles kurz glattrühren. 1 EL Schokodrops zur Seite legen, den Rest unter den Teig heben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827s83vfjo4617oiliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Teig in die Förmchen füllen. Die übrigen Schoko-Drops auf dem Teig verteilen. Die Muffins im vorgeheizten Ofen ca. 20 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="827s83vfkdj19h2cjliv">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Pflanzenmilch kannst du auch einen veganen Schokodrink für die Muffins verwenden. Die Schoko-Drops kannst du auch mit deiner Lieblings-Schokolade ersetzen: Einfach hacken und unter den Teig heben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Noch schokoladiger</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7b74hc60uxagj19tl" file_variant="master" position="1">VeganeSchokomuffins3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b6c425be5a8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7bcw9m5u1fmw7t3rq" file_variant="master" position="1">VeganeSchokomuffinsStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b6c427af531">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7b8swgvc16vylx2u3" file_variant="master" position="1">VeganeSchokomuffinsStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b6c42d84ade">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7bbp0hcg1mr4d33r5" file_variant="master" position="1">VeganeSchokomuffins1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68b6c42f1380d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7bg3ghpu12mr0e3qm" file_variant="master" position="1">VeganeSchokomuffins2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827ar5smmz6v1f3spvt" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T13:33:02+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-01T13:48:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Porridge mit Mandelmilch","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Ruhen/Warten","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Mandeldrink","unit":{"name":"ml"},"prefix":null,"suffix":"(ersatzweise Hafer- oder Cashewdrink)"},{"amount":1,"amountTo":null,"ingredient_name":"Chiasamen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":"Nach Belieben","suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"zarte Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"frische Beeren","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"reife Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mandeldrink in einem kleinen Topf aufkochen. Chiasamen und Haferflocken in die kochende Flüssigkeit rühren. Nach Belieben mit Ahornsirup süßen. Topf von der Herdplatte ziehen und unter gelegentlichem Rühren 5 Minuten quellen lassen."},{"headline":null,"content":"Porridge auf zwei Müslischalen verteilen. Himbeeren waschen, trocken tupfen. Banane schälen und in Scheiben schneiden. Porridge mit den Früchten ausgarnieren und nach Belieben noch lauwarm servieren."}],"recipe_tips":[{"headline":"Mealprep","content":"Koche die doppelte Menge Porridge und verteile die Portionen auf Bügelgläser. Variiere mit den Früchten und nehme dann die Gläser für ein gesundes Frühstück unterwegs mit."}]}</CustomStructuredRecipeJson>
+    <Title>Porridge mit Mandelmilch</Title>
+    <Headline position="1">Porridge mit Mandelmilch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T13:33:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827ar42dh1v150ccipvt">
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ersatzweise Hafer- oder Cashewdrink)" plural="Mandeldrink" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="2" plural="Chia-Samen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="Nach Belieben" plural="Ahornsirup" position="3" amount_error="1" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt8047twbofb71lw1v8fdv" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="zarte Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt7zixuwyafj7152o868n1" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." position="5" plural="frische Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="6" plural="Bananen" prefix="reife"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827ar5sm9ag1fbpgfpvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mandeldrink in einem kleinen Topf aufkochen. Chiasamen und Haferflocken in die kochende Flüssigkeit rühren. Nach Belieben mit Ahornsirup süßen. Topf von der Herdplatte ziehen und unter gelegentlichem Rühren 5 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827ar5smfqv1mwlzkpvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Porridge auf zwei Müslischalen verteilen. Beeren waschen, trocken tupfen. Banane schälen und in Scheiben schneiden. Porridge mit den Früchten ausgarnieren und nach Belieben noch lauwarm servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="827ar5smfw61jybzpvt">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Koche die doppelte Menge Porridge und verteile die Portionen auf Bügelgläser. Variiere mit den Früchten und nehme dann die Gläser für ein gesundes Frühstück unterwegs mit.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mealprep</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7boy0ld31cmsxx2u9" file_variant="master" position="1">Porridge_mit_Mandelmilch_2008.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b5880d663a6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7bq75i0m7tg361d7k" file_variant="master" position="1">Porridge_mit_Mandelmilch_1808.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b5880e733ec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7broqec11128sm3rq" file_variant="master" position="1">Porridge_mit_Mandelmilch_1985.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

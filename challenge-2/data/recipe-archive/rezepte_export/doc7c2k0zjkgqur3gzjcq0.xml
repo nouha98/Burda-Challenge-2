@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2k0zjkgqur3gzjcq0" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:42:45+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2025-09-18T11:44:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt6p3ce78n98kj11qqkmb" position="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy" position="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap" position="1"/>
+    <Creator topic="tmt7227qo31caggkepem67" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="75"/>
+    <Classification topic="dc_se_thesterm_6on9dzuhvh4d37u3bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="42" score="1"/>
+    <Classification topic="dc_se_thesterm_6on9dzuljhk6zvasbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="32" score="0.763934"/>
+    <Classification topic="dc_se_thesterm_6on9dzulj6rgzgp6bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="25" score="0.590028"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomBlpId position="1">44026</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:In Arbeit</CustomBlpDataField>
+    <CustomBlpDataField position="1">Notiz:StockFood / Mondadori Portfolio / Giorgi, Stefania
+12470661</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">750</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">86</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">42</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">26</CustomRecipeNutritionalValueFat>
+    <Title>Frühlings-Lasagne mit grünem Spargel und Schinken</Title>
+    <Headline position="1">Frühlings-Lasagne mit grünem Spargel und Schinken</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2019-05-20T00:00:00+02:00</DateCreated>
+    <DateImported>2020-08-27T16:42:45+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="518c61">
+      <CustomRecipeIngredient topic="tmt782q85j78lhl8feo8gz" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" position="1" unit="kg" plural="grüner Spargel"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="2" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt794qf1fed1dr809se46" amount="1" unit_topic="tm_topic_default_unit" position="3" unit="(Keine Einheit)" plural="Zwiebel"/>
+      <CustomRecipeIngredient topic="tmt796mn8o1yfc13uqc970c" amount="1" unit_topic="tm_topic_default_unit" position="4" unit="(Keine Einheit)" plural="Knoblauchzehe"/>
+      <CustomRecipeIngredient topic="tmt794qf1g4gpy49o28e45" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt794qf4eqk8p1leafne46" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt794qf1ftjavs1u17e45" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt794qf60u3gl1lnoaie45" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt7869prgne36r1rcyavd" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="frisch geriebene Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7br8nqe5ncp4a2c4k3u" amount="0.5" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Bio-Zitrone (abgeriebene Schale und Saft)"/>
+      <CustomRecipeIngredient topic="tmt7byup66ls9kbzng5b7h" amount="350" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" unit="g" plural="Lasagneblätter"/>
+      <CustomRecipeIngredient topic="tmt796nmx69ruh19bt7wffr" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="13" unit="g" plural="Kochschinken"/>
+      <CustomRecipeIngredient topic="tmt794qf4etagml0xjte46" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="14" unit="g" plural="Parmesan"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="518cfe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Spargel im unteren Drittel schälen, die holzigen Enden abschneiden. Spargel in Salzwasser 3 Min. blanchieren. Abgießen, kalt abschrecken und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="518d10">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Die Auflaufform (ca. 20x35 cm) fetten. Zwiebel und Knoblauch abziehen und fein würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="518d21">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Butter in einem Topf erhitzen, Zwiebel- und Knoblauchwürfel darin andünsten. Mit Mehl bestäuben, kurz anschwitzen. Brühe und Milch unter Rühren zufügen. Soße bei kleiner Hitze 5 Min. köcheln lassen. Mit Muskatnuss, Salz, Pfeffer, Zitronenschale und -saft würzen. Abwechselnd Soße, Nudeln, Schinken und Spargel einschichten, bis alle Zutaten verbraucht sind. Mit einer Schicht Soße abschließen. Parmesan raspeln, über die Lasagne streuen. Den Auflauf im Ofen 40 Min. backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Giorgi, Stefania</ImageCredit>
+      <DocumentRef doc_id="doc74hokm0imrcbfrap9d5" file_variant="master" position="1">Fr hlings-Lasagne mit gr nem Spargel und Schinken</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k0zsp3tf1h8u6ncq0" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:42:46+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k0zjkgqur3gzjcq0"/>
+      <hash>07cd15f77a58e837a935bd30e9d8f94b</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:42:46+02:00</modified>
+      <size>5673</size>
+      <subpath>2020/08-27/0a/8c/file7c2k0zsp3tf1h8u6ncq0.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k0zqm9km9iyrzcq0" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:42:45+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k0zjkgqur3gzjcq0"/>
+      <hash>2a8d0977fe6d025386973bb6a1251376</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:42:46+02:00</modified>
+      <size>417</size>
+      <subpath>2020/08-27/3e/cf/file7c2k0zqm9km9iyrzcq0.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

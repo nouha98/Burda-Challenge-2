@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88cefhiaidkznh4oax6" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-05T19:56:18+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-11-05T21:12:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt88cfedm66w8182z5mbgy"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Chai-Latte-Wodka-Martini","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":161,"kilojoule":674,"carbonhydrates":10,"fat":2,"protein":2,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Chai-Tee","unit":{"name":"g"},"prefix":null,"suffix":"(ca. 3 Teebeutel)"},{"amount":240,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(alternativ Barista-Haferdrink)"},{"amount":160,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":null,"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Zimt","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Chai-Tee mit etwa 300 ml kochendem Wasser aufgießen und fünf Minuten ziehen lassen. Teebeutel entfernen und den Tee leicht abkühlen lassen."},{"headline":null,"content":"Tee, Milch, Wodka, Ahornsirup und Vanilleextrakt in einen Cocktailshaker geben. Eiswürfel hinzufügen und etwa 20 Sekunden rühren."},{"headline":null,"content":"In Martinigläser abseihen und am besten noch lauwarm mit Zimt bestreut servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Chai-Latte-Wodka-Martini</Title>
+    <CustomRecipeNutritionalValueCalories position="1">161</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">674</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">10</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Das braucht man: Cocktailshaker, Martinigläser</CustomRecipeNoteInformation>
+    <Headline position="1">Chai-Latte-Wodka-Martini</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-05T19:56:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88cefil5o9213zsax20dx">
+      <CustomRecipeIngredient topic="tmt84bt8uzochl4vxz6k7h" amount="6" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ca. 3 Teebeutel)" plural="Chai-Tee" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="240" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(alternativ Barista-Haferdrink)" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="160" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Ahornsirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiswürfel" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="etwas" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zimt" position="7" prefix="etwas" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88cefkne5l51eleo220dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Chai-Tee mit etwa 300 ml kochendem Wasser aufgießen, fünf Minuten ziehen lassen. Teebeutel entfernen und den Tee leicht abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88cefkne7xiz0svf20dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Tee, Milch, Wodka, Ahornsirup und Vanilleextrakt in einen Cocktailshaker geben. Eiswürfel hinzufügen und etwa 20 Sekunden rühren. In Martinigläser abseihen und am besten noch lauwarm mit Zimt bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Chai Latte Martini mit Wodka</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Coupland, Jane</ImageCredit>
+      <DocumentRef doc_id="doc870jeu1bib61f5mbt17wd" file_variant="master" position="1">Chai Latte Martini mit Wodka</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

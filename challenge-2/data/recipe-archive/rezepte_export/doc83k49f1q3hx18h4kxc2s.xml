@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83k49f1q3hx18h4kxc2s" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-05T12:51:06+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-23T09:52:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="15"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Country topic="country-JM" generator="com.digicol.se" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0roxe1by4tedo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Source topic="tmt83k4f7t40mezwjmyc5z"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <LastEditedBy topic="tmt84hz4j262xe1mvi2g1fxm"/>
+    <Headline position="1">Jamaikanischer Rotbarsch </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-05T12:51:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9346" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="oder Brassen, à ca. 400-500 g, küchenfertig)" plural="Rotbarschfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4881" position="2" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(Lagerbier aus Jamaika, z. B. Red Stripe) " plural="Bier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11506" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zwiebelpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="4" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="geräuchertes" plural="Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt80p8xblya2g1a05rksqo" position="5" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="getrockneter Thymian"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="8" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Bio-Limetten"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fische innen und außen waschen und trockentupfen. Mit einem scharfen Messer auf jeder Seite 3-4 tiefe Einschnitte machen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6932c9793a822">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Bier mit Zwiebel- und Paprikapulver, Thymian, Salz und Pfeffer in einer Schüssel verrühren. Marinade über die Fische gießen und gut in die Einschnitte und die Bauchhöhle einreiben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6932c98a46823">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Limetten heiß waschen und trockentupfen. 1 Limette in dünne Scheiben schneiden und in die Bauchhöhlen der Fische verteilen. Diese mit Frischhaltefolie abdecken und ca. 1 Stunde im Kühlschrank marinieren lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6932c99d3ec97">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Einen Grill anheizen. Fische in eine Grillschale oder auf ein Grillblech legen und 15-20 Minuten grillen, dabei nach der Hälfte der Zeit vorsichtig wenden und wiederholt mit etwas Bier bestreichen. Die 2. Limette in Spalten schneiden und mit den Fischen servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gegrillter Fisch (Jamaika)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Good Food</ImageCredit>
+      <DocumentRef doc_id="doc7sr72sgxmar1cx4qm2bx" file_variant="master" position="1">Gegrillter Fisch (Jamaika)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

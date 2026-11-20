@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7868phodmxj7uz5gavd" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T13:48:38+01:00</created>
+  <identifier></identifier>
+  <modcount>17</modcount>
+  <modified>2024-12-03T09:57:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomCenshareId>248196</CustomCenshareId>
+    <Title position="1">Bratäpfel mit Brombeer-Lebkuchenfüllung</Title>
+    <Headline position="1">Bratäpfel mit Brombeer-Lebkuchenfüllung</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareRecipeRelationshipParentOf>380192</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>1100719</CustomCenshareRecipeRelationshipParentOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T15:22:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="64eab6">
+      <CustomRecipeIngredient topic="tmt782p6yk2zeaqo96c8gz" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt782p6ykfiz4fsk9x8gz" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt782p6ykivb6wjaob8gz" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8071" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt782p6yizi831aslsc8gz" amount="6" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782p6yk9d1t17jx5n8gz" amount="3" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="64eb2a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Äpfel waschen, Kerngehäuse mit einem Apfelausstecher ausstechen. Äpfel mit Zitronensaft beträufeln. Marzipan mit Mandelmus verkneten. Lebkuchen zerkrümmeln, mit Butter verkneten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="64eb41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Auflaufform einfetten, Äpfel hineinsetzen. Mit Marzipan füllen. Darauf jeweils etwas Brombeergelee oder Konfitüre setzen. Lebkuchenkrümmel drauf verteilen. Im Backofen ca. 30 Minuten backen. Evtl. abdecken. Heiß servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_254609_last" doc_id="doc77z03uestcgpg82m7h" position="1">Bratäpfel mit Brombeer-Lebkuchenfüllung</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78a9iki4k1315qb0yhcq" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-06T09:41:36+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_248196</displayname>
+      <doc_id id="doc7868phodmxj7uz5gavd"/>
+      <hash>d4d13240d501887c8fc5530f09dcdf20</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2019-12-07T15:22:46+01:00</modified>
+      <size>3034</size>
+      <subpath>2019/12-07/17/99/file78a9iki4k1315qb0yhcq.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

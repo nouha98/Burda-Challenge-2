@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823noajyoep16k3v3ee9" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T11:28:46+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-08-25T11:34:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="14"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cheesecake Cookies","recipe_seo_headline":null,"servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":14},{"name":"Kühlen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":70,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":130,"amountTo":null,"ingredient_name":"Doppelrahmfrischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronenabrieb","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"grob gehackte Schokolade","unit":{"name":"g"},"prefix":"Nach Belieben","suffix":null}]}],"preparation":[{"headline":null,"content":"Weiche Butter, Zucker und Vanillinzucker schaumig schlagen. Salz, Frischkäse und Zitronenabrieb zugeben und weiterrühren. Mehl mit Backpulver vermischen und in den Teig einrühren. Nach Belieben gehackte Schokolade in den Teig einrühren. Teig 15 Minuten zum Verarbeiten kühlstellen."},{"headline":null,"content":"Backbleche mit Backpapier belegen. Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen."},{"headline":null,"content":"Teig mit Hilfe von 2 Teelöffeln oder einem Eisportionierer in walnussgroße Portionen teilen. Zügig zu Kugeln formen, mit Abstand auf die Bleche geben und etwas platt drücken. Die Cookies im Backofen etwa 12-14 Minuten backen. Man erkennt ob sie fertig sind wenn die Unterseite des Cookies eine leichte Bräunung hat, die Oberfläche bräunt nur sehr leicht."}],"recipe_tips":[{"headline":"Mit Chocolate Chips?","content":"Einfach vor dem Kühlstellen des Teiges 100 g Schokoladendrops einkneten und weiterverarbeiten."}]}</CustomStructuredRecipeJson>
+    <Title>Cheesecake Cookies</Title>
+    <Headline position="1">Cheesecake Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T11:28:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823no9p6a7d1iwve9ee9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="grob gehackte" position="9" plural="Schokolade" suffix="Nach Belieben"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Doppelrahmfrischkäse" position="5"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronenabrieb" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823noajyjqqwhaqee9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Weiche Butter, Zucker und Vanillinzucker schaumig schlagen. Salz, Frischkäse und Zitronenabrieb zugeben und weiterrühren. Mehl mit Backpulver vermischen und in den Teig einrühren. Nach Belieben gehackte Schokolade in den Teig einrühren. Teig 15 Minuten zum Verarbeiten kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823noajyjyq1mvlamee9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backbleche mit Backpapier belegen. Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Teig mit Hilfe von 2 Teelöffeln oder einem Eisportionierer in walnussgroße Portionen teilen. Zügig zu Kugeln formen, mit Abstand auf die Bleche geben und etwas platt drücken. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823noajyk2xlv54pee9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Cookies im Backofen etwa 12-14 Minuten backen. Man erkennt, ob sie fertig sind, wenn die Unterseite des Cookies eine leichte Bräunung hat, die Oberfläche bräunt nur sehr leicht. Die Cheesecake Kekse kannst du luftdicht verpackt bei Raumtemperatur mindestens 3 Tage aufbewahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="823noajyk5uz5kp7ee9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Einfach vor dem Kühlstellen des Teiges 100 g Schokoladendrops einkneten und weiterverarbeiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mit Chocolate Chips?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pu1er21r819f9vxtj8" file_variant="master" position="1">Cheesecake_Cookies_2709.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac2e1f6ba1f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pu1kn9hndje3antj8" file_variant="master" position="1">Cheesecake_Cookies_2079.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ac2e21a03d9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pu1gfmucyvz3e1urf" file_variant="master" position="1">Cheesecake_Cookies_2200.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68ac2e2b9be11">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pu1hv7g9h443gwuue" file_variant="master" position="1">Cheesecake_Cookies_2703.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68ac2e2ccb6c6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pu1j4kk2gvpjj2tj8" file_variant="master" position="1">Cheesecake_Cookies_2701.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

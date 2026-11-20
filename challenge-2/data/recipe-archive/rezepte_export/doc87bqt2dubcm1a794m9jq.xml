@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87bqt2dubcm1a794m9jq" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-26T12:46:34+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-26T12:50:51+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <Source topic="tmt87bqv1qxod3uu45pm9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rote-Bete-Suppe","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2.5,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"(Keine Einheit)"},"prefix":"frischer","suffix":"(2.5 cm)"},{"amount":500,"amountTo":null,"ingredient_name":"Rote Bete","unit":{"name":"g"},"prefix":null,"suffix":"(frisch, ersatzweise: vorgegart)"},{"amount":200,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kokosöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":400,"amountTo":null,"ingredient_name":"Kokosdrink","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kreuzkümmel","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"},{"amount":4,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Koriander","unit":null,"prefix":"frischer","suffix":"als Deko (nach Belieben)"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebel abziehen und fein würfeln. Ingwer schälen und fein hacken."},{"headline":null,"content":"Rote Bete waschen, Enden entfernen und schälen. Rote Bete in grobe Würfel schneiden. Kartoffeln schälen, waschen und grob würfeln."},{"headline":null,"content":"Kokosöl in einem weiten Topf erhitzen. Zwiebeln und Ingwer darin 2–3 Minuten andünsten, Rote Bete und Kartoffeln zugeben und bei mittlerer Hitze weitere 5 Minuten unter Rühren andünsten. Mit Gemüsebrühe ablöschen. Kokosdrink angießen und alles einmal aufkochen. Mit Deckel abdecken und bei mittlerer Hitze 20–25 Minuten köcheln lassen. Pürieren."},{"headline":null,"content":"Mit Kreuzkümmel, Pfeffer und etwas Salz abschmecken. In Suppentassen füllen und mit etwas Crème fraîche und frischem Koriander dekorieren. Vollkornbrot dazu reichen."}],"recipe_tips":[{"headline":null,"content":"Anstelle von Kokosdrink kann auch Kokosmilch light oder Kokoswasser verwendet werden. Verschiedene Kokosprodukte gibt es mittlerweile in fast jedem gut sortierten Supermarkt."}]}</CustomStructuredRecipeJson>
+    <Title>Rote-Bete-Suppe</Title>
+    <Headline position="1">Rote-Bete-Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-26T12:46:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87bqsxt47fpyu32f9jq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="frischer" suffix="als Deko (nach Belieben)" plural="Koriander" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="frischer" suffix="(2.5 cm)" plural="Ingwer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(frisch, ersatzweise: vorgegart)" plural="Rote Bete" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kokosöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt7gr2825xd4h19saikbxs" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kokosdrink" position="7"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Kreuzkümmel" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Crème fraîche" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87bqt1z999x14634y9jq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87bqt2du73krnuwu9jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und fein würfeln. Ingwer schälen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bqt2du7c4zuxe39jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Rote Bete waschen, Enden entfernen und schälen. Rote Bete in grobe Würfel schneiden. Kartoffeln schälen, waschen und grob würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bqt2du7hlmcmk49jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kokosöl in einem weiten Topf erhitzen. Zwiebeln und Ingwer darin 2–3 Minuten andünsten, Rote Bete und Kartoffeln zugeben und bei mittlerer Hitze weitere 5 Minuten unter Rühren andünsten. Mit Gemüsebrühe ablöschen. Kokosdrink angießen und alles einmal aufkochen. Mit Deckel abdecken und bei mittlerer Hitze 20–25 Minuten köcheln lassen. Pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bqt2du7lx12lp489jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Mit Kreuzkümmel, Pfeffer und etwas Salz abschmecken. In Suppentassen füllen und mit etwas Crème fraîche und frischem Koriander dekorieren. Vollkornbrot dazu reichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87bqt2du7pyox4ey9jq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Anstelle von Kokosdrink kann auch Kokosmilch light oder Kokoswasser verwendet werden. Verschiedene Kokosprodukte gibt es mittlerweile in fast jedem gut sortierten Supermarkt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdu6910771nb2n62t1" file_variant="master" position="1">Rote_Bete_Suppe_mit_Kokosmilch_57435.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a8ec4fab584f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdbfc3hjs1bbyhicf" file_variant="master" position="1">Rote_Bete_Suppe_mit_Kokosmilch_57268.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a8ec4fcd71f1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czddp8f0dk1iy080icg" file_variant="master" position="1">Rote_Bete_Suppe_mit_Kokosmilch_57278.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a8ec4ff42538">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79fcwb9ctn6y68cx8r" file_variant="master" position="1">Rote_Bete_Suppe_mit_Kokos_57431.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

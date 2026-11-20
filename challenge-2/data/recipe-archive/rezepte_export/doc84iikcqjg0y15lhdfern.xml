@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84iikcqjg0y15lhdfern" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-10T11:30:20+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-02-10T11:38:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt81byw1btuys1ijtrtfpb"/>
+    <Source topic="tmt84iio0q7q3bvzzh7etl"/>
+    <CustomRecipeTeaserside position="1">Dazu passt Blattsalat mit Gurken.</CustomRecipeTeaserside>
+    <Headline position="1">Panierter Kohlrabi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-10T11:30:20+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" position="1" amount="2" amount_max="3" plural="Kohlrabi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="3" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="5" amount="2" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="6" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Semmelbrösel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5261" position="7" amount="3" amount_max="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butterschmalz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das panierte Gemüse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_698b0944b6c75">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="1" amount="1" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Quark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sauerrahm"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9766" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Schnittlauchröllchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="frisch gehackte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="frisch gehackter" plural="Kerbel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Kräutersoße</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das panierte Gemüse Kohlrabi schälen, halbieren und in 4–5 mm dünne Scheiben schneiden. Salzen, pfeffern und im Mehl wenden. Durch die verquirlten Eier ziehen, mit Bröseln panieren. In heißem Schmalz in einer Pfanne rundum ca. 10 Min. goldbraun ausbacken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_698b0a2db1648">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Kräutersoße gepressten Knoblauch, Quark, Sauerrahm und Kräuter glatt rühren, salzen, pfeffern. Kohlrabi auf Küchenkrepp abtropfen lassen und mit der Soße servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Westermann &amp; Buroh Studios</ImageCredit>
+      <DocumentRef doc_id="doc78g16gwzilk1c036cfxk" file_variant="master" position="1">Kohlrabi paniert mit Kr utersauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

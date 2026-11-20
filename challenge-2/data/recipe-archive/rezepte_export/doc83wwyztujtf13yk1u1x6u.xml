@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83wwyztujtf13yk1u1x6u" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-30T10:36:24+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-30T10:49:48+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqphj3nnedo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gänsebrust","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":40},{"name":"Ruhen/Warten","duration":5}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Gänsebrüste","unit":{"name":"Stück"},"prefix":null,"suffix":"mit je ca. 400g"},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":"große","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Raps- oder Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Sauce","ingredients":[{"amount":2,"amountTo":3,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kräuterzweig","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"z.B.: Thymian, Majoran oder Beifuß"},{"amount":250,"amountTo":null,"ingredient_name":"Geflügelfond","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"kalte Butter","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Gänsebrüste auf noch vorhandene Federkiele überprüfen und diese ggfs. mit einer Pinzette ziehen. Den Backofen auf 120 Grad Umluft vorheizen. Die Gänsebrüste von beiden Seiten mit Salz und Pfeffer würzen. Eine Pfanne mit dem Öl erhitzen und die Gänsebrüste zuerst auf der Hautseite, ca. 4 Minuten anbraten, dann wenden und auf der Fleischseite ca. 2 Minuten anbraten und auf einem Gitterrost mit Backblech im Ofen für ca. 25 Minuten garen. Für 5 Minuten den Ofen auf 180 Grad erhitzen. Den Backofen dann ausschalten und die Türe einen Spalt öffnen. Die Gänsebrust ca. 5 Minuten ruhen lassen."},{"headline":null,"content":"Während des Garvorgangs die Sauce zubereiten. Die Schalotten schälen und fein würfeln. im Bratfett anrösten und mit dem Geflügelfond ablöschen. Diesen auf die Hälfte reduzieren und mit Salz und Pfeffer würzen. Die Kräuterzweige im Ganzen hinzulegen und auskochen, und nach ca. 5 Minuten wieder herausnehmen. Die Butter in kleine Würfel schneiden und mit dem Schneebesen unter die Sauce rühren, damit eine sämige Sauce entsteht."},{"headline":null,"content":"Die Gänsebrust auf ein Küchenkrepp setzen und abtupfen, dann in dünne Scheiben schneiden und umgehend servieren."}],"recipe_tips":[{"headline":"Beifuß","content":"ist das typische Kraut für das Gänserezept. Dieses Kraut gibt es im Winter nur getrocknet."},{"headline":null,"content":"Solltest du noch etwas Bratensaft auf dem Backblech haben, solltest du diesen noch in die Sauce gießen. Köchle die Sauce so lange, bis sie eine sämige Konsistenz hat."}]}</CustomStructuredRecipeJson>
+    <Title>Gänsebrust</Title>
+    <Headline position="1">Gänsebrust</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-30T10:36:24+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83wwyxqu79xoqna41x6u">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6156" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="mit je ca. 400g" position="1" plural="Gänsebrust"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="3" amount="1" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j1gxqrm555fxqsgip" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" plural="Raps- oder Sonnenblumenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83wwyyezcdie6l2k1x6u">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" max_amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Schalotten" position="1" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6201" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Geflügelfond" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz und Pfeffer" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" suffix="z.B.: Thymian, Majoran oder Beifuß" position="4" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc7o0ldwlvgifb" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="kalte Butter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83wwyztuihg1b93wn1x6u">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Gänsebrüste auf noch vorhandene Federkiele überprüfen und diese gegebenenfalls mit einer Pinzette ziehen. Den Backofen auf 80 Grad Umluft (100 Grad Ober- und Unterhitze) vorheizen. Die Gänsebrüste von beiden Seiten mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Gänsebrust </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wwyztuip11hgsip1x6u">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine Pfanne mit dem Öl erhitzen und die Gänsebrüste zuerst auf der Hautseite ca. 4 Minuten anbraten, dann wenden und auf der Fleischseite ca. 2 Minuten anbraten. Die Gänsebrüste auf einem Gitterrost mit darunter liegendem Backblech im Ofen für ca. 10 Minuten garen. Während des Garvorgangs die Sauce zubereiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wwyztuisz3s0mc1x6u">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 120 Grad Umluft (140 Grad Ober- und Unterhitze) hochstellen und die Gänsebrust weitere 20 Minuten garen. Den Backofen auf 180 Grad Umluft (200 Grad Ober- und Unterhitze) erhitzen und die Gänsebrust für weitere 5 Minuten im Ofen garen, sodass die Haut schön knusprig wird. Den Backofen ausschalten und die Türe einen Spalt öffnen. Die Gänsebrust ca. 5 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69539f386e64a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Schalotten schälen und fein würfeln. Die Schalottenwürfel in der Pfanne im Bratfett anrösten und mit dem Geflügelfond ablöschen. Den Fond auf die Hälfte reduzieren und mit Salz und Pfeffer würzen. Den Kräuterzweig im Ganzen hinzulegen und auskochen. Nach ca. 5 Minuten den Zweig wieder herausnehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Sauce </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69539f464f8ad">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Butter in kleine Würfel schneiden und mit dem Schneebesen unter die Sauce rühren, damit eine sämige Sauce entsteht. Die Gänsebrust auf ein Küchenkrepp setzen und abtupfen, dann in dünne Scheiben schneiden und umgehend servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83wwyztuix31eb3j41x6u">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Beifuß ist das typische Kraut für das Gänserezept. Dieses Kraut gibt es im Winter nur getrocknet.
+Solltest du noch etwas Bratensaft auf dem Backblech haben, solltest du diesen noch in die Sauce gießen. Köchle die Sauce so lange, bis sie eine sämige Konsistenz hat.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Beifuß und Sauce</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qu7xmkn2o64w5e9d3" file_variant="master" position="1">Gänsebrust</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6953a037d4203">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qu73mdi9f9b0k9y22" file_variant="master" position="1">Gänsebrust</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6953a03951acd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qu7di7ejp1hwf3b9d3" file_variant="master" position="1">Gänsebrust</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6953a03a98d22">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qu8exxjk2538upy22" file_variant="master" position="1">Gänsebrust</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

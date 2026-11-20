@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834ngt54kef5a0paew7" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-05T10:25:51+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-05T10:30:58+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Touchdown Cocktail","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":40,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Brandy","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Maracujasaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Passionsfruchtsaft-oder Nektar","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":15,"amountTo":null,"ingredient_name":"Grenadine","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":10,"amountTo":15,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone oder Orange","unit":{"name":"(Keine Einheit)"},"prefix":"Deko","suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten, außer Grenadine zusammen mit der Hälfte der Eiswürfel in einen Shaker geben und gut durchschütteln."},{"headline":null,"content":"Die restlichen Eiswürfel in die beiden Gläser füllen und den Cocktail eingießen. Grenadine langsam einlaufen lassen."},{"headline":null,"content":"Die Zitrone oder die Orange in Scheiben schneiden und den Cocktail damit garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Touchdown Cocktail</Title>
+    <Headline position="1">Touchdown Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-05T10:25:51+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="834ngr36kckejlwpew7">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Deko" position="8" suffix="oder Orange" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5056" amount="20" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Brandy" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8026" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Maracujasaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8026" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" suffix="oder -nektar" plural="Maracujasaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="10" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Zitronensaft" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6406" amount="15" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Grenadine" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="10" max_amount="15" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834ngt54bvqdkvmuew7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten, außer Grenadine zusammen mit der Hälfte der Eiswürfel in einen Shaker geben und gut durchschütteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Touchdown Cocktail</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834ngt54ekn1bz4cpew7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die restlichen Eiswürfel in die beiden Gläser füllen und den Cocktail eingießen. Grenadine langsam einlaufen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834ngt54eox11hzkhew7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Zitrone oder die Orange in Scheiben schneiden und den Cocktail damit garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpt1z9lqen244molb" file_variant="master" position="1">Touchdown Cocktail</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690b194d0ec8e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpsu6vgeb17tcwvf4c" file_variant="master" position="1">Touchdown Cocktail</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690b194f1fc57">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpsoogdl3tdowkju9" file_variant="master" position="1">Touchdown Cocktail</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690b19508ef58">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpt8ycgfqkxr93fvg" file_variant="master" position="1">Touchdown Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

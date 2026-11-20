@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82cu10okxy117gr5cnrj" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-12T08:06:04+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-12T08:11:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bijyxzclzgl9gd8xo"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rote-Bete-Smoothie","recipe_seo_headline":"Rote-Bete-Smoothie – einfach &amp; so gesund","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Rote Bete","unit":{"name":"Stück"},"prefix":"vorgekocht","suffix":"(250 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"(Keine Einheit)"},"prefix":"haselnussgroß","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Rote Bete in grobe Würfel schneiden. Apfel halbieren, entkernen und ebenfalls grob würfeln. Ingwer schälen und fein reiben."},{"headline":null,"content":"Alle Zutaten in einen Mixer geben und auf der höchsten Stufe zu einem feinen, cremigen Smoothie mixen. Bei Bedarf mehr Wasser oder Apfelsaft hinzufügen. Auf 2 Gläser aufteilen und genießen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Rote-Bete-Smoothie</Title>
+    <CustomRecipeSeoTitle position="1">Rote-Bete-Smoothie – einfach &amp; so gesund</CustomRecipeSeoTitle>
+    <Headline position="1">Rote-Bete-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-12T08:06:04+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82cu0yegcsh1jd8bdnrj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="vorgekochte" suffix="(250 g)" plural="Rote Bete" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="haselnussgroßer" plural="Ingwer" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Apfelsaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82cu10okngpnbvspnrj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rote Bete in grobe Würfel schneiden. Apfel vierteln, das Gehäuse entfernen und ebenfalls grob würfeln. Ingwer schälen und fein reiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82cu10oku6v18rdrfnrj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Alle Zutaten in einen Mixer geben und auf der höchsten Stufe zu einem feinen, cremigen Smoothie mixen. Bei Bedarf mehr Wasser oder Apfelsaft hinzufügen. Auf 2 Gläser aufteilen und genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7fit7kao5wjp36uibhu" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c3b97618c13">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7fit7dvz9tvtv3sbbhw" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c3b97789df8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7fit75iz3tv18a146bhv" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c3b979172a9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7fit6yklgolav2wubhr" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

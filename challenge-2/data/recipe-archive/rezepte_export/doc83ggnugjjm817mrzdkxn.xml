@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ggnugjjm817mrzdkxn" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-28T10:06:23+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-11-28T10:10:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp53fbfjjdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Türkischer Reis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":30},{"name":"Ruhen/Warten","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Rundkornreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Fadennudeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"heißes Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Reis mit 2 TL Salz in eine große Schüssel geben, mit 1 Liter kochendem Wasser übergießen und 45 Minuten quellen lassen."},{"headline":null,"content":"Reis durch ein Sieb abgießen und solange mit kaltem Wasser spülen, bis das Wasser klar ist."},{"headline":null,"content":"Öl in einer großen, hohen Pfanne (ca. Ø28 cm) erhitzen, Nudeln zugeben und 3-4 Minuten goldbraun rösten. Butter und Reis und zugeben und unter Rühren ca. 2 Minuten anschwitzen."},{"headline":null,"content":"Heißes Wasser und 1 TL Salz zugeben, noch einmal aufkochen und abgedeckt bei kleiner Hitze und gelegentlichem Rühren ca. 20 Minuten garen, bis das Wasser komplett vom Reis aufgenommen wurde."},{"headline":null,"content":"Den Reis nach Belieben mit frischen Kräutern bestreuen und z.B. mit gesalzenem Joghurt zu Gegrilltem servieren."}],"recipe_tips":[{"headline":"Kichererbsen-Reis","content":"Benutze anstelle der Fadennudeln, ½ Dose gekochte, abgetropfte Kichererbsen und röste sie in Öl an, so bekommt dein Reis eine herrlich nussiges Aroma."}]}</CustomStructuredRecipeJson>
+    <Title>Türkischer Reis</Title>
+    <Headline position="1">Türkischer Reis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-28T10:06:23+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ggns0hm051fhqpikxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="frische" suffix="(nach Wunsch)" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9416" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rundkornreis" position="1"/>
+      <CustomRecipeIngredient topic="tmt808b1a1iudc1h2evbvbq" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="heißes Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5871" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Fadennudel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ggnugi15y85qppkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Reis mit 2 TL Salz in eine große Schüssel geben, mit 1 Liter kochendem Wasser übergießen und 45 Minuten quellen lassen. Reis durch ein Sieb abgießen und solange mit kaltem Wasser spülen, bis das Wasser klar ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggnugic78vqjamkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Öl in einer großen, hohen Pfanne (ca. Ø28 cm) erhitzen, Nudeln zugeben und 3-4 Minuten goldbraun rösten. Butter und Reis zugeben und unter Rühren ca. 2 Minuten anschwitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggnugicc713z341kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Heißes Wasser und 1 TL Salz zugeben, noch einmal aufkochen und abgedeckt bei kleiner Hitze und gelegentlichem Rühren ca. 20 Minuten garen, bis das Wasser komplett vom Reis aufgenommen wurde.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggnugicgh1fuu5rkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Den Reis nach Belieben mit frischen Kräutern bestreuen und z.B. mit gesalzenem Joghurt zu Gegrilltem servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83ggnugifp01a5v4wkxn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Benutze anstelle der Fadennudeln, ½ Dose gekochte, abgetropfte Kichererbsen und röste sie in Öl an, so bekommt dein Reis eine herrlich nussiges Aroma.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kichererbsen-Reis</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9i2g5dv5wqeng8ul" file_variant="master" position="1">Türkischer Reis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692967021f9e6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ill2nhv17yybr8pk" file_variant="master" position="1">Türkischer Reis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6929670388953">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9icw413bf085o8wp" file_variant="master" position="1">Türkischer Reis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69296704975d5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ius082p1mm36z1jqb" file_variant="master" position="1">Türkischer Reis</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83wgburv1g01k2006f9w" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-29T13:00:48+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-29T13:07:55+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sahnesauce","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"weißer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"Spritzer"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Zwiebel schälen und in feine Würfel schneiden oder hacken. Die Butter mit dem Olivenöl in einem Topf zerlassen und die Zwiebeln langsam für ca. 5 Minuten darin glasig schwitzen. Die Sahne aufgießen und für ca. 5 Minuten köcheln lassen."},{"headline":null,"content":"Das Salz und den Pfeffer dazugeben und mit Zitronensaft abschmecken."},{"headline":null,"content":"Die Sauce mit einem Mixer pürieren und aufschäumen."}],"recipe_tips":[{"headline":null,"content":"Die Sauce erhält ihre natürliche Bindung durch das langsame anschwitzen der Zwiebel."}]}</CustomStructuredRecipeJson>
+    <Title>Sahnesauce</Title>
+    <Headline position="1">Sahnesauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-29T13:00:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83wgbt3u3tuer0ndf9w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="6" amount="1" prefix="weißer" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" plural="Zitronensaft" position="7" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83wgburuskw15ts89f9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebeln abziehen und in feine Würfel schneiden oder hacken. Die Butter mit dem Olivenöl in einem Topf zerlassen und die Zwiebeln langsam für ca. 5 Minuten darin glasig schwitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wgburuwk91etwnff9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sahne aufgießen und für ca. 5 Minuten köcheln lassen. Das Salz und den Pfeffer dazugeben und mit Zitronensaft abschmecken. Die Sauce mit einem Mixer pürieren und aufschäumen. Lass dir die Sahnesauce schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83wgburuwu12wbj6f9w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Sauce erhält ihre natürliche Bindung durch das langsame anschwitzen der Zwiebel.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Kein Saucenbinder nötig</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82reoc3ilew8oavcuq2" file_variant="master" position="1">Sahnesoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69526f171b61c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82reouw5uzli0qzhiqc" file_variant="master" position="1">Sahnesoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69526f185deda">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82reop333xgo06jqhd5" file_variant="master" position="1">Sahnesoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69526f19add40">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82renusf7rmcp9cfhzg" file_variant="master" position="1">Sahnesoße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

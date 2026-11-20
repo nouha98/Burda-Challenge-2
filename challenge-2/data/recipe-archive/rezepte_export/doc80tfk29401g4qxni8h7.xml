@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80tfk29401g4qxni8h7" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-27T12:20:52+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-04T15:44:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr1c118dxhdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0row717kjahdo5"/>
+    <Provider topic="tmt80tfohi9ydszbdif8j8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Maissuppe „Texas“","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":320,"kilojoule":1340,"carbonhydrates":14,"fat":28,"protein":17,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"ml"},"prefix":null,"suffix":"(instant)"},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Mais","unit":{"name":"Dose"},"prefix":null,"suffix":"(Abtropfgew.: à 250 g)"},{"amount":150,"amountTo":null,"ingredient_name":"Kochschinken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebeln und Kartoffeln schälen. Beides würfeln und in einem großen Topf im heißen Öl 3–4 Minuten andüsten."},{"headline":null,"content":"Brühe und Sahne dazugießen, alles aufkochen und für ca. 15 Minuten köcheln lassen."},{"headline":null,"content":"Mais gut abtropfen lassen, Hälfte davon pürieren. Gesamten Mais zur Suppe geben, 5 Min. garen. Evtl. noch etwas Brühe angießen."},{"headline":null,"content":"Die Suppe nach Belieben anpürieren."},{"headline":null,"content":"Kochschinken klein würfeln. Schnittlauch in Röllchen schneiden. Suppe mit Salz, Pfeffer und Zitronensaft abschmecken. Suppe mit Kochschinken und Schnittlauch bestreut servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Maissuppe „Texas“</Title>
+    <CustomRecipeNutritionalValueCalories position="1">320</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1340</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">14</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">28</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">17</CustomRecipeNutritionalValueProtein>
+    <SubHeadline position="1">Corn Chowder (Maissuppe, USA) mit Schinkenwürfeln und Crackern</SubHeadline>
+    <CustomRecipeTeaserside position="1">Baguette oder Cracker</CustomRecipeTeaserside>
+    <Headline position="1">Maissuppe „Texas“</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-27T12:20:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80tfk4ct3o2iglh5no1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(instant)" plural="Brühe" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7866" amount="2" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(Abtropfgew.: à 250 g)" plural="Mais" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kochschinken" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80tfkcm54rmyw7neno1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln und Kartoffeln schälen. Beides würfeln und in einem großen Topf im heißen Öl 3–4 Minuten andüsten. Brühe und Sahne dazugießen, alles aufkochen und für ca. 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80tfkcm5k3q1cvjsino1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Brühe und Sahne dazugießen, alles aufkochen und für ca. 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80tfkcm5kd511wecdno1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mais gut abtropfen lassen, Hälfte davon pürieren. Gesamten Mais zur Suppe geben, 5 Min. garen. Evtl. noch etwas Brühe angießen. Die Suppe nach Belieben anpürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80tfkcm5kic51zcino1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Suppe nach Belieben anpürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80tfkcm5kn9fez6pno1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Kochschinken klein würfeln. Schnittlauch in Röllchen schneiden. Suppe mit Salz, Pfeffer und Zitronensaft abschmecken. Suppe mit Kochschinken und Schnittlauch bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Kooijman, Peter</ImageCredit>
+      <DocumentRef doc_id="doc79xcxxxh8eb1put3gd0" file_variant="master" position="1">Corn Chowder (Maissuppe, USA) mit Schinkenw rfeln und Crackern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

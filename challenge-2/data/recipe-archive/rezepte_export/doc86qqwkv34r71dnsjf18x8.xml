@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86qqwkv34r71dnsjf18x8" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-16T16:01:13+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-17T11:59:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rupkmxarudo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <Source topic="tmt86qr1m55blhc5mpc19lf"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Berberitzensauce","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Ruhen/Warten","duration":120}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Berberitzen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Ruby Portwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Demi-Glace","unit":{"name":"ml"},"prefix":null,"suffix":"(siehe Seite 82)"},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Johannisbeergelee","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Berberitzen mit Ruby Portwein übergießen und ca. 2 Stunden ziehen lassen."},{"headline":null,"content":"Schalotten abziehen und sehr fein hacken. Dann mit Berberitzen samt Portwein, Zimt, Rotwein, Honig, Demi-Glace, Zitronensaft und Johannisbeergelee aufkochen. Danach alles bei geringer Hitze 5–10 Minuten köcheln lassen."}],"recipe_tips":[{"headline":null,"content":"Berberitzensauce ist im Kühlschrank bis zu 7 Tage haltbar und passt zu allen Wildgerichten."}]}</CustomStructuredRecipeJson>
+    <Title>Berberitzensauce</Title>
+    <Headline position="1">Berberitzensauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-16T16:01:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86qqwmspxtl1bjn5m24u2">
+      <CustomRecipeIngredient topic="tmt80i7m5qmjpk1fxw0810bt" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Berberitzen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8891" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" prefix="Ruby" plural="Portwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rotwein" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="6"/>
+      <CustomRecipeIngredient topic="tmt86qr0yn92xw1els6l19dx" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" plural="Demi-Glace"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6886" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Johannisbeergelee" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86qqwqn59aw1l1p8624u2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Berberitzen mit Ruby Portwein übergießen und ca. 2 Stunden ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86qqwqn5gbl1k4jvr24u2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schalotten abziehen und sehr fein hacken. Dann mit Berberitzen samt Portwein, Zimt, Rotwein, Honig, Demi-Glace, Zitronensaft und Johannisbeergelee aufkochen. Danach alles bei geringer Hitze 5–10 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86qqwqn5glj4c74724u2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Berberitzensauce ist im Kühlschrank bis zu 7 Tage haltbar und passt zu allen Wildgerichten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rezepte und Foodstyling: Adam Koor, Prod./ Styling: Anna Talla, Hamburg, Requisite/Styling: Krisztina Zombori</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Julia Hoersch</ImageCredit>
+      <DocumentRef doc_id="doc7iiqox1kwzb1aunkm6lb" file_variant="master" position="1">„Lust auf Genuss“ Heft 12/22 „Wild“, Verlag Burda, München</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

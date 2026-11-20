@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc815tf1y7d6c1j8y3ranh" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-20T14:50:10+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-27T13:22:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Creator topic="tmt80npsojpfw2q0y6s9qu"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeNoteInformation position="1">Zutaten für 8 Gläser (à ca. 250 ml</CustomRecipeNoteInformation>
+    <Headline position="1">Wassermelonen Tomaten Lassi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-20T14:50:10+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="1" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11026" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(möglichst kernarm)" plural="Wassermelonen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="3" amount="2" prefix="Bio " plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="5" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="mit Kohlensäure" plural="Mineralwasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="6" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Eiswürfel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten putzen, waschen und in Stücke schneiden. Melone schälen und das Fruchtfleisch würfeln. Limetten heiß waschen, trocken tupfen und die Schale fein abreiben. Limetten so dick schälen, dass die weiße Haut mit entfernt wird und das Fruchtfleisch vierteln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6858fe2f56dc6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten mit Melone, Limettenabrieb sowie -fruchtfleisch, Joghurt, Mineralwasser und der Hälfte der Eiswürfel im Standmixer fein pürieren. Die übrigen Eiswürfel in die Gläser geben. Den Lassi einfüllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Tomaten-Wassermelone-Limetten Lassie + Tomaten-Gurken-Sellerie Juice +<br/>Hot and Spicy Bloody Mary (Vegan)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">silke zander</ImageCredit>
+      <DocumentRef doc_id="doc7m8vd5y6q3lqdpgvbcd" file_variant="master" position="1">Tomaten-Wassermelone-Limetten Lassie + Tomaten-Gurken-Sellerie Juice</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

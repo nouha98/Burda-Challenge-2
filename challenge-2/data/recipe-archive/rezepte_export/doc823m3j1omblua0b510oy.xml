@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823m3j1omblua0b510oy" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T09:26:01+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-25T09:36:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="3" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Feigenmarmelade mit Rotwein","recipe_seo_headline":null,"servings":{"amount":3.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Marmelade","ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"reife rote Feigen","unit":{"name":"Stück"},"prefix":null,"suffix":"(250 g)"},{"amount":125,"amountTo":null,"ingredient_name":"trockener Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Gelierzucker 1:1","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die Marmelade","content":"Die Stiele der Feigen abschneiden und die Feigen in grobe Würfel schneiden. In einen Topf geben und erhitzen, schluckweise mit Rotwein ablöschen. Die Feigen bei mittlerer Stufe für 10 Minuten weich kochen. Mit einem Pürierstab fein pürieren. Den Gelierzucker in einem Mal zugeben und die Marmelade unter Rühren für 3 Minuten sprudelnd aufkochen lassen. 3 Gläser à 140 ml Fassungsvermögen mit kochendem Wasser füllen und gut auswaschen, trocknen. Die noch heiße Marmelade einfüllen, mit Deckel verschließen und abkühlen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Feigenmarmelade mit Rotwein</Title>
+    <Headline position="1">Feigenmarmelade mit Rotwein</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T09:26:01+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823m3hw1avo1cbyas10oy">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5891" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(250 g)" position="1" plural="Feige" prefix="rote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Rotwein" prefix="trockener"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Gelierzucker" suffix="1:1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Marmelade</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823m3j1obuw16j5kq10oy">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Stiele der Feigen abschneiden und die Feigen in grobe Würfel schneiden. In einen Topf geben und erhitzen, schluckweise mit Rotwein ablöschen. Die Feigen bei mittlerer Stufe für 10 Minuten weich kochen. Mit einem Pürierstab fein pürieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Marmelade</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68ac121d53bed">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Gelierzucker in einem Mal zugeben und die Marmelade unter Rühren für 3 Minuten sprudelnd aufkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68ac122d173f2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">3 Gläser à 140 ml Fassungsvermögen mit kochendem Wasser füllen und gut auswaschen, trocknen. Die noch heiße Marmelade einfüllen, mit Deckel verschließen und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81psul6quip2ps22tj8" file_variant="master" position="1">FeigenmarmelademitRotwein2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac128ba9237">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81psujgzzo713yuvwtj8" file_variant="master" position="1">FeigenmarmelademitRotwein1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

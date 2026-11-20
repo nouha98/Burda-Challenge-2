@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8248kjcbmkh1fohr8ldu" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-26T14:35:27+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-26T15:10:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rspedsi05do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Brownies","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":30},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"vegane Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Apfelmus","unit":{"name":"EL"},"prefix":"ungesüßt","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Mandelmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"für die Form"}]}],"preparation":[{"headline":null,"content":"200 g der Zartbitterschokolade grob hacken und im Wasserbad schmelzen. Schokolade wenige Minuten abkühlen lassen. Währenddessen Mehl mit Backpulver, Zucker und Backkakao in einer Schüssel mischen."},{"headline":null,"content":"Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Ein kleines Blech (ca. 28 x 23 cm) einfetten oder mit Backpapier auslegen."},{"headline":null,"content":"Apfelmus, Sonnenblumenöl und Mandelmilch zur Mehlmischung geben und alles miteinander verrühren. Jetzt die geschmolzene Zartbitterschokolade hinzugeben und nochmals kurz verrühren. Teig in die Backform gießen und glattstreichen."},{"headline":null,"content":"Brownies im vorgeheizten Ofen ca. 25-30 Min. backen. Mit einem Zahnstocher prüfen, ob die Brownies fertig sind. Es sollten noch einige feuchte Krümel am Zahnstocher hängen bleiben, damit die Brownies noch schön saftig sind. Brownies vollständig auskühlen lassen."},{"headline":null,"content":"Restliche Zartbitterschokolade grob hacken und ebenfalls im Wasserbad schmelzen. Mit einem Löffel flüssige Zartbitterschokolade in Streifen über die Brownies ziehen. Schokolade anziehen lassen, dann die Brownies mit einem heißen Messer in Stücke schneiden. Das Rezept ergibt ca. 12 Stücke."}],"recipe_tips":[{"headline":"Falls du gesüßtes Apfelmus verwendest","content":"Wenn du im Supermarkt kein ungesüßtes Apfelmus findest, kannst du natürlich auch gesüßtes Apfelmus verwenden. Dafür einfach ca. 30-50 g weniger Zucker in den Teig geben, damit die Brownies nicht zu süß werden."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Brownies</Title>
+    <Headline position="1">Vegane Brownies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-26T14:35:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8248kgiq5le1epzdvldu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="für die Form" plural="Öl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="vegane" plural="Zartbitterschokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Backkakao" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4571" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="ungesüßt" plural="Apfelmus" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sonnenblumenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mandelmilch" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8248kjcbcnl1jre5sldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">200 g der Zartbitterschokolade grob hacken und im Wasserbad schmelzen. Schokolade wenige Minuten abkühlen lassen. Währenddessen Mehl mit Backpulver, Zucker und Backkakao in einer Schüssel mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kjcbgrkug31kldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Ein kleines Blech (ca. 28 x 23 cm) einfetten oder mit Backpapier auslegen. Apfelmus, Sonnenblumenöl und Mandelmilch zur Mehlmischung geben und alles miteinander verrühren. Jetzt die geschmolzene Zartbitterschokolade hinzugeben und nochmals kurz verrühren. Teig in die Backform gießen und glattstreichen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kjcbgw9oa6mwldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Brownies im vorgeheizten Ofen ca. 25-30 Min. backen. Mit einem Zahnstocher prüfen, ob die Brownies fertig sind. Es sollten noch einige feuchte Krümel am Zahnstocher hängen bleiben, damit die Brownies noch schön saftig sind. Brownies vollständig auskühlen lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8248kjcbgz9owhhqldu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Restliche Zartbitterschokolade grob hacken und ebenfalls im Wasserbad schmelzen. Mit einem Löffel flüssige Zartbitterschokolade in Streifen über die Brownies ziehen. Schokolade anziehen lassen, dann die Brownies mit einem heißen Messer in Stücke schneiden. Das Rezept ergibt ca. 12 Stücke. Die Brownies können luftdicht verpackt ca. 3-4 Tage aufbewahrt werden.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8248kjcbh6to6a1kldu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du im Supermarkt kein ungesüßtes Apfelmus findest, kannst du natürlich auch gesüßtes Apfelmus verwenden. Dafür einfach ca. 30-50 g weniger Zucker in den Teig geben, damit die Brownies nicht zu süß werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Falls du gesüßtes Apfelmus verwendest</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mnpqpw71e1kbdoqbfn" file_variant="master" position="1">VeganeBrownies1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68adb21dbac96">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mnptu9oclb2h2tbfn" file_variant="master" position="1">VeganeBrowniesStep.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68adb21f397c5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81mnps5607a135b0zbfn" file_variant="master" position="1">VeganeBrownies2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

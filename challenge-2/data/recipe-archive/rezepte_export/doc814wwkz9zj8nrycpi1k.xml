@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc814wwkz9zj8nrycpi1k" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-18T20:39:05+02:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2025-12-15T10:59:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-land"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ro3phuwntdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <LastEditedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" plural="Stücke" amount="12"/>
+    <Source topic="tmt83p7t4xkb61jq6y81ch4"/>
+    <CustomRecipeNutritionalValueCalories position="1">410</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">17</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">16</CustomRecipeNutritionalValueFat>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1">für 1 Auflaufform (30 x 40 cm).</CustomRecipeNoteInformation>
+    <Headline position="1">Millirahmstrudel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-18T20:39:05+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="2" amount="1" suffix="(Größe M)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="3" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6853086a9b707">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Rosinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" position="2" amount="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" position="3" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Magerquark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="6" amount="4" suffix="(Größe M)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="7" amount="0,5" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="9" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="10" amount_error="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Semmelbrösel" amount_max="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_685308f2030b1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="1" amount="125" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="2" amount="1" suffix="(Gr. M)" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Guss</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Teig Mehl mit Ei, 3 EL Öl und Salz verkneten, dabei nach und nach ca. 180 ml lauwarmes Wasser zugeben. Teig halbieren, zu Kugeln formen und mit dem übrigen Öl (1 EL) bestreichen. Zugedeckt 30 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68530a75c5e5e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Rosinen und Rum in einem Topf erwärmen, 10 Minuten ziehen lassen. Quark, Zucker und Vanillinzucker verrühren. Eier trennen. Eigelbe unter den Quark rühren. Zitronenschale dünn abreiben. Frucht auspressen. Saft und Schale mit Rumrosinen unterrühren. Eiweiß mit Salz steif schlagen, unterheben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68530a988aba6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Butter zerlassen. Eine Teigkugel so dünn wie möglich auf einem mit Mehl bestäubten Küchentuch ausrollen, mit den Händen noch dünner ziehen. Auflaufform fetten. Den Teig dünn mit der Hälfte der Butter bestreichen und mit 1 EL Brösel bestreuen. Die Hälfte der Quarkmasse daraufstreichen, dabei einen 3 cm breiten Rand lassen. Teig mithilfe des Tuchs einrollen. Den Strudel in die Form legen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68530ab6224b0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft 180 Grad) heizen. Die übrigen Zutaten ebenso verarbeiten. Den zweiten Strudel dicht neben den ersten in die Form legen. Die Strudel mit der übrigen Butter bestreichen und ca. 45 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68530be835e1e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Guss Milch, Eigelb sowie Zucker verquirlen und ca. 15 Minuten vor Ende der Backzeit über die Strudel gießen. Strudel mit Puderzucker bestäubt servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Sporrer/Skowronek</ImageCredit>
+      <DocumentRef doc_id="doc715g6ydj6v714gjn6e9e" file_variant="master" position="1">Stück Quarkstrudel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

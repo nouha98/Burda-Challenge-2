@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc834479h4fz6wp3jv1398" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-04T09:26:06+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-04T09:31:20+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="3"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buchweizenpfannkuchen","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Backen","duration":24}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Buchweizen-Pfannkuchenteig","ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"Buchweizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":"Gr.","suffix":"M"},{"amount":null,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum ausbacken"}]}],"preparation":[{"headline":"Für den Pfannkuchenteig","content":"Das Buchweizenmehl zusammen mit Backpulver mischen. Milch sowie Salz und Zucker einrühren, zuletzt die 2 Eier unterrühren. Den Teig für 20 Minuten quellen lassen."},{"headline":null,"content":"Eine beschichtete Pfanne mit etwas Öl auf mittlerer Stufe erhitzen. Aus dem Teig 8 Pfannkuchen ausbacken. Jeder Pfannkuchen für 3 Minuten auf jeder Seite ausbacken. Die Buchweizenpfannkuchen können süß sowie salzig gefüllt und verzehrt werden."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Buchweizenpfannkuchen</Title>
+    <Headline position="1">Buchweizenpfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-04T09:26:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8344780xr7kn2npp1398">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Gr." suffix="M" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5191" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buchweizenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum ausbacken" plural="Öl" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Buchweizen-Pfannkuchenteig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="834479h4axj2nuxu1398">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Buchweizenmehl zusammen mit Backpulver mischen. Milch sowie Salz und Zucker einrühren, zuletzt die 2 Eier unterrühren. Den Teig für 20 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Pfannkuchenteig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="834479h4ear135ibe1398">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine beschichtete Pfanne mit etwas Öl auf mittlerer Stufe erhitzen. Aus dem Teig 8 Pfannkuchen ausbacken. Jeden Pfannkuchen für 3 Minuten auf jeder Seite ausbacken. Die Buchweizenpfannkuchen können süß sowie salzig gefüllt und verzehrt werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jp12vvg39putf1f57" file_variant="master" position="1">Buchweizenpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6909b9d432166">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jp0znislyagq9982q" file_variant="master" position="1">Buchweizenpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6909b9d5a6036">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jp147tzkw5wox61f57" file_variant="master" position="1">Buchweizenpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6909b9d70844b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jp0y3qo7d25ku68bu" file_variant="master" position="1">Buchweizenpfannkuchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

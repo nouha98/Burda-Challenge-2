@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88asjcvvmp517s66zc39" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-02T16:49:30+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-02T16:55:33+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="360"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <Source topic="tmt88asm5p57txqx300c4a"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Italienisches Tiramisu","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":360}],"difficulty":null,"price":null,"nutritions":{"calories":455,"kilojoule":1905,"carbonhydrates":37,"fat":29,"protein":8,"breadunit":3}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":"sehr frische","suffix":"(Größe L)"},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Marsala","unit":{"name":"EL"},"prefix":null,"suffix":"(ital. Likörwein; ersatzweise trockener Sherry oder Portwein)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Espresso","unit":{"name":"ml"},"prefix":null,"suffix":"(ersatzweise starker Kaffee)"},{"amount":2,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Eier trennen. Eigelbe mit Puderzucker in einer Schüssel mit den Quirlen des Handrührers cremig-dicklich aufschlagen. Mascarpone und Marsala auf kleinster Stufe kurz unterrühren. Es können noch Klümpchen zu sehen sein. Die Masse nicht zu lange rühren, weil sie sich sonst trennt."},{"headline":null,"content":"Eiweiß und 1 Prise Salz mit fettfreien Quirlen steif schlagen. Den Eischnee mit dem Teigschaber unter die Mascarponemasse heben, nicht zu lange rühren. Die Masse soll luftig und cremig sein."},{"headline":null,"content":"Die Löffelbiskuits einzeln kurz in den Espresso tauchen und mit der Mascarponecreme in Dessertgläser oder eine flache Auflaufform schichten. Mit der Creme abschließen."},{"headline":null,"content":"Tiramisu ca. 6 Stunden oder über Nacht kalt stellen."},{"headline":null,"content":"Tiramisu ca. 20 Minuten vor dem Servieren aus dem Kühlschrank nehmen. Mit Kakao bestäuben und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Italienisches Tiramisu</Title>
+    <CustomRecipeNutritionalValueCalories position="1">455</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1905</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">37</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">29</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Italienisches Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-02T16:49:30+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88asjebiplhn7ebhjrh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="sehr frische" suffix="(Größe L)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8061" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ital. Likörwein; ersatzweise trockener Sherry oder Portwein)" plural="Marsala" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ersatzweise starker Kaffee)" plural="Espressi" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88asjgoe2kxeobsqjrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Eier trennen. Eigelbe mit Puderzucker in einer Schüssel mit den Quirlen des Handrührers cremig-dicklich aufschlagen. Mascarpone und Marsala auf kleinster Stufe kurz unterrühren. Es können noch Klümpchen zu sehen sein. Die Masse nicht zu lange rühren, weil sie sich sonst trennt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88asjgoe2ue31xk4jrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eiweiß und 1 Prise Salz mit fettfreien Quirlen steif schlagen. Den Eischnee mit dem Teigschaber unter die Mascarponemasse heben, nicht zu lange rühren. Die Masse soll luftig und cremig sein.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88asjgoe3031091qajrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Löffelbiskuits einzeln kurz in den Espresso tauchen und mit der Mascarponecreme in Dessertgläser oder eine flache Auflaufform schichten. Mit der Creme abschließen. Tiramisu ca. 6 Stunden oder über Nacht kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88asjgoe34w42v8bjrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Tiramisu ca. 20 Minuten vor dem Servieren aus dem Kühlschrank nehmen. Mit Kakao bestäuben und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Das beste Tiramisu für Vegetarier</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc845qi45qpjquscaykrz" file_variant="master" position="1">Das beste Tiramisu für Vegetarier</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

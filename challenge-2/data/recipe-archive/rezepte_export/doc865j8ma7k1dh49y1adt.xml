@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc865j8ma7k1dh49y1adt" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-05T09:11:32+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-06-08T20:53:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <Source topic="tmt865jhe0ljo214i3ofaht"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sommersalat mit Melone und Serranoschinken","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":"1/2","amountTo":null,"ingredient_name":"Melone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(z.B. eine Galia- oder Honigmelone)"},{"amount":3,"amountTo":4,"ingredient_name":"Rucola","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mini-Mozzarella","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Serranoschinken","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"nach Belieben","amountTo":2,"ingredient_name":"rosa Pfefferbeeren","unit":{"name":"TL"},"prefix":null,"suffix":"(grob zerstoßen)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"essbare Blüten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren (z.B. Schnittlauchblüten)"}]}],"preparation":[{"headline":null,"content":"Die Melone schälen und entkernen, dann in Scheiben oder Stücke schneiden."},{"headline":null,"content":"Rucola von groben Stielen befreien, waschen und trocken schütteln."},{"headline":null,"content":"Mini-Mozzarella abtropfen lassen und halbieren oder mit einer Gabel aufbrechen, damit die Käsebällchen das Dressing besser aufnehmen."},{"headline":null,"content":"Melone, Rucola, Mozzarella-Bällchen und Schinkenscheiben auf einer großen Platte verteilen."},{"headline":null,"content":"Alles mit Balsamico und Olivenöl beträufeln und eventuell mit zerbröselten rosa Pfefferbeeren bestreuen."},{"headline":null,"content":"Den Salat mit Salz, Pfeffer und Chiliflocken würzen."},{"headline":null,"content":"Mit essbaren Blüten garnieren und servieren."}],"recipe_tips":[{"headline":"Rosa Pfefferbeeren","content":"Rosa Pfefferbeeren tragen zwar den Pfeffer im Namen, sind aber kein echter Vertreter dieser Gattung, sondern nur die getrockneten Beerenfrüchte des sogenannten Schinusbaums. Sie erfreuen, zusätzlich über den Salat gestreut, vor allem mit ihrer Optik, denn viel Schärfe haben sie nicht zu bieten. Im Gegensatz zu rotem Pfeffer, der allerdings eine Rarität darstellt und daher entsprechend teuer ist."}]}</CustomStructuredRecipeJson>
+    <Title>Sommersalat mit Melone und Serranoschinken</Title>
+    <Headline position="1">Sommersalat mit Melone und Serranoschinken</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-05T09:11:32+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="865j8pk9yk51jgbe9hdv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8146" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(z.B. eine Galia- oder Honigmelone)" plural="Melonen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="3" max_amount="4" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Rucola" position="2" amount_max="4"/>
+      <CustomRecipeIngredient topic="tmt80l6ntax8j7ec7yh908" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Mini-Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10096" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" position="4" plural="Serrano-Schinken"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Balsamicoessig" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt80gjge20z8m18berzgzt" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(grob zerstoßen) nach Belieben" position="7" amount_max="2" plural="rosa Pfefferbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="2" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Chiliflocken" position="10"/>
+      <CustomRecipeIngredient topic="tmt80i7agiaysw1jc0ko10bt" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren (z.B. Schnittlauchblüten)" position="11" plural="essbare Blüten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="865j8ss8mv9zxbjrhdv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Melone schälen und entkernen, dann in Scheiben oder Stücke schneiden. Rucola von groben Stielen befreien, waschen und trocken schütteln. Mini-Mozzarella abtropfen lassen und halbieren oder mit einer Gabel aufbrechen (damit die Käsebällchen das Dressing besser aufnehmen).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="865j8ss8p9w164kj1hdv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Melone, Rucola, Mozzarella-Bällchen und Schinkenscheiben auf einer großen Platte verteilen. Alles mit Balsamico und Olivenöl beträufeln und evtl. mit zerbröselten rosa Pfefferbeeren bestreuen. Den Salat mit Salz, Pfeffer und Chiliflocken würzen. Mit essbaren Blüten garnieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="865j8ss8pvs1e3cdjhdv">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Rosa Pfefferbeeren tragen zwar den Pfeffer im Namen, sind aber kein "echter" Vertreter dieser Gattung, sondern nur die getrockneten Beerenfrüchte des sogenannten Schinusbaums. Sie erfreuen, zusätzlich über den Salat gestreut, vor allem mit ihrer Optik, denn viel Schärfe haben sie nicht zu bieten. Im Gegensatz zu rotem Pfeffer, der allerdings eine Rarität darstellt und daher entsprechend teuer ist.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Info</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Sommersalat mit Melone und Serranoschinken</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Schall, Ewgenija</ImageCredit>
+      <DocumentRef doc_id="doc7p7s9bc0n0i1edqxligk" file_variant="master" position="1">Sommersalat mit Melone und Serranoschinken</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc824qc6739ixjrx371xlj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-27T13:38:37+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-27T13:45:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="28"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtk9r95nxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Zitronenmuffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":28}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zitronen","unit":{"name":"(Keine Einheit)"},"prefix":"Bio","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Speiseöl","unit":{"name":"ml"},"prefix":"neutral","suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zitronenzesten","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Muffinform mit Papierförmchen belegen."},{"headline":null,"content":"Mehl mit Zucker und Backpulver in einer Schüssel mischen. Zitronen heiß abwaschen, trocken tupfen und die Schale fein abreiben. Zitronen halbieren und auspressen. 4 EL des Saftes für den Guss beiseite stellen. Übrigen Saft (ca. 50 ml) zum Mehlmix geben. Öl und Wasser zufügen und mit dem Schneebesen zu einem Teig verrühren. Gleichmäßig auf die Papierförmchen verteilen und 28-30 Minuten backen. Auskühlen lassen."},{"headline":null,"content":"Puderzucker mit dem beiseite gestellten Zitronensaft glatt rühren und die ausgekühlten Muffins damit bestreichen. Nach Belieben mit Zitronenzesten ausgarnieren und servieren."}],"recipe_tips":[{"headline":"Einfrieren","content":"Du kannst die veganen Muffins wunderbar ohne Guss einfrieren und einfach 2 Std. vor dem Verzehr bei Zimmertemperatur auftauen lassen."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Zitronenmuffins</Title>
+    <Headline position="1">Vegane Zitronenmuffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-27T13:38:37+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="824qc4bwkdyvq5ip1xlj">
+      <CustomRecipeIngredient topic="tmt7tb9s8afldxz06c3mvf" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" suffix="zum Garnieren" position="8" plural="Zitronenschale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Bio" plural="Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10291" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="neutral" plural="Speiseöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="824qc67319x16veid1xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Muffinform mit Papierförmchen belegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824qc67344610aive1xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl mit Zucker und Backpulver in einer Schüssel mischen. Zitronen heiß abwaschen, trocken tupfen und die Schale fein abreiben. Zitronen halbieren und auspressen. 4 EL des Saftes für den Guss beiseite stellen. Übrigen Saft (ca. 50 ml) zum Mehlmix geben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68aeef014ed10">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Öl und Wasser zufügen und mit dem Schneebesen zu einem Teig verrühren. Gleichmäßig auf die Papierförmchen verteilen und 28-30 Minuten backen. Auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="824qc67348h15okv61xlj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Puderzucker mit dem beiseite gestellten Zitronensaft glatt rühren und die ausgekühlten Muffins damit bestreichen. Nach Belieben mit Zitronenzesten ausgarnieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Guss</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="824qc6734cpy0m5d1xlj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die veganen Muffins wunderbar ohne Guss einfrieren und einfach 2 Std. vor dem Verzehr bei Zimmertemperatur auftauen lassen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Einfrieren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81moxrkyyr7bzsijfu9" file_variant="master" position="1">veganen-Ztronenmuffins-hoch-4511.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68aeefbdd6df5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81moxou0hhscell8996" file_variant="master" position="1">veganen-Ztronenmuffins-step1-3974.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68aeefbf785bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81moxnrct2pk6yk09cd" file_variant="master" position="1">veganen-Ztronenmuffins-step2-4400.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68aeefc0953dc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81moxt33o2c1cjkg3fu0" file_variant="master" position="1">veganen-Ztronenmuffins-quer-4502.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80zps7644bduylobu03" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-08T17:52:04+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-06-10T21:56:48+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Keywords topic="tmt6p3cymvb3kgwfuwe8m3"/>
+    <Keywords topic="tmt6p2978fgp3o1gu72g8m4"/>
+    <Keywords topic="tmt6t8bbmphndl1duh3um99"/>
+    <Keywords topic="tmt6ow8t5qg4y9m70v0hgs"/>
+    <Keywords topic="tmt6qfxcdvnxjdhhcmh2nj"/>
+    <Keywords topic="tmt6ow4mbnk9fm1lip12hgt"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Lebkuchen Waffeln","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":15}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":null,"prefix":null,"suffix":"zum Fetten"},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":null,"prefix":null,"suffix":"zum Bestäuben"}]}],"preparation":[{"headline":null,"content":"Butter schmelzen. Mehl mit Backpulver, Lebkuchengewürz, Zucker und Vanillezucker in einer Rührschüssel mischen. Eier, Milch und flüssige Butter zugeben und mit einem Schneebesen glatt rühren."},{"headline":null,"content":"Waffeleisen aufheizen. Heiße Flächen mit etwas Butter oder Öl fetten. Etwa 4 EL des Teiges in das heiße Waffeleisen geben, etwas verstrichen und das Waffeleisen schließen. Je nach Waffeleisen und Heizstufe etwa 2 Minuten goldbraun backen. Aus dem übrigen Teig etwa 4 weitere Waffeln backen. Vor dem Servieren mit etwas Puderzucker bestäuben."}],"recipe_tips":[{"headline":"Statt Butter","content":"kannst du auch ein neutrales Speiseöl verwenden. Lebkuchengewürz lässt sich auch selber herstellen. Siehe unser Rezept!"}]}</CustomStructuredRecipeJson>
+    <Title>Lebkuchen Waffeln</Title>
+    <Headline position="1">Lebkuchen Waffeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-08T17:52:04+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80zps1tzqa9nwvoeu03">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1" suffix="und Butter zum Fetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Bourbon-Vanillezucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe: M)" plural="Eier" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Bestäuben" plural="Puderzucker" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80zps763a3bdzk6vu03">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter schmelzen. Mehl mit Backpulver, Lebkuchengewürz, Zucker und Vanillezucker in einer Rührschüssel mischen. Eier, Milch und flüssige Butter zugeben und mit einem Schneebesen glatt rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80zps763h3n193p7u03">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Waffeleisen aufheizen. Heiße Flächen mit etwas Butter oder Öl fetten. Etwa 4 EL des Teiges in das heiße Waffeleisen geben, etwas verstrichen und das Waffeleisen schließen. Je nach Waffeleisen und Heizstufe etwa 2 Minuten goldbraun backen. Aus dem übrigen Teig etwa 4 weitere Waffeln backen. Vor dem Servieren mit etwas Puderzucker bestäuben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80zps763hb880zp2u03">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch ein neutrales Speiseöl verwenden. Lebkuchengewürz lässt sich auch selber herstellen. Siehe unser Rezept!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt Butter</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68488dc37f36c">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">2 Tage luftdicht verpackt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80uxzn9m6a81miij4gqr" file_variant="master" position="1">Lebkuchen_Waffeln_1659.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68488dfd7df90">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80uxzp72tqrz6qs3ef3" file_variant="master" position="1">Lebkuchen_Waffeln_1655.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68488dfeb985b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80uxzkcakw748s52h7m" file_variant="master" position="1">Lebkuchen_Waffeln_0766.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

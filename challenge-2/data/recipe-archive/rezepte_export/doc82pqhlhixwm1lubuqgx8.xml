@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82pqhlhixwm1lubuqgx8" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-07T10:43:17+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-08T13:22:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tortellini alla panna","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Kochschinken","unit":{"name":"Scheibe"},"prefix":null,"suffix":"(ca. 150 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Tortellini","unit":{"name":"g"},"prefix":null,"suffix":"aus der Kühltheke, alternativ ca. 400 g getrocknete"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"junger Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"(37 % Fett i. Tr.)"},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":"(30 % Fett)"},{"amount":2,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Schinken würfeln, Schalotte und Knoblauch abziehen, Schalotte fein würfeln und Knoblauch hacken."},{"headline":null,"content":"Tortellini nach Packungsanweisung in Salzwasser garen, abgießen und dabei ca. 50 ml Nudelwasser auffangen. Parmesan von der Rinde befreien und mit einer Reibe fein raspeln."},{"headline":null,"content":"Butter in einer großen Pfanne zerlassen, Schinken zugeben und 1-2 Minuten bräunen. Schalotten und Knoblauch zugeben, 1 Minute anschwitzen, mit 300 ml Sahne ablöschen, Tortellini zugeben und bei mittlerer Hitze köcheln lassen."},{"headline":null,"content":"Eigelbe in eine kleine Schüssel geben und mit der übrigen Sahne verrühren. Parmesan unterheben, in die warme Soße einrühren und langsam erwärmen, bis die Soße andickt."},{"headline":null,"content":"Je nach Konsistenz etwas aufgefangenes Nudelwasser zugeben und mit Salz, Pfeffer und Muskatnuss abschmecken. Auf 4 Tellern verteilen und nach Wunsch mit Basilikum bestreut servieren."}],"recipe_tips":[{"headline":"e funghi","content":"Brate fein geschnittene Pilze mit dem Schinken an und mogle 100 g Erbsen unter die Tortellini alla panna."}]}</CustomStructuredRecipeJson>
+    <Title>Tortellini alla panna</Title>
+    <Headline position="1">Tortellini alla panna</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-07T10:43:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82pqhfzz5ep48tptgx8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(37 % Fett i. Tr.)" position="6" prefix="junger" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="11" prefix="frisches" suffix="zum Dekorieren nach Belieben" plural="Basilikum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" amount="5" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" suffix="(ca. 150 g)" plural="Kochschinken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10701" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus der Kühltheke, alternativ ca. 400 g getrocknete" plural="Tortellini" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(30 % Fett)" position="8" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="9" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" plural="frisch gemahlener Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82pqhlhiwhi9qbbsgx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schinken würfeln, Schalotte und Knoblauch abziehen, Schalotte fein würfeln und Knoblauch hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhlhiwpdlj7rcgx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Tortellini nach Packungsanweisung in Salzwasser garen, abgießen und dabei ca. 50 ml Nudelwasser auffangen. Parmesan von der Rinde befreien und mit einer Reibe fein raspeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhlhiwtx17xvprgx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Butter in einer großen Pfanne zerlassen, Schinken zugeben und 1-2 Minuten bräunen. Schalotten und Knoblauch zugeben, 1 Minute anschwitzen, mit 300 ml Sahne ablöschen, Tortellini zugeben und bei mittlerer Hitze köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhlhiwycp8uiogx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eigelbe in eine kleine Schüssel geben und mit der übrigen Sahne verrühren. Parmesan unterheben, in die warme Soße einrühren und langsam erwärmen, bis die Soße andickt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhlhix2o1cmlhvgx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Je nach Konsistenz etwas aufgefangenes Nudelwasser zugeben und mit Salz, Pfeffer und Muskatnuss abschmecken. Auf 4 Tellern verteilen und nach Wunsch mit Basilikum bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82pqhlhix8510rw6tgx8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Brate fein geschnittene Pilze mit dem Schinken an und mogle 100 g Erbsen unter die Tortellini alla panna.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">e funghi</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmr1u06x2cdhqq7vq" file_variant="master" position="1">Tortellini alla Panna</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e649501ea34">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqxfp2og1mazcxo45" file_variant="master" position="1">Tortellini alla Panna</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e64951c9b7b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqypt88gql6rf7vq" file_variant="master" position="1">Tortellini alla Panna</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e649538d970">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqu8l1irexs70nff" file_variant="master" position="1">Tortellini alla Panna</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

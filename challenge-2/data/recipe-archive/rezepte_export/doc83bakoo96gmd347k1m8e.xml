@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83bakoo96gmd347k1m8e" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-18T08:39:52+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-18T08:47:19+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Avocado-Smoothie","recipe_seo_headline":"Avocado-Smoothie – super cremiges Blitz-Rezept","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Avocado","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Milch oder Pflanzendrink","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. Haferdrink)"},{"amount":3,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Bananen schälen und in grobe Stücke schneiden. Avocado halbieren, den Kern entfernen und das Fruchtfleisch mit einem Löffel aus der Schale lösen. Alle Zutaten in einen Mixer geben und zu einem cremigen Smoothie mixen. Auf 2 Gläser à 250 ml aufteilen und genießen!"}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Avocado-Smoothie</Title>
+    <CustomRecipeSeoTitle position="1">Avocado-Smoothie – super cremiges Blitz-Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Avocado-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-18T08:39:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83baknuwhq85cc881m8e">
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. Haferdrink)" position="3" prefix="Milch oder" plural="Pflanzendrink"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Avocados" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Orangensaft" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83bakoo95uovh1251m8e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Bananen schälen und in grobe Stücke schneiden. Avocado halbieren, den Kern entfernen und das Fruchtfleisch mit einem Löffel aus der Schale lösen. Alle Zutaten in einen Mixer geben und zu einem cremigen Smoothie mixen. Auf 2 Gläser à 250 ml aufteilen und genießen!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82mro7g8ew21izg2dmk3" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691c248613e94">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82mro1mypy84zoaemfv" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

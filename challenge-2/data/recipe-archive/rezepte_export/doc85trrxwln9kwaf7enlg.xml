@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85trrxwln9kwaf7enlg" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-13T11:45:51+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-05-13T11:48:35+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <Source topic="tmt85trt7hwc1hmzxvxnlv"/>
+    <Headline position="1">Schnelle Mousse au Chocolat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-13T11:45:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(70% kakaoanteil)" plural="Zartbitterschokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="3" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" position="4" amount="3" prefix="sehr frische, zimmerwarme" plural="Eiweiß"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Schokolade grob hacken und über einem heißen Wasserbad langsam schmelzen lassen. Dann etwas abkühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a0448b54f99d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen die Sahne mit dem Vanillezucker in einen hohen Rührbecher geben und mit einem Handrührgerät in ca. 2 Minuten steif schlagen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a0448bd16413">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Eiweiße mit den Schneebesen des Handrührgeräts in ca. 3 Minuten weiß-schaumig aufschlagen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a0448c4da76e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die flüssige Schokolade zum Eischnee geben und mit dem Teigspatel vorsichtig unterziehen. Dann die Schlagsahne hinzufügen und ebenso unterheben. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6a0448cc7221c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Mousse auf Gläser oder Schalen verteilen, zudecken und 1 Stunde kühlen. Zum Servieren die Mousse nach Wunsch mit frischen Früchten garnieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kochkurs, Schnelle Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Mader &amp; Schmid</ImageCredit>
+      <DocumentRef doc_id="doc85narwkg9hskfa0w27z" file_variant="master" position="1">Kochkurs, Schnelle Mousse au chocolat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

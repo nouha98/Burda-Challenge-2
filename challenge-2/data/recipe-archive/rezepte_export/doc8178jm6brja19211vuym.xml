@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8178jm6brja19211vuym" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-23T09:10:16+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-06-24T13:44:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7u0b669zylh1bowz6fk"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruds18czicdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kuckis Schnitzel \"Milanese\"","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"dünner geschnittene Hähnchenbrustschnitzel","unit":{"name":"Stück"},"prefix":null,"suffix":"(insgesamt 500 g)"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"geriebener Hartkäse","unit":{"name":"g"},"prefix":null,"suffix":"wie Parmesan"},{"amount":null,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Tupft die Hähnchenbrustschnitzel mit Küchenpapier trocken. Legt sie zwischen Frischhaltefolie und klopft sie mithilfe eines Stieltopfes noch flacher. Würzt das Fleisch mit Salz und Pfeffer."},{"headline":null,"content":"Verquirlt in einem tiefen Teller 2 Eier mit 50 g geriebenem Hartkäse wie Parmesan."},{"headline":null,"content":"Erhitzt Öl in einer großen Pfanne. Bestäubt die Schnitzel mit etwas Mehl, wendet sie dann im Ei-Käse-Mix und bratet sie in der Pfanne von jeder Seite 3 Minuten bei mittlerer Hitze goldbraun."},{"headline":null,"content":"Perfekt zu Nudeln mit Tomatensauce servieren."}],"recipe_tips":[{"headline":"Neue Ideen für die Hülle","content":"Semmelbrösel zum Panieren von Schnitzeln kennt ihr sicher. Hier haben wir ein paar andere Möglichkeiten: 1. Gemahlene Nüsse: Geben tolles Aroma und haben gesunde Fette. 2. Kokosraspel: Sorgen für eine exotische Note. 3. Ungesüßte Cornflakes: Für Extra-Crunch beim Reinbeißen. 4. Zerbröselte Salzstangen: Verleihen dem Fleisch ein würziges Laugenaroma. 5. Polenta (feinkörniger Maisgrieß): Gemischt mit Semmelbröseln wird die Panade etwas gelber, süßlicher und herrlich knusprig."}]}</CustomStructuredRecipeJson>
+    <Title>Kuckis Schnitzel "Milanese"</Title>
+    <Headline position="1">Kuckis Schnitzel "Milanese"</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-23T09:10:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8178jo30sgh16qp5phnm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="wie Parmesan" position="3" prefix="gerieb. Hartkäse wie" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt7pij4ejeyqc1epb119ua" amount="8" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(insgesamt 500 g)" position="1" plural="Hähnchenbrustschnitzel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="4" amount="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8178js9orqx12he7ehnm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Echt lecker mit Parmesankruste. Unbedingt ausprobieren! Wichtig: Bei Geflügelfleisch müsst ihr sehr auf Sauberkeit achten, lasst euch eventuell von einem Erwachsenen helfen. Und so gehts: Tupft 8 dünner geschnittene Hähnchenbrustschnitzel (insgesamt 500 g) mit Küchenpapier trocken. Legt sie zwischen Frischhaltefolie und klopft sie z. B. mithilfe eines Stieltopfes noch flacher. Würzt das Fleisch mit Salz und Pfeffer. Verquirlt in einem tiefen Teller 2 Eier mit 50 g gerieb. Hartkäse wie Parmesan. Erhitzt
+2-3 EL Öl in einer großen Pfanne. Bestäubt eure Schnitzel mit etwas Mehl, wendet sie dann im Ei-Käse-Mix und bratet sie in der Pfanne von jeder Seite 3 Minuten bei mittlerer Hitze goldbraun. Perfekt zu Nudeln mit Tomatensauce.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8178js9oyqqdvxjzhnm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Semmelbrösel zum Panieren von Schnitzeln kennt ihr sicher. Hier haben wir ein paar andere Möglichkeiten: 1. Gemahlene Nüsse: Geben tolles Aroma und haben gesunde Fette. 2. Kokosraspel: Sorgen für eine exotische Note. 3. Ungesüßte Cornflakes: Für Extra-Crunch beim Reinbeißen. 4. Zerbröselte Salzstangen: Verleihen dem Fleisch ein würziges Laugenaroma. 5. Polenta (feinkörniger Maisgrieß): Gemischt mit Semmelbröseln wird die Panade etwas gelber, süßlicher und herrlich knusprig.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Neue Ideen für die Hülle</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Feierabendküche für MFI STOCKFOOD 000832</p>
+<p>Familienküche</p></div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc7i2slcer45t13jy0n5g1" file_variant="master" position="1">MFI_MILANESE.TIF</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

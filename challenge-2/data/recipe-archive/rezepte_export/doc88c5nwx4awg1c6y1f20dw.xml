@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88c5nwx4awg1c6y1f20dw" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-05T08:33:53+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-05T08:37:41+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt828c3lblxnd13w060gcp"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt88c5po710j4h8n4m1pmj"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Thunfisch-Wraps","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Thunfisch","unit":{"name":"Dose"},"prefix":null,"suffix":"im eigenen Saft (Abtropfgewicht je Dose: 140 g)"},{"amount":150,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"kleine rote","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Blattsalat","unit":{"name":"g"},"prefix":null,"suffix":"oder Rucola"},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":"frische (optional)","suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Kräuterfrischkäse","unit":{"name":"EL"},"prefix":null,"suffix":"(max. 18 % Fett absolut)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Tortilla-Wraps","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 25 cm Durchmesser)"}]}],"preparation":[{"headline":null,"content":"Thunfisch auf ein Sieb geben und abtropfen lassen. Kirschtomaten waschen und halbieren. Zwiebel abziehen, halbieren und in feine halbe Ringe schneiden. Salatgurke waschen und in ca. 1 cm dicke Stifte schneiden."},{"headline":null,"content":"Salat waschen, trockenschleudern und ggfs. etwas zerzupfen. Optional die Petersilie abbrausen, trockenschütteln und fein hacken."},{"headline":null,"content":"Abgetropften Thunfisch mit dem Kräuterfrischkäse vermengen und die Thunfischcreme mit Salz und Pfeffer abschmecken. Ggfs. die gehackte Petersilie unterheben."},{"headline":null,"content":"Tortilla-Wraps nach Anleitung aufbacken. Jeden Wrap mit 2 gehäuften EL Thunfischcreme bestreichen. Das Gemüse gleichmäßig darauf verteilen. Den Wrap seitlich einklappen und eng aufrollen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Thunfisch-Wraps</Title>
+    <Headline position="1">Thunfisch-Wraps</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-05T08:33:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88c5ntom2kpl6pai20dw">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="frische" plural="Petersilie" position="6" suffix=" (optional)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11236" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(ca. 25 cm Durchmesser)" position="10" prefix="Tortilla-" plural="Wraps"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" amount="2" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="im eigenen Saft (Abtropfgewicht je Dose: 140 g)" plural="Thunfisch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine rote" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salatgurken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4946" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="oder Rucola" plural="Blattsalat" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7461" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(max. 18 % Fett absolut)" plural="Kräuterfrischkäse" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88c5nwx45ugnka8z20dw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Thunfisch auf ein Sieb geben und abtropfen lassen. Kirschtomaten waschen und halbieren. Zwiebel abziehen, halbieren und in feine halbe Ringe schneiden. Salatgurke waschen und in ca. 1 cm dicke Stifte schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88c5nwx48kj1buv1q20dw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Salat waschen, trockenschleudern und ggfs. etwas zerzupfen. Optional die Petersilie abbrausen, trockenschütteln und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88c5nwx48pd1tjrt20dw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Abgetropften Thunfisch mit dem Kräuterfrischkäse vermengen und die Thunfischcreme mit Salz und Pfeffer abschmecken. Ggfs. die gehackte Petersilie unterheben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88c5nwx48sygcs5f20dw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Tortilla-Wraps nach Anleitung aufbacken. Jeden Wrap mit 2 gehäuften EL Thunfischcreme bestreichen. Das Gemüse gleichmäßig darauf verteilen. Den Wrap seitlich einklappen und eng aufrollen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7rcaz9ga73n16caf266f" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Wraps_hoch.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6aec323b4a19d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc7rcaz50pfh113j5df66k" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Wraps_Steps.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6aec323db3906">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc7rcaz7j692w1ee2b466f" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Wraps_quer.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

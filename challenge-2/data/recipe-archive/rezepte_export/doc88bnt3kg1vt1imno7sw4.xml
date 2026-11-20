@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88bnt3kg1vt1imno7sw4" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-04T09:23:50+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-11-04T09:44:57+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <Source topic="tmt8893lir4v8g1d1i56ce8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Glühwein-Mimosa","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Ruhen/Warten","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"roter Traubensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Glühweingewürz","unit":{"name":"Beet"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"roter Streuselmix","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Orangensaft","unit":null,"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Sektschalen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":null,"prefix":null,"suffix":null},{"amount":0.7,"amountTo":null,"ingredient_name":"Sekt","unit":{"name":"l"},"prefix":null,"suffix":"mit oder ohne Alkohol"}]}],"preparation":[{"headline":"Am Vortag","content":"Traubensaft erhitzen, Glühweingewürz einlegen und 20 Minuten ziehen lassen. Die Beutel entfernen. Zucker zugeben, aufkochen und 10 Minuten sirupartig einkochen lassen. Zugedeckt kalt stellen."},{"headline":"Zum Servieren","content":"Streuselmix auf einen Teller geben, etwas Orangensaft auf einen weiteren Teller geben. Die Glasränder der Sektschalen erst in den Saft, dann in die Streusel tauchen. Sirup auf die Gläser verteilen, Eiswürfel zugeben und mit Sekt aufgießen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Glühwein-Mimosa</Title>
+    <CustomRecipeNoteInformation position="1">6 Sektschalen</CustomRecipeNoteInformation>
+    <Headline position="1">Glühwein-Mimosa</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-04T09:23:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88bnt4xsfyq4wzs6kdm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10736" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" prefix="roter" plural="Traubensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6326" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Glühweingewürz" position="2" suffix="(Beutel)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Am Vortag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="88bnt5mgt8nczvy3kdm">
+      <CustomRecipeIngredient topic="tmt7n99l2u6hsn1iqri91or" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" prefix="roten" suffix="-Mix" plural="Streusel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" plural="Orangensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiswürfel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" amount="0.7" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(mit oder ohne Alkohol)" plural="Sekt" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88bnt78et76u60bdkdm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: Traubensaft erhitzen, Glühweingewürz einlegen und 20 Minuten ziehen lassen. Die Beutel entfernen. Zucker zugeben, aufkochen und 10 Minuten sirupartig einkochen lassen. Zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88bnt78f0sj17rhphkdm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren: Streuselmix auf einen Teller geben, etwas Orangensaft auf einen weiteren Teller geben. Die Glasränder der Sektschalen erst in den Saft, dann in die Streusel tauchen. Sirup auf die Gläser verteilen, Eiswürfel zugeben und mit Sekt aufgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gewürz-Orangen-Lachs mit knuspriger Panko-Kruste auf Blattspinat mit Granatapfel und Mandeln, dazu ein festlicher Glühwein-Sprizz</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc86yu9b1uovrilr87zud" file_variant="master" position="1">Gewürz-Orangen-Lachs mit knuspriger Panko-Kruste auf Blattspinat mit Granatapfel und Mandeln, dazu ein festlicher Glühwein-Sprizz</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87719m2vlaq1alsdu89w" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-17T08:48:13+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-17T09:01:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt8771fk6mwdd6txrl1oz9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pilzsalat","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Salat","ingredients":[{"amount":750,"amountTo":null,"ingredient_name":"Pilze","unit":{"name":"g"},"prefix":null,"suffix":"gemischte Herbst- (z. B. Pfifferlinge, Steinpilze, Champignons)"},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Essiggurke","unit":{"name":"g"},"prefix":null,"suffix":"aus dem Glas"},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":"frische (klein)"},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"TL"},"prefix":null,"suffix":null}]},{"headline":"Für das Dressing","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Kräuteressig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Fluorid"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Pilze putzen, halbieren, große Exemplare ggf. kleiner schneiden. Zwiebeln abziehen und fein würfeln. Essiggurken auf ein Sieb abgießen und abtropfen lassen. Essiggurken würfeln. Petersilie abbrausen, trockenschütteln und hacken."},{"headline":null,"content":"In einer beschichteten Pfanne 1 TL Rapsöl erhitzen. Zwiebelwürfel darin 2–3 Minuten glasig dünsten. Die Pilze zugeben und bei mittlerer Hitze ca. 5 Minuten goldbraun anbraten. Herdplatte ausschalten, Pilze noch nachziehen lassen."},{"headline":null,"content":"In der Zwischenzeit Kräuteressig mit dem Rapsöl verrühren, kräftig mit Pfeffer und ein wenig Salz würzen."},{"headline":null,"content":"Pilze und Zwiebeln zusammen mit Essiggurken, Petersilie und Dressing in eine Schüssel geben und gut mischen, ein paar Minuten durchziehen lassen. Pilzsalat auf Tellern anrichten und mit Vollkornbrot servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pilzsalat</Title>
+    <Headline position="1">Pilzsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-17T08:48:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87719ipzhja1de12o89w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8806" amount="750" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Pfifferlinge, Steinpilze, Champignons)" plural="Pilze" position="1" prefix="gemischte Herbst- "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="(klein)" plural="Petersilie" position="4" prefix="frische "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5841" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus dem Glas" plural="Essiggurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Rapsöl" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87719kjkwz9oohf989w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kräuteressig" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Fluorid" plural="Jodsalz" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87719lw0xhk15xnha89w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87719m2vbb614tfs089w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pilze putzen, halbieren, große Exemplare ggf. kleiner schneiden. Zwiebeln abziehen und fein würfeln. Essiggurken auf ein Sieb abgießen und abtropfen lassen. Essiggurken würfeln. Petersilie abbrausen, trockenschütteln und hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87719m2vg5219p9xe89w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer beschichteten Pfanne 1 TL Rapsöl erhitzen. Zwiebelwürfel darin 2–3 Minuten glasig dünsten. Die Pilze zugeben und bei mittlerer Hitze ca. 5 Minuten goldbraun anbraten. Herdplatte ausschalten, Pilze noch nachziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87719m2vgc3dib2f89w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Kräuteressig mit dem Rapsöl verrühren, kräftig mit Pfeffer und ein wenig Salz würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87719m2vgihww6i389w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Pilze und Zwiebeln zusammen mit Essiggurken, Petersilie und Dressing in eine Schüssel geben und gut mischen, ein paar Minuten durchziehen lassen. Pilzsalat auf Tellern anrichten und mit Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braur8vakz4kufxjei" file_variant="master" position="1">Pilzsalat_89791.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a82b1a118eba">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7bray04c87s1iykeo2be" file_variant="master" position="1">Pilzsalat_89564.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a82b1a445de1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braxpbg7tucc6zshzx" file_variant="master" position="1">Pilzsalat_89566.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a82b1a6624c6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brayayrrrtqbyzblhb" file_variant="master" position="1">Pilzsalat_89788.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

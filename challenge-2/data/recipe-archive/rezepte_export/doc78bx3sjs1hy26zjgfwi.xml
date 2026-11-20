@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc78bx3sjs1hy26zjgfwi" dcx-version="6.3.1" version="1.0">
+  <created>2019-12-09T15:00:31+01:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2024-12-03T09:59:56+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="90"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="25"/>
+    <LastEditedBy topic="tmt79fcymuyd3k173esdhr2"/>
+    <CustomCenshareId>1129501</CustomCenshareId>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">135</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">570</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">24</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">3</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <Title>Bierbrot mit Röstzwiebeln V</Title>
+    <Headline position="1">Bierbrot mit Röstzwiebeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2020-02-07T17:06:12+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="4dabbd">
+      <CustomRecipeIngredient topic="tmt786i1zocsiexkzbt7sm" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Roggenmehl (Type 1150)"/>
+      <CustomRecipeIngredient topic="tmt786i1zof6dk13q8v87sm" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="Weizenmehl (Type 550) und Mehl zum Arbeiten"/>
+      <CustomRecipeIngredient topic="tmt786i1zoh8hw7i1xl7sm" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Vollkornsauerteig (Pulver, Fertigprodukt, im Backregal oder Reformabteilung)"/>
+      <CustomRecipeIngredient topic="tmt786i1zojqdu17vjp7sm" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" unit="ml" plural="Weißbier (Zimmertemperatur)"/>
+      <CustomRecipeIngredient topic="tmt786bc6df9j6vs5ojgkc" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Röstzwiebeln (Fertigprodukt)"/>
+      <CustomRecipeIngredient topic="tmt789ukr4sgid9xvxsot1" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" position="7" unit="TL" plural="Fenchelsamen (Reformregal, ersatzweise Fenchel aus dem Teebeutel)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="8" unit="EL" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt786amc532lckhvfe2mn" amount="1" unit_topic="tm_topic_default_unit" position="4" unit="(keine Einheit)" plural="Würfel frische Hefe (42 g)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="4dac1c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 220 Grad (Umluft: 200 Grad) vorheizen. Brot im Ofen auf dem Gitter ca. 45 Minuten  auf dem unteren Drittel backen. Dabei im Backofen ein ofenfestes Gefäß, gefüllt mit Wasser stellen, damit das Brot feucht bleibt. Brot herausnehmen, aus der Form nehmen, abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4dac2f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Mehlsorten und Sauerteig in eine große Schüssel geben und eine Mulde hineindrücken. Hefe hineinbröckeln, mit 4-5 EL lauwarmen Wasser verrühren, mit Mehl vom Rand bestäuben. Zugedeckt an einem warmen Ort 30 Minuten ruhen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4dac40">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Teig mit Mehl, lauwarmen Bier, 200 ml lauwarmen Wasser, Salz, Zwiebeln und Fenchelsamen verkneten. Zu einem Brotlaib formen, evtl. mit Mehl bestäuben und in einen Brotbackform oder eine gefettete Springform (ca. 24 cm Durchmesser) legen. Brot weitere 60 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bierbrot mit Röstzwiebeln</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7a6pv97168g8miqo94h" file_variant="master" position="1">Bierbrot mit Röstzwiebeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bx3slwgp1xwc3yfwi" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-09T15:00:31+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_1129501</displayname>
+      <doc_id id="doc78bx3sjs1hy26zjgfwi"/>
+      <hash>fcdaac3a6217ee140bf421999a688e9e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-02-07T17:06:13+01:00</modified>
+      <size>4073</size>
+      <subpath>2020/02-07/a3/13/file78bx3slwgp1xwc3yfwi.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fjrxwoethiar49dbw" dcx-version="6.3.1" version="1.0">
+  <created>2021-04-28T09:33:59+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-27T13:22:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Headline position="1">Kuckis Erbsen-Pasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-04-28T09:33:59+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5756" position="0" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="tiefgekühlte" plural="Erbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="1" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gemahlene" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" position="2" amount="40" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rapsöl"/>
+      <CustomRecipeIngredient topic="tmt7tb9s8afldxz06c3mvf" position="3" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="abgeriebene" suffix="(Bio)" plural="Zitronenschale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="4" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="5" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" position="6" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Nudeln"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Lasst 300 g tiefgekühlte Erbsen auftauen. Röstet 40 g gemahlene Mandeln in einer Pfanne unter rühren, bis sie beginnen zu duften. Rührt 100 g Erbsen ein und lasst sie etwas warm werden. Jetzt den Mix mit 40 ml Rapsöl und 1 TL abgerie- bener Zitronenschale (Bio) pürieren. Rührt 50 g geriebenen Parme- san darunter und schmeckt die Creme mit Salz und Pfeffer ab. Kocht nun 500 g Nudeln (z. B. Öhrchennudeln) in reichlich Salzwasser nach der Garzeit auf der Packung. Vor dem Abgießen der Nudeln schöpft ihr ca. 100 ml Nudelkochwasser ab (Vorsicht: heiß!). Mischt nun im Kochtopf die abgegossenen Nudeln mit Erbsencreme, dem Rest Erbsen (200 g) und Kochwasser, würzt mit Salz und Pfeffer. Fertig!</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">PhotoCuisine / Norris, Bob</ImageCredit>
+      <DocumentRef doc_id="doc7agv1l10asg1l5sn2ec" file_variant="master" position="1">Nudel mit Erbsen und Pistazien-Pesto</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

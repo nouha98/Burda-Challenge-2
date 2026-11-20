@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85p66f8xraa4zmmy1h9x" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-04T12:54:26+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-05-04T13:00:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <Source topic="tmt85p69chfwiq2bin91hn8"/>
+    <CustomRecipeNutritionalValueCalories position="1">460</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">23</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">9</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">36</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Wassermelonen-Feta-Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-04T12:54:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5921" position="1" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Fenchelsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7396" position="2" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Koriandersamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7381" position="3" amount="0.5" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Koriandergrün"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="4" amount="0.5" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="5" prefix="Saft und Abrieb von 0.5 " plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9376" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rotweinessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="9" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Olivenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69f87b8708b01">
+      <CustomRecipeIngredient topic="tmt7jiq6w3xji91gld6hkr4" position="1" amount="850" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(kernarm)" plural="Wassermelonenfleisch"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="2" amount="1" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8636" position="3" amount="1" amount_max="2" prefix="grüne" plural="Peperoni"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="4" amount="2" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="5" amount="2" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8451" position="6" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="(Kalamata-)" plural="Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" position="7" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Feta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Dressing Fenchel- und Koriandersamen in einer Pfanne ohne Fett kurz anrösten. Kräuter abbrausen, trocken schleudern, grob hacken. Mit Gewürzen, Abrieb und Saft der Zitrone, Salz, Pfeffer und Olivenöl in einen Mixbecher geben und grob pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69f87c08a97a4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Salat das Fruchtfleisch der Wassermelone in kleine dünne Dreiecke schneiden. Zwiebel abziehen, halbieren und in feine Streifen schneiden. Peperoni waschen und in feine Ringe schneiden. Koriander und Minze abbrausen, trockenschütteln und Blätter abzupfen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69f87c22c130f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Melone mit Zwiebeln, Peperoni und Oliven auf Tellern anrichten. Mit Kräutern bestreuen, Feta darüber bröckeln. Salat mit Salz und Pfeffer würzen und mit dem Dressing  beträufelt servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Wassermelonensalat mit Tomaten, Feta und Kräutern (vegetarisch)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc7pj2w3staapzipv946a" file_variant="master" position="1">Wassermelonensalat mit Tomaten, Feta und Kräutern (vegetarisch)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

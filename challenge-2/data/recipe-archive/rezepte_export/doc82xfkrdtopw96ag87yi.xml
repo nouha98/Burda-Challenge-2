@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xfkrdtopw96ag87yi" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-22T10:13:58+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-22T10:19:47+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kokoskekse","recipe_seo_headline":"Kokoskekse – so saftig und lecker","servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Backen","duration":10},{"name":"Kühlen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Kokosraspeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Kokoskekse die weiche Butter und die Eier in eine große Schüssel geben und mit dem Handrührgerät ca. 1 Minute verrühren."},{"headline":null,"content":"Die trockenen Zutaten in einer restlichen Schüssel miteinander vermengen. Zu der Buttermasse geben und alles miteinander verrühren, bis ein klebriger Teig entsteht. Die Masse zugedeckt ca. 30 min kaltstellen."},{"headline":null,"content":"In der Zwischenzeit den Backofen auf 180 Grad Ober- und Unterhitze vorheizen und ein Backblech mit Backpapier auslegen."},{"headline":null,"content":"Mit einem Esslöffel etwas Teig abstechen und mit angefeuchteten Händen zu Kugeln formen. Die Teigbälle mit genügend Abstand auf ein Backblech geben, da sie beim Backen auseinanderlaufen."}],"recipe_tips":[{"headline":"Kokoskekse mit Schokolade","content":"Du kannst die leckeren Kokoskekse auch mit etwas Schokolade verzieren. Dafür einfach 50 Gramm Schokolade deiner Wahl oder Kuvertüre im Wasserbad schmelzen und mit einem Löffel über dünne Fäden über die abgekühlten Kekse ziehen."}]}</CustomStructuredRecipeJson>
+    <Title>Kokoskekse</Title>
+    <CustomRecipeSeoTitle position="1">Kokoskekse – so saftig und lecker</CustomRecipeSeoTitle>
+    <Headline position="1">Kokoskekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-22T10:13:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xfkq9wi6otvtaa7yi">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosraspeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xfkrdtfip1licpb7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die weiche Butter und die Eier in eine große Schüssel geben und mit dem Handrührgerät ca. 1 Minute verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Kokoskekse </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xfkrdthmpeaaa77yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die trockenen Zutaten in einer restlichen Schüssel miteinander vermengen. Zu der Buttermasse geben und alles miteinander verrühren, bis ein klebriger Teig entsteht. Die Masse zugedeckt ca. 30 min kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xfkrdthsxupyxe7yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit den Backofen auf 180 Grad Ober- und Unterhitze (Umluft 160 Grad) vorheizen und ein Backblech mit Backpapier auslegen. Mit einem Esslöffel etwas Teig abstechen und mit angefeuchteten Händen zu Kugeln formen. Die Teigbällchen mit genügend Abstand auf ein Backblech geben, da sie beim Backen auseinander laufen. Mit einem Esslöffel oder den Händen vorsichtig etwas platt drücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xfkrdthxx8nl457yi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Kekse im vorgeheizten Ofen ca. 10-12 Minuten backen, bis sie leicht gebräunt und noch ein wenig weich sind. Sie härten beim Abkühlen noch etwas aus. Auf dem Blech auskühlen lassen. Lass dir die Kokoskekse schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82xfkrdti2s13xuiw7yi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die leckeren Kokoskekse auch mit etwas Schokolade verzieren. Dafür einfach 50 Gramm Schokolade deiner Wahl oder Kuvertüre im Wasserbad schmelzen und mit einem Löffel über dünne Fäden über die abgekühlten Kekse ziehen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kokoskekse mit Schokolade</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc82lp6y5le2co6qeqd93" file_variant="master" position="1">Kokos_Kekse_5737.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f8939d4cad5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc82lp7iu5r5jiyivxddn" file_variant="master" position="1">Kokos_Kekse_5448.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f8939f12b3c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc82lp6wo2k55fu3rviee" file_variant="master" position="1">Kokos_Kekse_5534.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f893a0d0db3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc82lp6vdrdba1aoiktoni" file_variant="master" position="1">Kokos_Kekse_5726.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68f893a24d10f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc82lp7hcdhle1887egfvg" file_variant="master" position="1">Kokos_Kekse_5739.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

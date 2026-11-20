@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87wx4p23ncng3nhdjeo" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-06T17:51:44+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-10-06T18:00:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt87wx8wkxmn61akzu1jgu"/>
+    <Headline position="1">Kartoffel-Gnocchi mit Drei-Käse-Sauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-06T17:51:44+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="3" amount="1" suffix="(leicht geschlagen)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="15" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geschmolzene" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="fein geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="6" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt80pcwuusu5s5mrdbs55" position="7" plural="Mehl zum Arbeiten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Gnocchi</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6ac519dc47e1b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="8" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="krause" suffix="(fein gehackt)" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" position="1" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="2" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6341" position="3" amount="45" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Gorgonzola"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="4" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Dijonsenf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" position="6" amount="0.25" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="(frisch gerieben)" plural="Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="7" amount="1" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="9" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="10" prefix="schwarzer" plural="Pfeffer aus der Mühle"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6ac51a733eb41">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5151" position="1" amount="1" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" suffix="vom Vortag" plural="Brot"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Gnocchi Kartoffeln waschen und in Salzwasser ca. 20 Minuten garen. Abgießen, etwas ausdampfen lassen und pellen. Heiße Kartoffeln durch eine Kartoffelpresse in eine Schüssel pressen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ac51aa9c8b5b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Butter in einem kleinen Topf zerlassen. Parmesan fein reiben. Ei mit zerlassener Butter und Parmesan zu den Kartoffeln geben und unterarbeiten. So viel Mehl einarbeiten, bis ein fester, glatter Teig entsteht.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6ac51aafaa333">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Teig in vier Portionen teilen und jede Portion auf einer bemehlten Arbeitsfläche zu einer Rolle (ca. 2 cm ⌀) formen. Jede Rolle in Stücke von 2 cm Länge schneiden und diese zu Kugeln formen. Kugeln mit leichtem Druck über die Zinken einer Gabel rollen, um die klassische Gnocchi-Form zu erhalten. Gnocchi einzeln auf ein leicht bemehltes Tablett legen, abdecken und 1 Stunde im Kühlschrank ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6ac51abacca08">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Sauce inzwischen Mozzarella grob, Parmesan fein reiben und den Gorgonzola zerbröckeln. Sahne und Käse in einem Topf bei mittlerer Hitze unter Rühren erhitzen, bis eine glatte Masse entsteht. Vom Herd nehmen. Senf, Muskat, Eigelb und Petersilie unterrühren. Mit Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6ac51ac4d7bb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 220 °C Ober- und Unterhitze vorheizen. Vier ofenfeste Formen (à ca. 250 ml) fetten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6ac51ad0963fd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Gnocchi portionsweise in einem großen Topf mit kochendem Wasser garen, bis sie an die Oberfläche steigen. Mit einem Schaumlöffel herausnehmen und auf die Formen verteilen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6ac51aebdac44">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Brotscheibe grob zerzupfen oder im Blitzhacker zerkleinern. Käsesauce über die Gnocchi gießen und mit Brotbröseln bestreuen. Im vorgeheizten Backofen etwa 15 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc7azexk7r5jc7o3oaejq" file_variant="master" position="1">Kartoffelgnocchi mit Drei-K se-Sauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

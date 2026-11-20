@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82eyu8ebe4zv20kv7q9" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-16T11:45:40+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-16T12:01:11+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpkys7blgdo5"/>
+    <Source topic="tmt82ez1epo86f1h0gh47tm"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Graupensuppe mit Bündner Fleisch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":45}],"difficulty":null,"price":null,"nutritions":{"calories":390,"kilojoule":1633,"carbonhydrates":40,"fat":16,"protein":21,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"abziehen, würfeln"},{"amount":1,"amountTo":null,"ingredient_name":"große Möhre","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Stangen Staudensellerie","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Kasseler","unit":{"name":"g"},"prefix":null,"suffix":"gewürfelt"},{"amount":50,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Rollgerste (Graupen)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":850,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"weiße Bohnen (Dose)","unit":{"name":"g"},"prefix":null,"suffix":"abgebraust"},{"amount":0.5,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Bund"},"prefix":null,"suffix":"gehackt"},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":"gehackt"},{"amount":50,"amountTo":null,"ingredient_name":"Bündner Fleisch","unit":{"name":"g"},"prefix":null,"suffix":"fein gewürfelt"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebel abziehen und würfeln. Möhre, Staudensellerie und Kartoffeln waschen, putzen bzw. schälen und klein würfeln. Kasseler würfeln."},{"headline":null,"content":"In einem großen Topf Butter erhitzen. Zwiebel-, Gemüse-, Kartoffel- und Kasselerwürfel darin anbraten."},{"headline":null,"content":"Rollgerste hinzufügen und mit Brühe aufgießen. Etwa 20 Minuten köcheln lassen."},{"headline":null,"content":"Weiße Bohnen abbrausen und zur Suppe geben, erhitzen."},{"headline":null,"content":"Thymian und Petersilie hacken und einrühren."},{"headline":null,"content":"Bündner Fleisch fein würfeln. Suppe mit Salz und Pfeffer abschmecken und mit Bündner Fleisch bestreuen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Graupensuppe mit Bündner Fleisch</Title>
+    <CustomRecipeNutritionalValueCalories position="1">390</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1633</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">16</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">21</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Graupensuppe mit Bündner Fleisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-16T11:45:40+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82eyubzewoi732h5la2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5021" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Dose)" position="9" prefix="weiße" plural="Bohnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="große " plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10371" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" prefix="Stangen" plural="Staudensellerie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7121" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kasseler" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt7jqbqialimc1natbn6od" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" suffix="(Graupen)" plural="Rollgerste"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="850" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Brühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Thymian" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="11"/>
+      <CustomRecipeIngredient topic="tmt7jqbq4z4ynpld9bs6o0" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" plural="Bündnerfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="14"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82eyuge37rk1ljqznla2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und würfeln. Möhre, Staudensellerie und Kartoffeln waschen, putzen bzw. schälen und klein würfeln. Kasseler würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82eyuge3m9l15d78xla2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einem großen Topf Butter erhitzen. Zwiebel-, Gemüse-, Kartoffel- und Kasselerwürfel darin anbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82eyuge3mea12qo24la2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Rollgerste hinzufügen und mit Brühe aufgießen. Etwa 20 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82eyuge3mhtwiw5vla2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Weiße Bohnen abbrausen und zur Suppe geben, erhitzen. Thymian und Petersilie hacken und einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82eyuge3mlex62h1la2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Bündner Fleisch fein würfeln. Suppe mit Salz und Pfeffer abschmecken und mit Bündner Fleisch bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rezepte und Foodstyling: Nicole Reymann, Prod./ Styling: Anna Talla, Hamburg, Requisite/Styling: Krisztina Zombori</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Julia Hoersch</ImageCredit>
+      <DocumentRef doc_id="doc7k8t5j0u1c8110p61ha8" file_variant="master" position="1">„Lust auf Genuss“ Heft 01/23 „Schweiz“, Verlag Burda, München</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

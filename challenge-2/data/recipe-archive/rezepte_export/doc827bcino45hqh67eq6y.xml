@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827bcino45hqh67eq6y" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T14:19:13+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-01T14:28:14+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sesamkekse","recipe_seo_headline":null,"servings":{"amount":45.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Sesam-Samen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise Zimt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":120,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Sesam-Samen","unit":{"name":"EL"},"prefix":null,"suffix":"zum Tauchen"}]}],"preparation":[{"headline":null,"content":"Sesam-Samen in einer Pfanne goldbraun rösten. Auskühlen lassen."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Backblech mit Backpapier belegen."},{"headline":null,"content":"Weiche Butter mit braunem Zucker, Salz und Zimt verrühren. Ei zugeben. Mehl und ausgekühlte Sesam-Samen einkneten."},{"headline":null,"content":"Teig in etwa 45 kleine Stücke teilen und zu Kugeln formen. Etwas platt drücken und die Oberfläche in Sesamsamen drücken. Auf das vorbereitete Backblech legen und im Ofen ca. 13-15 Minuten goldbraun backen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Sesamkekse</Title>
+    <Headline position="1">Sesamkekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T14:19:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827bcg8egw01a6ixq6y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10126" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sesamsamen"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="5" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe: M)" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10126" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Tauchen" position="8" plural="Sesamsamen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827bcino32v13n8mwq6y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sesam-Samen in einer Pfanne goldbraun rösten. Auskühlen lassen. Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Backblech mit Backpapier belegen. Weiche Butter mit braunem Zucker, Salz und Zimt verrühren. Ei zugeben. Mehl und ausgekühlte Sesam-Samen einkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827bcino3hy3bztyq6y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Teig in etwa 45 kleine Stücke teilen und zu Kugeln formen. Etwas platt drücken und die Oberfläche in Sesamsamen drücken. Auf das vorbereitete Backblech legen und im Ofen ca. 13-15 Minuten goldbraun backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Länger genießen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Du kannst die Sesam-Plätzchen luftdicht verpackt in einer Keksdose mindestens für 2 Wochen aufbewahren. Auch toll als Geschenk aus der Küche! </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n77ljek7612w0iz1bzl" file_variant="master" position="1">Sesamkekse_2760.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b59159be739">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n77q0ugwg4d25519tl" file_variant="master" position="1">Sesam_Kekse_2105.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b5915b269ac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n77mzshmxer6803rq" file_variant="master" position="1">Sesamkekse_2339.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b5915c5af73">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n77oir7nd1254ep3ri" file_variant="master" position="1">Sesamkekse_2737.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81prn8v30h313y0qntzf" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-29T10:42:36+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-07-29T10:55:04+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grießbrei mit Kirschen","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Grießbrei","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Weichweizengrieß","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für die Kirschen","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Kirschen","unit":{"name":"Glas"},"prefix":null,"suffix":"(340 g Abtropfgewicht)"},{"amount":1,"amountTo":null,"ingredient_name":"Stärke","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Milch in einen mittelgroßen Topf geben und auf mittlerer Stufe zum Kochen bringen. Zucker sowie Vanillezucker, Salz und Zimt zur Milch hinzugeben. Sobald die Milch einmal sprudelnd aufgekocht ist, den Weichweizengrieß langsam hinzugeben und alles umrühren. Die Hitze reduzieren und den Grießbrei quellen lassen und dabei gelegentlich umrühren."},{"headline":null,"content":"1 EL Butter in den Grießbrei geben und vorsichtig umrühren."},{"headline":null,"content":"Ein Glas Kirschen in ein Sieb schütten und den Kirschsaft in einer Schüssel auffangen. 2/3 davon zum Kochen bringen, 1 EL Stärke mit 2 EL Zucker und dem restlichen Kirschsaft anrühren und zum gekochten Kirschsaft hinzugeben."},{"headline":null,"content":"Den angedickten Kirschsaft mit den Kirschen mischen, den warmen Grießbrei auf 4 Teller verteilen und jeweils eine Portion Kirschen hinzugeben."}],"recipe_tips":[{"headline":null,"content":"Den Grießbrei kann man alternativ auch mit Apfelmus, Aprikosenkompott oder frischen Früchten genießen."}]}</CustomStructuredRecipeJson>
+    <Title>Grießbrei mit Kirschen</Title>
+    <Headline position="1">Grießbrei mit Kirschen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-29T10:42:36+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81prn5wi6qhbm8h5tzf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11036" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weichweizengrieß" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Grießbrei</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81prn80vwyo1cyd64tzf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7176" amount="1" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(340 g Abtropfgewicht)" plural="Kirschen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10356" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Stärke" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Kirschen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81prn8v2u7nu9vtgtzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Milch in einen mittelgroßen Topf geben und auf mittlerer Stufe zum Kochen bringen. Zucker sowie Vanillezucker, Salz und Zimt zur Milch hinzugeben. Sobald die Milch einmal sprudelnd aufgekocht ist, den Weichweizengrieß langsam hinzugeben und alles umrühren. Die Hitze reduzieren und den Grießbrei quellen lassen und dabei gelegentlich umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Grießbrei</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81prn8v2zg0xq508tzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">1 EL Butter in den Grießbrei geben und vorsichtig umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81prn8v2zlw9v131tzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ein Glas Kirschen in ein Sieb schütten und den Kirschsaft in einer Schüssel auffangen. 2/3 davon zum Kochen bringen, 1 EL Stärke mit 2 EL Zucker und dem restlichen Kirschsaft anrühren und zum gekochten Kirschsaft hinzugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Kirschen </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81prn8v2zpz1h37zqtzf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den angedickten Kirschsaft mit den Kirschen mischen, den warmen Grießbrei auf 4 Teller verteilen und jeweils eine Portion Kirschen hinzugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81prn8v2zu81k5hqhtzf">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Den Grießbrei kann man alternativ auch mit Apfelmus, Aprikosenkompott oder frischen Früchten genießen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814chpys7ttgvstoefx" file_variant="master" position="1">GriessbreimitKirschen3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68888c31e8904">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814chrmp8rbpggkw1xmh" file_variant="master" position="1">GriessbreimitKirschenStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68888c34a952a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814chuab63qaxjuyeg4" file_variant="master" position="1">GriessbreimitKirschenStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68888c370a252">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814chx8c72uqhu1zeos" file_variant="master" position="1">GriessbreimitKirschen1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68888c394925a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc814chn859ut89cbe1umw" file_variant="master" position="1">GriessbreimitKirschen2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

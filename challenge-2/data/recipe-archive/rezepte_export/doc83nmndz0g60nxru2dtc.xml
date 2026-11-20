@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83nmndz0g60nxru2dtc" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-12T08:50:08+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-12T08:54:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="2" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zanderfilet gebraten","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":260,"amountTo":null,"ingredient_name":"Zanderfilet","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl 405er","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Thymianzweig","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Das Fischfilet trockentupfen und von beiden Seiten mit Salz und Pfeffer würzen. Beide Seiten mit Mehl bestäuben und das überschüssige Mehl gut abklopfen."},{"headline":null,"content":"In einer Pfanne das Öl erhitzen. Das Fischfilet einlegen und ca. 2 Minuten bei mittlerer Hitze, auf der Hautseite kross und goldgelb anbraten. Den Thymianzweig hinzugeben. Den Fisch wenden und etwa 1 Minute weiter braten. Den Herd ausschalten, die Butter hinzugeben und die aufschäumende Butter mehrmals über den Fisch gießen."}],"recipe_tips":[{"headline":"Salzkartoffeln","content":"Schmecken am besten dazu, wenn sie mit der Bratbutter vom Fisch aus der Pfanne zerdrückt werden."}]}</CustomStructuredRecipeJson>
+    <Title>Zanderfilet gebraten</Title>
+    <Headline position="1">Zanderfilet gebraten</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-12T08:50:08+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83nmnc6k2x379q2xdtc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11276" amount="260" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zanderfilet" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="3" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" suffix="Typ 405" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10571" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Thymianzweige" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83nmndz02l4r26mjdtc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Fischfilet trocken tupfen und von beiden Seiten mit Salz und Pfeffer würzen. Beide Seiten mit Mehl bestäuben und das überschüssige Mehl gut abklopfen. In einer Pfanne das Öl erhitzen. Das Fischfilet einlegen und ca. 2 Minuten bei mittlerer Hitze auf der Hautseite kross und goldgelb anbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83nmndz05fbx6c4qdtc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Thymianzweig hinzugeben. Den Fisch wenden und etwa 1 Minute weiter braten. Den Herd ausschalten, die Butter hinzugeben und die aufschäumende Butter mehrmals über den Fisch gießen. Aus der Pfanne nehmen und servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83nmndz05lj112970dtc">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Nachdem du den Fisch trockengetupft hast, kannst du das Filet mit ein wenig Zitronensaft beträufeln – das gibt dem Fisch eine fein säuerliche Geschmacksnote!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zitronensaft für eine feine Säure</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxen0nu8isqhwfrmo" file_variant="master" position="1">Zanderfilet braten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_693bca3a9c1b4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxe1sk6bn16cvrhruq" file_variant="master" position="1">Zanderfilet braten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_693bca3c1538a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxf9iyomu1xba7rt1" file_variant="master" position="1">Zanderfilet braten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

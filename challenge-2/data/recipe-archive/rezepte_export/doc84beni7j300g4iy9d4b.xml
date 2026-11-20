@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84beni7j300g4iy9d4b" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-27T15:28:06+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-28T11:05:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnpfffjjldo5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <SubHeadline position="1">Energy-Smoothie 60568618</SubHeadline>
+    <CustomRecipeNoteInformation position="1">Für 4 Gläser (à ca. 200 ml)
+Das braucht man: leistungsstarken Mixer</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">75</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">18</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Energy-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-27T15:28:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="1" amount="3" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" position="2" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Baby-Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="3" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="4" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="5" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="6" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" prefix="ca." plural="Eiswürfel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Äpfel waschen, entkernen und in Stücke teilen. Spinat verlesen und waschen. Minzeblättchen abzupfen. Ingwer schälen und in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6978cc4cdf30f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Vorbereitete Zutaten mit Limettensaft, 1 Handvoll Eiswürfeln und ca. 200 ml Wasser pürieren. Smoothie mit übrigen Eiswürfeln in 4 Gläser verteilen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Energy-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc83yjx7mswwpp44mfbo9" file_variant="master" position="1">Energy-Smoothie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

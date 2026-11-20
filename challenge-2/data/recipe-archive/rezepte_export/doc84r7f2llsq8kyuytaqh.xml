@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84r7f2llsq8kyuytaqh" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-27T09:25:16+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-02-27T09:31:23+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <Source topic="tmt84r7hwbre5v1g4l0yarq"/>
+    <Headline position="1">Kräutersuppe mit Spinat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-27T09:25:16+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="1" amount="1" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" position="2" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Blattspinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9626" position="3" amount="2" unit_topic="tmt71k9l2t09xx1jfg9ydbs" unit="Blatt" plural="Sauerampfer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="4" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Kerbel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="5" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7821" position="6" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Löwenzahn"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="8" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="9" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="10" amount="2" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5496" position="11" amount="100" plural="Crème double"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="12" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="13" plural="Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Schalotte abziehen und fein würfeln. Den Spinat verlesen, waschen und trocken schleudern. Grobe Stiele entfernen. Die Kräuter abbrausen und trocken schütteln. Die Blätter abzupfen und in Streifen schneiden. Einige für die Garnitur beiseitelegen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69a155a0ee320">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Butter in einem Topf zerlassen. Schalotte darin andünsten. Kräuter und Zitronensaft hinzufügen. Die Brühe angießen und kurz aufkochen. Dann die Hitze reduzieren. 
+
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69a1560ad6e83">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eigelb und Crème double verrühren. Mit Salz und Pfeffer würzen. 
+
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69a1561302c70">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Topf vom Herd ziehen. Die Eigelbcreme in den Topf geben und alles fein pürieren. Die Suppe erneut erwärmen (nicht mehr kochen lassen) und mit Kräutern bestreut servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zweierlei Kräutersuppe: mit frittierten Brennesselblättern und mit Spinat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Hoersch, Julia</ImageCredit>
+      <DocumentRef doc_id="doc7inzj3xi1hc5ljit1to" file_variant="master" position="1">Zweierlei Kräutersuppe: mit frittierten Brennesselblättern und mit Spinat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

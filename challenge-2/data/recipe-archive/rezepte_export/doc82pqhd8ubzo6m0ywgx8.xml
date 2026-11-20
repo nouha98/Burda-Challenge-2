@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82pqhd8ubzo6m0ywgx8" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-07T10:42:48+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-08T11:17:14+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer-Mojito","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Crushed Ice","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"weißer Rum","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Himbeeren, Limette und Minze abwaschen und abtropfen lassen. Einige Himbeeren zur Dekoration beiseitelegen, übrige Himbeeren mit einem Löffel durch ein Sieb streichen und dabei das Himbeerpüree auffangen."},{"headline":null,"content":"Limette halbieren, jeweils in 4 Spalten schneiden und die Minze grob zupfen. Limettenspalten und Minze mit dem Zucker auf 2 Gläser (à ca. 300 ml) verteilen und mit einem Holzstößel oder Löffel zerdrücken."},{"headline":null,"content":"Gläser zu 2/3 mit Crushed Ice befüllen, Himbeerpüree und Rum zugeben und mit Mineralwasser auffüllen."},{"headline":null,"content":"Mit einem Barlöffel verrühren, mit den restlichen Himbeeren und nach Wunsch mit Minze dekoriert servieren."}],"recipe_tips":[{"headline":"Virgin Himbeer Mojito","content":"Mit kaltem Minz- oder Grüntee statt Rum, hast Du im Nu noch eine tolle alkoholfreie Alternative gezaubert."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeer-Mojito</Title>
+    <Headline position="1">Himbeer-Mojito</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-07T10:42:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82pqh9s3mm9gq4b3gx8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Limetten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="3" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Minze" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Rohrohrzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Crushed Ice" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="8" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="6" prefix="weißer" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82pqhd8tombx7ld1gx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Himbeeren, Limette und Minze abwaschen und abtropfen lassen. Einige Himbeeren zur Dekoration beiseitelegen, übrige Himbeeren mit einem Löffel durch ein Sieb streichen und dabei das Himbeerpüree auffangen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhd8tox1q822wgx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Limette halbieren, jeweils in 4 Spalten schneiden und die Minze grob zupfen. Limettenspalten und Minze mit dem Zucker auf 2 Gläser (à ca. 300 ml) verteilen und mit einem Holzstößel oder Löffel zerdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhd8tp15rp7tugx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gläser zu 2/3 mit Crushed Ice befüllen, Himbeerpüree und Rum zugeben und mit Mineralwasser auffüllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhd8tp4wac0lugx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Mit einem Barlöffel verrühren, mit den restlichen Himbeeren und nach Wunsch mit Minze dekoriert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82pqhd8tp8ziubjdgx8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mit kaltem Minz- oder Grüntee statt Rum, hast Du im Nu noch eine tolle alkoholfreie Alternative gezaubert.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Virgin Himbeer Mojito</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqhzgu2cikd4v8fz" file_variant="master" position="1">Himbeer Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e62bfdf2276">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmql82o8912dsxyn7u" file_variant="master" position="1">Himbeer Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e62c001c007">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqmhak6u1la8ol8bu" file_variant="master" position="1">Himbeer Mojito</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e62c0220391">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jmqezft8k4jp177vq" file_variant="master" position="1">Himbeer Mojito</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

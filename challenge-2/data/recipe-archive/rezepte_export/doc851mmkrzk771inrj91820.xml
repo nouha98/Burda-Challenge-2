@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc851mmkrzk771inrj91820" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-19T16:14:25+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-19T16:19:08+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt84egenwrzoj1e3suj1q9j"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt850hkrr5tigz50dy18ed"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <Keywords topic="tmt6p3srkcepl0l5ev48m7"/>
+    <Keywords topic="tmt6owqja51r2c1cbprx8m5"/>
+    <Keywords topic="tmt6ow8qf9o06c74ueqhmp"/>
+    <Source topic="tmt851mora0zqt1l670k18d6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apfel-Gurken-Mojito","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":120},{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Snack-Gurken","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"Stück"},"prefix":null,"suffix":"(in Scheiben)"},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Gurken- und Limettenscheiben","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"weißer Rum","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"klarer Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.7,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"grünschaliger Apfel","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"2 Stunden vorher: Snack-Gurken waschen und längs in Scheiben schneiden. Mit dem Saft von 2 Limetten mischen. 1 Limette in Scheiben teilen. Alles kalt stellen."},{"headline":null,"content":"Zum Servieren: Einige Eiswürfel, Gurken- und Limettenscheiben auf die Gläser verteilen. Je 1 Zweig Minze und 1 TL braunen Zucker zugeben."},{"headline":null,"content":"Weißen Rum mit klarem Apfelsaft mischen und auf die Gläser verteilen. Mit Mineralwasser auffüllen."},{"headline":null,"content":"Grünschaligen Apfel waschen, in hauchdünne Scheiben schneiden und an den Glasrand stecken."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Apfel-Gurken-Mojito</Title>
+    <Headline position="1">Apfel-Gurken-Mojito</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-19T16:14:25+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="851mmmj9izs3j85s54y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6461" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" prefix="Snack" plural="Gurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="2" suffix="Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(in Scheiben)" plural="Limetten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">2 Stunden vorher</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="851mmn5r2khl090y54y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Minze" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" prefix="weißer" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt80gmyt880o1uqiv3gzt" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" plural="klarer Apfelsaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="0.7" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Mineralwasser" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="6" prefix="grünschaliger" plural="Äpfel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="851mmow81ib11g3k154y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Snack-Gurken waschen und längs in Scheiben schneiden. Mit dem Saft von 2 Limetten mischen. 1 Limette in Scheiben teilen. Alles kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">2 Stunden vorher</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851mmow86n7wfcji54y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Einige Eiswürfel, Gurken- und Limettenscheiben auf die Gläser verteilen. Je 1 Zweig Minze und 1 TL braunen Zucker zugeben. Weißen Rum mit klarem Apfelsaft mischen und auf die Gläser verteilen. Mit Mineralwasser auffüllen. Grünschaligen Apfel waschen, in hauchdünne Scheiben schneiden und an den Glasrand stecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Zum Servieren</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apfel-Gurken-Mojito mit frischer Minze, Limetten, weißem Rum, Apfelsaft und sprudelndem Mineralwasser</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc846covpokvo187ap3an4" file_variant="master" position="1">Apfel-Gurken-Mojito mit frischer Minze, Limetten, weißem Rum, Apfelsaft und sprudelndem Mineralwasser</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

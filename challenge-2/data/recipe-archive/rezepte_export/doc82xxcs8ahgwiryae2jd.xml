@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xxcs8ahgwiryae2jd" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-23T09:17:59+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-23T09:22:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="10" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeerlimonade","recipe_seo_headline":"Himbeerlimonade – der fruchtige Sommerdrink!","servings":{"amount":10.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":"(frisch oder TK)"},{"amount":200,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"Einige","amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"},{"amount":null,"amountTo":null,"ingredient_name":"Frische Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"}]}],"preparation":[{"headline":null,"content":"Für die Himbeerlimonade die Himbeeren ggf. waschen und verlesen. In einen Topf geben, Zitronensaft und Zucker hinzufügen und mit Wasser aufgießen. Bei niedriger bis mittlerer Hitze etwa 10-15 Minuten ohne Deckel köcheln lassen, bis die Himbeeren sehr weich sind und der Zucker sich komplett aufgelöst hat. Vom Herd nehmen und vollständig abkühlen lassen. Anschließend durch ein feines Sieb streichen. Der Himbeer-Sirup hält sich im Kühlschrank etwa 2 Wochen!"},{"headline":null,"content":"Zum Servieren die Limetten vierteln und in Scheiben schneiden. Die Gläser zu etwa 1/5 mit dem abgekühlten Sirup befüllen. Mit Mineralwasser auffüllen und gut umrühren. Die Himbeerlimonade nach Belieben mit Eiswürfeln und frischer Minze garnieren. Lass es dir schmecken!"}],"recipe_tips":[{"headline":"Himbeerlimonade mit Rosmarin","content":"Himbeerlimonade mal anders – probiere doch mal die erfrischende Variante mit Rosmarin! Dafür kochst du einfach etwa zwei Rosmarinzweige zusammen mit den Himbeeren auf und lässt den Sirup danach kurz ziehen. Anschließend die Zweige entfernen und den Sirup genießen. So lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Himbeerlimonade</Title>
+    <CustomRecipeSeoTitle position="1">Himbeerlimonade – der fruchtige Sommerdrink!</CustomRecipeSeoTitle>
+    <Headline position="1">Himbeerlimonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-23T09:17:59+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xxcqc9qauyva102jd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(optional)" position="8" prefix="frische" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(frisch oder TK)" plural="Himbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Mineralwasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="Einige" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(optional)" plural="Eiswürfel" position="7" prefix="Einige" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xxcs8a7zmz9d9q2jd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Himbeeren ggf. waschen und verlesen. In einen Topf geben, Zitronensaft und Zucker hinzufügen und mit Wasser aufgießen. Bei niedriger bis mittlerer Hitze etwa 10-15 Minuten ohne Deckel köcheln lassen, bis die Himbeeren sehr weich sind und der Zucker sich komplett aufgelöst hat. Vom Herd nehmen und vollständig abkühlen lassen. Anschließend durch ein feines Sieb streichen. Der Himbeer-Sirup hält sich im Kühlschrank etwa 2 Wochen!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Himbeerlimonade </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xxcs8adihj2azm2jd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Limetten vierteln und in Scheiben schneiden. Die Gläser zu etwa 1/5 mit dem abgekühlten Sirup befüllen. Mit Mineralwasser auffüllen und gut umrühren. Die Himbeerlimonade nach Belieben mit Eiswürfeln und frischer Minze garnieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Zum Servieren </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82xxcs8ads4albef2jd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Himbeerlimonade mal anders – probiere doch mal die erfrischende Variante mit Rosmarin! Dafür kochst du einfach etwa zwei Rosmarinzweige zusammen mit den Himbeeren auf und lässt den Sirup danach kurz ziehen. Anschließend die Zweige entfernen und den Sirup genießen. So lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Himbeerlimonade mit Rosmarin</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpo14sxkjm24ehodu" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f9d79e7358e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpnwxpsvb1d0rk9odu" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f9d79fd4bc3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpntbzxp2i31b2iee" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

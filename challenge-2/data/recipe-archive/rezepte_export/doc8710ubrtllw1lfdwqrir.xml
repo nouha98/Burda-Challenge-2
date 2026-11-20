@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8710ubrtllw1lfdwqrir" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-05T16:00:02+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-08-05T16:07:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <Creator topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <Keywords topic="tmt6owqf5l94tw26sv8m2"/>
+    <Keywords topic="tmt6p2ck432c8xa8x7w8ma"/>
+    <Keywords topic="tmt6ow9uzjs3sovcdgh8mb"/>
+    <CopyrightNotice position="1">Kürbis-Pasta mit Feta und Walnüssen
+13292089</CopyrightNotice>
+    <CustomRecipeNutritionalValueCalories position="1">730</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">81</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">23</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">35</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kürbis-Pasta mit Feta und Walnüssen </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-05T16:00:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7551" position="1" amount="140" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kürbisfruchtfleisch"/>
+      <CustomRecipeIngredient topic="tmt7zfs3ls179yitds7lr0" position="2" amount="2" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" plural="Eier (Gr. M)"/>
+      <CustomRecipeIngredient topic="tmt7vjcqx18u9ku9ne3ja2" position="3" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="Typ 00" plural="Pizzamehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6581" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Hartweizenmehl"/>
+      <CustomRecipeIngredient topic="tmt7ftmf6pepev1a6juq50l" position="5" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Kurkumapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" position="8" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Walnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" position="9" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Feta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="10" amount="3" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="11" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="12" amount="30" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7396" position="13" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Koriandersamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" position="14" amount="2" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Chiliflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="15" prefix="bunter" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="16" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gehackte" plural="Petersilie"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Nudelteig den Kürbis weich dämpfen, pürieren und abkühlen lassen. 
+Mit den restlichen Zutaten zu einem geschmeidigen, aber eher festen Teig verkneten. Am besten in einer Küchenmaschine, danach noch 5 Minuten per Hand. In Frischhaltefolie gewickelt 2 Stunden in den Kühlschrank stellen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a7342ed8c55d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Walnusskerne grob hacken. Feta in Scheiben schneiden, Knoblauch abziehen und fein würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a7342f435850">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Aus dem Teig mithilfe einer Nudelmaschine Bandnudeln herstellen. In kochendem Salzwasser 2-3 Minuten garen, dann kalt abspülen und gut abtropfen lassen. 
+Butter und Olivenöl in einer großen Pfanne erhitzen, den Knoblauch und den Koriander darin anbraten. Mit Nudeln und Walnüssen verschwenken. Mit Salz, Chiliflocken und buntem Pfeffer würzen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a7342fac94c2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Pasta auf Tellern anrichten, Feta darauf verteilen, mit Pfeffer übermahlen und mit Petersilie bestreuen.
+
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Ohne Nudelmaschine den Teig portionsweise auf bemehlter Arbeitsfläche dünn ausrollen und mit einem Messer in Bandnudeln schneiden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Schall, Ewgenija</ImageCredit>
+      <DocumentRef doc_id="doc7g4tg5c6cvo1cb99s228" file_variant="master" position="1">K rbis-Pasta mit Feta und Waln ssen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

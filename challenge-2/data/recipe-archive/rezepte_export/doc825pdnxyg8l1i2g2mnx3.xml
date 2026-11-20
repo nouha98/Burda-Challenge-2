@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825pdnxyg8l1i2g2mnx3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T11:06:31+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-29T11:10:16+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Stachelbeermarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Garen","duration":15},{"name":"Ruhen/Warten","duration":1440}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1000,"amountTo":null,"ingredient_name":"Stachelbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"(2:1)"}]}],"preparation":[{"headline":null,"content":"Stachelbeeren waschen, trocken tupfen und das trockene braune Ende entfernen."},{"headline":null,"content":"Zusammen mit Apfelsaft und Zitronensaft in einem Topf aufkochen. Mit einem Deckel verschließen und 5 Minuten bei mittlerer Hitze köcheln lassen."},{"headline":null,"content":"Gelierzucker zugeben und die Früchte 5 Minuten sprudelnd kochen. Masse mit einem Stabmixer pürieren. Nach Belieben durch ein grobes Sieb streichen, um die Kerne zu entfernen."},{"headline":null,"content":"Heiße Marmelade in vorbereitete Gläser (á 350 ml) füllen und über Nacht ruhen lassen."}],"recipe_tips":[{"headline":"Etwas rötlicher gefällig","content":"Dann ersetze 150 g der Stachelbeeren durch Johannisbeeren oder Himbeeren."}]}</CustomStructuredRecipeJson>
+    <Title>Stachelbeermarmelade</Title>
+    <Headline position="1">Stachelbeermarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T11:06:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825pdn79fhfid93xnx3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10346" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Stachelbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Apfelsaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(2:1)" plural="Gelierzucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825pdnxy40kqrkfjnx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Stachelbeeren waschen, trocken tupfen und das trockene braune Ende entfernen. Zusammen mit Apfelsaft und Zitronensaft in einem Topf aufkochen. Mit einem Deckel verschließen und 5 Minuten bei mittlerer Hitze köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825pdnxy82u1f68ylnx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gelierzucker zugeben und die Früchte 5 Minuten sprudelnd kochen. Masse mit einem Stabmixer pürieren. Nach Belieben durch ein grobes Sieb streichen, um die Kerne zu entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825pdnxy86w1bmu7inx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Heiße Marmelade in vorbereitete Gläser (á 350 ml) füllen und über Nacht ruhen lassen. Tipp: Koche die Gläser vorher mit heißem Wasser ab, um sie zu sterilisieren. So hält sie sich, kühl und dunkel gelagert, mindestens 3 Monate.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="825pdnxy8ag1a6te4nx3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dann ersetze 150 g der Stachelbeeren durch Johannisbeeren oder Himbeeren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Etwas rötlicher gefällig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mrd2f16yo1ed010fu0" file_variant="master" position="1">Stachelbeer_Marmelade_19633.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b16e7618e1b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mrd2lm3iofffk79fn" file_variant="master" position="1">Stachelbeer_Marmelade_18714.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b16e7766dab">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81mrd3qgnhk1kf8vafps" file_variant="master" position="1">Stachelbeer_Marmelade_19630.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

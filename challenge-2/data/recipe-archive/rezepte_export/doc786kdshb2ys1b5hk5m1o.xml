@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786kdshb2ys1b5hk5m1o" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T04:57:30+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2025-12-12T10:07:10+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <LastEditedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <Source topic="tmt83nnn0f7wiavafbjay0"/>
+    <CustomCenshareId>654479</CustomCenshareId>
+    <Title position="1">Mit Gemüsereis gefüllte Kohlrabi</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">330</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1390</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">28</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">13</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">16</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>1039329</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>883172</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>816268</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Mit Gemüsereis gefüllte Kohlrabi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T11:46:44+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="44e5bd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" amount="4" unit_topic="tm_topic_default_unit" prefix="mittelgroße" position="1" unit="(Keine Einheit)" plural="Kohlrabi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="2" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5131" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Brokkoli"/>
+      <CustomRecipeIngredient topic="tmt782p5b1mhmd143hkc8gz" amount="1" unit_topic="tm_topic_default_unit" position="4" unit="(Keine Einheit)" plural="rote Paprikaschote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit_topic="tm_topic_default_unit" position="5" unit="(Keine Einheit)" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt782lq002vxe1k7tzm8gz" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Risotto-Reis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" amount_max="3" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="750" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7891" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Dose)" position="9" unit="g" plural="Maiskörner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="geriebener" position="10" unit="g" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="geraspelter" position="11" unit="g" plural="Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" unit_topic="tm_topic_default_unit" position="12" unit="(Keine Einheit)" plural="Cayennepfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9586" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(sehr scharfe indonesische Chilipaste)" position="13" unit="TL" plural="Sambal Oelek"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="44e62e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kohlrabi putzen und schälen. Jeweils oberes Viertel abschneiden und klein würfeln. Die Kohlrabi aushöhlen (am besten mit einem Kugelausstecher). Ausgehöhltes Fruchtfleisch klein würfeln. Die ausgehöhlten Kohlrabi in kochendem Salzwasser 10–15 Minuten vorgaren, in kaltem Wasser abschrecken und umgedreht abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="44e641">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Brokkoli putzen. Paprika halbieren und entkernen. Beides klein würfeln. Schalotten abziehen, würfeln und mit Reis, Paprika und gewürfeltem Kohlrabi im Olivenöl kurz andünsten. 500 ml Brühe angießen. Bei mittlerer Hitze und gelegentlichem Rühren ca. 15 Minuten garen. Brokkoli und Mais hinzufügen und 5–6 Minuten weitergaren, bis Reis und Gemüse gar sind, aber noch Biss haben. Jeweils die Hälfte von jeder Käse­sorte untermischen, alles mit Salz und Cayennepfeffer würzig abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="44e653">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Gemüsereis in die vorgegarten Kohlrabi füllen, diese auf ein tiefes Blech setzen. Restliche Brühe (250 ml) mit Sambal Oelek verrühren, dazugießen. Rest Käse über die Kohl­rabi streuen. Kohlrabi im vorgeheizten Ofen ca. 25 Minuten gratinieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc786kd591g5j3a12d7t3" file_variant="censhare_667367_last" position="1">667367-master-first.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bc49njidxdbzbc3ao" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T11:46:44+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_654479</displayname>
+      <doc_id id="doc786kdshb2ys1b5hk5m1o"/>
+      <hash>d5f526a45bc9526b8f20a06e45529a85</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T11:46:44+01:00</modified>
+      <size>5306</size>
+      <subpath>2019/12-08/10/e0/file78bc49njidxdbzbc3ao.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82wepen64761dlvgeybx" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-20T10:23:39+02:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2026-01-26T09:48:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <Source topic="tmt82x1wch3itd1h9c49ego"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Milchreis mit Mango und Cookies","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":null}],"difficulty":null,"price":null,"nutritions":{"calories":710,"kilojoule":2972,"carbonhydrates":95,"fat":27,"protein":10,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":220,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":"zum Kochen (z. B. von Dr. Oetker)"},{"amount":200,"amountTo":null,"ingredient_name":"Kokosmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mango","unit":{"name":"g"},"prefix":"tiefgekühlte","suffix":"-würfel"},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Schoko-Cookies","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Milchreis mit Kokosmilch und Milch aufkochen, beiseitestellen und 10 Minuten ziehen lassen."},{"headline":null,"content":"Mango antauen lassen, 1/3 der Mango kleiner würfeln und zum Garnieren beiseitestellen."},{"headline":null,"content":"Butter in einer Pfanne erhitzen. Übrige Mango darin mit Agavendicksaft und 1 Prise Salz köcheln lassen. Minze in Streifen schneiden, ins Mangokompott rühren."},{"headline":null,"content":"Kekse zerbröseln, die Hälfte auf die Gläser verteilen. Milchreis und etwas Mangokompott abwechselnd darauf schichten. Mit den übrigen Keksbröseln und beiseitegelegten Mangowürfeln garnieren. Restliches Mangokompott dazustellen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Milchreis mit Mango und Cookies</Title>
+    <CustomRecipeNutritionalValueCalories position="1">710</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">95</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">27</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Milchreis-Mango-Trifle</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-20T10:23:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82wepgru5gz1ebq9bp8m">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="tiefgekühlte" suffix="-würfel" plural="Mangos" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="2" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" suffix="Mischung (à 125 g, Fertigprodukt z. B. von Dr. Oetker)" plural="Milchreis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7326" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kokosmilch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Agavendicksaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="4" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Minze" position="7"/>
+      <CustomRecipeIngredient topic="tmt7kg34etqli01n4l28eq" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" plural="Cookies" prefix="Schoko-"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_68f79847b31d9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="1" plural="Salz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82wepkrbzmb1ham14p8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milchreis nach Packungsangabe mit Kokosmilch und Milch aufkochen, beiseitestellen und 10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wepkrc2dd17a8lzp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mango antauen lassen, 1/3 der Mango kleiner würfeln und zum Garnieren beiseitestellen. Butter in einer Pfanne erhitzen. Übrige Mango darin mit Agavendicksaft und 1 Prise Salz köcheln lassen. Minze in Streifen schneiden, ins Mangokompott rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wepkrc2hk50pgvp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kekse zerbröseln, die Hälfte auf die Gläser verteilen. Milchreis und etwas Mangokompott abwechselnd darauf schichten. Mit den übrigen Keksbröseln und beiseitegelegten Mangowürfeln garnieren. Restliches Mangokompott dazustellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganer Kokos-Milchreis mit Fruchtmix</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc82g54i2td1hbsa7sddu" file_variant="master" position="1">Veganer Kokos-Milchreis mit Fruchtmix</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f798a2f348f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zutaten für veganen Kokos-Milchreis mit Fruchtmix</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">StockFood Studios / Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc82g54jzkrkm10pfmlddu" file_variant="master" position="1">Zutaten für veganen Kokos-Milchreis mit Fruchtmix</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

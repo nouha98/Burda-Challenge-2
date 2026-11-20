@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84ll1gior941fxbueghx" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-16T10:50:34+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-16T10:59:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="6" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Speckpfannkuchen","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":20},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Stange"},"prefix":"einige","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Stiel"},"prefix":"einige","suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Speck","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"frisch gemahlener","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl und ½ TL Salz in einer großen Schüssel mischen. Milch und Eier zugeben, zu einem glatten Teig verrühren und 10 Minuten quellen lassen."},{"headline":null,"content":"Kräuter waschen, abtropfen lassen, Schnittlauch in Ringe schneiden, Petersilienblätter abzupfen und fein hacken. Speckscheiben in jeweils 4 Stücke schneiden."},{"headline":null,"content":"Eine Pfanne (ca. Ø 20 cm) erhitzen, Speck zugeben und ca. 2 Minuten bei mittlerer Hitze auslassen. Mit Salz und Pfeffer würzen, aus der Pfanne nehmen und auf einem Küchenpapier abtropfen lassen."},{"headline":null,"content":"Schnittlauch unter den Teig heben und mit Mineralwasser verrühren. Ca. 1 TL Butter in die Pfanne geben und 1/6 des Teiges, mit Hilfe einer Kelle, in die heiße Pfanne geben."},{"headline":null,"content":"Mit jeweils 8 Speckstücken belegen, kurz stocken lassen, Pfannkuchen wenden und fertig garen. Auf diese Weise nacheinander insgesamt 6 goldgelbe Pfannkuchen ausbacken."},{"headline":null,"content":"Pfannkuchen mit Petersilie bestreuen und nach Wunsch mit grünem Salat servieren."}],"recipe_tips":[{"headline":"Meal Prep","content":"Ich bereite mir aus übrig gebliebenen Speckpfannkuchen einen leckeren Snack für die Mittagspause vor: mit Senf und Sauerrahm bestrichen, mit Cornichons und Salat belegt und zu einem Wrap aufgerollt."}]}</CustomStructuredRecipeJson>
+    <Title>Speckpfannkuchen</Title>
+    <Headline position="1">Speckpfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-16T10:50:34+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84ll1eks6s5gzq8ighx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Weizenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Schnittlauch" position="5" amount="10" suffix="(nach Wunsch mehr oder weniger)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Petersilie" position="6" amount="5" suffix="(nach Wunsch mehr oder weniger)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10261" amount="12" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Speck" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch gemahlener" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84ll1giolude54ijghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl und Salz in einer großen Schüssel mischen. Milch und Eier zugeben, zu einem glatten Teig verrühren und 10 Minuten quellen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ll1gioods9vt58ghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Kräuter waschen, abtropfen lassen, Schnittlauch in Ringe schneiden, Petersilienblätter abzupfen und fein hacken. Alle Speckscheiben vierteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ll1giooio94c4wghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eine Pfanne (ca. Ø 20 cm) erhitzen, Speckstücke zugeben und ca. 2 Minuten bei mittlerer Hitze auslassen. Mit Salz und Pfeffer würzen, aus der Pfanne nehmen und auf einem Küchenpapier abtropfen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ll1gioolv14oqepghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Schnittlauch unter den Teig heben und mit Mineralwasser verrühren. Etwas Butter in die Pfanne geben, erhitzen und 1/6 des Teiges mit Hilfe einer Kelle in die heiße Pfanne geben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ll1gioopj12i9prghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Teig mit etwa 8 Speckstücken belegen, kurz stocken lassen, Pfannkuchen wenden und fertig garen. Auf diese Weise nacheinander goldgelbe Pfannkuchen aus dem Pfannkuchen-Teig ausbacken (siehe obige Stückzahl). </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84ll1giooso18w38eghx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Pfannkuchen mit Petersilie bestreuen und nach Wunsch mit grünem Salat servieren. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84ll1gioowim7m95ghx">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ich bereite mir aus übrig gebliebenen Speckpfannkuchen einen leckeren Snack für die Mittagspause vor: Pfannkuchen mit Senf und Sauerrahm bestreichen, mit Cornichons und Salat belegen und zu einem Wrap aufrollen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Meal Prep</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8445fwn98gil40qgjm7" file_variant="master" position="1">Speckpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6992ea77348da">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8445g2rkob811sphgjm7" file_variant="master" position="1">Speckpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6992ea792e413">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8445fyareg8hpp3912bl" file_variant="master" position="1">Speckpfannkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6992ea7ada618">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8445g1avnuwqs3kw12bk" file_variant="master" position="1">Speckpfannkuchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

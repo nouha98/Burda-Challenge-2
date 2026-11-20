@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88asax3tgf91envzzbyh" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-02T16:31:15+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-11-02T17:28:11+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-entr"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <Source topic="tmt88asyc5ox5hjsdjpcbc"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gebratener Spargel mit Knusperfilet","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":60}],"difficulty":null,"price":null,"nutritions":{"calories":425,"kilojoule":1779,"carbonhydrates":17,"fat":22,"protein":40,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"weißer Spargel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"grüner Spargel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Schweinefilets","unit":{"name":"Stück"},"prefix":null,"suffix":"à 150 g"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Panko-Brösel","unit":{"name":"EL"},"prefix":null,"suffix":"(ersatzweise Semmelbrösel)"},{"amount":1.5,"amountTo":null,"ingredient_name":"glatte Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Radieschen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"grobkörniger Senf","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Ofen auf 120 Grad (Umluft 100 Grad) vorheizen. Spargel waschen. Weißen Spargel ganz, grünen im unteren Viertel schälen. Holzige Enden abschneiden. Filets abtupfen, salzen und pfeffern. In einer Pfanne in Öl 5–6 Minuten rundum anbraten. Auf ein Blech legen. Im Ofen ca. 25 Minuten fertig garen."},{"headline":null,"content":"2 EL Butter in der Pfanne erhitzen. Erst den weißen, dann den grünen Spargel darin jeweils 6–8 Minuten braten. Würzen. Zum Fleisch auf das Blech geben und mitgaren."},{"headline":null,"content":"Brösel in einer Pfanne in 2 EL Butter goldbraun und kross rösten. Abkühlen lassen. Petersilie abbrausen, abtupfen und grob hacken. Die Hälfte davon mit den Bröseln mischen. Schmand und übrige Petersilie mit einem Stabmixer pürieren. Mit 2 EL Zitronensaft, Salz und Pfeffer abschmecken."},{"headline":null,"content":"Radieschen abbrausen, putzen und in Scheiben schneiden. Mit Salz, 1 EL Zitronensaft und 1 EL Öl mischen. Die Filets herausnehmen, mit Senf bestreichen und in der Bröselmischung wälzen. Mit Spargel, Radieschen und Petersilienschmand anrichten."}],"recipe_tips":[{"headline":null,"content":"Dazu passen Herzoginkartoffeln."}]}</CustomStructuredRecipeJson>
+    <Title>Gebratener Spargel mit Knusperfilet</Title>
+    <CustomRecipeNutritionalValueCalories position="1">425</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1779</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">17</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">40</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Gebratener Spargel mit Knusperfilet</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-02T16:31:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88asays8es57gzevjrh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10251" position="1" prefix="je 500 g weißer &amp; grüner " plural="Spargel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9906" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="à 150 g" position="2" plural="Schweinefilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt7lqdt5nj16t14lpvif8c" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ersatzweise Semmelbrösel)" plural="Panko-Brösel" position="7"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" amount="1.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" position="8" plural="glatte Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9031" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Radieschen" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="12" plural="Senf" prefix="grobkörniger"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88asb4fdk87xxzsojrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 120 Grad (Umluft 100 Grad) vorheizen. Spargel waschen. Weißen ganz, grünen im unteren Viertel schälen. Holzige Enden abschneiden. Filets abtupfen, salzen und pfeffern. In einer Pfanne in Öl 5–6 Min. rundum anbraten. Auf ein Blech legen. Im Ofen ca. 25 Min. fertig garen. 2 EL Butter in der Pfanne erhitzen. Erst den weißen, dann den grünen Spargel darin in je 6–8 Min. braten. Würzen. Zum Fleisch auf das Blech geben und mitgaren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88asb4fduc716qex8jrh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Brösel in einer Pfanne in 2 EL Butter goldbraun und kross rösten. Abkühlen. Petersilie abbrausen, abtupfen und grob hacken. Die Hälfte davon mit Bröseln mischen. Schmand und übrige Petersilie mit einem Stabmixer pürieren. Mit 2 EL Zitronensaft, Salz und Pfeffer abschmecken. Radieschen abbrausen, putzen und in Scheiben schneiden. Mit Salz, 1 EL Zitronensaft und 1 EL Öl mischen. Die Filets herausnehmen. Mit Senf bestreichen. In der Bröselmischung wälzen. Mit Spargel, Radieschen und Petersilienschmand anrichten. Evtl. garnieren. Dazu passen Herzoginkartoffeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="88asb4fdupv1hm1apjrh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84lkhz4qh7m84t77jms" file_variant="master" position="1">Gebratener Spargel mit Knusperfilet vom Schwein</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

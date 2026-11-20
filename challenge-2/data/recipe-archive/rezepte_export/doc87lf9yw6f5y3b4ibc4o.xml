@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87lf9yw6f5y3b4ibc4o" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-14T08:54:09+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-09-14T09:02:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <Source topic="tmt87lfdzl7rf619esxq1hm6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rucola-Salat mit Feta","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Rucola","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Balsamico","unit":{"name":"EL"},"prefix":null,"suffix":"hell"},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":"schwarz"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":"(oder vegetarische bzw. vegane Alternative)"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Rucola waschen, trockenschleudern und ggfs. etwas klein schneiden. Kirschtomaten waschen und halbieren."},{"headline":null,"content":"Balsamico, Senf und Honig verquirlen, das Olivenöl unterschlagen und mit Pfeffer und etwas Salz abschmecken."},{"headline":null,"content":"Vollkornbrot-Scheiben im Toaster anrösten. Rucola und Kirschtomaten in einer Schüssel vermengen, das Dressing unterheben. Den Fetakäse über den Salat bröseln und sofort mit den gerösteten Brotscheiben servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Rucola-Salat mit Feta</Title>
+    <Headline position="1">Rucola-Salat mit Feta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-14T08:54:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87lf9uo27o5rwnkwc4o">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rucola" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4751" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="hell" plural="Balsamico" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="schwarz" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(oder vegetarische bzw. vegane Alternative)" plural="Feta" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87lf9yobozl9ixa2c4o">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87lf9yw69051d76yqc4o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rucola waschen, trockenschleudern und ggfs. etwas klein schneiden. Kirschtomaten waschen und halbieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87lf9yw6eco3fr67c4o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Balsamico, Senf und Honig verquirlen, das Olivenöl unterschlagen und mit Pfeffer und etwas Salz abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87lf9yw6ei9gwq0gc4o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vollkornbrot-Scheiben im Toaster anrösten. Rucola und Kirschtomaten in einer Schüssel vermengen, das Dressing unterheben. Den Fetakäse über den Salat bröseln und sofort mit den gerösteten Brotscheiben servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rucola-Salat mit Feta</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiyob2yn801ecxpudqo" file_variant="master" position="1">RucolaSalat2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6aa79c1177184">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rucola-Salat mit Feta Step</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiyq6jlxsowizqo3r7" file_variant="master" position="1">RucolaSalat_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6aa79c13af03c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rucola-Salat mit Feta</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiyna17k38113ql13r7" file_variant="master" position="1">RucolaSalat1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

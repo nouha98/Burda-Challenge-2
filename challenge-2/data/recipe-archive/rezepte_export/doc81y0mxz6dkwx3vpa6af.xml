@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81y0mxz6dkwx3vpa6af" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-14T12:02:45+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-14T12:40:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kaki Dessert","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kaki Früchte","unit":{"name":"Stück"},"prefix":"reife","suffix":"(ca. 350 g) Ersatzweise 3 Sharon-Früchte"},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":"(ca. 40 g)"},{"amount":250,"amountTo":null,"ingredient_name":"griechischer Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleessenz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"zum Garnieren"}]},{"headline":"Weihnachtliche Variante","ingredients":[{"amount":2,"amountTo":3,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Spekulatius-Kekse","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Sternanis, Kaki-Sterne und/oder Spekulatiusbrösel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Früchte waschen und trocken tupfen. Mit einem Sparschäler schälen, holzigen Strunk entfernen bzw. herausschneiden. ¼ einer Frucht zum Garnieren beiseitelegen. Übrige Kakis mit einem Messer in grobe Stücke schneiden, in eine hohen Pürierbecher geben. Zitronensaft zugeben und mit einem Pürierstab zu einem feinen Mus pürieren."},{"headline":null,"content":"Sahne mit Zucker in einer Rührschüssel steif schlagen. Joghurt und Vanilleessenz zugeben und verrühren. Die Hälfte der Creme auf vier saubere Dessertgläser (á 250 ml) füllen. Die Hälfte des Kaki-Pürees darauf verteilen. Übrige Quarkcreme vorsichtig darauf verteilen. Übriges Püree darauf geben. Beiseite gelegte Kaki in Würfel schneiden und das Dessert damit ausgarnieren. Nach Belieben mit Minze verzieren."}],"recipe_tips":[{"headline":"Weihnachtliche Variante mit Spekulatius","content":"Perfekt als Weihnachtsdesserts. Schichte unten in die Gläser Spekulatiusbrösel. Schichte die mit Zimt verfeinerte Creme und Püree ein und dekoriere das Dessert mit ausgestochenen Weihnachtsmotiven aus Kakischeiben."}]}</CustomStructuredRecipeJson>
+    <Title>Kaki Dessert</Title>
+    <Headline position="1">Kaki Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-14T12:02:45+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81y0mvezrx11324x6af">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6971" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="reife" suffix="(ca. 350 g) Ersatzweise 3 Sharon-Früchte" position="1" plural="Kakis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="zum Garnieren" plural="Minze" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ca. 40 g)" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="griechischer Joghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt7hma0sckufn1c7ewzp5n" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Vanilleessenz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81y0mxz6cnmtiaeu6af">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Kaki-Schicht Früchte waschen und trocken tupfen. Mit einem Sparschäler schälen, holzigen Strunk entfernen bzw. herausschneiden. ¼ einer Frucht zum Garnieren beiseitelegen. Übrige Kakis mit einem Messer in grobe Stücke schneiden, in eine hohen Pürierbecher geben. Zitronensaft zugeben und mit einem Pürierstab zu einem feinen Mus pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y0mxz6cwg1lxv6k6af">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Creme-Schicht Sahne mit Zucker in einer Rührschüssel steif schlagen. Joghurt und Vanilleessenz zugeben und verrühren. Die Hälfte der Creme auf vier saubere Dessertgläser (á 250 ml) füllen. Die Hälfte des Kaki-Pürees darauf verteilen. Übrige Quarkcreme vorsichtig darauf verteilen. Übriges Püree darauf geben. Beiseite gelegte Kaki in Würfel schneiden und das Dessert damit ausgarnieren. Nach Belieben mit Minze verzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81y0mxz6d0w13xtuk6af">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Perfekt als Weihnachtsdesserts. Schichte unten in die Gläser Spekulatiusbrösel. Schichte die mit Zimt verfeinerte Creme und Püree ein und dekoriere das Dessert mit ausgestochenen Weihnachtsmotiven aus Kakischeiben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Weihnachtliche Variante mit Spekulatius</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3mcecceo12qn60acb" file_variant="master" position="1">Kaki_Dessert_22668.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689dbcedb1bea">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3manbc1x8vwjg9xl" file_variant="master" position="1">Kaki_Dessert_22018.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689dbcefeb5c7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3kif2doj1m4ug2ptx" file_variant="master" position="1">Kaki_Dessert_21992.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689dbcf22d399">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3kjpwzic146z1bp2t" file_variant="master" position="1">Kaki_Dessert_22662.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689dbcf3e463b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3m9fgu1k816nrqat" file_variant="master" position="1">Kaki_Dessert_Weihnachten_22701.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_689dbcf61ce1d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCredit position="6">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81f3kkoii5lf30bsa03" file_variant="master" position="1">Kaki_Dessert_Weihnachten_22694.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

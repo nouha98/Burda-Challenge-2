@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x0ew6bktdsisbc1t9g" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T13:02:49+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-12T13:08:16+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="480"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ingwermarmelade","recipe_seo_headline":"Ingwermarmelade – perfekt zur englischen Tea Time","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Ruhen/Warten","duration":480}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Weißwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":700,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"(2:1)"}]}],"preparation":[{"headline":null,"content":"Ingwer waschen, abtrocknen und schälen. Mit Zitronensaft beträufeln und kühlstellen. Weißwein mit dem Zitronensaft in einen Topf geben und Ingwerschale hinzufügen. Für 30 Minuten leicht köcheln lassen. Danach über Nacht ziehen lassen."},{"headline":null,"content":"Ingwer mit Hilfe einer Reibe feinreiben. Weißwein-Sud durch ein Sieb abgießen. Anschließend wieder in den Topf geben und die Ingwerstücke dazugeben, nochmals für 10 Minuten mit geschlossenem Deckel kochen."},{"headline":null,"content":"Gelierzucker einrühren und unter ständigem Rühren ca. 4 Minuten sprudelnd kochen lassen. Mache eine Gelierprobe: Gebe dafür einen Teelöffel Ingwermarmelade auf einen kleinen Teller, lass sie kurz erkalten. Sie sollte dabei dicklich aussehen. Sollte sie zu flüssig aussehen, nochmals ein paar Sekunden kochen."},{"headline":null,"content":"Mit Hilfe eines Trichters in heiß ausgespülte Gläser füllen und sofort verschließen. Die Ingwermarmelade abkühlen lassen. Wenn die Marmelade in sterile Gläser gefüllt wurde, hält sie sich verschlossen bis zu einem Jahr."}],"recipe_tips":[{"headline":"Variante ohne Alkohol","content":"Du kannst die Marmelade auch mit Apfelsaft, statt mit Weißwein zubereiten."}]}</CustomStructuredRecipeJson>
+    <Title>Ingwermarmelade</Title>
+    <CustomRecipeSeoTitle position="1">Ingwermarmelade – perfekt zur englischen Tea Time</CustomRecipeSeoTitle>
+    <Headline position="1">Ingwermarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T13:02:49+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x0evl9huq57zod1t9g">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" amount="1000" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißwein" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(2:1)" plural="Gelierzucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x0ew6bbjkrbqho1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ingwer waschen, abtrocknen und schälen. Mit Zitronensaft beträufeln und kühlstellen. Weißwein mit dem Zitronensaft in einen Topf geben und Ingwerschale hinzufügen. Für 30 Minuten leicht köcheln lassen. Danach über Nacht ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Marmelade</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x0ew6beoh188ghy1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ingwer mit Hilfe einer Reibe feinreiben. Weißwein-Sud durch ein Sieb abgießen. Anschließend wieder in den Topf geben und die Ingwerstücke dazugeben, nochmals für 10 Minuten mit geschlossenem Deckel kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x0ew6beu9xkgxa1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gelierzucker einrühren und unter ständigem Rühren ca. 4 Minuten sprudelnd kochen lassen. Mache eine Gelierprobe: Gebe dafür einen Teelöffel Ingwermarmelade auf einen kleinen Teller, lass sie kurz erkalten. Sie sollte dabei dicklich aussehen. Sollte sie zu flüssig aussehen, nochmals ein paar Sekunden kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x0ew6bez7fpx751t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Mit Hilfe eines Trichters in heiß ausgespülte Gläser füllen und sofort verschließen. Die Ingwermarmelade abkühlen lassen. Wenn die Marmelade in sterile Gläser gefüllt wurde, hält sie sich verschlossen bis zu einem Jahr.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x0ew6bf4y1fxt6s1t9g">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Marmelade auch mit Apfelsaft, statt mit Weißwein zubereiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Variante ohne Alkohol</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ay86ze2rd1jelexrr2" file_variant="master" position="1">Ingwermarmelade2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689b208b21d8f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ay8aipywiz1gj3os7" file_variant="master" position="1">IngwermarmeladeStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Ingwer reiben</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_689b208d43450">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81ay8dj87yc2336lpg5" file_variant="master" position="1">IngwermarmeladeStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gelierprobe machen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_689b208e684e0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81ay8g4audw594oarr2" file_variant="master" position="1">Ingwermarmelade1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

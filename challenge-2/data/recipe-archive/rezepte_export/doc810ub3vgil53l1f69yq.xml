@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc810ub3vgil53l1f69yq" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-10T22:26:52+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-06-11T10:03:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="7"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Keywords topic="tmt6p4k6ykcic4gnowukmb"/>
+    <Keywords topic="tmt6ow8qezkmsx7sgbkdj9"/>
+    <Keywords topic="tmt6owqjg0sut01k5np48mb"/>
+    <Keywords topic="tmt7a9mpd6n2glrjeayg4h"/>
+    <Keywords topic="tmt6q8xmwxd7yf6uahxe14"/>
+    <Keywords topic="tmt6qg69cxw11j3fppf2ne"/>
+    <Keywords topic="tmt6p2cqzfdlswc2f5k8lz"/>
+    <Keywords topic="tmt6p3aubavlpc13sck48m1"/>
+    <Keywords topic="tmt6ow4lav1u2bzdq6yhh1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Mini Cookies","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Backen","duration":7}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Mini Cookies","ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"weißer Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe M)"},{"amount":175,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Schokotropfen","unit":{"name":"g"},"prefix":null,"suffix":"(Zartbitter, fein gehackt)"}]}],"preparation":[{"headline":null,"content":"Backofen auf 190 Grad Ober-/Unterhitze (Umluft 170 Grad) vorheizen. Ein Backblech (30x20 cm) mit Backpapier auslegen."},{"headline":"Für den Teig","content":"Die weiche Butter mit dem braunen Zucker, weißen Zucker und Vanillezucker cremig rühren. Das Ei nach und nach unterrühren. Das Mehl mit dem Natron und Salz in einer separaten Schüssel vermischen und zur Butter-Zucker-Ei Mischung hinzugeben. Nur kurz vermischen bis der Teig sich kombiniert hat."},{"headline":null,"content":"Die Schokotröpfchen auf einem Brett fein hacken und zuletzt zu dem Teig hinzugeben. Den Mini-Cookie Teig zu einer langen Teigrolle formen und mit einem Messer zu kleinen Portionen einteilen. Die Teigportion sollte nicht größer als eine 20 Cent Münze sein. Die Teigportionen jeweils zu einer kleinen Kugel formen und zwischen dem Zeigefinger und dem Daumen flach drücken. Die Mini-Cookies mit etwas Abstand zueinander auf das Backblech setzen und im vorgeheizten Backofen für 5-7 Minuten (je nach Größe) goldbraun backen. Die Mini-Cookies nach dem Backen komplett auskühlen lassen."}],"recipe_tips":[{"headline":null,"content":"Um auf Vorrat zu backen, kannst Du die doppelte Teigmenge vorbereiten und zu zwei Teigrollen formen. Eine Teigrolle kann dann tief gekühlt werden und nach Bedarf weiterverarbeitet und gebacken werden."}]}</CustomStructuredRecipeJson>
+    <Title>Mini Cookies</Title>
+    <Headline position="1">Mini Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-10T22:26:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="810uazubcv9uod249yq">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" prefix="brauner" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" prefix="weißer" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe M)" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="175" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1/2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9851" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Zartbitter, fein gehackt)" plural="Schokotropfen" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Mini Cookies</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="810ub3vfzxu4igs69yq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 190 Grad Ober-/Unterhitze (Umluft 170 Grad) vorheizen. Ein Backblech (30x20 cm) mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="810ub3vg65xtdg639yq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die weiche Butter mit dem braunen Zucker, weißen Zucker und Vanillezucker cremig rühren. Das Ei nach und nach unterrühren. Das Mehl mit dem Natron und Salz in einer separaten Schüssel vermischen und zur Butter-Zucker-Ei Mischung hinzugeben. Nur kurz vermischen bis der Teig sich kombiniert hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="810ub3vg9czd95i69yq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Schokotröpfchen auf einem Brett fein hacken und zuletzt zu dem Teig hinzugeben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68493816e7fe0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Mini-Cookie Teig zu einer langen Teigrolle formen und mit einem Messer zu kleinen Portionen einteilen. Die Teigportion sollte nicht größer als eine 20 Cent Münze sein. Die Teigportionen jeweils zu einer kleinen Kugel formen und zwischen dem Zeigefinger und dem Daumen flach drücken. Die Mini-Cookies mit etwas Abstand zueinander auf das Backblech setzen und im vorgeheizten Backofen für 5-7 Minuten (je nach Größe) goldbraun backen. Die Mini-Cookies nach dem Backen komplett auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="810ub3vg9k31aaby99yq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Um auf Vorrat zu backen, kannst Du die doppelte Teigmenge vorbereiten und zu zwei Teigrollen formen. Eine Teigrolle kann dann tief gekühlt werden und nach Bedarf weiterverarbeitet und gebacken werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc80uy59x5cs77fpykh7m" file_variant="master" position="1">MiniCookies2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68493840e650d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc80uy54165fa1cl1qxef3" file_variant="master" position="1">MiniCookies1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6849384312d5a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc80uy5fo9pw6u8chlh9t" file_variant="master" position="1">MiniCookies3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6849384521594">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc80uy4y7v1o6inxmnef3" file_variant="master" position="1">MiniCookiesStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68493846b14b0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc80uy4qfxicgrazsihbc" file_variant="master" position="1">MiniCookiesStep2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

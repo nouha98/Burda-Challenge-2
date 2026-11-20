@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83hyntkdbvs1idpogeaz" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T08:10:07+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-01T08:15:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zwiebelsoße","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 200 g)"},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":2,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"TL"},"prefix":null,"suffix":"(2-fach konzentriert)"},{"amount":150,"amountTo":null,"ingredient_name":"trockener Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Rotweinessig","unit":{"name":"Spritzer"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebeln abziehen, halbieren und in feine Streifen schneiden."},{"headline":null,"content":"Zwiebelstreifen in einem Topf in zerlassener Butter 2-3 Minuten dünsten. Mit Mehl bestäuben, Tomatenmark zugeben und 1 Minute mit dünsten."},{"headline":null,"content":"Mit Rotwein ablöschen, glattrühren, Gemüsebrühe zugeben und unter Rühren aufkochen. Soße ca. 15 Minuten köcheln bis sie sämig ist."},{"headline":null,"content":"Soße mit Salz, Pfeffer und Essig abschmecken und nach Wunsch mit Petersilie bestreut, z.B. zu kurzgebratenen Fleischgerichten servieren."}],"recipe_tips":[{"headline":"Champignon-Zwiebelsoße","content":"Verfeinere Deine Zwiebelsoße mit gebratenen Champignons und 100 ml Sahne und serviere Sie zu Spätzle oder Klößen."}]}</CustomStructuredRecipeJson>
+    <Title>Zwiebelsoße</Title>
+    <Headline position="1">Zwiebelsoße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T08:10:07+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83hynp886e8ccalxeaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 200 g)" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Weizenmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(2-fach konzentriert)" plural="Tomatenmark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" prefix="trockener" plural="Rotwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="8" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9376" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Rotweinessig" position="9" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="nach Wunsch" plural="Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83hyntkcpns1kitj3eaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln abziehen, halbieren und in feine Streifen schneiden. Zwiebelstreifen in einem Topf in zerlassener Butter 2-3 Minuten dünsten. Mit Mehl bestäuben, Tomatenmark zugeben und 1 Minute mit dünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83hyntkcwrsj0udeeaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit Rotwein ablöschen, glattrühren, Gemüsebrühe zugeben und unter Rühren aufkochen. Soße ca. 15 Minuten köcheln, bis sie sämig ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83hyntkcwvp1jsrtceaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Soße mit Salz, Pfeffer und Essig abschmecken und nach Wunsch mit Petersilie bestreut, z.B. zu kurzgebratenen Fleischgerichten, servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83hyntkcx021irb7zeaz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere Deine Zwiebelsoße mit gebratenen Champignons und 100 ml Sahne und serviere Sie zu Spätzle oder Klößen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Champignon-Zwiebelsoße</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9hjamovq1a0rv71jqb" file_variant="master" position="1">Zwiebelsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692d406f009c3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9h8n978mgsd608g4" file_variant="master" position="1">Zwiebelsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692d4070650e3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9htpiucj1iwv578g4" file_variant="master" position="1">Zwiebelsoße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692d4071ed7d5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9h06tylzoya3r1dlg" file_variant="master" position="1">Zwiebelsoße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

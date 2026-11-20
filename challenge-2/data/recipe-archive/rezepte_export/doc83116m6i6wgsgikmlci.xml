@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83116m6i6wgsgikmlci" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-29T09:23:36+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-29T09:28:20+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Panierte Putenschnitzel","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Putenschnitzel","unit":{"name":"Stück"},"prefix":null,"suffix":"(à ca. 160 g)"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":2,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"EL"},"prefix":null,"suffix":"(Type 405)"},{"amount":80,"amountTo":null,"ingredient_name":"Semmelbrösel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":"edelsüß","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Putenschnitzel kalt abwaschen, mit Küchenpapier trocken tupfen und zwischen zwei Backpapierbögen gleichmäßig plattieren."},{"headline":null,"content":"Eier mit einer Gabel in einer Schüssel oder einem tiefen Teller verquirlen. Mehl und Semmelbrösel separat auf je einem Teller verteilen."},{"headline":null,"content":"Die Schnitzel von beiden Seiten mit Salz, Pfeffer und Paprikapulver würzen und im Mehl wenden. Das überschüssige Mehl abklopfen, Putenschnitzel durch das Ei ziehen, am Tellerrand abstreifen und mit den Semmelbröseln panieren. Semmelbrösel leicht andrücken und die überschüssigen vorsichtig abklopfen."},{"headline":null,"content":"Sonnenblumenöl in einer großen Pfanne erhitzen. Schnitzel einlegen und von beiden Seiten, je nach dicke der Schnitzel, ca. 3 Minuten goldgelb braten."},{"headline":null,"content":"Schnitzel auf Küchenpapier abtropfen lassen und z.B. mit Kartoffelsalat und Zitrone servieren."}],"recipe_tips":[{"headline":"Mailänder Art","content":"Klassisch mit Kalbsfleisch zubereitet, schmeckt aber auch wunderbar mit Putenschnitzeln: einfach 2 EL gerieben Parmesan mit dem Semmelbrösel vermengen und die Schnitzel damit wie gewohnt panieren."}]}</CustomStructuredRecipeJson>
+    <Title>Panierte Putenschnitzel</Title>
+    <Headline position="1">Panierte Putenschnitzel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-29T09:23:36+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83116ks6xg59tlkhlci">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8991" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(à ca. 160 g)" plural="Putenschnitzel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(Type 405)" plural="Mehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Semmelbrösel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="6" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="edelsüß" plural="Paprikapulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83116m6hufn1laj8klci">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Putenschnitzel kalt abwaschen, mit Küchenpapier trocken tupfen und zwischen zwei Backpapierbögen gleichmäßig plattieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die panierten Putenschnitzel </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83116m6i3as1h92oulci">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eier mit einer Gabel in einer Schüssel oder einem tiefen Teller verquirlen. Mehl und Semmelbrösel separat auf je einem Teller verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83116m6i3gynpfzvlci">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Schnitzel von beiden Seiten mit Salz, Pfeffer und Paprikapulver würzen und im Mehl wenden. Das überschüssige Mehl abklopfen, Putenschnitzel durch das Ei ziehen, am Tellerrand abstreifen und mit den Semmelbröseln panieren. Semmelbrösel leicht andrücken und die überschüssigen vorsichtig abklopfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83116m6i3lcecr4xlci">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sonnenblumenöl in einer großen Pfanne erhitzen. Schnitzel einlegen und von beiden Seiten, je nach dicke der Schnitzel, ca. 3 Minuten goldgelb braten. Schnitzel dabei nur einmal wenden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83116m6i3pe1jihhflci">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Schnitzel auf Küchenpapier abtropfen lassen und z.B. mit Kartoffelsalat und Zitrone servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83116m6i3u11gqk3vlci">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Klassisch mit Kalbsfleisch zubereitet, schmeckt aber auch wunderbar mit Putenschnitzeln: einfach 2 EL gerieben Parmesan mit dem Semmelbrösel vermengen und die Schnitzel damit wie gewohnt panieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mailänder Art</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6901cf6d2722c">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit deine Putenschnitzel außen schön knusprig, aber innen noch zart sind, solltest du folgende Tipps beachten: Klopfe die Schnitzel nicht zu fest, aber so, dass sie überall eine gleichmäßige Dicke haben. Brate sie dann in ausreichend heißem Öl von beiden Seiten an. Das Fett hat die richtige Temperatur, wenn du einen Holzkochlöffelstiel hineinhälst und sich Bläschen bilden. Sehr dünne Schnitzel benötigen etwa 2-3 Minuten pro Seite, etwas dickere Scheiben etwa 4-5 Minuten. Behalte die Schnitzel dabei gut im Auge, sie sollten immer schön im Öl schwimmen, so dass du sie perfekt „ausbacken“ kannst.  </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Panierte Putenschnitzel richtig braten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n49ahhaaamt76h2eh" file_variant="master" position="1">Panierte Putenschnitzel</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6901d01e986b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n49c451xdv9tm42eh" file_variant="master" position="1">Panierte Putenschnitzel</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6901d02036be8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n498t6mlk1c7si2gb" file_variant="master" position="1">Panierte Putenschnitzel</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6901d02180bc5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n49f46i8ycoodi2gb" file_variant="master" position="1">Panierte Putenschnitzel</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6901d022b0de7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n49gzq90h118uz32g8" file_variant="master" position="1">Panierte Putenschnitzel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

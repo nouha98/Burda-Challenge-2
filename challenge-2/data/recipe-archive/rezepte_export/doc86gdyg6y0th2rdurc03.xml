@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86gdyg6y0th2rdurc03" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-26T12:08:02+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-30T10:47:47+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <Source topic="tmt86iewtpn3yxmwqp7eqg"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rphk12oxkodo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Socca – gefüllte Kichererbsenpfannkuchen","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":55},{"name":"Ruhen/Warten","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Kichererbsenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"rote Zwiebel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Tomaten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Blattsalat","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Koriander","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Hummus","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kichererbsenmehl mit 720 ml Wasser und 1 Prise Salz verrühren. Den Teig 30 Minuten quellen lassen."},{"headline":null,"content":"Inzwischen die Zwiebel abziehen, halbieren und in feine Halbringe schneiden. Mit dem Zitronensaft mischen."},{"headline":null,"content":"Tomaten und Blattsalat putzen. Die Tomaten in Spalten schneiden. Korianderblätter abzupfen und Blattsalat grob zerpflücken."},{"headline":null,"content":"Je 1 TL Öl in einer Pfanne erhitzen. Jeweils 1/4 des Teigs hineingeben und auf beiden Seiten in 8–10 Minuten goldbraun backen. Auf diese Weise nacheinander 4 Pfannkuchen backen."},{"headline":null,"content":"Die Pfannkuchen jeweils mit 2 EL Hummus bestreichen. Mit Tomaten, Zwiebeln, Koriander und Salat belegen, knapp zur Hälfte zusammenklappen und sofort servieren."}],"recipe_tips":[{"headline":null,"content":"Besonders aromatisch werden die Pfannkuchen, wenn der Teig vor dem Ausbacken noch mit etwas Kreuzkümmel, geräuchertem Paprikapulver oder fein gehackten Kräutern verfeinert wird."}]}</CustomStructuredRecipeJson>
+    <Title>Socca – gefüllte Kichererbsenpfannkuchen</Title>
+    <Headline position="1">Socca – gefüllte Kichererbsenpfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-26T12:08:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86gdyi5stvl4ly58oem">
+      <CustomRecipeIngredient topic="tmt7emhg6prtm01hg1i499k" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kichererbsenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="rote Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Tomaten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4946" amount="4" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Blattsalat" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Koriander" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Rapsöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt7dc92fi8o7dh75hi81e" amount="8" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Hummus" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86gdyl5g8mhg8k25oem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kichererbsenmehl mit 720 ml Wasser und 1 Prise Salz verrühren. Den Teig 30 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdyl5gazniqry9oem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Inzwischen die Zwiebel abziehen, halbieren und in feine Halbringe schneiden. Mit dem Zitronensaft mischen. Tomaten und Blattsalat putzen. Die Tomaten in Spalten schneiden. Korianderblätter abzupfen und Blattsalat grob zerpflücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdyl5gb6c7n94xoem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Je 1 TL Öl in einer Pfanne erhitzen. Jeweils 1/4 des Teigs hineingeben und auf beiden Seiten in 8–10 Minuten goldbraun backen. Auf diese Weise nacheinander 4 Pfannkuchen backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdyl5gbc8104im1oem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Pfannkuchen jeweils mit 2 EL Hummus bestreichen. Mit Tomaten, Zwiebeln, Koriander und Salat belegen, knapp zur Hälfte zusammenklappen und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86gdyl5gbn7z2xhnoem">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Besonders aromatisch werden die Pfannkuchen, wenn der Teig vor dem Ausbacken noch mit etwas Kreuzkümmel, geräuchertem Paprikapulver oder fein gehackten Kräutern verfeinert wird.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Socca-Pfannkuchen (Kichererbsenmehl-Pfannkuchen) mit Hummus, Tomaten und Zwiebeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Good Food</ImageCredit>
+      <DocumentRef doc_id="doc85ez7z0ufyc14zdcr84z" file_variant="master" position="1">Socca-Pfannkuchen (Kichererbsenmehl-Pfannkuchen) mit Hummus, Tomaten und Zwiebeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc828fgfkgyeq1armxy1v41" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-03T18:21:35+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-03T18:30:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganer Erbsen-Dip","recipe_seo_headline":"Alternative Guacamole /vegan","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Erbsen (TK)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tahini","unit":{"name":"EL"},"prefix":null,"suffix":"(oder 50 g Naturjoghurt)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Erbsen in kochendes Salzwasser geben und ungefähr 3-4 Minuten kochen lassen, bis sie bissfest sind. Durch ein Sieb abgießen und in eine Schüssel mit kaltem Wasser legen. So behalten sie ihre grüne Farbe."},{"headline":null,"content":"Knoblauchzehen abziehen und grob hacken. Minzblätter abzupfen, Zitrone halbieren und auspressen."},{"headline":null,"content":"Erbsen abgießen und mit Knoblauch, Minze, 3 EL Zitronensaft, Tahini und Olivenöl in einen Mixer oder Food Processer geben. Pürieren bis ein feines Erbsen-Mousse entsteht. Abschließend mit Salz, Pfeffer und eventuell etwas mehr Zitronensaft abschmecken."}],"recipe_tips":[{"headline":null,"content":"Der Dip hält sich im Kühlschrank 3-4 Tage"},{"headline":null,"content":"Tahini oder Naturjoghurt macht den Dip einen Tick zarter"}]}</CustomStructuredRecipeJson>
+    <Title>Veganer Erbsen-Dip</Title>
+    <CustomRecipeSeoTitle position="1">Alternative Guacamole /vegan</CustomRecipeSeoTitle>
+    <Headline position="1">Veganer Erbsen-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-03T18:21:35+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="828fgdcfyyv1dgoj31v41">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10591" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="TK-Erbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="10" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Minze" position="3"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt80i7h2lvqebgv4l910bp" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(oder 50 g Naturjoghurt)" position="5" plural="Tahini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="828fgfkglkoa31fx1v41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Erbsen in kochendes Salzwasser geben und ungefähr 3-4 Minuten kochen lassen, bis sie bissfest sind. Durch ein Sieb abgießen und in eine Schüssel mit kaltem Wasser legen. So behalten sie ihre grüne Farbe.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="828fgfkgsk2u0ezo1v41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauchzehen abziehen und grob hacken. Minzblätter abzupfen, Zitrone halbieren und auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="828fgfkgsolb0g8k1v41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Erbsen abgießen und mit Knoblauch, Minze, 3 EL Zitronensaft, Tahini und Olivenöl in einen Mixer oder Food Processer geben. Pürieren, bis ein feines Erbsen-Mousse entsteht. Abschließend mit Salz, Pfeffer und eventuell etwas mehr Zitronensaft abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="828fgfkgss1ao7dx1v41">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Der Dip hält sich im Kühlschrank 3-4 Tage</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="828fgfkgugm11876g1v41">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Tahini oder Naturjoghurt macht den Dip einen Tick zarter</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc827q2l0hnac1j0wt6gsd" file_variant="master" position="1">Erbsendip_104754.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b86d054274e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc827q2k1lyuo8fpdqgsd" file_variant="master" position="1">Erbsendip_104741.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b86d0665431">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc827q2mtlqyu101181gsd" file_variant="master" position="1">Erbsendip_104737.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

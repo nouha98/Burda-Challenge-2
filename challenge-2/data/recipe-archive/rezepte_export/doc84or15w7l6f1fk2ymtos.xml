@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84or15w7l6f1fk2ymtos" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-22T14:44:35+01:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2026-02-22T16:24:56+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="tmt81c00dbs9e9oco8zg8g"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="tmt81buxsmw75zanh54e0o"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt84osa9wqodt1kf2t5tzx"/>
+    <CustomRecipeNoteInformation position="1">Vorbereiten: 25 Minuten, Garen &amp; Kühlen: 30 Minuten</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">580</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">50</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">21</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">32</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Gefüllte Pfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-22T14:44:35+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="2" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="3" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="mit Kohlensäure" plural="Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="4" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="6" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_699b1c2970d0f">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="1" amount="1/2" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Kerbel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9766" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Schnittlauchröllchen"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" position="3" amount="4" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" plural="glatte Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" position="4" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Doppelrahmfrischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="6" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(Abrieb davon)" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="7" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" position="9" amount="1/2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salatgurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="10" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt7h8fg2t4x03um9q71a9" position="11" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Römersalatherzen"/>
+      <CustomRecipeIngredient topic="tmt80j89ozxr5f1dm4prgip" position="12" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="gekochter Schinken"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Pfannkuchen Mehl, Milch und Wasser glatt rühren. Eier und 1 Prise Salz unterrühren. In jeweils 5 g Butter nacheinander 4 Pfannkuchen von jeder Seite 2–3 Minuten goldbraun ausbacken. Auf Küchenpapier abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_699b1cf00296c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Füllung Kräuter abbrausen, trocken schütteln, fein hacken. Vom Kerbel etwas beiseitelegen. Kräuter, Frischkäse, Salz, Pfeffer, Zitronenabrieb, Zitronensaft und 1 Prise Zucker glatt rühren. Gurke abbrausen, streifig schälen, halbieren, entkernen. Möhren schälen. Beides in dünne, etwa 8–10 cm lange Streifen schneiden. Römersalatherzen der Länge nach in Streifen schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_699b1d1a097ac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Pfannkuchen jeweils mit ¼ der Frischkäsecreme bestreichen, mit jeweils 1 Schinkenscheibe, Möhren und Gurkenstreifen sowie Salat belegen. Fest zusammenrollen, mit einem Bindfaden fixieren und vor dem Servieren mindestens 15 Minuten kalt stellen. Mit Kerbelblättchen garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Die Pfannkuchen am Besten am Vorabend zubereiten, so können sie über Nacht abkühlen und lassen sich besser aufrollen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">berndgolling</ImageCredit>
+      <DocumentRef doc_id="doc7oqtlncaredqbj5blao" file_variant="master" position="1">Picknick</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

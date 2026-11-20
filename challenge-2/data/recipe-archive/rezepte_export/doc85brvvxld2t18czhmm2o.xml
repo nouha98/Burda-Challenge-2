@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85brvvxld2t18czhmm2o" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-08T11:09:00+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-29T09:55:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt789qccd71ewy1bqne88"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt85mjdlatuir6uzxomo0"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schichtdessert mit Müsli und Joghurt","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":275,"kilojoule":1151,"carbonhydrates":43,"fat":7,"protein":8,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Quark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"griechischer Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":7,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gefrriertgetrocknetes Beerenpulver","unit":{"name":"EL"},"prefix":"gehäufter","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Lieblingsmüsli","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Quark mit Joghurt und 1 EL Ahornsirup in einer Schüssel kurz verrühren, bis eine cremige Mischung entsteht. Beerenpulver unterrühren."},{"headline":null,"content":"Müsli auf 4 Dessertgläser à 150 ml Inhalt verteilen. Die Joghurt-Quark-Mischung auf das Müsli in die Gläser geben und glatt streichen."},{"headline":null,"content":"Übrigen Ahornsirup auf die Cremes gießen. Sämtliche Beeren vorsichtig waschen und trocken tupfen. Auf die Desserts verteilen. Evtl. mit Minzeblättern garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Schichtdessert mit Müsli und Joghurt</Title>
+    <CustomRecipeNutritionalValueCalories position="1">275</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1151</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">43</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">7</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Schichtdessert mit Müsli und Joghurt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-08T11:09:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85brvxplvxu1a4sehroa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Quark" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="griechischer Joghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="7" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="3"/>
+      <CustomRecipeIngredient topic="tmt85mja9frcty1bqortmlw" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="gehäufter EL gefriergetrocknetes" position="4" plural="Beerenpulver"/>
+      <CustomRecipeIngredient topic="tmt85mjaff8wi1lo4n5mly" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Lieblingsmüsli"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="12" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Himbeeren" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="20" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Heidelbeeren" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85brw00hkaeuz2oxroa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Quark mit Joghurt und 1 EL Ahornsirup in einer Schüssel kurz verrühren, bis eine cremige Mischung entsteht. Beerenpulver unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85brw00hntl13c220roa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Müsli auf 4 Dessertgläser à 150 ml Inhalt verteilen. Die Joghurt-Quark-Mischung auf das Müsli in die Gläser geben und glatt streichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85brw00hnzs1d9kkjroa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Übrigen Ahornsirup auf die Cremes gießen. Sämtliche Beeren vorsichtig waschen und trocken tupfen. Auf die Desserts verteilen. Evtl. mit Minzeblättern garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schichtdessert mit Müsli, Beerenjoghurt und Ahornsirup</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ploch, Zuzanna</ImageCredit>
+      <DocumentRef doc_id="doc84git9wy36wued8jdnh" file_variant="master" position="1">Schichtdessert mit Müsli, Beerenjoghurt und Ahornsirup</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

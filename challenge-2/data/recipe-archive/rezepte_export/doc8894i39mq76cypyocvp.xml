@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8894i39mq76cypyocvp" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-30T10:55:53+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-10-30T11:39:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt81c00dbs9e9oco8zg8g"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt88952do7nrtr8pupd6p"/>
+    <Headline position="1">Röhrennudeln mit buntem Blumenkohl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-30T10:55:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="grüner" suffix="(Romanesco)" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="violetter" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" position="3" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gelber" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="4" amount="1" amount_max="2" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="5" amount="1" prefix="gelbe" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="7" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" position="8" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mascarpone"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="9" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" position="10" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7046" position="11" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kapern"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="12" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7e0waapoo4n17rqmn6d8" position="13" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Parmesanspäne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Soße</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6ae46a58415d4">
+      <CustomRecipeIngredient topic="tmt7twu5cv2ryr13hl7mmgn" position="1" amount="400" suffix="(z.B. Mezze Maniche)" plural="Röhrennudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Nudeln</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Soße Blumenkohl putzen, abbrausen in kleine Röschen teilen. Knoblauch abziehen, fein würfeln. Chili abbrausen, putzen, ebenfalls fein würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ae47357cb8d1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Blumenkohl in Salzwasser in ca. 4 Minuten bissfest garen. Abgießen, abschrecken und abtropfen lassen. Zwei Drittel grüne Röschen beiseitelegen. Alle übrigen Blumenkohlröschen halbieren.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6ae47365a69f5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Nudeln in reichlich Salzwasser bissfest kochen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6ae4736f1597b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">2 EL Öl in einer großen Pfanne erhitzen. Die halbierten Röschen darin anbraten und leicht bräunen, anschließend wieder aus der Pfanne nehmen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6ae47380d2b87">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Übriges Öl in der Pfanne erhitzen. Knoblauch darin kurz anschwitzen. Den übrigen, grünen Blumenkohl fein hacken, untermischen und kurz mitgaren. Mascarpone, Sahne und Parmesan unterrühren, alles kurz köcheln lassen. Kapern untermischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6ae47393ab711">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Nudeln abgießen – dabei etwas Kochwasser auffangen – und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6ae4739fab8ed">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Soße mit Salz und Pfeffer abschmecken, den gebratenen Blumenkohl und die Nudeln untermischen und alles nochmals kurz erhitzen, evtl. etwas Kochwasser unterrühren. Alles auf vorgewärmte Teller verteilen und mit Parmesan bestreut servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">,</ImageCredit>
+      <DocumentRef doc_id="doc7bkfvjcint21im2nx1rs" file_variant="master" position="1">Mezze maniche mit buntem Blumenkohl</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

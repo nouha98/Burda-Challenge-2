@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820ktlqwhatk3dtblwq" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T11:39:09+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-22T13:37:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsxs1g2mw6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Französische Apfeltarte","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":40},{"name":"Kühlen","duration":30},{"name":"Backen","duration":35}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Mürbteig","ingredients":[{"amount":220,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":"und Butter für die Form"},{"amount":2,"amountTo":null,"ingredient_name":"kaltes Wasser","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Mandelcreme","ingredients":[{"amount":120,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":"ohne Haut"}]},{"headline":"Außerdem","ingredients":[{"amount":5,"amountTo":6,"ingredient_name":"säuerliche Äpfel","unit":{"name":"(Keine Einheit)"},"prefix":"mittlere","suffix":"(ca. 1000 g)"},{"amount":null,"amountTo":null,"ingredient_name":"Aprikosenkonfitüre","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"gehobelte Mandeln","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl mit Zucker und Salz in einer Schüssel mischen. Butter in Stücken und Wasser zugeben. Rasch mit den Händen zu einem Teig verkneten. Teig in Folie gewickelt ca. 30 Minuten kühlstellen."},{"headline":null,"content":"In der Zwischenzeit die Mandelcreme herstellen. Weiche Butter mit Zucker und Salz schaumig schlagen. Eier nach und nach zugeben. Zum Schluss Mandeln unterrühren."},{"headline":null,"content":"Tarteformboden (Ø 26-28 cm) fetten. Mürbteig dünn ausrollen und die Form damit auslegen, den überstehenden Teig am Rand mit einem Messer abschneiden. Mürbteigboden mit einer Gabel einige Male einstechen."},{"headline":null,"content":"Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Mandelcreme auf dem Mürbteig geben und glatt streichen. Äpfel schälen, vierteln und das Kerngehäuse entfernen. Jedes Viertel in sehr dünne Scheiben schneiden und das komplett geschnittene Apfelviertel in der Hand etwas auffächern. Aufgefächerte Apfelviertel auf der Tarte verteilen und im unteren Drittel ca. 30-35 Minuten backen. Etwas abkühlen lassen."},{"headline":null,"content":"Nach Belieben 2-3 EL Aprikosenkonfitüre aufkochen und die abgekühlte Tarte damit abglänzen. Mit gerösteten, gehobelten Mandeln garnieren."}],"recipe_tips":[{"headline":null,"content":"Statt Äpfel kann dann man auch frische halbierte Aprikosen verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Französische Apfeltarte</Title>
+    <Headline position="1">Französische Apfeltarte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T11:39:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820kti6uqyd17q9o2lwq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="220" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Butter für die Form" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt80ei4oh9ny17tsaqjtf" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="kaltes Wasser"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Mürbteig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="820ktjo339spbpz3lwq">
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ohne Haut" position="5" plural="gemahlene Mandeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Mandelcreme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="820ktl5qyzm6a3bzlwq">
+      <CustomRecipeIngredient topic="tmt803gs8kofg71ekod6iy2" amount="5" max_amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="mittlere" suffix="(ca. 1000 g)" position="1" plural="säuerliche Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4606" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" plural="Aprikosenkonfitüre" position="2"/>
+      <CustomRecipeIngredient topic="tmt808hl3jyfo720g75vbq" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" position="3" plural="gehobelte Mandeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820ktlqwfer1i59xilwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Zucker und Salz in einer Schüssel mischen. Butter in Stücken und Wasser zugeben. Rasch mit den Händen zu einem Teig verkneten. Teig in Folie gewickelt ca. 30 Minuten kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktlqwfoz1ko9q1lwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit die Mandelcreme herstellen. Weiche Butter mit Zucker und Salz schaumig schlagen. Eier nach und nach zugeben. Zum Schluss Mandeln unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktlqwfux1ba3tnlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Tarteformboden (Ø 26-28 cm) fetten. Mürbteig dünn ausrollen und die Form damit auslegen, den überstehenden Teig am Rand mit einem Messer abschneiden. Mürbteigboden mit einer Gabel einige Male einstechen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktlqwg071ewxailwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Backofen auf 200 Grad (Umluft: 180 Grad) vorheizen. Mandelcreme auf dem Mürbteig geben und glatt streichen. Äpfel schälen, vierteln und das Kerngehäuse entfernen. Jedes Viertel in sehr dünne Scheiben schneiden und das komplett geschnittene Apfelviertel in der Hand etwas auffächern. Aufgefächerte Apfelviertel auf der Tarte verteilen und im unteren Drittel ca. 30-35 Minuten backen. Etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktlqwg5vpenvdlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Nach Belieben 2-3 EL Aprikosenkonfitüre aufkochen und die abgekühlte Tarte damit abglänzen. Mit gerösteten, gehobelten Mandeln garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="820ktlqwgbk170smplwq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Äpfel kann dann man auch frische halbierte Aprikosen verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

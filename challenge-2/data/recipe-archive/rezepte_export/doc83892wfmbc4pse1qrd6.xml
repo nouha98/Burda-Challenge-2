@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83892wfmbc4pse1qrd6" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-12T10:36:00+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-12T10:44:45+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pizza Toast","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":20},{"name":"Backen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Toastscheiben","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"rote Paprika","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Champignons","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kochschinken","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Oregano","unit":{"name":"TL"},"prefix":"getrocknet","suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":"und 1 Prise Pfeffer"},{"amount":150,"amountTo":null,"ingredient_name":"geriebener Käse","unit":{"name":"g"},"prefix":null,"suffix":"z.B. Emmentaler"}]}],"preparation":[{"headline":null,"content":"Den Backofen auf 180°C Ober- und Unterhitze vorheizen."},{"headline":null,"content":"Die Paprika vierteln, entkernen und würfeln. Die Zwiebel nach dem Schälen in Ringe schneiden. Die Champignons in 4-5 Ecken schneiden. Den Kochschinken würfeln und zusammen mit dem Gemüse und der Sahne in eine Schüssel geben. Mit dem Oregano, Salz und Pfeffer würzen und mit der Sahne vermischen."},{"headline":null,"content":"Die Toastscheiben auf ein mit Backpapier ausgelegtes Backblech legen und den Belag gleichmäßig auf allen Scheiben verteilen. Den geriebenen Käse darüber streuen und den Toast für etwa 15 Minuten goldgelb im Ofen auf der mittleren Schiene backen."}],"recipe_tips":[{"headline":"Bei mehr wie einem Backblech…","content":"kann man den Backofen auf Umluft umstellen und so auch direkt 2 oder sogar 3 Bleche für die große Feier backen."}]}</CustomStructuredRecipeJson>
+    <Title>Pizza Toast</Title>
+    <Headline position="1">Pizza Toast</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-12T10:36:00+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83892tkoe95k0lzord6">
+      <CustomRecipeIngredient topic="tmt80j85stp6d2yazwzgip" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" position="1" plural="rote Paprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="kleine" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Champignons" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Kochschinken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="getrocknet" plural="Oregano" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="und 1 Prise Pfeffer" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10601" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Toastscheiben" position="8"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B. Emmentaler" position="9" plural="geriebener Käse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83892wfm9xw26jr1rd6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Paprika waschen, vierteln, entkernen und würfeln. Die Zwiebel schälen und in Ringe schneiden. Die Champignons in 4-5 Stücke schneiden. Den Backofen auf 180 Grad Ober- und Unterhitze (160 Grad Umluft) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83892wfma6bfn0e0rd6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Kochschinken würfeln und zusammen mit dem Gemüse und der Sahne in eine Schüssel geben. Mit dem Oregano, Salz und Pfeffer würzen und vermengen. Die Toastscheiben auf ein mit Backpapier ausgelegtes Backblech legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83892wfmaah1lfy5brd6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Belag gleichmäßig auf allen Scheiben verteilen. Den geriebenen Käse darüberstreuen und den Toast für etwa 15 Minuten goldgelb im Ofen auf der mittleren Schiene backen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83892wfmaf619e5b4rd6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für viele Gäste auf einmal kannst du den Backofen auf Umluft umstellen und so auch direkt 2 oder sogar 3 Bleche Pizza-Toasts backen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für eine große Feier</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8wwyw3ewjnz2ts4q" file_variant="master" position="1">Pizza-Toast</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691457094f3a7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8wu766y01izsuu80b" file_variant="master" position="1">Pizza-Toast</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6914570ad60b6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8wr7090p11ir2ispc" file_variant="master" position="1">Pizza-Toast</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6914570c72807">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8wyktwmx11e4f0skp" file_variant="master" position="1">Pizza-Toast</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

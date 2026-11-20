@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84yftdzzli11ct8mijyg" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-13T11:16:39+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-13T11:24:48+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gesunder Apple Crumble","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"g"},"prefix":"säuerliche","suffix":"(z. B. Boskoop)"},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Rosine","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rohrzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mandeln","unit":{"name":"g"},"prefix":"gemahlene","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Vollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Haselnuss","unit":{"name":"EL"},"prefix":"gehackte","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":"oder Ahornsirup"},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":"Birken-","suffix":null}]}],"preparation":[{"headline":null,"content":"Äpfel waschen, ggfs. schälen, vierteln und das Kerngehäuse entfernen. Äpfel in ca. 1,5 cm große Stücke schneiden und mit dem Zitronensaft beträufeln. Vanilleschote längs halbieren und das Vanillemark herauskratzen. Apfel-Stücke mit der Hälfte des Vanillemarks, Zimt, Rosinen und Rohrzucker vermengen."},{"headline":null,"content":"Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Butter in einem Topf geben und bei geringer Hitze flüssig werden lassen. In einer zweiten Schüssel Haferflocken, gemahlene Mandeln, Vollkornmehl, gehackte Haselnüsse, Honig oder Ahornsirup, die andere Hälfte des Vanillemarks sowie die zerlassene Butter zu Streuseln verkneten."},{"headline":null,"content":"Die Apfel-Rosinen-Mischung in eine Auflaufform geben (ca. 15 x 25 cm). Die Streusel darauf verteilen und im vorgeheizten Backofen auf mittlerer Schiene 30 – 35 Minuten backen. Anschließend mit dem Birken-Puderzucker bestreuen. Am besten noch warm servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Gesunder Apple Crumble</Title>
+    <Headline position="1">Gesunder Apple Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-13T11:16:39+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84yftb4uudj16huhdjyg">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="säuerliche" suffix="(z. B. Boskoop)" plural="Äpfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="Rosinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rohrzucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene" plural="Mandeln" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10886" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollkornmehl" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="gehackte" plural="Haselnüsse" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="oder Ahornsirup" plural="Honig" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="Birken-" plural="Puderzucker" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84yftdzzhvox8tkijyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Äpfel waschen, ggfs. schälen, vierteln und das Kerngehäuse entfernen. Äpfel in ca. 1,5 cm große Stücke schneiden und mit dem Zitronensaft beträufeln. Vanilleschote längs halbieren und das Vanillemark herauskratzen. Apfel-Stücke mit der Hälfte des Vanillemarks, Zimt, Rosinen und Rohrzucker vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yftdzzk1guon9jjyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Butter in einem Topf geben und bei geringer Hitze flüssig werden lassen. In einer zweiten Schüssel Haferflocken, gemahlene Mandeln, Vollkornmehl, gehackte Haselnüsse, Honig oder Ahornsirup, die andere Hälfte des Vanillemarks sowie die zerlassene Butter zu Streuseln verkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yftdzzk5vepyk9jyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Apfel-Rosinen-Mischung in eine Auflaufform geben (ca. 15 x 25 cm). Die Streusel darauf verteilen und im vorgeheizten Backofen auf mittlerer Schiene 30 – 35 Minuten backen. Anschließend mit dem Birken-Puderzucker bestreuen. Am besten noch warm servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aprikosen-Crumble</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu43gr3l1x17ncuy5cq" file_variant="master" position="1">AppleCrumblegesund3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69b3e5ea3b0ac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apple Crumble gesund</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu43mg31bdkeb5jm4r" file_variant="master" position="1">AppleCrumblegesund_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69b3e5ec4d02b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apple Crumble gesund</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu4310xpj91a6laz8gy" file_variant="master" position="1">AppleCrumblegesund1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69b3e5ee2a7ea">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apple Crumble gesund</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu436n7d0h1jaco8m4r" file_variant="master" position="1">AppleCrumblegesund2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

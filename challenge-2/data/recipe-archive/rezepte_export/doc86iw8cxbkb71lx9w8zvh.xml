@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86iw8cxbkb71lx9w8zvh" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T09:15:46+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-27T21:14:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt86iwcq1s6mo1n77bonj5"/>
+    <Provider topic="tmt86wiedri8h1ikumjacb"/>
+    <LastEditedBy topic="tmt7efavzglihdblh9r25t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Milchreis ohne Zucker","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Garen","duration":35},{"name":"Ruhen/Warten","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":467,"kilojoule":1955,"carbonhydrates":78,"fat":11,"protein":16,"breadunit":7}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"l"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"Prise"},"prefix":null,"suffix":"mit Fluorid"},{"amount":250,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Datteln","unit":{"name":"g"},"prefix":null,"suffix":"(entsteint)"},{"amount":50,"amountTo":null,"ingredient_name":"Mandelstifte","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Milch mit dem Salz in einen Topf geben und aufkochen lassen. Milchreis dazugeben, gut umrühren und offen bei niedriger Hitze ca. 30–35 Minuten köcheln lassen, dabei immer wieder umrühren."},{"headline":null,"content":"In der Zwischenzeit Datteln klein schneiden, mit heißem Wasser bedecken und etwa 10 Minuten einweichen lassen. Mandelstifte in einer Pfanne ohne Öl goldgelb rösten und beiseitestellen. Datteln mit dem Einweichwasser pürieren."},{"headline":null,"content":"Kurz vor Ende der Garzeit das Dattel-Püree, die Hälfte der Mandelstifte und den Zimt in den Milchreis geben."},{"headline":null,"content":"Milchreis ohne Zucker auf 4 Schüsseln verteilen und mit den restlichen Mandelstiften garniert servieren."}],"recipe_tips":[{"headline":null,"content":"Verfeinere den Milchreis ohne Zucker noch mit einem EL Mandel- oder Haselnussmus – lecker!"}]}</CustomStructuredRecipeJson>
+    <Title position="1">Milchreis ohne Zucker</Title>
+    <CustomRecipeNutritionalValueCalories position="1">467</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1955</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">78</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">11</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">7</CustomRecipeNutritionalBreadUnit>
+    <ImageCredit position="1">Maria Panzer</ImageCredit>
+    <ImageCredit position="2">Maria Panzer</ImageCredit>
+    <ImageCredit position="3">Maria Panzer</ImageCredit>
+    <Headline position="1">Milchreis ohne Zucker</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T09:15:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86iw8a8797awyfyuzvh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(1,5 % Fett)" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="mit Fluorid" plural="Jodsalz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchreis" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(entsteint)" plural="Datteln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7986" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mandelstifte" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86iw8cxbcgl15c7brzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch mit dem Salz in einen Topf geben und aufkochen lassen. Milchreis dazugeben, gut umrühren und offen bei niedriger Hitze ca. 30–35 Minuten köcheln lassen, dabei immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iw8cxbhas1hkxwrzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit Datteln klein schneiden, mit heißem Wasser bedecken und etwa 10 Minuten einweichen lassen. Mandelstifte in einer Pfanne ohne Öl goldgelb rösten und beiseitestellen. Datteln mit dem Einweichwasser pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iw8cxbhfslu4bmzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kurz vor Ende der Garzeit das Dattel-Püree, die Hälfte der Mandelstifte und den Zimt in den Milchreis geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iw8cxbhjqcrzpgzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Milchreis ohne Zucker auf 4 Schüsseln verteilen und mit den restlichen Mandelstiften garniert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86iw8cxbhnk1kkmlwzvh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere den Milchreis ohne Zucker noch mit einem EL Mandel- oder Haselnussmus – lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Milchreis ohne Zucker</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7hu491n1vs41ikvntm4r" file_variant="master" position="1">MilchreisohneZucker2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44c0cac4b32">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Milchreis ohne Zucker</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7hu49wff4lip6m9tomq" file_variant="master" position="1">MilchreisohneZuckerStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44c0cd2ac71">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Milchreis ohne Zucker</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc7hu4a3la6xl1n64labnx" file_variant="master" position="1">MilchreisohneZucker1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

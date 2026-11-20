@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84fxycpx1ba15y0wboud" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-05T11:20:45+01:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2026-02-05T15:27:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrnd13o7kudo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt84fy9nc9esh90ue3q6s"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rhabarber-Cocktail","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Rhabarber","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":"Mark von","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Holunderblütensirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":2,"amountTo":3,"ingredient_name":"Rhabarberpüree","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Sorbet (Zitrone oder Limette)","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"kalter Sekt","unit":{"name":"l"},"prefix":null,"suffix":"(1 Flasche)"}]}],"preparation":[{"headline":"Am Vortag","content":"Rhabarber waschen, putzen, klein schneiden und in einer Auflaufform verteilen. Saft von 1 Orange, Mark von 1 Vanilleschote und 3 EL Zucker mischen, drüber träufeln. Mit Folie zugedeckt im Ofen bei 200 Grad (Umluft 180 Grad) ca. 30 Minuten weich garen. Rhabarber samt Flüssigkeit pürieren, durch ein feines Sieb streichen. Mit 2–3 EL Holunderblütensirup abschmecken. Kalt stellen."},{"headline":"Zum Servieren","content":"Je 2–3 EL Rhabarberpüree in ein Glas geben, je 1 Kugel Sorbet (Zitrone oder Limette, insgesamt 500 ml) zufügen, mit kaltem Sekt (1 Flasche) auffüllen. Sofort servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Rhabarber-Cocktail</Title>
+    <Headline position="1">Rhabarber-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-05T11:20:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84fxyf3zcnkpjfag2f3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11406" position="7" amount="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Kugel" suffix="oder Limettensorbet, insgesamt 500 ml" plural="Zitronensorbet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9141" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rhabarber" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Orange" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Mark von" plural="Vanilleschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6741" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Holunderblütensirup" position="5" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt84fy79hsbaflhfe5q2a" position="6" amount="12" amount_max="18" plural="Rhabarberpüree" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" position="8" amount="1" prefix="Flasche kalter" plural="Sekt"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84fxyi1i15y2iiev2f3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: Rhabarber waschen, putzen, klein schneiden und in einer Auflaufform verteilen. Saft von Orange, Mark von Vanilleschote und Zucker mischen, drüber träufeln. Mit Folie zugedeckt im Ofen bei 200 Grad (Umluft 180 Grad) ca. 30 Minuten weich garen. Rhabarber samt Flüssigkeit pürieren, durch ein feines Sieb streichen. Mit Holunderblütensirup abschmecken. Kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84fxyi1i82c9pb2y2f3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren: Je 2–3 EL Rhabarberpüree in ein Glas geben, je 1 Kugel Sorbet zufügen, mit kaltem Sekt auffüllen. Sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="blpbild-4182545" file_variant="master" position="1">Holunderblüten-Rhabarber-Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

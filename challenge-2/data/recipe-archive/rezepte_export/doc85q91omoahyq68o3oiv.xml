@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85q91omoahyq68o3oiv" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-06T15:20:15+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-15T15:58:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-superilluguterrat"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <Source topic="tmt85q9dusm7fltgic2opc"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Löwenzahn-Pizza mit Salsicce","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":55},{"name":"Backen","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":635,"kilojoule":2660,"carbonhydrates":58,"fat":34,"protein":25,"breadunit":5}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Löwenzahnblätter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"grobes Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Büffelmozzarella","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pizzateig aus dem Kühlregal","unit":{"name":"Stück"},"prefix":null,"suffix":"(rechteckig, 30 x 40 cm, 500 g)"},{"amount":150,"amountTo":null,"ingredient_name":"Ricotta","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Salsicce","unit":{"name":"g"},"prefix":null,"suffix":"(rohe, italienische Bratwürste)"},{"amount":0.5,"amountTo":null,"ingredient_name":"feine Chiliflocken","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Das untere Ende der Löwenzahnblätter abschneiden. Blätter waschen, trocken schleudern und in eine Schüssel geben. 2 Prisen Salz und das Olivenöl hinzugeben. Ca. 1 Min. durchkneten, damit die Blätter weicher werden."},{"headline":null,"content":"Den Mozzarella in Scheiben schneiden und abtropfen lassen."},{"headline":null,"content":"Den Ofen – evtl. mit einem Pizzastein – auf 210 Grad Ober-/Unterhitze vorheizen. Pizzateig auf einem großen Blech ausrollen."},{"headline":null,"content":"Ricotta daraufstreichen. Mozzarella darauf verteilen."},{"headline":null,"content":"Salsicce enthäuten und das Brät grob zerkrümeln. Über die Pizza streuen. Mit Chili würzen."},{"headline":null,"content":"Die Pizza im Ofen (evtl. auf den Pizzastein ziehen) ca. 15 Min. backen. Kurz vor Ende der Backzeit die vorbereiteten Löwenzahnblätter auf der Pizza verteilen und diese so lange weiterbacken, bis der Teig knusprig ist."},{"headline":null,"content":"Pizza sofort aus dem Ofen nehmen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Löwenzahn-Pizza mit Salsicce</Title>
+    <CustomRecipeNutritionalValueCalories position="1">635</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2660</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">58</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">34</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">25</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">5</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Löwenzahn-Pizza mit Salsicce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-06T15:20:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85q91ru0uo91g29gd7yn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8866" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(30 x 40 cm, 500 g)" position="5" prefix="rechteckiger" plural="Pizzateig"/>
+      <CustomRecipeIngredient topic="tmt7uqnkm0300kyzv626vh" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löwenzahnblätter" position="1"/>
+      <CustomRecipeIngredient topic="tmt80ei3n62j2r19jpown8j" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" plural="grobes Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5196" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Büffelmozzarella" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9146" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ricotta" position="6"/>
+      <CustomRecipeIngredient topic="tmt7e1wadkjwrtoem9jd5u" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(rohe, italienische Bratwürste)" position="7" plural="Salsiccia"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" prefix="feine" plural="Chiliflocken"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85q91tmsao1ih2m07yn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das untere Ende der Löwenzahnblätter abschneiden. Blätter waschen, trocken schleudern und in eine Schüssel geben. 2 Prisen Salz und das Olivenöl hinzugeben. Ca. 1 Min. durchkneten, damit die Blätter weicher werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q91tmsd0i1escvv7yn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Mozzarella in Scheiben schneiden und abtropfen lassen. Den Ofen – evtl. mit einem Pizzastein – auf 210 Grad Ober-/Unterhitze vorheizen. Pizzateig auf einem großen Blech ausrollen. Ricotta daraufstreichen. Mozzarella darauf verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q91tmsd4ydtn7b7yn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Salsicce enthäuten und das Brät grob zerkrümeln. Über die Pizza streuen. Mit Chili würzen. Die Pizza im Ofen (evtl. auf den Pizzastein ziehen) ca. 15 Min. backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q91tmsd9h1mfwc87yn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kurz vor Ende der Backzeit die vorbereiteten Löwenzahnblätter auf der Pizza verteilen und diese so lange weiterbacken, bis der Teig knusprig ist. Dann die Pizza sofort herausnehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7n87jv3ebp0wdhk9grf" file_variant="master" position="1">Pizza mit Löwenzahn, Salsiccia und Scamorza römische Art</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86ue0gw95dffg5pj1gg2" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-23T18:07:42+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-28T14:13:16+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <Source topic="tmt86jxq1y7zmd1h2cf2b95"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schweinespieße mit Honig-Senf-Creme","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Braten","duration":8}],"difficulty":null,"price":null,"nutritions":{"calories":410,"kilojoule":null,"carbonhydrates":6,"fat":31,"protein":26,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Lauch","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Schweineschnitzel","unit":{"name":"Stück"},"prefix":null,"suffix":"à 100 g"},{"amount":5,"amountTo":null,"ingredient_name":"grober Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Frühstücksspeck","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Lauch putzen, halbieren und abbrausen. 8 Blätter ablösen. Ca. 1 Minute in Salzwasser vorkochen. Kalt abschrecken und trocken tupfen."},{"headline":null,"content":"Schnitzel abtupfen und flach klopfen. Mit je 1 EL Senf bestreichen. Darauf nebeneinander je 2 Scheiben Speck legen. Mit jeweils 2 Lauchblättern bedecken. Schnitzel einrollen, je in 4 Scheiben teilen und auf Spieße stecken. Würzen."},{"headline":null,"content":"Übrigen Senf mit Schmand verrühren. Mit Salz und Pfeffer abschmecken. Lauchzwiebeln putzen und in Röllchen schneiden."},{"headline":null,"content":"Öl in der Pfanne erhitzen. Die Spieße je Seite 3–4 Minuten braten."},{"headline":null,"content":"Mit Lauchzwiebelringen und Senfcreme servieren."}],"recipe_tips":[{"headline":null,"content":"Dazu schmeckt ein Walnuss-Couscous: 350 ml kochende Brühe über 250 g Instant-Couscous gießen. 10 Minuten ziehen lassen. 60 g Pistazien, 60 g Walnüsse, je 50 g getrocknete Feigen, Datteln und Aprikosen hacken. Couscous auflockern. Mit Nüssen und Früchten mischen. Mit Zitronensaft, Honig, Salz und Pfeffer würzen."}]}</CustomStructuredRecipeJson>
+    <Title>Schweinespieße mit Honig-Senf-Creme</Title>
+    <CustomRecipeNutritionalValueCalories position="1">410</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">6</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">31</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">26</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0.5</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Schweinespieße mit Honig-Senf-Creme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-23T18:07:42+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86ue0j99i031bxxa127y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7661" amount="1" unit="Stange" unit_topic="tmt_ingredient_unit_stange" plural="Lauch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9976" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="à 100 g" plural="Schweineschnitzel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" prefix="grober " plural="Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6121" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Frühstücksspeck" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lauchzwiebeln" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86ue0ls8x8xtlobr27y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Lauch putzen, halbieren und abbrausen. 8 Blätter ablösen. Ca. 1 Mn. in Salzwasser vorkochen. Kalt abschrecken. Trocken tupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ue0ls8xjd11g2ml27y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schnitzel abtupfen und flach klopfen. Mit je 1 EL Senf bestreichen. Darauf nebeneinander je 2 Scheiben Speck legen. Mit jeweils 2 Lauchblättern bedecken. Schnitzel einrollen. Je in 4 Scheiben teilen. Auf Spieße stecken. Würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ue0ls8xok5hdh327y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Übrigen Senf mit Schmand verrühren. Salten und pfeffern. Lauchzwiebeln putzen und in Röllchen schneiden. Öl in der Pfanne erhitzen. Die Spieße je Seite 3–4 Min. braten. Mit Lauchzwiebelringen und Senfcreme servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86ue0ls8y2p1fr8wf27y">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dazu schmeckt ein Walnuss-Couscous: 350 ml kochende Brühe über 250 g Instant-Couscous gießen. 10 Min. ziehen lassen. 60 g Pistazien, 60 g Walnüsse, je 50 g getrocknete Feigen, Datteln und Aprikosen hacken. Couscous auflockern. Mit Nüssen und Früchten mischen. Mit Zitronensaft, Honig, Salz und Pfeffer würzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schweinefleischspieße mit Honig-Senf-Glasur</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc7qbp8jcv4q0hstv36ms" file_variant="master" position="1">Schweinefleischspieße mit Honig-Senf-Glasur</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

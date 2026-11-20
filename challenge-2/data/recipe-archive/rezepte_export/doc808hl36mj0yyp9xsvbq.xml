@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc808hl36mj0yyp9xsvbq" dcx-version="6.3.1" version="1.0">
+  <created>2025-04-16T18:05:51+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-04-28T10:27:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsk0wz1eido5"/>
+    <Keywords topic="tmt80ehnq2ndix1b9ru4vyk"/>
+    <Keywords topic="tmt6ovk3yunn4lxhlz5nud"/>
+    <Keywords topic="tmt80ehnq36e4w7ikh2vyk"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hunde Torte Rezept","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Backen","duration":35},{"name":"Ruhen/Warten","duration":null}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Boden","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Karotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ca. 200 g)"},{"amount":350,"amountTo":null,"ingredient_name":"gemischtes Hackfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"}]},{"headline":"Für die Creme","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Wiener Würstchen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Hundekekse","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Ausgarnieren"},{"amount":0.5,"amountTo":null,"ingredient_name":"Karotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"gehackte Petersilie","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Geburtstagkerze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Springformboden (Ø 16-18 cm) mit Backpapier belegen. Karotten waschen und über einer Haushaltsreibe grob raspeln oder in kleine Würfel schneiden. Petersilie grob hacken. Hackfleisch mit Karotten, Petersilie, Quark und Eiern vermischen. In die Form füllen, glatt streichen und 35 Minuten backen. Komplett erkalten lassen."},{"headline":null,"content":"Quark mit Frischkäse glatt rühren. Kuchen aus der Form lösen. Kuchen auf eine Platte setzen und mit der Quarkcreme rundherum einstreichen. Würstchen in Stücke schneiden. Karotten in dünne Streifen schneiden und die Oberfläche der Torte damit ausgarnieren. Mit etwas Petersilie bestreuen. Den Rand mit Hundekeksen verzieren und dem Vierbeiner servieren."}],"recipe_tips":[{"headline":"Die Torte","content":"Die Torte hält sich 2-3 Tage im Kühlschrank und kann je nach Hundegröße über einige Tage als „Futterersatz“ serviert werden."}]}</CustomStructuredRecipeJson>
+    <Title>Hunde Torte Rezept</Title>
+    <Headline position="1">Hunde Torte Rezept</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-04-16T18:05:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="808hkwyq58lo7ovjvbq">
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(ca. 200 g)" position="1" plural="Karotten"/>
+      <CustomRecipeIngredient topic="tmt808hl36o8lfk2r77vbq" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="gemischtes Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1/2" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe: M)" plural="Eier" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Boden</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="808hkzb1y43hlo0mvbq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Frischkäse" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11171" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Wiener Würstchen" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl36srvo1e7234vbq" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Ausgarnieren" position="4" plural="Hundekekse"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="5" plural="Karotte"/>
+      <CustomRecipeIngredient topic="tmt808hl36wqzo1f01tsvbq" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="6" amount_error="1" plural="gehackte Petersilie" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt808hl36y0dl1e1ml8vbq" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" position="7" plural="Geburtstagkerze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="808hl36lwf5sdy8evbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Springformboden (Ø 16-18 cm) mit Backpapier belegen. Karotten waschen und über einer Haushaltsreibe grob raspeln oder in kleine Würfel schneiden. Petersilie grob hacken. Hackfleisch mit Karotten, Petersilie, Quark und Eiern vermischen. In die Form füllen, glatt streichen und 35 Minuten backen. Komplett erkalten lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="808hl36m52w1mfemavbq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Quark mit Frischkäse glatt rühren. Kuchen aus der Form lösen. Kuchen auf eine Platte setzen und mit der Quarkcreme rundherum einstreichen. Würstchen in Stücke schneiden. Karotten in dünne Streifen schneiden und die Oberfläche der Torte damit ausgarnieren. Mit etwas Petersilie bestreuen. Den Rand mit Hundekeksen verzieren und dem Vierbeiner servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="808hl36m5abv7rrovbq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">...hält sich 2-3 Tage im Kühlschrank und kann je nach Hundegröße über einige Tage als „Futterersatz“ serviert werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die Torte</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_680f3b3792286">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">3-4 Tage, gekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit </CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6ui7t1cqly1shqc" file_variant="master" position="1">Hundetorte_14948.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_680f3bf035d3b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6uwo9gh930nhipw" file_variant="master" position="1">Hundetorte_14938.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_680f3bf1a4bd0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6uohp3pht5pcief" file_variant="master" position="1">Hundetorte_14727.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_680f3bf31cda6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808d6ui7q2o10i68silu" file_variant="master" position="1">Hundetorte_14211.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

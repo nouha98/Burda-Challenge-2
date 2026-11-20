@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86zz4tjrsl016kq918jh" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-03T15:04:31+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-08-03T15:33:44+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" plural="Personen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <Source topic="tmt86zz8i7mhqgxkgp48lc"/>
+    <Headline position="1">Gemüse-Nudel-Pfanne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-03T15:04:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt80d1hxu06fd18ecbnjii" position="1" amount="6" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="grüner Spargel"/>
+      <CustomRecipeIngredient topic="tmt86zz6dav16h144x28k6" position="2" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kaiserschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="3" amount="1" prefix="kleine" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="4" amount="2" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" position="5" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(z. B. Farfalle)" plural="Nudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10591" position="7" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="TK-Erbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9656" position="9" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Saure Sahne"/>
+      <CustomRecipeIngredient topic="tmt80j6wk3fz7t1bh64fgip" position="10" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="grober Senf"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="11" prefix="Abrieb und Saft von 1" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="12" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="frisch geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="13" plural="Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Spargel waschen, das untere Drittel schälen und die Stangen dritteln. Kaiserschoten waschen, Enden abknipsen und die Schoten schräg halbieren. Zucchini waschen, putzen und in feine Scheiben schneiden. Knoblauchzehen abziehen und fein würfeln. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a70934f35bf5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Nudeln in Salzwasser bissfest garen, abgießen und dabei etwas Nudelwasser auffangen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a70935d937cf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Gemüse, Knoblauch und Erbsen im heißen Olivenöl in einer Pfanne 3–4 Minuten knackig anschwitzen. Die Nudeln mit Nudelwasser zufügen. Saure Sahne, Senf, Zitronenabrieb und -saft sowie den Parmesan dazugeben. Salzen, pfeffern, alles gründlich durchschwenken, dann servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc71shntvtz9t19487ndg6" file_variant="master" position="1">Pasta primavera in der Pfanne</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

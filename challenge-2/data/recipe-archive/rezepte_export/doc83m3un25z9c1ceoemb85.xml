@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83m3un25z9c1ceoemb85" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-09T09:44:11+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-09T09:47:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bärlauchpesto","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"Bärlauch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Pinienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":320,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Bärlauch waschen und trockenschleudern."},{"headline":null,"content":"Die Stiele abschneiden und den Bärlauch grob hacken und in den Mixer geben. Das Öl dazu gießen und den Bärlauch fein mixen. Nach und nach Pinienkerne und den geriebenen Parmesan sowie das Salz dazugeben und zu einem sämigen Pesto pürieren."},{"headline":null,"content":"Das Pesto in Gläschen füllen und mit etwas Öl bedecken. Die Gläschen verschließen und kühl und dunkel aufbewahren."}],"recipe_tips":[{"headline":"Die Wahl des Öls","content":"Für das Pesto kann auch Olivenöl verwendet werden, dies schmeckt dann nach dem Mixen etwas kräftiger als das Sonnenblumenöl. Sollte das Pesto zu dickflüssig sein, darf noch etwas Öl beigegeben werden."}]}</CustomStructuredRecipeJson>
+    <Title>Bärlauchpesto</Title>
+    <Headline position="1">Bärlauchpesto</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-09T09:44:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83m3ul1za4x1mm163b85">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4801" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Bärlauch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pinienkerne" position="2"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="300" max_amount="320" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83m3un25m2vu2fylb85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Bärlauch waschen und trockenschleudern.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m3un25qx217s705b85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Stiele abschneiden und den Bärlauch grob hacken und in den Mixer geben. Das Öl dazu gießen und den Bärlauch fein mixen. Nach und nach Pinienkerne und den geriebenen Parmesan sowie das Salz dazugeben und zu einem sämigen Pesto pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m3un25r2bm56sfb85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Pesto in Gläschen füllen und mit etwas Öl bedecken. Die Gläschen verschließen und kühl und dunkel aufbewahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83m3un25r6t5bju4b85">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für das Pesto kann auch Olivenöl verwendet werden, dies schmeckt dann nach dem Mixen etwas kräftiger als das Sonnenblumenöl. Sollte das Pesto zu dickflüssig sein, darf noch etwas Öl beigegeben werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Die Wahl des Öls</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeqekl9jal8lmkdkf" file_variant="master" position="1">Bärlauchpesto selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6937e2373a32e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeqbzswpi17locujfs" file_variant="master" position="1">Bärlauchpesto selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6937e238a4209">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qeqaf030m8ld7odnl" file_variant="master" position="1">Bärlauchpesto selber machen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

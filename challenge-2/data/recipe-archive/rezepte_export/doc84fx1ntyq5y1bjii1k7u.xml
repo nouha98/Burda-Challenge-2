@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84fx1ntyq5y1bjii1k7u" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-05T10:10:04+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-05T10:17:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsao13x8iado5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <Source topic="tmt84fx59zh1f9186qhokpy"/>
+    <Headline position="1">Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-05T10:10:04+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="4" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="5" amount="800" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="6" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7486" position="7" amount="2" unit_topic="tmt7e4ye8z3n8je7s21oep" unit="Beet" plural="Kresse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="8" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7dxqmpi38xi6cpzwecl" position="9" suffix="CROUTONS zum Garnieren" plural="Croissants"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7486" position="10" suffix="zum Garnieren" plural="Kresse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" position="11" suffix="zum Garnieren" plural="Schnittlauch"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen, würfeln. In einem Topf in Butter andünsten. Mit Mehl bestäuben, kurz anschwitzen. Mit Weißwein ablöschen. Gemüsebrühe und Schlagsahne angießen. Suppe unter Rühren aufkochen. Kresse von den Beeten abschneiden, zur Suppe geben. Alles 5 Minuten köcheln lassen. Suppe fein pürieren, mit Salz und Pfeffer würzen. Mit Croûtons, Kresse und Schnittlauch garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kressesuppe mit Croûtons, vegan</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Sporrer/Skowronek</ImageCredit>
+      <DocumentRef doc_id="doc7mn94yreydi55xxl6h7" file_variant="master" position="1">Kressesuppe mit Croûtons, vegan</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7868kb7zgozlsgbqavd" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T13:37:26+01:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2024-12-03T09:59:31+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <CustomCenshareId>223552</CustomCenshareId>
+    <Title position="1">Tomaten-Tarte-Tartin</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <Headline position="1">Tomaten-Tarte-Tartin</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T14:48:04+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="4e7e0e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="3" unit_topic="tmt71k9mrz8iyeyycjkivd" position="2" unit="Zweig" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Mehl zum Arbeiten" position="3" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Fett für die Form" position="4" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" unit="TL" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt782mj4ewrie179gaj8gz" amount="1" unit_topic="tm_topic_default_unit" position="1" unit="(keine Einheit)" plural="Ei (Größe M)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="4eac0a">
+      <CustomRecipeIngredient topic="tmt782pcdaoko9zp29g8gz" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="schwarze Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" position="2" unit="kg" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" position="4" unit="Zweig" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9671" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Schafskäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit_topic="tm_topic_default_unit" position="3" unit="(keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="7" unit="(keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" position="8" unit="(keine Einheit)" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Belag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="4eac58">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Mürbteig Rosmarinnnadeln abstreifen und grob hacken. Mehl mit Butter, Salz, Ei und Rosmarin verkneten. Teig in Frischhaltefolie gewickelt 30 Minuten kühlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4eac69">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 200 Grad (Umluft: 180 Grad vorheizen). Tomaten quer halbieren oder in dicke Scheiben scheiden. Knoblauch abziehen und hacken. Rosmarinnadeln abstreifen. Olivenöl mit Knoblauch und Rosmarin erhitzen. Tomaten mit der Schnittfläche nach unten in die Pfanne geben und ca. 5 Minuten schmoren lassen. Dabei sollte viel Flüssigkeit verdunsten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4eac7c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Tarteform (30 cm Ø) fetten, Tomaten mit der Schnittfläche nach unten darin verteilen, Oliven dazwischen setzen. Mürbteig auf einer bemehlten Arbeitsfläche auf Größe der Form ausrollen und auf die Tomaten geben. leicht andrücken. Teig mit einer Gabel mehrfach einstechen. Im Ofen 30 - 35 Minuten backen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4eac89">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">5 Minuten vor Ende der Backzeit die Tarte mit Hilfe eines große Tellers umdrehen  und auf ein mit Backpapier belegtes Backblech geben (Vorsicht: heißer Tomatensaft!). Schafskäse würfeln und die Tarte damit bestreuen. Tarte fertig backen. Tarte mit Salz und Pfeffer würzen und heiß servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78a9aj2u49w1isychhcr" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-06T09:24:13+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_223552</displayname>
+      <doc_id id="doc7868kb7zgozlsgbqavd"/>
+      <hash>0448d3095c0d200d932bee99de42145b</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2019-12-07T14:48:05+01:00</modified>
+      <size>5006</size>
+      <subpath>2019/12-07/13/07/file78a9aj2u49w1isychhcr.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

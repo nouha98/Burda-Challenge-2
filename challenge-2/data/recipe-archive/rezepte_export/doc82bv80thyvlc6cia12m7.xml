@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82bv80thyvlc6cia12m7" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-10T10:56:32+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-10T11:06:39+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtko8acludo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Pizza","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":105,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":"(lauwarm)"},{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(2 Pizzen)"},{"amount":175,"amountTo":null,"ingredient_name":"Mehl (00)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.6,"amountTo":null,"ingredient_name":"Trockenhefe","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1.8,"amountTo":null,"ingredient_name":"frische Hefe","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3.6,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Sauce","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"geschälte San Marzano Tomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Knoblauch","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.8,"amountTo":null,"ingredient_name":"Oregano","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Veganer Mozzarella","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Wasser in eine Schüssel geben. Mehl, Hefe, Salz, Olivenöl und Zucker dazugeben und 10 Minuten kneten. Den Teig 20 Minuten bei Raumtemperatur gehen lassen. Rund wirken und mindestens 8 Stunden im Kühlschrank gehen lassen. Etwa 1,5 Stunden vor dem Backen aus dem Kühlschrank nehmen."},{"headline":null,"content":"Für die Tomatensauce: Geschälte Tomaten in einen kleinen Topf geben. Knoblauch pressen oder fein reiben, zu den Tomaten geben. Oregano und Salz hinzufügen. Köcheln lassen."},{"headline":null,"content":"Pizzastein 45 Minuten vor dem Backen erhitzen. Backofen auf maximale Temperatur drehen. Arbeitsfläche bemehlen und Teig formen – Ränder nicht plattdrücken."},{"headline":null,"content":"60–80 g Sauce auf den Teig geben. Erst die Tomatensauce mit dem Teig 3–4 Minuten backen. Danach mit Käse belegen und nochmal 4 Minuten in den Ofen legen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Vegane Pizza</Title>
+    <Headline position="1">Vegane Pizza</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-10T10:56:32+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82bv7wrow4ou8f1412m7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="105" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(lauwarm)" plural="Wasser" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(2 Pizzen)" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10756" amount="0.6" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Trockenhefe" position="3" suffix="oder 1,8g frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="3.6" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="5" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82bv7ychjhz1nebu612m7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="geschälte" suffix="(San Marzano)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="0.25" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" amount="0.8" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Oregano" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82bv7zklpo0rl5ey12m7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="5" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Basilikum" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" prefix="veganer" plural="Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Olivenöl" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82bv80thxk777z3812m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Wasser in eine Schüssel geben. Mehl, Hefe, Salz, Olivenöl und Zucker dazugeben und 10 Minuten kneten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68c13e435b331">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Teig 20 Minuten bei Raumtemperatur gehen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68c13e518ee04">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rund wirken und mindestens 8 Stunden im Kühlschrank gehen lassen. Etwa 1,5 Stunden vor dem Backen aus dem Kühlschrank nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82bv80thxv5gokdi12m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Tomatensauce: Geschälte Tomaten in einen kleinen Topf geben. Knoblauch pressen oder fein reiben, zu den Tomaten geben. Oregano und Salz hinzufügen. Köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82bv80thy05gs5h312m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Pizzastein 45 Minuten vor dem Backen erhitzen. Backofen auf maximale Temperatur drehen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_68c13e8b311ce">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Arbeitsfläche bemehlen und Teig formen – Ränder nicht plattdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82bv80thy3q1g813n12m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">60–80 g Sauce auf den Teig geben. Erst die Tomatensauce mit dem Teig 3–4 Minuten backen. Danach mit Käse belegen und nochmal 4 Minuten in den Ofen legen. Mit Basilikum garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qj9tebxk6h7celit" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c13f8520e8d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qiuukzi0l208gsd" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c13f8876000">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qiz6picw13rgn1l1y" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c13f8e8b70c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qiert0c63v5r5kzo" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68c13f90bce4f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCaption position="5" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="5">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qj2kxl5v5f3bnlit" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_68c13f93e08f8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCaption position="6" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="6">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qij8v13blnob8gsd" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_7_68c13f9651f81">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 7</ImageLabel>
+      <ImageCaption position="7" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="7">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qimayfrruv6qmlit" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_8_68c13f98b19aa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 8</ImageLabel>
+      <ImageCaption position="8" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="8">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qiqtvdzap5jb3lit" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_9_68c13f9a6d82a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 9</ImageLabel>
+      <ImageCaption position="9" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vegane Pizza</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="9">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc827qj50ongg1beyhzgsd" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

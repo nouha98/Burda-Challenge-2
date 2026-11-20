@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81r9m5b5nixywkg4it6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T08:44:00+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-01T08:55:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0roz41f4p08do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs6cj2mrado5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Brasilianische Limonade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"(Keine Einheit)"},"prefix":"Bio","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":12,"amountTo":14,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":"ca.","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"gezuckerte Kondensmilch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Limetten heiß abwaschen, trocken tupfen und in Viertel schneiden. Zusammen mit dem Wasser in eine Standmixer geben und auf höchster Stufe pürieren."},{"headline":null,"content":"Limetten-Wasser durch ein grobes Sieb gießen. Mit einem Esslöffel im Sieb rühren damit die komplette Flüssigkeit durchfließen kann."},{"headline":null,"content":"Aufgefangenen Saft zurück in den Standmixer geben. Eiswürfel und Kondensmilch zugeben, kurz durchmixen und die Limonade auf die Trinkgläser (á 250 ml) verteilen."}],"recipe_tips":[{"headline":"Sauer macht lustig","content":"Dann reduziere die Menge an gesüßter Kondensmilch. Dadurch wird die Limonade erfrischender und saurer."}]}</CustomStructuredRecipeJson>
+    <Title>Brasilianische Limonade</Title>
+    <Headline position="1">Brasilianische Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T08:44:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81r9m42k8rbt1qmfit6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Nach Belieben" suffix="zum Garnieren" plural="Limetten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Bio" plural="Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="12" max_amount="14" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="ca." plural="Eiswürfel" position="3" amount_max="14"/>
+      <CustomRecipeIngredient topic="tmt7zqvl6qy5gzrvvgl7n7" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="gezuckerte Kondensmilch"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81r9m5b5m78gwmblit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limetten heiß abwaschen, trocken tupfen und in Viertel schneiden. Zusammen mit dem Wasser in eine Standmixer geben und auf höchster Stufe pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81r9m5b5mfsd48wxit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Limetten-Wasser durch ein grobes Sieb gießen. Mit einem Esslöffel im Sieb rühren damit die komplette Flüssigkeit durchfließen kann.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81r9m5b5mjp168hfbit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Aufgefangenen Saft zurück in den Standmixer geben. Eiswürfel und Kondensmilch zugeben, kurz durchmixen und die Limonade auf die Trinkgläser (á 250 ml) verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81r9m5b5mnk1e2hffit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dann reduziere die Menge an gesüßter Kondensmilch. Dadurch wird die Limonade erfrischender und saurer.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Sauer macht lustig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pn2c0qncgyno5coq" file_variant="master" position="1">Brasilianische_Limonade_4989.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688c64e38cb7f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pmz85z8ppa5hcor" file_variant="master" position="1">Brasilianische_Limonade_4244.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688c64e5a7375">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pmxtwbts14sqovcos" file_variant="master" position="1">Brasilianische_Limonade_4260.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688c64e72d48f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pn0u2uqe1k1up7cos" file_variant="master" position="1">Brasilianische_Limonade_4969.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82uvmesf9ugb85qqb0r" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-17T10:55:33+02:00</created>
+  <identifier></identifier>
+  <modcount>17</modcount>
+  <modified>2025-10-17T11:43:36+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt82mpu96zcgzjtrvng2d"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" plural="Stücke" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsyh1herp6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt82uw8mr6ew01iaugabcf"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Quiche Lorraine","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":60},{"name":"Backen","duration":60}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"kalte Butter","unit":{"name":"g"},"prefix":null,"suffix":"in Stückchen"},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Für Belag &amp; Guss","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Speckwürfel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"geriebener Gruyère","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl, Salz und Butter vermengen. Dann Eigelb sowie 50 ml Eiswasser zufügen und alles rasch glatt verkneten. Teig zu einer Kugel formen, in Frischhaltefolie wickeln und ca. 1 Stunde kühlen."},{"headline":null,"content":"Den Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Den Teig auf bemehlter Fläche ausrollen (Ø 28 cm) und in der Form als Boden und Rand andrücken. Mit Backpapier und Hülsenfrüchten belegen und ca. 15 Minuten blindbacken. Anschließend aus dem Ofen nehmen. Papier samt Hülsenfrüchten entfernen."},{"headline":null,"content":"Inzwischen für den Belag den Speck in einer Pfanne auslassen, dann auf Küchenpapier abtropfen lassen. Für den Guss Eier mit Milch und Sahne verquirlen. Mit Salz und Pfeffer würzen."},{"headline":null,"content":"Speck auf dem Teig verteilen, mit Käse bestreuen, Guss darüber gießen. Quiche ca. 40 Minuten backen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Quiche Lorraine</Title>
+    <CustomRecipeNoteInformation position="1">Man braucht: 1 Quiche-Form (Ø ca. 24 cm)</CustomRecipeNoteInformation>
+    <Headline position="1">Feigen-Nuss-Quiche</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-17T10:55:33+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82uvmg9y1qc19241rlkq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiche" suffix="in Stückchen" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="3" amount="1" plural="Eier"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82uvmgo2gv79li7rlkq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5891" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Feigen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" position="2" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Walnüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="3" amount="3" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="4" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="5" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="flüssige" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7hkab6x1t1kofr241f0" position="8" amount="1.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Rosmarinnadeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10566" position="9" amount="1.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Thymianblättchen"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" position="10" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(z. B. Gouda)" plural="geriebener Käse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für Belag &amp; Guss</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82uvmhjgmmt2wn8alkq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Teig Mehl, Salz, Ei und Butter in eine Schüssel geben und mit dem Knethaken einer Küchenmaschine krümelig verarbeiten. Dann auf einer leicht bemehlten Fläche rasch mit den Händen glatt verkneten – evtl. etwas kaltes Wasser oder Mehl ergänzen. Den Teig in Frischhaltefolie wickeln und ca. 30 Minuten kühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68f206e2e7885">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68f206f948774">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Teig auf einer bemehlten Fläche etwas größer als die Form ausrollen und die Form damit auskleiden – dabei auch einen Rand andrücken. Den Teigboden mehrmals mit einer Gabel einstechen, mit Backpapier und Hülsenfrüchten belegen und ca. 15 Minuten blindbacken. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68f2073a96b11">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für den Belag die Feigen abbrausen und längs halbieren. Die Walnüsse grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68f2074a8c405">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Guss Eier mit Sahne und Butter verquirlen. Den Guss mit Salz, Pfeffer und je 1 TL Rosmarin sowie Thymian würzen. Dann 75 g Nüsse und den Käse untermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68f2077f31446">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Form aus dem Backofen nehmen und kurz abkühlen lassen. Dann das Backpapier samt der Hülsenfrüchte entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_68f207a41f686">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Guss auf dem Teigboden verteilen. Die Feigen mit der Schnittfläche nach oben eindrücken. Die Quiche weitere ca. 25 Minuten backen, bis der Käse geschmolzen ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_8_68f207b740034">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Quiche aus dem Ofen nehmen und mit den übrigen Kräutern sowie 75 g Nüssen bestreuen. Die Quiche vor dem Servieren kurz abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 8</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Mehl-Mix</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Klassischerweise wird für Quiche-Teige Weizenmehl Type 405 verwendet. Für diese herzhaftkernige Variante können Sie aber auch wunderbar Dinkelmehl Type 630 oder eine Mischung aus 175 g Dinkelmehl Type 630 und 25 g Roggenvollkornmehl verwenden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Feigen-Käse-Quiche</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Frank Göllner</ImageCredit>
+      <DocumentRef doc_id="doc7l8rss5m3m0h54ti3n5" file_variant="master" position="1">Feigen-Käse-Quiche</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86q2zftx0idc8405p6v" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-15T08:59:03+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-15T09:18:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ze5uut0sxtyocqlcde"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="tm_topic_default_unit" minutes="40"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnr91dm1ldo5"/>
+    <Provider topic="tmt86q38dkg7vscdnjzpbk"/>
+    <Source topic="tmt86q38dkj0i819vfmbpbk"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pastinaken-Schupfnudeln","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Backen","duration":40}],"difficulty":null,"price":null,"nutritions":{"calories":600,"kilojoule":null,"carbonhydrates":103,"fat":14,"protein":16,"breadunit":9}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Pastinaken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"mehligkochende Kartoffeln","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Weichweizengrieß","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"und Mehl zum Arbeiten"},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":null,"amountTo":null,"ingredient_name":"Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":"geriebene","suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":"(z. B. Haselnussöl)"},{"amount":4,"amountTo":5,"ingredient_name":"zerlassene Butter","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Am Vortag","content":"Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Pastinaken schälen, in grobe Stücke schneiden. Mit etwa 200 ml Wasser in eine ofenfeste Form geben. Mit Backpapier zudecken. Im Ofen 30–40 Minuten weich garen."},{"headline":null,"content":"Kartoffeln mit Schale in Salzwasser gar kochen, pellen und ausdampfen lassen."},{"headline":null,"content":"Lauwarme Pastinaken und Kartoffeln fein zerstampfen und mit Grieß, Mehl, Eiern, Salz und Muskatnuss zu einem Teig verkneten."},{"headline":null,"content":"5 cm lange Schupfnudeln auf einer bemehlten Arbeitsfläche formen."},{"headline":null,"content":"Schupfnudeln portionsweise in reichlich kochendem Salzwasser 4–5 Minuten garziehen lassen. Herausheben, gut abtropfen lassen und mit Öl beträufelt zugedeckt kalt stellen."},{"headline":"Zum Servieren","content":"Die Butter erhitzen und Schupfnudeln darin 2 Minuten braten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pastinaken-Schupfnudeln</Title>
+    <CustomRecipeNutritionalValueCalories position="1">600</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">103</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">14</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <Headline position="1">Pastinaken-Schupfnudeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-15T08:59:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86q2zi2mctt1gegda1etn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8606" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pastinaken" position="1"/>
+      <CustomRecipeIngredient topic="tmt80j860dt4auamn8mgip" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" position="2" plural="mehligkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11036" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weichweizengrieß" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Mehl zum Arbeiten" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="geriebene" plural="Muskatnuss" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(z. B. Haselnussöl)" plural="Öl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="4" max_amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="9" amount_max="5" prefix="zerlassene" plural="Butter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86q2zkac8fkf1adl1etn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Pastinaken schälen, in grobe Stücke schneiden. Mit etwa 200 ml Wasser in eine ofenfeste Form geben. Mit Backpapier zudecken. Im Ofen 30–40 Minuten weich garen. Kartoffeln mit Schale in Salzwasser gar kochen, pellen und ausdampfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Am Vortag</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86q2zkacjt4dsftf1etn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lauwarme Pastinaken und Kartoffeln fein zerstampfen und mit Grieß, Mehl, Eiern, Salz und Muskatnuss zu einem Teig verkneten. 5 cm lange Schupfnudeln auf einer bemehlten Arbeitsfläche formen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86q2zkack49myqvk1etn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Schupfnudeln portionsweise in reichlich kochendem Salzwasser 4–5 Minuten garziehen lassen. Herausheben, gut abtropfen lassen und mit Öl beträufelt zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86q2zkack811bt5fg1etn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Butter erhitzen und Schupfnudeln darin 2 Minuten braten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Zum Servieren</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kalbsbraten mit Paprikagemüse und Schupfnudeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc84wz4ucim037eh3cbeu" file_variant="master" position="1">Kalbsbraten mit Paprikagemüse und Schupfnudeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

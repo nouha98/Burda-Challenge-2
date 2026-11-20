@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x0wlm8lqs9a5ur1t9g" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T13:41:06+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-12T13:48:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Orangenlimonade","recipe_seo_headline":"Orangenlimonade – die fruchtige Erfrischung","servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Sirup","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Bio-Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":1500,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Orangenscheiben","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Minzblätter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Orangen und Zitronen abwaschen und abtrocknen. Mit einer Reibe die Schale der Zitrone und Orangen abreiben. Schale mit dem Zucker und dem Wasser in einen Topf geben und aufkochen lassen, bis sich der Zucker gelöst hat. Kurz abkühlen lassen."},{"headline":null,"content":"Sirup durch einen Sieb abgießen und vollständig abkühlen lassen. Orangen und Zitrone auspressen. Den Saft zum Sirup gießen und kühlstellen."},{"headline":null,"content":"Für die Zubereitung der Limonade eine beliebige Menge Sirup mit Sprudel aufgießen. Nach Belieben mit einer Orangenscheibe und Minzblättern garnieren. Der Sirup hält sich gekühlt mindestens 2 Wochen."}],"recipe_tips":[{"headline":"Noch mehr Orangen-Geschmack","content":"Fülle einen Eiswürfelbehälter mit Orangensaft und friere ihn ein. Serviere die Limo mit den Orangen-Eiswürfeln."}]}</CustomStructuredRecipeJson>
+    <Title>Orangenlimonade</Title>
+    <CustomRecipeSeoTitle position="1">Orangenlimonade – die fruchtige Erfrischung</CustomRecipeSeoTitle>
+    <Headline position="1">Orangenlimonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T13:41:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x0wjhppxd14e6hb1t9g">
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Orangen" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Sirup</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81x0wkh0w6b5tvj71t9g">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="1500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8511" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="zum Garnieren" plural="Orangenscheiben" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="zum Garnieren" plural="Minzblätter" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x0wlm8ixx2qkkd1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Orangen und Zitronen abwaschen und abtrocknen. Mit einer Reibe die Schale der Zitrone und Orangen abreiben. Schale mit dem Zucker und dem Wasser in einen Topf geben und aufkochen lassen, bis sich der Zucker gelöst hat. Kurz abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Sirup</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x0wlm8j8lz6uof1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sirup durch ein Sieb abgießen und vollständig abkühlen lassen. Orangen und Zitrone auspressen. Den Saft zum Sirup gießen und kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x0wlm8jerhjvcr1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für die Zubereitung der Limonade eine beliebige Menge Sirup mit Sprudelwasser aufgießen. Nach Belieben mit einer Orangenscheibe und Minzblättern garnieren. Der Sirup hält sich gekühlt mindestens 2 Wochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x0wlm8jusqhf961t9g">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Fülle einen Eiswürfelbehälter mit Orangensaft und friere ihn ein. Serviere die Limo mit den Orangen-Eiswürfeln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Noch mehr Orangen-Geschmack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ay52s3o6hzz2k1shp" file_variant="master" position="1">OrangenLimonade3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689b29d581ccf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ay506ztvn1mv2xhouj" file_variant="master" position="1">OrangenLimonadeStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Orange reiben</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_689b29d76c493">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81ay594pv9tbdlk2ruu" file_variant="master" position="1">OrangenLimonadeStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>durch Sieb giesßen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_689b29da2bde1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81ay5641qxw19cw9zos7" file_variant="master" position="1">OrangenLimonade1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689b29db96e43">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81ay4x1ivmway5n3rql" file_variant="master" position="1">OrangenLimonade2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

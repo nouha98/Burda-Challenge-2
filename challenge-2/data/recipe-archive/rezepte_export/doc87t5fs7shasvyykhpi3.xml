@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87t5fs7shasvyykhpi3" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-29T09:48:25+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-09-29T09:57:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0roxe1by4tedo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt87t5jvc5scyb0r97g4x"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schwarze Bohnen Salat","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bohnen","unit":{"name":"Dose"},"prefix":"schwarze","suffix":"(Abtropfgewicht je Dose: 250 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Mais","unit":null,"prefix":null,"suffix":"kleine Dose (Abtropfgewicht je Dose: 140 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Paprikaschote","unit":null,"prefix":"rote","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Kirschtomate","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":null,"prefix":"kleine rote","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Avocado","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limette","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Chilischote","unit":null,"prefix":"grüne oder rote","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Rucola","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Koriander","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":"geräuchert"},{"amount":0.5,"amountTo":null,"ingredient_name":"Kreuzkümmel","unit":{"name":"TL"},"prefix":null,"suffix":"gemahlen"}]}],"preparation":[{"headline":null,"content":"Schwarze Bohnen und Mais auf ein Sieb geben und abtropfen lassen. Paprikaschote halbieren, den Stielansatz und das Kerngehäuse entfernen, waschen und in ca. 1,5 cm große Stücke schneiden. Kirschtomaten waschen und halbieren. Rote Zwiebel abziehen und fein würfeln."},{"headline":null,"content":"Avocado mit einem scharfen Messer vorsichtig halbieren, den Kern entfernen und das Avocadofruchtfleisch mit einem Esslöffel herausheben. Avocado in 1 cm große Würfel schneiden. Limetten auspressen und die Avocado-Würfel mit 1 EL davon vermengen."},{"headline":null,"content":"Chilischote abbrausen, längs halbieren, den Stielansatz, das Kerngehäuse und die Kerne entfernen und fein hacken. Rucola waschen und trockenschleudern. Koriander abbrausen, trockenschütteln und hacken."},{"headline":null,"content":"Für das Dressing das Olivenöl mit dem restlichen Limettensaft verquirlen und den Honig unterrühren. Dressing mit Salz, Pfeffer, Paprikapulver und Kreuzkümmel abschmecken."},{"headline":null,"content":"Alle Zutaten in eine Schüssel geben, vorsichtig mit dem Dressing vermengen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Schwarze Bohnen Salat</Title>
+    <Headline position="1">Schwarze Bohnen Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-29T09:48:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87t5fnhah1f186131pi3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5021" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" prefix="schwarze" suffix="(Abtropfgewicht je Dose: 250 g)" plural="Bohnen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7866" amount="1" unit_topic="tmt71k9lavq8xsgd6tlive" unit="Dose" suffix="(Abtropfgewicht je Dose: 140 g)" plural="Mais" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="rote" plural="Paprikaschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleine rote" plural="Zwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Avocados" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Limetten" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="grüne oder rote" plural="Chilischoten" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rucola" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Koriander" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="14"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="geräuchert" plural="Paprikapulver" position="15"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="gemahlen" plural="Kreuzkümmel" position="16"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87t5fs7sdy1t5dbgpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schwarze Bohnen und Mais auf ein Sieb geben und abtropfen lassen. Paprikaschote halbieren, den Stielansatz und das Kerngehäuse entfernen, waschen und in ca. 1,5 cm große Stücke schneiden. Kirschtomaten waschen und halbieren. Rote Zwiebel abziehen und fein würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t5fs7sgfbb96mhpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Avocado mit einem scharfen Messer vorsichtig halbieren, den Kern entfernen und das Avocadofruchtfleisch mit einem Esslöffel herausheben. Avocado in 1 cm große Würfel schneiden. Limetten auspressen und die Avocado-Würfel mit 1 EL davon vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t5fs7sgk2zdkd9pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Chilischote abbrausen, längs halbieren, den Stielansatz, das Kerngehäuse und die Kerne entfernen und fein hacken. Rucola waschen und trockenschleudern. Koriander abbrausen, trockenschütteln und hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t5fs7sgnk188qmepi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Für das Dressing das Olivenöl mit dem restlichen Limettensaft verquirlen und den Honig unterrühren. Dressing mit Salz, Pfeffer, Paprikapulver und Kreuzkümmel abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87t5fs7sgqpu5t00pi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Alle Zutaten in eine Schüssel geben, vorsichtig mit dem Dressing vermengen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schwarze-Bohnen-Salat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5rjcogkn61h7q68bnm" file_variant="master" position="1">SchwarzeBohnenSalat2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6abb6f4eeba83">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schwarze-Bohnen-Salat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5rmginuqpxyfmobnj" file_variant="master" position="1">SchwarzeBohnenSalatStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6abb6f51ba6cb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schwarze-Bohnen-Salat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5riejxlpkiw37nbnm" file_variant="master" position="1">SchwarzeBohnenSalat1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

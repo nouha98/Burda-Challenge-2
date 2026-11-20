@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7cmhq57piqe9n6nh6j4" dcx-version="6.3.1" version="1.0">
+  <created>2020-10-05T11:54:01+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2022-04-20T15:33:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <ImportedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <Keywords topic="tmt7cmhrohshs2pj8zu6j5"/>
+    <Keywords topic="tmt7ijdm7seykz1d6ciyiup"/>
+    <Source topic="tmt7ijdm7sj8zp1mbh2piup"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <DateImported>2020-10-05T11:54:01+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">220</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Cremiges Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" position="1" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Hokkaidokürbis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" position="2" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mascarpone"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="4" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="5" amount="225" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" position="6" amount="75" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" position="7" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" position="8" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Löffelbiskuits"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" position="9" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kakaopulver"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1Kürbis waschen, entkernen, klein würfeln. Mit 80 ml Wasser zugedeckt in ca. 10 Min. weich dünsten, dann pürieren und abkühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_5f7aedc48afd2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">2Mascarpone, Puder-, Vanillezucker und 75 ml Milch verrühren. Püree unterziehen. 150 ml Milch, Espresso und Rum mischen. Die Hälfte der Biskuits auf 8 Gläser verteilen. Mit der Hälfte des Espresso-Mixes beträufeln und die Hälfte der Kürbiscreme aufspritzen. Schichtung wiederholen. Tiramisu abgedeckt mindestens 2 Std. kühl stellen. Mit Kakao bestäuben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Afanasyeva, Oxana</ImageCredit>
+      <DocumentRef doc_id="doc7aud39jb6djuglxzeep" file_variant="master" position="1">K rbis-Tiramisu</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

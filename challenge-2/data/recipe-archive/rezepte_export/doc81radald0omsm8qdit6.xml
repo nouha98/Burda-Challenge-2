@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81radald0omsm8qdit6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T09:42:43+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-01T09:52:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbismarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":null},{"name":"Garen","duration":20},{"name":"Ruhen/Warten","duration":1440}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1000,"amountTo":null,"ingredient_name":"Kürbis","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Hokkaido oder Butternutkürbis)"},{"amount":400,"amountTo":null,"ingredient_name":"säuerliche Äpfel","unit":{"name":"g"},"prefix":null,"suffix":"ca. 2 große Äpfel (z.B. Boskop)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"(3 cm breit)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker 2:1","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kürbis schälen, halbieren und mit Hilfe eines Esslöffels das Kerngehäuse entfernen. Kürbis in grobe Stücke schneiden und in einen großen Topf geben. Äpfel waschen, halbieren und das Kerngehäuse entfernen. In grobe Stücke schneiden und zu dem Kürbis geben."},{"headline":null,"content":"Vanilleschote der Länge nach mit einem scharfen Messer aufschneiden. Das Mark mit der stupfen Seite des Messers auskratzen und in den Topf geben. (Ausgekratzte Schote in 3-4 Stücke schneiden und in ein Glas mit Zucker füllen. So erhält man nach 1-2 Wochen aromatisierten Zucker zum Weiterverarbeiten). Ingwer in 3 Scheiben schneiden. Zitrone auspressen. Zitronensaft, Zimtstange, Ingwerscheiben und 200 ml Wasser in den Topf geben, einmal aufkochen lassen. Bei mittlerer Hitze und geschlossenem Deckel 15 Minuten köcheln lassen."},{"headline":null,"content":"Zimtstange und Ingwerstücke entfernen. Mit einem Pürierstab durchpürieren. Gelierzucker zum Püree geben und verrühren. Erneut aufkochen und 3-4 Minuten sprudelnd kochen lassen. In vier saubere Schraubgläser (á 350 g) füllen, direkt verschießen und über Nacht festwerden lassen."}],"recipe_tips":[{"headline":"Statt frischen Äpfeln","content":"kannst du auch 350 ml Apfelsaft verwenden. Reduziere dann das Wasser auf 100 ml."}]}</CustomStructuredRecipeJson>
+    <Title>Kürbismarmelade</Title>
+    <Headline position="1">Kürbismarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T09:42:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81rad8ltljn1f16d7it6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7541" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. Hokkaido oder Butternutkürbis)" plural="Kürbis" position="1"/>
+      <CustomRecipeIngredient topic="tmt803gs8kofg71ekod6iy2" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ca. 2 große Äpfel (z.B. Boskop)" position="2" plural="säuerliche Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(3 cm breit)" plural="Ingwer" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="6"/>
+      <CustomRecipeIngredient topic="tmt80lb3kjewbmoog2j1ybk" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="Gelierzucker 2:1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81radalctrp12s52ait6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kürbis schälen, halbieren und mit Hilfe eines Esslöffels das Kerngehäuse entfernen. Kürbis in grobe Stücke schneiden und in einen großen Topf geben. Äpfel waschen, halbieren und das Kerngehäuse entfernen. In grobe Stücke schneiden und zu dem Kürbis geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81radalcwpk15qij1it6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Vanilleschote der Länge nach mit einem scharfen Messer aufschneiden. Das Mark mit der stupfen Seite des Messers auskratzen und in den Topf geben. (Ausgekratzte Schote in 3-4 Stücke schneiden und in ein Glas mit Zucker füllen. So erhält man nach 1-2 Wochen aromatisierten Zucker zum Weiterverarbeiten). Ingwer in 3 Scheiben schneiden. Zitrone auspressen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_688c7158bbc3c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitronensaft, Zimtstange, Ingwerscheiben und 200 ml Wasser in den Topf geben, einmal aufkochen lassen. Bei mittlerer Hitze und geschlossenem Deckel 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81radalcwvb1gxvg0it6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zimtstange und Ingwerstücke entfernen. Mit einem Pürierstab durchpürieren. Gelierzucker zum Püree geben und verrühren. Erneut aufkochen und 3-4 Minuten sprudelnd kochen lassen. In vier saubere Schraubgläser (á 350 g) füllen, direkt verschießen und über Nacht festwerden lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81radalcx03199hxwit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch 350 ml Apfelsaft verwenden. Reduziere dann das Wasser auf 100 ml.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt frischen Äpfeln</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814po944zcy5cbsocoq" file_variant="master" position="1">Kuerbis_Marmelade_4675.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688c7217d781a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pob3ziea11feahhma" file_variant="master" position="1">Kuerbis_Marmelade_4163.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688c721a4d6e7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814po7jfrgp1jet6cot" file_variant="master" position="1">Kuerbis_Marmelade_4229.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688c721c0081b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814poc6gp84a18ricos" file_variant="master" position="1">Kuerbis_Marmelade_4652.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83gg93bxkex6jopdkxn" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-28T09:34:29+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-28T09:45:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="3"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqlikcj3kdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tassenpizza","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Backen","duration":3}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"EL"},"prefix":null,"suffix":"(Type 405, ca. 100 g)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":"(1,5 % Fett, ca. 100 ml)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"EL"},"prefix":null,"suffix":"(2-fach konzentriert)"},{"amount":1,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"getrocknete, italienische Kräuter","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mini-Salami","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":"für die Tasse"},{"amount":2,"amountTo":null,"ingredient_name":"geriebener Gouda","unit":{"name":"EL"},"prefix":null,"suffix":"(48 % Fett i. Tr.)"},{"amount":3,"amountTo":null,"ingredient_name":"Mini-Mozzarella-Kugeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl, Backpulver und ½ TL Salz in einer kleinen Schüssel mischen, Milch und Olivenöl zugeben und zu einem glatten Teig rühren."},{"headline":null,"content":"Tomatenmark mit Wasser, Kräutern und 1 Prise Salz verrühren und die Salami in Scheiben schneiden."},{"headline":null,"content":"Eine große, breite, mikrowellengeeignete Tasse (ca. 400 ml) mit Olivenöl ausreiben, Teig einfüllen, mit Tomatensoße bestreichen, mit Käse bestreuen und mit Salami belegen."},{"headline":null,"content":"Tassenpizza auf höchster Stufe (800 Watt) ca. 2,5 Minuten in der Mikrowelle garen, etwas abkühlen lassen und nach Wunsch mit einem Spritzer Chilisoße genießen."}],"recipe_tips":[{"headline":"Tassenpizza aus dem Backofen","content":"Falls Du keine Mikrowelle hast, kannst du die Tassenpizza auch 15-20 Minuten im vorgeheizten Backofen bei 190 Grad Ober-/Unterhitze (Umluft: 170 Grad) backen."}]}</CustomStructuredRecipeJson>
+    <Title>Tassenpizza</Title>
+    <Headline position="1">Tassenpizza</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-28T09:34:29+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83gg8yqufeb1jugzgkxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" suffix="für die Tasse" plural="Olivenöl" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(Type 405, ca. 100 g)" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(1,5 % Fett, ca. 100 ml)" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(2-fach konzentriert)" plural="Tomatenmark" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Wasser" position="7"/>
+      <CustomRecipeIngredient topic="tmt83ehr3sndev7du1g1pc6" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" prefix="getrocknete italienische" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt83efla96ap3jjlpe1e8t" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Mini-Salami" position="9"/>
+      <CustomRecipeIngredient topic="tmt80j864z8iddrbqe4gip" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(48 % Fett i. Tr.)" position="10" plural="geriebener Gouda"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8261" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="11" prefix="Mini-" plural="Mozzarellakugeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5376" position="13" amount="1" unit_topic="tmt71k9mmbwn5g16y47yive" unit="Spritzer" suffix="nach Wunsch" plural="Chilisauce"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83gg93bx40nfqlc1kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, Backpulver und Salz in einer kleinen Schüssel mischen, Milch und Olivenöl zugeben und zu einem glatten Teig rühren. Tomatenmark mit Wasser, Kräutern und 1 Prise Salz verrühren und die Salami in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83gg93bx9oz1ctnr6kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine große, breite, mikrowellengeeignete Tasse (à ca. 400 ml) mit Olivenöl ausreiben, Teig einfüllen, mit Tomatensoße bestreichen, mit Käse bestreuen und mit Salami belegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83gg93bx9u17xupmkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Tassenpizza auf höchster Stufe (800 Watt) ca. 2,5 Minuten in der Mikrowelle garen, etwas abkühlen lassen und nach Wunsch mit einem Spritzer Chilisoße genießen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83gg93bxa0xgppi5kxn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls Du keine Mikrowelle hast, kannst du die Tassenpizza auch 15-20 Minuten im vorgeheizten Backofen bei 190 Grad Ober-/Unterhitze (Umluft: 170 Grad) backen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tassenpizza aus dem Backofen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9kec183krfjiy8hw" file_variant="master" position="1">Tassenpizza</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6929613742f55">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9k9xxp4pgu21r8wp" file_variant="master" position="1">Tassenpizza</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69296138a67de">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9k8dg3as14bkxj8pk" file_variant="master" position="1">Tassenpizza</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69296139d98c0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9kd4korlhzmxu1fhm" file_variant="master" position="1">Tassenpizza</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

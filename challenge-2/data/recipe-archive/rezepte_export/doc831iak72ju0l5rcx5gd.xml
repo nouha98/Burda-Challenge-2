@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc831iak72ju0l5rcx5gd" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-30T07:35:33+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-30T07:39:50+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tonkabohnen Eis","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Tonkabohne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":2,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":"(30 % Fett)"}]}],"preparation":[{"headline":null,"content":"Milch und Zucker in einen Topf geben, erhitzen, die Tonkabohne (wie eine Muskatnuss) in die Milch reiben, bei mittlerer Hitze 10 Minuten köcheln lassen und vom Herd nehmen."},{"headline":null,"content":"Ei und Eigelbe in einer Schüssel schaumig schlagen. Milch noch einmal aufkochen und unter die Eimasse rühren. Unter ständigem Rühren in einem Topf bei mittlerer Hitze auf ca. 75 Grad erhitzen, bis die Masse leicht bindet."},{"headline":null,"content":"Sahne unterrühren, die Eismasse in einer Schüssel über kaltem Wasser – am besten mit Eiswürfeln – kalt rühren und in einer Eismaschine ca. 45 Minuten gefrieren lassen."},{"headline":null,"content":"Eis in einem verschlossenen Behälter im Gefrierfach aufbewahren, vor dem Servieren 10 Minuten in den Kühlschrank stellen, Kugeln abstechen und servieren."}],"recipe_tips":[{"headline":"Macadamia und Honig","content":"Verfeinere das Eis mit fein gehackten, gerösteten Macadamianüssen und menge Sie mit 2 EL Honig unter das Eis."}]}</CustomStructuredRecipeJson>
+    <Title>Tonkabohnen Eis</Title>
+    <Headline position="1">Tonkabohnen Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-30T07:35:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="831iaj6f7bsh4b7o5gd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(3,5 % Fett)" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10691" amount="0.25" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Tonkabohnen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="5" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(30 % Fett)" position="6" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="831iak72d6t3n7i55gd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch und Zucker in einen Topf geben, erhitzen, die Tonkabohne (wie eine Muskatnuss) in die Milch reiben, bei mittlerer Hitze 10 Minuten köcheln lassen und vom Herd nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Tonkabohneneis </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="831iak72fn411pibe5gd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ei und Eigelbe in einer Schüssel schaumig schlagen. Milch noch einmal aufkochen und unter die Eimasse rühren. Unter ständigem Rühren in einem Topf bei mittlerer Hitze auf ca. 75 Grad erhitzen, bis die Masse leicht bindet.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="831iak72fs3184gk5gd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Sahne unterrühren, die Eismasse in einer Schüssel über kaltem Wasser – am besten mit Eiswürfeln – kalt rühren und in einer Eismaschine ca. 45 Minuten gefrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="831iak72fwi1ld1555gd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eis in einem verschlossenen Behälter im Gefrierfach aufbewahren, vor dem Servieren 10 Minuten in den Kühlschrank stellen, Kugeln abstechen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="831iak72g15g7g5z5gd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere das Eis mit fein gehackten, gerösteten Macadamianüssen und menge Sie mit 2 EL Honig unter das Eis.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Macadamia und Honig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n4jkmzxc31fztek2eh" file_variant="master" position="1">Tonkabohneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6903082b28e54">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n4jmfq2851iaptr2dw" file_variant="master" position="1">Tonkabohneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6903082cdd572">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n4jp21duo9c8dk2ga" file_variant="master" position="1">Tonkabohneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6903082eaff82">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n4jhngny9w4giq2dw" file_variant="master" position="1">Tonkabohneneis II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

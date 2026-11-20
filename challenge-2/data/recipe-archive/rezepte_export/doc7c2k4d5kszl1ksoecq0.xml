@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2k4d5kszl1ksoecq0" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:50:03+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2025-12-31T11:34:57+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt6ow9eajbcmv2l2v78m9" position="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium" position="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv" position="1"/>
+    <Creator topic="tmt7227qo31caggkepem67" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="90"/>
+    <Classification topic="dc_se_thesterm_6on9dzuhvh4d37u3bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="43" score="1"/>
+    <Classification topic="dc_se_thesterm_6on9dzuljhk6zvasbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="34" score="0.796822"/>
+    <Classification topic="dc_se_thesterm_6on9dzulj6rgzgp6bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="24" score="0.552995"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomBlpId position="1">45944</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:In Arbeit</CustomBlpDataField>
+    <CustomBlpDataField position="1">Notiz:StockFood
+Titel 	12474891
+Lachs-Mortadella mit buntem Salat und Granatapfelkernen</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">285</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">7</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">27</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">16</CustomRecipeNutritionalValueFat>
+    <CustomCenshareImportIssue>invalid ingredient unit 'Schuss'</CustomCenshareImportIssue>
+    <Title>Lachs-Mortadella mit buntem Salat und Granatapfelkernen</Title>
+    <Headline position="1">Lachs-Mortadella mit buntem Salat und Granatapfelkernen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2020-02-27T00:00:00+01:00</DateCreated>
+    <DateImported>2020-08-27T16:50:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="b6461a">
+      <CustomRecipeIngredient topic="tmt796n3vkmx77yutm5ffr" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Lachsfilet"/>
+      <CustomRecipeIngredient topic="tmt7c10ybd9hhzzbxjucil" amount="8" unit_topic="tm_topic_default_unit" position="2" unit="(Keine Einheit)" plural="frische Jakobsmuscheln ohne Corail"/>
+      <CustomRecipeIngredient topic="tmt796n3shxyya43xe2ffr" amount="0.5" unit_topic="tmt71k9l7ulc0y1015s16vi" position="3" unit="Bund" plural="Dill"/>
+      <CustomRecipeIngredient topic="tmt794qf1ihw5tvdap9e46" amount="4" unit_topic="tm_topic_default_unit" position="4" unit="(Keine Einheit)" plural="Eiweiß"/>
+      <CustomRecipeIngredient topic="tmt7byz7k1gd0lwx8xr1dc" amount="240" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" unit="g" plural="kalte Sahne"/>
+      <CustomRecipeIngredient topic="tmt794qf8zl79t1h6yabe46" amount="1" unit_topic="tmt_invalid_ingredient_unit" position="6" unit="Ungültige Einheit" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="7" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="8" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7866l3v51vovw4pqidm" amount="4" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Schollenfilets"/>
+      <CustomRecipeIngredient topic="tmt796n7n2t4gi1wkksffs" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" unit="g" plural="Pistazienkerne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="b646a4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Lachsfilet waschen, trocken tupfen, evtl. entgräten. Lachs faschieren bzw. sehr fein hacken. Masse zu 2 Rollen formen. Diese ca. 90 Min. frosten. Inzwischen die Muscheln waschen, abtrocknen und klein schneiden. Dillspitzen abzupfen, fein hacken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="b646b5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Lachsrollen klein schneiden, mit den Eiweißen aufmixen. Sahne langsam zugießen, unterrühren. Mit Zitronensaft, Pfeffer und Salz würzen. Masse durch ein feines Sieb streichen und bis zur Weiterverarbeitung kühl stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="b646ca">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Eine Kastenform (1 l Inhalt) mit Klarsichtfolie überlappend auslegen. Schollenfilets platt klopfen. Die Form damit auslegen. Lachs, Muscheln, Pistazien und Dill mischen. Einfüllen. Masse mithilfe der Folie fest zur Rolle formen. Rundum dicht mit Alufolie umwickeln. Bei 65–70 Grad im Wasserbad 50–60 Min. pochieren. Über Nacht kühl stellen. Die Terrine evtl. mit Kräutern und Granatapfelkernen garnieren. In Scheiben geschnitten servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="b64689">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Allgemeiner Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Ein knackiger Feldsalat mit Möhrenstreifen passt hervorragend zu der Terrine.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Stile Italia Edizioni</ImageCredit>
+      <DocumentRef doc_id="doc775t1nrgf49z8au4krl" file_variant="master" position="1">Lachs-Mortadella mit buntem Salat und Granatapfelkernen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k4dj118z5tk7bcq0" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:50:04+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k4d5kszl1ksoecq0"/>
+      <hash>56ed3e41020a97e41fe547d1b570b9c2</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:50:04+02:00</modified>
+      <size>5082</size>
+      <subpath>2020/08-27/90/69/file7c2k4dj118z5tk7bcq0.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k4dhq7lx1ertcccq0" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:50:04+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k4d5kszl1ksoecq0"/>
+      <hash>8abf47f882c5c53fa350eb92d6462c7e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:50:04+02:00</modified>
+      <size>72</size>
+      <subpath>2020/08-27/4b/22/file7c2k4dhq7lx1ertcccq0.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

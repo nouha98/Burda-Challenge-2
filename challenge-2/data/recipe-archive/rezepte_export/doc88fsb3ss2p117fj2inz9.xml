@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88fsb3ss2p117fj2inz9" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-12T10:04:15+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2026-11-12T10:11:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Creator topic="tmt8589me6ytdz910vuoh5"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="90"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq6p1ikrjgdo5"/>
+    <Source topic="tmt88fseao1svcjaijloeh"/>
+    <CustomRecipeNutritionalValueCalories position="1">450</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">38</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">29</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">10</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Polenta-Pommes mit sonnengetrockneten Tomaten und Feta (Air-Fryer)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-12T10:04:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="1" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="und zum Würzen" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8876" position="2" amount="170" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Polenta"/>
+      <CustomRecipeIngredient topic="tmt80gjcozkwdtsni8zbn8" position="3" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="in Öl" plural="getrocknete Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" position="4" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Feta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="6" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10566" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gehackte" plural="Thymianblättchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="8" plural="Pfeffer aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt86zuxq1rvqgysc8c1rif" position="9" plural="Sprühöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="10" suffix="zum Bestreichen" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8116" position="11" prefix="grobes" plural="Meersalz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Polenta</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6af5813f1e162">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="1" amount="1" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="1" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="3" amount="1.5" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" position="4" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Bio-Zitronenabrieb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7046" position="5" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gehackte" plural="Kapern"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="6" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zitronensaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Salsa</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eine quadratische Form (ca. 25 x 25 cm) mit Frischhaltefolie auslegen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6af5821518528">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Polenta in einem Topf 960 ml Wasser mit dem Salz aufkochen. Polenta einstreuen und unter Rühren bei reduzierter Hitze 10-15 Minuten köcheln lassen, bis die Masse eingedickt ist und sich vom Topfrand löst. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6af5821700e2a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Getrocknete Tomaten abtropfen lassen und klein würfeln. Feta fein zerbröseln oder hacken. Beides mit Butter, Parmesan und Thymian unterrühren, leicht salzen und pfeffern. Masse in die vorbereitete Form füllen, glattstreichen und ca. 1,5 Stunden kühl stellen, bis die Polenta fest ist.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6af58226105d1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Salsa Schalotte und Knoblauch abziehen und fein würfeln. Petersilie abbrausen, trockenschütteln, die Blätter abzupfen und fein hacken. Schalotte, Knoblauch und Petersilie mit Zitronenabrieb und Kapern in eine Schüssel geben. Olivenöl und Zitronensaft zufügen und alles gut verrühren. Die Salsa abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6af5822612f16">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Airfryer auf 200 °C vorheizen. Den Korb des Airfryers mit Öl aussprühen. Polentaplatte auf ein Brett stürzen, von der Folie befreien, halbieren und in 1-2 cm breite Streifen schneiden. Die Hälfte der Streifen mit Olivenöl bestreichen, nebeneinander in den Korb legen und 6-8 Minuten garen. Dann die Streifen wenden, leicht mit Öl bestreichen und in weiteren 6-7 Minuten goldbraun frittieren. Herausnehmen und warmhalten. Zweite Hälfte der Polentastreifen ebenso zubereiten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6af5823387a80">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Polenta-Pommes mit grobem Meersalz bestreuen, mit etwas Salsa beträufeln und servieren. Übrige Salsa separat dazu reichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Polenta-Pommes mit sonnengetrockneten Tomaten und Feta</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc86wdimx8kz8bajj1k6d" file_variant="master" position="1">Polenta-Pommes mit sonnengetrockneten Tomaten und Feta</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

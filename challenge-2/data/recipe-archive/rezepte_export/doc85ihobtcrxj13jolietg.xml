@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85ihobtcrxj13jolietg" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-21T12:51:50+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-21T13:04:51+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <Source topic="tmt85ihsiam74x5bamsevw"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pesto-Reis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"gekochter Langkornreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"grünes Pesto","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitronenabrieb","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(gehobelt, nach Belieben)"},{"amount":null,"amountTo":null,"ingredient_name":"Basilikumblättchen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(nach Belieben)"}]}],"preparation":[{"headline":null,"content":"300 g gekochten Langkornreis mit 3 EL grünem Pesto, 1 EL Olivenöl, 1 TL Bio-Zitronenabrieb, Salz und Pfeffer verrühren und unter Rühren erwärmen. Nach Belieben mit etwas gehobeltem Parmesan und Basilikumblättchen bestreuen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pesto-Reis</Title>
+    <Headline position="1">Pesto-Reis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-21T12:51:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85ihodoqyk11k6e2rsef">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7651" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="gekochten" plural="Langkornreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8656" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="2" plural="Pesto"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Bio-Zitronenabrieb" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(gehobelt, nach Belieben)" plural="Parmesan" position="7"/>
+      <CustomRecipeIngredient topic="tmt83eihgm91v4xc59q1t66" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(nach Belieben)" plural="Basilikumblättchen" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85ihofvtihxz6bvesef">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Langkornreis mit Pesto, Olivenöl, Bio-Zitronenabrieb, Salz und Pfeffer verrühren und unter Rühren erwärmen. Nach Belieben mit etwas gehobeltem Parmesan und Basilikumblättchen bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84m6167x9h4tkevhbvp" file_variant="master" position="1">Italienischer Reis mit Pesto, Arabischer Gewürz-Basmati mit Nüssen und Möhren, Tamarinden-Reis, Rote-Bete-Reis</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

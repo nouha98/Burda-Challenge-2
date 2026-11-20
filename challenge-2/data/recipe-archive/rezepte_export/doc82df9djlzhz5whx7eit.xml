@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82df9djlzhz5whx7eit" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-13T11:38:56+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-17T10:22:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" plural="Stücke" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kichererbsen-Brownies","recipe_seo_headline":"Kichererbsen-Brownies","servings":null,"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Backen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kichererbsen","unit":{"name":"Dose"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Nussmus","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":280,"amountTo":null,"ingredient_name":"Pflanzendrink","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. Sojadrink)"},{"amount":2,"amountTo":null,"ingredient_name":"Geschrotete Leinsamen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle feuchten Zutaten in einen Mixer geben und zu einer glatten, klümpchenfreien Masse pürieren. Mit gemahlenen Mandeln, Kakaopulver, Backpulver und Salz verrühren. Schokodrops unterheben."},{"headline":null,"content":"Bei 180 Grad für 30-35 Minuten backen. Mit einem Zahnstocher prüfen, ob die Brownies durchgebacken sind."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Kichererbsen-Brownies</Title>
+    <CustomRecipeSeoTitle position="1">Kichererbsen-Brownies</CustomRecipeSeoTitle>
+    <Headline position="1">Kichererbsen-Brownies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-13T11:38:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82df9a08so6v70i6eit">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="9" prefix="geschrotete" suffix="(oder anderer Ei-Ersatz)" plural="Leinsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7166" amount="2" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" plural="Kichererbsen" position="1" suffix="(à 265 g Abtropfgewicht)"/>
+      <CustomRecipeIngredient topic="tmt7jf1gp2acr4g6qcm2f0" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Nussmus" position="2" suffix="(z. B. Mandelmus oder Cashewmus)"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" plural="Pflanzendrink"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="gemahlene Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kakaopulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="280" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. Sojadrink)" plural="Pflanzendrink" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Wasser" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82df9djlymrdjf2leit">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle feuchten Zutaten in einen Mixer geben und zu einer glatten, klümpchenfreien Masse pürieren. Mit gemahlenen Mandeln, Kakaopulver, Backpulver und Salz verrühren. Schokodrops unterheben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82df9djlyt112y31leit">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Bei 180 Grad für 30-35 Minuten backen. Mit einem Zahnstocher prüfen, ob die Brownies durchgebacken sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mnpqpw71e1kbdoqbfn" file_variant="master" position="1">VeganeBrownies1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ca6fba566cb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mnptu9oclb2h2tbfn" file_variant="master" position="1">VeganeBrowniesStep.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ca6fbbecfe6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81mnps5607a135b0zbfn" file_variant="master" position="1">VeganeBrownies2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

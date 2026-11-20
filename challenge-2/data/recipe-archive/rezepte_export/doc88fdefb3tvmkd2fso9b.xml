@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88fdefb3tvmkd2fso9b" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-11T14:43:43+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2026-11-11T14:49:49+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Creator topic="tmt8589me6ytdz910vuoh5"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtdvqlmgtdo5"/>
+    <Source topic="tmt88ebo30rm2o1epjiwewo"/>
+    <CustomRecipeNoteInformation position="1">Zutaten für 4–6 Personen</CustomRecipeNoteInformation>
+    <Headline position="1">Senfkaramellsauce mit Schmand</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-11T14:43:43+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="2" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" position="4" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="körniger" plural="Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" position="5" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schmand"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" position="8" amount="4" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" plural="Dill"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln abziehen und in feine Ringe schneiden. Butter in einer Pfanne zerlassen und Zwiebeln bei kleiner Hitze weich dünsten. Zucker zugeben und leicht karamellisieren lassen. Senf und Schmand unterrühren. Mit Salz und Pfeffer würzen und mit zerzupftem Dill bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>4x Dips zum Fondue - Miso-Mayo, Petersilienöl mit Limette, Senfkaramell-Sauce, Salzzitronenpüree, Harissa-Joghurt</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc851okzcimztbyqak7q8" file_variant="master" position="1">4x Dips zum Fondue - Miso-Mayo, Petersilienöl mit Limette, Senfkaramell-Sauce, Salzzitronenpüree, Harissa-Joghurt</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

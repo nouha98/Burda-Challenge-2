@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x1hxb9mmb1isu101t9h" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T14:27:13+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-13T12:53:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schoko Milchreis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Kühlen","duration":10},{"name":"Garen","duration":35}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":"nach Belieben"},{"amount":100,"amountTo":null,"ingredient_name":"Milchreis-Körner","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zartbitter-Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1.5,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"1-2","amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"TL"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Milch, Zucker und nach Belieben eine Prise Zimt in einem Topf aufkochen. Milchreiskörner und Zucker in die kochende Milch rühren. Bei niedriger bis mittlerer Hitze unter gelegentlichem Rühren 35 Minuten köcheln lassen. Die letzten 10 Minuten muss der Milchreis öfter umgerührt werden damit dieser nicht am Topfboden anbrennt."},{"headline":null,"content":"Topf von der Herdplatte ziehen. Schokolade grob hacken und zusammen mit der Butter in den heißen Milchreis rühren. Unter gelegentlichem Rühren 10 Minuten ziehen lassen. Schokoladen-Milchreis je nach Schokoladen-Intensität mit 1-2 TL Backkakao nachwürzen."},{"headline":null,"content":"Auf vier Dessertschüsseln (á 200 ml) verteilen und am besten lauwarm servieren. Nach Belieben mit weiterer, grob gehackter Schokolade garnieren."}],"recipe_tips":[{"headline":"Vorbereiten","content":"Du kannst den Milchreis auch zwei Tage im Voraus zubereiten und im ausgekühlten Zustand kaltstellen. Nehme diesen etwa 1 Stunde vor dem Verzehr aus dem Kühlschrank, rühre ihn gut durch und erwärme ihn mit 100 ml Milch."}]}</CustomStructuredRecipeJson>
+    <Title>Schoko Milchreis</Title>
+    <Headline position="1">Schoko Milchreis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T14:27:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x1hvaobbtjfhs31t9h">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="nach Belieben" plural="Zimt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" suffix="-Körner" plural="Milchreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1.5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="1,5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="nach Belieben" plural="Kakaopulver" position="8" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x1hxb9lnrhqipn1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch, Zucker und nach Belieben eine Prise Zimt in einem Topf aufkochen. Milchreiskörner und Zucker in die kochende Milch rühren. Bei niedriger bis mittlerer Hitze unter gelegentlichem Rühren 35 Minuten köcheln lassen. Die letzten 10 Minuten muss der Milchreis öfter umgerührt werden damit dieser nicht am Topfboden anbrennt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1hxb9lvrpoax21t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Topf von der Herdplatte ziehen. Schokolade grob hacken und zusammen mit der Butter in den heißen Milchreis rühren. Unter gelegentlichem Rühren 10 Minuten ziehen lassen. Schokoladen-Milchreis je nach Schokoladen-Intensität mit 1-2 TL Backkakao nachwürzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81x1hxb9lz5cxqj21t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Auf vier Dessertschüsseln (á 200 ml) verteilen und am besten lauwarm servieren. Nach Belieben mit weiterer, grob gehackter Schokolade garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x1hxb9m2p1he6d91t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst den Milchreis auch zwei Tage im Voraus zubereiten und im ausgekühlten Zustand kaltstellen. Nehme diesen etwa 1 Stunde vor dem Verzehr aus dem Kühlschrank, rühre ihn gut durch und erwärme ihn mit 100 ml Milch.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gut vorzubereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az3qa6rawdjx5qos7" file_variant="master" position="1">Schoko_Milchreis_12265.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689c6e947e869">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az3rrhfbcqo8rip6p" file_variant="master" position="1">Schoko_Milchreis_12155.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689c6e96f24ee">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az3tfqn451lanmqos7" file_variant="master" position="1">Schoko_Milchreis_12218.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689c6e99dc2b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81az3uts5ytpgw8ip6p" file_variant="master" position="1">Schoko_Milchreis_12274.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

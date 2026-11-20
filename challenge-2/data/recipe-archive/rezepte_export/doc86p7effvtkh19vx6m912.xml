@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86p7effvtkh19vx6m912" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-13T16:00:20+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-13T16:06:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="60" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="75"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <Source topic="tmt86p7h50kfuf16has392j"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pekannuss-Stollenkonfekt","recipe_seo_headline":null,"servings":{"amount":60.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Ruhen/Warten","duration":75},{"name":"Backen","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"getrocknete Soft-Aprikosen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Maracujasaft","unit":{"name":"ml"},"prefix":null,"suffix":"(ersatzweise Orangensaft)"},{"amount":100,"amountTo":null,"ingredient_name":"Pekannusskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Mehl","unit":null,"prefix":null,"suffix":"zum Arbeiten"},{"amount":0.5,"amountTo":null,"ingredient_name":"Trockenhefe","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Stollengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"Stück"},"prefix":null,"suffix":"(Ei: Gr. M)"},{"amount":70,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Aprikosen sehr fein hacken. Mit Saft in einer Schüssel mischen und 30 Minuten ziehen lassen."},{"headline":null,"content":"Nüsse grob hacken. Mehl, Hefe, Zucker und Stollengewürz in einer Schüssel mischen. Die Milch erwärmen. Lauwarme Milch, Eigelb und ca. 35 g Butter zugeben. Mit den Knethaken des Handrührgerätes verkneten. Übrige Butter (ca. 35 g) zugeben. Insgesamt 3 Minuten zu einem glatten Hefeteig verkneten."},{"headline":null,"content":"Aprikosenstücke ohne Restflüssigkeit und Pekannüsse kurz in den Teig kneten. Zugedeckt 30 Minuten ruhen lassen."},{"headline":null,"content":"Teig halbieren, jede Hälfte zu je 30 gleichgroßen Stücken schneiden. Jedes Stück zu kleinen Kugeln formen. Die geformten Kugeln in eine Cake-Pop-Silikonform legen und etwas in die Mulden hineindrücken. Ersatzweise die Kugeln auf ein mit Backpapier belegtes Blech legen. Kugeln zugedeckt 15 Minuten ruhen lassen."},{"headline":null,"content":"Backofen auf 180 Grad (Umluft 160 Grad) heizen. Konfekt ca. 15 Minuten backen, herausnehmen. Butter schmelzen. Warmes Konfekt damit bestreichen und mit Puderzucker bestäuben."}],"recipe_tips":[{"headline":null,"content":"Haltbarkeit: 4 Wochen."}]}</CustomStructuredRecipeJson>
+    <Title>Pekannuss-Stollenkonfekt</Title>
+    <Headline position="1">Pekannuss-Stollenkonfekt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-13T16:00:20+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86p7ej15xw1tn1pg10ro">
+      <CustomRecipeIngredient topic="tmt80lph1ok3awp6y0urvm" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="getrocknete Soft-Aprikosen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8026" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ersatzweise Orangensaft)" plural="Maracujasaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt7fu35xxjbbp16lzd5379" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pekannusskerne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Arbeiten" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10756" amount="0.5" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Trockenhefe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11863" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Stollengewürz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Ei: Gr. M)" plural="Eigelb" position="10"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="11" plural="weiche Butter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="86p7elg5bm8ifbxr10ro">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86p7em28uuhbzpqk10ro">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Aprikosen sehr fein hacken. Mit Saft in einer Schüssel mischen und 30 Minuten ziehen lassen. Nüsse grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86p7em2908gvs4re10ro">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl, Hefe, Zucker und Stollengewürz in einer Schüssel mischen. Die Milch erwärmen. Lauwarme Milch, Eigelb und ca. 35 g Butter zugeben. Mit den Knethaken des Handrührgerätes verkneten. Übrige Butter (ca. 35 g) zugeben. Insgesamt 3 Minuten zu einem glatten Hefeteig verkneten. Aprikosenstücke ohne Restflüssigkeit und Pekannüsse kurz in den Teig kneten. Zugedeckt 30 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86p7em290dvcrtic10ro">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig halbieren, jede Hälfte zu je 30 gleichgroßen Stücken schneiden. Jedes Stück zu kleinen Kugeln formen. Die geformten Kugeln in eine Cake-Pop-Silikonform legen und etwas in die Mulden hineindrücken. Ersatzweise die Kugeln auf ein mit Backpapier belegtes Blech legen. Kugeln zugedeckt 15 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86p7em290htm5z4010ro">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Backofen auf 180 Grad (Umluft 160 Grad) heizen. Konfekt ca. 15 Minuten backen, herausnehmen. Butter schmelzen. Warmes Konfekt damit bestreichen und mit Puderzucker bestäuben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86p7em290pjemat610ro">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Haltbarkeit: 4 Wochen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pekannuss-Stollenkonfekt, Preiselbeer-Ingwer-Streifen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc7wkoqmjp26cna00baxw" file_variant="master" position="1">Pekannuss-Stollenkonfekt, Preiselbeer-Ingwer-Streifen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

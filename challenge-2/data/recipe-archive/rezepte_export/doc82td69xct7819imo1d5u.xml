@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82td69xct7819imo1d5u" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-14T12:16:52+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-10-15T13:16:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt82mmzc76wvmphpemeu7"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <Source topic="tmt82tutxg5nlg1exui2lmm"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schlemmer-Pasta-Pfännchen","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":360,"kilojoule":1507,"carbonhydrates":42,"fat":17,"protein":10,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Mini-Penne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"rote Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"gemischte Pilze","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Maronen","unit":{"name":"g"},"prefix":"vorgegart &amp; vakuumiert","suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Pankomehl","unit":{"name":"g"},"prefix":null,"suffix":"(ersatzweise Semmelbrösel)"},{"amount":1,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Taleggio","unit":{"name":"g"},"prefix":"italienischer Weichkäse","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Am Vortag die Nudeln nach Packungsangabe in Salzwasser garen. Abgießen und abgekühlt zugedeckt kalt stellen."},{"headline":null,"content":"Am Morgen der Party Zwiebel abziehen, vierteln, in Streifen schneiden. Pilze putzen, würfeln. Maronen fein hacken, mit Pankomehl und Butter krümelig vermischen. Taleggio in Streifen schneiden. Alles zugedeckt kalt stellen."},{"headline":null,"content":"Zwiebel in Öl anbraten. Pilze mitbraten. Salzen und pfeffern. Alles auf dem Tisch anrichten."},{"headline":null,"content":"Jeweils einige Nudeln und Pilze in die geölten Pfännchen geben. Mit Taleggio und Maronenmasse belegen. Im Raclette-Gerät überbacken."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Schlemmer-Pasta-Pfännchen</Title>
+    <CustomRecipeNutritionalValueCalories position="1">360</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1507</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">17</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3.5</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Schlemmer-Pasta-Pfännchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-14T12:16:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82td6dp9k2riskpobu8">
+      <CustomRecipeIngredient topic="tmt82tw3lf0z4410dignm91" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" ingredient_error="1" plural="Mini-Penne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="3" prefix="rote "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8806" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Pilze" prefix="gemischte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8056" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Maronen" position="5" suffix="(vorgegart &amp; vakuumiert)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8556" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ersatzweise Semmelbrösel)" position="6" plural="Panko-Mehl"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10506" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Taleggio" position="8" suffix="(italienischer Weichkäse)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82td6h8qjio1na9i2bu8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag die Nudeln nach Packungsangabe in Salzwasser garen. Abgießen und abgekühlt zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82td6h8r5nkjrzo3bu8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Am Morgen der Party Zwiebel abziehen, vierteln, in Streifen schneiden. Pilze putzen, würfeln. Maronen fein hacken, mit Panko-Mehl und Butter krümelig vermischen. Taleggio in Streifen schneiden. Alles zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82td6h8r5xg1cozmtbu8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zwiebel in Öl anbraten. Pilze mitbraten. Salzen und pfeffern. Alles auf dem Tisch anrichten. Jeweils einige Nudeln und Pilze in die geölten Pfännchen geben. Mit Taleggio und Maronenmasse belegen. Im Raclette-Gerät überbacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Raclettepfännchen mit Frutti di Mare, Cheeseburger und Nudeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc7gyndoctmzt1ft88u1sz" file_variant="master" position="1">Raclettepfännchen mit Frutti di Mare, Cheeseburger und Nudeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8266a3lg60pmxlejdr0" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-30T09:02:13+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-30T09:10:35+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpdlry6d8do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Creme Catalana","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Backen","duration":45},{"name":"Ruhen/Warten","duration":60}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":450,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orangenschale","unit":{"name":"Stück"},"prefix":"Bio","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":"2-3","amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Ofen auf 130 Grad (Umluft: 110 Grad) vorheizen. Backblech auf die mittlere Schiene geben und mit Hilfe des Wasserkochers mit 1 l kochendem Wasser begießen."},{"headline":null,"content":"Milch mit Zimtstange und Orangenschale in einem Topf aufkochen. Eigelbe mit Zucker, Stärke und 3 EL der heißen Milch mit einem Schneebesen verrühren. Eigelbmix in die kochende Milch rühren. Temperatur reduzieren und 1 Minute unter ständigem Rühren köcheln lassen. Topf von der Herdplatte ziehen. Orangenschale und Zimtstange entfernen. Masse auf 4 niedrige, feuerfeste Schälchen (Ø 9 cm) verteilen. Schälchen in das Wasserbad stellen. Im Ofen 35 Minuten garen. Schälchen abkühlen lassen und mind. 2 Stunden im Kühlschrank erkalten lassen."},{"headline":null,"content":"Oberfläche mit braunem Zucker bestreuen und den Zucker mit Hilfe eines Bunsenbrenners karamellisieren. Direkt servieren."}],"recipe_tips":[{"headline":"Statt dem Bunsenbrenner","content":"kannst du auch die Grillfunktion deines Ofens einschalten. Schiebe das Ofengitter in den oberen Einschub. Ist der Ofen komplett aufgeheizt kannst du die mit Zucker bestreuen Förmchen 1-2 Minuten auf das Gitter stellen und den Zucker karamellisieren lassen. Vorsichtig, bleibe bei diesem Vorgang stehen. Es kann je nach Ofen sehr schnell gehen und der Zucker darf nicht zu dunkel werden. Vorsichtig die Förmchen aus dem Ofen holen und servieren."}]}</CustomStructuredRecipeJson>
+    <Title>Creme Catalana</Title>
+    <Headline position="1">Creme Catalana</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-30T09:02:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8266a22w8eg12vv6bdr0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="450" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="2"/>
+      <CustomRecipeIngredient topic="tmt7tb8az1lhgx8ub5wmvp" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Bio" plural="Orangenschale" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe: M)" position="4" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Bestreuen" position="7" amount_error="1" plural="brauner Zucker" amount_max="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8266a3lfwt39fevfdr0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 130 Grad (Umluft: 110 Grad) vorheizen. Backblech auf die mittlere Schiene geben und mit Hilfe des Wasserkochers mit 1 l kochendem Wasser begießen. Milch mit Zimtstange und Orangenschale in einem Topf aufkochen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8266a3lfzrpt0c01dr0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eigelbe mit Zucker, Stärke und 3 EL der heißen Milch mit einem Schneebesen verrühren. Eigelbmix in die kochende Milch rühren. Temperatur reduzieren und 1 Minute unter ständigem Rühren köcheln lassen. Topf von der Herdplatte ziehen. Orangenschale und Zimtstange entfernen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8266a3lfzwnlmt0fdr0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Masse auf 4 niedrige, feuerfeste Schälchen (Ø 9 cm) verteilen. Schälchen in das Wasserbad stellen. Im Ofen 35 Minuten garen. Schälchen abkühlen lassen und mind. 2 Stunden im Kühlschrank erkalten lassen. Oberfläche mit braunem Zucker bestreuen und den Zucker mit Hilfe eines Bunsenbrenners karamellisieren. Direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8266a3lg011n390zdr0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch die Grillfunktion deines Ofens einschalten. Schiebe das Ofengitter in den oberen Einschub. Ist der Ofen komplett aufgeheizt kannst du die mit Zucker bestreuten Förmchen 1-2 Minuten auf das Gitter stellen und den Zucker karamellisieren lassen. Vorsichtig, bleibe bei diesem Vorgang stehen. Es kann je nach Ofen sehr schnell gehen und der Zucker darf nicht zu dunkel werden. Vorsichtig die Förmchen aus dem Ofen holen und servieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt dem Bunsenbrenner</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n5xgruj4j1723cz3rq" file_variant="master" position="1">Creme_Catalana_24466.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b2a3e0a60bc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n5xjmd8df184zr53qv" file_variant="master" position="1">Creme_Catalana_23312.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b2a3e20571e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n5xmp99d51n5b6n3r7" file_variant="master" position="1">Creme_Catalana_23670.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b2a3e741405">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n5xl6nx1wdysw83ri" file_variant="master" position="1">Creme_Catalana_24455.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68b2a3e8eb9af">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n5xi7jdi0qob9o3r7" file_variant="master" position="1">Crema_Catalana_2546.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

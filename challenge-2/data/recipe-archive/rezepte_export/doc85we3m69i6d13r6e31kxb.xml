@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85we3m69i6d13r6e31kxb" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-18T14:08:47+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-18T14:23:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <Source topic="tmt85weah5vtecuelzm1lq8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Churros-Gnocchi","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":"Preiswert","nutritions":{"calories":430,"kilojoule":1800,"carbonhydrates":70,"fat":14,"protein":5,"breadunit":6}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Kartoffel-Gnocchi","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. von Bürger)"},{"amount":4,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"flüssige Schokolade","unit":{"name":"g"},"prefix":null,"suffix":"(oder Karamellsauce)"}]}],"preparation":[{"headline":null,"content":"Den Airfryer auf 200 Grad vorheizen. Sonnenblumenöl mit den Gnocchi in einer großen Schüssel mischen, bis sie gleichmäßig überzogen sind."},{"headline":null,"content":"Zucker mit Zimt mischen. Gnocchi in den Airfryer geben, in 10–12 Minuten goldbraun und knusprig backen, dabei zwischendurch den Korb schütteln, um ein gleichmäßiges Ergebnis zu erzielen."},{"headline":null,"content":"Anschließend die heißen Gnocchi direkt in der Zimt-Zucker-Mischung wälzen, sodass sie rundum bedeckt sind. Mit flüssiger Schokolade oder Karamellsauce servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Churros-Gnocchi</Title>
+    <CustomRecipeNutritionalValueCalories position="1">365</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">62</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">11</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Churros-Gnocchi</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-18T14:08:47+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85we3n7avkpvbqwcowj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6336" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. von Bürger)" position="2" prefix="Kartoffel-" plural="Gnocchi"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9836" position="5" suffix="nach Belieben oder Rote Grütze zum Servieren" plural="Schokosauce"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85we3p6l5yei2iuwowj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Öl mit Gnocchi in einer großen Schüssel mischen, dann Zucker und Zimt untermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85we3p6li4k34r0wowj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gnocchi im Garkorb des Airfyers bei 160 Grad 10–12 Minuten goldbraun und knusprig backen, dabei zwischendurch den Korb schütteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85we3p6lidkepimoowj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Heiße Gnocchi mit Schokosauce oder Roter Grütze servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Bürger</ImageCredit>
+      <DocumentRef doc_id="doc800qftucylcnewwckvk" file_variant="master" position="1">Churros-Gnocchi.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

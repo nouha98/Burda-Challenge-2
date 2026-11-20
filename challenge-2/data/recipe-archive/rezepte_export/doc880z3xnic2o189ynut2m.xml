@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc880z3xnic2o189ynut2m" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-14T15:15:52+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-11-04T13:12:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt81mb06zhac013huiz9o3" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt880z5k78fgm188tp6t34"/>
+    <LastEditedBy topic="tmt7uuq9y2suj81h8l10ghk"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbisbrot ohne Gehzeit","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Backen","duration":40}],"difficulty":null,"price":null,"nutritions":{"calories":220,"kilojoule":921,"carbonhydrates":42,"fat":3,"protein":7,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Kürbisfruchtfleisch","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. Hokkaido oder Butternut)"},{"amount":200,"amountTo":null,"ingredient_name":"Vollkorn-Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 550) und zum Arbeiten"},{"amount":50,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kürbis grob raspeln."},{"headline":null,"content":"In einer Rührschüssel beide Sorten Mehl mit Kürbiskernen, Kürbisraspel, Salz und Natron vermischen."},{"headline":null,"content":"Buttermilch mit Zucker verrühren und zum Mehl-Kürbis-Gemisch geben."},{"headline":null,"content":"Alles mit einem Kochlöffel verrühren, bis sich die Zutaten zu einem Teig verbinden. Bei Bedarf noch etwas Buttermilch ergänzen."},{"headline":null,"content":"Teig auf einer leicht bemehlten Arbeitsfläche glatt kneten. Dann mit den Händen zu einer Teigkugel formen und etwas flach drücken."},{"headline":null,"content":"Teig rundum mit Mehl bestäuben. Die Oberfläche mit einem scharfen Messer mittig längs einschneiden."},{"headline":null,"content":"Den Garkorb mit Backpapier auslegen. Teigling einlegen und bei 200 Grad anbacken. Die Temperatur auf 170 Grad reduzieren und weiterbacken."},{"headline":null,"content":"Brot herausnehmen und auf einem Kuchenrost abkühlen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Kürbisbrot ohne Gehzeit</Title>
+    <CustomRecipeNutritionalValueCalories position="1">220</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">921</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">3</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Kürbisbrot ohne Gehzeit (Airfryer)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-14T15:15:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="880z3zgsviauf2errg5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7551" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Hokkaido oder Butternut)" plural="Kürbisfruchtfleisch" position="1"/>
+      <CustomRecipeIngredient topic="tmt874jyb5ewcx1dfgnkp73" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vollkorn-Weizenmehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 550) und zum Arbeiten" plural="Weizenmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbiskerne" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buttermilch" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="880z424xg6119t1xwrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kürbis grob raspeln. In einer Rührschüssel beide Sorten Mehl mit Kürbiskernen, Kürbisraspel, Salz und Natron vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z424xiz41iujrrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Buttermilch mit Zucker verrühren und zum Mehl-Kürbis-Gemisch geben. Alles mit einem Kochlöffel verrühren, bis sich die Zutaten zu einem Teig verbinden. Bei Bedarf noch etwas Buttermilch ergänzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z424xj6oowmlyrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig auf einer leicht bemehlten Arbeitsfläche glatt kneten. Dann mit den Händen zu einer Teigkugel formen und etwas flach drücken. Teig rundum mit Mehl bestäuben. Die Oberfläche mit einem scharfen Messer mittig längs einschneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z424xjbs19c0a5rg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Garkorb mit Backpapier auslegen. Teigling einlegen und bei 200 Grad ca. 12–15 Minuten anbacken. Die Temperatur auf 170 Grad reduzieren und weitere 20–25 Minuten backen.
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="880z424xjhlgky9hrg5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Brot herausnehmen und auf einem Kuchenrost abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Für eine weichere Kruste den Teig vor und während des Backens dünn mit Wasser bestreichen. Wird die Oberfläche zu schnell dunkel, die Temperatur auf 150 Grad reduzieren.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Superschnelles Kürbisbrot ohne Gehzeit aus der Heißluftfritteuse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc86tv6v985ubsr3xaf0r" file_variant="master" position="1">Superschnelles Kürbisbrot ohne Gehzeit aus der Heißluftfritteuse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

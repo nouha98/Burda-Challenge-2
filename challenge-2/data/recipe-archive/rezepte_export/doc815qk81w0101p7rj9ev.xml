@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc815qk81w0101p7rj9ev" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-20T11:07:48+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-07-27T13:22:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="75"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Parmesan-Polenta-Chips mit Oliven-Tomaten-Dip","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":75}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"getrocknete Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(ohne Öl)"},{"amount":1,"amountTo":null,"ingredient_name":"Rosmarinzweig","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Polenta","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"entsteinte grüne Oliven","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Chilipulver","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die getrockneten Tomaten in 120 ml heißem Wasser 1 Stunde einweichen. Inzwischen Rosmarinnadeln abzupfen und fein hacken. Gemüsebrühe, Polenta und Rosmarin in einen Topf geben. Unter Rühren aufkochen und ca. 5 Minuten quellen lassen. Die Masse auf Raumtemperatur abkühlen lassen. Dann Parmesan unterrühren."},{"headline":null,"content":"Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Die Polentamasse zwischen 2 Lagen Backpapier hauchdünn ausrollen. Auf ein Backblech legen und das obere Papier abziehen. Polenta etwas antrocknen lassen, dann in Stücke schneiden. Im Ofen in ca. 30 Minuten kross backen."},{"headline":null,"content":"Währenddessen die Oliven grob hacken und mit der Wasser-Tomaten-Mischung in der Küchenmaschine fein pürieren. Olivenöl unterrühren. Den Dip mit Salz, Pfeffer und Chili abschmecken. Mit den Parmesan-Polenta-Chips servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Parmesan-Polenta-Chips mit Oliven-Tomaten-Dip</Title>
+    <Headline position="1">Parmesan-Polenta-Chips mit Oliven-Tomaten-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-20T11:07:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="815qk9vttxy78tu3khl">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ohne Öl)" position="1" prefix="getrocknete " plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9336" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Rosmarinzweige" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8876" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Polenta" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8451" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" prefix="entsteinte grüne " plural="Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5366" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Chilipulver" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="815qkdkolzc13tfegkhl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die getrockneten Tomaten in 120 ml heißem Wasser 1 Stunde einweichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="815qkdkotyqljwcukhl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Inzwischen Rosmarinnadeln abzupfen und fein hacken. Gemüsebrühe, Polenta und Rosmarin in einen Topf geben. Unter Rühren aufkochen und ca. 5 Minuten quellen lassen. Die Masse auf Raumtemperatur abkühlen lassen. Dann Parmesan unterrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="815qkdkou5e1a0pntkhl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Die Polentamasse zwischen 2 Lagen Backpapier hauchdünn ausrollen. Auf ein Backblech legen und das obere Papier abziehen. Polenta etwas antrocknen lassen, dann in Stücke schneiden. Im Ofen in ca. 30 Minuten kross backen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68553f31e99f0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Währenddessen die Oliven grob hacken und mit der Wasser-Tomaten-Mischung in der Küchenmaschine fein pürieren. Olivenöl unterrühren. Den Dip mit Salz, Pfeffer und Chili abschmecken. Mit den Parmesan-Polenta-Chips servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Parmesan-Polentachips</p>
+        </div>
+      </ImageCaption>
+      <DocumentRef doc_id="doc786on71miza31efwl4k" file_variant="master" position="1">Parmesan-Polentachips_31965</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

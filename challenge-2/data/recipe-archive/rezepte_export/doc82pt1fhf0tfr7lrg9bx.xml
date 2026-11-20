@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82pt1fhf0tfr7lrg9bx" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-07T14:01:52+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-08T10:56:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <Source topic="tmt82q94o0zepxjeo5zgs7"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apfel-Cocktail","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":175,"kilojoule":733,"carbonhydrates":24,"fat":9,"protein":2,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"},{"amount":12,"amountTo":null,"ingredient_name":"Gin","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Orangenlikör","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"l"},"prefix":"trüber","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Birne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Eiswürfel in die Gläser verteilen. Je 1 EL Orangenlikör und je 2 EL Gin in die Gläser geben. Mit Apfelsaft auffüllen. Apfel und Birne waschen, in hauchdünne Scheiben hobeln und in die Gläser verteilen. Aperitif sofort servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Apfel-Cocktail</Title>
+    <CustomRecipeNutritionalValueCalories position="1">175</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">733</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">24</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Apfel-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-07T14:01:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82pt1gy2ouc1bdzkpgx8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="12" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Gin" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8491" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Orangenlikör" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" prefix="trüber" plural="Apfelsaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Äpfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82pt1j9eh411djm31gx8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Eiswürfel in die Gläser verteilen. Je 1 EL Orangenlikör und je 2 EL Gin in die Gläser geben. Mit Apfelsaft auffüllen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68e626948a953">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Apfel und Birne waschen, in hauchdünne Scheiben hobeln und in die Gläser verteilen. Aperitif sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7rcdfvh6mae18ejmuco9" file_variant="master" position="1">Sherry Cobbler</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83taj966qe17w1ramv0" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-23T09:22:09+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-23T09:27:30+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Currysauce","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Currypulver","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Cayenne Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Zwiebel schälen, halbieren und fein würfeln. Den Apfel schälen, vierteln und grob würfeln. Die Butter mit dem Olivenöl in einem Topf zerlassen und die Zwiebelwürfel ca. 2 Minuten andünsten. Die Apfelwürfel dazugeben und 2 weitere Minuten andünsten. Das Currypulver hinzugeben und kurz mitrösten. Mit Brühe auffüllen und für ca. 10 Minuten sanft köcheln lassen. Die Sahne aufgießen und mit einem Stabmixer sämig pürieren und aufschäumen. Währenddessen mit Salz und Cayenne Pfeffer abschmecken."}],"recipe_tips":[{"headline":null,"content":"Schmeckt ganz wunderbar zu Reis, Hähnchen und Gemüsepfanne."}]}</CustomStructuredRecipeJson>
+    <Title>Currysauce</Title>
+    <Headline position="1">Currysauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-23T09:22:09+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83taj6qfm1f135ikpmv0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Currypulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Brühe" position="6" prefix="Geflügel- oder Gemüse-"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="9" amount="1" plural="Cayennepfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83taj966pg6d86k9mv0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebel schälen, halbieren und fein würfeln. Den Apfel schälen, vierteln, entkernen und das Fruchtfleisch grob würfeln. Die Butter mit dem Olivenöl in einem Topf zerlassen und die Zwiebelwürfel bei mittlerer Hitze ca. 2 Minuten andünsten. Die Apfelwürfel dazugeben und 2 weitere Minuten andünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Currysauce</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_694a520bf3e18">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Currypulver hinzugeben und kurz mitrösten. Mit Brühe auffüllen und für ca. 10 Minuten sanft köcheln lassen. Die Sahne aufgießen und die Sauce mit einem Stabmixer sämig pürieren und aufschäumen. Mit Salz und Cayennepfeffer abschmecken. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83taj966po01n2yp5mv0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Currysauce schmeckt ganz wunderbar zu Reis, Hähnchen und Gemüsepfanne.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Zu welchen Gerichten passt die Currysauce?</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qrplg4isn10ip9j1g54" file_variant="master" position="1">Currysauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_694a526edeac8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qrpa0xfvo19wqah1i6x" file_variant="master" position="1">Currysauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_694a52703f5dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qroysdysl1cjc84xdk" file_variant="master" position="1">Currysauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_694a52715709a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qrq285iyo176ias1euq" file_variant="master" position="1">Currysauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

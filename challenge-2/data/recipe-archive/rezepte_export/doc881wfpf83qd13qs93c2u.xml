@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc881wfpf83qd13qs93c2u" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-16T10:30:18+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-10-16T10:42:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6-8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="3"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt828w70zqslggi3z3123s"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zimtmilchreis-Brûlée","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Grillen","duration":5}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Milchreis","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":"Mark von","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milchreis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"gemahlener Zimt","unit":{"name":"TL"},"prefix":"ca.","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für das Kompott","ingredients":[{"amount":3,"amountTo":4,"ingredient_name":"festfleischige Äpfel","unit":{"name":"Stück"},"prefix":null,"suffix":"(z. B. Elstar)"},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sternanis","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Weißwein","unit":{"name":"ml"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":6,"amountTo":8,"ingredient_name":"Rohrzucker oder feiner brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":"zum Karamellisieren"}]}],"preparation":[{"headline":null,"content":"Milch mit Vanillemark und 1 Prise Salz in einem Topf unter Rühren aufkochen. Den Milchreis unterrühren und bei geringer Hitze unter häufigem Rühren 30–40 Minuten garen. Zimt und Zucker unterrühren und den Milchreis lauwarm abkühlen lassen."},{"headline":null,"content":"Äpfel schälen, vierteln, das Kerngehäuse herausschneiden und die Äpfel in Stücke schneiden. Butter in einer Pfanne erhitzen und die Apfelstücke darin rundum braun anbraten. Sternanis, Zimtstange und Zucker zugeben und den Zucker unter Rühren karamellisieren lassen."},{"headline":null,"content":"Speisestärke mit Weißwein glatt rühren und zu den Äpfeln gießen. Noch einmal aufkochen lassen und nach Belieben etwas einkochen. Gewürze nach Belieben entfernen."},{"headline":null,"content":"Jeweils 2–3 EL Milchreis in Raclette-Pfännchen geben. Mit etwas Rohrzucker bestreuen und unter dem Raclette-Grill 3–5 Minuten karamellisieren lassen. Kompott zu den Milchreispfännchen servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Zimtmilchreis-Brûlée</Title>
+    <CustomRecipeNoteInformation position="1">Raclette</CustomRecipeNoteInformation>
+    <Headline position="1">Zimtmilchreis-Brûlée</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-16T10:30:18+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="881wfsl3ole3dlb9lg6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="2" suffix="(Mark)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8176" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Milchreis" position="4"/>
+      <CustomRecipeIngredient topic="tmt808hl2wiu6a94f0yvbq" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" plural="gemahlener Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Milchreis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="881wftz9tvtc1c0flg6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="3" max_amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(z. B. Elstar)" position="1" plural="Äpfel" amount_max="4" prefix="festfleischige"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Sternanise" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zimtstangen" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißwein" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Kompott</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="881wfvi0h1f1iamg2lg6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" amount="6" max_amount="8" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="oder feiner brauner Zucker zum Karamellisieren" position="1" plural="Rohrzucker" amount_max="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="881wfw1h25zadr9glg6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch mit Vanillemark und 1 Prise Salz in einem Topf unter Rühren aufkochen. Den Milchreis unterrühren und bei geringer Hitze unter häufigem Rühren 30–40 Minuten garen. Zimt und Zucker unterrühren und den Milchreis lauwarm abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="881wfw1h6kp17wuzflg6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Äpfel schälen, vierteln, das Kerngehäuse herausschneiden und die Äpfel in Stücke schneiden. Butter in einer Pfanne erhitzen und die Apfelstücke darin rundum braun anbraten. Sternanis, Zimtstange und Zucker zugeben und den Zucker unter Rühren karamellisieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="881wfw1h6pw1qhhllg6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Speisestärke mit Weißwein glatt rühren und zu den Äpfeln gießen. Noch einmal aufkochen lassen und nach Belieben etwas einkochen. Gewürze nach Belieben entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="881wfw1h6td9eoiklg6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Jeweils 2–3 EL Milchreis in Raclette-Pfännchen geben. Mit etwas Rohrzucker bestreuen und unter dem Raclette-Grill 3–5 Minuten karamellisieren lassen. Kompott zu den Milchreispfännchen servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zimt-Milchreis-Brulee: Zimtiger Milchreis mit braunem Zucker unterm Raclettegrill karamellisiert, dazu Schmorapfel; Styling: Krisztina Zombori; Rezepte &amp; Foodstyling: Katja Baum</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Thorsten Suedfels</ImageCredit>
+      <DocumentRef doc_id="doc7dd9hnjra8wt613oca0" file_variant="master" position="1">Lust auf Genuss 12/2021, Fondue und Raclette</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

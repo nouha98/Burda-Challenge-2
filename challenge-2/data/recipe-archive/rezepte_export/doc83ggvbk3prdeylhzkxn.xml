@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ggvbk3prdeylhzkxn" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-28T10:22:33+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-06T18:23:47+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="12" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="55"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt81bj4jtc2rd1g4xwi96f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganes Bananenbrot","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":10},{"name":"Backen","duration":55}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":"etwas","amountTo":null,"ingredient_name":"Pflanzenfett","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Einfetten"},{"amount":2,"amountTo":3,"ingredient_name":"reife Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Margarine","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 630)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Haferdrink","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Walnusskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"vegane Schokodrops","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 160 Grad Umluft (Ober-/Unterhitze: 180 Grad) vorheizen und eine Kastenform (ca. 20 x 10 cm) mit Pflanzenfett ausreiben."},{"headline":null,"content":"Bananen schälen, 1 Banane der Länge nach halbieren, mit 1 EL Zitronensaft beträufeln und beiseitestellen. Restliche Bananen (ca. 130 g) mit einer Gabel zerdrücken und mit übrigem Zitronensaft vermengen."},{"headline":null,"content":"Margarine mit Rohrzucker und Zimtpulver schaumig schlagen. Mehl mit Salz und Backpulver mischen und mit zerdrückten Bananen, Haferdrink und Margarine zu einem glatten Teig verrühren."},{"headline":null,"content":"Walnusskerne hacken, mit den Haferflocken und Schokodrops unter den Teig heben und in die Kastenform füllen. Halbierte Banane auflegen, etwas andrücken und im vorgeheizten Ofen ca. 55 Minuten backen."},{"headline":null,"content":"Bananenbrot in der Kastenform etwas abkühlen lassen, vorsichtig aus der Form lösen und auf einem Kuchengitter auskühlen lassen."}],"recipe_tips":[{"headline":"Bananenbrot mit Cashewkernen","content":"Für ein bisschen Abwechslung, ersetze die Walnusskerne durch Cashewkerne und die Schokodrops durch grob gehackte, weiße, vegane Schokolade."}]}</CustomStructuredRecipeJson>
+    <Title>Veganes Bananenbrot</Title>
+    <Headline position="1">Veganes Bananenbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-28T10:22:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ggv6shyog8wv0lkxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" max_amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" amount_max="3" plural="Bananen" prefix="reife "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8041" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Margarine" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rohrohrzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimtpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 630)" plural="Dinkelmehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt7e9lnvgqkcyycdmcmi6" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Haferdrink" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnusskerne" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="11"/>
+      <CustomRecipeIngredient topic="tmt803gr9trxyo14wjb8fqd" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" prefix="vegane" plural="Schoko-Drops"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8761" position="14" prefix="etwas" suffix="zum Einfetten" plural="Pflanzenfett"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ggvbk3og71f94p6kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 160 Grad Umluft (Ober-/Unterhitze: 180 Grad) vorheizen und eine Kastenform (ca. 20 x 10 cm) mit Pflanzenfett ausreiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggvbk3otuh6rdtkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Bananen schälen, 1 Banane der Länge nach halbieren, mit 1 EL Zitronensaft beträufeln und beiseitestellen. Restliche Bananen (ca. 130 g) mit einer Gabel zerdrücken und mit übrigem Zitronensaft vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggvbk3oxe8pv4bkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Margarine mit Rohrzucker und Zimtpulver schaumig schlagen. Mehl mit Salz und Backpulver mischen und mit zerdrückten Bananen, Haferdrink und Margarine zu einem glatten Teig verrühren. Walnusskerne hacken, mit den Haferflocken und Schokodrops unter den Teig heben und in die Kastenform füllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ggvbk3p0p113sjckxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Halbierte Banane auflegen, etwas andrücken und im vorgeheizten Ofen ca. 55 Minuten backen. Bananenbrot in der Kastenform etwas abkühlen lassen, vorsichtig aus der Form lösen und auf einem Kuchengitter auskühlen lassen. Das Bananenbrot ergibt 12 Stücke.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83ggvbk3p7k17wpkokxn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für ein bisschen Abwechslung, ersetze die Walnusskerne durch Cashewkerne und die Schokodrops durch grob gehackte, weiße, vegane Schokolade.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Bananenbrot mit Cashewkernen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9nv3twh4ilz6x8hw" file_variant="master" position="1">Veganes Bananenbrot II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69296b08a6261">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9nnpf2xcmwk7083b" file_variant="master" position="1">Veganes Bananenbrot II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69296b0a196bc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ns6pwrs13sglr8hw" file_variant="master" position="1">Veganes Bananenbrot II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69296b0b979d9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9nqmugf91lp5tr83b" file_variant="master" position="1">Veganes Bananenbrot II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69296b0d0de9d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9ny47jmgxc5cp80b" file_variant="master" position="1">Veganes Bananenbrot II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

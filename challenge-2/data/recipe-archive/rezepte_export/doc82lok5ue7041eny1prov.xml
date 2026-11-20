@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82lok5ue7041eny1prov" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-29T13:23:03+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-29T13:27:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Fenchel Pasta","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Nudeln","unit":{"name":"g"},"prefix":null,"suffix":"z.B.: Spaghetti oder Linguine"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":"für die Nudeln"},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":"für die Nudeln"},{"amount":1,"amountTo":null,"ingredient_name":"Fenchel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroß","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"aus der Mühle"},{"amount":50,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Nudeln einen großen Topf mit Wasser aufsetzen und zum Kochen bringen. Das Salz erst hinzugeben, wenn das Wasser schon kocht. Die Nudeln hinzugeben und nach Packungsangabe „al dente“ kochen, durch ein Sieb abgießen und zurück in den Topf geben und mit Olivenöl vermengen."},{"headline":null,"content":"Währenddessen den Fenchel vierteln, das Grün und den Strunk entfernen. Den Fenchel und das Grün in feine, dünne Streifen schneiden. Die Schalotten und den Knoblauch schälen und fein würfeln. Den Fenchel in Olivenöl ca. 2 Minuten anbraten, Schalottenwürfel und gehackten Knoblauch dazu geben, kurz mitrösten und die Prise Zucker dazurühren. Mit Salz und Pfeffer würzen. Die gekochten Nudeln mit ca. 2-3 EL vom Nudelwasser in die Pfanne geben und gut durchmischen. Mit dem geriebenen Parmesan bestreuen."}],"recipe_tips":[{"headline":"Fenchel schälen?","content":"Achte beim Fenchel auf die Frische, dann kannst du ihn ohne zu schälen oder eine Schicht abzulösen verwenden. Ist er etwas angetrocknet, einfach eine Schicht mit dem Sparschäler abnehmen."}]}</CustomStructuredRecipeJson>
+    <Title>Fenchel Pasta</Title>
+    <Headline position="1">Fenchel Pasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-29T13:23:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82lok2sdohf9osj5rov">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B.: Spaghetti oder Linguine" plural="Nudeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="für die Nudeln" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="für die Nudeln" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt82jnzmhnjw4974cey5n" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroß" plural="Fenchel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Schalotten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" max_amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="6" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="aus der Mühle" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Parmesan" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82lok5ue1dg13fpbyrov">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Nudeln einen großen Topf mit Wasser aufsetzen und zum Kochen bringen. Das Salz erst hinzugeben, wenn das Wasser schon kocht. Die Nudeln hinzugeben und nach Packungsangabe „al dente“ kochen, durch ein Sieb abgießen und zurück in den Topf geben und mit Olivenöl vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82lok5ue3n7n4cujrov">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Währenddessen den Fenchel vierteln, das Grün und den Strunk entfernen. Den Fenchel und das Grün in feine, dünne Streifen schneiden. Die Schalotten und den Knoblauch schälen und fein würfeln. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68da6c814e6b1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Fenchel in Olivenöl ca. 2 Minuten anbraten, Schalottenwürfel und gehackten Knoblauch dazu geben, kurz mitrösten und die Prise Zucker dazurühren. Mit Salz und Pfeffer würzen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68da6c90e92fe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die gekochten Nudeln mit ca. 2-3 EL vom Nudelwasser in die Pfanne geben und gut durchmischen. Mit dem geriebenen Parmesan bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82lok5ue3s21auxkfrov">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Achte beim Fenchel auf die Frische, dann kannst du ihn ohne zu schälen oder eine Schicht abzulösen verwenden. Ist er etwas angetrocknet, einfach eine Schicht mit dem Sparschäler abnehmen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Fenchel schälen?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jimg3x9z91lsjep2j4" file_variant="master" position="1">Fenchel Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68da6d1ae60dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jimjcn4au1ckh9e2iz" file_variant="master" position="1">Fenchel Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68da6d1c64dc3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jimc2g4lj16mx7e2j5" file_variant="master" position="1">Fenchel Pasta</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68da6d1e20af1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jima7v1hy1e6nh72j1" file_variant="master" position="1">Fenchel Pasta</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

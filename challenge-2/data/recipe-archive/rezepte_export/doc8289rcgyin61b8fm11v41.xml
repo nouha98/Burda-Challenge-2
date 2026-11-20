@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8289rcgyin61b8fm11v41" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-03T10:58:06+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-03T11:02:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Basilikum Limonade","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":570,"kilojoule":2387,"carbonhydrates":25,"fat":null,"protein":null,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":"(ungefähr 3 Zitronen)"},{"amount":20,"amountTo":null,"ingredient_name":"Basilikumblätter","unit":{"name":"g"},"prefix":null,"suffix":"(ohne Stiel)"},{"amount":60,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Wasser mit Kohlensäure","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zitronen halbieren und auspressen. Zitronensaft, Basilikumblätter, Agavendicksaft und Wasser in den Mixer geben. 1 Minute mixen."},{"headline":null,"content":"Sirup anschließend 5 Minuten ruhen lassen. Basilikum-Mix durch ein feines Sieb streichen. Mit 800 ml prickelndem Wasser mischen und mit Eiswürfeln servieren."}],"recipe_tips":[{"headline":"Sommeraperitif","content":"Basilikumsirup anstatt nur mit Wasser zur Hälfte mit Prosecco oder Sekt aufgießen. Was für ein herrlicher und erfrischender Sommer-Drink!"}]}</CustomStructuredRecipeJson>
+    <Title>Basilikum Limonade</Title>
+    <CustomRecipeNutritionalValueCalories position="1">570</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2387</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">25</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Basilikum Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-03T10:58:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8289ran4giwcyviz1v41">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ungefähr 3 Zitronen)" plural="Zitronensaft" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4816" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ohne Stiel)" plural="Basilikumblätter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Agavendicksaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Wasser" suffix="mit Kohlensäure"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8289rcgydphrwt601v41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitronen halbieren und auspressen. Zitronensaft, Basilikumblätter, Agavendicksaft und Wasser in den Mixer geben. 1 Minute mixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8289rcgydw3vrm351v41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sirup anschließend 5 Minuten ruhen lassen. Basilikum-Mix durch ein feines Sieb streichen. Mit 800 ml prickelndem Wasser mischen und mit Eiswürfeln servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8289rcgye3d10pr5v1v41">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Basilikumsirup anstatt nur mit Wasser zur Hälfte mit Prosecco oder Sekt aufgießen. Was für ein herrlicher und erfrischender Sommer-Drink!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Sommeraperitif</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc826fwn4encx1bgdxms05" file_variant="master" position="1">Basilikum_Limonade_90936.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

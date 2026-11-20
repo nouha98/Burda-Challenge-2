@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8310lbg6p68flv4slch" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-29T08:37:33+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-29T08:40:43+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Limoncello Spritz","recipe_seo_headline":"Limoncello Spritz – der erfrischende Trend-Drink!","servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Zitronenmelisse","unit":{"name":"Stiel"},"prefix":null,"suffix":"(oder Minze) zum Garnieren"},{"amount":"einige","amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Würfel"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"Limoncello","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Prosecco","unit":{"name":"ml"},"prefix":null,"suffix":"(gut gekühlt)"},{"amount":200,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":"einige","amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Würfel"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für den Limoncello Spritz die Zitrone in dünne Scheiben schneiden. Die Zitronenmelisse waschen, trockenschütteln, putzen und, wenn nötig, die Stiele etwas kürzen."},{"headline":null,"content":"Zum Servieren je 3-4 Eiswürfel in jedes Glas geben. Den Limoncello auf die Gläser verteilen. Mit Prosecco und Mineralwasser auffüllen. Die Drinks mit Zitronenmelisse garnieren und sofort genießen! Zum Wohl!"}],"recipe_tips":[{"headline":"Limoncello mit Tonic","content":"Für eine etwas herbere Variante des Sommercocktails kannst du Prosecco und Mineralwasser durch etwa die gleiche Menge Tonic Water ersetzen. Statt Zitronmelisse kannst du ein paar Blätter frischen Basilikum als Garnitur verwenden!"}]}</CustomStructuredRecipeJson>
+    <Title>Limoncello Spritz</Title>
+    <CustomRecipeSeoTitle position="1">Limoncello Spritz – der erfrischende Trend-Drink!</CustomRecipeSeoTitle>
+    <Headline position="1">Limoncello Spritz</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-29T08:37:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8310l95752u1703fglch">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11371" amount="4" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" suffix="(oder Minze) zum Garnieren" plural="Zitronenmelisse" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="einige" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" plural="Eiswürfel" position="3" prefix="einige" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt7g9jxxw87ar3eos51fi" amount="160" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Limoncello" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8931" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(gut gekühlt)" plural="Prosecco" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="einige" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" plural="Eiswürfel" position="7" prefix="einige" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8310lbg6o6u1ibwlplch">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zitrone in dünne Scheiben schneiden. Die Zitronenmelisse waschen, trockenschütteln, putzen und, wenn nötig, die Stiele etwas kürzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Limoncello Spritz </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8310lbg6oeg4culklch">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren je 3-4 Eiswürfel in jedes Glas geben. Den Limoncello auf die Gläser verteilen. Mit Prosecco und Mineralwasser auffüllen. Die Drinks mit Zitronenmelisse garnieren und sofort genießen! Zum Wohl!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8310lbg6oi87tp7lch">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für eine etwas herbere Variante des Sommercocktails kannst du Prosecco und Mineralwasser durch etwa die gleiche Menge Tonic Water ersetzen. Statt Zitronmelisse kannst du ein paar Blätter frischen Basilikum als Garnitur verwenden!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Limoncello mit Tonic</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82n42sgboyce12oi2e4" file_variant="master" position="1">Limoncello Spritz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6901c4f45ac42">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82n42wuyex3o9sgb2gh" file_variant="master" position="1">Limoncello Spritz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6901c4f5c76c8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82n42vfb561vudek2dw" file_variant="master" position="1">Limoncello Spritz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6901c4f7e1204">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82n42ts5w8p7mhj52ge" file_variant="master" position="1">Limoncello Spritz</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6901c4f9b60bd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82n42rdn5r7i97bu2dw" file_variant="master" position="1">Limoncello Spritz</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

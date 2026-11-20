@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81uvoxl4vmp17nmhf20zr" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-08T09:30:15+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-08T09:41:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Maracuja Spritz","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Maracujanektar","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Aperol","unit":{"name":"ml"},"prefix":null,"suffix":"(Bitter-Likör)"},{"amount":350,"amountTo":null,"ingredient_name":"Prosecco","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":"spritziges","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":"Bio","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Maracuja","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben Etwas","suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Vier Weingläser (á 250 ml) bereitstellen. Maracujanektar und Aperol-Likör in einem Messbecher oder Schüssel verrühren. Prosecco und Mineralwasser zugeben und mischen. Aperitif auf die vier vorbereiteten Weingläser verteilen."},{"headline":null,"content":"Orange heiß abwaschen, trocken tupfen und in dünne Scheiben schneiden. Jeden Drink mit Orangenscheiben und nach Belieben Minze und/oder einem Stück frischer Maracuja garnieren. Je 2-3 Eiswürfel zugeben und servieren."}],"recipe_tips":[{"headline":"Etwas stärker","content":"Wird der Aperitif, wenn du das Mineralwasser durch weiteren Prosecco oder Weißwein ersetzt."}]}</CustomStructuredRecipeJson>
+    <Title>Maracuja Spritz</Title>
+    <Headline position="1">Maracuja Spritz</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-08T09:30:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81uvoum5bgx1b8tr120zr">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8016" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Nach Belieben" suffix="zum Garnieren" plural="Maracujas" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben Etwas" suffix="zum Garnieren" plural="Minze" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Maracujanektar" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4546" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(Bitter-Likör)" plural="Aperol" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8931" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Prosecco" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="spritziges" plural="Mineralwasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="zum Garnieren" plural="Eiswürfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Bio" plural="Orange" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81uvoxl471eqd2es20zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Vier Weingläser (á 250 ml) bereitstellen. Maracujanektar und Aperol-Likör in einem Messbecher oder Schüssel verrühren. Prosecco und Mineralwasser zugeben und mischen. Aperitif auf die vier vorbereiteten Weingläser verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81uvoxl4fxt1aagnk20zr">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Orange heiß abwaschen, trocken tupfen und in dünne Scheiben schneiden. Jeden Drink mit Orangenscheiben und nach Belieben Minze und/oder einem Stück frischer Maracuja garnieren. Je 2-3 Eiswürfel zugeben und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81uvoxl4g6v5zts120zr">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wird der Aperitif, wenn du das Mineralwasser durch weiteren Prosecco oder Weißwein ersetzt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Etwas stärker</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awj9o9ft44ow1zrry" file_variant="master" position="1">Maracuja_Spritz_3449.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6895aa221da8e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awjcq623b1n1qqho6w" file_variant="master" position="1">Maracuja_Spritz_2478.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6895aa234bed6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81awjb9ooh419qzxmo4h" file_variant="master" position="1">Maracuja_Spritz_3440.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

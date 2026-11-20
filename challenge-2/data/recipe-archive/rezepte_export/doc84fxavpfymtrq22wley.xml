@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84fxavpfymtrq22wley" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-05T10:30:00+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-05T10:40:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnpfffjjldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bijyxzclzgl9gd8xo"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurm12gcltdo5"/>
+    <Source topic="tmt84fxfsfivjm18shjpm94"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Lachssuppe mit Lauchzwiebeln","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":320,"kilojoule":1340,"carbonhydrates":21,"fat":15,"protein":26,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":450,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":15,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Lachsfilet","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln schälen, waschen und 1,5 cm groß würfeln. Lauchzwiebeln putzen und waschen. Den hellen Teil klein würfeln, den grünen in feine Ringe schneiden. Ingwer schälen und in 3 Scheiben teilen. Lachs trocken tupfen und 2 cm groß würfeln."},{"headline":null,"content":"Weiße Lauchzwiebeln mit Ingwer in heißem Öl im Topf andünsten. Kartoffeln einrühren, kurz braten. Brühe angießen. Die Suppe mit Salz und Pfeffer würzen und 15 Minuten köcheln lassen."},{"headline":null,"content":"Ingwer entfernen. Lachswürfel zufügen und bei kleiner Hitze 3–5 Minuten gar ziehen. Lauchzwiebelgrün zugeben. Suppe mit Limettensaft abschmecken."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Lachssuppe mit Lauchzwiebeln</Title>
+    <CustomRecipeNutritionalValueCalories position="1">320</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1340</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">21</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">15</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">26</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1.8</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Lachssuppe mit Lauchzwiebeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-05T10:30:00+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84fxawu7in498nyq2ew">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="450" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Lauchzwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="15" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7581" amount="450" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Lachsfilet" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="9" amount_max="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84fxazhws5ljivgh2ew">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln schälen, waschen und 1,5 cm groß würfeln. Lauchzwiebeln putzen und waschen. Den hellen Teil klein würfeln, den grünen in feine Ringe schneiden. Ingwer schälen und in 3 Scheiben teilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84fxazhwsup15jn4z2ew">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lachs trocken tupfen und 2 cm groß würfeln. Weiße Lauchzwiebeln mit Ingwer in heißem Öl im Topf andünsten. Kartoffeln einrühren, kurz braten. Brühe angießen. Die Suppe mit Salz und Pfeffer würzen und 15 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84fxazhwsyo1f4vh62ew">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ingwer entfernen. Lachswürfel zufügen und bei kleiner Hitze 3–5 Minuten gar ziehen. Lauchzwiebelgrün zugeben. Suppe mit Limettensaft abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Klare Fischsuppe mit Lachs, Kartoffeln und Frühlingszwiebeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gontar, Yuliya</ImageCredit>
+      <DocumentRef doc_id="doc8329353mgs3s3ra3df8" file_variant="master" position="1">Klare Fischsuppe mit Lachs, Kartoffeln und Frühlingszwiebeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

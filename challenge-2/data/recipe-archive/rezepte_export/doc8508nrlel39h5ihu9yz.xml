@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8508nrlel39h5ihu9yz" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-16T23:24:36+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-03-17T15:45:54+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpzd3r694do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt850l9184zae1j9h6kfz4"/>
+    <CustomRecipeNutritionalValueCalories position="1">615</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">65</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">28</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">25</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Blitz-Nudelauflauf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-16T23:24:36+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="1" amount="1" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10321" position="2" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spiralnudel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" position="4" amount="2" unit_topic="tmt71k9lflm0ntja06zdbl" unit="Glas" suffix="-Bolognese" plural="Linsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7116" position="5" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gerieb." plural="Käse"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucchini waschen, putzen, fein raspeln. Spiralnudeln in Salzwasser bissfest kochen, abgießen. Nudeln mit Zucchini und Linsen-Bolognese mischen, in eine ofenfeste Form füllen. Mit gerieb. Käse bestreuen. Im Ofen bei 200 Grad etwa 15 Minuten überbacken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Nudelauflauf mit Tomaten und Käse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Morgans, Gareth</ImageCredit>
+      <DocumentRef doc_id="doc7wpyqlt5nghpuirzc4l" file_variant="master" position="1">Nudelauflauf mit Tomaten und Käse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

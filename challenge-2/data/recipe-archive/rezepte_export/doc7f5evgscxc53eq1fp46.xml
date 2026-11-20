@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7f5evgscxc53eq1fp46" dcx-version="6.3.1" version="1.0">
+  <created>2021-03-31T10:41:23+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2022-04-20T15:32:08+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <DateImported>2021-03-31T10:41:23+02:00</DateImported>
+    <Headline position="1">Blaubeersauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4956" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Blaubeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="2" amount="1" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="3" amount="1/2" plural="Chilischote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10076" position="4" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Senfkorn"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="5" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" position="6" amount="1" plural="Gewürznelke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="7" amount="1" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="8" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="brauner" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" position="9" amount="80" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Apfelessig"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: 500 g Blaubeeren verlesen. 1 Schalotte abziehen und würfeln. 1⁄2 Chilischote hacken. Je 1⁄2 TL Senfkörner, Pfeffer, Koriander, 1 Gewürznelke, 1 Zimtstange im Mörser zerstoßen. Alles mit 60 g brau- nem Zucker und 80 ml Apfelessig aufkochen, 15 Minuten köcheln lassen. Blaubeer-Mix
+durch ein Sieb streichen. Sauce zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">meine Familie &amp; ich/Jörg Götte</ImageCredit>
+      <DocumentRef doc_id="doc79vqx9qv3qwlarpcej0" file_variant="master" position="1">PHOTO-2020-03-26-12-17-15.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

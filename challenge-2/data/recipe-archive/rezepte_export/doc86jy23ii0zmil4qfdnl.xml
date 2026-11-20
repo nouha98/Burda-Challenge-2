@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86jy23ii0zmil4qfdnl" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-03T10:20:26+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-03T10:31:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <Source topic="tmt86jy74t2gad1drqnwbi1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Nudeln mit Pfifferlingen","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":700,"amountTo":null,"ingredient_name":"Pfifferlinge","unit":{"name":"g"},"prefix":"frische","suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Bandnudeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Stiel"},"prefix":"frische","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rosmarin","unit":{"name":"Zweig"},"prefix":"frischer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Schalotten und Knoblauch abziehen. Schalotten fein würfeln, Knoblauch hacken. Pfifferlinge gründlich putzen, große Exemplare ggf. kleiner schneiden."},{"headline":null,"content":"Die Bandnudeln in einem Topf mit leicht gesalzenem Wasser nach Packungsanweisung kochen."},{"headline":null,"content":"In der Zwischenzeit die Petersilie abbrausen, trockenschütteln und fein hacken. Rosmarinzweige abbrausen, trockenschütteln, Nadeln abzupfen und fein hacken."},{"headline":null,"content":"Rapsöl in einer beschichteten Pfanne erhitzen, Schalottenwürfel und Knoblauch darin bei mittlerer Hitze 2–3 Minuten andünsten. Die Pfifferlinge hinzufügen und kurz mitbraten. Gehackten Rosmarin und Schlagsahne einrühren. Ca. 150 ml Nudelwasser abnehmen und zugeben. Pfifferlinge 3–4 Minuten auf kleiner Hitze köcheln lassen."},{"headline":null,"content":"Die fertigen Nudeln abgießen. Gehackte Petersilie unter die Sauce heben und Sauce mit Zitronensaft, Pfeffer und ein wenig Salz abschmecken. Nudeln mit Sauce auf Tellern anrichten und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Nudeln mit Pfifferlingen</Title>
+    <Headline position="1">Nudeln mit Pfifferlingen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-03T10:20:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86jy1zizsrd18is39dnl">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8731" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Pfifferlinge" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4796" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Bandnudeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="4" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="frische" plural="Petersilie" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="2" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" prefix="frischer" plural="Rosmarin" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86jy23ih8q9pfrk2dnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schalotten und Knoblauch abziehen. Schalotten fein würfeln, Knoblauch hacken. Pfifferlinge gründlich putzen, große Exemplare ggf. kleiner schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86jy23ihmhe1dohuidnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Bandnudeln in einem Topf mit leicht gesalzenem Wasser nach Packungsanweisung kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86jy23ihmp41ba61qdnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit die Petersilie abbrausen, trockenschütteln und fein hacken. Rosmarinzweige abbrausen, trockenschütteln, Nadeln abzupfen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86jy23ihmsy1dvg8zdnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Rapsöl in einer beschichteten Pfanne erhitzen, Schalottenwürfel und Knoblauch darin bei mittlerer Hitze 2–3 Minuten andünsten. Die Pfifferlinge hinzufügen und kurz mitbraten. Gehackten Rosmarin und Schlagsahne einrühren. Ca. 150 ml Nudelwasser abnehmen und zugeben. Pfifferlinge 3–4 Minuten auf kleiner Hitze köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86jy23ihmwmzh0mhdnl">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die fertigen Nudeln abgießen. Gehackte Petersilie unter die Sauce heben und Sauce mit Zitronensaft, Pfeffer und ein wenig Salz abschmecken. Nudeln mit Sauce auf Tellern anrichten und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brau5ig4ax180kkce1c" file_variant="master" position="1">Nudeln_mit_Pfifferlingen_90265.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a47734cdf4c1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brawyphkkw1kc1uh2be" file_variant="master" position="1">Nudeln_mit_Pfifferlingen_89880.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a47734e86e51">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braxn4mbpdjxywb2be" file_variant="master" position="1">Nudeln_mit_Pfifferlingen_89949.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a47735019a7a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czday18e7mydwy2ich" file_variant="master" position="1">Nudeln_mit_Pfifferlingen_90262.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

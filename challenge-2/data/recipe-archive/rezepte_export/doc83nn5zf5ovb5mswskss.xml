@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83nn5zf5ovb5mswskss" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-12T09:30:21+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-12T09:36:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gurken Radieschen Salat","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Salat","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":"frische","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Radieschen","unit":{"name":"Bund"},"prefix":"frische","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Dill","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"natur"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Saft davon)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Essig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Salatgurke sowie die Radieschen waschen, trocknen und beides in feine Scheiben hobeln. Die Dillzweige waschen, trocknen und fein hacken, mit den Gurken und Radieschen Scheiben vermengen. Joghurt, Zitronensaft und Gewürze unter den Salat mengen. Salz, Pfeffer, Öl, Essig und etwas Senf unter den Salat mischen."},{"headline":null,"content":"Gurken Radieschen Salat für 5 Minuten ziehen lassen, abschmecken, eventuell nochmal nachwürzen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Gurken Radieschen Salat</Title>
+    <Headline position="1">Gurken Radieschen Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-12T09:30:21+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83nn5vydgsz1jp82kkss">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="frische" plural="Salatgurken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9031" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="frische" plural="Radieschen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" amount="3" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Dill" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="natur" plural="Joghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Saft davon)" plural="Zitronen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="6" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="7" prefix="etwas" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5831" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Essig" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Senf" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83nn5zf5hxzfkir4kss">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Salatgurke sowie die Radieschen waschen und trocknen. Salatgurke mit einem Sparschäler schälen. Gurke und Radieschen in feine Scheiben hobeln. Die Dillzweige waschen, trocknen und fein hacken. Mit den Gurken- und Radieschen-Scheiben vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83nn5zf5m84u45fokss">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Joghurt, Zitronensaft, Salz, Pfeffer, Öl, Essig und Senf in einer kleinen Schüssel verquirlen. Das Dressing mit dem Salat mischen. Gurken-Radieschen-Salat für 5 Minuten ziehen lassen, abschmecken, eventuell noch einmal nachwürzen und servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe15krcn418zhpkdkp" file_variant="master" position="1">Gurken Radieschen Salat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_693bd3ee4da44">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe18otvr610jh2edqm" file_variant="master" position="1">Gurken Radieschen Salat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_693bd3efd7f64">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe1a43vmubnmwfdkp" file_variant="master" position="1">Gurken Radieschen Salat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

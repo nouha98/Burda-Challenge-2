@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8496vmau9ub5naz18n6" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-23T07:57:50+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-01-23T08:06:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpkys7blgdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bircher Müsli selber machen","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":240}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"kernige Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":50,"amountTo":null,"ingredient_name":"Nüsse und/oder Kerne","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Haselnüsse, Walnusskerne, …)"},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"säuerliche Äpfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(z.B. Braeburn)"},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rosinen oder Sultaninen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Haferflocken in eine Schüssel geben, mit Milch übergießen und mit einem Löffel vermengen. Schüssel abdecken und mindestens 4 Stunden, am besten über Nacht, im Kühlschrank quellen lassen."},{"headline":null,"content":"Nüsse mit einem großen Messer grob hacken, in einer beschichteten Pfanne bei mittlerer Hitze goldgelb rösten und auskühlen lassen. Zitrone heiß abwaschen, mit Küchenpapier trocken tupfen, 1 TL Schale fein abreiben und die übrige Zitrone entsaften."},{"headline":null,"content":"Äpfel waschen, abtropfen lassen, mit einer groben Reibe um das Kerngehäuse herum raspeln und mit Honig, Rosinen und 1 EL Zitronensaft vermengen. Joghurt mit Zimt, etwas Zitronensaft, -abrieb und dem geriebenen Apfel unter die eingeweichten Haferflocken rühren."},{"headline":null,"content":"Bircher Müsli auf 2 Schüsseln verteilen, mit Nüssen bestreuen und nach Wunsch mit Apfelspalten und Honig getoppt servieren."}],"recipe_tips":[{"headline":"Toppings","content":"Tob dich aus! Dein Bircher Müsli schmeckt auch super mit Kiwi, Banane, Blaubeeren, Himbeeren, Kirschen und gepufftem Getreide oder Cashewkernen."}]}</CustomStructuredRecipeJson>
+    <Title>Bircher Müsli selber machen</Title>
+    <Headline position="1">Bircher Müsli selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-23T07:57:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8496vk5ky1316db2s8n6">
+      <CustomRecipeIngredient topic="tmt808b1a1of5x7cj9cvbq" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="kernige Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt7dvbsst35k617wx7d1sb" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und/oder Nüsse (z.B. Haselnüsse, Walnusskerne, …)" position="3" plural="Kerne"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt803gs8kofg71ekod6iy2" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(z.B. Braeburn)" position="5" plural="säuerliche Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" suffix="oder Sultaninen" plural="Rosinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="8"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimtpulver" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8496vmatvmsa7gxd8n6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Haferflocken in eine Schüssel geben, mit Milch übergießen und mit einem Löffel vermengen. Schüssel abdecken und mindestens 4 Stunden, am besten über Nacht, im Kühlschrank quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8496vmatz926mx4q8n6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Nüsse mit einem großen Messer grob hacken, in einer beschichteten Pfanne bei mittlerer Hitze goldgelb rösten und auskühlen lassen. Zitrone heiß abwaschen, mit Küchenpapier trocken tupfen, 1 TL Schale (für das Grundrezept) fein abreiben und die übrige Zitrone entsaften. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8496vmatzdsa94br8n6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Äpfel waschen, abtropfen lassen, mit einer groben Reibe um das Kerngehäuse herum raspeln und mit Honig, Rosinen und 1 EL Zitronensaft (für das Grundrezept) vermengen. Joghurt mit Zimt, etwas Zitronensaft, -abrieb und dem geriebenen Apfel unter die eingeweichten Haferflocken rühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8496vmatzhi14l78a8n6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Bircher Müsli auf Schüsseln verteilen, mit Nüssen bestreuen und nach Wunsch mit Apfelspalten und Honig getoppt servieren. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8496vmatzl013qgow8n6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Tob dich aus! Dein Bircher Müsli schmeckt auch super mit Kiwi, Banane, Blaubeeren, Himbeeren, Kirschen und gepufftem Getreide oder Cashewkernen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Toppings</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8413bfo721f10l40qd4m" file_variant="master" position="1">Bircher Müsli selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69731dd6c3ef1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8413blgmythia17md4m" file_variant="master" position="1">Bircher Müsli selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69731dd99a43c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8413bock6k8znxd8d4m" file_variant="master" position="1">Bircher Müsli selber machen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69731ddb4adaa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc8413bik6zkl11ukpd4m" file_variant="master" position="1">Bircher Müsli selber machen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc837vf89ob471028n4edp" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-11T16:52:47+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-11-13T10:30:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <Source topic="tmt837vi4ct7wp173ufdeev"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cranberry-Punsch","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":240,"kilojoule":1005,"carbonhydrates":21,"fat":0,"protein":1,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"TK-Cranberrys","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bio-Limetten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Cranberry-Direktsaft","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Pink-Grapefruit-Direktsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"veganer alkoholfreier Sekt","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Cranberrys antauen lassen. Dann auf die Mulden von 2 Eiswürfelformen verteilen. Mit Wasser auffüllen. Für 2 Stunden in den Tiefkühler stellen."},{"headline":null,"content":"Die Limetten heiß abbrausen, trocken reiben und in dünne Scheiben schneiden. Beide Säfte in einem Bowle-Gefäß verrühren. Die Limettenscheiben und die Hälfte der Cranberry-Eiswürfel zufügen."},{"headline":null,"content":"Den Sekt erst kurz vor dem Servieren angießen. Die übrigen Cranberry-Eiswürfel auf Gläser verteilen oder zum Selbstbedienen in einer Schale servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Cranberry-Punsch</Title>
+    <CustomRecipeNutritionalValueCalories position="1">240</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1005</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">21</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1.8</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Cranberry-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-11T16:52:47+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="837vf94a2fp12if921wp5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5466" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" suffix="TK" plural="Cranberrys"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Limetten" position="2"/>
+      <CustomRecipeIngredient topic="tmt837vgz74o9svi4wfeeu" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" position="3" plural="Cranberry-Direktsaft"/>
+      <CustomRecipeIngredient topic="tmt837vh7al3dstny5ueev" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" plural="Pink-Grapefruit-Direktsaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Sekt" prefix="alkoholfreier, veganer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="837vfbsfce91bfjwg1wp5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Cranberrys antauen lassen. Dann auf die Mulden von 2 Eiswürfelformen verteilen. Mit Wasser auffüllen. Für 2 Stunden in den Tiefkühler stellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69135cf9e2407">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Limetten heiß abbrausen, trocken reiben und in dünne Scheiben schneiden. Beide Säfte in einem Bowle-Gefäß verrühren. Die Limettenscheiben und die Hälfte der Cranberry-Eiswürfel zufügen. Den Sekt erst kurz vor dem Servieren angießen. Die übrigen Cranberry-Eiswürfel auf Gläser verteilen oder zum Selbstbedienen in einer Schale servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cranberry Punsch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Good Food</ImageCredit>
+      <DocumentRef doc_id="doc7huluuurvc36373i4o" file_variant="master" position="1">Cranberry Punsch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

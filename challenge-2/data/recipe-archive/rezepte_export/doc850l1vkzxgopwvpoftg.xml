@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc850l1vkzxgopwvpoftg" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-17T15:29:18+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-17T15:42:21+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt84egenwrzoj1e3suj1q9j"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="16" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="45"/>
+    <Keywords topic="tmt6p295r4rnvd8l3vt8m8"/>
+    <Keywords topic="tmt6ovk4fzpamapxahpnug"/>
+    <Keywords topic="tmt6p3b7wjzdw0dpxup8m8"/>
+    <Source topic="tmt850l7x1scro15aqs4fxx"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cremiges Erdbeer-Waldmeister-Eis","recipe_seo_headline":null,"servings":{"amount":16.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Ruhen/Warten","duration":720},{"name":"Kühlen","duration":45}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Waldmeister","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Weißwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Erdbeersaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"kalte","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":25,"amountTo":null,"ingredient_name":"gefriergetrocknete Erdbeerwürfel bzw. -stückchen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Erdbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Anrichten"}]}],"preparation":[{"headline":null,"content":"Den Waldmeister an den Stielen zusammenbinden und nach Belieben einige Stunden anwelken lassen. Dann mit den Blättern nach unten über Nacht in ein Gefäß mit dem Weißwein darin hängen."},{"headline":null,"content":"Am nächsten Tag den Weißwein durch ein Sieb in einen Topf gießen und mit dem Erdbeersaft und Zucker aufkochen."},{"headline":null,"content":"Die Butter in Würfel schneiden und diese für 5–10 Minuten einfrieren."},{"headline":null,"content":"Den heißen Erdbeersud in einen Mixer geben. Die Eigelbe sowie die angefrosteten Butterwürfel nach und nach in den laufenden Mixer geben, bis eine homogene, dickflüssige Masse entstanden ist."},{"headline":null,"content":"Die Masse – noch heiß – sofort in eine elektrische Eismaschine füllen und gefrieren lassen. Kurz vor Ende der Gefrierzeit die getrockneten Erdbeerstückchen dazugeben."},{"headline":null,"content":"Das Eis in ein gekühltes Gefäß umfüllen und darin eventuell noch etwas fester frieren lassen. Zum Servieren eventuell mit einem Eis-Portionierer zu Kugeln formen und mit frischen Erdbeeren anrichten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Cremiges Erdbeer-Waldmeister-Eis</Title>
+    <CustomRecipeNoteInformation position="1">Wartezeit: über Nacht, Das braucht man: Eismaschine</CustomRecipeNoteInformation>
+    <Headline position="1">Cremiges Erdbeer-Waldmeister-Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-17T15:29:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="850l1xbweb61khz0a0k">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Anrichten" position="8" prefix="frische" plural="Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10971" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Waldmeister" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißwein" position="2"/>
+      <CustomRecipeIngredient topic="tmt84as3g4eoux2vr2ujpx" amount="450" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Erdbeersaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="kalte" plural="Butter" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eigelb" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" prefix="gefriergetrocknete" plural="Erdbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="850l1zc54hk1flskfa0k">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Waldmeister an den Stielen zusammenbinden und nach Belieben einige Stunden "anwelken" lassen. Dann mit den Blättern nach unten über Nacht in ein Gefäß mit dem Weißwein darin hängen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850l1zc54p0ovz5xa0k">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Am nächsten Tag den Weißwein durch ein Sieb in einen Topf gießen und mit dem Erdbeersaft und Zucker aufkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850l1zc54si3zi6xa0k">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Butter in Würfel schneiden und diese für 5–10 Minuten einfrieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850l1zc55n9mayppa0k">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den heißen Erdbeersud in einen Mixer geben. Die Eigelbe sowie die angefrosteten Butterwürfel nach und nach in den laufenden Mixer geben, bis eine homogene, dickflüssige Masse entstanden ist. Die Masse – noch heiß – sofort in eine elektrische Eismaschine füllen und gefrieren lassen. Kurz vor Ende der Gefrierzeit die getrockneten Erdbeerstückchen dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850l1zc55vkcubj4a0k">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Das Eis in ein gekühltes Gefäß umfüllen und darin eventuell noch etwas fester frieren lassen. Zum Servieren eventuell mit einem Eis-Portionierer zu Kugeln formen und mit frischen Erdbeeren anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">StockFood Studios/Silke Zander</ImageCredit>
+      <DocumentRef doc_id="doc7wdntx10y4p92bfkll1" file_variant="master" position="1">Erdbeer-Weißwein-Buttereis mit Waldmeister</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

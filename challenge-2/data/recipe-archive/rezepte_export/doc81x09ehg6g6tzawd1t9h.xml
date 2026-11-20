@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81x09ehg6g6tzawd1t9h" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T12:50:56+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-12T12:59:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer-Milchshake","recipe_seo_headline":"Himbeer-Milchshake – das fruchtigste Rezept","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"TK-Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Frische Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Himbeeren, Zucker, Milch und Sahne in einen Mixer geben und fein pürieren. Auf 2 Gläser verteilen und nach Belieben mit Minze und Himbeeren dekorieren."}],"recipe_tips":[{"headline":"Variante ohne raffinierten Zucker","content":"Ersetze den Zucker im Shake durch 4 Datteln, die du einfach mit den restlichen Zutaten in den Mixer gibst."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeer-Milchshake</Title>
+    <CustomRecipeSeoTitle position="1">Himbeer-Milchshake – das fruchtigste Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Himbeer-Milchshake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T12:50:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81x09ch1r4ndevgf1t9h">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" position="6" prefix="frische" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" position="7" prefix="frische" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="tiefgekühlte" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81x09ehfvw910ea6y1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Himbeeren, Zucker, Milch und Sahne in einen Mixer geben und fein pürieren. Auf 2 Gläser verteilen und nach Belieben mit Minze und Himbeeren dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81x09ehg1wmsj0vl1t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ersetze den Zucker im Shake durch 4 Datteln, die du einfach mit den restlichen Zutaten in den Mixer gibst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Variante ohne raffinierten Zucker</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ay20iva941kn372sc1" file_variant="master" position="1">HimbeerMilchshake3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689b1e63b7b77">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ay223h4h5ww18bos7" file_variant="master" position="1">HimbeerMilchshakeStep.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Himbeeren hinzugeben</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_689b1e66757bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81ay1uiil41sddzesc1" file_variant="master" position="1">HimbeerMilchshake1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689b1e67b9ac1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81ay1xqm5dk1jgm3fos7" file_variant="master" position="1">HimbeerMilchshake2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

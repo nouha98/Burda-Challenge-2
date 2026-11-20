@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84qc5cd0frr9g7nrp6x" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-25T16:50:57+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-02-26T10:45:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="300"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <Source topic="tmt84qpy932ipj6b375mm5"/>
+    <CustomRecipeNoteInformation position="1">Das braucht man: Kastenform (Länge ca. 25 cm)
+Bitte beachten: Bananen müssen gefroren werden</CustomRecipeNoteInformation>
+    <Headline position="1">Waldmeister-Stracciatella-Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-25T16:50:57+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="1" ingredient_error="1" amount="700" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" position="2" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zartbitterschokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7356" position="3" amount="350" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Kondensmilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10976" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Waldmeistersirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="5" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Bananen schälen, in Scheiben schneiden, mind. 4 Stunden einfrieren. Die Kastenform bis zur Verwendung in den Kühlschrank stellen. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69a015e1e4fb6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zartbitterschokolade hacken und über dem heißen Wasserbad schmelzen. Die gefrorenen Bananenscheiben mit Kondensmilch, Sirup und Zitronensaft mit dem Pürierstab fein pürieren. Etwas Eismasse in die Form streichen und etwas geschmolzene Schokolade ungleichmäßig darüberträufeln. So fortfahren, bis Eismasse und Schokolade aufgebraucht sind. Eis bis zum Servieren noch mal etwa 1 Stunde einfrieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>cremiges Waldmeister-Stracciatella-Eis (ohne Eismaschine)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc7fmxxe74ovlsxqfrgjy" file_variant="master" position="1">SWTD_3_22_S_cremiges_Waldmeister_Stracciatella_Eis_0424</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

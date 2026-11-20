@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86gdyro2a5ugfp10c0c" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-26T12:08:43+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-06-30T11:08:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="360"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rphk12oxkodo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt86if17jiq912yj98esf"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Lavendel-Mousse mit weißer Schokolade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":360}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lavendelblüten","unit":{"name":"EL"},"prefix":"getrocknete","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"weiße Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Himbeergeist","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"1/2","amountTo":null,"ingredient_name":"Sofortgelatine","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"kandierte Veilchen","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Schlagsahne mit getrockneten Lavendelblüten verrühren, aufkochen und 10 Minuten ziehen lassen. Sahne durch ein Sieb passieren."},{"headline":null,"content":"Weiße Kuvertüre fein hacken und in der Sahne schmelzen. Mischung mindestens 4 Stunden, besser über Nacht, kalt stellen."},{"headline":null,"content":"Lavendel-Sahne und Himbeergeist mit den Schneebesen des Handrührers aufschlagen, dabei Sofortgelatine einrieseln lassen."},{"headline":null,"content":"Kandierte Veilchen hacken und unterheben."},{"headline":null,"content":"Mousse in einer Schüssel 2 Stunden kalt stellen, dann Nocken ausstechen und mit weiteren kandierten Veilchen bestreut anrichten."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Lavendel-Mousse mit weißer Schokolade</Title>
+    <Headline position="1">Lavendel-Mousse mit weißer Schokolade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-26T12:08:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86gdytswyon10wd11oem">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7686" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="getrocknete" plural="Lavendelblüten" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zixv533a83hn81p9ws" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="weiße Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6671" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Himbeergeist" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10171" amount="1/2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Sofortgelatine" position="5"/>
+      <CustomRecipeIngredient topic="tmt7jh3tb2072tb5z2yk3r" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" prefix="kandierte" plural="Veilchen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86gdyw5dpbnwr1huoem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schlagsahne mit getrockneten Lavendelblüten verrühren, aufkochen und 10 Minuten ziehen lassen. Sahne durch ein Sieb passieren. Weiße Kuvertüre fein hacken und in der Sahne schmelzen. Mischung mindestens 4 Stunden, besser über Nacht, kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdyw5dpk41m5ze8oem">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lavendel-Sahne und Himbeergeist mit den Schneebesen des Handrührers aufschlagen, dabei Sofortgelatine einrieseln lassen. Kandierte Veilchen hacken und unterheben. Mousse in einer Schüssel 2 Stunden kalt stellen, dann Nocken ausstechen und nach Belieben mit weiteren kandierten Veilchen bestreut anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Viererlei mit Lavendel - Lavendelmousse, Lavendel-Zitronen- Sorbet, Lavendel-Sirup, Lavendel-Zucker und -Salz</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Ulrike Holsten</ImageCredit>
+      <DocumentRef doc_id="doc82f44wldpv618enkm9ae" file_variant="master" position="1">Viererlei mit Lavendel - Lavendelmousse, Lavendel-Zitronen- Sorbet, Lavendel-Sirup, Lavendel-Zucker und -Salz</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

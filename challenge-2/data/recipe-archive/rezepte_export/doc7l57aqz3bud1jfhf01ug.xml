@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7l57aqz3bud1jfhf01ug" dcx-version="6.3.1" version="1.0">
+  <created>2022-05-25T09:56:10+02:00</created>
+  <identifier>1573202941477_1530226_2827654_2393971</identifier>
+  <modcount>3</modcount>
+  <modified>2024-01-11T14:02:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <StoryType topic="storytype-recipe"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Identifier>1573202941477_1530226_2827654_2393971</Identifier>
+    <Title position="1">MFI 5_21_Gastl._Getränk</Title>
+    <CopyrightNotice position="1">Alle Rechte: Meine Familie und ich</CopyrightNotice>
+    <Headline position="1">Better Bee's Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-05-25T09:56:10+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="0" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="flüssiger" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt7g9jxxw87ar3eos51fi" position="1" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(ital. Zitronenlikör)" plural="Limoncello"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" position="2" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" position="3" suffix="(0,7 l)" plural="Sekt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8796" position="4" amount="8" plural="Physalis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7951" position="5" prefix="Schokoschrift und" suffix="für die Garnitur" plural="Mandelblättchen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="a6b66c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader/>
+      <CustomRecipePreparationsStepsContent position="1">Zum Servieren: 4 EL flüssigen Honig mit 200 ml Limoncello (ital. Zitronenlikör), 200 ml Gin und Eiswürfeln mischen. Durch ein Sieb in Cocktail- oder Sektgläser füllen. Mit Sekt (0,7 l) auffüllen. Für die Garnitur 8 Physalis mit Schokoschrift und Mandelblättchen zu „Bienen” garnieren und an den Glasrand stecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primary picture</ImageLabel>
+      <DocumentRef doc_id="doc7e4ejp98emg1eoz39l6l" file_variant="master" position="1">Better_Bees_Cocktail_01</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

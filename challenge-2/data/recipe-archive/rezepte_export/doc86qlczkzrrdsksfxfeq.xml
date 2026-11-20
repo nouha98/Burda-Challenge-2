@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86qlczkzrrdsksfxfeq" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-16T08:49:37+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-16T08:58:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt86qlhb3shs91hnjxng5l"/>
+    <CustomRecipeNutritionalValueCalories position="1">275</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Christstollen-Muffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-16T08:49:37+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rosinen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" position="2" amount="70" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11336" position="3" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zitronat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8466" position="4" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Orangeat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="5" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geschälte" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="6" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="7" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="8" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7071" position="9" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" prefix="gemahlener" plural="Kardamom"/>
+      <CustomRecipeIngredient topic="tmt83i5mreuwqao58z11zfv" position="10" amount="2" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Nelkenpulver"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="11" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="12" amount="1" unit_topic="tmt8255nhdwwbm12e628f8n" unit="Päckchen" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="13" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="14" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" position="15" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Magerquark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="16" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Rosinen mit Rum in einem Topf kurz aufkochen und dann zugedeckt auf der ausgeschalteten Herdplatte ca. 1 Std. ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a58807a83892">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Zitronat und Orangeat möglichst fein hacken. Mandeln nicht zu fein mahlen (z.B. im Blitzhacker). </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a58808442930">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Je 1 Papierförmchen in die Mulden eines 12er-Muffinblechs setzen. 100 g Butter zerlassen und etwas abkühlen lassen. Mehl, Backpulver, Mandeln und Gewürze mischen. Vanillezucker, Eier, Zucker, zerlassene Butter und Quark mit dem Schneebesen gut verrühren. Rum samt Rosinen, Zitronat und Orangeat unterrühren. Zuletzt die Mehlmischung zügig mit einem Löffel unterrühren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a58808e8c16e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad (Umluft 160  Grad) vorheizen. Den Teig gleichmäßig auf die Muffinförmchen verteilen. Die Muffins 20–25  Min. backen. Herausnehmen, kurz abkühlen lassen und aus den Mulden heben. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6a58809830e7e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen die übrige Butter zerlassen und die Muffins noch warm damit bestreichen. Den Puderzucker darüberstäuben und die Muffins vollständig abkühlen lassen. Evtl. nochmals mit Puderzucker bestäuben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Christstollen-Muffins</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Eising St</ImageCredit>
+      <DocumentRef doc_id="doc77mrhuwq0bl12ndk0i7b" file_variant="master" position="1">Christstollen-Muffins</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

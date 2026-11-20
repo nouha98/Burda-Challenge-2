@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8751g8u7gqf1jrar8qfa" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-13T11:37:31+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-18T12:04:00+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <Source topic="tmt877ma2epjdzsxyijglu"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schneeflocken-Kekse","recipe_seo_headline":null,"servings":{"amount":25.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":60},{"name":"Kühlen","duration":30},{"name":"Backen","duration":24}],"difficulty":null,"price":null,"nutritions":{"calories":145,"kilojoule":608,"carbonhydrates":14,"fat":9,"protein":2,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Dinkelmehl Type 1050","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Kokosblütenzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanillemark","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Eierlikör","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"weiße Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl, Kokosblütenzucker, Vanillemark, Ei, 2 EL Eierlikör und Butter in Stücken glatt verkneten. Bei Bedarf etwas Mehl oder Wasser ergänzen. Teig ca. 30 Minuten zugedeckt kalt stellen."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Den Teig ca. 3 mm dünn ausrollen. Mit einem Schneeflocken-Ausstecher 50 Kekse ausstechen. Aus der Hälfte der Kekse mittig einen kleinen Kreis ausstechen."},{"headline":null,"content":"Kekse auf 2 mit Backpapier belegte Bleche legen. Im Ofen je 10–12 Minuten backen. Auskühlen lassen."},{"headline":null,"content":"Kuvertüre hacken. Sahne mit Eigelb bei kleiner Hitze über einem heißen Wasserbad schaumig schlagen. Von der Hitze nehmen. Kuvertüre in der Eisahne schmelzen. 4 EL Eierlikör einrühren. Etwas abkühlen lassen."},{"headline":null,"content":"Die Eierlikör-Creme auf die Kekse ohne Loch verteilen. Je 1 Keks mit Loch auflegen. Auskühlen lassen. Durch ein feines Sieb den Puderzucker über die Plätzchen streuen."}],"recipe_tips":[{"headline":null,"content":"Wer keinen Schneeflocken-Ausstecher hat, kann mit einem Teigrad und einem langen Lineal oder der Kante vom Backblech Rechtecke ausschneiden. Aus der Hälfte der Kekse wieder einen kleinen Kreis ausstechen. Die Teigreste wieder verkneten und erneut ausrollen. So fortfahren, bis kein Teig mehr übrig bleibt."}]}</CustomStructuredRecipeJson>
+    <Title>Schneeflocken-Kekse</Title>
+    <CustomRecipeNutritionalValueCalories position="1">145</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">608</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">14</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">9</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Schneeflocken-Kekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-13T11:37:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8751gbidomxfsait2i7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" suffix="Type 1050" plural="Dinkelmehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7291" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosblütenzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10796" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanillemark" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5676" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Eierlikör" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7571" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" prefix="weiße " plural="Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eigelb" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8751gg12p01ajlr62i7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, Kokosblütenzucker, Vanillemark, Ei, 2 EL Eierlikör und Butter in Stücken glatt verkneten. Bei Bedarf etwas Mehl oder Wasser ergänzen. Teig ca. 30 Min. zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8751gg12p9l11ebi82i7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Den Teig ca. 3 mm dünn ausrollen. Mit einem Schneeflocken-Ausstecher 50 Kekse ausstechen. Aus der Hälfte der Kekse mittig einen kleinen Kreis ausstechen. Kekse auf 2 mit Backpapier belegte Bleche legen. Im Ofen je 10–12 Min. backen. Auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8751gg12pcw16jil22i7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kuvertüre hacken. Sahne mit Eigelb bei kleiner Hitze über einem heißen Wasserbad schaumig schlagen. Von der Hitze nehmen. Kuvertüre in der Eisahne schmelzen. 4 EL Eierlikör einrühren. Etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8751gg12pg2dau472i7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Eierlikör-Creme auf die Kekse ohne Loch verteilen. Je 1 Keks mit Loch auflegen. Auskühlen lassen. Durch ein feines Sieb den Puderzucker über die Plätzchen streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8751gg12pqd9m0ba2i7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer keinen Schneeflocken-Ausstecher hat, kann mit einem Teigrad und einem langen Lineal oder der Kante vom Backblech Rechtecke ausschneiden. Aus der Hälfte der Kekse wieder einen kleinen Kreis ausstechen. Die Teigreste wieder verkneten und erneut ausrollen. So fortfahren, bis kein Teig mehr übrig bleibt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Weihnachtsplätzchen mit Egg-Nogg-Creme</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc7mm82eoq0gnqn3idhe9" file_variant="master" position="1">Weihnachtsplätzchen mit Egg-Nogg-Creme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

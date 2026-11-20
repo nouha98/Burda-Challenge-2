@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83vxt1xwfrtw9j491gt0" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-28T12:58:53+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-12-28T12:58:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="10"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Birnenmarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1500,"amountTo":null,"ingredient_name":"Birnen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"2:1"},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Birnen waschen, schälen, vierteln, entkernen und würfeln. Die gewürfelten Birnen mit dem Zucker und dem Saft der Zitrone, dem Zimtpulver und dem Vanillezucker in den Topf geben."},{"headline":null,"content":"Den Topf langsam erhitzen und unter ständigem Rühren aufkochen und die Birnen verkochen lassen. Mit dem Pürierstab einmal durchmixen. Es dürfen noch leichte Stücke vorhanden sein. Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert."},{"headline":null,"content":"In heiß ausgespülte Gläser füllen und auf den Kopf stellen."}],"recipe_tips":[{"headline":"Birnenmarmelade verfeinert mit Thymian","content":"Dazu ein bis zwei Thymianzweige mit auskochen und vor dem Mixen entfernen."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Birnenmarmelade</Headline>
+    <Title>Birnenmarmelade</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-28T12:58:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83vxt0husw51jlmn11gt0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="1500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Birnen" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="2:1" plural="Gelierzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimtpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83vxt1xw12q11bv6k1gt0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Birnen waschen, schälen, vierteln, entkernen und würfeln. Die gewürfelten Birnen mit dem Zucker und dem Saft der Zitrone, dem Zimtpulver und dem Vanillezucker in den Topf geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt1xw5mhef44r1gt0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Topf langsam erhitzen und unter ständigem Rühren aufkochen und die Birnen verkochen lassen. Mit dem Pürierstab einmal durchmixen. Es dürfen noch leichte Stücke vorhanden sein. Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt1xw5t1u9e1p1gt0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In heiß ausgespülte Gläser füllen und auf den Kopf stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83vxt1xw5xj1kpzkx1gt0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Dazu ein bis zwei Thymianzweige mit auskochen und vor dem Mixen entfernen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Birnenmarmelade verfeinert mit Thymian</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83xfvfqjscnu4selfvw" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-31T11:07:49+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-31T11:14:14+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="10" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wodka – Wackelpudding","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Götterspeise","unit":{"name":"Packung"},"prefix":null,"suffix":"(ca. 12 g, z.B.: Waldmeister Geschmack)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Beutel mit Götterspeise und den Zucker in einem Kochtopf mischen und mit 250ml Wasser verrühren. Die Flüssigkeit unter Rühren erhitzen, bis sich das Pulver und der Zucker aufgelöst haben, die Flüssigkeit jedoch nicht gekocht hat. Nun den Herd ausschalten, die Masse etwas abkühlen lassen und den Wodka einrühren."},{"headline":null,"content":"Die Flüssigkeit auf die Gläser verteilen und für ca. 3 Stunden kaltstellen und fest werden lassen."}],"recipe_tips":[{"headline":"Unterschiedliche Aromen","content":"Es gibt unterschiedliche Aromen und Farben an Götterspeise. Die Zubereitung ist jedoch dieselbe."}]}</CustomStructuredRecipeJson>
+    <Title>Wodka – Wackelpudding</Title>
+    <Headline position="1">Wodka – Wackelpudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-31T11:07:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83xfvevko1y11tue4fvw">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6346" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(ca. 12 g, z.B.: Waldmeister Geschmack)" plural="Götterspeise" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83xfvfqjilth8xfsfvw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Götterspeisen-Pulver und den Zucker in einem Kochtopf mischen. Mit dem Wasser verrühren. Die Flüssigkeit unter Rühren erhitzen, bis sich das Pulver und der Zucker aufgelöst haben, die Flüssigkeit jedoch nicht gekocht hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83xfvfqjlx2idnhpfvw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Herd ausschalten, die Masse etwas abkühlen lassen und den Wodka einrühren. Die Flüssigkeit auf kleine Gläser (à 80 ml) verteilen. Für ca. 3 Stunden kaltstellen und fest werden lassen. Aus dem Kühlschrank nehmen und servieren. Cheers!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83xfvfqjm5w1cdibcfvw">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Es gibt unterschiedliche Aromen und Farben an Götterspeise. Probiere einfach verschiedene Geschmacksrichtungen aus! Die Zubereitung ist immer dieselbe.  </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Götterspeise</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxh5x67ur403q1pcx" file_variant="master" position="1">Wodka-Wackelpudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6954f76b75f4a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxfce5avdts7kvrkh" file_variant="master" position="1">Wodka-Wackelpudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6954f76d4a90e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxfs4qeh0za0f3rtg" file_variant="master" position="1">Wodka-Wackelpudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6954f770f39ff">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxhvkjq50a0d1apmd" file_variant="master" position="1">Wodka-Wackelpudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6954f77311ef8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82sxgge02nmjr4lrp84" file_variant="master" position="1">Wodka-Wackelpudding</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

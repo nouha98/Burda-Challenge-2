@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87qmaqj0749z5wo0r6k" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-24T11:33:21+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-09-24T11:39:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt87qmdbpu87b4r8nbrlr"/>
+    <CustomRecipeNoteInformation position="1">Das braucht man: 4 Gläser à 300 ml</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">265</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">5</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Orangen-Aprikosen-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-24T11:33:21+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" position="1" amount="2" plural="Bio-Orangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="getrocknete" plural="Aprikosen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="3" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(1,5% Fett)" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" position="4" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7071" position="5" amount="0.25" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Kardamom"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5511" position="7" plural="Crushed Ice"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Orangen heiß waschen, trocken tupfen und die Schale abreiben. Früchte halbieren und den Saft auspressen. Aprikosen kleiner schneiden. Vorbereitete Zutaten mit Milch, Joghurt, Kardamom und Honig kurz anmixen. Crushed Ice zugeben und alles auf höchster Mixerstufe sehr fein pürieren. In Gläser füllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Die Milch kann man auch durch Orangensaft ersetzen und evtl. noch je 1 Apfel und Banane zugeben.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Wischnewski, Jan</ImageCredit>
+      <DocumentRef doc_id="doc7cc94ya77g2mmpt0h13" file_variant="master" position="1">Orangen-Aprikose-Smoothie mit Kardamom</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

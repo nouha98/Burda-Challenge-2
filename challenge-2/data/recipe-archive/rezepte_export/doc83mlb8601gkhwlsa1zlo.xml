@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83mlb8601gkhwlsa1zlo" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-10T08:23:28+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-10T08:26:55+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeermarmelade mit Vanille","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1.2,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"(2:1)"},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Erdbeeren waschen, abtropfen lassen, putzen und in grob würfeln. Es sollten ca. 1 kg saubere Erdbeeren übrigbleiben."},{"headline":null,"content":"Die Erdbeeren zusammen mit dem Gelierzucker in einen großen Topf geben."},{"headline":null,"content":"Die Vanilleschote flach drücken und mit einem Messer halbieren. Das Mark mit einem Messer herauskratzen und zusammen mit der ausgekratzten Vanilleschote in den Topf geben. Den Saft der Zitrone auspressen und beides ebenso in den Topf geben."},{"headline":null,"content":"Den Topf langsam erhitzen und unter ständigem Rühren aufkochen und die Erdbeeren verkochen lassen und pürieren. Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert."},{"headline":null,"content":"Die Vanilleschote herausnehmen. Die Marmelade in saubere Marmeladengläser füllen und gut verschließen."}],"recipe_tips":[{"headline":"Verfeinern mit Limette","content":"Mit fein abgeriebener Limettenschale erhält die Marmelade eine besondere Frische."}]}</CustomStructuredRecipeJson>
+    <Title>Erdbeermarmelade mit Vanille</Title>
+    <Headline position="1">Erdbeermarmelade mit Vanille</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-10T08:23:28+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83mlb6k9wih5s2jt1zlo">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="1.2" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(2:1)" plural="Gelierzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83mlb85zctkfqni61zlo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeeren waschen, abtropfen lassen, putzen und grob würfeln. Es sollten ca. 1 kg geputzte Erdbeerwürfel übrig bleiben. Die Erdbeeren zusammen mit dem Gelierzucker in einen großen Topf geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Erdbeer-Vanille-Marmelade </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mlb85zmq9n2dlu1zlo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Vanilleschote flach drücken und mit einem Messer längs halbieren. Das Mark mit einem Messer herauskratzen und zusammen mit der ausgekratzten Vanilleschote in den Topf geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mlb85zmyv1kfjm61zlo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zitronensaft in den Topf dazu geben. Den Topf langsam erhitzen und die Erdbeeren unter ständigem Rühren aufkochen. Die Erdbeeren verkochen lassen und mit einem Mixstab pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mlb85zn53jeppg1zlo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert. Die Vanilleschote herausnehmen. Die Marmelade in saubere Marmeladengläser (à 250 g) füllen und gut verschließen. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83mlb85zng013r8ne1zlo">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mit fein abgeriebener Limettenschale erhält die Marmelade eine besondere Frische.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Verfeinern mit Limette</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsieg9e85skmyr1g54" file_variant="master" position="1">Erdbeermarmelade mit Vanille</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_693920bcbe13b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsjh6it2d1j69it1i6x" file_variant="master" position="1">Erdbeermarmelade mit Vanille</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_693920bdf13b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsj309qvowshhr1i6x" file_variant="master" position="1">Erdbeermarmelade mit Vanille</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

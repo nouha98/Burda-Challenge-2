@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7nj4bravmec1372u0cjr" dcx-version="6.3.1" version="1.0">
+  <created>2022-11-08T14:01:36+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-07-14T11:10:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <Headline position="1">Himbeer-Bananen-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-11-08T14:01:36+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="0" amount="2" prefix="reife" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="1" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" position="2" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="tiefgekühlte" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" position="4" prefix="frische" plural="Beeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zutaten für 4 Gläser (à 250 ml)</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">2 reife Bananen schälen, in Stücke schneiden. In einem hohen Gefäß mit 400 ml Milch pürieren, auf 4 hohe Gläser verteilen. 150 g tiefgekühlte Himbeeren (angetaut) und 2 EL Puderzucker mit 300 ml Milch pürieren. Auf die Bananenmilch gießen und evtl. mit frischen Beeren garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananen suess und herzhaft</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc7iip2lyx5magn2xv6ka" file_variant="master" position="1">MIC 20220003</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

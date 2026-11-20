@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827aml41prd183lchpvu" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T13:23:08+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-10T12:17:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vanillekipferl","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(type 405)"},{"amount":100,"amountTo":null,"ingredient_name":"gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Prise Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"kalte Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Zum Wälzen","ingredients":[{"amount":120,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon Vanille Zucker","unit":{"name":"Packung"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Eine Springform (Ø 26cm) mit Butter einfetten und etwas Mehl bestäuben."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Vanillekipferl</Title>
+    <Headline position="1">Vanillekipferl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T13:23:08+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827amj2t0nr10zsrspvu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Mandeln" prefix="gemahlene "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Butter" prefix="kalte "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="7" plural="Eigelb"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="827amkoo5tx151hdfpvu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" position="2" plural="Bourbon-Vanillezucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Wälzen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827aml41icl1gg9xjpvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Mandeln und Puderzucker in einer Schüssel mischen. Vanilleschote längs aufschneiden und das Mark herauskratzen. Zusammen mit Salz, Butter in Würfeln und Eigelben zugeben. Alles mit den Händen rasch zu einem glatten Teig kneten. In Folie gewickelt 1 Stunde kaltstellen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68b59c85067b4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Backbleche mit Backpapier belegen. Teig in 4 Teile teilen. Portionsweise den Teig aus dem Kühlschrank nehmen und aus jeweils walnussgroßen Stücken Hörnchen formen und mit Abstand auf das Blech legen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68b59c8b9ec38">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Vanillekipferl im vorgeheizten Ofen ca. 8 Minuten backen. Währenddessen Puderzucker und Vanillezucker in einer Schale vermischen. Die Vanillekipferl nach dem Backen direkt vorsichtig in der Puderzucker-Zucker-Mischung wälzen und auf einem Gitter komplett erkalten lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Wer Pistazien mag</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Für eine besondere Note einfach 50 g Mandeln durch Pistazien ersetzen und die gebackenen Kipferl in weiße Kuvertüre tauchen. 
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68b59c92c2053">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Die Vanilleschote nicht wegwerfen!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Die ausgekratzte Vanilleschote sollte definitiv nicht weggeworfen werden. Sie kann in verschiedenster Form weiterverwendet werden. Entweder die Schote einfach in ein Glas Zucker geben oder in der heißen Milch für Grießbrei oder Milchreis mit aufkochen.
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_2_68b59cb9d066a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n68wqjj2v250zl2ub" file_variant="master" position="1">Vanillekipferl2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b59ce15673b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n68zksvd5kvbh03rd" file_variant="master" position="1">VanillekipferlStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b59ce41178d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n6915c6m1gb9gn2u3" file_variant="master" position="1">VanillekipferlStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68b59ce6994bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n68xzr7nd179rzq3r0" file_variant="master" position="1">Vanillekipferl1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

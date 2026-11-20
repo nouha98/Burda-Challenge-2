@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81r91u00xbm13mfz3it6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T08:00:05+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-01T08:08:47+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="22"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Weihnachtsmüsli selber machen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":22}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Müsli","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"kernige Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Walnüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"gehackte Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"neutrales Öl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"flüssiger Honig","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für das Weihnachtsmüsli","content":"Ein Backblech (30x40cm) mit einem Backpapier auslegen. Die Haferflocken in eine Schüssel geben. Walnüsse grob hacken, zugeben. Kürbiskerne, Gewürze, gehackte Mandeln untermengen, alles gut mischen. Den Backofen auf 200 Grad Ober- Unterhitze (Umluft 180 Grad) vorheizen. Öl abmessen und zusammen mit dem Honig zu der Kernemischung geben, mit einem Löffel alles gut vermengen und das Müsli auf das vorbereitete Blech gleichmäßig verteilen. Das Weihnachtsmüsli für 12 Min. Backen lassen, dann alles einmal mit einem Löffel mischen (damit auch die Unterseite gebacken wird) und weitere 10 Minuten goldbraun backen lassen. Das Müsli komplett auskühlen lassen! In ein großes luftdichtes Glas abfüllen und gut verschließen."}],"recipe_tips":[{"headline":"gut auskühlen lassen","content":"Wenn das Müsli noch leicht warm verpackt wird, entwickelt sich Kondenswasser, dies kann luftdichtverpackt zu Schimmelbildung führen."}]}</CustomStructuredRecipeJson>
+    <Title>Weihnachtsmüsli selber machen</Title>
+    <Headline position="1">Weihnachtsmüsli selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T08:00:05+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81r91s0ft131elzn6it6">
+      <CustomRecipeIngredient topic="tmt808b1a1of5x7cj9cvbq" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="kernige Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnüsse" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbiskerne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="5"/>
+      <CustomRecipeIngredient topic="tmt80inyfux19f1jp8o3ofv" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="gehackte Mandeln"/>
+      <CustomRecipeIngredient topic="tmt7zg4iyp9gw519anvmbqf" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" plural="neutrales Öl"/>
+      <CustomRecipeIngredient topic="tmt80gmyt8a6fq1bu7bpgzt" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" plural="flüssiger Honig"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Müsli</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81r91u00ik01ga8aqit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ein Backblech (30x40cm) mit einem Backpapier auslegen. Die Haferflocken in eine Schüssel geben. Walnüsse grob hacken, zugeben. Kürbiskerne, Gewürze, gehackte Mandeln untermengen, alles gut mischen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Weihnachtsmüsli</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_688c58b607bd5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 200 Grad Ober- Unterhitze (Umluft 180 Grad) vorheizen. Öl abmessen und zusammen mit dem Honig zu der Kernemischung geben, mit einem Löffel alles gut vermengen und das Müsli auf das vorbereitete Blech gleichmäßig verteilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_688c58dad5f08">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Weihnachtsmüsli für 12 Min. Backen lassen, dann alles einmal mit einem Löffel mischen (damit auch die Unterseite gebacken wird) und weitere 10 Minuten goldbraun backen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_688c593656c65">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Müsli komplett auskühlen lassen! In ein großes luftdichtes Glas abfüllen und gut verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81r91u00p6818p2wuit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn das Müsli noch leicht warm verpackt wird, entwickelt sich Kondenswasser, dies kann luftdichtverpackt zu Schimmelbildung führen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">gut auskühlen lassen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814p9m9j0snxw390coq" file_variant="master" position="1">Weihnachtsmuesli1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688c59e3b758d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814p9tvtrx36gqgocor" file_variant="master" position="1">WeihnachtsmuesliStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688c59e55315f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814p9wuvkio8m8w8cot" file_variant="master" position="1">WeihnachtsmuesliStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688c59e718c3a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814p9pwbg7p14hkazfri" file_variant="master" position="1">Weihnachtsmuesli2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

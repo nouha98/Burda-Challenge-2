@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83vxt13xy53l79k31gsu" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-28T12:58:50+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-28T13:43:14+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr1c118dxhdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Chicken Nuggets","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":15},{"name":"Backen","duration":null},{"name":"Kühlen","duration":null},{"name":"Ruhen/Warten","duration":null}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Hähnchenbrust","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"und Pfeffer aus der Mühle"},{"amount":2,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprikapulver edelsüß","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Cornflakes","unit":{"name":"g"},"prefix":null,"suffix":"(ungesüßt)"},{"amount":200,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":"zum Frittieren"}]}],"preparation":[{"headline":null,"content":"Die Cornflakes im Mixer zerkleinern. Das Ei mit einer Prise Salz und dem Paprikapulver in einer Schüssel verquirlen."},{"headline":null,"content":"Hähnchenbrust in ca. 3-4cm große Stücke schneiden und mit einer Prise Salz und Pfeffer würzen. Nun im Mehl wenden, gut abklopfen und im Ei wenden. Gut abtropfen lassen und anschließend in den Cornflakes panieren und diese leicht andrücken. Auf einem Teller bereitlegen."},{"headline":null,"content":"Einen Topf zusammen mit dem Öl zum Frittieren aufstellen und erhitzen."},{"headline":null,"content":"Die Chicken Nuggets nun am besten in 2 Portionen jeweils 3-4 Minuten darin goldgelb und knusprig ausbacken. Anschließend auf Küchenkrepp etwas abtropfen lassen und mit einer Prise Salz nachwürzen."}],"recipe_tips":[{"headline":"Dazu passt… ein leckerer Dipp","content":"wie z.B.: Sweet Chili Sauce"}]}</CustomStructuredRecipeJson>
+    <Title>Chicken Nuggets</Title>
+    <Headline position="1">Chicken Nuggets</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-28T12:58:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83vxsywkqsn19wh151gsu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5451" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ungesüßt)" plural="Cornflakes" position="2" prefix="ungesüßte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="1" suffix="Größe M"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weizenmehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6516" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hähnchenbrust" position="4" suffix="(à ca. 160 g)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="und Pfeffer aus der Mühle" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" prefix="frisch gemahlener" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="7" plural="Paprikapulver edelsüß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="zum Frittieren" plural="Sonnenblumenöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83vxt13xkzn194mbd1gsu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eier mit einer Gabel in einer Schüssel oder einem tiefen Teller verquirlen. Cornflakes in einem Beutel mit einer Teigrolle zerkleinern und mit dem Mehl separat auf zwei Tellern verteilen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt13xquvvruc61gsu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Hähnchenbrustfilets mit Küchenpapier abtupfen und in 1-2 cm dicke Scheiben schneiden.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt13xqzq1hoavw1gsu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Hähnchenstücke von beiden Seiten mit Salz, Pfeffer und Paprikapulver würzen und im Mehl wenden. Überschüssiges Mehl abklopfen, Hähnchenstücke durch das Ei ziehen, am Tellerrand abstreifen, in den Cornflakes wenden und leicht andrücken.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxt13xr50pz5031gsu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sonnenblumenöl in einer großen Pfanne erhitzen. Nuggets einlegen und von beiden Seiten 3-4 Minuten goldgelb braten.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6951256d26d40">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Chicken Nuggets auf Küchenpapier abtropfen lassen und z. B. mit Currydip, Ketchup und Pommes servieren. Guten Appetit!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83vxt13xr942vn6z1gsu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Besprühe deine Nuggets mit etwas Sonnenblumenöl und backe sie unter einmaligem Wenden ca. 15 Minuten bei 180 Grad Umluft im vorgeheizten Backofen.
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Chicken Nuggets im Ofen zubereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jo0l3q2xwiyxz7sk" file_variant="master" position="1">Chicken Nuggets</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_695125b4769e7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jo0r3pu1z1hxbl77pt" file_variant="master" position="1">Chicken Nuggets</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_695125b7969c4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jo0nzwxxkuxkkv82q" file_variant="master" position="1">Chicken Nuggets</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_695125bb10ef5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jo0yrwgchgtc8m82q" file_variant="master" position="1">Chicken Nuggets</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

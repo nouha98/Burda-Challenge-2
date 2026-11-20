@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ewnw0bbvs1az82o14tt" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-16T08:56:15+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-16T09:03:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bratkartoffeln mit Gemüse","recipe_seo_headline":"Bratkartoffeln mit Gemüse – gesund &amp; so lecker","servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":"festkochend","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ca. 300 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Karotten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rote Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Geschmacksneutrales Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Majoran","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Pesto","unit":{"name":"EL"},"prefix":"optional","suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen und in einen Topf mit leicht gesalzenem Wasser geben, sodass die Kartoffeln vollständig mit Wasser bedeckt sind. Wasser aufkochen und die Kartoffeln 20-25 Minuten kochen, bis sie weich sind. Durch ein Sieb abgießen, mit kaltem Wasser abschrecken und abkühlen lassen. Kartoffeln pellen und in Scheiben schneiden."},{"headline":null,"content":"Zucchini und Paprika waschen. Zucchini längs halbieren und in feine Halbringe schneiden. Paprika halbieren, das Gehäuse entfernen und in Würfel schneiden. Karotten schälen und in Scheiben schneiden. Zwiebel abziehen und fein würfeln."},{"headline":null,"content":"Butter und Öl in einer beschichteten Pfanne erwärmen. Kartoffeln bei mittlerer bis hoher Hitze goldbraun anbraten. Das restliche Gemüse dazugeben und für 10-15 Minuten mitbraten, bis es bissfest ist."},{"headline":null,"content":"Die Gemüsepfanne mit Majoran, Paprika, Salz und Pfeffer würzen. Vom Herd nehmen, auf Teller aufteilen und optional mit etwas Pesto toppen. Guten Appetit!"}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bratkartoffeln mit Gemüse</Title>
+    <CustomRecipeSeoTitle position="1">Bratkartoffeln mit Gemüse – gesund &amp; so lecker</CustomRecipeSeoTitle>
+    <Headline position="1">Bratkartoffeln mit Gemüse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-16T08:56:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ewnrhs0ygkwp2y14tt">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="festkochend" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 300 g)" plural="Zucchini" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Paprika" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="4" plural="Karotten"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="5" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zg4iyp9gw519anvmbqf" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="neutrales Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7906" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Majoran" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Paprika" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8656" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="optional" plural="Pesto" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ewnw0b18p1mbtx814tt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und in einen Topf mit leicht gesalzenem Wasser geben, sodass die Kartoffeln vollständig mit Wasser bedeckt sind. Wasser aufkochen und die Kartoffeln 20-25 Minuten kochen, bis sie weich sind. Durch ein Sieb abgießen, mit kaltem Wasser abschrecken und abkühlen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ewnw0b4v51m4hri14tt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zucchini und Paprika waschen. Zucchini längs halbieren und in feine Halbringe schneiden. Paprika halbieren, das Gehäuse entfernen und in Würfel schneiden. Karotten schälen und in Scheiben schneiden. Zwiebel abziehen und fein würfeln. Kartoffeln pellen und in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ewnw0b4zntpsmn14tt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Butter und Öl in einer beschichteten Pfanne erwärmen. Kartoffeln bei mittlerer bis hoher Hitze goldbraun anbraten. Das restliche Gemüse dazugeben und für 10-15 Minuten mitbraten, bis es bissfest ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ewnw0b52x1651em14tt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Gemüsepfanne mit Majoran, Paprika, Salz und Pfeffer würzen. Vom Herd nehmen, auf Teller aufteilen und optional mit etwas Pesto toppen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Für Pesto-Fans</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wir toppen die Bratkartoffeln gerne noch mit 1 EL grünem oder auch rotem Pesto.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc829a36plotx12bpscpjf" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c90bbfed6ae">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc829a3duj0cx17rt6tpja" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c90bc18b3ce">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc829a3idm6id9g1nzph4" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c90bc2e5977">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc829a39empo0b1zl1pjf" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

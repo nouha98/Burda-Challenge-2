@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82m3t3jqt1216g5bqiaw" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-30T09:10:06+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-30T09:14:49+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeermuffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Backen","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":250,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":1.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":"frische","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Ofen auf 180 Grad Ober- und Unterhitze (Umluft: 160 Grad) vorheizen. Die Mulden eines Muffinblechs mit Papierförmchen auslegen. Für den Teig die Butter mit dem Zucker und Vanilleextrakt cremig aufschlagen, die Eier nach und nach unterrühren. Das Mehl mit dem Backpulver mischen, sieben und unter den Teig rühren."},{"headline":null,"content":"Die Milch zum Teig geben und unterrühren. Den Muffinteig auf die Förmchen aufteilen. Die frischen Erdbeeren waschen, trockentupfen, putzen und würfeln. Ca. 1 EL der Erdbeerwürfel auf jedes Förmchen geben und leicht in den Teig drücken. Die Muffins im vorgeheizten Ofen ca. 20 Minuten backen, dann vollständig abkühlen lassen."}],"recipe_tips":[{"headline":"So werden sie perfekt!","content":"Bei Muffins ist das gleichmäßige Portionieren des Teigs essentiell für perfekte Muffins. Besonders gut kannst du den Teig mithilfe eines Spritzbeutels oder eines Eisportionierers portionieren."}]}</CustomStructuredRecipeJson>
+    <Title>Erdbeermuffins</Title>
+    <Headline position="1">Erdbeermuffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-30T09:10:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82m3t1wzalx1n3jswiaw">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Weizenmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Erdbeeren" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82m3t3jqs6b15gtkfiaw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 180 Grad Ober- und Unterhitze (Umluft: 160 Grad) vorheizen. Die Mulden eines Muffinblechs mit Papierförmchen auslegen. Für den Teig die Butter mit dem Zucker und Vanilleextrakt cremig aufschlagen, die Eier nach und nach unterrühren. Das Mehl mit dem Backpulver mischen, sieben und unter den Teig rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Erdbeermuffins</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82m3t3jqsd11ldsotiaw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Milch zum Teig geben und unterrühren. Den Muffinteig auf die Förmchen aufteilen. Die frischen Erdbeeren waschen, trockentupfen, putzen und würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68db829e0571b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ca. 1 EL der Erdbeerwürfel auf jedes Förmchen geben und leicht in den Teig drücken. Die Muffins im vorgeheizten Ofen ca. 20 Minuten backen, dann vollständig abkühlen lassen.  Muffins vorsichtig aus der Backform lösen. Die Muffins halten sich luftdicht verpackt ca. 3 Tage. Nach Belieben zum Servieren mit Puderzucker bestäuben. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82m3t3jqsgosrsioiaw">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bei Muffins ist das gleichmäßige Portionieren des Teigs essentiell für perfekte Muffins. Besonders gut kannst du den Teig mithilfe eines Spritzbeutels oder eines Eisportionierers portionieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So werden sie perfekt!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jir3p4dnbgn8pr2ix" file_variant="master" position="1">Erdbeer Muffins II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68db83622b1f9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jir9kukkjgigz92j0" file_variant="master" position="1">Erdbeer Muffins II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68db8363a91ed">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jireamz6ok21ks2j3" file_variant="master" position="1">Erdbeer Muffins II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68db8365f227b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jir6xs8g99lhjf2fb" file_variant="master" position="1">Erdbeer Muffins II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68db83674fa32">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jirhkxvko1csdxc2fh" file_variant="master" position="1">Erdbeer Muffins II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

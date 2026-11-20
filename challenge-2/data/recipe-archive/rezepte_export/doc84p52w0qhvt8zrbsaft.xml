@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84p52w0qhvt8zrbsaft" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-23T08:58:11+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-23T09:07:41+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kürbis Linsen Suppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Hokkaidokürbis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"rote Linsen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"rote Currypaste","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Kokosmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"TL"},"prefix":null,"suffix":"gerieben"},{"amount":4,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Kürbis halbieren, vierteln und mit einem Löffel aushöhlen. Den Kürbis in 1-2 cm Würfel schneiden. Die Zwiebeln und den Knoblauch schälen und fein würfeln. Das Rapsöl in einem Topf erhitzen, die Kürbiswürfel ca. 3-5 Minuten darin andünsten, die Zwiebeln und den Knoblauch dazugeben und 1-2 Minuten weiter mitrösten. Nun die Linsen dazugeben. Die Currypaste dazugeben und kurz umrühren. Mit Gemüsebrühe aufgießen und den Kürbis ca. 10 Minuten weichkochen. Mit der Kokosmilch aufgießen und 5 weitere Minuten köcheln lassen."},{"headline":null,"content":"Mit Salz und Pfeffer würzen. Den Ingwer schälen und fein reiben und unter die Suppe rühren. Die Suppe mit dem Mixer oder Pürierstab pürieren, so dass noch Stücke und Linsen zu sehen sind."},{"headline":null,"content":"Die Suppe mit einem Klecks Joghurt oder Sauerrahm servieren. Petersilie fein hacken und darüber streuen."}],"recipe_tips":[{"headline":"Rote Linsen platzen bei Kochen schnell auf","content":"Da die Suppe püriert wird, ist dies kein Problem. Statt Kokosmilch kann auch Sahne verwendet werden."}]}</CustomStructuredRecipeJson>
+    <Title>Kürbis Linsen Suppe</Title>
+    <Headline position="1">Kürbis Linsen Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-23T08:58:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84p52rpql3m1ekt21aft">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Hokkaidokürbis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" max_amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="4" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5541" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" prefix="rote" plural="Currypaste"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" amount="160" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" prefix="rote" plural="Linsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="800" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7326" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" plural="Kokosmilch" position="8" suffix="(á 400 ml)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="10" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Ingwer" position="11" prefix="geriebener"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Joghurt" position="12" suffix="oder Sauerrahm"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84p52w0q8yhdl0kaft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Kürbissuppe mit roten Linsen den Kürbis waschen, halbieren, vierteln und mit einem Löffel aushöhlen. Den Kürbis in 1-2 cm große Würfel schneiden. Die Zwiebeln und den Knoblauch schälen und fein würfeln. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84p52w0qd3kvb2s7aft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Rapsöl in einem Topf erhitzen, die Kürbiswürfel ca. 3-5 Minuten darin bei mittlerer Hitze andünsten, die Zwiebeln und den Knoblauch dazugeben und 1-2 Minuten weiter mitrösten. Die Currypaste dazugeben und kurz umrühren. Die Linsen dazugeben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84p52w0qd8ooeqpraft">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit Gemüsebrühe aufgießen und den Kürbis ca. 10 Minuten weichkochen. Mit der Kokosmilch aufgießen und 5 weitere Minuten köcheln lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_699c0a00c8187">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit Salz und Pfeffer würzen. Den Ingwer schälen, fein reiben und unter die Suppe rühren. Die Suppe mit dem Mixer oder Pürierstab pürieren, so dass noch Stücke und Linsen zu sehen sind. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_699c0a049a8b1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Suppe mit einem Klecks Joghurt oder Sauerrahm verzieren. Petersilie waschen, abtropfen lassen und fein hacken. Petersilie über die Suppe streuen. Die Kürbis-Linsen-Suppe ist im Kühlschrank ca. 3 Tage haltbar. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84p52w0qdc5x89aaaft">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Kokosmilch kann auch Sahne verwendet werden. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Alternative zur Kokosmilch</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_699c0a4a0e829">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Rote Linsen platzen beim Kochen schnell auf. Da die Suppe püriert wird, ist dies kein Problem.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Rote Linsen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447hjez6bmtndka8yv" file_variant="master" position="1">KurbisLinsenSuppe2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_699c0ac8e98f5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447h5p4c0l1f4zpwpey" file_variant="master" position="1">KurbisLinsenSuppeStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_699c0aca72c42">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447hehp6jb10a1jpct" file_variant="master" position="1">KurbisLinsenSuppeStep2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_699c0acbd20a0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8447hajp7g31hvzs98yf" file_variant="master" position="1">KurbisLinsenSuppe1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

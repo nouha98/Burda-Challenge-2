@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786b9gcpkjd66n4egkc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T17:07:30+01:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2026-01-22T12:01:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt78zftnnw5jt1j4higo6g"/>
+    <CustomCenshareId>394057</CustomCenshareId>
+    <Title position="1">Müsli-Obst-Becher</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">330</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1390</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">41</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">11</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>558068</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>839757</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Müsli-Obst-Becher</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T21:27:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="650ad3">
+      <CustomRecipeIngredient topic="tmt7866pg5tlxgf1p4oavd" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="mit Haferflocken" position="1" unit="g" plural="Müsli-Mischung"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" unit="ml" plural="Orangensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9146" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="oder Mascarpone" position="3" unit="g" plural="Ricotta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" unit="EL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" position="6" unit="Prise" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7216" amount="2" unit_topic="tm_topic_default_unit" position="7" unit="(Keine Einheit)" plural="Kiwis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit_topic="tm_topic_default_unit" position="8" unit="(Keine Einheit)" plural="Orange"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit_topic="tm_topic_default_unit" prefix="frische" suffix="nach Belieben" position="12" unit="(Keine Einheit)" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="650b3b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Müsli mit Saft, Ricotta bzw. Mascarpone und Honig verrühren, in den Kühlschrank stellen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="650b4b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Kiwis, Orange und Banane schälen. Apfel waschen, Kerngehäuse entfernen. Obst klein würfeln. Kiwis und Apfel mit Butter in einer Pfanne 2–3 Minuten erhitzen. Mit übrigem Obst, Zitronensaft und Zimt mischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="650b57">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Müsli-Mix abwechselnd  mit Obstsalat in Gläser schichten. Nach Belieben mit frischem Obst und Minze garnieren.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc786b8wb6ip012zzugavs" file_variant="censhare_392573_last" position="1">392573-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_90f3dc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef doc_id="doc847qirzcbvssk73mi53" file_variant="master" position="1">bfl-flux-pro-1.1-ultra_1768906840141.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b132sctaepmkqwbn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T21:27:50+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_394057</displayname>
+      <doc_id id="doc786b9gcpkjd66n4egkc"/>
+      <hash>ca519c87413a8024dfee15979f805962</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T21:27:50+01:00</modified>
+      <size>4162</size>
+      <subpath>2019/12-07/b1/e0/file78b132sctaepmkqwbn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

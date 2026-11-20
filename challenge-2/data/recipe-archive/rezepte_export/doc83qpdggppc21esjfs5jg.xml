@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qpdggppc21esjfs5jg" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-18T08:29:46+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-18T08:36:22+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrki12cchrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Glühwein selber machen","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":40}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bio-Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":"trocken"},{"amount":2,"amountTo":null,"ingredient_name":"Zimtstangen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sternanis","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":4,"ingredient_name":"Gewürznelken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"weißer Rum","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Rohrohr- oder brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Orange waschen und in Stücke schneiden. Einige Stücke der Orange auf die Gläser verteilen. Von der Zitrone die Schale dünn abschälen."},{"headline":null,"content":"Die restlichen Orangen und die Zitronenschale mit den Gewürzen und dem Zucker in einen Topf mit dem Rotwein geben und unter Rühren erhitzen."},{"headline":null,"content":"Dann die Hitze reduzieren und den Rum dazugeben. Der Glühwein darf nicht kochen. Den Glühwein bei schwacher Hitze, ca. 40 Minuten ziehen lassen, danach durch ein feinmaschiges Sieb abgießen, ggfs. nochmals kurz erhitzen und in die Gläser füllen."}],"recipe_tips":[{"headline":"Gewürze","content":"Die Gewürze können auch in ein Tee-Ei oder einen Teebeutel beigegeben werden, so müssen später einfach nur die Orangen entfernt werden."}]}</CustomStructuredRecipeJson>
+    <Title>Glühwein selber machen</Title>
+    <Headline position="1">Glühwein selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-18T08:29:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qpdf5s93916cplx5jg">
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Orangen" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="750" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="trocken" plural="Rotwein" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Sternanis" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" amount="3" max_amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="6" amount_max="4" plural="Gewürznelken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" prefix="brauner oder" plural="Rohrohrzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" prefix="weißer" plural="Rum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qpdggpbzr15rb2y5jg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Orange waschen und in Stücke schneiden. Einige Stücke der Orange auf die Gläser verteilen. Die Zitrone waschen, trocknen und die Schale dünn abschälen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Glühwein </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qpdggpgmg1eyxdf5jg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Rotwein mit den restlichen Orangen und der Zitronenschale, sowie mit den Gewürzen und dem Zucker in den Topf geben und alles unter Rühren erhitzen. Dann die Hitze reduzieren und den Rum dazugeben. Der Glühwein darf nicht kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qpdggpgs7fyxa85jg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Glühwein bei schwacher Hitze ca. 40 Minuten ziehen lassen, danach durch ein feinmaschiges Sieb abgießen. Gegebenenfalls nochmals kurz erhitzen und in die Gläser (à 150 ml) füllen. Lass dir den Glühwein schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83qpdggpgw21vgu5jg">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Gewürze können auch in ein Tee-Ei oder einen Teebeutel beigegeben werden, so müssen später einfach nur die Orangen entfernt werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gewürze</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quj6mrgkwyl4388vs" file_variant="master" position="1">Glühwein</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6943aef1a866b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qujjwma8om2ozby22" file_variant="master" position="1">Glühwein</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6943aef319988">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qujpbwmzs51bey1jcq" file_variant="master" position="1">Glühwein</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6943aef4c36a4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quiu5eqmr1i4efy22" file_variant="master" position="1">Glühwein</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

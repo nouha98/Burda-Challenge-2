@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85ce34esz6hco55r16su" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-09T15:57:18+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-09T16:03:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" plural="Personen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt85ce5wbnsig182ifq176v"/>
+    <Headline position="1">Gemüse-Omelett</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-09T15:57:18+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9706" position="3" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" prefix="roher" suffix="(z.B. Serrano)" plural="Schinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="4" amount="1" prefix="Ochsenherz-" suffix="(ca. 250 g)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="1" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="2" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt80mscfcxid1gmv8efid" position="5" plural="Salz, Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="6" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" position="7" amount="1" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" position="8" amount="5" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Thymian"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="9" amount="4" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="10" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="11" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" position="12" amount="2" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Vollkornbrote"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucchini abbrausen, putzen und in dünne Scheiben schneiden. Zwiebeln abziehen und fein würfeln. Schinken in dünne Streifen schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d7b12dc64ec">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomate abbrausen, würfeln und mit der Hälfte der Zwiebeln, Salz, Pfeffer und Öl mischen. Kräuter abbrausen, trocken schütteln, Blättchen abzupfen und hacken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d7b142e09f0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eier, Milch, Salz, Pfeffer und Kräuter verquirlen. Butter in einer großen Pfanne schmelzen. Übrige Zwiebeln darin glasig dünsten. Zucchini zugeben, salzen und pfeffern. Eierguss gleichmäßig darüber verteilen. Bei mittlerer Hitze 2–3 Min. stocken lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69d7b15f03c62">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Omelett zusammenklappen und weitere 2–3 Min. bei milder Hitze stocken lassen. Die Schinkenstreifen über das Omelett streuen und dieses mit den marinierten Tomaten sowie dem Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">berndgolling</ImageCredit>
+      <DocumentRef doc_id="doc7jtfjlup7hf1funktddi" file_variant="master" position="1">Zucchini nTomaten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

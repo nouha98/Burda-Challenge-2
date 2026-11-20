@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84c9qenkn9vo6zf98tu" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-29T07:47:40+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-01-29T07:52:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="480"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruds18czicdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hähnchen Joghurt Marinade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":15},{"name":"Ruhen/Warten","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Hähnchenbrustfilets","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"ca. 600g"},{"amount":4,"amountTo":null,"ingredient_name":"Raps- oder Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Knoblauch schälen, fein pressen und mit dem Joghurt verrühren. Das Olivenöl und das Paprikapulver und das Salz einrühren und einige Minuten ziehen lassen."},{"headline":null,"content":"Die Hähnchenbrustfilets in die Marinade legen und mindestens 2 Stunden, im Kühlschrank besser 8 Stunden, marinieren."},{"headline":"Zubereitung im Backofen","content":"Den Backofen auf 160 Grad Ober-Unterhitze vorheizen, das Fleisch aus der Marinade nehmen, diese etwas abstreichen und in einer Pfanne das Öl erhitzen und die Hähnchenbrustfilets von beiden Seiten ca. 1 Minute scharf anbraten, dann für ca. 15 Minuten im Backofen garen."},{"headline":"Zubereitung auf dem Grill","content":"Die Marinade etwas abstreichen und die Hähnchenbrustfilets von beiden Seiten ca. 2-3 Minuten bei hoher Temperatur grillen und dann an der Seite (Niedriger Hitze) ca. 5 Minuten ruhen lassen."}],"recipe_tips":[{"headline":"Hast du keinen Backofen?","content":"Du kannst die Hähnchenbrustfilets bei sehr schwacher Hitze ca. 5 Minuten pro Seite in der Pfanne garziehen."}]}</CustomStructuredRecipeJson>
+    <Title>Hähnchen Joghurt Marinade</Title>
+    <Headline position="1">Hähnchen Joghurt Marinade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-29T07:47:40+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84c9qc2rggmv1j0w8tu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Naturjoghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Paprikapulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5" amount="1"/>
+      <CustomRecipeIngredient topic="tmt80lqy2e2mrb109ll7rvm" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="ca. 600g" position="6" plural="Hähnchenbrustfilets"/>
+      <CustomRecipeIngredient topic="tmt80j1gxqrm555fxqsgip" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="Raps- oder Sonnenblumenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84c9qenkc2e1bmjnb8tu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Hähnchen-Marinade mit Joghurt den Knoblauch schälen, fein pressen und mit dem Joghurt verrühren. Das Olivenöl, das Paprikapulver und das Salz einrühren und einige Minuten ziehen lassen. Die Hähnchenbrustfilets in die Marinade legen und im Kühlschrank mindestens 2 Stunden, besser 8 Stunden, marinieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84c9qenkfoy1g011d8tu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Zubereitung im Backofen den Backofen auf 160 Grad Ober- und Unterhitze vorheizen. Das Fleisch aus der Marinade nehmen und diese etwas abstreichen. Das Öl in einer Pfanne erhitzen und die Hähnchenbrustfilets von beiden Seiten ca. 1 Minute scharf anbraten, dann für ca. 15 Minuten im Backofen garen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84c9qenkfvdfdsiu8tu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für die Zubereitung auf dem Grill die Marinade etwas abstreichen. Die Hähnchenbrustfilets von beiden Seiten ca. 2-3 Minuten bei hoher Temperatur grillen, dann an der Seite (hier ist die Hitze geringer) ca. 5 Minuten ruhen lassen. Guten Appetit! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="3"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84c9qenkhqthvzpv8tu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Hast du keinen Backofen? Dann lässt du die Hähnchenbrustfilets bei sehr schwacher Hitze ca. 5 Minuten pro Seite in der Pfanne garziehen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zubereitung in der Pfanne</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84120mh1yyg1i4qj7db5" file_variant="master" position="1">Hähnchen-Joghurt-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_697b03a731b27">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84120os1i0o18u0duavk" file_variant="master" position="1">Hähnchen-Joghurt-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_697b03a8bbcf7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84120fuhjxfnmypybah" file_variant="master" position="1">Hähnchen-Joghurt-Marinade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_697b03aa3105c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84120hgxhao1bti8abah" file_variant="master" position="1">Hähnchen-Joghurt-Marinade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

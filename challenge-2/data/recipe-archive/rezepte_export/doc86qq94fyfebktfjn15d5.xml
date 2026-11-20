@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86qq94fyfebktfjn15d5" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-16T15:10:30+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-07-16T15:24:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <Source topic="tmt86qqfou8p5s1h653a169l"/>
+    <CustomRecipeNutritionalValueCalories position="1">290</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">22</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">13</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Brotaufstrich mit Avocado und Thunfisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-16T15:10:30+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7zi4he17nygz12hajs0" position="1" amount="1" unit_topic="tmt71k9lavq8xsgd6tlive" unit="Dose" suffix="(Abtropfgewicht: 185 g)" plural="Thunfisch im eigenem Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" position="2" amount="1" prefix="kleine, rote" plural="Paprikaschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Avocados"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="4" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="5" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5301" position="8" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Cayennepfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1 Dose Thunfisch im eigenen Saft (Abtropfgewicht: 185 g) in einem Sieb abtropfen lassen, kleiner zupfen. 1 kleine rote Paprikaschote halbieren, putzen, sehr fein würfeln. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a58d99075282">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1 Avocado halbieren, entkernen, das Fruchtfleisch herauslösen und fein würfeln. Paprika, Avocado, 1 EL Petersilie, 1 EL Zitronensaft und Thunfisch mischen. Mit Salz, Pfeffer und einer Prise Cayennepfeffer pikant abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Brotaufstrich mit Avocado und Thunfisch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Sporrer/Skowronek</ImageCredit>
+      <DocumentRef doc_id="doc7h19l2yiwbnty4bbexk" file_variant="master" position="1">Brotaufstrich mit Avocado und Thunfisch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

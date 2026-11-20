@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82144p8oko7yc0pjfn4" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T12:42:15+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-25T08:33:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ze5uut0sxtyocqlcde"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Holunder-Birnen-Shake","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Birne","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Holundersaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(ersatzweise Pflanzendrink)"},{"amount":4,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":null}]}],"preparation":[{"headline":null,"content":"Birne waschen, würfeln. Kerngehäuse dabei entfernen. Fruchtwürfel mit Holundersaft, Milch und Honig in einen Standmixer pürieren. Nach Belieben etwas Joghurt dazugeben. Shake in Gläser verteilen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Holunder-Birnen-Shake</Title>
+    <Headline position="1">Holunder-Birnen-Shake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T12:42:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82144qzyw351809yrewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Birnen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6746" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Holundersaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ersatzweise Pflanzendrink)" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" plural="Joghurt" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82144s3imcz1lq4fsewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Birne waschen, würfeln. Kerngehäuse dabei entfernen. Fruchtwürfel mit Holundersaft, Milch und Honig in einen Standmixer pürieren. Nach Belieben etwas Joghurt dazugeben. Shake in Gläser verteilen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Glas Holunder-Birnen-Smoothie mit Weintrauben</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Teubner Foodfoto</ImageCredit>
+      <DocumentRef doc_id="doc818vi91qvs7ybjmd246" file_variant="master" position="1">Glas Holunder-Birnen-Smoothie mit Weintrauben</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

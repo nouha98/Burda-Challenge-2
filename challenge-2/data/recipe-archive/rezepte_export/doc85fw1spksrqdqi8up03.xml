@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85fw1spksrqdqi8up03" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-16T11:23:16+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-04-16T11:30:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <Keywords topic="tmt6qehx6vabih10lfpw9pf"/>
+    <Source topic="tmt85fw54jj0101hsuvepio"/>
+    <CustomRecipeNutritionalValueCalories position="1">429</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">30</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">15</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">28</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Bohnensuppe mit Grießnocken</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-16T11:23:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5026" position="14" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="dicke" suffix="(TK)" plural="Bohnenkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7286" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="kleiner" plural="Kohlrabi"/>
+      <CustomRecipeIngredient topic="tmt80i5sjys26p1coakb10bp" position="4" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="grüne Bohnen"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" position="5" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9146" position="6" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ricotta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6576" position="7" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Hartweizengrieß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="8" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8301" position="11" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Muskat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="12" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="13" amount="1,2" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="15" amount="0.5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Kerbel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Suppe Zwiebel abziehen und fein würfen. Möhren schälen, evtl. längs halbieren und in Scheiben schneiden. Kohlrabi schälen und in Scheiben, dann in Würfel schneiden. Die grünen Bohnen waschen, putzen und klein schneiden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69e0ab8e8cb41">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Nocken Butter und Ricotta glatt rühren, dann den Mix mit Grieß und den Eiern verrühren, mit Salz, Pfeffer und Muskat würzen und 10 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69e0ab9875efd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Reichlich Salzwasser in einem Topf aufkochen. Aus der Grießmasse mit zwei angefeuchteten Teelöffeln Nocken abstechen und diese portionsweise im leicht kochendem Salzwasser 12 Minuten garen. Die Nocken herausheben und abtropfen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69e0ab9f9be4f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Öl in einem großen Topf erhitzen. Die Zwiebel darin glasig dünsten. Möhren, geschnittene Bohnen und Kohlrabi dazugeben, salzen und pfeffern. Die Brühe angießen, aufkochen, die Suppe 5 Minuten köcheln lassen, dann die Bohnenkerne dazugeben. Kerbel abbrausen und trocken schütteln, grob hacken. Die Suppe abschmecken, mit Grießnocken anrichten und mit Kerbel bestreut servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bohnensuppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7h8wycwpt9c1h0253f4x" file_variant="master" position="1">MFI</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69e0ac2b555e6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bohnensuppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7h8wzbqdgs518thy3f4o" file_variant="master" position="1">MFI</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

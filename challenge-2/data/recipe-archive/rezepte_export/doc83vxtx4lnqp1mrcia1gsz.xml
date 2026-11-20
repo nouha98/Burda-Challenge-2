@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83vxtx4lnqp1mrcia1gsz" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-28T13:00:45+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-12-28T13:00:45+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="8" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="15"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pfannkuchen ohne Ei","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":"gute","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":"zum Braten"}]}],"preparation":[{"headline":null,"content":"Das Mehl in eine Schüssel sieben und zunächst die Milch und das Mineralwasser nach und nach mit einem Schneebesen einrühren. Das Sonnenblumenöl und eine gute Prise Salz dazugeben und den Teig glattrühren."},{"headline":null,"content":"Eine beschichtete Pfanne mit etwas Öl ausreiben. Eine Kelle Teig in die Pfanne geben, gleichmäßig und dünn darin verteilen und die Unterseite bei mittlerer Hitze goldgelb backen. Den Pfannkuchen wenden und die andere Seite ebenfalls goldgelb backen. Diesen Vorgang wiederholen und die Pfannkuchen auf einem Teller stapeln."}],"recipe_tips":[{"headline":null,"content":"Auch ohne Ei werden die Pfannkuchen schön fluffig. Am Besten geht das mit sehr sprudeligem Mineralwasser."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Pfannkuchen ohne Ei</Headline>
+    <Title>Pfannkuchen ohne Ei</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-28T13:00:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83vxtvgvyba1mt41u1gsz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="gute" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Braten" plural="Sonnenblumenöl" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83vxtx4lme1v4lqx1gsz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Mehl in eine Schüssel sieben und zunächst die Milch und das Mineralwasser nach und nach mit einem Schneebesen einrühren. Das Sonnenblumenöl und eine gute Prise Salz dazugeben und den Teig glattrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83vxtx4lmmc1l10ab1gsz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine beschichtete Pfanne mit etwas Öl ausreiben. Eine Kelle Teig in die Pfanne geben, gleichmäßig und dünn darin verteilen und die Unterseite bei mittlerer Hitze goldgelb backen. Den Pfannkuchen wenden und die andere Seite ebenfalls goldgelb backen. Diesen Vorgang wiederholen und die Pfannkuchen auf einem Teller stapeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83vxtx4lmqw1kqw8k1gsz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Auch ohne Ei werden die Pfannkuchen schön fluffig. Am Besten geht das mit sehr sprudeligem Mineralwasser.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

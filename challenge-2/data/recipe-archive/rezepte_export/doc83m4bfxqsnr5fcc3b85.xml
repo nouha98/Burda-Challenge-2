@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83m4bfxqsnr5fcc3b85" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-09T10:20:31+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-09T10:24:36+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt828cxxyl2zdmy5xbgpw" plural="Bleche" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeer Crumble","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Backen","duration":30},{"name":"Ruhen/Warten","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"kalte","suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":"für die Form"},{"amount":30,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Erdbeeren putzen, in Viertel schneiden und mit dem Vanillezucker in einer Schüssel gut durchmischen und etwa 10 Minuten ziehen lassen. Die kalte Butter in 1x1 Würfel schneiden und mit dem Mehl und dem Zucker, sowie der Prise Salz in einer Schüssel vermischen, das Eigelb dazugeben und mit den Händen zu Streuseln verkneten. Die Streusel für etwa 20 Minuten kühl stellen."},{"headline":null,"content":"Eine Auflaufform von ca. 35 x 20 cm mit der weichen Butter auspinseln. Den Boden der Auflaufform dünn mit Streuseln bedecken und die Erdbeeren gleichmäßig darauf verteilen. Die restlichen Streusel auf die Erdbeeren verteilen."},{"headline":null,"content":"Den Backofen auf 200 Grad Ober-Unterhitze vorheizen und den Crumble ca. 25-30 Minuten goldgelb backen und direkt nach dem Backen mit Puderzucker bestreuen und lauwarm genießen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Erdbeer Crumble</Title>
+    <Headline position="1">Erdbeer Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-09T10:20:31+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83m4bbsk4s61mjqjfb85">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" suffix="für die Form" plural="Butter" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="kalte" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="7" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83m4bfxqrqd4wb3ib85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeeren waschen, putzen, in Viertel schneiden und mit dem Vanillezucker in einer Schüssel gut durchmischen. Etwa 10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m4bfxqs1fa7hz1b85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die kalte Butter in 1 x 1 cm große Würfel schneiden und mit dem Mehl und dem Zucker, sowie der Prise Salz in einer Schüssel vermischen. Das Eigelb dazugeben und mit den Händen zu Streuseln verkneten. Die Streusel für etwa 20 Minuten kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m4bfxqs4wfppdb85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eine Auflaufform von ca. 35 x 20 cm mit der weichen Butter auspinseln. Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen. Den Boden der Auflaufform dünn mit Streuseln bedecken und die Erdbeeren gleichmäßig darauf verteilen. Die restlichen Streusel auf die Erdbeeren verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6937ea4dc664e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Crumble ca. 25-30 Minuten goldgelb backen und direkt nach dem Backen mit Puderzucker bestreuen und lauwarm genießen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsc0sxiqe74showig" file_variant="master" position="1">Erdbeer Crumble</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6937ead1c4657">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsbhzl2mo1aef5w1fvd" file_variant="master" position="1">Erdbeer Crumble</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6937ead326745">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qsb56r3xk166gwh1h2t" file_variant="master" position="1">Erdbeer Crumble</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82wls2yob9l1bulmqp8m" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-20T19:34:22+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-20T20:06:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Lasagnesuppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Thymian und Oregano","unit":{"name":"Stiel"},"prefix":"einige","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Rinderhackfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"g"},"prefix":"2-fach konzentriert","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":700,"amountTo":null,"ingredient_name":"passierte Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(1 Flasche)"},{"amount":8,"amountTo":null,"ingredient_name":"Lasagneplatten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"frisch gemahlener","suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Crème fraîche","unit":{"name":"g"},"prefix":null,"suffix":"(30 % Fett)"}]}],"preparation":[{"headline":null,"content":"Zwiebel und Knoblauch abziehen, Zwiebel fein würfeln und Knoblauch hacken. Kräuter waschen, abtropfen lassen und fein hacken."},{"headline":null,"content":"Sonnenblumenöl in einem Topf erhitzen. Hackfleisch mit Zwiebeln und Knoblauch zugeben und 4-5 Minuten krümelig braten. Tomatenmark und Zucker zugeben, kurz anschwitzen, vermengen und mit 1 TL Salz würzen."},{"headline":null,"content":"Mit Gemüsebrühe ablöschen, passierte Tomaten und gehackte Kräuter zugeben und 15-20 Minuten bei geschlossenem Deckel köcheln lassen."},{"headline":null,"content":"Lasagneplatten in mundgerechte Stücke brechen und für ca. 10 Minuten in der Hackfleischsoße kochen."},{"headline":null,"content":"Lasagnesuppe mit Salz und Pfeffer abschmecken, auf 4 Schüsseln verteilen und mit je 1 EL Crème fraîche und nach Wunsch mit frischen Basilikumblättern bestreut servieren."}],"recipe_tips":[{"headline":"One for Two","content":"Bereite einen großen Topf Suppe ohne Nudeln vor und koche an einem Tag auf dieser Basis die Lasagnesuppe, am Nächsten ein feuriges Chili con Carne mit Kreuzkümmel, Chili, Mais und Kidneybohnen zu."}]}</CustomStructuredRecipeJson>
+    <Title>Lasagnesuppe</Title>
+    <Headline position="1">Lasagnesuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-20T19:34:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82wlrzi9oue199os9p8m">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" position="3" plural="Thymian"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9201" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rinderhackfleisch" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="2-fach konzentriert" plural="Tomatenmark" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zucker" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="9"/>
+      <CustomRecipeIngredient topic="tmt80go4y4havp18wsxgzt" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1 Flasche)" position="10" plural="passierte Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80l6dbj57kmvdifh908" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="11" plural="Lasagneplatten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="frisch gemahlener" plural="Pfeffer" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(30 % Fett)" plural="Crème fraîche" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" position="14" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" prefix="einige" plural="Oregano"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82wls2ynwdh11x8fxp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Lasagnesuppe Zwiebel und Knoblauch abziehen. Zwiebel fein würfeln und Knoblauch hacken. Kräuter waschen, abtropfen lassen und fein hacken.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wls2yo2evrn1cbp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Sonnenblumenöl in einem Topf erhitzen. Hackfleisch mit Zwiebeln und Knoblauch zugeben und bei mittlerer bis hoher Hitze 4-5 Minuten krümelig braten. Tomatenmark und Zucker hinzufügen, kurz anschwitzen, vermengen und alles großzügig mit Salz würzen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wls2yo2r842t3yp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit Gemüsebrühe ablöschen, passierte Tomaten und gehackte Kräuter zugeben und 15-20 Minuten bei geschlossenem Deckel köcheln lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wls2yo2v613y7m7p8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Lasagneplatten in mundgerechte Stücke brechen und für ca. 10 Minuten in der Hackfleischsoße kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wls2yo2yf1iqbbqp8m">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Lasagnesuppe mit Salz und Pfeffer abschmecken, auf 4 Schüsseln verteilen und mit je 1 EL Crème fraîche und nach Wunsch mit frischen Basilikumblättern bestreut servieren. Guten Appetit!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82wls2yo32b1ksn5hp8m">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bereite einen großen Topf Suppe ohne Nudeln vor und koche an einem Tag auf dieser Basis die Lasagnesuppe, am Nächsten ein feuriges Chili con Carne mit Kreuzkümmel, Chili, Mais und Kidneybohnen zu.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">One for Two</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lrgcgjpaa12y52q1rjv" file_variant="master" position="1">Lasagnesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f67a1278539">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lrggwr0pykscq91o4q" file_variant="master" position="1">Lasagnesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f67a14a7723">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lrgldlcax85cgq1q81" file_variant="master" position="1">Lasagnesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f67a166d20a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lrge45g06t54d11smc" file_variant="master" position="1">Lasagnesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68f67a189ec54">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82lrgiu5c1gqzspdrkd" file_variant="master" position="1">Lasagnesuppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

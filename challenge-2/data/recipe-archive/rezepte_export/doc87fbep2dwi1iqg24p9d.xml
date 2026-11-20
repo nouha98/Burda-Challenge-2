@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87fbep2dwi1iqg24p9d" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-02T11:37:51+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-09-02T11:44:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <Source topic="tmt87fbhvx04o81c05hfpau"/>
+    <Headline position="1">Karamelisierte Zimt-Bratkartoffeln mit Schwarzwälder Schinken</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-02T11:37:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7ij8r3oc9qd1eu86q9f5" position="1" amount="12" suffix="(ca. 500 g)" plural="Drillinge"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9706" position="7" amount="12" prefix="dünne Scheiben Schwarzwälder" plural="Schinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11191" position="8" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="zum Garnieren" plural="Wildkräuter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln in einem Topf in kochendem Salzwasser in 15–20 Minuten weich kochen. Kartoffeln abgießen, ausdampfen lassen und pellen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a97efa21fe26">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Öl und Butter in einer großen Pfanne erhitzen. Die Kartoffeln darin bei mittlerer Hitze rundum goldbraun anbraten. Zimt mit Zucker mischen. Den Zimtzucker über die Kartoffeln streuen, schwenken. Kartoffeln bei schwacher bis mittlerer Hitze weiterbraten, bis der Zucker karamellisiert. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a97efaf36ef2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Kartoffeln mit Salz würzen und auf einer Servierplatte anrichten. Jede Kartoffel mit einer Scheibe Schinken belegen, evtl. mit Spießchen fixieren. Die Kartoffeln mit Wildkräutern garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc7t3zp8nu3831ean8to4f" file_variant="master" position="1">LaG_1324_III_zu_Wein_Zimt-Bratkartoffeln_998.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

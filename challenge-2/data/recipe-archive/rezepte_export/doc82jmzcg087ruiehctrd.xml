@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82jmzcg087ruiehctrd" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-25T13:55:09+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-25T14:01:47+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt82jn2eqs768119l0tu6j"/>
+    <Headline position="1">Spekulatius-Apfel-Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-25T13:55:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="1" amount="3" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="4" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Zimt"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Kompott</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_68d52e37443ee">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mascarpone"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Mark von einer" plural="Vanilleschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="4" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_68d52e86bc94b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10306" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spekulatius"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" position="2" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" position="3" plural="Kakaopulver"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Kompott die Äpfel abbrausen, trocken reiben, schälen, vierteln und entkernen. Das Fruchtfleisch würfeln und mit Zitronensaft, Zucker sowie Zimt in einen Topf 
+geben. Alles bei mittlerer Hitze unter Rühren 10 Minuten köcheln, dann vollständig auskühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68d52ec2dabd0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Creme Mascarpone mit Zucker und Vanillemark glatt rühren. Die Sahne steif schlagen und unterziehen. Anschließend die Masse kühlen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68d52ecff2321">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Spekulatius (bis auf 4 Stück zum Garnieren) auf den Boden einer Auflaufform (ca. 15 x 20 cm) legen und mit dem Espresso beträufeln. Das Kompott darauf verteilen, 
+dann die Creme daraufgeben und glatt streichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68d52ee719b04">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Tiramisu mind. 2 Stunden (oder über Nacht) kalt stellen. Vor dem Servieren das Tiramisu mit etwas Kakao bestäuben und mit den übrigen Keksen belegen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Weihnachtsmenü 2016</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">BERND GÖLLING</ImageCredit>
+      <DocumentRef doc_id="doc76g3scz0gbsjw4okfqu" file_variant="master" position="1">bfpreis:40-160C  BSV; </DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

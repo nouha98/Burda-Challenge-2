@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82jl3mo0br7g4s242k9" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-25T11:28:43+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-09-25T11:28:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="5"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Thunfisch Dip","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Thunfisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Cornichons","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Mayonnaise","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Thunfisch auf einem Sieb abtropfen lassen. Den Knoblauch und die Schalotte schälen und fein würfeln."},{"headline":null,"content":"Die Cornichons würfeln."},{"headline":null,"content":"Alle Zutaten in eine Schale mit Mayonnaise und Schmand, Salz und Pfeffer würzen und verrühren."},{"headline":null,"content":"Den Schnittlauch fein schneiden und unter den Dip rühren und darüber streuen."}],"recipe_tips":[{"headline":"Mayonnaise ersetzen","content":"Die Mayonnaise kannst du auch durch Frischkäse ersetzen."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Thunfisch Dip</Headline>
+    <Title>Thunfisch Dip</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-25T11:28:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82jl3i9gqh3jl83r2k9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Thunfisch" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="2"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mayonnaise" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Schmand" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schnittlauch" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82jl3mnzyna1m9eqe2k9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Thunfisch auf einem Sieb abtropfen lassen. Den Knoblauch und die Schalotte schälen und fein würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jl3mo077q14dcj12k9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Cornichons würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jl3mo07d5pqu4s2k9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Alle Zutaten in eine Schale mit Mayonnaise und Schmand, Salz und Pfeffer würzen und verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jl3mo07h5n4weh2k9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Schnittlauch fein schneiden und unter den Dip rühren und darüber streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82jl3mo07kxw6zmf2k9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Die Mayonnaise kannst du auch durch Frischkäse ersetzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Mayonnaise ersetzen</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

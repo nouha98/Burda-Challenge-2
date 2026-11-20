@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825rd5i0t9jrwt5vnx3" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T13:41:07+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-29T13:46:00+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananen Pancakes Baby","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Ruhen/Warten","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Bananenpancakes","ingredients":[{"amount":40,"amountTo":null,"ingredient_name":"Weizenvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"zarte Haferflocken","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Hafermilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"reife Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":"zum Ausbacken"}]}],"preparation":[{"headline":null,"content":"Mehl mit Backpulver, Haferflocken und Zimt in einer Schüssel mischen."},{"headline":null,"content":"Hafermilch und Ei hinzugeben und den Teig für 20 Min quellen lassen."},{"headline":null,"content":"Die Bananen schälen und mit einer Gabel zerdrücken. Unter den Teig mischen."},{"headline":null,"content":"Öl in einer Pfanne erhitzen und 12 kleine Pancakes ausbacken, die Pancakes lauwarm servieren. Die Pancakes können Babys ab dem 7./8. Monat verzehren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bananen Pancakes Baby</Title>
+    <Headline position="1">Bananen Pancakes Baby</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T13:41:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825rd2xi89l17t2eqnx3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11146" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenvollkornmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt8047twbofb71lw1v8fdv" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="3" plural="zarte Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt7e9lnvgqkcyycdmcmi6" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="4" plural="Hafermilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="7" plural="Bananen" prefix="reife"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Ausbacken" plural="Öl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Bananenpancakes</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825rd5i0m1h11ex75nx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Backpulver, Haferflocken und Zimt in einer Schüssel mischen. Hafermilch und Ei hinzugeben und den Teig für 20 Min quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rd5i0q2t11iqnknx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Bananen schälen und mit einer Gabel zerdrücken. Unter den Teig mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rd5i0q871gxuoonx3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Öl in einer Pfanne erhitzen und 12 kleine Pancakes ausbacken, die Pancakes lauwarm servieren. Die Pancakes können Babys ab dem 7./8. Monat verzehren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Nicht nur was für Babys</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Die Pancakes schmecken der ganzen Familie und können für die älteren Geschwister oder Erwachsene mit Apfelmus oder frischen Früchten kombiniert werden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mraqfrz49b6qxcfun" file_variant="master" position="1">BananenPancakesBaby2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b192f385ec3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mram39ldvd82yyfps" file_variant="master" position="1">BananenPancakesBaby_Step2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b192f549aac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mran94zvpnmcvhg1i" file_variant="master" position="1">BananenPancakesBaby_Step1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b192f69c16c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mrap2zv8gsmxcp996" file_variant="master" position="1">BananenPancakesBaby1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

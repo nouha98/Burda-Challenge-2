@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786ca9t8qia1bbrnq3h3" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T18:27:07+01:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2022-04-20T16:36:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt7865q4pbrpzhzsa7idm" plural="(Unbekannte Einheit)" amount="0"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>431184</CustomCenshareId>
+    <Title position="1">Karamellsauce</Title>
+    <Headline position="1">Karamellsauce</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">265</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1120</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">12</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <DateImported>2019-12-07T23:23:52+01:00</DateImported>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="8126a6">
+      <CustomRecipeIngredient topic="tmt786ca9t45dkyzleh3h3" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7951" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8126ea">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Butter in einer Pfanne zerlassen, Zucker dazugeben und unter Rühren bräunen. Mit Sahne ablöschen, unter Rühren kurz köcheln.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8126f9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Likör dazugießen, Sauce noch mal durchrühren. Nach Belieben in einer beschichteten Pfanne ohne Fett Mandelblättchen goldbraun rösten, über die Karamellsauce streuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2kqe1mzp1244tsbn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:23:52+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_431184</displayname>
+      <doc_id id="doc786ca9t8qia1bbrnq3h3"/>
+      <hash>2e002ba158af4200fa4e3dba6576fe20</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:23:52+01:00</modified>
+      <size>2393</size>
+      <subpath>2019/12-07/94/ef/file78b2kqe1mzp1244tsbn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

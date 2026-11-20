@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81zmaig885i1amqaiiao" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-17T14:51:02+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-18T11:20:21+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="360"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Milchmädchen Eis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":360}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Milchmädchen Eis","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gezuckerte Kondensmilch","unit":{"name":"Dose"},"prefix":null,"suffix":"(400 ml Abtropfgewicht)"}]}],"preparation":[{"headline":"Für das Milchmädcheneis","content":"Sahne in eine Schüssel geben und mit einem Handmixer oder einer Küchenmaschine steif schlagen. Die gezuckerte Kondensmilch vorsichtig unter die geschlagene Sahne heben, bis eine gleichmäßige Masse entsteht. Die Mischung in eine Eismaschine geben und für 30 Minuten cremig gefrieren lassen. Nachdem das Eis festgeworden ist, in einen geeigneten Behälter umfüllen und verschließen, für mindestens 5–6 Stunden, am besten über Nacht, in das Gefrierfach stellen. Vor dem Servieren das Eis einige Minuten bei Raumtemperatur stehen lassen, damit es sich leichter portionieren lässt."}],"recipe_tips":[{"headline":"Das Eis kann nach belieben verfeinert werden","content":"Zum Beispiel mit Vanilleextrakt, Schokostückchen, Fruchtpüree oder Nüssen."}]}</CustomStructuredRecipeJson>
+    <Title>Milchmädchen Eis</Title>
+    <Headline position="1">Milchmädchen Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-17T14:51:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81zmaiae61hkbwpiao">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt7zqvl6qy5gzrvvgl7n7" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(400 ml Abtropfgewicht)" position="2" plural="gezuckerte Kondensmilch"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Milchmädchen Eis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81zmaig7ue11f4taviao">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sahne in eine Schüssel geben und mit einem Handmixer oder einer Küchenmaschine steif schlagen. Die gezuckerte Kondensmilch vorsichtig unter die geschlagene Sahne heben, bis eine gleichmäßige Masse entsteht. Die Mischung in eine Eismaschine geben und für 30 Minuten cremig gefrieren lassen. Nachdem das Eis festgeworden ist, in einen geeigneten Behälter umfüllen und verschließen, für mindestens 5–6 Stunden, am besten über Nacht, in das Gefrierfach stellen. Vor dem Servieren das Eis einige Minuten bei Raumtemperatur stehen lassen, damit es sich leichter portionieren lässt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Milchmädcheneis</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81zmaig805dx98zqiao">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Zum Beispiel mit Vanilleextrakt, Schokostückchen, Fruchtpüree oder Nüssen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Das Eis kann nach belieben verfeinert werden</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81fkxtm1u9ui9hkmj2o" file_variant="master" position="1">MilchmadchenEis2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a2f036ce21e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81fky2kmb7r4kovalts" file_variant="master" position="1">MilchmadchenEisStep.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a2f03868a11">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81fky1pgwoxss56tgnn" file_variant="master" position="1">MilchmadchenEis1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68a2f03a7f2fa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81fkxwvmi9z1bfjcnj12" file_variant="master" position="1">MilchmadchenEis3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

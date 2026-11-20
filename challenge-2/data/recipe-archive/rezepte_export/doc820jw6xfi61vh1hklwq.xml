@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820jw6xfi61vh1hklwq" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T10:26:54+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-22T10:56:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="12"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Marmorkekse","recipe_seo_headline":null,"servings":{"amount":30.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":60},{"name":"Backen","duration":12}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":"(Zimmertemperatur)"},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Butter mit Zucker und Vanillezucker cremig rühren. Ei unterrühren. Mehl mit Salz vermischen und zum Teig geben. Mit den Knethaken des Rührgeräts zu einem glatten Teig kneten."},{"headline":null,"content":"Teig halbieren. Zu einer Hälfte des Teigs Kakaopulver geben und mit den Knethaken zu einem dunklen Teig kneten. Beide Teige separat mit Frischhaltefolie einwickeln und ca. 30 Min. kühlstellen."},{"headline":null,"content":"Teige aus dem Kühlschrank nehmen. Jeden Teig halbieren. Aus jeder Hälfte des hellen Teigs einen ca. 30 cm langen Strang rollen. Mit dem dunklen Teig wiederholen."},{"headline":null,"content":"Jeweils einen hellen und einen dunklen Teigstrang mehrere Male ineinander verdrehen. Zweifarbige Stränge auf der Arbeitsfläche mit etwas Druck rollen, damit sie zu Rollen mit glatter Oberfläche werden."},{"headline":null,"content":"Jetzt wieder beide Teigstänge ineinander verdrehen, damit nur noch ein Teigstrang übrig ist. Diesen auch wieder mit leichtem Druck auf der Arbeitsfläche rollen, damit die Oberfläche glatt wird. Die Rolle sollte ungefähr 3-4cm Durchmesser haben. Teigrolle in Folie gewickelt nochmal 30 Min. kaltstellen."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Zwei Bleche mit Backpapier belegen. Teigrolle aus dem Kühlschrank und aus der Folie nehmen, mit einem scharfen Messer ca. 0,5 cm dicke Scheiben schneiden und mit etwas Abstand auf die Backbleche legen."},{"headline":null,"content":"Falls die Scheiben nicht ganz rund sind, mit den Fingern etwas nachhelfen. Marmorkekse im vorgeheizten Ofen ca. 12 Min. backen (bei Umluft beide Bleche auf einmal, bei Ober-/Unterhitze ein Blech nach dem anderen). Kekse abkühlen lassen, erst dann vom Blech nehmen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Marmorkekse</Title>
+    <Headline position="1">Marmorkekse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T10:26:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820jw3vmc95eobiulwq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Zimmertemperatur)" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kakaopulver" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfe611myxwwlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter mit Zucker und Vanillezucker cremig rühren. Ei unterrühren. Mehl mit Salz vermischen und zum Teig geben. Mit den Knethaken des Rührgeräts zu einem glatten Teig kneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfedh3j3p4lwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Teig halbieren. Zu einer Hälfte des Teigs Kakaopulver geben und mit den Knethaken zu einem dunklen Teig kneten. Beide Teige separat mit Frischhaltefolie einwickeln und ca. 30 Min. kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfehektdrplwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teige aus dem Kühlschrank nehmen. Jeden Teig halbieren. Aus jeder Hälfte des hellen Teigs einen ca. 30 cm langen Strang rollen. Mit dem dunklen Teig wiederholen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfel014o547lwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Jeweils einen hellen und einen dunklen Teigstrang mehrere Male ineinander verdrehen. Zweifarbige Stränge auf der Arbeitsfläche mit etwas Druck rollen, damit sie zu Rollen mit glatter Oberfläche werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfeogscklilwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Jetzt wieder beide Teigstänge ineinander verdrehen, damit nur noch ein Teigstrang übrig ist. Diesen auch wieder mit leichtem Druck auf der Arbeitsfläche rollen, damit die Oberfläche glatt wird. Die Rolle sollte ungefähr 3-4cm Durchmesser haben. Teigrolle in Folie gewickelt nochmal 30 Min. kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfesl9ncivlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Zwei Bleche mit Backpapier belegen. Teigrolle aus dem Kühlschrank und aus der Folie nehmen, mit einem scharfen Messer ca. 0,5 cm dicke Scheiben schneiden und mit etwas Abstand auf die Backbleche legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820jw6xfew11moi7glwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="7">Falls die Scheiben nicht ganz rund sind, mit den Fingern etwas nachhelfen. Marmorkekse im vorgeheizten Ofen ca. 12 Min. backen (bei Umluft beide Bleche auf einmal, bei Ober-/Unterhitze ein Blech nach dem anderen). Kekse abkühlen lassen, erst dann vom Blech nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="7">Schritt 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Marmorkekse aufbewahren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Das Marmorgebäck kannst du einfach in einer verschlossenen Keksdose aufbewahren. So gelagert kannst du es mindestens 2 Wochen lang genießen. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc815rkd1duxiiykpe9v5" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-20T12:25:57+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-07-14T11:02:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7u0b669zylh1bowz6fk"/>
+    <Creator topic="tmt7u0b669zylh1bowz6fk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7u0b669zylh1bowz6fk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <Headline position="1">Hibiskus-Beeren-Cocktail </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-20T12:25:57+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10526" position="1" amount="4" prefix="Beutel Hibiskus" plural="Tee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6696" position="2" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Himbeersirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="3" amount="2" prefix="Saft von" plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="4" amount="1" prefix="Flasche" plural="Mineralwasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" position="5" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="6" amount="1" plural="Bio-Limetten"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">4 Beutel Hibiskus Tee mit 1,5 l kochendem Wasser übergießen, abkühlen lassen. Teebeutel entfernen. Mit 200 ml Himbeersirup (Getränkeregal) und Saft von 2 Limetten mischen, kalt stellen. 1 Flasche Mineralwasser kaltstellen. Für das Picknick: Tee-Mix und Eiswürfel getrennt in Thermoskannen füllen. 250 g Himbeeren verlesen, 1 Bio-Limette in Scheiben schneiden. In Dosen mitnehmen. Zum Servieren: Tee mit Himbeeren, Limettenscheiben und Eiswürfeln in Gläser verteilen. Mit Mineralwasser aufgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationsStepsHeader position="1">Am Vortag:</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_685a8d31118bb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tee-Mix und Eiswürfel getrennt in Thermoskannen füllen. 250 g Himbeeren verlesen, 1 Bio-Limette in Scheiben schneiden. In Dosen mitnehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationsStepsHeader position="1"> Für das Picknick: </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_685a8d4c82900">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tee mit Himbeeren, Limettenscheiben und Eiswürfeln in Gläser verteilen. Mit Mineralwasser aufgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationsStepsHeader position="1"> Zum Servieren: </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Himbeer-Hibiskus-Cocktail</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Westermann, Jan-Peter</ImageCredit>
+      <DocumentRef doc_id="doc801asf0gl1073pmekt4" file_variant="master" position="1">Himbeer-Hibiskus-Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

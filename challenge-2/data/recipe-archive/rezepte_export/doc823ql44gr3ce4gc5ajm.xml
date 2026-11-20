@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823ql44gr3ce4gc5ajm" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T15:15:26+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-25T15:32:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsl49ioisdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Teekuchen","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Backen","duration":60},{"name":"Ruhen/Warten","duration":1440}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Whiskey","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Rosinen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Cranberrys","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Belegkirschen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"getrocknete Feigen","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für den Teig","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 405)"},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Lebkuchengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Am Vortag","content":"Sirup aus Zucker und Wasser kochen, leicht abkühlen lassen und den Whiskey dazugeben. Die Trockenfrüchte grob zerkleinern. Früchte über Nacht in diesem Sud einlegen."},{"headline":"Vor dem Backen","content":"Die Früchte durch ein Sieb schütten und den Whiskeysud auffangen. Später wird der Sud nochmals zum Tränken verwendet."},{"headline":"Für den Gewürzteig","content":"Eier mit Zucker schaumig rühren, weiche Butter hinzugeben und gut verrühren. Alle weiteren Zutaten mischen und unterrühren."},{"headline":null,"content":"Backofen auf 160 Grad (Umluft:140 Grad) vorheizen. Eine Kastenform (25cm) mit etwas Butter einfetten. Die abgetropften Früchte in den Kuchenteig einmischen. Die Masse komplett in die Kastenform geben und gut verstreichen. Für 60 Min. backen lassen. Nach dem Backen sofort mit dem Whiskeysud bestreichen."}],"recipe_tips":[{"headline":"Haltbarkeit","content":"Gut eingepackt und vor Luft geschützt hält dieser Früchtekuchen mehrere Wochen bis sogar 2 Monate."}]}</CustomStructuredRecipeJson>
+    <Title>Teekuchen</Title>
+    <Headline position="1">Teekuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T15:15:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823ql1nl7hcqyn4hajm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11161" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" suffix="(alternativ: Rum)" plural="Whisky"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rosinen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5466" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Cranberrys" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4866" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Belegkirschen" position="6"/>
+      <CustomRecipeIngredient topic="tmt808hkwqafi1qtqyevbq" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="getrocknete Feigen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="823ql2rmphu1hmnvbajm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="gemahlene Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 405)" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Lebkuchengewürz" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823ql44g24i1g0bibajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag für den Sirup Zucker und Wasser kochen, leicht abkühlen lassen und den Whisky dazugeben. Rosinen, Cranberrys, Kirschen und Feigen grob hacken. Früchte in den Sirup geben und über Nacht ziehen lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823ql44ge8kyd02fajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Am nächsten Tag die Früchte durch ein Sieb schütten, den Whiskeysud auffangen. Später wird der Sud nochmals zum Tränken verwendet. Backofen auf 160 Grad Ober-/Unterhitze (Umluft: 140 Grad) vorheizen. Eine Kastenform (25 cm) mit etwas Butter einfetten.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823ql44geh41na0pdajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für den Teig Eier mit Zucker schaumig rühren, weiche Butter hinzugeben und gut verrühren. Mandeln, Mehl, Zimt und Lebkuchengewürz mischen und unterrühren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="3"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823ql44gf4ji5gk3ajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die abgetropften Früchte unter den Kuchenteig mischen. Die Masse komplett in die Kastenform geben und gut verstreichen. Fruit Cake im vorgeheizten Ofen ca. 60 Minuten backen. Nach dem Backen sofort mit dem Whiskeysud bestreichen. Der Kuchen ergibt ca. 12 Scheiben.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="823ql44gf8j1405qgajm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Gut eingepackt und vor Luft geschützt hält dieser Früchtekuchen mehrere Wochen bis sogar 2 Monate.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Aufbewahren &amp; Lagern</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ptxcl4zlh1cwy1luue" file_variant="master" position="1">Fruitcake_1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac65cd5f11b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ptx66c2tv8pk5stj8" file_variant="master" position="1">Fruitcake_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ac65cf0b98d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81ptx9mku011187kvuvc" file_variant="master" position="1">Fruitcake_2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

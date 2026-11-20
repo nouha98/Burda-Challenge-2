@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84izd08pzfq10nc1t9ja" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-11T09:17:51+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-11T09:22:28+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="270"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitroneneis selber machen","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":270}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Zitroneneis","ingredients":[{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Abrieb davon)"},{"amount":120,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":"frisch gepresst (2-3 Zitronen werden benötigt)"},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zitronen heiß waschen, mit einer feinen Reibe die gelbe Schale einer Zitrone abreiben. Restliche Zitronen halbieren und auspressen, 120 ml Zitronensaft abmessen."},{"headline":null,"content":"Zitronensaft mit dem Zucker sowie Abrieb in einen kleinen Topf geben und unter Rühren zum Kochen bringen. Anschließend bei mittlerer Hitze etwa 5 Minuten köcheln lassen, bis sich der Zucker vollständig aufgelöst hat und ein leichter Sirup entsteht. Den Sirup vollständig abkühlen lassen."},{"headline":null,"content":"Die Schlagsahne in einer großen Schüssel steif schlagen. Geschlagene Sahne vorsichtig unter den abgekühlten Zitronensirup heben, bis eine homogene Masse entsteht."},{"headline":null,"content":"Die Eismasse in eine gefriergeeignete Form füllen und glattstreichen. Die Form abdecken und für mindestens 4 Stunden in das Gefrierfach stellen. Eismasse während des Gefrierens alle 30 Minuten kräftig durchrühren, damit sich die Eiskristalle besser verteilen."}],"recipe_tips":[{"headline":"Masse in Eismaschine gefrieren lassen","content":"Eismasse wie oben beschrieben herstellen, anstatt in die Auflaufform in die Eismaschine geben und für 30 Minuten cremig gefrieren lassen. Danach in einen geeigneten Behälter geben und einfrieren."}]}</CustomStructuredRecipeJson>
+    <Title>Zitroneneis selber machen</Title>
+    <Headline position="1">Zitroneneis selber machen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-11T09:17:51+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84izczcoalt17869j9ja">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(für 120 ml frisch gepressten Zitronensaft)" plural="Zitronen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Schlagsahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84izd08pxx1m36lg9ja">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitronen heiß waschen. Bio-Zitrone trocknen und mit einer feinen Reibe die gelbe Schale der Zitrone abreiben. Alle Zitronen halbieren und auspressen, 120 ml Zitronensaft (für das Grundrezept von 4 Portionen) abmessen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84izd08py81ka7gp9ja">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zitronensaft mit dem Zucker sowie Abrieb in einen kleinen Topf geben und unter Rühren zum Kochen bringen. Anschließend bei mittlerer Hitze etwa 5 Minuten köcheln lassen, bis sich der Zucker vollständig aufgelöst hat und ein leichter Sirup entsteht. Den Sirup vollständig abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84izd08pyedz0y2c9ja">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Schlagsahne in einer großen Schüssel steif schlagen. Geschlagene Sahne vorsichtig unter den abgekühlten Zitronensirup heben, bis eine homogene Masse entsteht. Die Eismasse in eine gefriergeeignete Form füllen und glattstreichen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84izd08pyjmhn91w9ja">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Form abdecken und für mindestens 4 Stunden in das Gefrierfach stellen. Eismasse während des Gefrierens alle 30 Minuten kräftig durchrühren, damit sich die Eiskristalle besser verteilen. Das Eis hält tiefgekühlt mindestens 2 Monate. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84izd08pyoxir5yq9ja">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Eismasse wie oben beschrieben herstellen. Anstatt die Eismasse in die Auflaufform zu geben, in die Eismaschine füllen und für 30 Minuten cremig gefrieren lassen. Danach in einen geeigneten Behälter geben und einfrieren. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zitroneneis selber machen mit der Eismaschine</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841kiu4680n17egcj13rj" file_variant="master" position="1">Zitroneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_698c3c3fe5e58">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841ki8b8b0whjsy213fz" file_variant="master" position="1">Zitroneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_698c3c415c26c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841kixkfzaf1689vt13ez" file_variant="master" position="1">Zitroneneis II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_698c3c42b45da">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc841kimizgwh1bi8ra1bqv" file_variant="master" position="1">Zitroneneis II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

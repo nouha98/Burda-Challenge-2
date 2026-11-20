@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85ssne4aotg114kj01r4s" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-11T14:11:20+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-05-11T14:24:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <Source topic="tmt85sspimy0v546zay1rbz"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Chili-Jam (Tomaten-Chili-Dip)","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Garen","duration":60}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"rote Chilischoten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":800,"amountTo":null,"ingredient_name":"gewürfelte Tomaten (Dose)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Sojasauce","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Ingwer schälen. Knoblauchzehen abziehen. Rote Chilischoten entkernen und waschen. Alles fein hacken."},{"headline":null,"content":"Gewürfelte Tomaten aus der Dose, Knoblauch, Ingwer und Chilis mit Weißweinessig, braunem Zucker, Sojasauce, Salz und Zitronensaft in einem großen Topf verrühren und aufkochen."},{"headline":null,"content":"Bei mittlerer Hitze ca. 1 Stunde einkochen lassen, dabei ab und zu umrühren."},{"headline":null,"content":"Sauce in saubere, heiß ausgespülte Gläser geben, verschließen und abkühlen lassen."}],"recipe_tips":[{"headline":"Verwendung und Haltbarkeit","content":"Passt gut zu gegrilltem Gemüse und Fleisch sowie Sandwiches. Gekühlt ist die Chili-Jam etwa 1 Monat haltbar."}]}</CustomStructuredRecipeJson>
+    <Title>Chili-Jam (Tomaten-Chili-Dip)</Title>
+    <CustomRecipeNoteInformation position="1">Für 4 Gläser à 250 ml Inhalt.
+Haltbarkeit: gekühlt ca. 1 Monat.</CustomRecipeNoteInformation>
+    <CustomRecipeTeaserside position="1">gegrilltem Gemüse und Fleisch, Sandwiches.</CustomRecipeTeaserside>
+    <Headline position="1">Tomaten-Chili-Dip (Chili-Jam)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-11T14:11:20+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85ssnnl8u8446np3udw">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Tomaten" prefix="gewürfelte" suffix="(Dose)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt807t3j1nw691coxsuevv" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" plural="rote Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Weißweinessig" position="5"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sojasauce" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="8" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85ssnqwqb141b6fsuudw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ingwer schälen. Knoblauchzehen abziehen. Rote Chilischoten entkernen und waschen. Alles fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ssnqwqbdxruhfoudw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gewürfelte Tomaten aus der Dose, Knoblauch, Ingwer und Chilis mit Weißweinessig, braunem Zucker, Sojasauce, Salz und Zitronensaft in einem großen Topf verrühren und aufkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ssnqwqbhukj6p9udw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Bei mittlerer Hitze ca. 1 Stunde einkochen lassen, dabei ab und zu umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85ssnqwqblflox1dudw">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sauce in saubere, heiß ausgespülte Gläser geben, verschließen und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85ssnqwqbpdejxvnudw">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1"/>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>DS: Eingemachtes: v.l.n.r.- Brombeer-Mandel-Creme als Aufstrich, Gemüse-Pickles (2 Sorten: Möhren-Radieschen-Zwiebel und rote Zwiebeln - jeweils übergossen mit Apfelessig, Zucker, Salz, Gewürzen) , Tomaten-Chili-Jam, Rhabarberkompott mit Zitronenmelisse und Vanille,</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Julia Hoersch</ImageCredit>
+      <DocumentRef doc_id="doc7lq06yhgtdj1cyicljno" file_variant="master" position="1">Slowly Veggie Heft 03/23 , „ To Go/ Picknick“,</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

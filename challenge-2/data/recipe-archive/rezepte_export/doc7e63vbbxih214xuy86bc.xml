@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e63vbbxih214xuy86bc" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-21T16:36:30+01:00</created>
+  <identifier></identifier>
+  <modcount>19</modcount>
+  <modified>2026-03-19T15:52:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <Creator topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <City topic="tmt6pd641c6l76cee8n5p6" generator="com.digicol.se" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeNutritionalValueCalories position="1">380</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">42</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">20</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Spaghetti Napoli</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-01-21T16:36:30+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" plural="Zwiebeln" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="2" plural="Knoblauchzehen" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="5" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="6" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10241" position="7" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spaghetti" suffix="(glutenfrei)"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">200 g Kirschtomaten waschen und halbieren. 1 Zwiebel, 2 Koblauchzehen abziehen, würfeln, in 2 EL Öl andünsten. 1 EL Tomatenmark unterrühren, Tomaten dazugeben. Alles bei kleiner Hitze ca. 10 Minuten köcheln. Mit Salz, Pfeffer würzen. 500 g Spaghetti (glutenfrei) nach Packungsangabe in Salzwasser bissfest kochen, abgießen. Mit der Sauce servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Afanasyeva, Oxana</ImageCredit>
+      <DocumentRef doc_id="doc7a6qngblyvaz7zln94h" file_variant="master" position="1">Spaghetti alla crotonese (Nudeln mit Tomaten &amp; Thunfisch)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8475hbmypyu1fthnl9c2" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-19T08:44:01+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-01-19T08:47:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gurkensalat mit Essig / Öl","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für den Gurkensalat","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"Prise"},"prefix":"frisch gemahlen","suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Essig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"Messerspitze"},"prefix":"mittelscharf","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Salat","content":"Die Gurke waschen, schälen und mit einem Hobel in feinste Scheiben schneiden. Die Scheiben in eine Schüssel geben und die Lauchzwiebel in feine Ringe schneiden, beides mischen. Mit Salz und Pfeffer würzen und mit Öl, Essig, Senf und etwas Zucker vermengen. Den Gurkensalat für 10 Minuten ziehen lassen. Gegebenenfalls nochmal nachwürzen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Gurkensalat mit Essig / Öl</Title>
+    <Headline position="1">Gurkensalat mit Essig und Öl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-19T08:44:01+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8475h9hxrlh1bu2va9c2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Salatgurken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="2" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Lauchzwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" amount="2" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="frisch gemahlener" position="4" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Öl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5831" amount="10" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Essig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" prefix="mittelscharfer" plural="Senf" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Gurkensalat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8475hbmyfpd1f58vz9c2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Gurke waschen, schälen und mit einem Hobel in feinste Scheiben schneiden. Die Scheiben in eine Schüssel geben. Die Lauchzwiebeln waschen, putzen und in feine Ringe schneiden. Gurke und Zwiebeln mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_696de1117e8b1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mit Salz und Pfeffer würzen und mit Öl, Essig, Senf und etwas Zucker vermengen. Den Gurkensalat für 10 Minuten ziehen lassen. Gegebenenfalls nochmal nachwürzen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8421mrvzdznjltkqftm" file_variant="master" position="1">GurkensalatEssigOel_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_696de18101071">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8421moft20xjc1v3iwr" file_variant="master" position="1">GurkensalatEssigOel_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_696de18268778">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8421mq0goxj15ofs3iog" file_variant="master" position="1">GurkensalatEssigOel_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

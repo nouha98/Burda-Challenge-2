@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86qv7n7ngj8zoek81whe" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-16T21:36:32+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-16T21:44:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt86qvbhw82tf16q2w1xhr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Green-Gin-Cocktail","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":106,"kilojoule":444,"carbonhydrates":25,"fat":0,"protein":1,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Baby-Spinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":"frischer","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"alkoholfreier Gin","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Spinat verlesen. Ingwer schälen und in Scheiben schneiden."},{"headline":null,"content":"Beides mit Limettensaft, Apfelsaft und 100 ml eiskaltem Wasser im Standmixer pürieren."},{"headline":null,"content":"Durch ein feines Sieb in eine Karaffe gießen. Gin und Dicksaft unterrühren."},{"headline":null,"content":"Limette waschen, trocken tupfen und in feine Scheiben schneiden. Scheiben mit Eiswürfeln in Gläser geben."},{"headline":null,"content":"Den Cocktail einfüllen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Green-Gin-Cocktail</Title>
+    <CustomRecipeNutritionalValueCalories position="1">106</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">444</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">25</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Zutaten für 4 Gläser (à ca. 200 ml); Das braucht man: Standmixer</CustomRecipeNoteInformation>
+    <Headline position="1">Green-Gin-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-16T21:36:32+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86qv7ohletc4xob924u2">
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Baby-Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frischer" plural="Ingwer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Apfelsaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Gin" prefix="alkoholfreier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Agavendicksaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Limetten" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86qv7pu6avmvp24v24u2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Spinat verlesen. Ingwer schälen und in Scheiben schneiden. Beides mit Limettensaft, Apfelsaft und 100 ml eiskaltem Wasser im Standmixer pürieren. Durch ein feines Sieb in eine Karaffe gießen. Gin und Dicksaft unterrühren. Limette waschen, trocken tupfen und in feine Scheiben schneiden. Scheiben mit Eiswürfeln in Gläser geben. Den Cocktail einfüllen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cocktail mit Gin, Apfel, Spinat und Limette</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Babicka, Sarka</ImageCredit>
+      <DocumentRef doc_id="doc7jgod9ox75su2bqq1tr" file_variant="master" position="1">Cocktail mit Gin, Apfel, Spinat und Limette</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

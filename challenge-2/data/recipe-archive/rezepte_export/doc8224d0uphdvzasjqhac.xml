@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8224d0uphdvzasjqhac" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-22T11:42:46+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-22T11:46:39+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Giotto Creme","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":180,"amountTo":null,"ingredient_name":"Giotto-Kugeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Haselnusskugeln auspacken. 18 Kugeln zum Garnieren beiseite legen."},{"headline":null,"content":"Übrige Kugeln mit Kakao und Vanillinzucker in einem Multizerkleinerer fein zermahlen."},{"headline":null,"content":"Kalte Sahne in einen Rührbecher füllen, Nuss-Mix zugeben und steif schlagen."},{"headline":null,"content":"Die Hälfte der Creme auf sechs Gläser (ca. 200 ml) verteilen. 6 der Giotto-Kugeln halbieren und je 2 auf die Creme geben. Mit der übrigen Creme bedecken. Mindestens 1 Stunde kühlstellen. Mit den beiseite restlichen Haselnusskugeln ausgarnieren."}],"recipe_tips":[{"headline":null,"content":"Willst du die Kugeln zum Garnieren halbieren, dann lege Sie 30 Minuten zuvor ins Gefrierfach. Dann lassen Sie sich mit einem scharfen Messer leicht in zwei Hälften schneiden."}]}</CustomStructuredRecipeJson>
+    <Title>Giotto Creme</Title>
+    <Headline position="1">Giotto Creme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-22T11:42:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8224czyxcra7h2c3hac">
+      <CustomRecipeIngredient topic="tmt80lb1rfsnl3q2glb1ybo" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Giotto-Kugeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8224d0up6101l78f4hac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Haselnusskugeln auspacken. 18 Kugeln zum Garnieren beiseite legen. Übrige Kugeln mit Kakao und Vanillinzucker in einem Multizerkleinerer fein zermahlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8224d0upamb7o2urhac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Kalte Sahne in einen Rührbecher füllen, Nuss-Mix zugeben und steif schlagen. Die Hälfte der Creme auf sechs Gläser (ca. 200 ml) verteilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8224d0upapyazgbyhac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">6 der Giotto-Kugeln halbieren und je 2 auf die Creme geben. Mit der übrigen Creme bedecken. Mindestens 1 Stunde kühlstellen. Mit den restlichen Haselnusskugeln ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8224d0upatcvx53zhac">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Willst du die Kugeln zum Garnieren halbieren, dann lege Sie 30 Minuten zuvor ins Gefrierfach. Dann lassen Sie sich mit einem scharfen Messer leicht in zwei Hälften schneiden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">So halbierst du die zarten Kugeln:</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pspgracp0s91cytj8" file_variant="master" position="1">Giotto_Creme_128800.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a83c79bcdde">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pstggrjrm12kmpgtj8" file_variant="master" position="1">Giotto_Creme_126436.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a83c7b55d04">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pspfcjgmbz2fwzuu3" file_variant="master" position="1">Giotto_Creme_128540.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68a83c7cc4514">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81pspicr1ro1namqwurf" file_variant="master" position="1">Giotto_Creme_128783.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

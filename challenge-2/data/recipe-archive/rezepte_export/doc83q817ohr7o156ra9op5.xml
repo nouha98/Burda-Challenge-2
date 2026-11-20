@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83q817ohr7o156ra9op5" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T09:59:52+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-17T10:05:41+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeerpudding","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Erdbeerpudding","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":"tiefgekühlt oder frisch"},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":35,"amountTo":null,"ingredient_name":"Stärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Erdbeerpudding","content":"Erdbeeren waschen und trocknen, zerkleinern. Die Erdbeeren zusammen mit Sahne in einen Rührbecher geben und fein pürieren. Stärke, Eigelb, Salz mit 5 EL Milch glattrühren, die Erdbeersahne untermischen. Die restliche Milch zum Kochen bringen. Die Erdbeer-Sahnemischung schluckweise unter die aufgekochte Milch rühren, dabei ständig rühren. Den Erdbeerpudding für 2 Minuten aufkochen und in 4 Dessertgläser umfüllen. Den Pudding für ca. 30 Minuten abkühlen lassen und mit je 2 Erdbeerhälften dekorieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Erdbeerpudding</Title>
+    <Headline position="1">Erdbeerpudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T09:59:52+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83q8155rces1ipan9op5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="tiefgekühlt oder frisch" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10356" amount="35" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Stärke" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="4" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" position="7" amount="4" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" suffix="als Dekoration" plural="Erdbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Erdbeerpudding</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83q817oha47debyfop5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeeren waschen, putzen und trocknen. Die geputzten Erdbeeren grob zerkleinern. Die Erdbeerstücke zusammen mit der Sahne in einen Rührbecher geben und fein pürieren. Stärke, Eigelb und Salz mit 5 EL Milch glatt rühren, die Erdbeersahne untermischen. Die restliche Milch zum Kochen bringen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Erdbeerpudding</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_694271d16bcd0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeer-Sahnemischung schluckweise unter die aufgekochte Milch rühren, dabei ständig rühren. Den Erdbeerpudding für 2 Minuten aufkochen und in Dessertgläser (à 220 ml) umfüllen. Den Pudding für ca. 30 Minuten abkühlen lassen. Für die Dekoration die Erdbeeren waschen, abtropfen lassen und halbieren. Jedes Glas mit je 2 Erdbeerhälften dekorieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe4cxsttyh239mjf8" file_variant="master" position="1">Erdbeerpudding II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_694272541f8b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe4bee0v48j9s5jdg" file_variant="master" position="1">Erdbeerpudding II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69427255a2ffa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe4ff7zjo12ejnldnl" file_variant="master" position="1">Erdbeerpudding II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6942725906643">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe49jw8og16uh8hdmu" file_variant="master" position="1">Erdbeerpudding II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

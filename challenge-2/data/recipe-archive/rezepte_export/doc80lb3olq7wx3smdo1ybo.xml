@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80lb3olq7wx3smdo1ybo" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-11T16:53:54+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-03-27T06:36:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Keywords topic="tmt6p4e1u8j2xi12tq368m6"/>
+    <Keywords topic="tmt705fcqum8o81e8v7ibt9"/>
+    <Keywords topic="tmt6pl1ah8amteh3lqb763"/>
+    <Keywords topic="tmt6q8xmwxd7yf6uahxe14"/>
+    <Keywords topic="tmt6owqkttyj4k11g8kp8ly"/>
+    <Keywords topic="tmt6yp43n5mms54yu6o3c1"/>
+    <Keywords topic="tmt6regsmv4u47bq8oim43"/>
+    <Keywords topic="tmt6ref8w0mno0k09qtf9f"/>
+    <Keywords topic="tmt6p3avykbth1bbnxv8m8"/>
+    <Keywords topic="tmt6p3ayt0prhy1lzctk8m6"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Johannisbeer Dessert","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"rote Johannisbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Löffelbiskuits oder Amarettikekse","unit":{"name":"g"},"prefix":"Ca.","suffix":"und Löffelbiskuits zum Garnieren"},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(3,5 % Fettgehalt)"},{"amount":3,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":"(ca. 50 g)"}]}],"preparation":[{"headline":null,"content":"Johannisbeeren waschen und trocken tupfen. 4 Rispen zum Garnieren beiseite legen. Beeren mit Hilfe einer Gabel von den Rispen abzupfen."},{"headline":null,"content":"Früchte halbieren, eine Hälfte in einem Rührbecher pürieren und durch ein grobes Sieb streichen. Fruchtpüree mit Vanillezucker und den übrigen, ganzen Beeren mischen."},{"headline":null,"content":"Löffelbiskuits mit den Händen grob zerbröseln."},{"headline":null,"content":"Vier Dessertgläser (á 200 ml) vorbeireiten. Die Hälfte der Brösel darauf verteilen. Keksboden gleichmäßig mit der Hälfte der Beerensauce bedecken."},{"headline":null,"content":"Mascarpone mit Joghurt und Puderzucker glatt rühren. Hälfte der Creme auf die Gläser verteilen. Übrige Brösel und etwas der übrigen Beerensauce darauf schichten. Mit der restlichen Creme bedecken und mindestens eine Stunde kaltstellen."},{"headline":null,"content":"Kurz vor dem Servieren mit weiteren Bröseln, Beerensauce und den beiseite gelegten Rispen ausgarnieren."}],"recipe_tips":[{"headline":"Eton Mess Variante","content":"Statt Puderzucker für die Creme zu verwenden kannst du auch ca. 50 g fertiges Baiser grob zerbrechen und mit der Beerensauce, Creme und Biskuits einschichten."}]}</CustomStructuredRecipeJson>
+    <Title>Johannisbeer Dessert</Title>
+    <CustomRecipeNoteInformation position="1">Portionsart: Dessert-Gläser (á 200 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Johannisbeer Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-11T16:53:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80lb3koc2q1av8ew1ybo">
+      <CustomRecipeIngredient topic="tmt80lb3olrl2g15mm9x1ybo" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="rote Johannisbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Bourbon-Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="oder Amarettikekse und Löffelbiskuits zum Garnieren" position="3" plural="Löffelbiskuits "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(3,5 % Fettgehalt)" plural="Naturjoghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ca. 50 g)" plural="Puderzucker" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80lb3olq5rb1le18j1ybo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Johannisbeeren waschen und trocken tupfen. 4 Rispen zum Garnieren beiseite legen. Beeren mit Hilfe einer Gabel von den Rispen abzupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb3olq66p17nkcn1ybo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Früchte halbieren, eine Hälfte in einem Rührbecher pürieren und durch ein grobes Sieb streichen. Fruchtpüree mit Vanillezucker und den übrigen, ganzen Beeren mischen.
+Löffelbiskuits mit den Händen grob zerbröseln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb3olq6dh1aq2oj1ybo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vier Dessertgläser (á 200 ml) vorbeireiten. Die Hälfte der Brösel darauf verteilen. Keksboden gleichmäßig mit der Hälfte der Beerensauce bedecken.
+Mascarpone mit Joghurt und Puderzucker glatt rühren. Hälfte der Creme auf die Gläser verteilen. Übrige Brösel und etwas der übrigen Beerensauce darauf schichten. Mit der restlichen Creme bedecken und mindestens eine Stunde kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb3olq6jbjm8fk1ybo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kurz vor dem Servieren mit weiteren Bröseln, Beerensauce und den beiseite gelegten Rispen ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80lb3olq6zdw579e1ybo">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Puderzucker für die Creme zu verwenden kannst du auch ca. 50 g fertiges Baiser grob zerbrechen und mit der Beerensauce, Creme und Biskuits einschichten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Eton Mess Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6821dc69af6f3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">2-3 Tage gekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpck9wygj1u0zgvli" file_variant="master" position="1">Johannisbeer_Dessert_25392.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6821dcbb0ea3f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpcly3bgk3vx2wvly" file_variant="master" position="1">Johannisbeer_Dessert_24903.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6821dcbc560c1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpcnd3s0oqcv8hnsc" file_variant="master" position="1">Johannisbeer_Dessert_25398.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6821dcbdeecf5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpcow3k41f0tnpvly" file_variant="master" position="1">Johannisbeer_Dessert_25181.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82k6tof4x552r1s2b9v" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-26T15:39:51+02:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2025-09-30T15:58:49+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-focuslineextensions"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="360"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <Source topic="tmt82m923wkysw1c48wx92p"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">340</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">49</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">19</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">7</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Gemüse-Harira-Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-26T15:39:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" position="16" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kurze" plural="Nudeln" suffix="(z. B. Suppennudeln, kleine Hörnchen oder Muscheln)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="1" amount="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="3" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10371" position="4" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Staudensellerie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" position="6" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kreuzkümmel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7391" position="7" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Korianderpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="8" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6836" position="9" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Ingwerpulver"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="10" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" position="11" amount="1/2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Chiliflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="12" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="13" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="14" amount="2" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" position="15" amount="130" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="grüne" plural="Linsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7166" position="17" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Dose)" plural="Kichererbsen"/>
+      <CustomRecipeIngredient topic="tmt7ujcf0sb2ivo69jogw3" position="18" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="TK-" plural="Saubohnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="19" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" position="20" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="21" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" position="22" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="griechischer Joghurt"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="23" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="in Spalten" plural="Bio-Zitronen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Knoblauch und Zwiebel abziehen, Möhren schälen und putzen, Sellerie waschen und alles in feine Würfel schneiden. Das Gemüse in einem Slow Cooker oder Schmortopf im Olivenöl andünsten. Gewürze und Tomatenmark zugeben und kurz mitrösten. Tomaten waschen und würfeln. Zusammen mit der Brühe und den Linsen in den Topf geben und 6 Stunden auf niedriger Stufe garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_68dbded82c08e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kurze Nudeln ca. 15 Minuten vor Ende der Garzeit dazugeben. In den letzten 5 Minuten die Kichererbsen und Saubohnen ergänzen. Suppe mit Salz und Pfeffer abschmecken. Koriander waschen, trockenschütteln und grob hacken. Die Suppe in Schüsseln füllen und mit Joghurt toppen. Mit Koriander bestreuen und mit Zitronenspalten servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Parissi, Lucy</ImageCredit>
+      <DocumentRef doc_id="doc7nx223xcsy1ftmsrbs4" file_variant="master" position="1">Harira (Fastensuppe, Marokko)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

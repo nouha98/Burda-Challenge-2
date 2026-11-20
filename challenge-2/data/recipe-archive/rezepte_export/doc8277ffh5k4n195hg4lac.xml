@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8277ffh5k4n195hg4lac" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T09:14:07+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-01T09:19:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="150"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tiramisu ohne Ei mit Quark","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Kühlen","duration":150}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"starker Kaffee","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Löffelbiskuit","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für das Tiramisu den Kaffee aufbrühen und vollständig auskühlen lassen, dann mit Amaretto mischen. Sahne steif schlagen und bis zur Weiterverarbeitung kühlstellen. Quark mit Puderzucker und Mascarpone langsam verrühren. Sahne unter die Creme heben."},{"headline":null,"content":"Die Auflaufform (24 x 18 cm) mit einer Schicht Löffelbiskuit auslegen und mit der Kaffee-Amaretto-Mischung beträufeln. Circa die Hälfte der Creme auf die Löffelbiskuitschicht geben und glattstreichen. Die restlichen Löffelbiskuits auf der Cremeschicht auslegen und wieder mit der Kaffee-Amaretto-Mischung beträufeln."},{"headline":null,"content":"Die restliche Creme auf die Löffelbiskuits geben und glattstreichen. Das Tiramisu üppig mit Backkakao bestreuen und für mindestens 2 Stunden kühlstellen. Ggf. kurz vor dem Servieren nochmal mit Backkakao bestreuen."}],"recipe_tips":[{"headline":"Am Vortag vorbereiten","content":"Tiramisu kannst du wunderbar auch einfach schon am Vortag vorbereiten. So kann das Dessert schön über Nacht durchziehen und ist am nächsten Tag umso leckerer."}]}</CustomStructuredRecipeJson>
+    <Title>Tiramisu ohne Ei mit Quark</Title>
+    <Headline position="1">Tiramisu ohne Ei mit Quark</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T09:14:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8277fcx47o61l9qcylac">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6931" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="Kaffee" prefix="starker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Amaretto" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="8" amount_max="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8277ffh5j84yltwplac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Tiramisu den Kaffee aufbrühen und vollständig auskühlen lassen, dann mit Amaretto mischen. Sahne steif schlagen und bis zur Weiterverarbeitung kühlstellen. Quark mit Puderzucker und Mascarpone langsam verrühren. Sahne unter die Creme heben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8277ffh5jfo13ra7zlac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Auflaufform (24 x 18 cm) mit einer Schicht Löffelbiskuit auslegen und mit der Kaffee-Amaretto-Mischung beträufeln. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68b54864c08f9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Circa die Hälfte der Creme auf die Löffelbiskuitschicht geben und glattstreichen. Die restlichen Löffelbiskuits auf der Cremeschicht auslegen und wieder mit der Kaffee-Amaretto-Mischung beträufeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8277ffh5jjd1h6sevlac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die restliche Creme auf die Löffelbiskuits geben und glattstreichen. Das Tiramisu üppig mit Backkakao bestreuen und für mindestens 2 Stunden kühlstellen. Ggf. kurz vor dem Servieren nochmal mit Backkakao bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8277ffh5jnds7xcxlac">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Tiramisu kannst du wunderbar auch einfach schon am Vortag vorbereiten. So kann das Dessert schön über Nacht durchziehen und ist am nächsten Tag umso leckerer.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Am Vortag vorbereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n60gjuh0pugs8h3r7" file_variant="master" position="1">TiramisuohneEimitQuark2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b548f847a70">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n60f3pftzxjufd3r5" file_variant="master" position="1">TiramisuohneEimitQuarkStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b548f942883">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n60jg4tetq7rn93ro" file_variant="master" position="1">TiramisuohneEimitQuarkStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b548fadffbd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n60dlmeb5tkycj3r7" file_variant="master" position="1">TiramisuohneEimitQuark1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

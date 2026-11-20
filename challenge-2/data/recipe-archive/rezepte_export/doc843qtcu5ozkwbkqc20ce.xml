@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc843qtcu5ozkwbkqc20ce" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-12T17:34:46+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-01-13T09:12:22+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt843qvg79k6q1gnnj020jh"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Salat mit Linsenpasta","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":430,"kilojoule":1801,"carbonhydrates":34,"fat":20,"protein":28,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Rote-Linsen-Nudeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"orange Paprikaschoten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Artischockenherzen","unit":{"name":"g"},"prefix":null,"suffix":"(in Öl)"},{"amount":250,"amountTo":null,"ingredient_name":"Mini-Mozzarellakugeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"weißer Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"eingelegte Oliven","unit":{"name":"g"},"prefix":null,"suffix":"(schwarz und grün, ohne Stein)"},{"amount":50,"amountTo":null,"ingredient_name":"ganze Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Dijon-Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Nudeln nach Packungsangabe bissfest kochen, abgießen und abtropfen lassen."},{"headline":null,"content":"Paprika putzen, waschen und fein würfeln. Basilikumblätter abzupfen. Artischocken und Käse abtropfen lassen. Artischocken halbieren."},{"headline":null,"content":"Zucchini waschen, halbieren und in dicke Scheiben oder Stifte schneiden. Olivenöl in einer Pfanne erhitzen und Zucchini darin kurz anbraten. Dann mit 1 EL Essig beträufeln und würzen."},{"headline":null,"content":"Vorbereitete Zutaten mit Oliven und Mandeln mischen. Restlichen Essig (3 EL), Senf, Salz und Pfeffer verrühren. Dressing über den Salat geben und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Salat mit Linsenpasta</Title>
+    <CustomRecipeNutritionalValueCalories position="1">430</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1801</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">20</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">28</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2.8</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Salat mit Linsenpasta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-12T17:34:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="843qtecwl2q17dcbwp0t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8451" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(schwarz und grün, ohne Stein)" position="9" plural="Oliven" prefix="eingelegte"/>
+      <CustomRecipeIngredient topic="tmt843qu07879gsqvtl20eo" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Rote-Linsen-Nudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8581" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" plural="Paprikaschoten" prefix="orange"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="5" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Basilikum" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4636" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(in Öl)" plural="Artischockenherzen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8191" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mini-Mozzarellakugeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucchini" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="8" plural="Balsamicoessig" prefix="weißer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" plural="Mandeln" prefix="ganze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="11" plural="Dijonsenf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="12"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="13" plural="schwarzer Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="843qti7v58312laeyp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Nudeln nach Packungsangabe bissfest kochen, abgießen und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843qti7v5ev7hkdp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Paprika putzen, waschen und fein würfeln. Basilikumblätter abzupfen. Artischocken und Käse abtropfen lassen. Artischocken halbieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843qti7v5hy1j1t3qp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zucchini waschen, halbieren und in dicke Scheiben oder Stifte schneiden. Olivenöl in einer Pfanne erhitzen und Zucchini darin kurz anbraten. Dann mit 1 EL Essig beträufeln und würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843qti7v5ljkox5ap0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Vorbereitete Zutaten mit Oliven und Mandeln mischen. Restlichen Essig (3 EL), Senf, Salz und Pfeffer verrühren. Dressing über den Salat geben und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">f r ZS Verlag / Kirchherr, Jo</ImageCredit>
+      <DocumentRef doc_id="doc7cv7fmcyao61lo0qk2hi" file_variant="master" position="1">Salat mit Linsennudeln, Artischocken und Oliven</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

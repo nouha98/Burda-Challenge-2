@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8543d7ye0fnqljkqucz" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-24T11:22:39+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-24T11:31:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bohneneintopf","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Bohnen","unit":{"name":"g"},"prefix":null,"suffix":"grüne (ersatzweise: TK-Bohnen, aufgetaut)"},{"amount":300,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Knollensellerie","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Bohnenkraut","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"l"},"prefix":null,"suffix":"(am besten frisch gekocht, alternativ vegane Bio-Instant-Brühe)"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Zwiebeln abziehen, fein würfeln. Kartoffeln waschen, schälen, in Würfel (ca. 1,5 x 1,5 cm) schneiden. Bohnen waschen, putzen, in ca. 3 cm lange Stücke schneiden. Möhren schälen, putzen, in Scheiben schneiden. Sellerie schälen, waschen, in kleine Würfel schneiden. Bohnenkraut abbrausen, trockenschütteln."},{"headline":null,"content":"Öl in einem weiten Topf erhitzen. Zwiebeln darin bei mittlerer Hitze 2–3 Minuten glasig dünsten. Kleingeschnittenes Gemüse hinzufügen und kurz unter Rühren anrösten. Brühe angießen, Bohnenkraut zugeben und alles bei kleiner Hitze zugedeckt ca. 20 Minuten garen, bis das Gemüse weich ist. Mit Pfeffer und etwas Salz abschmecken."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Bohneneintopf</Title>
+    <Headline position="1">Bohneneintopf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-24T11:22:39+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8543d3qzvx012bo7pucz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5021" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ersatzweise: TK-Bohnen, aufgetaut)" plural="Bohnen" position="3" prefix="grüne "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Möhren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7271" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knollensellerie" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5031" amount="4" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Bohnenkraut" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(am besten frisch gekocht, alternativ vegane Bio-Instant-Brühe)" plural="Gemüsebrühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8543d7ydwvpjcrz6ucz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln abziehen, fein würfeln. Kartoffeln waschen, schälen, in Würfel (ca. 1,5 x 1,5 cm) schneiden. Bohnen waschen, putzen, in ca. 3 cm lange Stücke schneiden. Möhren schälen, putzen, in Scheiben schneiden. Sellerie schälen, waschen, in kleine Würfel schneiden. Bohnenkraut abbrausen, trockenschütteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8543d7ydzv69x5squcz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Öl in einem weiten Topf erhitzen. Zwiebeln darin bei mittlerer Hitze 2–3 Minuten glasig dünsten. Kleingeschnittenes Gemüse hinzufügen und kurz unter Rühren anrösten. Brühe angießen, Bohnenkraut zugeben und alles bei kleiner Hitze zugedeckt ca. 20 Minuten garen, bis das Gemüse weich ist. Mit Pfeffer und etwas Salz abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7bratilttehverb3gds" file_variant="master" position="1">Bohneneintopf_88876.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69c267ffb10fe">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7braux1mj5fb4flejei" file_variant="master" position="1">Bohneneintopf_88798.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69c268019fe15">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7brauyujv7o1fs3kylhb" file_variant="master" position="1">Bohneneintopf_88824.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69c2680305725">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czditmfght6wa3ll5y" file_variant="master" position="1">Bohneneintopf_88868.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

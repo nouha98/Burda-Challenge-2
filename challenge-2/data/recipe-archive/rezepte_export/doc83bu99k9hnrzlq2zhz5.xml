@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83bu99k9hnrzlq2zhz5" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-19T10:12:07+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-19T10:24:38+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="3" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Makkaroni-Thunfisch-Auflauf","recipe_seo_headline":null,"servings":{"amount":3.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":25},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Makkaroni","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Thunfisch aus der Dose","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Tomaten in der Dose","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"1 große Prise","suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Emmentalerkäse","unit":{"name":"g"},"prefix":null,"suffix":"in Scheiben oder gerieben"}]}],"preparation":[{"headline":null,"content":"Die Makkaroni in reichlich gesalzenem Wasser nach Packungsangabe „al dente“ kochen, dann abgießen und abschrecken."},{"headline":null,"content":"Die Zwiebel und den Knoblauch schälen und in feine Würfel schneiden."},{"headline":null,"content":"Das Tomatenmark mit den Tomaten aus der Dose, der Sahne, sowie Salz und Pfeffer mischen. Das Olivenöl unterrühren und mit den gekochten Makkaroni mischen. Den Thunfisch aus der Dose nehmen und in Stückchen untermengen."},{"headline":null,"content":"Eine Auflaufform mit Olivenöl und einer angedrückten Knoblauchzehe ausreiben und füllen. Zuletzt mit dem Käse belegen und im vorgeheizten Backofen bei 175 Grad Umluft ca. 25 Minuten backen."}],"recipe_tips":[{"headline":"Gemüse drunter?","content":"Kein Problem. Geschnittene Frühlingszwiebeln oder Möhrenwürfel passen gut dazu. Ansonsten schmecken knackige Blattsalate dazu."}]}</CustomStructuredRecipeJson>
+    <Title>Makkaroni-Thunfisch-Auflauf</Title>
+    <Headline position="1">Makkaroni-Thunfisch-Auflauf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-19T10:12:07+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83bu93x4uwo1jtf5ghz5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7916" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Makkaroni" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Tomatenmark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" suffix="in der Dose" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="8" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" suffix="aus der Dose" plural="Thunfisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5731" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="in Scheiben oder gerieben" position="11" plural="Emmentaler"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_691d8b90dc3f1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="1" prefix="etwas" suffix="für die Form" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" suffix="für die Form" plural="Knoblauchzehen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83bu99k8w421kziv2hz5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Makkaroni in reichlich gesalzenem Wasser nach Packungsangabe „al dente“ kochen, dann abgießen und abschrecken. Die Zwiebel und den Knoblauch schälen, in feine Würfel schneiden und in eine Schüssel geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83bu99k91c71fcqgrhz5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Tomatenmark mit den Tomaten aus der Dose, der Sahne, sowie Salz und Pfeffer, Zwiebeln und Knoblauch mischen. Das Olivenöl unterrühren und mit den gekochten Makkaroni mischen. Den Thunfisch aus der Dose nehmen und in Stückchen untermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83bu99k91gy1100exhz5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 175 Grad Umluft (195 Grad Ober- und Unterhitze) vorheizen. Eine mittelgroße Auflaufform mit Olivenöl und einer angedrückten Knoblauchzehe ausreiben. Die Form mit der vorbereiteten Nudelmasse füllen. Zuletzt mit dem Käse belegen und im vorgeheizten Backofen ca. 25 Minuten backen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83bu99k91opgckm5hz5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Geschnittene Frühlingszwiebeln oder Möhrenwürfel passen super zum Makkaroni-Thunfisch-Auflauf. Als Beilage schmecken knackige Blattsalate besonders gut.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Makkaroni-Thunfisch-Gemüse-Auflauf</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms73w6a1vzmmcmm8v" file_variant="master" position="1">Makkaroni-Thunfisch-Auflauf</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691d8ccf6ed65">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms6upv84phzyhymdr" file_variant="master" position="1">Makkaroni-Thunfisch-Auflauf</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691d8cd12c928">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms6zebw29rvrdima4" file_variant="master" position="1">Makkaroni-Thunfisch-Auflauf</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691d8cd3399a2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms72k1dvn7izv8m8z" file_variant="master" position="1">Makkaroni-Thunfisch-Auflauf</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_691d8cd4db229">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms6xm8b9h1hysuom8o" file_variant="master" position="1">Makkaroni-Thunfisch-Auflauf</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

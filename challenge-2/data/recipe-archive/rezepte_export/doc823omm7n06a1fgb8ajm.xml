@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc823omm7n06a1fgb8ajm" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-25T12:42:59+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-25T12:52:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="14"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="tmt81bj4jtc2rd1g4xwi96f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananenkuchen mit Nüssen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":35},{"name":"Backen","duration":50}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Bananenkuchen","ingredients":[{"amount":"etwas","amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"für die Form"},{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"(Keine Einheit)"},"prefix":"braune weiche","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mandeln","unit":{"name":"g"},"prefix":"gemahlenen","suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Haselnüsse","unit":{"name":"g"},"prefix":"gemahlen","suffix":null},{"amount":170,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(type 405)"},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Silikon-Kastenform (11 x 25 cm) mit etwas Butter einfetten. Backofen auf 180 Grad Ober-/ Unterhitze (Umluft:160 Grad) vorheizen."},{"headline":null,"content":"Für den Bananenkuchen, Butter mit Zucker in einer Rührschüssel auf höchster Stufe mischen. Die Eier aufschlagen und nach und nach zur Mischung hinzugeben. Bananen mit der Gabel zerdrücken und unter den Teig mischen."},{"headline":null,"content":"Zimt, Backkakao mit den Nüssen mischen und in den Teig einrühren. Mehl mit Backpulver und Natron, mischen, sieben und in zwei Portionen in den Teig geben. Alles gut miteinander vermengen und in die Backform füllen."},{"headline":null,"content":"Den Bananenkuchen für 40-50 Min. im vorgeheizten Backofen backen lassen. Nach dem Backen etwas auskühlen lassen und aus der Form stürzen. Den Kuchen vor dem Servieren abkühlen lassen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bananenkuchen mit Nüssen</Title>
+    <Headline position="1">Bananenkuchen mit Nüssen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-25T12:42:59+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="823omjzyobpmdnsvajm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="etwas" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="für die Form" plural="Butter" position="1" amount_error="1" prefix="etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="braune weiche" plural="Bananen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backkakao" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlenen" plural="Mandeln" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlen" plural="Haselnüsse" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="170" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(type 405)" plural="Mehl" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Bananenkuchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="823omm7mwn71lk2nvajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Silikon-Kastenform (11 x 25 cm) mit etwas Butter einfetten. Backofen auf 180 Grad Ober-/ Unterhitze (Umluft:160 Grad) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823omm7mzczsu9a0ajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für den Bananenkuchen, Butter mit Zucker in einer Rührschüssel auf höchster Stufe mischen. Die Eier aufschlagen und nach und nach zur Mischung hinzugeben. Bananen mit der Gabel zerdrücken und unter den Teig mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823omm7mziw17nf7dajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zimt, Backkakao mit den Nüssen mischen und in den Teig einrühren. Mehl mit Backpulver und Natron, mischen, sieben und in zwei Portionen in den Teig geben. Alles gut miteinander vermengen und in die Backform füllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="823omm7mzmdor4erajm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Bananenkuchen für 40-50 Min. im vorgeheizten Backofen backen lassen. Nach dem Backen etwas auskühlen lassen und aus der Form stürzen. Den Kuchen vor dem Servieren abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Der Bananenkuchen hält sich luftdicht verpackt mindestens 3 Tage frisch und saftig. Du kannst den Kuchen auch wunderbar in Scheiben geschnitten einfrieren.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81pu4zf1n3m16paxetj8" file_variant="master" position="1">BananenkuchenmitNuessen_3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ac404e0b6ae">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81pu573f4c8z9cujuue" file_variant="master" position="1">BananenkuchenmitNuessen_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68ac40557fb7e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81pu53qg7j4aske7tj8" file_variant="master" position="1">BananenkuchenmitNuessen_2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68ac405701e83">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81pu52l0hbm1d9hdburf" file_variant="master" position="1">BananenkuchenmitNuessen_1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

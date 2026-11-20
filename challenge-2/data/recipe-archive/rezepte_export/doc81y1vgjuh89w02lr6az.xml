@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81y1vgjuh89w02lr6az" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-14T13:39:00+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-14T14:15:49+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <City topic="tmt6pcy5idzehzu5fbxnkw" generator="com.digicol.se" score="2"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="600"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Malaga Eis","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":120}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":120,"amountTo":null,"ingredient_name":"Rosinen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Rum","unit":{"name":"ml"},"prefix":null,"suffix":null}]},{"headline":"Für das Eis","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Rumrosinen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(siehe oben)"}]}],"preparation":[{"headline":"Für das Eis","content":"Die Rosinen in eine Schüssel geben mit dem Rum mischen, bis diese bedeckt sind, abdecken und über Nacht ziehen lassen."},{"headline":null,"content":"Sahne mit Milch in einem Topf geben und zum Kochen bringen. Eigelbe zusammen mit Zucker in eine Metallschüssel geben und über einem Wasserbad unter ständigem Rühren erhitzen mit einem Thermometer die Temperatur messen. Die Einmischung sollte auf 80° erwärmt werden."},{"headline":null,"content":"Danach die aufgekochte Sahne-Milchmischung zu der aufgeschlagenen Einmischung langsam einrühren bis nur noch der Boden mit der Sahne-Milchmischung übrig ist. Die angerührte Eimischung wieder schlückchenweise in den Topf geben und alles solange mischen, bis die Mischung deutlich eingedickt ist."},{"headline":null,"content":"Die Eismischung für 2 Stunden im Tiefkühler kaltstellen."},{"headline":null,"content":"Die Eismaschine nach Anleitung vorbereiten und die Eismischung einfüllen. Unter ständigem Rühren die Masse gefrieren lassen, sobald die Masse etwas gefroren ist, die Rumrosinen hinzugeben."},{"headline":null,"content":"Das Eis luftdicht verschließen und über Nacht im Tiefkühler durchfrieren lassen, dann servieren."}],"recipe_tips":[{"headline":"Schnelle Rumrosinen","content":"Den Rum etwas erhitzen und die Rosinen darin einweichen."}]}</CustomStructuredRecipeJson>
+    <Title>Malaga Eis</Title>
+    <Headline position="1">Malaga Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-14T13:39:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81y1vf8y3wm14o7tf6az">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9326" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rosinen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rum" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Am Vortag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81y1vfpgolk39ct86az">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" position="3" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Eis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81y1vgju0mel4qnn6az">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag Rosinen in Schüssel geben, mit Rum mischen, abdecken und über Nacht ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y1vgju9vrcc4v66az">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Eismasse Sahne mit Milch in Topf geben und zum Kochen bringen. Eigelbe zusammen mit Zucker in eine Metallschüssel geben und über einem Wasserbad unter ständigem Rühren auf 80° erhitzen (mit Thermometer die Temperatur messen).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y1vgjua3971dpp6az">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zwei Drittel der aufgekochte Sahne-Milchmischung langsam in die Eimischung einrühren. Die so entstandene Mischung nach und nach in den Topf zur restlichen Sahne-Milchmischung geben und weiter rühren, bis die Mischung deutlich eingedickt ist. Die Eismischung 2 Stunden im Tiefkühler kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81y1vgjua8louq626az">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Eismaschine nach Anleitung vorbereiten und die kaltgestellte Eismischung einfüllen. Die Masse unter ständigem Rühren gefrieren lassen, sobald die Masse etwas angefroren ist die Rumrosinen hinzugeben. Das Eis luftdicht verschließen und über Nacht im Tiefkühler durchfrieren lassen. Tiefgekühlt hält sich das Eis mit Rumrosinen mindestens 3 Wochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81y1vgjuamqrodyb6az">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Den Rum etwas erhitzen und die Rosinen darin einweichen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Schnelle Rumrosinen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81f3t5m5z2u18v4tptx" file_variant="master" position="1">MalagaEis1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689dd35a924a9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81f3osmkn9eefb9za4m" file_variant="master" position="1">MalagaEisStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689dd35bf36b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81f3t1em0d4ma85rqqv" file_variant="master" position="1">MalagaEisStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689dd35d78091">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81f3t1eurnknw0xe9vh" file_variant="master" position="1">MalagaEis2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

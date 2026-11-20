@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81svhaaptj81lga1q1db2" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-04T11:48:40+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-04T11:54:04+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rurm12gcltdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bread Pudding","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Backen","duration":25},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Weißbrot","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"für die Form"}]}],"preparation":[{"headline":null,"content":"Eine Auflaufform (24 x 16 cm) einfetten. Das Weißbrot in grobe Würfel schneiden. Die Milch mit Sahne in einem Topf kurz erwärmen. Die Eier, Zucker, Zimt und Vanilleextrakt zur Milch-Sahne-Mischung geben und kurz miteinander verquirlen. Den Ofen auf 190 Grad Ober- / Unterhitze (Umluft: 170 Grad) vorheizen."},{"headline":null,"content":"Die Brotwürfel mit der Flüssigkeit übergießen und 1-2 mal wenden, bis sie sich mit der Flüssigkeit vollgesogen haben, dann in die Auflaufform geben und im vorgeheizten Ofen ca. 25 Min. backen. Direkt servieren."}],"recipe_tips":[{"headline":"Super praktisch als Resteverwertung!","content":"Wenn du alte Brötchen oder Laugenbrezeln vom Vortag übrig hast, kannst du diese wunderbar in deinem Bread Pudding verwerten."}]}</CustomStructuredRecipeJson>
+    <Title>Bread Pudding</Title>
+    <Headline position="1">Bread Pudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-04T11:48:40+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81svh88vtc0p1ecc1db2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="für die Form" plural="Butter" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weißbrote" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="6" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81svhaapkclz5rnr1db2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Auflaufform (24 x 16 cm) einfetten. Das Weißbrot in grobe Würfel schneiden. Die Milch mit Sahne in einem Topf kurz erwärmen. Die Eier, Zucker, Zimt und Vanilleextrakt zur Milch-Sahne-Mischung geben und kurz miteinander verquirlen. Den Ofen auf 190 Grad Ober- / Unterhitze (Umluft: 170 Grad) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81svhaapkk918pwxo1db2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Brotwürfel mit der Flüssigkeit übergießen und 1-2 mal wenden, bis sie sich mit der Flüssigkeit vollgesogen haben, dann in die Auflaufform geben und im vorgeheizten Ofen ca. 25 Min. backen. Direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81svhaapko5m1tn11db2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du alte Brötchen oder Laugenbrezeln vom Vortag übrig hast, kannst du diese wunderbar in deinem Bread Pudding verwerten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Super praktisch als Resteverwertung!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc818xhxixk49e2mef8hi" file_variant="master" position="1">BreadPudding3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6890832cdc05e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc818xi5hrjm11gcc461ki2" file_variant="master" position="1">BreadPuddingStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6890832e8bf66">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc818xhvx35flcqezi8a2" file_variant="master" position="1">BreadPuddingStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68908330c8e35">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc818xi2huqtj77h8l1p2d" file_variant="master" position="1">BreadPudding1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689083325862a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc818xia5l1wm1aunq21oir" file_variant="master" position="1">BreadPudding2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

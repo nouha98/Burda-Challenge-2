@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84l7xrdpeh0r3zwhutj" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-15T17:50:33+01:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2026-02-15T18:16:55+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-gart"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" plural="Personen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt84l89hd0u9dkfqdiuxi"/>
+    <CustomRecipeNutritionalValueCalories position="1">580</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">50</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">12</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">35</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Schokoladenmousse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-15T17:50:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9141" position="1" amount="5" unit_topic="tmt_ingredient_unit_stange" unit="Stange" plural="Rhabarber"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" position="2" amount="3" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Basilikum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10771" position="4" amount="2" unit_topic="tmt71k9kgf101fmu53civ9" unit="cl" suffix="-likör" plural="Vanille"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="5" amount="15" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(geschält)" plural="Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" position="6" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(aufgeschlitzt)" plural="Vanilleschoten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Fürs Rhabarberkompott:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6991fcc743650">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="2" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" position="3" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8381" position="4" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Nugat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" position="5" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Erdbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Schokoladenmousse:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6991fd08ba988">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem:</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Rhabarber waschen, putzen und klein schneiden. Basilikum waschen, trocken schütteln, Blätter abzupfen und in feine Streifen schneiden. Zucker in einer Pfanne unter ständigem Rühren karamellisieren, mit Likör ablöschen. Hitze reduzieren. Rhabarber, Ingwer und Vanilleschote dazugeben, Rhabarber unter Rühren 3–4 Min. bissfest garen. In eine Schüssel umfüllen, Basilikumstreifen untermischen. Kompott im Kühlschrank ca. 2 Std. ziehen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6991fd971eb9d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Mousse Sahne steif schlagen. Eier in einer Metallschüssel aufschlagen und über dem heißen Wasserbad weißcremig aufschlagen. Schokolade und Nugat hacken. In einer Metallschüssel über dem heißen Wasserbad unter Rühren schmelzen, dann unter die Eicreme rühren. Sahne unterheben und ca. 2 Std. in den Kühlschrank stellen. Erdbeeren waschen, putzen, trocken tupfen, nach Belieben halbieren. Vanilleschote und Ingwer aus dem Kompott entfernen. Nocken aus der Mousse stechen, mit Kompott und Erdbeeren anrichten, mit Minze garnieren</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schokoladenmousse mit Rhabarber und Erdbeeren</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Neubauer, Matthias</ImageCredit>
+      <DocumentRef doc_id="doc7ju3v3snvoldxm6jdlo" file_variant="master" position="1">StockFood_12572156.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

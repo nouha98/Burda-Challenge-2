@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fj1s06pw98sddaoca" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-26T14:29:41+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-20T16:04:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <Source topic="tmt83fj6kdakae1ja73moem"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="10"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <LastEditedBy topic="tmt84hz4j262xe1mvi2g1fxm"/>
+    <Headline position="1">Auberginen-Bruschetta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-26T14:29:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4641" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Auberginen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt80lswmz9ak6fn2qlloq" position="4" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="schwarze Oliven" prefix="entsteinte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="5" amount="5" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7046" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kapern" suffix="aus dem Glas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="aus der Mühle" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80l6ntax8j7ec7yh908" position="8" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mini-Mozzarella"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="9" amount="2" amount_max="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" position="11" amount="2" amount_max="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" plural="Basilikum"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Auberginen abbrausen, putzen und längs in ca. 1 cm dicke Scheiben schneiden. Salzen und ca.10 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_692701aa911be">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Knoblauch abziehen und hacken. Oliven klein hacken. Tomaten putzen und würfeln. In ein Sieb geben und abtropfen lassen. Tomaten mit Knoblauch, Oliven und Kapern mischen, salzen und pfeffern. Mozzarella abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_692701d51412b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Grill vorbereiten. Die Auberginen trocken tupfen, beidseitig mit Öl bepinseln. Auf dem heißen Grill auf jeder Seite 2–3 Minuten grillen. Auberginen mit der Tomatenmischung und dem Mozzarella belegen und ca. 5 Minuten weitergrillen. Mit Basilikum garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gegrillte Auperginen-Pozzies mit Tomaten, Oliven und Kapern</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc82psuit7m2qhadguf2s" file_variant="master" position="1">Gegrillte Auperginen-Pozzies mit Tomaten, Oliven und Kapern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

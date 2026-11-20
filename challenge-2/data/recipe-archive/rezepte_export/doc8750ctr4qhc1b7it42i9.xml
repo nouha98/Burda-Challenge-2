@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8750ctr4qhc1b7it42i9" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-13T10:12:16+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-08-13T10:19:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <Source topic="tmt8750gajckc0137cdel1e"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pastinakensuppe","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Pastinake","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"l"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":"frische","suffix":"(alternativ: Schnittlauch)"},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":"(30 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Muskatnuss","unit":null,"prefix":"frisch geriebene","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Bauernbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebeln abziehen und fein würfeln. Pastinaken sowie Kartoffeln waschen, schälen und grob würfeln."},{"headline":null,"content":"Butter in einem Topf erhitzen. Zwiebeln darin 2-3 Minuten glasig dünsten. Pastinaken- und Kartoffelstücke kurz mitbraten, dann mit Gemüsebrühe ablöschen, aufkochen und bei mittlerer Hitze 20 Minuten köcheln lassen, bis das Gemüse weich ist."},{"headline":null,"content":"In der Zwischenzeit Petersilie abbrausen, trockenschütteln und fein hacken. Suppe von der Herdplatte nehmen und mit einem Pürierstab fein pürieren."},{"headline":null,"content":"Sahne unter die Suppe mischen, nochmals erhitzen, dann alles mit Salz, Pfeffer, Muskatnuss sowie Zitronensaft abschmecken. Suppe mit gehackter Petersilie bestreuen und mit Brot servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pastinakensuppe</Title>
+    <Headline position="1">Pastinakensuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-13T10:12:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8750cpoucpwpx1sf2i9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="frische" suffix="(alternativ: Schnittlauch)" plural="Petersilie" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8606" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pastinaken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt7fu35st9dd3uj9mg383" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(30 % Fett)" position="7" plural="Kochsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="frisch geriebene" plural="Muskatnuss" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8750ctd0wja1c1gm92i9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4841" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Bauernbrot" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8750ctr4jb916sx9z2i9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebeln abziehen und fein würfeln. Pastinaken sowie Kartoffeln waschen, schälen und grob würfeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8750ctr4pc0ql5ix2i9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Butter in einem Topf erhitzen. Zwiebeln darin 2-3 Minuten glasig dünsten. Pastinaken- und Kartoffelstücke kurz mitbraten, dann mit Gemüsebrühe ablöschen, aufkochen und bei mittlerer Hitze 20 Minuten köcheln lassen, bis das Gemüse weich ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8750ctr4pkj1ccp0r2i9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Petersilie abbrausen, trockenschütteln und fein hacken. Suppe von der Herdplatte nehmen und mit einem Pürierstab fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8750ctr4pqr18l0vh2i9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sahne unter die Suppe mischen, nochmals erhitzen, dann alles mit Salz, Pfeffer, Muskatnuss sowie Zitronensaft abschmecken. Suppe mit gehackter Petersilie bestreuen und mit Brot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pastinaken-Suppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj93ljuzoa05e92rg" file_variant="master" position="1">Pastinake-Suppe-hoch-6598.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a7d7e1581d30">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pastinaken-Suppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqjcb99cl0gfr0c6n9" file_variant="master" position="1">Pastinake-Suppe-Step1-6363.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a7d7e184bdcb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pastinaken-Suppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj747qps7msa4y39l" file_variant="master" position="1">Pastinake-Suppe-Step2-6459.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a7d7e1a666f2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pastinaken-Suppe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj9xq3qtjedw5t2rg" file_variant="master" position="1">Pastinake-Suppe-quer-6593.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

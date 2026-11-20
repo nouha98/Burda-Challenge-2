@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82vxei1488l202isjx5" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-19T11:56:39+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-19T12:25:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="1" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="510"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wunderbrot","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Backen","duration":45},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Wunderbrot","ingredients":[{"amount":220,"amountTo":null,"ingredient_name":"Vollkornhaferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Sonnenblumenkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Leinsamen","unit":{"name":"g"},"prefix":null,"suffix":"ganz"},{"amount":50,"amountTo":null,"ingredient_name":"Leinsamen gold","unit":{"name":"g"},"prefix":null,"suffix":"geschrotet"},{"amount":30,"amountTo":null,"ingredient_name":"Chiasamen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Flohsamen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"kochendes","suffix":null}]}],"preparation":[{"headline":null,"content":"Die Haferflocken mit den Kernen, Samen und dem Salz in einer Schüssel mischen. Den Honig im kochenden Wasser auflösen. Dann die flüssigen Zutaten zur Hafer-Kern Mischung hinzugeben und für 30 Minuten quellen lassen."},{"headline":null,"content":"Die fertige Saatenmischung in eine Kastenform (21 cm) geben und alles gut festdrücken, mit Frischhaltefolie abdecken und über Nacht quellen lassen."},{"headline":null,"content":"Den Backofen nun auf 180 Grad Ober-/Unterhitze (160 Grad Umluft) vorheizen und das Wunderbrot für 45 Minuten goldbraun backen."}],"recipe_tips":[{"headline":null,"content":"Falls du nicht alle Kerne oder Samen in deinem Schrank findest, kannst du nach eigenem Belieben austauschen. Achte dabei darauf, dass du die gleiche Menge nimmst und ähnliche Saaten oder Kerne verwendest. Flohsamen kannst du bspw. durch Chiasamen ersetzen."}]}</CustomStructuredRecipeJson>
+    <Title>Wunderbrot</Title>
+    <Headline position="1">Wunderbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-19T11:56:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82vxefmncvb1kvq4rjx5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="220" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="Vollkorn-" plural="Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbiskerne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10226" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sonnenblumenkerne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ganz" plural="Leinsamen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="geschrotete Gold-" plural="Leinsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Chia-Samen"/>
+      <CustomRecipeIngredient topic="tmt7dtobec9brnfl655foc" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Flohsamen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="kochendes" plural="Wasser" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Wunderbrot</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82vxei145n9134jcejx5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Wunderbrot die Haferflocken mit den Kernen, Samen und dem Salz in einer Schüssel mischen. Das Wasser in einem kleinen Topf zum Kochen bringen und den Honig darin auflösen. Das kochende Wasser zur Hafer-Kern-Mischung geben, gründlich vermengen und etwa 30 Minuten quellen lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vxei145tfuz99qjx5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den fertigen Teig in eine Kastenform (Länge: 21 cm) geben und alles gut festdrücken. Die Form mit Frischhaltefolie abdecken und über Nacht quellen lassen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vxei145xf1isdawjx5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Am nächsten Tag den Backofen auf 180 Grad Ober- und Unterhitze (Umluft 160 Grad) vorheizen und das Wunderbrot etwa 45 Minuten goldbraun backen. Aus dem Ofen nehmen, kurz abkühlen lassen und aus der Form stürzen. Das Wunderbrot ist luftdicht verpackt bis zu 3 Tage haltbar. Guten Appetit!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82vxei1460y55ngtjx5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls du nicht alle Kerne oder Samen in deinem Schrank findest, kannst du nach eigenem Belieben austauschen. Achte dabei darauf, dass du die gleiche Menge nimmst und ähnliche Saaten oder Kerne verwendest. Flohsamen kannst du bspw. durch Chiasamen ersetzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lqrjb07v914pnaz1q81" file_variant="master" position="1">Wunderbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f4bc5f24002">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lqsbbg7h31a5g1n1q81" file_variant="master" position="1">Wunderbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f4bc610e3aa">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lqr4rob7sa0hijffz" file_variant="master" position="1">Wunderbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f4bc631257f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lqrmgfusp1j1eki1q81" file_variant="master" position="1">Wunderbrot</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

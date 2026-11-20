@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821otpln1g21cd5wh28b" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-21T15:33:17+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T11:21:16+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Heidelbeer Smoothie","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"g"},"prefix":null,"suffix":"frisch oder TK"},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Heidelbeeren und Zucker in einen kleinen Topf geben und bei mittlerer Stufe für 5 min weich kochen lassen. Die Beeren Masse abkühlen lassen."},{"headline":null,"content":"Joghurt mit Milch in einen hohen Behälter geben und die abgekühlten Heidelbeeren dazugeben, alles mit einem Pürierstab mixen."},{"headline":null,"content":"Den Heidelbeer Smoothie in 4x Gläser à 250 ml füllen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Heidelbeer Smoothie</Title>
+    <Headline position="1">Heidelbeer Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-21T15:33:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821otogyphe18x4cw28b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="frisch oder TK" plural="Heidelbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Naturjoghurt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821otplmpmb1abzg228b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Smoothie die Beeren abbrausen und abtropfen lassen. Joghurt, Milch und Zucker in einen hohen Behälter geben. Beeren zugeben und alles mit einem Pürierstab einige Minuten cremig mixen. Den Heidelbeer-Smoothie in 4 Gläser (à 250 ml) füllen und servieren. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Smoothie mit gefrorenen Beeren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Außerhalb der Saison kannst du auch gefrorene Beeren für den Heidelbeer-Smoothie verwenden. Am besten mit dem Zucker einmal kurz aufkochen, abkühlen lassen und ebenso mit den restlichen Zutaten cremig pürieren.
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88fqw1voee9q82fbfzv" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-12T08:13:51+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-11-12T08:29:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-entr"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="12" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="90"/>
+    <Source topic="tmt88fr0ish1i9fpx6cgv0"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pudding-Küchlein","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":90},{"name":"Backen","duration":20},{"name":"Ruhen/Warten","duration":60}],"difficulty":null,"price":null,"nutritions":{"calories":370,"kilojoule":1549,"carbonhydrates":55,"fat":13,"protein":8,"breadunit":5}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":550,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":18,"amountTo":null,"ingredient_name":"Hefe","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":85,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":480,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":null},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schokopuddingpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Rohrzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Haselnüsse","unit":{"name":"g"},"prefix":"grob gehackte","suffix":null}]}],"preparation":[{"headline":null,"content":"150 ml lauwarme Milch mit Hefe und 45 g Zucker glatt verrühren. 350 g Mehl, 1 Prise Salz und Vanillezucker mischen und eine Mulde formen. 50 g weiche Butter, Ei und Hefemilch in die Mulde geben. Ca. 10 Minuten zu einem glatten Teig verkneten. Zugedeckt ca. 60 Minuten aufgehen lassen."},{"headline":null,"content":"Schokolade hacken. 5 EL Milch, 40 g Zucker und Puddingpulver verrühren. Übrige Milch aufkochen. Den Pulver-Mix einrühren und aufkochen. Schokolade unterrühren. Mit Frischhaltefolie zudecken und abkühlen lassen."},{"headline":null,"content":"75 g kalte Butter würfeln. Mit 130 g Mehl, Rohrzucker, 1 Prise Salz, Zimt und Haselnüssen zu groben Streuseln verreiben."},{"headline":null,"content":"Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen. Hefeteig zu 12 Kugeln formen und flach drücken. Mit Abstand zueinander auf 2 mit Backpapier belegte Bleche legen."},{"headline":null,"content":"Pudding durchrühren und je 2 EL Pudding in die Mitte der Teiglinge geben, dabei einen kleinen Rand frei lassen. Streusel daraufgeben und leicht andrücken. Je Blech ca. 20 Minuten backen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Pudding-Küchlein</Title>
+    <CustomRecipeNutritionalValueCalories position="1">370</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1549</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">55</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">13</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">5</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Pudding-Küchlein</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-12T08:13:51+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88fqw49jrlf6hvzd2ii">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="550" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6626" amount="18" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hefe" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="85" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="480" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Vanillezucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterschokolade" position="9"/>
+      <CustomRecipeIngredient topic="tmt7j5fg7qrn8ofs5s344u" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" position="10" plural="Schokoladenpuddingpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Rohrzucker" position="11"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimtpulver" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="grob gehackte" plural="Haselnüsse" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88fqw9lc6xjgzqlb2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">150 ml lauwarme Milch mit Hefe und 45 g Zucker glatt verrühren. 350 g Mehl, 1 Prise Salz und Vanillezucker mischen. Eine Mulde formen. 50 g weiche Butter, Ei und Hefemilch in die Mulde geben. Ca. 10 Min. zu einem glatten Teig verkneten. Zugedeckt ca. 60 Min. aufgehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fqw9lio7bcdr8p2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schokolade hacken. 5 EL Milch, 40 g Zucker und Puddingpulver verrühren. Übrige Milch aufkochen. Pulver-Mix einrühren und aufkochen. Schokolade unterrühren. Mit Frischhaltefolie zudecken und abkühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fqw9liogywbwby2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">75 g kalte Butter würfeln. Mit 130 g Mehl, Rohrzucker, 1 Prise Salz, Zimt und Nüssen zu groben Streuseln verreiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fqw9liot416h2sj2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Ofen auf 180 Grad Ober-/Unterhitze vorheizen. Hefeteig zu 12 Kugeln formen und flach drücken. Mit Abstand zueinander auf 2 Bleche mit Backpapier legen. Pudding durchrühren und je 2 EL Pudding in die Mitte der Teiglinge geben. Dabei einen kleinen Rand frei lassen. Streusel daraufgeben und leicht andrücken. Je Blech ca. 20 Min. backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc86tsni77imwqvbtmi27" file_variant="master" position="1">Schokopudding-Streuselteilchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

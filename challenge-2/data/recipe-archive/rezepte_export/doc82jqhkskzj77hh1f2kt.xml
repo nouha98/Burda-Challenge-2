@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82jqhkskzj77hh1f2kt" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-25T18:28:07+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-25T18:32:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="1" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Forelle Müllerin","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Forelle","unit":{"name":"Stück"},"prefix":"ganze","suffix":"ca. 200g"},{"amount":2,"amountTo":3,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":25,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":"große","suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"Type 405"},{"amount":30,"amountTo":null,"ingredient_name":"Mandelplättchen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Forelle waschen, trockentupfen, die Flossen mit einer Schere abschneiden und die Forelle von innen und außen mit Salz und Pfeffer würzen, mit Mehl bestäuben und das überschüssige Mehl gut abklopfen. In einer großen Pfanne das Sonnenblumenöl erhitzen. Die Forelle einlegen. Nun ca. 5 Minuten bei sanfter Hitze die Forelle von der einen Seite braten."},{"headline":null,"content":"Dann die Forelle wenden und ca. 5 weitere Minuten braten. Die Hitze reduzieren und die Butter dazugeben, einmal aufschäumen lassen und den Fisch damit begießen. Die Mandelplättchen nun dazugeben und in der Butter goldgelb anrösten. Vorsicht, sie verbrennen schnell, daher die Hitze stark reduzieren."},{"headline":null,"content":"Die Petersilie vom Stängel entfernen und grob hacken, dazugeben und den Fisch nochmals damit begießen. Die Zitrone halbieren und kurz vor dem Servieren mit Zitronensaft beträufeln."}],"recipe_tips":[{"headline":"Dazu passen","content":"Salzkartoffeln, Kartoffelpüree oder Parboiled Reis und knackige Blattsalate"}]}</CustomStructuredRecipeJson>
+    <Title>Forelle Müllerin</Title>
+    <Headline position="1">Forelle Müllerin</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-25T18:28:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82jqhievjtg16ci9s2kt">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6046" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="ganze" suffix="ca. 200g" plural="Forelle" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="2" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="25" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="große" plural="Pfeffer" position="5" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="Type 405" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7951" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" plural="Mandelblättchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="8"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82jqhksku84yzs4u2kt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Forelle waschen, trockentupfen, die Flossen mit einer Schere abschneiden und die Forelle von innen und außen mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_68d56dcf75589">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Forelle mit Mehl bestäuben und das überschüssige Mehl gut abklopfen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68d56ded17ca9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">In einer großen Pfanne das Sonnenblumenöl erhitzen. Die Forelle einlegen. Nun ca. 5 Minuten bei sanfter Hitze die Forelle von der einen Seite braten. Dann die Forelle wenden und ca. 5 weitere Minuten braten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jqhkskwk6zmu4r2kt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Hitze reduzieren und die Butter dazugeben, einmal aufschäumen lassen und den Fisch damit begießen. Die Mandelblättchen nun dazugeben und in der Butter goldgelb anrösten. Vorsicht, sie verbrennen schnell, daher die Hitze stark reduzieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82jqhkskwoh1dbok2kt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Petersilie vom Stängel entfernen und grob hacken, dazugeben und den Fisch nochmals damit begießen. Die Zitrone halbieren und kurz vor dem Servieren mit Zitronensaft beträufeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82jqhkskws6h943g2kt">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Salzkartoffeln, Kartoffelpüree oder Parboiled Reis und knackige Blattsalate</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Dazu passen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j12hlegyw1i1dyer5" file_variant="master" position="1">Forelle Muellerinnen Art</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68d56e9485ac0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j12evm0ih1c0dhbena" file_variant="master" position="1">Forelle Muellerinnen Art</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68d56e95f3c5c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j12mdtddv18pon4ena" file_variant="master" position="1">Forelle Muellerinnen Art</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68d56e97bc42d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j12brvuqcmke3fer4" file_variant="master" position="1">Forelle Muellerinnen Art</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

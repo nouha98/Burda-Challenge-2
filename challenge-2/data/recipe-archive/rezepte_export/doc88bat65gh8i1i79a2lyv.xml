@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88bat65gh8i1i79a2lyv" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-03T16:31:58+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-03T16:53:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-entr"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="12" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsl49ioisdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt88bb2yn9ec9oeqtam40"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Versunkener Pflaumenkuchen","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":120},{"name":"Backen","duration":75}],"difficulty":null,"price":null,"nutritions":{"calories":320,"kilojoule":1340,"carbonhydrates":48,"fat":12,"protein":4,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Pflaumen","unit":{"name":"kg"},"prefix":null,"suffix":"(Zwetschgen oder Rundpflaumen)"},{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":270,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":"große","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Stroh-Rum","unit":{"name":"EL"},"prefix":null,"suffix":"(ersatzweise 1⁄2 Fläschchen Rumaroma)"}]}],"preparation":[{"headline":null,"content":"Pflaumen abbrausen, abtupfen, längs einritzen, aufklappen und entsteinen. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine Springform (Ø 24 cm) am Boden mit Backpapier belegen und den Rand gründlich fetten."},{"headline":null,"content":"Butter mit 250 g Zucker und Vanillezucker schaumig schlagen. Die Eier einzeln dazugeben und jeweils ca. 1 Minute unterschlagen."},{"headline":null,"content":"Mehl mit Backpulver mischen. Die Mischung abwechselnd mit Schmand und Rum in 3 Portionen zur Buttermasse geben und jeweils kurz unterrühren. Den Teig in die Form geben und glatt streichen."},{"headline":null,"content":"Die Pflaumen aufgeklappt schräg und dachziegelartig in den Teig stecken. Auf der mittleren Schiene des Ofens 75–85 Minuten backen."},{"headline":null,"content":"Form herausnehmen. Kuchen mit 20 g Zucker bestreuen und in der Form auskühlen lassen. Evtl. mit Puderzucker und geschlagener Sahne servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Versunkener Pflaumenkuchen</Title>
+    <CustomRecipeNutritionalValueCalories position="1">320</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1340</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">48</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Versunkener Pflaumenkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-03T16:31:58+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88bat7rz0ht14huo61lpk">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8776" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" suffix="(Zwetschgen oder Rundpflaumen)" plural="Pflaumen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="270" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Vanillezucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="große" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ersatzweise 1⁄2 Fläschchen Rumaroma)" position="9" plural="Rum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88batayhzi11c60y1lpk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pflaumen abbrausen, abtupfen, längs einritzen, aufklappen und entsteinen. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine Springform (Ø 24 cm) am Boden mit Backpapier belegen und den Rand gründlich fetten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88batayi65iispjg1lpk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Butter mit 250 g Zucker und Vanillezucker schaumig schlagen. Die Eier einzeln dazugeben und je ca. 1 Min. unterschlagen. Mehl mit Backpulver mischen. Die Mischung abwechselnd mit Schmand und Rum in 3 Portionen zur Buttermasse geben und jeweils kurz unterrühren. Den Teig in die Form geben und glatt streichen. Die Pflaumen aufgeklappt schräg und dachziegelartig in den Teig stecken. Auf der mittleren Schiene des Ofens 75–85 Min. backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88batayi6blh8wvi1lpk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Form herausnehmen. Kuchen mit 20 g Zucker bestreuen. In der Form auskühlen lassen. Evtl. mit Puderzucker und geschlagener Sahne servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Stockfood Studios / Photoart</ImageCredit>
+      <DocumentRef doc_id="doc80k2enb8f0l1nikh8stt" file_variant="master" position="1">Versunkener Pflaumenkuchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

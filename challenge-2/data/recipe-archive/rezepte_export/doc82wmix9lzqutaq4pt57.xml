@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82wmix9lzqutaq4pt57" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-20T20:32:25+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-21T09:43:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pesto Rosso","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":null}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":50,"amountTo":null,"ingredient_name":"Pinienkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"Getrocknete Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"in Öl (Abtropfgewicht)"},{"amount":"1-2","amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":7,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz und Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für das Pesto Rosso die Pinienkerne in einer beschichteten Pfanne ohne Fett bei mittlerer Hitze anrösten und dabei mehrmals wenden, bis sie gleichmäßig leicht gebräunt sind. In eine kleine Schüssel geben und vollständig abkühlen lassen."},{"headline":null,"content":"Die getrockneten Tomaten in ein feines Sieb geben und abtropfen lassen. Anschließend grob hacken. Den Knoblauch abziehen und ebenfalls hacken. Tomaten und Knoblauch mit einem Pürierstab oder in einem Mixer in kurzen Intervallen mixen, die Masse sollte nicht zu fein püriert werden."},{"headline":null,"content":"Parmesan fein reiben. Zu der Tomaten-Knoblauch-Masse geben und alles nochmals kurz durchmixen. Das Olivenöl dazugeben und unter die Masse heben. Mit Salz und Pfeffer abschmecken. Sofort servieren oder in ein sauberes Glas geben und gut verschließen. Guten Appetit!"}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pesto Rosso</Title>
+    <Headline position="1">Pesto Rosso</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-20T20:32:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82wmiuwuv6w4nq79t57">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8831" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pinienkerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt80gjcozkwdtsni8zbn8" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="in Öl (Abtropfgewicht)" position="2" plural="getrocknete Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="3" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Parmesan" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="7" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz und Pfeffer" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82wmix9lfs4kudo3t57">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Pesto Rosso die Pinienkerne in einer beschichteten Pfanne ohne Fett bei mittlerer Hitze anrösten und dabei mehrmals wenden, bis sie gleichmäßig leicht gebräunt sind. In eine kleine Schüssel geben und vollständig abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wmix9lsi8u8b2gt57">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die getrockneten Tomaten in ein feines Sieb geben und abtropfen lassen. Anschließend grob hacken. Den Knoblauch abziehen und ebenfalls hacken. Tomaten und Knoblauch mit einem Pürierstab oder in einem Mixer in kurzen Intervallen mixen, die Masse sollte nicht zu fein püriert werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82wmix9lsoyvd56jt57">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Parmesan fein reiben. Zu der Tomaten-Knoblauch-Masse geben und alles nochmals kurz durchmixen. Das Olivenöl dazugeben und unter die Masse heben. Mit Salz und Pfeffer abschmecken. Sofort servieren oder in ein sauberes Glas geben und gut verschließen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82m2w0yfhxl12bds2iav" file_variant="master" position="1">Pesto Rosso II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f7396abae5c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82m2w2ger1lciss6iav" file_variant="master" position="1">Pesto Rosso II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f7396d28d1a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82m2w5rth9v6ry25icq" file_variant="master" position="1">Pesto Rosso II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f7397010d3d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82m2w437eudaj14dicq" file_variant="master" position="1">Pesto Rosso II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

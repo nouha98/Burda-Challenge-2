@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc860x3ftw8sp1c2nyemzk" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-27T09:37:36+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-27T09:53:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <Source topic="tmt860x72ya4lx9gl4nn11"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rolt1gbekbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeNutritionalValueCalories position="1">440</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">55</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">11</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Orientalischer Auberginensalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-27T09:37:36+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4641" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Auberginen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="2" amount="3" amount_max="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="und Öl für das Blech" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8691" position="5" plural="Pfeffer aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9006" position="6" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Quinoa"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="7" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="8" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="rote" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="9" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="10" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="rote Zwiebeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a169ffa8bc17">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="1" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="3" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" position="4" amount="0,5" amount_max="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Kreuzkümmel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="5" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Ahornsirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="7" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="4" amount_max="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6a16a058407f3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="1" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" prefix="gehackte, glatte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gehackte" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 220 Grad Ober-/Unterhitze vorheizen. Auberginen waschen, putzen und in ca. 1,5 cm große Würfel schneiden. Möhren schälen und schräg in Scheiben schneiden. Beides mit Olivenöl, Salz und Pfeffer vermengen. Ein Backblech leicht ölen, das Gemüse darauf verteilen und im Ofen 25-30 Minuten garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a16a141821e6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Quinoa abbrausen und abtropfen lassen. Mit der Gemüsebrühe in einem Topf aufkochen und zugedeckt 12-15 Minuten gar kochen. Dann abgießen, abtropfen lassen und in einer Schüssel mit einer Gabel auflockern.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a16a155534bf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Chilischote waschen, putzen und fein hacken. Lauchzwiebeln putzen, waschen und in Ringe schneiden. Zwiebel abziehen und fein würfeln. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a16a185e3c26">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Dressing den Zitronensaft mit Salz, Pfeffer, Kreuzkümmel, Koriander und Ahornsirup in einer Schüssel verrühren. Knoblauch abziehen und dazupressen. Das Öl kräftig unterquirlen und das Dressing abschmecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6a16a1969fead">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Geröstetes Gemüse mit den übrigen vorbereiteten Zutaten, Kräutern und Dressing mischen und servieren.  </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Orientalischer Auberginensalat mit Quinoa</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc85n344483c81fq9q727z" file_variant="master" position="1">Orientalischer Auberginensalat mit Quinoa</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

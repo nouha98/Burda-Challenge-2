@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82vxtbxf8qb17bf7mjx6" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-19T12:28:43+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-20T19:17:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grießbrei","recipe_seo_headline":"Grießbrei -","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Weichweizengrieß","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Zimtzucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Beeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"}]}],"preparation":[{"headline":null,"content":"Für den Grießbrei die Milch mit Vanillezucker und Zucker in einen kleinen Topf geben und bei niedriger Hitze unter ständigem Rühren aufkochen. Sobald die Milch aufgekocht ist, den Topf vom Herd nehmen und den Grieß einrühren."},{"headline":null,"content":"Den Topf zurück auf den Herd stellen und den Grießbrei erneut aufkochen, bis er Blasen wirft und langsam eindickt. Dabei ständig umrühren und darauf achten, dass der Brei nicht anbrennt. Den Topf anschließend vom Herd nehmen und zugedeckt etwa 5 Minuten ziehen lassen. Der Grießbrei wird beim Abkühlen etwas fester."},{"headline":null,"content":"Den fertigen Grießbrei in Schälchen füllen und entweder sofort genießen oder komplett abkühlen lassen. Mit etwas Zimtzucker bestreuen und nach Geschmack mit frischen Beeren garnieren. Lass es dir schmecken!"}],"recipe_tips":[{"headline":"Veganer Grießbrei","content":"Für eine vegane Variante kannst du den Grießbrei natürlich auch mit der entsprechenden Menge Pflanzenmilch deiner Wahl zubereiten. Besonders gut schmecken zum Beispiel Mandelmilch, Haselnussmilch oder Hafermilch mit Vanille-Aroma. Mit einem Stückchen veganer Butter wird der Grießbrei übrigens besonders cremig – wie von Oma!"}]}</CustomStructuredRecipeJson>
+    <Title>Grießbrei</Title>
+    <CustomRecipeSeoTitle position="1">Grießbrei -</CustomRecipeSeoTitle>
+    <Headline position="1">Grießbrei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-19T12:28:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82vxta1wpibj3p9ujx6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="1" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11036" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weichweizengrieß" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82vxtbacwwn1kskg7jx6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11311" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Zimt-Zucker"/>
+      <CustomRecipeIngredient topic="tmt7zixuwyafj7152o868n1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(optional)" position="2" plural="frische Beeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82vxtbxf0djvgp7ljx6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Grießbrei die Milch mit Vanillezucker und Zucker in einen kleinen Topf geben und bei niedriger Hitze unter ständigem Rühren aufkochen. Sobald die Milch aufgekocht ist, den Topf vom Herd nehmen und den Grieß einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vxtbxf3oo1iym4qjx6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Topf zurück auf den Herd stellen und den Grießbrei erneut aufkochen, bis er Blasen wirft und langsam eindickt. Dabei ständig umrühren und darauf achten, dass der Brei nicht anbrennt. Den Topf anschließend vom Herd nehmen und zugedeckt etwa 5 Minuten ziehen lassen. Der Grießbrei wird beim Abkühlen etwas fester.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vxtbxf3tuyk1o8jx6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den fertigen Grießbrei in Schälchen füllen und entweder sofort genießen oder komplett abkühlen lassen. Mit etwas Zimtzucker bestreuen und nach Geschmack mit frischen Beeren garnieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82vxtbxf3xu1e1mk8jx6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für eine vegane Variante kannst du den Grießbrei natürlich auch mit der entsprechenden Menge Pflanzenmilch deiner Wahl zubereiten. Besonders gut schmecken zum Beispiel Mandelmilch, Haselnussmilch oder Hafermilch mit Vanille-Aroma. Mit einem Stückchen veganer Butter wird der Grießbrei übrigens besonders cremig – wie von Oma!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Veganer Grießbrei</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Kathrin Winner &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82lr4rmbywm1ndp0y1oub" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f66ea703641">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Kathrin Winner &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82lr4u6t2solxq9n1rid" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f66ea8ed15c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Kathrin Winner &amp; Sara Dehghani</ImageCredit>
+      <DocumentRef doc_id="doc82lr4m5gumx15bhmtrkw" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

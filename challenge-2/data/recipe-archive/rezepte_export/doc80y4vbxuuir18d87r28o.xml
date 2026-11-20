@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80y4vbxuuir18d87r28o" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-05T16:01:31+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-28T13:31:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Keywords topic="tmt6owa4xw3ahcz7u1i8m7"/>
+    <Keywords topic="tmt80y4yur8bfr1mnjhr12ru"/>
+    <Keywords topic="tmt759vdkacla8ta11o5i0"/>
+    <Keywords topic="tmt6owqmhx4775kbwof8m8"/>
+    <Keywords topic="tmt6p28rr2860pan2mx8m2"/>
+    <Keywords topic="tmt6owrt8wlvd4140w1okmb"/>
+    <Keywords topic="tmt71z9tf5bcs2m9gpp33m"/>
+    <Keywords topic="tmt6regsmv4u47bq8oim43"/>
+    <Keywords topic="tmt7aqtflu4ms2ncdllfou"/>
+    <Keywords topic="tmt70qf5b88cmg15wmvf7ad"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Toffifee Dessert","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Toffifee","unit":{"name":"Packung"},"prefix":null,"suffix":"(125 g)"},{"amount":100,"amountTo":null,"ingredient_name":"Nuss-Nougat Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"fertige Karamellsauce","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Haselnüsse","unit":null,"prefix":null,"suffix":"Nach Belieben, grob gehackt zum Garnieren"}]}],"preparation":[{"headline":null,"content":"4 der Tofifees zum Garnieren beiseite legen. Übrige Süßigkeiten in kleine Stücke schneiden."},{"headline":null,"content":"Nougatschokolade in grobe Stücke hacken und in einer Schüssel über dem heißen Wasserbad schmelzen. Beiseite stellen. Flüssige Sahne mit Mascarpone in einer Rührschüssel schaumig schlagen."},{"headline":null,"content":"1/3 der Creme abnehmen und mit Karamellsauce mischen. Karamellcreme in die vorbereiteten Gläser (á 250 ml) füllen. Mit den gehackten Toffifees bestreuen."},{"headline":null,"content":"Übrige Creme mit der flüssigen Nougatschokolade und Backkakao mischen. Ebenfalls auf die Gläser verteilen. Dessert mindestens 1 Stunde kaltstellen."},{"headline":null,"content":"Vor dem Servieren mit den beiseite gelegten Süßigkeiten und nach Belieben Haselnüssen ausgarnieren."}],"recipe_tips":[{"headline":"Leichtere Variante","content":"Schlage die Sahne steif und hebe sie unter 250 g Speisequark (20 % Fettgehalt) gemischt mit einem Pck. Vanillinzucker."}]}</CustomStructuredRecipeJson>
+    <Title>Toffifee Dessert</Title>
+    <CustomRecipeNoteInformation position="1">Portionsart: Gläser (á 250 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Toffifee Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-05T16:01:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80y4v7sn7adf9wdd28o">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix=" zum Garnieren" plural="Haselnüsse" position="7" prefix="Nach Belieben grob gehackte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11621" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(125 g)" plural="Toffifee" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" prefix="Nuss-Nougat" plural="Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="4"/>
+      <CustomRecipeIngredient topic="tmt7g19swcv55213pac038h" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Karamellsauce" prefix="fertige "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80y4vbxucl1fih7428o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">4 der Tofifees zum Garnieren beiseite legen. Übrige Süßigkeiten in kleine Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80y4vbxukvm1ag8h328o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Nougatschokolade in grobe Stücke hacken und in einer Schüssel über dem heißen Wasserbad schmelzen. Beiseite stellen. Flüssige Sahne mit Mascarpone in einer Rührschüssel schaumig schlagen. 1/3 der Creme abnehmen und mit Karamellsauce mischen. Karamellcreme in die vorbereiteten Gläser (á 250 ml) füllen. Mit den gehackten Toffifees bestreuen. Übrige Creme mit der flüssigen Nougatschokolade und Backkakao mischen. Ebenfalls auf die Gläser verteilen. Dessert mindestens 1 Stunde kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80y4vbxul406p0t128o">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vor dem Servieren mit den beiseite gelegten Süßigkeiten und nach Belieben Haselnüssen ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80y4vbxulnr1jgaeg28o">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Schlage die Sahne steif und hebe sie unter 250 g Speisequark (20 % Fettgehalt) gemischt mit einem Pck. Vanillinzucker.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Leichtere Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6841a4bc2bc78">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">2 Tage gekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80tzvz6f3it16zhqhoib" file_variant="master" position="1">Toffifee_Dessert_13311.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6841a510d8f43">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80tzvxbi59j137bibl9q" file_variant="master" position="1">Toffifee_Dessert_13327.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6841a512c0dac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80tzvvltshsca8u0jlt" file_variant="master" position="1">Toffifee_Dessert_12587.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6841a514b4686">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80tzvxd082w1mh5tceyw" file_variant="master" position="1">Toffifee_Dessert_12593.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

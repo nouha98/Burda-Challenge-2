@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88esuysoymb18lvkd1k0b" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-10T12:04:41+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-10T12:10:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt88esxhejn2taemydnz3"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vollkornbrötchen ohne Hefe","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Backen","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":254,"kilojoule":1063,"carbonhydrates":40,"fat":6,"protein":10,"breadunit":3}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Vollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. Weizen oder Dinkel)"},{"amount":2,"amountTo":null,"ingredient_name":"Sesam","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Ofen auf 180 Grad (Ober- und Unterhitze) vorheizen. Ein Blech mit Backpapier auslegen."},{"headline":null,"content":"Quark, Ei, Öl und 100 ml Wasser mit einem Schneebesen cremig rühren. Backpulver, Salz und das Mehl nach und nach zugeben und alles zu einem gleichmäßigen Teig verkneten."},{"headline":null,"content":"Teig mit feuchten Händen in 6 Portionen teilen, oval formen und auf dem Blech platzieren. Die Teiglinge mit einem scharfen Messer längs einschneiden, mit etwas Wasser bepinseln und rundherum mit dem Sesam bestreuen."},{"headline":null,"content":"Brötchen im heißen Ofen etwa 20 Minuten backen, bis sie bräunen."}],"recipe_tips":[{"headline":null,"content":"Statt Sesam kannst du auch Mohn, Kürbis- oder Sonnenblumenkerne auf die Brötchen streuen."}]}</CustomStructuredRecipeJson>
+    <Title>Vollkornbrötchen ohne Hefe</Title>
+    <CustomRecipeNutritionalValueCalories position="1">254</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1063</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">10</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Vollkornbrötchen ohne Hefe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-10T12:04:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88esuwbqhgl4u2fn1k0b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10886" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Weizen oder Dinkel)" plural="Vollkornmehl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sesam" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88esuysoebo1fbcuw1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad (Ober- und Unterhitze) vorheizen. Ein Blech mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esuysov2916yzlc1k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Quark, Ei, Öl und 100 ml Wasser mit einem Schneebesen cremig rühren. Backpulver, Salz und das Mehl nach und nach zugeben und alles zu einem gleichmäßigen Teig verkneten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esuysova0p53s71k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig mit feuchten Händen in 6 Portionen teilen, oval formen und auf dem Blech platzieren. Die Teiglinge mit einem scharfen Messer längs einschneiden, mit etwas Wasser bepinseln und rundherum mit dem Sesam bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88esuysovex1czv031k0b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Brötchen im heißen Ofen etwa 20 Minuten backen, bis sie bräunen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="88esuysovk21l15ti1k0b">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Sesam kannst du auch Mohn, Kürbis- oder Sonnenblumenkerne auf die Brötchen streuen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7es32v1c811d43d3fj" file_variant="master" position="1">Vollkornbroetchen-hoch-3657.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6af2fb852ad69">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez5yy9xetnz85cj4" file_variant="master" position="1">Schnelle_Vollkornbroetchen_ohne_Hefe_136603.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6af2fb8764949">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez5qask76187vn6j1" file_variant="master" position="1">Schnelle_Vollkornbroetchen_ohne_Hefe_136618.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6af2fb88e2ea4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7es34238parpkzo7fm" file_variant="master" position="1">Vollkornbroetchen-3656.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

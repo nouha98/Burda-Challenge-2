@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8734k7jlxkz6jpb2vvg" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-09T18:14:35+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-08-10T11:58:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt8734wufd6518k2mvz1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gratinierte Birnen mit Lebkuchen-Crunch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Birnen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"blanchierte Haselnusskerne","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Lebkuchen","unit":{"name":"g"},"prefix":null,"suffix":"(ohne Glasur)"},{"amount":1,"amountTo":2,"ingredient_name":"grüne Pfefferkörner","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":null,"prefix":null,"suffix":"für die Form"},{"amount":4,"amountTo":null,"ingredient_name":"Birnen- oder Zitronensorbet","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine ofenfeste Form mit Butter fetten."},{"headline":null,"content":"Die Birnen halbieren und das Kerngehäuse herausstechen. Die Birnenhälften mit Zitronensaft vermengen."},{"headline":null,"content":"Haselnüsse grob hacken. Lebkuchen fein zerbröseln."},{"headline":null,"content":"Pfefferkörner im Mörser zerstoßen, dann mit dem Honig verrühren."},{"headline":null,"content":"Die Birnenhälften mit den Schnittflächen nach oben in die Form legen und mit Pfeffer-Honig beträufeln. Die Butter in Flöckchen darauf verteilen."},{"headline":null,"content":"Gehackte Haselnüsse und Lebkuchenbrösel darüberstreuen. Das Ganze im Ofen 15–20 Minuten backen."},{"headline":null,"content":"Anschließend kurz abkühlen lassen. Die gratinierten Birnen mit Sorbet auf Tellern anrichten und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Gratinierte Birnen mit Lebkuchen-Crunch</Title>
+    <Headline position="1">Gratinierte Birnen mit Lebkuchen-Crunch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-09T18:14:35+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8734k95q88gjp61nhvh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Birnen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="3" prefix="blanchierte" plural="Haselnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7711" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ohne Glasur)" plural="Lebkuchen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" amount_max="2" prefix="grüne" plural="Pfefferkörner"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="für die Form" plural="Butter" position="8"/>
+      <CustomRecipeIngredient topic="tmt8734vqot8jpavz0avym" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="9" prefix="Kugeln" plural="Birnensorbet" suffix="oder Zitronensorbet (Rezept siehe Info)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8734kc3m80l110hw9hvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine ofenfeste Form mit Butter fetten. Die Birnen halbieren und das Kerngehäuse herausstechen. Die Birnenhälften mit Zitronensaft vermengen. Haselnüsse grob hacken. Lebkuchen fein zerbröseln. Pfefferkörner im Mörser zerstoßen, dann mit dem Honig verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8734kc3mbcptwvs7hvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Birnenhälften mit den Schnittflächen nach oben in die Form legen und mit Pfeffer-Honig beträufeln. Die Butter in Flöckchen darauf verteilen. Gehackte Haselnüsse und Lebkuchenbrösel darüberstreuen. Das Ganze im Ofen 15–20 Minuten backen. Anschließend kurz abkühlen lassen. Die gratinierten Birnen mit Sorbet auf Tellern anrichten und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Sorbet zu den Birnen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Für das Birnensorbet 100 g Zucker mit 100 ml Wasser zu einem Sirup kochen. Abkühlen lassen. 300 g Birnen schälen, entkernen, würfeln. Mit Saft von 1/2 Zitrone und Sirup mischen, dann fein pürieren. In der Eismaschine in ca. 30 Minuten cremig gefrieren lassen. Für das Zitronensorbet 300 ml Wasser mit 150 g Zucker und 120 ml Zitronensaft aufkochen. Abkühlen lassen. 1 Eiweiß mit 1 Prise Salz steif schlagen, unterheben. Masse in der Eismaschine in ca. 30 Minuten gefrieren lassen. Sorbet bis zum Servieren tiefkühlen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Grantinierte Birnen mit grünem Pfeffer und Lebkuchenbrösel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Stile Italia Edizioni / Giorgi, Stefania</ImageCredit>
+      <DocumentRef doc_id="doc7xtjrewqg08idqs1ug" file_variant="master" position="1">Grantinierte Birnen mit grünem Pfeffer und Lebkuchenbrösel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

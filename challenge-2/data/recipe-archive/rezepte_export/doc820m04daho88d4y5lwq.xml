@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820m04daho88d4y5lwq" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T13:11:05+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-08-19T13:11:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="10"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"American Pancakes","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":175,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Fett","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"zum Braten"},{"amount":null,"amountTo":null,"ingredient_name":"Beeren","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Alle Zutaten miteinander verrühren, bis ein gleichmäßiger Teig entstanden ist. Etwas Fett in eine Pfanne geben und auf mittlerer Stufe erhitzen."},{"headline":null,"content":"Je 2 EL Teig in die Pfanne geben. Die Pancakes sollten etwa einen Durchmesser von ca. 10 cm haben. Pancake circa 2 Minuten ausbacken, bis sich kleine Bläschen bilden, dann wenden und von der anderen Seite ebenfalls solange ausbacken."},{"headline":null,"content":"American Pancakes mit Beeren und Ahornsirup garnieren und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Headline position="1">American Pancakes</Headline>
+    <Title>American Pancakes</Title>
+    <CustomRecipeServing amount="10"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T13:11:05+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820m015l6e91a9yrblwq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="175" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="zum Braten" plural="Fett" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" plural="Beeren" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" plural="Ahornsirup" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820m04dagqos9izxlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten miteinander verrühren, bis ein gleichmäßiger Teig entstanden ist. Etwas Fett in eine Pfanne geben und auf mittlerer Stufe erhitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m04dagxgojarlwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Je 2 EL Teig in die Pfanne geben. Die Pancakes sollten etwa einen Durchmesser von ca. 10 cm haben. Pancake circa 2 Minuten ausbacken, bis sich kleine Bläschen bilden, dann wenden und von der anderen Seite ebenfalls solange ausbacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m04dah1f1md0i7lwq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">American Pancakes mit Beeren und Ahornsirup garnieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83gfvzjuc8918pd8gkxn" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-28T09:06:09+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-28T09:15:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtmd1gqeifdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Stockbrot","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Backen","duration":15},{"name":"Ruhen/Warten","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Type 550)"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":60,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":120,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl mit Backpulver und Salz mischen. Quark mit den Eiern glattrühren, mit Milch, Öl und der Mehlmischung zu einem geschmeidigen Teig verkneten und 20 Minuten ruhen lassen."},{"headline":null,"content":"Lagerfeuer vorbereiten oder Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und 8 geeignete Holzstöcke (alternativ Kochlöffel oder dicke Schaschlikspieße) in Wasser einweichen."},{"headline":null,"content":"Teig in 8 Portionen teilen, zu ca. 30 cm langen Würsten formen und um die Holzstücke wickeln. Dabei die Enden fest andrücken, damit sie beim Drehen über dem Feuer nicht aufgehen."},{"headline":null,"content":"Stockbrot am Lagerfeuer bei gelegentlichen Drehen oder im vorgeheizten Backofen ca. 15 Minuten backen."},{"headline":null,"content":"Stockbrot etwas auskühlen lassen und aus der Hand gezupft genießen."}],"recipe_tips":[{"headline":"Gefülltes Stockbrot","content":"Rolle die Teigwürste dünn aus, belege sie z.B. mit Pesto, getrockneten Tomaten oder geriebenem Käse, verschließe die Kanten und wickle sie dann um die Holzstöcke."}]}</CustomStructuredRecipeJson>
+    <Title>Stockbrot</Title>
+    <Headline position="1">Stockbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-28T09:06:09+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83gfvx07x6w1ho7hukxn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Type 550)" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83gfvzjub3tyeci0kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Backpulver und Salz mischen. Quark mit den Eiern glattrühren, mit Milch, Öl und der Mehlmischung zu einem geschmeidigen Teig verkneten und 20 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Stockbrotteig ohne Hefe</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83gfvzjuba8cc5okkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lagerfeuer vorbereiten oder Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und 8 geeignete Holzstöcke (alternativ Kochlöffel oder dicke Schaschlikspieße) in Wasser einweichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83gfvzjubedebk1kxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Teig in 8 Portionen teilen, zu ca. 30 cm langen Würsten formen und um die Holzstücke wickeln. Dabei die Enden fest andrücken, damit sie beim Drehen über dem Feuer nicht aufgehen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83gfvzjubhgcka6mkxn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Stockbrot am Lagerfeuer bei gelegentlichen Drehen oder im vorgeheizten Backofen ca. 15 Minuten backen. Stockbrot etwas auskühlen lassen und aus der Hand gezupft genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83gfvzjuboiu0zgukxn">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Rolle die Teigwürste dünn aus, belege sie z.B. mit Pesto, getrockneten Tomaten oder geriebenem Käse, verschließe die Kanten und wickle sie dann um die Holzstöcke.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gefülltes Stockbrot</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9glz6r1l11xg2y8pk" file_variant="master" position="1">Stockbrot ohne Hefe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69295a0160928">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9gp0p38lzhonn1f26" file_variant="master" position="1">Stockbrot ohne Hefe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69295a0307474">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9gheip5l24eu1dlg" file_variant="master" position="1">Stockbrot ohne Hefe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69295a0471d33">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9gkqku1235e871dlg" file_variant="master" position="1">Stockbrot ohne Hefe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

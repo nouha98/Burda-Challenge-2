@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc874ji2pvbv6l7roe1pe2" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-12T12:20:13+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-12T12:42:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt874jskiotva10weedp2q"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Papaya-Smoothie","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Papaya","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"(daumengroß)"},{"amount":250,"amountTo":null,"ingredient_name":"Kokosdrink","unit":{"name":"ml"},"prefix":null,"suffix":"(ungesüßt; alternativ: Kokoswasser)"},{"amount":1,"amountTo":null,"ingredient_name":"Kurkuma","unit":{"name":"TL"},"prefix":null,"suffix":"Pulver (optional)"}]}],"preparation":[{"headline":null,"content":"Papaya halbieren, schälen, die Kerne mit einem Löffel herauslösen und das Fruchtfleisch grob schneiden. Banane schälen und ebenfalls grob schneiden. Orange auspressen. Ingwer schälen und in Stücke schneiden."},{"headline":null,"content":"Papaya-, Bananen- und Ingwer-Stücke zusammen mit dem Orangensaft und dem Kokosdrink in einen (Hochleistungs-) Mixer geben und fein pürieren. Ggfs. mit Kurkuma-Pulver abschmecken und den Smoothie mit Papaya servieren."}],"recipe_tips":[{"headline":null,"content":"Die Kerne der Papaya schmecken leicht scharf. Wenn du es etwas schärfer magst, kannst du 1-2 TL der Kerne mitpürieren."}]}</CustomStructuredRecipeJson>
+    <Title>Papaya-Smoothie</Title>
+    <Headline position="1">Papaya-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-12T12:20:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="874ji16y2xdii2ua1pe2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8561" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Papaya" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine" plural="Orangen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(daumengroß)" plural="Ingwer" position="4"/>
+      <CustomRecipeIngredient topic="tmt7gr2825xd4h19saikbxs" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ungesüßt; alternativ: Kokoswasser)" plural="Kokosdrink" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="Pulver (optional)" plural="Kurkuma" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="874ji2pv1opi8cwe1pe2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Papaya halbieren, schälen, die Kerne mit einem Löffel herauslösen und das Fruchtfleisch grob schneiden. Banane schälen und ebenfalls grob schneiden. Orange auspressen. Ingwer schälen und in Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="874ji2pv74z1cokiq1pe2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Papaya-, Bananen- und Ingwer-Stücke zusammen mit dem Orangensaft und dem Kokosdrink in einen (Hochleistungs-) Mixer geben und fein pürieren. Ggfs. mit Kurkuma-Pulver abschmecken und den Smoothie mit Papaya servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="874ji2pv7cpxipg61pe2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Kerne der Papaya schmecken leicht scharf. Wenn du es etwas schärfer magst, kannst du 1-2 TL der Kerne mitpürieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>eatbetter Papaya Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7jmrtjcpbutss70t58w" file_variant="master" position="1">PapayaSmoothie2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a7c4e2643d86">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>eatbetter Papaya Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7jmrqr2bnj71ee636alk" file_variant="master" position="1">PapayaSmoothieStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a7c4e27e1b2b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>eatbetter Papaya Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7jmrq1clokj5usj2alk" file_variant="master" position="1">PapayaSmoothie1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

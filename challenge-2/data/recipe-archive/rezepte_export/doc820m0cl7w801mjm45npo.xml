@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820m0cl7w801mjm45npo" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T13:11:35+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-08-19T13:11:35+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="30"/>
+    <CustomRecipePreparation topic="tm_topic_default_unit" name="(Keine Einheit)" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" name="Kühlen" minutes="45"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spiegelei Muffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Backen","duration":25},{"name":"Kühlen","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Muffins","ingredients":[{"amount":125,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Aprikosenhälften","unit":{"name":"Dose"},"prefix":null,"suffix":"(Abtropfgewicht: 240g)"}]},{"headline":"Für das Topping","ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Vanillepuddingpulver","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":175,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Butter mit Zucker cremig rühren. Eier nach und nach unterrühren. Mehl mit Backpulver und Salz vermischen und zur Eiermischung geben. Milch hinzugeben und alles gut verrühren."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Ein Muffinblech (12 Mulden) mit Förmchen auslegen. Mit einem Eisportionierer den Teig auf die Förmchen verteilen. Aprikosenhälften in einem Sieb abtropfen lassen. 12 schöne Aprikosenhälften für das Topping beiseitelegen. Die restlichen Aprikosen würfeln und auf die Muffins verteilen, etwas in den Teig drücken."},{"headline":null,"content":"Muffins im vorgeheizten Ofen ca. 25 Min. goldgelb backen. Muffins vollständig auskühlen lassen."},{"headline":null,"content":"Währenddessen für das Topping Vanillepuddingpulver mit Milch und Zucker verrühren und in einem Topf unter Rühren zum Kochen bringen. 1-2 Min. köcheln, dann vom Herd nehmen und direkt in eine Müslischale gießen. Pudding direkt auf der Oberfläche mit Frischhaltefolie abdecken, damit sich keine Puddinghaut bildet. Auskühlen lassen."},{"headline":null,"content":"Ausgekühlten Pudding mit Schmand verrühren, bis keine Klümpchen mehr übrig sind. Creme in einen Spritzbeutel füllen, Spitze abschneiden. Mit dem Spritzbeutel auf jeden Muffin eine Spiegelei-Form aus Creme spritzen, zuerst die Umrandungen, dann füllen. Ggf. mit einem Teelöffel glatt streichen."},{"headline":null,"content":"Auf jeden Muffin eine Aprikosenhälfte als Eidotter legen. Bis zum Servieren kaltstellen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Headline position="1">Spiegelei Muffins</Headline>
+    <Title>Spiegelei Muffins</Title>
+    <CustomRecipeServing amount="12"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T13:11:35+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820m08a4pe810wrvnpo">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt7gx3r4vguzao3sjd2ko" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(Abtropfgewicht: 240g)" plural="Aprikosenhälften" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader>Für die Muffins</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="820m0ayv8z61gpar7npo">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10806" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanillepuddingpulver" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="175" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader>Für das Topping</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7q7kikuignpo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter mit Zucker cremig rühren. Eier nach und nach unterrühren. Mehl mit Backpulver und Salz vermischen und zur Eiermischung geben. Milch hinzugeben und alles gut verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7v7cectqonpo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Ein Muffinblech (12 Mulden) mit Förmchen auslegen. Mit einem Eisportionierer den Teig auf die Förmchen verteilen. Aprikosenhälften in einem Sieb abtropfen lassen. 12 schöne Aprikosenhälften für das Topping beiseitelegen. Die restlichen Aprikosen würfeln und auf die Muffins verteilen, etwas in den Teig drücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7vchowuy5npo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Muffins im vorgeheizten Ofen ca. 25 Min. goldgelb backen. Muffins vollständig auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7vh112o1j2npo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Währenddessen für das Topping Vanillepuddingpulver mit Milch und Zucker verrühren und in einem Topf unter Rühren zum Kochen bringen. 1-2 Min. köcheln, dann vom Herd nehmen und direkt in eine Müslischale gießen. Pudding direkt auf der Oberfläche mit Frischhaltefolie abdecken, damit sich keine Puddinghaut bildet. Auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7vkm1md33pnpo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Ausgekühlten Pudding mit Schmand verrühren, bis keine Klümpchen mehr übrig sind. Creme in einen Spritzbeutel füllen, Spitze abschneiden. Mit dem Spritzbeutel auf jeden Muffin eine Spiegelei-Form aus Creme spritzen, zuerst die Umrandungen, dann füllen. Ggf. mit einem Teelöffel glatt streichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820m0cl7voh16aglmnpo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Auf jeden Muffin eine Aprikosenhälfte als Eidotter legen. Bis zum Servieren kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

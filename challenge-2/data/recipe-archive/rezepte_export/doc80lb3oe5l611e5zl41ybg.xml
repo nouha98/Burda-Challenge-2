@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80lb3oe5l611e5zl41ybg" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-11T16:53:53+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-29T09:04:20+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="690"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Keywords topic="tmt6qeidrjasv8weus09pc"/>
+    <Keywords topic="tmt6ueaq1d7uw91eswso328"/>
+    <Keywords topic="tmt7byswuckqygo3d6w1to"/>
+    <Keywords topic="tmt6owqkttyj4k11g8kp8ly"/>
+    <Keywords topic="tmt6owqairn0yhecfve8m0"/>
+    <Keywords topic="tmt6owqmhx4775kbwof8m8"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="6"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Weiße Schokoladencreme","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Kühlen","duration":690}],"difficulty":"mittel","price":"Teuer","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"weiße Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"tiefgefrorene Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Himbeeren zum Garnieren","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kuvertüre grob hacken. Sahne in einem Topf aufkochen. Kuvertüre zugeben und den Topf von der Herdplatte ziehen. Unter gelegentlichem Rühren auflösen lassen. Ca. 5 Minuten abkühlen lassen."},{"headline":null,"content":"Mascarpone mit Joghurt glatt rühren. Lauwarmen Schokoladenmix einrühren. Schokoladencreme auf sechs vorbereitete Dessertgläser (á 150 ml) verteilen und 60 Minuten kühlstellen."},{"headline":null,"content":"Himbeeren antauen lassen und mit dem Vanillinzucker pürieren. Durch ein grobes Sieb streichen um die Kerne zu entfernen. Fruchtmark auf die Gläser verteilen und bis zum Servieren kalt stellen. Nach Belieben mit weiteren Himbeeren oder Schokolade ausgarnieren."}],"recipe_tips":[{"headline":"Vorbereiten","content":"Du kannst die Creme bereits zwei Tage im Voraus zubereiten und abgedeckt kühl stellen. Das Himbeerpüree erst am Tag des Verzehrs zubereiten und die Gläser ausgarnieren."}]}</CustomStructuredRecipeJson>
+    <Title>Weiße Schokoladencreme</Title>
+    <CustomRecipeNoteInformation position="1">Portionsart: Gläser (á 150 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Weiße Schokoladencreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-11T16:53:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80lb3kg6iw41cvnyg1ybg">
+      <CustomRecipeIngredient topic="tmt7zixv533a83hn81p9ws" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiße Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zi4uapwewziyqchifb" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="tiefgefrorene Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="7" plural="Himbeeren " prefix="frische" suffix="zum Garnieren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80lb3oe5jzp1541xd1ybg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kuvertüre grob hacken. Sahne in einem Topf aufkochen. Kuvertüre zugeben und den Topf von der Herdplatte ziehen. Unter gelegentlichem Rühren auflösen lassen. Ca. 5 Minuten abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb3oe5k7drfrnp1ybg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mascarpone mit Joghurt glatt rühren. Lauwarmen Schokoladenmix einrühren. Schokoladencreme auf sechs vorbereitete Dessertgläser (á 150 ml) verteilen und 60 Minuten kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80lb3oe5kc012nw031ybg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Himbeeren antauen lassen und mit dem Vanillinzucker pürieren. Durch ein grobes Sieb streichen um die Kerne zu entfernen. Fruchtmark auf die Gläser verteilen und bis zum Servieren kalt stellen. Nach Belieben mit weiteren Himbeeren oder Schokolade ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80lb3oe5kgx1688381ybg">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Creme bereits zwei Tage im Voraus zubereiten und abgedeckt kühl stellen. Das Himbeerpüree erst am Tag des Verzehrs zubereiten und die Gläser ausgarnieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vorbereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6821dbb1624ca">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">3 Tage gekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpe0cjtd21ff1m0ny2" file_variant="master" position="1">Weisse_Schokoladencreme_25133.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6821dbee7e9bd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpe074e2qoxtvfvt0" file_variant="master" position="1">Weisse_Schokoladencreme_25122.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6821dbefed39d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpdyr4vmd10ouizvdn" file_variant="master" position="1">Weisse_Schokoladencreme_24299.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6821dbf1805da">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc80lpe1tb62fo1lobvrt" file_variant="master" position="1">Weisse_Schokoladencreme_24872.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

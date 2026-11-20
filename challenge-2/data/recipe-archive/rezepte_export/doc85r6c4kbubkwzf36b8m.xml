@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85r6c4kbubkwzf36b8m" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-08T10:31:48+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-07-09T10:08:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnlh15moldo5"/>
+    <Source topic="tmt85r6fqn9bgo4xayebad"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeNutritionalValueCalories position="1">345</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">48</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Röstgemüse mit Curry-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-08T10:31:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7jy3qu0jdnniiqdqlok" position="1" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Bio-" plural="Bundmöhren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8676" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Petersilienwurzeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="3" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kleine Bio-" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="4" amount="1" plural="Knoblauchzehen" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" position="5" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Thymian"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10291" position="7" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="(z. B. Rapsöl)" plural="Speiseöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" plural="Pfeffer" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Gemüse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69fda05a8dfd5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(0,1 % Fett)" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9656" position="2" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Saure Sahne"/>
+      <CustomRecipeIngredient topic="tmt80gmyt8a6fq1bu7bpgzt" position="3" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="flüssiger Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" position="4" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Currypulver"/>
+      <CustomRecipeIngredient topic="tmt80j6wk3fz7t1bh64fgip" position="5" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="grober Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" plural="Pfeffer" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="8" suffix="zum Garnieren" plural="Petersilie" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Joghurt-Dip</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Grün der Möhren entfernen, Möhren gut waschen (schälen nicht nötig). Petersilienwurzeln und nach Belieben Kartoffeln schälen. Petersilienwurzeln vierteln und quer in Scheiben schneiden, Kartoffeln in Spalten.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69fda0bf7a3b7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Knoblauch abziehen, hacken. Thymianblättchen abzupfen, fein hacken. Thymian, Paprikapulver, Knoblauch und Öl verrühren. Gemüse und Kartoffeln darin wenden, mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69fda0d1d02f4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Gemüsemischung in den Garkorb des Airfryers geben (je nach Größe des Geräts in 2-3 Portionen). Bei 160 Grad 20 Minuten backen. Dabei einmal wenden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69fda0e0bbdda">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für den Dip Joghurt, saure Sahne, Honig, Curry und Senf verrühren, mit Salz und Pfeffer würzen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69fda0ef2ad55">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Gemüse auf Tellern anrichten. Mit grob gezupfter Petersilie bestreuen und mit dem Joghurt-Dip servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Herbstgemüse aus der Heißluftfritteuse mit Senfdip</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc84gfdkswod1tmvrskdz" file_variant="master" position="1">Herbstgemüse aus der Heißluftfritteuse mit Senfdip</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

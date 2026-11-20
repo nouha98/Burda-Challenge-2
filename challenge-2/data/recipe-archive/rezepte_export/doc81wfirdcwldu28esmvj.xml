@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81wfirdcwldu28esmvj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-11T09:56:22+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-08-11T10:06:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Freak Shake","recipe_seo_headline":"Freak Shake – das weltbeste Rezept","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Shake","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Vanilleeis","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Deko","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schokosoße","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schokolinsen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zuckerperlen","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Süßigkeiten deiner Wahl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Vanilleschote längs halbieren und das Mark auskratzen. Milch und Sahne in einen Topf geben und mit dem Vanillemark kurz aufkochen. Abkühlen lassen. Die abgekühlte Mischung zusammen mit dem Vanilleeis im Mixer cremig rühren. Für 30 Minuten tiefkühlen."},{"headline":null,"content":"Währenddessen Sahne mit Vanillezucker steif schlagen und die Gläser von innen mit der Schokosoße verzieren. Den gekühlten Shake einfüllen und mit der Schlagsahne toppen. Mit Schokosoße, Schokolinsen und Süßigkeiten verzieren und sofort servieren."}],"recipe_tips":[{"headline":"Ganz nach deinem Geschmack!","content":"Du kannst den Freak Shake auch mit Schoko- oder Erdbeereis machen. Auch bei der Deko sind deiner Fantasie keine Grenzen gesetzt."}]}</CustomStructuredRecipeJson>
+    <Title>Freak Shake</Title>
+    <CustomRecipeSeoTitle position="1">Freak Shake – das weltbeste Rezept</CustomRecipeSeoTitle>
+    <Headline position="1">Freak Shake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-11T09:56:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81wfios7xah12nrjlmvj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10781" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Vanilleeis" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Shake</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81wfipjche81hgo36mvj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9836" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" plural="Schokosauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9826" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Schokolinsen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zuckerperlen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11431" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="6" plural="Zuckerdekor" suffix="(Süßigkeiten deiner Wahl)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Deko</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81wfirdcv2810ugi8mvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Vanilleschote längs halbieren und das Mark auskratzen. Milch und Sahne in einen Topf geben und mit dem Vanillemark kurz aufkochen. Abkühlen lassen. Die abgekühlte Mischung zusammen mit dem Vanilleeis im Mixer cremig rühren. Für 30 Minuten tiefkühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Shake</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wfirdcvcx1d4m30mvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Währenddessen Sahne mit Vanillezucker steif schlagen und die Gläser von innen mit der Schokosoße verzieren. Den gekühlten Shake einfüllen und mit der Schlagsahne toppen. Mit Schokosoße, Schokolinsen und Süßigkeiten verzieren und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Deko</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81wfirdcviramj4ymvj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst den Freak Shake auch mit Schoko- oder Erdbeereis machen. Auch bei der Deko sind deiner Fantasie keine Grenzen gesetzt.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ganz nach deinem Geschmack!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81awt2u71b6195x93rry" file_variant="master" position="1">Freakshake3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6899a46b5ebb2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81awsyknuydsmv1xrql" file_variant="master" position="1">FreakshakeStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vanilleschote auskratzen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_6899a46d54799">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81awssogbxc3ikqolws" file_variant="master" position="1">FreakshakeStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schokosoße in Gläser verteilen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_6899a4701dde1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81awt1o93zm1cioctrr2" file_variant="master" position="1">Freakshake1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6899a471d93be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81awsvoa9341n16xurql" file_variant="master" position="1">Freakshake2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

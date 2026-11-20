@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821jhlx3y0g14ghiu2h8" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-21T08:37:53+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-09-24T10:17:15+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Käsebrot backen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Backen","duration":35}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"geriebener Käse","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl mit Backpulver und Salz vermischen. Milch und Käse hinzugeben und alles kurz miteinander verkneten, bis ein Teig daraus entstanden ist."},{"headline":null,"content":"Silikon-Kastenform (25x11cm) kurz mit kaltem Wasser ausschwenken, nicht abtrocknen. Normale Kastenform gut einfetten."},{"headline":null,"content":"Ofen auf 200 Grad (Umluft 180 Grad) vorheizen und das Brot in die Form geben. Brot ca. 30-35 Min. backen, dann vollständig auskühlen lassen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Käsebrot backen</Title>
+    <Headline position="1">Käsebrot backen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-21T08:37:53+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821jhlc2kltbssts2h8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="geriebener Käse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821jhlx3xhc1e2vdy2h8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ofen auf 200 Grad (Umluft 180 Grad) vorheizen. Silikon-Kastenform (25x11cm) kurz mit kaltem Wasser ausschwenken, nicht abtrocknen. Normale Kastenform gut einfetten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821jhlx3x43jbo2c2h8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Backpulver und Salz vermischen. Milch und Käse hinzugeben und alles kurz miteinander verkneten, bis ein Teig daraus entstanden ist. Das Brot in die Form geben. Brot ca. 30-35 Min. backen, dann vollständig auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Einfaches Schinken-Käse-Brot</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Für ein Käsebrot mit Schinken kannst du 150 g Schinkenwürfel zum Teig hinzufügen und das Brot ebenso backen. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

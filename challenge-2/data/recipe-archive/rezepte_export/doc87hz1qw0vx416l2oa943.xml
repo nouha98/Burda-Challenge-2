@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87hz1qw0vx416l2oa943" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-07T15:43:14+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-09-07T16:36:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-superilluguterrat"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <Source topic="tmt87hzqfsxuht5yydi9hi"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Herzhafte gefüllte Grill-Champignons","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":50}],"difficulty":null,"price":null,"nutritions":{"calories":250,"kilojoule":1047,"carbonhydrates":4,"fat":18,"protein":18,"breadunit":0}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":16,"amountTo":null,"ingredient_name":"Champignons","unit":{"name":"Stück"},"prefix":"gleichgroße braune","suffix":null},{"amount":130,"amountTo":null,"ingredient_name":"geräucherter Schinkenspeck","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schalotten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"Stück"},"prefix":"rote","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Pecorino","unit":{"name":"g"},"prefix":null,"suffix":"gerieben"},{"amount":0.5,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Grill auf mittlere Hitze vorheizen. Pilze putzen und evtl. feucht abreiben. Stiele herausdrehen. Trockene Stielenden knapp abschneiden. Die Stiele fein hacken."},{"headline":null,"content":"Schinken in dünne Streifen schneiden. Schalotten abziehen und fein würfeln. Die Paprika abbrausen, putzen und fein würfeln. Petersilie abbrausen, putzen und die Blättchen fein hacken."},{"headline":null,"content":"Gehackte Pilzstiele, Schalotten, Schinken, Paprika, Petersilie und Öl mischen. Salzen und pfeffern. Die Masse in die Pilzhüte füllen und evtl. mit dem Teelöffel festdrücken."},{"headline":null,"content":"Den Pecorino reiben und auf die Füllung streuen. Pilzhüte auf eine Grillplatte oder eine Grillschale setzen. Die Pilze 20–30 Minuten bei indirekter Hitze und geschlossenem Deckel goldbraun grillen."},{"headline":null,"content":"Schnittlauch abbrausen, trocken schütteln und in feine Röllchen schneiden. Pilze auf einer Platte anrichten und mit den Schnittlauchröllchen bestreuen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Herzhafte gefüllte Grill-Champignons</Title>
+    <CustomRecipeNutritionalValueCalories position="1">250</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1047</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">4</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">18</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">18</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Herzhafte gefüllte Grill-Champignons</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-07T15:43:14+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87hz1u3eph45sdtf1ztv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" amount="16" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="gleichgroße braune" plural="Champignons" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9711" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" prefix="geräucherter" plural="Schinkenspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schalotten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="rote" plural="Paprika" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8611" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Pecorino" position="9" prefix="geriebener"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87hz1ze11sp1ezze01ztv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Grill auf mittlere Hitze vorheizen. Pilze putzen und evtl. feucht abreiben. Stiele herausdrehen. Trockene Stielenden knapp abschneiden. Die Stiele fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87hz1ze19mdkizkm1ztv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schinken in dünne Streifen schneiden. Schalotten abziehen und fein würfeln. Die Paprika abbrausen, putzen und fein würfeln. Petersilie abbrausen, putzen und die Blättchen fein hacken. Mit gehackten Pilzstielen, Schalotten, Schinken, Paprika und Öl mischen. Salzen und pfeffern. Die Masse in die Pilzhüte füllen. Evtl. mit dem Teelöffel festdrücken. Den Pecorino reiben und auf die Füllung streuen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87hz1ze19qw149nsi1ztv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Pilzhüte auf eine Grillplatte oder eine Grillschale setzen. Die Pilze 20–30 Min. bei indirekter Hitze und geschlossenem Deckel goldbraun grillen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87hz1ze19ub1bvz8b1ztv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Schnittlauch abbrausen, trocken schütteln und in feine Röllchen schneiden. Pilze auf einer Platte anrichten und mit den Schnittlauchröllchen bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7do2kr49rr6javvw2ge" file_variant="master" position="1">Gegrillte, gef llte Pilze</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

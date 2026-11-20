@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ekvzxfpw2w1icjglolh" dcx-version="6.3.1" version="1.0">
+  <created>2021-02-19T11:01:31+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:24+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7ddcpxd417s194j5t1qs"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7ddcpxd417s194j5t1qs"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <Keywords topic="tmt7ekw6e1lckomkdeg9k"/>
+    <DateImported>2021-02-19T11:01:31+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">510</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">64</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">21</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Brezelknödel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5126" position="1" amount="5" plural="Brezel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="2" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="3" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="5" amount="3" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="6" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" position="7" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" prefix="frisch gemahlene" plural="Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Brezeln klein schneiden und in eine Schüssel geben. Milch erhitzen, zu den Brezelstücken geben, alles vermengen. Die Zwiebel abziehen, fein würfeln und in der Butter dünsten, zu der Knödelmasse geben. 30 Min. ruhen lassen. Eier untermengen und die Masse mit Salz, Pfef-fer und Muskat würzen. 20 Min. ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_602f8dcc52ff4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Einen Bogen Alufolie auf der Arbeitsplatte ausbreiten. Darauf einen Bogen Frischhalte-folie legen. Die Hälfte der Knödelmasse längs darauf verteilen. Die Masse zuerst in die Frischhaltefolie wickeln, dann in die Alufolie einschlagen. Die Enden der entstandenen Wurst fest zusammendrehen. Die übrige Knödelmasse ebenso vorbereiten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_602f8ddade998">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einem großen, weiten Topf Wasser aufko-chen und die Brezelknödel in dem leicht sieden-den Wasser ca. 20 Min. ziehen lassen. Knödel herausnehmen, auswickeln und in 1 1/2 – 2 cm dicke Scheiben schneiden. Öl in einer Pfanne erhitzen, die Scheiben darin anbraten. Dazu schmeckt eine Tomaten-Vinaigrette.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">f r ZS Verlag / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc7bjy5tg59tf13rui451e" file_variant="master" position="1">Gegrillte Brezelkn del mit Tomatenvinaigrette</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

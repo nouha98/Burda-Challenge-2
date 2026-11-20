@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81aydrbk2fl1d8k8kl5c" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-30T14:49:12+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-07-02T09:31:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Keywords topic="tmt6p28mkff2zth7la68m6"/>
+    <Keywords topic="tmt6ovk4fzpamapxahpnug"/>
+    <Keywords topic="tmt6q2gzirpkmhsgqw41x2"/>
+    <Keywords topic="tmt6reg0bb9ejp802qim42"/>
+    <Keywords topic="tmt81bvar3kph41fte8me6d"/>
+    <Keywords topic="tmt6owqmhx4775kbwof8m8"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Oreo Eis","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":1440}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für das Eis","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Kondensmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Oreokekse","unit":{"name":"g"},"prefix":null,"suffix":"(1 Packung)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Oreokekse aus der Packung nehmen und auf einem Brett mit einem Messer in grobe Stücke schneiden. Dann die Mascarpone mit der Sahne glatt rühren und die Kondensmilch in einem dünnen Strahl hineinfließen lassen. Eine Vanilleschote mit einem glatten Küchenmesser der Länge nach aufschneiden und das Mark mit dem Messerrücken auskratzen. Das Vanillemark zur Mascarpone-Sahne Masse hinzugeben und gut rühren. Die Masse dann für ca. 3 Stunden abkühlen lassen und währenddessen immer mal wieder umrühren. Wer eine Eismaschine zur Verfügung hat, kann die Mascarpone Sahne Mischung in den Eiszubereiter geben und für 10 Minuten unter ständigem Rühren cremig gefrieren lassen."},{"headline":null,"content":"Wenn die Masse nun gefroren und kompakt ist, können die Oreostücke mit eingerührt werden."},{"headline":null,"content":"Die Eismischung zuletzt in einem Behältnis über Nacht gefrieren lassen. Am nächsten Tag kann das Oreo-Eis verzehrt werden."}],"recipe_tips":[{"headline":"Eismaschine Alternative","content":"Wer keine Eismaschine zur Verfügung hat, kann die Mascarpone-Sahne Mischung auch selbstverständlich in einem Behälter gefrieren lassen. Dabei ist zu beachten, dass die Eismischung immer wieder umgerührt werden sollte."}]}</CustomStructuredRecipeJson>
+    <Title>Oreo Eis</Title>
+    <CustomRecipeNoteInformation position="1">Kühlzeit: Über Nacht</CustomRecipeNoteInformation>
+    <Headline position="1">Oreo Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-30T14:49:12+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81aydosq3tf1n2vnwl5c">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7151" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1 Packung)" position="4" prefix="Oreo-" plural="Kekse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7356" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Kondensmilch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Eis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81aydrbjd901ahma9l5c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Oreokekse aus der Packung nehmen und auf einem Brett mit einem Messer in grobe Stücke schneiden. Dann die Mascarpone mit der Sahne glatt rühren und die Kondensmilch in einem dünnen Strahl hineinfließen lassen. Eine Vanilleschote mit einem glatten Küchenmesser der Länge nach aufschneiden und das Mark mit dem Messerrücken auskratzen. Das Vanillemark zur Mascarpone-Sahne Masse hinzugeben und gut rühren. Die Masse dann für ca. 3 Stunden abkühlen lassen und währenddessen immer mal wieder umrühren. Wer eine Eismaschine zur Verfügung hat, kann die Mascarpone Sahne Mischung in den Eiszubereiter geben und für 10 Minuten unter ständigem Rühren cremig gefrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81aydrbjp5218f9dil5c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Wenn die Masse nun gefroren und kompakt ist, können die Oreostücke mit eingerührt werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81aydrbjpe0zg0gzl5c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Eismischung zuletzt in einem Behältnis über Nacht gefrieren lassen. Am nächsten Tag kann das Oreo-Eis verzehrt werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81aydrbjpjp19rsxil5c">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer keine Eismaschine zur Verfügung hat, kann die Mascarpone-Sahne Mischung auch selbstverständlich in einem Behälter gefrieren lassen. Dabei ist zu beachten, dass die Eismischung immer wieder umgerührt werden sollte.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Eismaschine Alternative</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6864df90563b7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Gekühlt, 2 Tage</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc810qthfg62x5bgw5jl5" file_variant="master" position="1">OreoEis3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6864e02e49be4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc810qtuk9ggy2bwaymxs" file_variant="master" position="1">OreoEis2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6864e03070f43">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc810qu6a1w2e1gm8g6myo" file_variant="master" position="1">OreoEis1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6864e03226565">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc810qtn7pguc16ov0ymxs" file_variant="master" position="1">OreoEisStep2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6864e0344f075">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc810qu08lcz71ha46hmyo" file_variant="master" position="1">OreoEisStep1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786ajvtbi8w1kobmh2mn" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T16:12:12+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2024-12-03T09:59:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="70"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt7s8ozhdsb6w17h71lm6h"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="16"/>
+    <CustomCenshareId>352458</CustomCenshareId>
+    <Title position="1">Feiner Quarkstollen</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareRecipeRelationshipParentOf>759493</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>1119584</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>643875</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Feiner Quarkstollen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T19:29:29+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="94eb3d">
+      <CustomRecipeIngredient topic="tmt78696p17pv416n6v8avd" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Rosine"/>
+      <CustomRecipeIngredient topic="tmt78662r6hysg11vwy3idm" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="Korinthen"/>
+      <CustomRecipeIngredient topic="tmt782msv5vt879lsyq8gz" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="abgeriebene" position="3" unit="TL" plural="Zitronenschale (Bio)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8466" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gewürfeltes" position="4" unit="g" plural="Orangeat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="oder Orangensaft" position="5" unit="EL" plural="Rum"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und Mehl zum Arbeiten" position="6" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" position="7" unit="Packung" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" position="8" unit="Prise" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7071" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="gemahlenen" position="9" unit="TL" plural="Kardamom"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" unit="g" plural="Magerquark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" position="11" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="13" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" position="14" unit="Packung" plural="Bourbon-Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene" position="15" unit="g" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit_topic="tm_topic_default_unit" suffix="(Größe M)" position="12" unit="(keine Einheit)" plural="Eier"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="94f033">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit_topic="tm_topic_default_unit" position="2" unit="(keine Einheit)" plural="Puderzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">AUSSERDEM</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="94f088">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Rosinen, Korinthen und Orangeat mischen, mit Rum oder Saft beträufeln und mindestens 60 Minuten ruhen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="94f096">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Mehl, Backpulver, Salz, Kardamom, ­Zitronenschale, Quark, Butter, Eier, ­Zucker und Vanillezucker zu einem glatten Teig verkneten. Teig 60 Minuten ruhen lassen. Dann die Mandeln und eingelegten Früchte samt Flüssigkeit unterkneten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="94f0a3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Den Backofen auf 170 Grad (Umluft: 150 Grad) vorheizen. Teig auf bemehlter Arbeitsfläche gut durchkneten und zu einem Stollen formen. Stollen auf ein mit Backpapier belegtes Blech legen und auf der mittleren Schiene etwa 70 Minuten backen. Tipp: Stollen umdrehen und daraufklopfen. Klingt er hohl, ist er fertig.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="94f0af">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Butter zerlassen, den warmen Stollen damit dick einpinseln, mit Puderzucker dick bestäuben. Abkühlen lassen und noch mal mit Puderzucker bestäuben. Zum Aufbewahren erst in Pergamentpapier wickeln, dann in Alufolie.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="94f077">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Haltbarkeit: 2–3 Wochen (verpackt in Pergamentpapier und dann in Alufolie gut verschlossen an einem kühlen Ort lagern).</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_360612_last" doc_id="doc786aj4ppkdj13ew0aavs" position="1">360612-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_4e5535">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_1119586_last" doc_id="doc787xqphjd9kch71ylm7" position="1">Quarkstollen0001 V</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78azkciqqg0y67l0bn2" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T19:29:29+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_352458</displayname>
+      <doc_id id="doc786ajvtbi8w1kobmh2mn"/>
+      <hash>1d6e31b244b9b4346ece0d124605ba49</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T19:29:29+01:00</modified>
+      <size>6004</size>
+      <subpath>2019/12-07/a3/47/file78azkciqqg0y67l0bn2.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

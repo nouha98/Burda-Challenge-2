@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jy14iuzad4168mrckec" dcx-version="6.3.1" version="1.0">
+  <created>2022-03-02T08:27:13+01:00</created>
+  <identifier>1557315249836_1035902_1035926_1076924</identifier>
+  <modcount>5</modcount>
+  <modified>2024-12-03T09:10:21+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <StoryType topic="storytype-recipe"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Identifier>1557315249836_1035902_1035926_1076924</Identifier>
+    <Title position="1">Affogato nocciola</Title>
+    <CopyrightNotice position="1">Alle Rechte: Lust auf Genuss</CopyrightNotice>
+    <convertedToJpg>3</convertedToJpg>
+    <CustomRecipeNutritionalValueCalories position="1">430</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1780</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">29</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Affogato-Dessert</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <convertedToJpgSchedulerDate>2021-10-22T00:00:00+02:00</convertedToJpgSchedulerDate>
+    <DateImported>2022-03-02T08:27:13+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" position="0" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Haselnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="1" amount="3" amount_max="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9836" position="2" suffix="(Fertigprodukt; alternativ Schoko-Nuss-Creme verwenden)" plural="Schokosauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5701" position="3" amount="8" unit_topic="tm_topic_default_unit" unit="(keine Einheit)" prefix="Kugeln" suffix="(z. B. Vanille, Haselnuss)" plural="Eis"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="191e5f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader/>
+      <CustomRecipePreparationsStepsContent position="1">100 g Haselnusskerne mit 3–4 EL Puderzucker und wenig Wasser mischen, bis die Nüsse mit einer leicht klebrigen Schicht überzogen sind. Auf einem Backblech verteilen und im Ofen bei 200 Grad in ca. 10 Minuten goldgelb rösten. Abkühlen lassen, grob ­hacken. Je 1 dünne Schicht Schokoladensauce (Fertigprodukt) in 4 Gläser ­gießen (alternativ Schoko-Nuss-Creme verwenden). 8 Kugeln Eis (z. B. Vanille, Haselnuss) in die Gläser verteilen. Die gehackten Karamellnüsse darüber streuen. Je 1 Tasse heißen Espresso vorsichtig an den Glasrand in die Gläser gießen. Dessert sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primary picture</ImageLabel>
+      <DocumentRef doc_id="doc7a5ajbtf4phaanfdp9o" file_variant="master" position="1">Espresso Martini affogato mit kandierten Haseln ssen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

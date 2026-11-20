@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8387bt5wq4y33tfgrd6" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-12T08:19:34+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-12T08:29:50+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnk1rdflido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hackfleisch-Gemüse-Pfanne","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Frühlingslauch","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"gemischtes Hackfleisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Paprika vierteln, entkernen und in grobe Stücke schneiden. Frühlingslauch putzen und in Ringe schneiden. Die Zwiebel schälen, sechsteln und ei einzelnen Schichten entblättern. Die Möhre schälen, halbieren und in Scheiben schneiden."},{"headline":null,"content":"Das Sonnenblumenöl in einer Pfanne erhitzen und das Hackfleisch scharf darin anbraten, bis es gar ist. Währenddessen mit Salz und Pfeffer würzen. Den Knoblauch dazugeben und ca. 1 Minute mitbraten. Die Gemüsebrühe aufgießen und etwas einkochen lassen. Mit Paprikapulver, Salz und Pfeffer abschmecken."}],"recipe_tips":[{"headline":"Du liebst es crèmig und sahnig?","content":"Dann rühre kurz vor dem Servieren 2-3 EL Sahne oder Frischkäse ein."}]}</CustomStructuredRecipeJson>
+    <Title>Hackfleisch-Gemüse-Pfanne</Title>
+    <Headline position="1">Hackfleisch-Gemüse-Pfanne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-12T08:19:34+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8387bomphixheeqfrd6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Paprika" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Frühlingslauch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Möhren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt808hl36o8lfk2r77vbq" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="gemischtes Hackfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" max_amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="7" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Paprikapulver" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="11" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8387bt5vvhztym9trd6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Paprika waschen, vierteln, entkernen und in grobe Stücke schneiden. Frühlingszwiebel waschen, putzen und in Ringe schneiden. Die Zwiebel schälen, sechsteln und die einzelnen Schichten entblättern. Den Knoblauch schälen und in kleine Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8387bt5wm7aspmhurd6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Möhre schälen, längs halbieren und in Scheiben schneiden. Das Sonnenblumenöl in einer Pfanne erhitzen und das Hackfleisch bei hoher Hitze scharf darin anbraten, bis es braun und gar ist. Währenddessen mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_691436e4f040f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Knoblauch dazugeben und ca. 1 Minute bei mittlerer Hitze mitbraten, dann das restliche Gemüse dazugeben. Die Gemüsebrühe aufgießen und etwas einkochen lassen. Die Hackfleischpfanne mit Gemüse mit Paprikapulver, Salz und Pfeffer abschmecken. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8387bt5wmeo14n70qrd6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dann rühre kurz vor dem Servieren 2-3 EL Sahne oder Frischkäse ein.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Du liebst es cremig und sahnig?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8tgs48xvdodd6sia" file_variant="master" position="1">Hackfleisch-Gemüse-Pfanne</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69143769b7fec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8tl7evk51jvf30ss2" file_variant="master" position="1">Hackfleisch-Gemüse-Pfanne</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6914376b7b7d9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8tdypj0pbqxk080b" file_variant="master" position="1">Hackfleisch-Gemüse-Pfanne</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6914376ce319a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m8tjxr5sgjljukss2" file_variant="master" position="1">Hackfleisch-Gemüse-Pfanne</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

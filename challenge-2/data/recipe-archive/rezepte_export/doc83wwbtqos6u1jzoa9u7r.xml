@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83wwbtqos6u1jzoa9u7r" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-30T09:46:18+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-12-30T09:54:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt828cxxyl2zdmy5xbgpw" plural="Bleche" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="90"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsms1ihv6hdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schmandkuchen","recipe_seo_headline":null,"servings":{"amount":24.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":45},{"name":"Backen","duration":25},{"name":"Kühlen","duration":90}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Boden","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":250,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":"ca.","suffix":"(2 kleine Tassen)"},{"amount":120,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":"ca.","suffix":"(1 kleine Tasse)"},{"amount":120,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"ml"},"prefix":"ca.","suffix":"(1 kleine Tasse)"},{"amount":375,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":"ca.","suffix":"(3 kleine Tassen, Type 405)"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null}]},{"headline":"Für die Schmandcreme","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sahnesteif","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Ein Backblech 40 x 30 cm mit Butter einfetten und etwas Mehl bestäuben."},{"headline":null,"content":"Eier mit Zucker schaumig rühren, Milch mit Öl zu den Eiern hinzugeben. Mehl mit Backpulver mischen und sieben. In den Teig geben und alles gut unterrühren. Den Rührteig auf das Blech geben und alles glattstreichen. Für 25 Min. goldbraun backen. Den Kuchen komplett auskühlen lassen."},{"headline":null,"content":"Sahne mit Sahnesteif mischen und alles steif aufschlagen, bis zur Weiterverwendung kühl stellen. Schmand mit Vanillezucker cremig rühren und die Sahne unterheben, die Schmandcreme auf dem Kuchen verteilen und für 1 Stunde kühl stellen."},{"headline":null,"content":"Zucker mit Zimt in einer kleinen Tasse mischen und auf die Schmandcreme streuen. Für weitere 30 Min. kühl stellen. Den Kuchen in 24 Stücke einteilen (6 x 4 Stücke) und kühl genießen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Schmandkuchen</Title>
+    <Headline position="1">Schmandkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-30T09:46:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83wwbqp74qd1l2lrku7r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="ca." suffix="(2 kleine Tassen)" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="ca." suffix="(1 kleine Tasse)" plural="Mineralwasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="ca." suffix="(1 kleine Tasse)" plural="Öl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="375" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="ca." suffix="(3 kleine Tassen, Type 405)" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Boden</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83wwbsba1m014ee6wu7r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt82su5xu2lky1gko8m14jk" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Sahnesteif" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="3" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Schmandcreme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6953922258cf9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="für die Form" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="für die Form" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="3" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" amount="3" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83wwbtqogky2hyz6u7r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad Ober- und Unterhitze (oder Umluft bei 160 Grad) vorheizen. Ein Backblech (40 x 30 cm) mit Butter einfetten und mit etwas Mehl bestäuben. Für den Schmandkuchen-Boden die Eier mit dem Zucker schaumig rühren. Das Mineralwasser mit dem Öl zu den Eiern hinzugeben und verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wwbtqol7qcgdaou7r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Mehl mit dem Backpulver mischen, sieben und mit der Ei-Zucker-Öl-Mischung verrühren. Den Rührteig auf das Blech geben und alles glatt streichen. Für 25 Minuten goldbraun backen. Den Kuchen komplett auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wwbtqold0330scu7r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Sahne mit dem Sahnesteif mischen und alles steif aufschlagen. Die aufgeschlagene Sahne bis zur Weiterverwendung kühl stellen. Den Schmand mit dem Vanillezucker cremig rühren und die Sahne unterheben. Die Schmandcreme auf dem Kuchen verteilen und für 1 Stunde kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Schmandcreme </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wwbtqolh5xvysau7r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Zucker mit dem Zimt in einer kleinen Tasse mischen und auf die Schmandcreme streuen. Für weitere 30 Minuten kühl stellen. Den Kuchen in 24 Stücke einteilen (6x4 Stücke) und kühl genießen. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Sommerlich &amp; fruchtig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Für etwas Abwechslung sorgen Mandarinen in der Schmandcreme. 2 Dosen Mandarinen durch ein Sieb abgießen und die Stücke unter die Creme heben. Anschließend wie im Rezept auf dem fluffigen Schmandboden verteilen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qebimehdu1abmbtdln" file_variant="master" position="1">Schmandkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_695393522f034">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qebllsjqqjfm21dln" file_variant="master" position="1">Schmandkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69539353645a4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qebk5pcwx1fnz9qjfs" file_variant="master" position="1">Schmandkuchen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69539354a5552">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qebn5k2mvdgfd5jdg" file_variant="master" position="1">Schmandkuchen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

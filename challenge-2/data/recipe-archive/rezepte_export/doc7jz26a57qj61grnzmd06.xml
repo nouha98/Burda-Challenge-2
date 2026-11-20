@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jz26a57qj61grnzmd06" dcx-version="6.3.1" version="1.0">
+  <created>2022-03-04T08:31:23+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2022-04-20T15:28:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fols"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="90"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqphj3nnedo5"/>
+    <DateImported>2022-03-04T08:31:23+01:00</DateImported>
+    <CustomRecipeNoteInformation position="1">Es wird ein Spritzbeutel mit Tülle benötigt. </CustomRecipeNoteInformation>
+    <Headline position="1">Carnetto (Cake + Cornetto)</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="160" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="2" amount="2" suffix="(Größe M)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" position="3" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="4" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" position="5" amount="75" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Buttermilch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" position="6" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kakaopulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="7" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Kuchen</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6221c19ab42a9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Eiweiß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="3" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiche" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" position="4" prefix="ausgekratztes Mark von 1" plural="Vanilleschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7691" position="5" prefix="rote oder rosa" plural="Lebensmittelfarbe"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Buttercreme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6221c1df74eac">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(geputzt)" plural="Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="3" prefix="Saft von 1" plural="Zitronen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_4_6221c20f7f169">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10926" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Vollmilchkuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5716" position="2" amount="10" prefix="Riesenhörnchen; große" plural="Eiswaffel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gehackte" suffix="(oder Nüsse)" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" position="4" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="Ruby-" suffix="für die Garnitur" plural="Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7176" position="5" amount="10" suffix="(außerhalb der Saison evtl. Cocktailkirschen oder andere Früchte verwenden)" plural="Kirschen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" position="6" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gefriergetrocknete Himbeeren/" plural="Erdbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 175 Grad Ober-/Unterhitze vor- heizen. Zucker und Eier schaumig aufschlagen. Öl langsam dazugeben, Joghurt und Buttermilch einrühren. Kakao und Mehl mischen, mit der Eiercreme verrühren. Teig 1 cm dick auf ein mit Backpapier belegtes Blech streichen, im vorgeheizten Ofen 10 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6221c2b5bd4bf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Buttercreme das Eiweiß in eine Rührschüssel geben. Den Zucker mit 70 ml Wasser in einem kleinen Topf aufkochen (auf 115 Grad) und weiterköcheln lassen. Anfangen, das Eiweiß aufzuschlagen. Hat der Läuterzucker 118 Grad erreicht, gießt man ihn vorsichtig zum Eiweiß. Die Masse währenddessen weiter aufschlagen. Nun die weiche Butter darunterschlagen und die Creme mit dem Vanillemark verrühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6221c2b961d98">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Erdbeeren klein würfeln, mit Puderzucker und Zitronensaft mischen. Kurz ziehen und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6221c2c245287">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den abgekühlten Kuchenboden in verschiedenen Größen rund ausstechen, sodass man die Waffelhörnchen damit füllen kann.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6221c2ca1710a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kuvertüre in einem Topf oder der Mikrowelle schmelzen und die Hörnchen mit dem Rand in die flüssige Schokolade tauchen. Schokorand mit Pistazien bestreuen, Schokolade abkühlen bzw. fest werden lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6221c2d270511">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Im Anschluss werden die Waffeln abwechselnd mit Kuchen, Erdbeeren und etwas Creme befüllt und kalt gestellt. Wichtig: Die letzte Schicht muss Creme sein, damit die Erdbeeren nicht herausfallen können.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6221c2da8fb89">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Hälfte der übrigen Creme mit Lebensmittelfarbe mischen. Beide Cremes in den Spritzbeutel mit Tülle füllen und auf die Waffeln spritzen. Der Farbverlauf der Creme entsteht, indem man die helle Creme nach links und die rosa rechts in den Spritzbeutel gibt.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_8_6221c2e3a8dfa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 8</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ruby-Schokolade schmelzen, wie oben bei der Kuvertüre beschrieben. Kirschen darin eintauchen und mit klein geschnittenem gefriergetrocknetem Obst bestreuen, solange die Schokolade noch flüssig ist. Hörnchen zum Schluss mit den Kirschen dekorieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7a5al8v05f4zik9tp9p" file_variant="master" position="1">DSC_0382</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jbz6h0cxvrhzznq4md" dcx-version="6.3.1" version="1.0">
+  <created>2022-01-18T10:20:17+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-14T11:09:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsk0wz1eido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <Keywords topic="tmt7gbshnis9b81ivefvgaq"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Keywords topic="tmt7jbz9a65klsipejl6g1"/>
+    <Keywords topic="tmt6p3e1vomqisqqp3y8m5"/>
+    <Keywords topic="tmt6ow8pv04vliaulz1hgw"/>
+    <Keywords topic="tmt6p3biq9bqdgd1atr8lx"/>
+    <Keywords topic="tmt6ow4q4a8os7oosxnhgw"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">450</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">47</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">26</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Fruchtige Sahnetorte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-01-18T10:20:17+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="0" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="170" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="3" amount="1" plural="Ei"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kalte" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11491" position="5" amount="1" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" plural="Zwetschgen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11491" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="-Wasser" plural="Zwetschge"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" position="7" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Speisestärke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="8" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="9" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt82su5xu2lky1gko8m14jk" position="10" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Sahnefestiger"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" position="11" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" position="12" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mascarpone"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5676" position="13" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Eierlikör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7571" position="14" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kuvertüre"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, 45 g Zucker, 1 Prise Salz, Ei und Butter zum glatten Teig verkneten. Zur Kugel formen. In Folie wickeln. 30 Min. kühlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_61e687547be43">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad Ober­/Unterhitze vorheizen. 2⁄3 des Teigs zwischen Backpapier rund (Ø 32 cm) ausrollen. Eine Spring­form (Ø 26 cm) fetten, damit aus­legen. 3 cm Rand andrücken. Boden mehrmals einstechen. Mit Backpapier und getrockneten Hülsenfrüchten belegen. 20 Min. blindbacken. Abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_61e68759a437c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwetschgen abbrausen, halbieren, entsteinen. Mit 3 EL Wasser, 100 g Zucker und Zwetschgenwasser 4 Min. kochen. Stärke, Zimt und 1 EL Wasser ver­rühren. In die Zwetschgen rühren. Aufkochen. Abkühlen und auf dem Kuchen verteilen. Sahne, Festiger und 25 g Zucker steif schlagen. Kurkuma in 1 EL heißem Wasser aufkochen. Mit Mascarpone und Likör verrühren. Sahne unter­ziehen. Auf die Torte streichen. Kuvertüre schmelzen, in Streifen auf die Torte spritzen. Evtl. mit ge­hackten Pistazien und Zwetsch­genspalten verzieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Extra-Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Reife Pflaumen erkennen
+Egal, ob man die Früchte für Kuchen oder Torten verwenden möchte, sie schmecken nur dann schön süß, wenn sie auch wirklich reif sind. Dann duften sie angenehm und geben auf Druck leicht nach. Sind sie nicht reif genug, kann man sie nebeneinander auf einem mit einem Tuch belegten Blech bei Zimmertemperatur 2–3 Tage nachreifen lassen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Beschwipste Zwetschgensahne, Pflaumenkuchen, Torte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photoart GmbH</ImageCredit>
+      <DocumentRef doc_id="doc7gbshninwoy139ho0gaq" file_variant="master" position="1">Beschwipste_Zwetschgensahne.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

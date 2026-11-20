@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc838qhldd4g11in02bhh5" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-13T09:11:11+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-11-13T11:42:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-archived"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Creator topic="tmt6ssta82hc821kzpxy6v4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="2"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt838qk2uoak66uc0dhsg"/>
+    <Headline position="1">Chai Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-13T09:11:11+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7pizlvzn2pjpxcyscho" position="1" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kardamomsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" position="2" amount="3" plural="Gewürznelke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" position="3" amount="2" plural="Sternanis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="4" amount="500" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="(oder Pflanzendrink)" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="5" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9881" position="6" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Beutel" plural="Schwarztee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="brauner" plural="Zucker"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kardamomsamen, Gewürznelken und Sternanis in einen losen Teebeutel füllen. Milch oder Pflanzendrink aufkochen und vom Herd nehmen. Gewürzbeutel und Zimt zugeben, 5 Minuten ziehen lassen. 2 Beutel Schwarztee zugeben und das Ganze 3 Minuten ziehen lassen. Gewürz- und Teebeutel entfernen. Braunen Zucker unterrühren. Chai Latte in 2 Gläsern verteilen, nach Belieben mit Milchschaum und Zimt toppen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Dangubic, Natasa</ImageCredit>
+      <DocumentRef doc_id="doc7do2omn3vmdiwvld2gn" file_variant="master" position="1">Chai Latte in Gl sern mit Milchschaum und Anisstern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

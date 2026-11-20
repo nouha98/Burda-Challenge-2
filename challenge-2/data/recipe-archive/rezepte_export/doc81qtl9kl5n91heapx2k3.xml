@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81qtl9kl5n91heapx2k3" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-31T11:56:32+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-31T12:05:51+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="1020"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2r1i9sgndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Stracciatella Eis","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":1020}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Stracciatella Eis","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillepaste","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zartbitterschokoraspel","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Sahne zusammen mit der Milch in eine Rührschüssel geben und mit dem Schneebesen vermischen. Vanillepaste sowie Zucker zu den Zutaten hinzugeben und so lange rühren bis sich der Zucker komplett in der Milch aufgelöst hat."},{"headline":null,"content":"Die fertige Milch in eine Edelstahlschüssel geben und für ca. 4 Stunden in der Tiefkühltruhe erkalten lassen. Dabei immer wieder umrühren."},{"headline":null,"content":"Falls eine Eismaschine vorhanden ist, kann die Mischung danach in die Eismaschine gegeben werden und cremig gefrieren."},{"headline":null,"content":"Ohne Eismaschine die Masse einfach in der Tiefkühltruhe lassen und alle 30 Minuten umrühren, sodass sich die Eiskristalle vermischen."},{"headline":null,"content":"Sobald die Eismasse cremiger und fester wird, können die Schokoraspeln mit dem Eis vermischt werden. Dann das Eis über Nacht gefrieren lassen und am nächsten Tag servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Stracciatella Eis</Title>
+    <Headline position="1">Stracciatella Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-31T11:56:32+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81qtl8pc1gj447fe2k3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt7d8mmnn2feesq0m0gxt" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanillepaste" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9831" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="zartbitter" plural="Schokoraspel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Stracciatella Eis</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81qtl9kkufk1cfn0o2k3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sahne zusammen mit der Milch in eine Rührschüssel geben und mit dem Schneebesen vermischen. Vanillepaste sowie Zucker zu den Zutaten hinzugeben und so lange rühren bis sich der Zucker komplett in der Milch aufgelöst hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81qtl9kkxk7w31pd2k3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die fertige Milch in eine Edelstahlschüssel geben und für ca. 4 Stunden in der Tiefkühltruhe erkalten lassen. Dabei immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81qtl9kkxqh1cyzog2k3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Falls eine Eismaschine vorhanden ist, kann die Mischung danach in die Eismaschine gegeben werden und cremig gefrieren. Ohne Eismaschine die Masse einfach in der Tiefkühltruhe lassen und alle 30 Minuten umrühren, sodass sich die Eiskristalle vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81qtl9kkxyax6tt72k3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Sobald die Eismasse cremiger und fester wird, können die Schokoraspeln mit dem Eis vermischt werden. Dann das Eis über Nacht gefrieren lassen und am nächsten Tag servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814p7vanate7qhi0cor" file_variant="master" position="1">StracciatellaEis3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688b3feed490a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814p7pie8zpzgpfwfs2" file_variant="master" position="1">StracciatellaEisStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688b3ff0eaf98">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814p7sa2p8zijnpocot" file_variant="master" position="1">StracciatellaEisStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688b3ff42be8a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814p7y3o96g16i2jicoq" file_variant="master" position="1">StracciatellaEis1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_688b3ff6cbaba">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc814p7mhusvkucq5fftu" file_variant="master" position="1">StracciatellaEis2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

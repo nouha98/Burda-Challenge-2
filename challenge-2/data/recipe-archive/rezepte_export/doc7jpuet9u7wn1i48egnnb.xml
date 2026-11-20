@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7jpuet9u7wn1i48egnnb" dcx-version="6.3.1" version="1.0">
+  <created>2022-02-14T10:04:22+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-07-14T11:07:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7j49iumqfmt16nty0efk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Keywords topic="tmt7ipwrbjzdnqb582jhv8"/>
+    <Keywords topic="tmt7jpugpx7b4ze3seqn5o"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Keywords topic="tmt6p4y51orrj9c52b8m6"/>
+    <Keywords topic="tmt6p28n6k814wylwfl8mb"/>
+    <Keywords topic="tmt6owqo8qycev15yqhc8m1"/>
+    <Keywords topic="tmt6owqh3q3oau4cor98m4"/>
+    <Keywords topic="tmt6ow8h17cuuvoxvjthmp"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <SubHeadline position="1">Saibling mit Knoblauch-Ragout</SubHeadline>
+    <CustomRecipeNutritionalValueCalories position="1">780</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">33</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">37</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">52</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Saiblings-Ragout mit Krabben</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-02-14T10:04:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="0" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kleine, vorwiegend festkochende" plural="Kartoffel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="1" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="2" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schalotte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="3" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11156" position="4" amount="75" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="trockener" plural="Wermut"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5956" position="5" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Fischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="6" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11471" position="7" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zuckerschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="8" amount="12" suffix="an der Rispe" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9476" position="9" amount="280" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="ohne Haut und Gräten" plural="Saiblingsfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8371" position="10" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="-Fleisch" plural="Nordseekrabbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="11" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5851" position="12" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Estragon"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" position="13" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Dill"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen, 20–25 Min. in Salzwasser garen. Abgießen, pellen, abkühlen. Schalotten abziehen, würfeln. In 20 g Butter glasig dünsten. Wermut angießen, zur Hälfte einkochen. Brühe, Sahne angießen. Auf 100 ml einköcheln lassen. Zuckerschoten abbrausen, putzen, in Rauten schneiden. Tomaten abbrausen, in 4 Rispen teilen. Filets abtupfen, in 2–3 cm breite Stücke teilen. Krabben abbrausen, abtupfen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_620a1be513d97">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln 8–10 Min. in 10 g Butter und Öl goldbraun braten. Soße fein pürieren, würzen. Saibling zugeben, 5– 6 Min. bei kleiner Hitze zugedeckt gar ziehen lassen. Schoten 5 Min. in 10 g Butter zugedeckt dünsten. Nach 3 Min. Tomaten zugeben. Würzen. Kräuter abbrausen, abtupfen. Estragonblätter, Dill je fein schneiden. Krabben in 1 EL Butter erwärmen. Ragout mit Kartoffeln, Gemüse, Krabben, Estragon anrichten. Dill über die Kartoffeln streuen, dazu servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Saibling mit Knoblauch-Ragout, Aus dem Topf,, Schmortopf, Fisch und Meeresfrüchte</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photoart GmbH</ImageCredit>
+      <DocumentRef doc_id="doc7ipwrbjtwokj12l8hv8" file_variant="master" position="1">Saibling_Knoblauch_Ragout.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

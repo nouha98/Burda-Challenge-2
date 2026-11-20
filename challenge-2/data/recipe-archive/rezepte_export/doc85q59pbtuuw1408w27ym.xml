@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85q59pbtuuw1408w27ym" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-06T10:26:12+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-06T10:34:49+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt85q5doxs0usp147mk0"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kartoffelsalat mit Radieschen","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1.2,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"kg"},"prefix":null,"suffix":"(vorwiegend festkochend)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ: vegane Bio-Instant-Brühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":"körniger (ersatzweise: mittelscharfer Senf)"},{"amount":5,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"EL"},"prefix":null,"suffix":"(ersatzweise: weißer Balsamicoessig)"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"weißer","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Fluorid"},{"amount":1,"amountTo":null,"ingredient_name":"Radieschen","unit":{"name":"Bund"},"prefix":null,"suffix":"(groß)"},{"amount":2,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"(Keine Einheit)"},"prefix":"Mini-","suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen, ca. 20 Minuten zugedeckt kochen. Zwiebel abziehen, fein würfeln. Petersilie abbrausen, trockenschütteln, fein hacken. Kartoffeln abgießen, etwas abkühlen lassen. Pellen und in Scheiben schneiden."},{"headline":null,"content":"1 EL Olivenöl in einem kleinen Topf erhitzen. Die Zwiebelwürfel darin 2–3 Minuten bei mittlerer Hitze glasig dünsten. Gemüsebrühe angießen, Zucker, Senf und die Hälfte der gehackten Petersilie einrühren. Vom Herd nehmen. Weißweinessig und übriges Olivenöl (2 EL) unterschlagen, mit Pfeffer und Salz würzen. Die heiße Mischung über die Kartoffelscheiben gießen und ca. 20 Minuten ziehen lassen."},{"headline":null,"content":"In der Zwischenzeit Radieschen waschen, putzen, in dünne Scheiben schneiden oder hobeln. Mini-Salatgurken waschen, ebenfalls in dünne Scheiben schneiden oder hobeln."},{"headline":null,"content":"Die Radieschen- und Gurkenscheiben unter den Kartoffelsalat heben und alles mit Petersilie bestreut servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Kartoffelsalat mit Radieschen</Title>
+    <Headline position="1">Kartoffelsalat mit Radieschen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-06T10:26:12+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85q59kbj947qfk9p7ym">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(ersatzweise: mittelscharfer Senf)" plural="Senf" position="7" prefix="körniger "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="1.2" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" suffix="(vorwiegend festkochend)" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten selbst gekocht, alternativ: vegane Bio-Instant-Brühe)" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ersatzweise: weißer Balsamicoessig)" plural="Weißweinessig" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="weißer" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9031" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="(groß)" plural="Radieschen" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Mini-" plural="Salatgurken" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85q59pbtnpg8xmxu7ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen, ca. 20 Minuten zugedeckt kochen. Zwiebel abziehen, fein würfeln. Petersilie abbrausen, trockenschütteln, fein hacken. Kartoffeln abgießen, etwas abkühlen lassen. Pellen und in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q59pbtr3acewgu7ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">1 EL Olivenöl in einem kleinen Topf erhitzen. Die Zwiebelwürfel darin 2–3 Minuten bei mittlerer Hitze glasig dünsten. Gemüsebrühe angießen, Zucker, Senf und die Hälfte der gehackten Petersilie einrühren. Vom Herd nehmen. Weißweinessig und übriges Olivenöl (2 EL) unterschlagen, mit Pfeffer und Salz würzen. Die heiße Mischung über die Kartoffelscheiben gießen und ca. 20 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q59pbtrafvspsd7ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Radieschen waschen, putzen, in dünne Scheiben schneiden oder hobeln. Mini-Salatgurken waschen, ebenfalls in dünne Scheiben schneiden oder hobeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q59pbtrf54qvig7ym">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Radieschen- und Gurkenscheiben unter den Kartoffelsalat heben und alles mit Petersilie bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7b2z9y9wz46x2yfkd9o" file_variant="master" position="1">Kartoffelsalat_mit_Radieschen_80870.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69fafd1ab9a4e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdqt639zk1k3fh2l5y" file_variant="master" position="1">Kartoffelsalat_mit_Radieschen_80824.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69fafd1d2c70e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czd8w0jqsg14p8zqicb" file_variant="master" position="1">Kartoffelsalat_mit_Radieschen_80808.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69fafd1f7f21c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdec4fz4m1ipswhica" file_variant="master" position="1">Kartoffelsalat_mit_Radieschen_80876.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

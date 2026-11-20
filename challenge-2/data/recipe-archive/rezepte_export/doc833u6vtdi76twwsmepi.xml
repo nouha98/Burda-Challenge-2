@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc833u6vtdi76twwsmepi" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-03T20:26:48+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-04T20:24:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Forellen Tatar","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"geräuchertes Forellenfilet","unit":{"name":"g"},"prefix":null,"suffix":"ohne Haut"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Stiel"},"prefix":"einige","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Dill","unit":{"name":"Stiel"},"prefix":"einige","suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salatgurke","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 100 g)"},{"amount":1,"amountTo":null,"ingredient_name":"säuerlicher Apfel","unit":{"name":"(Keine Einheit)"},"prefix":"kleiner","suffix":"(z.B. Granny Smith, Cox, Boskoop)"},{"amount":2,"amountTo":null,"ingredient_name":"Sauerrahm","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Meerrettich","unit":{"name":"TL"},"prefix":null,"suffix":"aus dem Glas"},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Chilisoße","unit":{"name":"TL"},"prefix":null,"suffix":"(z.B. Tabasco)"}]}],"preparation":[{"headline":null,"content":"Forellenfilets mit Küchenpapier abtupfen, Gräten mit einer Pinzette entfernen und das Fleisch in 0,5 cm große Würfel schneiden."},{"headline":null,"content":"Zitrone entsaften, Kräuter waschen, abtropfen lassen, Schnittlauch in feine Ringe schneiden und den Dill fein zupfen."},{"headline":null,"content":"Gurke und Apfel schälen, Gurke halbieren, Kerne entfernen und in feine Würfel schneiden. Apfel ums Kerngehäuse herum in 0,5 cm dicke Scheiben schneiden, erst in Stifte, dann in Würfel schneiden und mit dem Sauerrahm und der Gurke vermengen."},{"headline":null,"content":"Forelle mit den Kräutern vorsichtig unterheben, mit Meerrettich verfeinern, mit Salz und Chilisoße abschmecken und nach Wunsch auf Pumpernickel oder geröstetem Bauernbrot als Vorspeise oder Fingerfood servieren."}],"recipe_tips":[{"headline":"Essiggurke &amp; Rote Beete","content":"Hebe als Variante statt Salatgurke 1-2 gewürfelte Essiggurken und 2 EL gewürfelte Rote Beete aus dem Glas unter das Forellentartar."}]}</CustomStructuredRecipeJson>
+    <Title>Forellen Tatar</Title>
+    <Headline position="1">Forellen Tatar</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-03T20:26:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="833u6s4jdvs1bi86sepi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6051" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ohne Haut" position="1" prefix="geräuchertes" plural="Forellenfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleiner säuerlicher" suffix="(z.B. Granny Smith, Cox, Boskoop)" position="6" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" plural="Schnittlauch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" prefix="einige" plural="Dill" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="0.25" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 100 g)" plural="Salatgurken" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sauerrahm" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8111" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="aus dem Glas" plural="Meerrettich" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5376" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(z.B. Tabasco)" position="10" plural="Chilisauce"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_690a51a069958">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8951" position="1" prefix="nach Belieben" suffix="-Scheiben oder geröstetes Brot" plural="Pumpernickel"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="833u6vtdh6d123tkfepi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Forellenfilets mit Küchenpapier abtupfen, Gräten mit einer Pinzette entfernen und das Forellenfilet in 0,5 cm große Würfel schneiden. Zitrone entsaften, Kräuter waschen, abtropfen lassen, Schnittlauch in feine Ringe schneiden und den Dill fein zupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6vtdhdd12h3v0epi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gurke und Apfel schälen, Gurke halbieren, Kerne entfernen und in feine Würfel schneiden. Apfel ums Kerngehäuse herum in 0,5 cm dicke Scheiben schneiden, erst in Stifte, dann in Würfel schneiden und mit dem Sauerrahm und der Gurke vermengen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6vtdhgzp1l3aepi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Forellenwürfel mit den Kräutern zusammen vorsichtig unter die Sauerrahm-Mischung heben. Mit Meerrettich verfeinern und mit Salz sowie Chilisoße abschmecken. Nach Wunsch auf Pumpernickel oder geröstetem Bauernbrot als Vorspeise oder Fingerfood servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="833u6vtdhonrmk7lepi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Hebe als Variante statt Salatgurke 1-2 gewürfelte Essiggurken und 2 EL gewürfelte Rote Beete aus dem Glas unter das Forellentartar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Essiggurke &amp; Rote Beete</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa00ins5fp3cycjty" file_variant="master" position="1">Forellen Tatar</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690a51f4df9b3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa01lmp951mabz9k3k" file_variant="master" position="1">Forellen Tatar</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690a51f715dae">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa46fyzbb8rvvtubx" file_variant="master" position="1">Forellen Tatar</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690a51f95b2d1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pa04j1tehwh79ik3k" file_variant="master" position="1">Forellen Tatar</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

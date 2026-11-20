@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85t91rr9hgombdbneda" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-12T11:28:00+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-12T11:31:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Source topic="tmt85t91zgfq2c8sjv5edk"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeTeaserside position="1">Kaiserschmarrn, Pfannkuchen, Waffeln, Vanilleeis</CustomRecipeTeaserside>
+    <CustomRecipeNutritionalValueCalories position="1">80</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">17</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Zwetschgenkompott mit Portwein </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-12T11:28:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11491" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zwetschgen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8891" position="3" amount="75" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Portwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" position="4" amount="75" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="frisch gepresster" plural="Orangensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="6" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zimtstangen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwetschgen abbrausen, halbieren und entsteinen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a02f318d6f62">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Zucker mit 2–3 EL Wasser in einem Topf karamellisieren lassen. Mit Portwein, Orangen- und Zitronensaft ablöschen und den Karamell loskochen. Zwetschgen und Zimt zufügen und ca. 4–5 Minuten einkochen, dann abkühlen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Haltbarkeit: gekühlt ca. 1 Woche</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zwetschgenkompott</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Tre Torri</ImageCredit>
+      <DocumentRef doc_id="doc7p544b64002m02po7ct" file_variant="master" position="1">Zwetschgenkompott</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

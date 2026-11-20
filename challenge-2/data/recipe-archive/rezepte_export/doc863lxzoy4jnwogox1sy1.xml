@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc863lxzoy4jnwogox1sy1" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-01T15:17:03+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-06-01T15:56:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <Source topic="tmt863mfws7cgj38ipu1vht"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hot Dog-Focaccia","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":920,"kilojoule":null,"carbonhydrates":90,"fat":39,"protein":44,"breadunit":8}},"recipe_groups":[],"preparation":[],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Hot Dog-Focaccia</Title>
+    <CustomRecipeNutritionalValueCalories position="1">920</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">90</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">39</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">44</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">8</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Für 1 Auflaufform (25 x 30)</CustomRecipeNoteInformation>
+    <Headline position="1">Hot Dog-Focaccia</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-01T15:17:03+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6636" position="1" amount="1" prefix="großer Pizza-" suffix="(550 g; Kühlregal, z. B. von Tante Fanny)" plural="Hefeteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6471" position="9" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="eingelegte" suffix="für Hotdog bzw. Burger (Glas)" plural="Gurkenscheiben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11171" position="2" amount="8" suffix="oder Debrecziner" plural="Wiener Würstchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" position="4" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="getrockneter" plural="Thymian"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" position="5" amount="2" plural="rote Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" position="7" amount="60" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="weißer" plural="Balsamico-Essig"/>
+      <CustomRecipeIngredient topic="tmt80mscfcxid1gmv8efid" position="8" plural="Salz, Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9341" position="10" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="(Fertigprodukt)" plural="Röstzwiebeln"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a1d8ebf3063b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9131" position="1" prefix="Dänische" plural="Remoulade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" position="2" suffix="und Ketchup nach Belieben" plural="Senf"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Teig halbieren, die Platten aufeinanderlegen und in eine mit Backpapier ausgelegte Form legen. In den Teig mit einem Kochlöffel 8 lange Mulden für die Würstchen drücken. Die Würstchen kreuzweise einschneiden, mit 1 EL Öl einölen und in die Mulden drücken. Alles mit Kräutern bestreuen, mit übrigem Öl (1 EL) beträufeln. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a1d8f030f6a5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Würstchen im Backofen 20 Minuten backen. Inzwischen Zwiebeln abziehen, in Ringe schneiden. Zucker und Essig aufkochen, mit Salz und Pfeffer würzig abschmecken. Sud heiß über die Zwiebeln gießen, beiseite stellen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a1d8f1d12698">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Focaccia aus der Form nehmen, in Stücke schneiden. Mit Gurken, Zwiebelringen, Röstzwiebeln und Saucen zum Selberbelegen servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Mehr Toppings</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Mais, gewürfelte Tomaten oder Sauerkraut passen ebenfalls dazu. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Hotdog-Focaccia mit verschiedenen Toppings</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc85gkamb5q8g2ihkpr8v" file_variant="master" position="1">Hotdog-Focaccia mit verschiedenen Toppings</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

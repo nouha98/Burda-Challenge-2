@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83evtqt76a8wbx861dae" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-25T08:21:49+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-25T08:25:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bh2mz52y81cr4pm8at"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Brombeermarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Brombeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"(2:1)"}]}],"preparation":[{"headline":null,"content":"Zitrone heiß abwaschen, trocken tupfen, 1 TL Schale abreiben und den Saft auspressen. 4 Gläser (à ca. 300 ml) gründlich mit kochendem Wasser ausspülen und auf Küchenpapier trocknen lassen."},{"headline":null,"content":"Brombeeren gründlich waschen, abtropfen lassen und in einen hohen Topf geben. Brombeeren mit einer Gabel andrücken und mit dem Gelierzucker verrühren. Zitronensaft zugeben, aufkochen und ca. 3-4 Minuten köcheln lassen."},{"headline":null,"content":"Marmelade mit dem Pürierstab mixen und nach Wunsch durch ein Sieb streichen. Mit Zitronenabrieb würzen, heiß in die Gläser abfüllen, gut verschließen und auf dem Kopf gedreht auskühlen lassen."},{"headline":null,"content":"Marmeladengläser an einem dunklen, kühlen Ort lagern, nach Bedarf öffnen und zum Frühstück genießen."}],"recipe_tips":[{"headline":"Brombeer-Rosmarin-Marmelade","content":"Koche einen Teil deiner Marmelade mit etwas Rosmarin ein – ein toller Dip z.B. zur Käseplatte."}]}</CustomStructuredRecipeJson>
+    <Title>Brombeermarmelade</Title>
+    <Headline position="1">Brombeermarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-25T08:21:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83evtqh0os3ckqua1dae">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5146" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Brombeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(2:1)" plural="Gelierzucker" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83evtqt6whwvjpyw1dae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitrone heiß abwaschen, trocken tupfen, 1 TL Schale abreiben und den Saft auspressen. 4 Gläser (à ca. 300 ml) gründlich mit kochendem Wasser ausspülen und auf Küchenpapier trocknen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83evtqt6z00r6c3c1dae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Brombeeren gründlich waschen, abtropfen lassen und in einen hohen Topf geben. Brombeeren mit einer Gabel andrücken und mit dem Gelierzucker verrühren. Zitronensaft zugeben, aufkochen und ca. 3-4 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83evtqt6z52qra9l1dae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Marmelade mit dem Pürierstab mixen und nach Wunsch durch ein Sieb streichen. Mit Zitronenabrieb würzen, heiß in die Gläser abfüllen, gut verschließen und auf dem Kopf gedreht auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83evtqt6z821ch6vz1dae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Marmeladengläser an einem dunklen, kühlen Ort lagern, nach Bedarf öffnen und zum Frühstück genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83evtqt6zc7pz3l1dae">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Koche einen Teil deiner Marmelade mit etwas Rosmarin ein – ein toller Dip z.B. zur Käseplatte.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Brombeer-Rosmarin-Marmelade</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8m8mw9x31lx8gp8ht" file_variant="master" position="1">Brombeermarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692559eed9c23">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8m4myt7acl31s1fkz" file_variant="master" position="1">Brombeermarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692559f082fe3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8m5muphvuo6ig8ul" file_variant="master" position="1">Brombeermarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692559f20d506">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n8mab4f0peyidv1fhm" file_variant="master" position="1">Brombeermarmelade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

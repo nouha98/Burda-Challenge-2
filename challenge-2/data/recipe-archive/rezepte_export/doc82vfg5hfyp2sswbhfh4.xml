@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82vfg5hfyp2sswbhfh4" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-18T12:38:58+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-18T12:42:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="8"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kabeljau im Ofen","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Zubereitung","duration":8},{"name":"Backen","duration":8}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Kabeljaufilet","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucchini","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"rot"},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"gelb"},{"amount":8,"amountTo":null,"ingredient_name":"Cherrytomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"getrockneter Oregano","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":"große","suffix":null}]}],"preparation":[{"headline":null,"content":"Das Kabeljaufilet in 4 gleichgroße Stücke schneiden und mit Salz und Pfeffer würzen. Die Zucchini längs halbieren und in Scheiben schneiden. Beide Paprika vierteln und das Kerngehäuse entfernen. In 2x2 cm Stücke schneiden. Die Cherrytomaten halbieren."},{"headline":null,"content":"Die Knoblauchzehe schälen und fein pressen. Das Olivenöl mit der Knoblauchzehe verrühren. Von der Zitrone die Schale fein abreiben und mit dem Knoblauch und dem Olivenöl verrühren."},{"headline":null,"content":"Das Gemüse in einer Pfanne mit Olivenöl für ca. 2 Minuten bei hoher Hitze unter ständigem Rühren anbraten, mit Salz, Pfeffer und dem Oregano würzen und in eine Auflaufform geben. Den Backofen auf 185 Grad Umluft vorheizen."},{"headline":null,"content":"Das Gemüse und den Fisch mit dem vorbereiteten Knoblauch-Zitronen-Öl beträufeln und in den vorgeheizten Backofen geben und für 8 Minuten garen."}],"recipe_tips":[{"headline":"Kalbeljau","content":"Das Fleisch des Kalbeljaus ist sehr zart und daher auch empfindlich. Wenn der Kabeljau zu lange im Ofen ist, dann zerfällt er sehr schnell, daher unbedingt die Garzeit einhalten."}]}</CustomStructuredRecipeJson>
+    <Title>Kabeljau im Ofen</Title>
+    <Headline position="1">Kabeljau im Ofen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-18T12:38:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82vfg2pd5yg3ohyhfh4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6926" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kabeljaufilet" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="mittelgroße" plural="Zucchini" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="rot" plural="Paprika" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="gelb" plural="Paprika" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5326" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Cherrytomaten" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="6"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="7"/>
+      <CustomRecipeIngredient topic="tmt80lph1oifash4pqqrvm" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" plural="getrockneter Oregano"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="große" plural="Pfeffer" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82vfg5hfq2bwxa8gfh4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Kabeljau aus dem Ofen das Kabeljaufilet in gleichgroße Stücke schneiden (pro Person 2 Stücke) und rundherum mit Salz und Pfeffer würzen. Die Zucchini waschen, längs halbieren und in Scheiben (ca. 0,5 cm dick) schneiden. Beide Paprika waschen, vierteln und das Kerngehäuse entfernen. In 2 x 2 cm große Stücke schneiden. Die Cherrytomaten waschen und halbieren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vfg5hftavvwifdfh4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Knoblauchzehe schälen und fein pressen. Das Olivenöl mit der Knoblauchzehe verrühren. Von der Zitrone die Schale fein abreiben und mit dem Knoblauch und dem Olivenöl verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vfg5hftiaesmycfh4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüse in einer Pfanne mit Olivenöl für ca. 2 Minuten bei hoher Hitze unter ständigem Rühren anbraten. Mit Salz, Pfeffer und Oregano würzen und in eine Auflaufform geben. Den Backofen auf 185 Grad Umluft (200 Grad Ober- und Unterhitze) vorheizen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82vfg5hftliw7q76fh4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Fisch auf das Gemüse legen. Gemüse und Fisch mit dem vorbereiteten Knoblauch-Zitronen-Öl beträufeln und in den vorgeheizten Backofen geben. Für 8 Minuten garen. Guten Appetit!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82vfg5hftpdwgf6xfh4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Das Fleisch des Kalbeljaus ist sehr zart und daher auch empfindlich. Wenn der Kabeljau zu lange im Ofen ist, dann zerfällt er sehr schnell, daher unbedingt die Garzeit einhalten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kalbeljau</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpx49m04kierctddn" file_variant="master" position="1">Kabeljau im Ofen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f36ed28b16c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpyaqk7tc72x87odu" file_variant="master" position="1">Kabeljau im Ofen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f36ed44a950">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpwwzrug0ekkcfodu" file_variant="master" position="1">Kabeljau im Ofen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f36ed613e8a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82lpwzrmtw51m5nbyd93" file_variant="master" position="1">Kabeljau im Ofen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

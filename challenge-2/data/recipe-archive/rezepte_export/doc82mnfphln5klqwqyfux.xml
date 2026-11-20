@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82mnfphln5klqwqyfux" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-01T10:38:06+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-10-01T10:45:01+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="4" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Nudelchips","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":5},{"name":"Backen","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":null,"suffix":"(edelsüß)"},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebelpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Rosmarin und Thymian","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":"(getrocknet)"},{"amount":30,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":"(37% Fett i. Tr.)"},{"amount":350,"amountTo":null,"ingredient_name":"gekochte Nudeln","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Rigatoni, Farfalle oder Spirelli)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Paprika-, Knoblauch-, Zwiebelpulver und Kräuter in einer kleinen Schüssel vermengen und mit dem Parmesan mischen."},{"headline":null,"content":"Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und ein Backblech mit Backpapier auslegen."},{"headline":null,"content":"Nudeln in eine Schüssel geben und mit dem Olivenöl marinieren. Gewürzmischung zugeben, vermengen und auf dem Backblech verteilen, sodass keine Nudel auf der anderen liegt."},{"headline":null,"content":"Nudeln im vorgeheizten Ofen ca. 15 Minuten knusprig backen, aus dem Ofen nehmen, salzen, auskühlen lassen und nach Wunsch mit Dips servieren."}],"recipe_tips":[{"headline":"Fake Nachos","content":"Bereite deine Nudelchips mit in Dreiecke geschnittenen Lasagneplatten zu und serviere Sie mit Guacamole, Tomaten Salsa und Käse-Dipp."}]}</CustomStructuredRecipeJson>
+    <Title>Nudelchips</Title>
+    <Headline position="1">Nudelchips</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-01T10:38:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82mnfnqch2t116e5fux">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" suffix="und Thymian (getrocknet)" position="4" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. Rigatoni, Farfalle oder Spirelli)" position="6" prefix="gekochte" plural="Nudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(edelsüß)" plural="Paprikapulver" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7236" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Knoblauchpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11506" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zwiebelpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(37% Fett i. Tr.)" position="5" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_68dce915e22b7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Nudeln in leicht gesalzenem Wasser al dente kochen (siehe Packungsanweisung) und abgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82mnfphlbcj159u32fux">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Paprika-, Knoblauch-, Zwiebelpulver und Kräuter in einer kleinen Schüssel vermengen und mit dem Parmesan mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82mnfphldqe120vprfux">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 200 Grad Ober-/Unterhitze (Umluft: 180 Grad) vorheizen und ein Backblech mit Backpapier auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82mnfphldux12w2e7fux">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nudeln in eine Schüssel geben und mit dem Olivenöl marinieren. Gewürzmischung zugeben, vermengen und auf dem Backblech verteilen, sodass keine Nudel auf der anderen liegt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82mnfphldz47ww2ffux">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Nudeln im vorgeheizten Ofen ca. 15 Minuten knusprig backen, aus dem Ofen nehmen, salzen, auskühlen lassen und nach Wunsch mit Dips servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82mnfphle445s89ifux">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bereite deine Nudelchips mit in Dreiecke geschnittenen Lasagneplatten zu und serviere Sie mit Guacamole, Tomaten Salsa und Käse-Dipp.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Fake Nachos</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jjnaldksj7b336n7u" file_variant="master" position="1">Nudelchips</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68dcea091fe25">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jjn7fgp431jlp4aybc" file_variant="master" position="1">Nudelchips</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68dcea0aa8de3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jjnc3h23q90daon7u" file_variant="master" position="1">Nudelchips</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68dcea0c39d0e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82jjnev8xw412fi3ly9i" file_variant="master" position="1">Nudelchips</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80j861gr12ht6npggip" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-07T15:40:25+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-10T13:54:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Keywords topic="tmt6ueh92ptw68p9vrw32c"/>
+    <Keywords topic="tmt7u0fy4nkwwg6ekng7no"/>
+    <Keywords topic="tmt6qfe7eycd6gjq1t14n4"/>
+    <Keywords topic="tmt6owqr1ttj1tqsxh48m0"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="6"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Japanische Pancakes","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"neutrales Speiseöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronenabrieb oder Vanilleessenz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":40,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Milch, Öl und Zitronenabrieb bzw. nach Belieben Vanilleessenz in einer Schüssel verrühren. Eier trennen. Eigelbe zum Milchmix geben und vermischen. Mehl zugeben und mit einem Rührbesen klumpenfrei rühren."},{"headline":null,"content":"Eiweiße mit den Rührbesen des Handrührgerätes steif schlagen, dabei Salz und Zucker einrieseln lassen. So lange auf höchster Stufe schlagen bis ein fester, stabiler Eischnee entstanden ist. Eischnee in 2-3 Portionen mit einem Teigschaber vorsichtig unter den Teig rühren. Der Teig muss direkt weiterverarbeitet werden."},{"headline":null,"content":"Pfanne mit passendem Deckel vorbereiten. Pfanne erhitzen, 1 TL Öl zugeben und das Fett mit einem Pinsel oder Küchenpapier verteilen, Herdplatte niedrig einstellen. Zwei bis drei etwa 5 cm großen Haufen Teig mit Hilfe eines Eisportionieres oder eines Spritzbeutels mit Abstand in die Pfanne spritzen. Deckel auf die Pfanne setzen und 3-4 Minuten bei niedriger Hitze garen lassen. Deckel entfernen, Pancakes vorsichtig mit einem dünnen Pfannenwender oder einer Kuchenschaufel wenden und erneut mit dem geschlossenen Deckel 2-3 Minuten fertig backen. Weiteren Teig verarbeiten."},{"headline":null,"content":"Japanische Pancakes auf einen Teller auftürmen und beliebig mit Beeren, Ahornsirup, und/ oder Puderzucker servieren."}],"recipe_tips":[{"headline":"So fluffig","content":"werden die Pancakes nur durch die sanfte und feuchte Hitze die durch den Einsatz des Deckels entsteht. Solltest du keinen passenden Deckel haben, kannst du auch eine Torten-Metallscheibe verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Japanische Pancakes</Title>
+    <Headline position="1">Japanische Pancakes</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-07T15:40:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80j85xohi5h6hk9ogip">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zqvfhslf9d1254kb7n7" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="2" plural="neutrales Speiseöl"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="3" plural="Zitronenabrieb" suffix=" oder Vanilleessenz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Größe: M)" plural="Eier" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_681df77f8840d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" position="1" prefix="Etwas" suffix="zum Braten" plural="Fett"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" position="2" prefix="frische" suffix="Ahornsirup, Puderzucker zum Garnieren" plural="Beeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80j861gqzjq6qgitgip">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Milch, Öl und Zitronenabrieb bzw. nach Belieben Vanilleessenz in einer Schüssel verrühren. Eier trennen. Eigelbe zum Milchmix geben und vermischen. Mehl zugeben und mit einem Rührbesen klumpenfrei rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80j861gqzs7y58aqgip">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eiweiße mit den Rührbesen des Handrührgerätes steif schlagen, dabei Salz und Zucker einrieseln lassen. So lange auf höchster Stufe schlagen bis ein fester, stabiler Eischnee entstanden ist. 
+Eischnee in 2-3 Portionen mit einem Teigschaber vorsichtig unter den Teig rühren. Der Teig muss direkt weiterverarbeitet werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80j861gqzx51c8eqogip">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Pfanne mit passendem Deckel vorbereiten. 
+Pfanne erhitzen, 1 TL Öl zugeben und das Fett mit einem Pinsel oder Küchenpapier verteilen, Herdplatte niedrig einstellen. 
+Zwei bis drei etwa 5 cm großen Haufen Teig mit Hilfe eines Eisportionieres oder eines Spritzbeutels mit Abstand in die Pfanne spritzen. Deckel auf die Pfanne setzen und 3-4 Minuten bei niedriger Hitze garen lassen. Deckel entfernen, Pancakes vorsichtig mit einem dünnen Pfannenwender oder einer Kuchenschaufel wenden und erneut mit dem geschlossenen Deckel 2-3 Minuten fertig backen. Weiteren Teig verarbeiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80j861gr01u1iojzwgip">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Japanische Pancakes auf einen Teller auftürmen und beliebig mit Beeren, Ahornsirup, und/ oder Puderzucker servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80j861gr06w1lirw7gip">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">werden die Pancakes nur durch die sanfte und feuchte Hitze die durch den Einsatz des Deckels entsteht. Solltest du keinen passenden Deckel haben, kannst du auch eine Torten-Metallscheibe verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So fluffig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808godd2hc6unxucdvb" file_variant="master" position="1">Japanische_Pancakes_20357.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_681df7fe8986b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808goek1xua13eelc1m0x" file_variant="master" position="1">Japanische_Pancakes_20344.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_681df7ffe781e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808go8idyw019qjsq1jo1" file_variant="master" position="1">Japanische_Pancakes_14209.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_681df80179854">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808go9yi0ia12q33y1m0x" file_variant="master" position="1">Japanische_Pancakes_15106.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_681df80341aa7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc808gobsa2866ejedvb" file_variant="master" position="1">Japanische_Pancakes_13712.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

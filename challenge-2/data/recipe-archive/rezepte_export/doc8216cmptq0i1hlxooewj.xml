@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8216cmptq0i1hlxooewj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T15:35:06+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T11:16:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Käsemuffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":90,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver edelsüß","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"geriebener Käse","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Eier mit Buttermilch, Olivenöl und Paprikapulver verquirlen. Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Silikon-Muffinform mit kaltem Wasser ausschwenken, nicht abtrocknen."},{"headline":null,"content":"Mehl mit Backpulver und Salz vermischen und zur Eier-Buttermilch-Mischung geben. Gut verrühren. Jetzt den geriebenen Käse hinzugeben und nochmal kurz durchrühren, bis alles gut vermischt ist."},{"headline":null,"content":"Mit einem Eisportionierer Mulden des Muffinblechs zu zwei Dritteln befüllen. Muffins im vorgeheizten Ofen ca. 20-25 Min. goldbraun backen. Warm servieren. Dazu passt wunderbar ein grüner Salat."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Käsemuffins</Title>
+    <Headline position="1">Käsemuffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T15:35:06+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8216ck0pv2vo5gxyewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Buttermilch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="90" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="4" plural="Paprikapulver edelsüß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" plural="geriebener Käse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8216cmptouw1afg84ewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eier mit Buttermilch, Olivenöl und Paprikapulver verquirlen. Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Silikon-Muffinform mit kaltem Wasser ausschwenken, nicht abtrocknen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8216cmptp3cz541rewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl mit Backpulver und Salz vermischen und zur Eier-Buttermilch-Mischung geben. Gut verrühren. Jetzt den geriebenen Käse hinzugeben und nochmal kurz durchrühren, bis alles gut vermischt ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8216cmptp6t1c6bslewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit einem Eisportionierer Mulden des Muffinblechs zu zwei Dritteln befüllen. Muffins im vorgeheizten Ofen ca. 20-25 Min. goldbraun backen. Warm servieren. Dazu passt wunderbar ein grüner Salat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

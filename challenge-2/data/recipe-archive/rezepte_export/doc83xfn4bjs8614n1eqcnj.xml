@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83xfn4bjs8614n1eqcnj" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-31T10:49:50+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-31T11:02:16+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="70"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Putenbraten","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Backen","duration":70}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Putenbrust oder Putenrollbraten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Gemüse- oder Geflügelbrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":"große Prise","suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Raps- oder Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Zwiebeln schälen und grob würfeln. Die Knoblauchzehe schälen und andrücken. Den Backofen auf 120 Grad vorheizen."},{"headline":null,"content":"Die Putenbrust mit Küchenkrepp trockentupfen, rundherum mit Salz und Pfeffer würzen und mit dem Öl einpinseln. Die Putenbrust in eine Auflaufform oder auf ein Backblech geben und Knoblauch und Zwiebelstücke rundherum verteilen und die Brühe angießen."},{"headline":null,"content":"Den Braten für ca. 60 Minuten Umluft in den Ofen schieben und während dem Garen hin und wieder mal drehen. Nach den 60 Minuten den Backofen auf 200 Grad Umluft einstellen und den Braten mit dem Honig bepinseln. Für ca. 10 Minuten knusprig und golden fertig garen."},{"headline":null,"content":"Mit einem dünnen Messer oder einer Fleischgabel vorsichtig in den Braten stechen. Tritt ein wenig klarer Bratensaft heraus, ist der Braten gar."}],"recipe_tips":[{"headline":"Beim Putenbraten solltest du besonders darauf achten, dass er nicht zu trocken wird.","content":"Daher lieber mit niedriger Hitze garen."}]}</CustomStructuredRecipeJson>
+    <Title>Putenbraten</Title>
+    <Headline position="1">Putenbraten</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-31T10:49:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83xfn2spdpxwjg1fcnj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" max_amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8961" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" suffix="oder -rollbraten" plural="Putenbrust"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz" position="4" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="5"/>
+      <CustomRecipeIngredient topic="tmt80j1gxqrm555fxqsgip" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="6" plural="Raps- oder Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6196" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" prefix="Gemüse- oder" plural="Geflügelbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6954f2fabd948">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9311" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Rosenkohl"/>
+      <CustomRecipeIngredient topic="tmt80j8jh7ru8o1mun50gip" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="vorwiegend festkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="3" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="4" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83xfn4bjfzoio3ydcnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebeln schälen und grob würfeln. Die Knoblauchzehe schälen und andrücken. Den Backofen auf 120 Grad Umluft (140 Grad Ober- und Unterhitze) vorheizen. Die Putenbrust mit Küchenkrepp trockentupfen, rundherum mit Salz und Pfeffer würzen und mit dem Öl einpinseln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Putenbraten </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83xfn4bjj36wog5xcnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Putenbrust in eine Auflaufform oder auf ein Backblech geben und Knoblauch und Zwiebelstücke rundherum verteilen. Die Gemüsebrühe in die Form bzw. auf das Blech gießen. Den Braten für ca. 60 Minuten in den Ofen schieben und während dem Garen hin und wieder mal drehen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83xfn4bjj7om3l0scnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Du kannst beispielsweise Rosenkohl und Kartoffeln dazugeben. Dazu den Rosenkohl waschen und putzen, die Kartoffeln schälen. Die Kartoffeln in leicht gesalzenem Wasser halbfertig garen (je nach Größe 10-15 Minuten). Rosenkohl und Kartoffeln mit Salz und Pfeffer würzen und nach 35 Minuten um den Braten herum in die Auflaufform geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Als Beilage </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83xfn4bjjb71hhh1ccnj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Nach den 60 Minuten den Backofen auf 200 Grad Umluft (220 Grad Ober- und Unterhitze) einstellen und den Braten mit dem Honig bepinseln. Den Putenbraten für ca. 10 Minuten knusprig und golden fertig garen. Mit einem dünnen Messer oder einer Fleischgabel vorsichtig in den Braten stechen. Tritt ein wenig klarer Bratensaft heraus, ist der Braten gar. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83xfn4bjjeq1gjsfacnj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Beim Putenbraten solltest du besonders darauf achten, dass er nicht zu trocken wird. Daher lieber mit niedriger Hitze garen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So wird dein Putenbraten saftig</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdjerg57r1n1tjktrv" file_variant="master" position="1">Putenbraten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6954f4a09f7b6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdk75bolll7dicuee" file_variant="master" position="1">Putenbraten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6954f4a25afd2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdklcmys0np5mctsb" file_variant="master" position="1">Putenbraten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6954f4a568ab0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdiw019ex1gw60ztrv" file_variant="master" position="1">Putenbraten</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6954f4a720607">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82rdjpvb48y3nwy5uee" file_variant="master" position="1">Putenbraten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

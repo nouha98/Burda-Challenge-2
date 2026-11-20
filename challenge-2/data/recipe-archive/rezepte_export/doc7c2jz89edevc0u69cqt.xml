@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2jz89edevc0u69cqt" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:38:57+02:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2025-10-20T10:30:32+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt6p3ce78n98kj11qqkmb" position="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy" position="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap" position="1"/>
+    <Creator topic="tmt7227qo31caggkepem67" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <LastEditedBy topic="tmt6zku4qkdqfr1ls06wbcq"/>
+    <CustomBlpId position="1">42689</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:Geprüft</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">470</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">26</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">34</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">25</CustomRecipeNutritionalValueFat>
+    <CustomCenshareImportIssue>invalid ingredient unit 'getr. EL'</CustomCenshareImportIssue>
+    <Title>Weißkohl-Kasseler-Gulasch</Title>
+    <Headline position="1">Weißkohl-Kasseler-Gulasch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2018-11-14T00:00:00+01:00</DateCreated>
+    <DateImported>2020-08-27T16:38:57+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="105c9c">
+      <CustomRecipeIngredient topic="tmt794qf1fed1dr809se46" amount="1" unit_topic="tm_topic_default_unit" position="1" unit="(Keine Einheit)" plural="Zwiebel"/>
+      <CustomRecipeIngredient topic="tmt786adv47pqstbc8e2mn" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="geräucherter Speck"/>
+      <CustomRecipeIngredient topic="tmt78669spcyp1zcialidm" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Kasselerrücken"/>
+      <CustomRecipeIngredient topic="tmt794qf1fpdg079xwve46" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt796n3ytrff48t10mffr" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt794qf4eqk8p1leafne46" amount="1" unit_topic="tm_topic_default_unit" position="6" unit="(Keine Einheit)" prefix="Löffel (gestrichen)" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt7869qln0eyx1k6t4oavd" amount="850" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="7" unit="g" plural="stückige Tomaten (Dose)"/>
+      <CustomRecipeIngredient topic="tmt794qf1ftjavs1u17e45" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt794qf1fic0625kghe46" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt796ny2cvus2j1vf6ffs" amount="350" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" unit="g" plural="Weißkohl"/>
+      <CustomRecipeIngredient topic="tmt7bzbuf5t2uh91nc6bzx" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="13" unit="g" plural="frische Spätzle (Kühlregal)"/>
+      <CustomRecipeIngredient topic="tmt794qf1g4gpy49o28e45" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="14" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt796njrqru0l1apz3xffs" unit_topic="tm_topic_default_unit" position="15" unit="(Keine Einheit)" plural="Muskat"/>
+      <CustomRecipeIngredient topic="tmt7869oo5paig1bczx1avd" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="16" unit="EL" plural="gehackte Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="105d71">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen, in Spalten schneiden. Speck in Streifen, Kasseler in Würfel schneiden. Alles 2–3 Min. in einem Topf in 1 EL Öl goldbraun anbraten. Mark und Mehl darin kurz mitrösten. Tomaten, Brühe zugeben, aufkochen. Mit Salz, Pfeffer, Zucker würzen. Ca. 20 Min. zugedeckt köcheln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="105d82">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Kohl putzen, klein schneiden. 3–4 Min. in 2 EL Öl anbraten. Zum Gulasch geben, 20 Min. köcheln. Spätzle kurz in 2 EL Butter braten. Mit Salz, Muskat würzen. Petersilie zum Gulasch geben. Mit Spätzle anrichten. Evtl. mit Petersilie garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="blpbild-4669474" file_variant="master" position="1">Weißkohl-Kasslergulasch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jz8m9yqvggv4bcqt" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:38:58+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jz89edevc0u69cqt"/>
+      <hash>462b572b652819e49185d25e95b2632c</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:38:58+02:00</modified>
+      <size>7572</size>
+      <subpath>2020/08-27/16/fa/file7c2jz8m9yqvggv4bcqt.xml</subpath>
+      <type>original</type>
+      <variant>image_metadata_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jz8o3eont1mg1cqt" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:38:58+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jz89edevc0u69cqt"/>
+      <hash>34b328c95e37ce36d47cf45df63c1671</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:38:58+02:00</modified>
+      <size>5520</size>
+      <subpath>2020/08-27/72/78/file7c2jz8o3eont1mg1cqt.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jz8kbduo1ab4jycqt" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:38:58+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jz89edevc0u69cqt"/>
+      <hash>c15e73aa08cc959d8aea0627026f2dca</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>4</modcount>
+      <modified>2020-08-27T16:38:58+02:00</modified>
+      <size>424</size>
+      <subpath>2020/08-27/25/5d/file7c2jz8kbduo1ab4jycqt.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

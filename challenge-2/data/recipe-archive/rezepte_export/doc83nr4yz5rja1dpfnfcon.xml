@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83nr4yz5rja1dpfnfcon" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-12T14:39:33+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-06T18:23:04+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="12" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt83nr70h54ja13awt7cps"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananenbrot mit Passionsfrucht-Butter","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Backen","duration":60}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"reife Bananen","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 500 g)"},{"amount":125,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":260,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":225,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"gemahlener Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Passionsfrüchte","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"weiche Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Backofen auf 180 Grad (Umluft nicht geeignet) vorheizen. Die Kastenform mit Backpapier auskleiden. Bananen schälen, in eine Rührschüssel geben und grob zerdrücken. Mit Öl, Eiern, Zucker und Vanillezucker verrühren. Mehl mit Backpulver und Zimt mischen, rasch unter die Bananenmischung rühren. Den Teig in die Form füllen, glatt streichen und im Ofen ca. 60 Minuten backen."},{"headline":null,"content":"Das Bananenbrot etwas abkühlen lassen, dann auf ein Gitter stürzen und vollständig auskühlen lassen."},{"headline":null,"content":"In der Zwischenzeit 3 Passionsfrüchte halbieren und das Fruchtmark auskratzen. Die Butter cremig rühren, dabei nach und nach Puderzucker dazugeben. Passionsfruchtmark unterrühren."},{"headline":null,"content":"Das Bananenbrot zweimal waagrecht durchschneiden. Das untere und mittlere Brotdrittel mit der Passionsfrucht-Butter bestreichen. Brot wieder aufeinandersetzen und leicht andrücken."},{"headline":null,"content":"Das Bananenbrot zum Servieren in Stücke schneiden. Die übrigen 2 Passionsfrüchte halbieren, das Fruchtmark auskratzen und dazureichen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bananenbrot mit Passionsfrucht-Butter</Title>
+    <CustomRecipeNoteInformation position="1">Kastenform (Länge ca. 20 cm)</CustomRecipeNoteInformation>
+    <Headline position="1">Bananenbrot mit Passionsfrucht-Butter</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-12T14:39:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83nr52p0zrc1a0odhtbc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(ca. 500 g)" position="1" plural="Bananen" prefix="reife "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="260" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="225" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt808hl2wiu6a94f0yvbq" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="8" plural="gemahlener Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8596" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="9" plural="Passionsfrucht"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" plural="weiche Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83nr55233fmwnua3tbc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad (Umluft nicht geeignet) vorheizen. Die Kastenform mit Backpapier auskleiden. Bananen schälen, in eine Rührschüssel geben und grob zerdrücken. Mit Öl, Eiern, Zucker und Vanillezucker verrühren. Mehl mit Backpulver und Zimt mischen, rasch unter die Bananenmischung rühren. Den Teig in die Form füllen, glatt streichen und im Ofen ca. 60 Minuten backen. Das Bananenbrot etwas abkühlen lassen, dann auf ein Gitter stürzen und vollständig auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83nr5523afm16iwe2tbc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In der Zwischenzeit 3 Passionsfrüchte halbieren und das Fruchtmark auskratzen. Die Butter cremig rühren, dabei nach und nach Puderzucker dazugeben. Passionsfruchtmark unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83nr5523akm15lv3ktbc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Bananenbrot zweimal waagrecht durchschneiden. Das untere und mittlere Brotdrittel mit der Passionsfrucht-Butter bestreichen. Brot wieder aufeinandersetzen und leicht andrücken. Das Bananenbrot zum Servieren in Stücke schneiden. Die übrigen 2 Passionsfrüchte halbieren, das Fruchtmark auskratzen und dazureichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Banana Bread mit Passionsfrucht-Butter; Styling: Krisztina Zombori; Foodstyling und Rezepte: Adam Koor</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/ Thorsten Suedfels</ImageCredit>
+      <DocumentRef doc_id="doc7ajlqb0vm6h1encwaoef" file_variant="master" position="1">slowly Veggie 04/2020</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

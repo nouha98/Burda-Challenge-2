@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81fmhhqzbut1kesnzgzy" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-09T16:55:43+02:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2025-08-04T15:44:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-land"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-entr"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpzd3r694do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Lachs-Lasagne mit Spinat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":60},{"name":"Backen","duration":30}],"difficulty":null,"price":null,"nutritions":{"calories":910,"kilojoule":3809,"carbonhydrates":50,"fat":56,"protein":49,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":12,"amountTo":null,"ingredient_name":"Lasagneplatten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lauch","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Blattspinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Muskat","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Lachsfilet","unit":{"name":"g"},"prefix":null,"suffix":"ohne Haut"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schafskäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Lasagneplatten in kochendem Salzwasser nach Packungsangabe bissfest garen. Abgießen und abtropfen lassen. Die Platten mit Olivenöl mischen, damit sie nicht kleben."},{"headline":null,"content":"Lauch abbrausen, putzen und in Ringe schneiden. 2–3 Minuten in kochendem Salzwasser blanchieren, dann abschrecken und abtropfen. Den Spinat abbrausen, putzen und tropfnass in einem Topf unter Rühren zusammenfallen lassen. Dann den Spinat ausdrücken."},{"headline":null,"content":"Den Fisch abtupfen und schräg in dünne Scheiben schneiden. Mit Salz und Pfeffer würzen. Käse zerbröckeln. Den Lauch ca. 2 Minuten in 1 EL Butter andünsten. Mit Sahne ablöschen. Mit Salz und Muskat würzen. Die Soße offen ca. 4 Minuten einköcheln lassen."},{"headline":null,"content":"Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Nudeln, Lauch samt Soße, Käse, Spinat und Fisch im Wechsel in eine gefettete Auflaufform schichten. Die Lachs-Lasagne mit Pfeffer würzen. 25–30 Minuten backen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Lachs-Lasagne mit Spinat</Title>
+    <CustomRecipeNutritionalValueCalories position="1">910</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">50</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">56</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">49</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <SubHeadline position="1">60399622 Lachslasagne mit Spinat und Ziegenkäse</SubHeadline>
+    <Headline position="1">Lachs-Lasagne mit Spinat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-09T16:55:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81fmhk2f9rr17kguhnyn">
+      <CustomRecipeIngredient topic="tmt80l6dbj57kmvdifh908" amount="12" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Lasagneplatten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7661" amount="2" unit="Stange" unit_topic="tmt_ingredient_unit_stange" plural="Lauch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Blattspinat" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8301" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Muskat" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7581" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="ohne Haut" plural="Lachsfilet" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9671" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schafskäse" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="11" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81fmhqw6ixvs4mfsnyn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Lasagneplatten in kochendem Salzwasser nach Packungsangabe bissfest garen. Abgießen und abtropfen lassen. Die Platten mit Olivenöl mischen, damit sie nicht kleben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81fmhqw6qf71001dtnyn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lauch abbrausen, putzen und in Ringe schneiden. 2–3 Minuten in kochendem Salzwasser blanchieren, dann abschrecken und abtropfen. Den Spinat abbrausen, putzen und tropfnass in einem Topf unter Rühren zusammenfallen lassen. Dann den Spinat ausdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81fmhqw6qmo1b3sr3nyn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Fisch abtupfen und schräg in dünne Scheiben schneiden. Mit Salz und Pfeffer würzen. Käse zerbröckeln. Den Lauch ca. 2 Minuten in 1 EL Butter andünsten. Mit Sahne ablöschen. Mit Salz und Muskat würzen. Die Soße offen ca. 4 Minuten einköcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81fmhqw6qs11670lpnyn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Nudeln, Lauch samt Soße, Käse, Spinat und Fisch im Wechsel in eine gefettete Auflaufform schichten. Die Lachs-Lasagne mit Pfeffer würzen. 25–30 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lachslasagne mit Spinat und Ziegenkäse</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photocuisine</ImageCredit>
+      <DocumentRef doc_id="doc7hujvw2tgxg1c3z3k1d" file_variant="master" position="1">Lachslasagne mit Spinat und Ziegenkäse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

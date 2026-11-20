@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83qc27ui3e815nu4joj1" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-17T15:13:26+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-17T15:37:48+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="1" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="70"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="75"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt83qcdhfnbg71630w3ooq"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Glutenfreies Oliven-Rosmarin-Brot","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":70},{"name":"Ruhen/Warten","duration":75}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"glutenfreies Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(Universal-Mix, z.B. von Bauck Mühle, Schär)"},{"amount":1.5,"amountTo":null,"ingredient_name":"feines Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"frische Hefe","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"entsteinte Oliven","unit":{"name":"g"},"prefix":null,"suffix":"(z.B. Kalamata-Oliven)"},{"amount":1,"amountTo":null,"ingredient_name":"Rosmarinnadeln","unit":{"name":"EL"},"prefix":null,"suffix":"und evtl. Rosmarin zum Garnieren"},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"TL"},"prefix":null,"suffix":"und evtl. etwas Öl für die Kastenform"},{"amount":null,"amountTo":null,"ingredient_name":"Meersalz","unit":null,"prefix":"evtl.","suffix":"(z.B. Maldon Sea Salt)"}]}],"preparation":[{"headline":null,"content":"Mehl, Salz und 300 ml lauwarmes Wasser (38 Grad) in die Rührschüssel einer Küchenmaschine geben. Mit dem Flachrührer auf niedriger Stufe ca. 10 Minuten vermischen. Die frische Hefe fein zerbröseln, zugeben und ca. 2 Minuten weiterkneten. Oliven und Rosmarin evtl. grob hacken und zusammen mit dem Olivenöl dazugeben. Das Ganze noch weitere ca. 2 Minuten kneten, bis der Teig glatt ist, etwa mit einer Konsistenz wie dicke Béchamel-Sauce."},{"headline":null,"content":"Teig in eine beschichtete oder in eine sehr leicht eingeölte Kastenform füllen und bei Zimmertemperatur an einem zugfreien Ort ca. 75 Minuten gehen lassen."},{"headline":null,"content":"Den Backofen auf 240 Grad Ober-/Unterhitze (Umluft 220 Grad) vorheizen. Den Teig mit einer Rasierklinge (oder einem scharfen Messer) leicht einschneiden und die Teigoberfläche nach Belieben mit etwas Meersalz und mit Rosmarinzweigen garnieren. Teig im vorgeheizten Ofen ca. 20 Minuten backen, dann die Temperatur um 40 Grad reduzieren. Brot in 20–30 Minuten fertig backen. Herausnehmen, auf einem Kuchengitter auskühlen lassen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Glutenfreies Oliven-Rosmarin-Brot</Title>
+    <Headline position="1">Glutenfreies Oliven-Rosmarin-Brot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-17T15:13:26+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83qc2app3t51g4g4rksj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8451" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z.B. Kalamata-Oliven)" position="4" prefix="entsteinte" plural="Oliven"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8116" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="evtl." suffix="(z.B. Maldon Sea Salt)" plural="Meersalz" position="7"/>
+      <CustomRecipeIngredient topic="tmt7zien51myeb1clxc9ifb" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Universal-Mix, z.B. von Bauck Mühle, Schär)" position="1" plural="Glutenfreies Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" prefix="feines" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt7zg4j024otz1i5j3jbqf" amount="4" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt7hkab6x1t1kofr241f0" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="und evtl. Rosmarin zum Garnieren" plural="Rosmarinnadeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="und evtl. etwas Öl für die Kastenform" plural="Olivenöl" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83qc2c90qva1hxw20ksj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl, Salz und 300 ml lauwarmes Wasser (38 Grad) in die Rührschüssel einer Küchenmaschine geben. Mit dem Flachrührer auf niedriger Stufe ca. 10 Minuten vermischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qc2c90urb1k55krksj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die frische Hefe fein zerbröseln, zugeben und ca. 2 Minuten weiterkneten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83qc2c90uw91levgbksj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Oliven und Rosmarin evtl. grob hacken und zusammen mit dem Olivenöl dazugeben. Das Ganze noch weitere ca. 2 Minuten kneten, bis der Teig glatt ist, etwa mit einer Konsistenz wie dicke Béchamel-Sauce. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6942bff7ba98e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Teig in eine beschichtete oder in eine sehr leicht eingeölte Kastenform füllen und bei Zimmertemperatur an einem zugfreien Ort ca. 75 Minuten gehen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6942c007255f1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 240 Grad Ober-/Unterhitze (Umluft 220 Grad) vorheizen. Den Teig mit einer Rasierklinge (oder einem scharfen Messer) leicht einschneiden und die Teigoberfläche nach Belieben mit etwas Meersalz und mit Rosmarinzweigen garnieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6942c014af664">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Teig im vorgeheizten Ofen ca. 20 Minuten backen, dann die Temperatur um 40 Grad reduzieren. Brot in 20–30 Minuten fertig backen. Herausnehmen, auf einem Kuchengitter auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Glutenfreies Oliven-Rosmarin-Brot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Silke Zander</ImageCredit>
+      <DocumentRef doc_id="doc82f47fxn1eqthjg5b5e" file_variant="master" position="1">Glutenfreies Oliven-Rosmarin-Brot</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

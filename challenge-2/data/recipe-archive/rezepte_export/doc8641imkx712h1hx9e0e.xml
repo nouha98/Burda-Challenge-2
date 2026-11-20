@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8641imkx712h1hx9e0e" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-02T11:29:24+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-06-02T11:42:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ze5uut0sxtyocqlcde"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="10" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rok1ii81ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rolt1gbekbdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrro9hkmzdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt8641od75xsh4p58be2c"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Quitten-Honig-Punsch","recipe_seo_headline":null,"servings":{"amount":10.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Zitronen-Schwarztee","unit":{"name":"Packung"},"prefix":null,"suffix":"Beutel"},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"l"},"prefix":null,"suffix":"kochend"}]},{"headline":"Für das Picknick","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"Stück"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tee","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.7,"amountTo":null,"ingredient_name":"Quittensaft","unit":{"name":"l"},"prefix":null,"suffix":"(o. Apfelsaft)"},{"amount":200,"amountTo":null,"ingredient_name":"Orangenlikör","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":"eventuell","amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Am Vortag","content":"Zitronen-Schwarztee und Honig mit 1 l kochendem Wasser übergießen. 10 Minuten ziehen lassen. Beutel entfernen. Kalt stellen."},{"headline":"Für das Picknick","content":"Bio-Limette waschen, in Scheiben teilen. Saft von 3 Limetten, Limettenscheiben und den Tee in ein großes, verschließbares Gefäß (mindestens 3 l Inhalt) geben. Mit Quittensaft oder Apfelsaft auffüllen. Orangenlikör und Wodka zugeben. Eventuell Eiswürfel mitnehmen und zum Servieren zugeben."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Quitten-Honig-Punsch</Title>
+    <Headline position="1">Quitten-Honig-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-02T11:29:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8641ior3ex5uzsrenyb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9881" amount="4" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="Beutel" position="1" prefix="Zitronen-" plural="Schwarztee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Am Vortag</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8641ip6s2mqjecntnyb">
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Saft von" plural="Limetten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10526" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Tee" position="3"/>
+      <CustomRecipeIngredient topic="tmt7njnp9sfuxtcv5byjpi" amount="0.7" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(o. Apfelsaft)" plural="Quittensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8491" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangenlikör" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="20" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="7" amount_error="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Picknick</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8641irlx15z158caunyb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: Zitronen-Schwarztee und Honig mit 1 l kochendem Wasser übergießen. 10 Minuten ziehen lassen. Beutel entfernen. Kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8641irlx7hlgocsxnyb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für das Picknick: Bio-Limette waschen, in Scheiben teilen. Limettensaft, Limettenscheiben und den Tee in ein großes, verschließbares Gefäß (mindestens 3 l Inhalt) geben. Mit Quittensaft oder Apfelsaft auffüllen. Orangenlikör und Wodka zugeben. Eventuell Eiswürfel mitnehmen und zum Servieren zugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Honig-Quitten-Punsch, warmer Minz-Orangen-Tee</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc803vl6kbeztbuu4q9kx" file_variant="master" position="1">Honig-Quitten-Punsch, warmer Minz-Orangen-Tee</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

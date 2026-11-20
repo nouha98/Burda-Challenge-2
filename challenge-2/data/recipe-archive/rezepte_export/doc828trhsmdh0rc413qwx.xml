@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc828trhsmdh0rc413qwx" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-04T12:55:23+02:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2025-09-05T08:54:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <Source topic="tmt8298szxxf6udqmz9bk"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sesam-Pekannuss-Konfekt","recipe_seo_headline":null,"servings":{"amount":35.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":{"calories":105,"kilojoule":439,"carbonhydrates":8,"fat":7,"protein":2,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":110,"amountTo":null,"ingredient_name":"Pekannüsse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Dattelsüße","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Kardamompulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"flüssige","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"Type 630"},{"amount":100,"amountTo":null,"ingredient_name":"Weizenvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mandeln","unit":{"name":"g"},"prefix":"gemahlene","suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Sesam","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"80 g Nüsse fein mahlen, 30 g grob hacken. Eier trennen. Eiweiße mit 1 Prise Salz steif schlagen. Dattelsüße, Gewürze und Extrakt unterziehen."},{"headline":null,"content":"Eigelbe und Butter mit beiden Sorten Mehl sowie gemahlenen Nüssen und Mandeln mischen. Sesam zufügen. Zügig unterrühren. 130 g Eischnee portionsweise unterheben. Alles zum festen, klebrigen Teig vermengen."},{"headline":null,"content":"Den Ofen auf 175 Grad Ober-/Unterhitze vorheizen. Ein Backblech mit Backpapier belegen. Je 1 EL Teig abnehmen, zum walnussgroßen Bällchen formen. Mit Abstand auf das Blech legen und leicht flach drücken."},{"headline":null,"content":"Je 1 Tupfen Eischnee draufgeben. Mit gehackten Nüssen bestreuen. 12–15 Min. goldbraun backen. Auf Kuchengitter ziehen und auskühlen lassen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Sesam-Pekannuss-Konfekt</Title>
+    <CustomRecipeNutritionalValueCalories position="1">105</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">439</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">8</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">7</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0.7</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Sesam-Pekannuss-Konfekt </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-04T12:55:23+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="828trkmf2de75xfv2kn">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8616" amount="110" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Pekannüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt8298qdkimwkww2kr9a9" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Dattelsüße"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimtpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt7hvj7e7lppu1ms8mza4o" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Kardamompulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="flüssige" plural="Butter" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="Type 630" plural="Dinkelmehl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11146" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenvollkornmehl" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemahlene" plural="Mandeln" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sesam" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="828troepqoio90l92kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">80 g Nüsse fein mahlen, 30 g grob hacken. Eier trennen. Eiweiße mit 1 Prise Salz steif schlagen. Dattelsüße, Gewürze und Extrakt unterziehen. Eigelbe und Butter mit beiden Sorten Mehl sowie gemahlenen Nüssen und Mandeln mischen. Sesam zufügen. Zügig unterrühren. 130 g Eischnee portionsweise unterheben. Alles zum festen, klebrigen Teig vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="828troepv4l1it3la2kn">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Ofen auf 175 Grad Ober-/Unterhitze vorheizen. Ein Backblech mit Backpapier belegen. Je 1 EL Teig abnehmen, zum walnussgroßen Bällchen formen. Mit Abstand auf das Blech legen und leicht flach drücken. Je 1 Tupfen Eischnee draufgeben. Mit gehackten Nüssen bestreuen. 12–15 Min. goldbraun backen. Auf Kuchengitter ziehen und auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Sesam-Pekannuss-Konfekt (zuckerfrei)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Daniels, Sabrina Sue</ImageCredit>
+      <DocumentRef doc_id="doc7viusxdcd1lg88t4g5p" file_variant="master" position="1">Sesam-Pekannuss-Konfekt (zuckerfrei)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

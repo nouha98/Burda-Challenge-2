@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc854kipl4crt1e7jjeg1t" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-25T09:37:56+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-25T09:45:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Carrot-Cake-Cookies","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":55}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"Stück"},"prefix":"großer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"(daumengroß)"},{"amount":80,"amountTo":null,"ingredient_name":"Dattel","unit":{"name":"g"},"prefix":null,"suffix":"(entsteint)"},{"amount":100,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Typ 1050)"},{"amount":100,"amountTo":null,"ingredient_name":"Haselnuss","unit":{"name":"g"},"prefix":null,"suffix":"gemahlene"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"Prise"},"prefix":null,"suffix":"mit Fluorid"},{"amount":3,"amountTo":null,"ingredient_name":"Kokosöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Möhren putzen, schälen und grob raspeln, Apfel schälen, vom Kerngehäuse befreien und ebenfalls raspeln. Ingwer schälen und fein hacken, Datteln in kleine Stücke schneiden."},{"headline":null,"content":"Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen. Haferflocken, Dinkelmehl, gemahlene Haselnüsse, Backpulver, Zimt und Salz in einer Schüssel verrühren. Kokosöl in einen Topf geben und bei kleiner Hitze verflüssigen."},{"headline":null,"content":"Geraspeltes Gemüse, Ingwer und Datteln zu den trockenen Zutaten geben, Kokosöl und Ahornsirup dazugeben und gut verkneten, sodass ein Teig entsteht. Aus dem Teig 16 Cookies formen (geht am besten mit feuchten Händen), auf das Backblech geben und flach drücken. Etwa 35 Minuten auf mittlerer Schiene backen und anschließend gut auskühlen lassen. Die Kekse bleiben nach dem Backen recht weich."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Carrot-Cake-Cookies</Title>
+    <Headline position="1">Carrot-Cake-Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-25T09:37:56+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="854kim7f04k1erxilg1t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Möhren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="großer" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(daumengroß)" plural="Ingwer" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(entsteint)" plural="Datteln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Typ 1050)" plural="Dinkelmehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haselnüsse" position="7" prefix="gemahlene"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" suffix="mit Fluorid" plural="Jodsalz" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kokosöl" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="854kipl1a2h1mgzbfg1t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Möhren putzen, schälen und grob raspeln, Apfel schälen, vom Kerngehäuse befreien und ebenfalls raspeln. Ingwer schälen und fein hacken, Datteln in kleine Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="854kipl1j9y1iclh9g1t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen. Ein Backblech mit Backpapier auslegen. Haferflocken, Dinkelmehl, gemahlene Haselnüsse, Backpulver, Zimt und Salz in einer Schüssel verrühren. Kokosöl in einen Topf geben und bei kleiner Hitze verflüssigen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="854kipl1jk6nl7vug1t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Geraspeltes Gemüse, Ingwer und Datteln zu den trockenen Zutaten geben, Kokosöl und Ahornsirup dazugeben und gut verkneten, sodass ein Teig entsteht. Aus dem Teig 16 Cookies formen (geht am besten mit feuchten Händen), auf das Backblech geben und flach drücken. Etwa 35 Minuten auf mittlerer Schiene backen und anschließend gut auskühlen lassen. Die Kekse bleiben nach dem Backen recht weich.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Carrot-Cake-Cookies</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu453tju9y1mfdylomq" file_variant="master" position="1">CarrotCakeCookies2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69c3a0b632504">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Carrot-Cake-Cookies</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu459aixdw10ityxm4r" file_variant="master" position="1">CarrotCakeCookiesStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69c3a0b821d72">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Carrot-Cake-Cookies</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7hu44qq3yld1n0x455cq" file_variant="master" position="1">CarrotCakeCookies1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

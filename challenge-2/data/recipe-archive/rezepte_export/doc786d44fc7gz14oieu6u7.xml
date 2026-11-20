@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786d44fc7gz14oieu6u7" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T19:31:40+01:00</created>
+  <identifier></identifier>
+  <modcount>14</modcount>
+  <modified>2024-12-03T09:18:02+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="5"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomCenshareId>457224</CustomCenshareId>
+    <Title position="1">Aprikosenkonfitüre mit Vanille</Title>
+    <Headline position="1">Aprikosenkonfitüre mit Vanille</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareRecipeRelationshipParentOf>821234</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>960831</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>852517</CustomCenshareRecipeRelationshipParentOf>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T00:12:32+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="0506bc">
+      <CustomRecipeIngredient topic="tmt7866530cw079p0kyidm" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" amount="1.5" unit_topic="tmt71k9kp8159fev62ddbf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6741" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="05071f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Aprikosen waschen, halbieren, entsteinen und in feine Stücke schneiden. Vanilleschote längs aufschneiden, Mark mit einem Messer herausschaben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="05072d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Früchte mit Vanillemark, Zitronensaft, Sirup und Zucker in einem großen Topf mischen, 60 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="05073c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Mischung pürieren, langsam aufkochen, 5 Minuten sprudelnd kochen, ab und zu umrühren. Gelierprobe machen (siehe Seite 23). Die Konfitüre sofort in heiß ausgespülte Gläser füllen. Gläser verschließen und umgedreht 5 Minuten auf ein Küchentuch stellen. Auskühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="050709">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Frucht-Info</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Das Obst mit der Samthaut hat jetzt Hochsaison. Verwenden Sie zum Einkochen sehr reife, weiche Aprikosen mit einem kräftigen Orangeton. Denn je intensiver die Farbe, desto voller das Aroma. Feste Früchte erwischt? Die reifen in Gesellschaft von Äpfeln innerhalb weniger Tage wunderbar nach.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_463520_last" doc_id="doc786d3dmo6471gimjbavs" position="1">463520-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_f83b40">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel>Bild aus Variante</ImageLabel>
+      <DocumentRef file_variant="censhare_821236_last" doc_id="doc786rk5y589s1ge94slm8">821236-master-first.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b378ov7x1gzcisbn5" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T00:12:32+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_457224</displayname>
+      <doc_id id="doc786d44fc7gz14oieu6u7"/>
+      <hash>23440d6d670c4979e09e7821a6f7347e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T00:12:32+01:00</modified>
+      <size>3172</size>
+      <subpath>2019/12-08/60/65/file78b378ov7x1gzcisbn5.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

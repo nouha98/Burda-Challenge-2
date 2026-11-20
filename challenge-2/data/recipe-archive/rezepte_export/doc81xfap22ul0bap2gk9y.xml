@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81xfap22ul0bap2gk9y" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-13T08:21:27+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-13T08:28:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grapefruit-Limonade","recipe_seo_headline":"Grapefruit-Limonade – einfach selber machen","servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Limonade","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Grapefruits","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Mineralwasser mit viel Kohlensäure","unit":{"name":"ml"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Grapefruitscheiben","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Minze","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Grapefruits und Zitrone heiß waschen und abtrocknen. Jeweils die Schale abreiben, halbieren und auspressen. Du solltest ca. 300 ml Grapefruitsaft und 50 ml Zitronensaft haben."},{"headline":null,"content":"Grapefruitabrieb, Zitronenabrieb, Zucker, Wasser und Salz in einen kleinen Topf geben. Mischung bei mittlerer Stufe unter gelegentlichem Rühren erhitzen, bis sich der Zucker aufgelöst hat. Sirup von der Herdplatte ziehen und komplett abkühlen lassen, dann durch ein Sieb gießen, sodass die Zesten zurückbleiben."},{"headline":null,"content":"Abgekühlten Sirup, Grapefruitsaft, Zitronensaft und Mineralwasser in einem großen Krug mischen. Eiswürfel auf sechs Gläsern (á 250 ml) verteilen. Grapefruitscheiben und frische Minze hinzugeben. Limonade in die Gläser gießen und sofort servieren."}],"recipe_tips":[{"headline":null,"content":"Du kannst den Sirup bereits bis zu 3 Tage im Voraus machen und luftdicht verpackt im Kühlschrank lagern."}]}</CustomStructuredRecipeJson>
+    <Title>Grapefruit-Limonade</Title>
+    <CustomRecipeSeoTitle position="1">Grapefruit-Limonade – einfach selber machen</CustomRecipeSeoTitle>
+    <Headline position="1">Grapefruit-Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-13T08:21:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81xfamn0rlxei7emk9y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6381" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" plural="Grapefruit"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="750" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" plural="Mineralwasser"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Limonade</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81xfanykk45pc19pk9y">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6381" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" suffix="in Scheiben" plural="Grapefruit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="3" prefix="frische" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81xfap22mkn8iirlk9y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Grapefruits und Zitrone heiß waschen und abtrocknen. Jeweils die Schale abreiben, halbieren und auspressen. Du solltest ca. 300 ml Grapefruitsaft und 50 ml Zitronensaft haben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81xfap22pbk1k6lr0k9y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Grapefruitabrieb, Zitronenabrieb, Zucker, Wasser und Salz in einen kleinen Topf geben. Mischung bei mittlerer Stufe unter gelegentlichem Rühren erhitzen, bis sich der Zucker aufgelöst hat. Sirup von der Herdplatte ziehen und komplett abkühlen lassen, dann durch ein Sieb gießen, sodass die Zesten zurückbleiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81xfap22ph3egji6k9y">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Abgekühlten Sirup, Grapefruitsaft, Zitronensaft und Mineralwasser in einem großen Krug mischen. Eiswürfel auf sechs Gläsern (á 250 ml) verteilen. Grapefruitscheiben und frische Minze hinzugeben. Limonade in die Gläser gießen und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81xfap22pky1eo1a0k9y">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst den Sirup bereits bis zu 3 Tage im Voraus machen und luftdicht verpackt im Kühlschrank lagern.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Sirup vorbereiten</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81ay9rnnuawm1s6ssc1" file_variant="master" position="1">GrapefruitLimonade2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689c30845436b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81ay9oxyed11e0omtos7" file_variant="master" position="1">GrapefruitLimonadeStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schale abreiben</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_689c3085ec0e1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81ay9lf48n9anorzrry" file_variant="master" position="1">GrapefruitLimonadeStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Sirup kochen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_689c308773e33">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81ay9ked80m6lh0xpg5" file_variant="master" position="1">GrapefruitLimonade1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

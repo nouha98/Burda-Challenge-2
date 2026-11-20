@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85q5g5ownja1lwk4zftp" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-06T10:40:09+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-06T10:49:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt85q5kkyrgsn169pn5mn4"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kartoffelsalat ohne Mayonnaise","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Essiggurken","unit":{"name":"g"},"prefix":null,"suffix":"oder Cornichons"},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":"(am besten frisch gekocht, alternativ Bio-Instant-Brühe)"},{"amount":2,"amountTo":null,"ingredient_name":"Weißweinessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":"mittelscharfer"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen und mit Schale 20-25 Minuten gar kochen. Wasser abgießen, Kartoffeln abkühlen lassen und pellen. In Scheiben schneiden, in eine große Schüssel geben."},{"headline":null,"content":"Zwiebel abziehen, fein würfeln. Essiggurken bzw. Cornichons abgießen, fein würfeln. Frische Kräuter abbrausen, trockenschütteln, fein hacken. Alles vorsichtig unter die Kartoffeln mischen, dabei nicht zu fest rühren, damit die Kartoffelscheiben nicht zu sehr zerfallen."},{"headline":null,"content":"Für das Dressing die Gemüsebrühe erwärmen. Essig, Öl und Senf einrühren, mit Pfeffer und ein wenig Salz abschmecken. Die Brühe über den Kartoffelsalat gießen, 5 Minuten einziehen lassen und den Kartoffelsalat ohne Mayo ganz nach Belieben lauwarm oder kalt servieren."}],"recipe_tips":[{"headline":null,"content":"Noch würziger wird es, wenn man 80 g gewürfelten Speck in einer Pfanne (ohne Fettzugabe) auslässt und zusammen mit den Zwiebeln und Cornichons zum Salat gibt. Anstelle der Gemüsebrühe kann man dann auch Fleischbrühe verwenden – so erhält man ein besonders kräftiges Aroma."}]}</CustomStructuredRecipeJson>
+    <Title>Kartoffelsalat ohne Mayonnaise</Title>
+    <Headline position="1">Kartoffelsalat ohne Mayonnaise</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-06T10:40:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85q5g2nw5gpmm9lpftp">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5841" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="oder Cornichons" plural="Essiggurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(am besten frisch gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11116" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Weißweinessig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="9" prefix="mittelscharfer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85q5g5owfa0wef1rftp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und mit Schale 20-25 Minuten gar kochen. Wasser abgießen, Kartoffeln abkühlen lassen und pellen. In Scheiben schneiden, in eine große Schüssel geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q5g5owhhy1isaw8ftp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebel abziehen, fein würfeln. Essiggurken bzw. Cornichons abgießen, fein würfeln. Frische Kräuter abbrausen, trockenschütteln, fein hacken. Alles vorsichtig unter die Kartoffeln mischen, dabei nicht zu fest rühren, damit die Kartoffelscheiben nicht zu sehr zerfallen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85q5g5owhmg17dyagftp">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für das Dressing die Gemüsebrühe erwärmen. Essig, Öl und Senf einrühren, mit Pfeffer und ein wenig Salz abschmecken. Die Brühe über den Kartoffelsalat gießen, 5 Minuten einziehen lassen und den Kartoffelsalat ohne Mayo ganz nach Belieben lauwarm oder kalt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85q5g5owhps1cn7c3ftp">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Noch würziger wird es, wenn man 80 g gewürfelten Speck in einer Pfanne (ohne Fettzugabe) auslässt und zusammen mit den Zwiebeln und Cornichons zum Salat gibt. Anstelle der Gemüsebrühe kann man dann auch Fleischbrühe verwenden – so erhält man ein besonders kräftiges Aroma.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdju5i0g719bqvs5gz" file_variant="master" position="1">Kartoffelsalat_ohne_Mayonnaise_56227.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69fb009263dae">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdjn9qtw11cjyuu3nv" file_variant="master" position="1">Kartoffelsalat_ohne_Mayonaisse_56154.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69fb00947a3be">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdp1l1gg8a2sv8515" file_variant="master" position="1">Kartoffelsalat_ohne_Mayonnaise_56161.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69fb0097b6658">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79fcw59r0ax1h4s5d8s" file_variant="master" position="1">Kartoffelsalat_ohne_Mayonnaise_56228.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69fb009a882e3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79fcw5t24c510zkb58v" file_variant="master" position="1">Kartoffelsalat_ohne_Mayonnaise_56229.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

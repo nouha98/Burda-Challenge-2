@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87xs9x353pj15c6xz2ii" dcx-version="6.3.1" version="1.0">
+  <created>2026-10-08T10:16:19+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-10-08T11:42:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt87xtdzdwkt0eyvpqsa1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spargel-Avocado-Salat","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Spargel","unit":{"name":"g"},"prefix":"grüner","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Romanasalat","unit":{"name":"(Keine Einheit)"},"prefix":"kleiner","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Avocado","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Bund"},"prefix":"frischer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":"flüssiger","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":"weißer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":"mittelscharfer","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":null,"prefix":null,"suffix":"mit Fluorid"}]},{"headline":"Außerdem","ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Spargel waschen, holziges unteres Drittel schälen, Enden abschneiden. Spargel schräg in ca. 2,5 cm lange Stücke schneiden. 1 EL Olivenöl in einer weiten Pfanne erhitzen, Spargelstücke darin ca. 5 Minuten bei mittlerer Hitze anbraten."},{"headline":null,"content":"Romanasalat putzen, waschen, trockenschleudern. Kirschtomaten waschen und halbieren. Avocado waschen, mit einem scharfen Messer vorsichtig halbieren und den Kern entfernen. Avocadofruchtfleisch mit einem Esslöffel herausheben und würfeln. Mit Zitronensaft beträufeln."},{"headline":null,"content":"Basilikum abbrausen, trockenschütteln, fein hacken. Honig und Balsamicoessig mit Senf verrühren, das restliche Öl (2 EL) unterschlagen. Kräftig mit Pfeffer und Salz würzen. Spargel mit Romanasalat, Kirschtomaten, Avocadowürfel, Basilikum und Dressing mischen. Mit Vollkornbrot servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Spargel-Avocado-Salat</Title>
+    <Headline position="1">Spargel-Avocado-Salat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-10-08T10:16:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87xs9thnl4x1n33oy2ii">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10251" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="grüner" plural="Spargel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9281" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleiner" plural="Romanasalate" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kirschtomaten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Avocados" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="3" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" prefix="frischer" plural="Basilikum" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="flüssiger" plural="Honig" position="8"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="weißer" plural="Balsamicoessig" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="mittelscharfer" plural="Senf" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="mit Fluorid" plural="Jodsalz" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87xs9wwczb6iogqz2ii">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87xs9x34vzmrgocx2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Spargel waschen, holziges unteres Drittel schälen, Enden abschneiden. Spargel schräg in ca. 2,5 cm lange Stücke schneiden. 1 EL Olivenöl in einer weiten Pfanne erhitzen, Spargelstücke darin ca. 5 Minuten bei mittlerer Hitze anbraten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xs9x351o180v72ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Romanasalat putzen, waschen, trockenschleudern. Kirschtomaten waschen und halbieren. Avocado waschen, mit einem scharfen Messer vorsichtig halbieren und den Kern entfernen. Avocadofruchtfleisch mit einem Esslöffel herausheben und würfeln. Mit Zitronensaft beträufeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87xs9x351swij2zd2ii">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Basilikum abbrausen, trockenschütteln, fein hacken. Honig und Balsamicoessig mit Senf verrühren, das restliche Öl (2 EL) unterschlagen. Kräftig mit Pfeffer und Salz würzen. Spargel mit Romanasalat, Kirschtomaten, Avocadowürfel, Basilikum und Dressing mischen. Mit Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7a84c59o1djytxgto1d" file_variant="master" position="1">Spargelsalat_mit_Avocado_70596.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6ac765955afcf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdnq07cck1jzm493nv" file_variant="master" position="1">Spargelsalat_mit_Avocado_70517.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6ac765975b108">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdftphvpv12p2l8ich" file_variant="master" position="1">Spargelsalat_mit_Avocado_70521.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6ac7659904ba8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdqiykjwhs3eifmud" file_variant="master" position="1">Spargelsalat_mit_Avocado_70592.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

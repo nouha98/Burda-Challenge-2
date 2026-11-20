@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc843pe5rqnmv5wfqp1t8y" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-12T15:44:03+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-12T16:04:45+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ro9hjuhdkdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="150"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Hühnersuppe-Grundrezept","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Garen","duration":150}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Suppengemüse","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Schale"},{"amount":2.5,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"l"},"prefix":"kaltes","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Suppenhuhn","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(1,7 kg)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfefferkörner","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lorbeerblätter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Suppengemüse waschen, putzen, evtl. schälen und in grobe Stücke teilen. Zwiebeln mit Schale halbieren. In einem großen Topf ohne Fett auf der Schnittfläche dunkel anrösten."},{"headline":null,"content":"Wasser angießen. Suppenhuhn hineinlegen. Alles aufkochen. Entstehenden Schaum abschöpfen."},{"headline":null,"content":"Gemüse sowie Pfefferkörner, Lorbeerblätter und Salz zufügen. Hitze reduzieren. Alles 2 ½ Stunden köcheln lassen."},{"headline":null,"content":"Nach Ablauf der Garzeit Suppenhuhn und Gemüse aus der Brühe heben. Brühe durch ein feines Sieb gießen."},{"headline":null,"content":"Vom Huhn die Haut entfernen. Das Fleisch von den Knochen zupfen, entweder als Einlage für die heiße Brühe oder für andere Rezepte verwenden."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Hühnersuppe-Grundrezept</Title>
+    <SubHeadline position="1">Zutaten für Hühnerbrühe 14614196.</SubHeadline>
+    <Headline position="1">Hühnersuppe-Grundrezept</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-12T15:44:03+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="843pe8a7h341exe3ep0t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10426" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Suppengemüse" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Schale" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="2.5" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" prefix="kaltes" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10441" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(1,7 kg)" plural="Suppenhuhn" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfefferkörner" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lorbeerblätter" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="843peau4nip17mrw0p0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Suppengemüse waschen, putzen, evtl. schälen und in grobe Stücke teilen. Zwiebeln mit Schale halbieren. In einem großen Topf ohne Fett auf der Schnittfläche dunkel anrösten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843peau4nqo1aj4wxp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Wasser angießen. Suppenhuhn hineinlegen. Alles aufkochen. Entstehenden Schaum abschöpfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843peau4nuwhfwajp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gemüse sowie Pfefferkörner, Lorbeerblätter und Salz zufügen. Hitze reduzieren. Alles 2 ½ Stunden köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843peau4nxy13sv2mp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Nach Ablauf der Garzeit Suppenhuhn und Gemüse aus der Brühe heben. Brühe durch ein feines Sieb gießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="843peau4o1dcju4fp0t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Vom Huhn die Haut entfernen. Das Fleisch von den Knochen zupfen, entweder als Einlage für die heiße Brühe oder für andere Rezepte verwenden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zutaten für Hühnerbrühe</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc82vudvt4r3r1elfuljx3" file_variant="master" position="1">Zutaten für Hühnerbrühe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

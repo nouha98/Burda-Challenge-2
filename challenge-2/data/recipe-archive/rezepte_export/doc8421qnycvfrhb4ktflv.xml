@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8421qnycvfrhb4ktflv" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-09T10:20:14+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-01-09T10:23:59+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Jasminreis","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Reis","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Zubereitung im Kochtopf","content":"Den Reis mehrmals gut waschen und dabei das trübe Wasser abgießen. In einem Topf das Wasser aufkochen. Den Reis hineingeben und 5 Minuten unter Rühren köcheln lassen bis das Wasser nicht mehr zu sehen ist. Den Herd ausschalten und 20 Minuten zugedeckt ziehen lassen."}],"recipe_tips":[{"headline":null,"content":"Der Reis schmeckt besonders gut, wenn er nach dem Garen noch einige Minuten ziehen darf."}]}</CustomStructuredRecipeJson>
+    <Title>Jasminreis</Title>
+    <Headline position="1">Jasminreis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-09T10:20:14+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8421qn97ykhjrju9flv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9106" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Reis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8421qnycogniiarzflv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Jasminreis in ein Sieb geben, mehrmals gut waschen und dabei das trübe Wasser abgießen. In einem Topf das Wasser aufkochen. Den Reis hineingeben und 5 Minuten unter Rühren köcheln lassen, bis das Wasser nicht mehr zu sehen ist.  Den Herd ausschalten und den Reis 20 Minuten zugedeckt ziehen lassen. Topf vom Herd nehmen und Reis servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8421qnyctg1degrvflv">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Der Reis schmeckt besonders gut, wenn er nach dem Garen noch einige Minuten ziehen darf.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Besonders lecker</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc841nn13z0e0o9sz513ja" file_variant="master" position="1">Jasminreis3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6960c929e8294">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc841nmzajw881a82lp15bo" file_variant="master" position="1">Jasminreis1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6960c92bc377a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc841nn2l0ttts10ip13rj" file_variant="master" position="1">JasminreisStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6960c92d5e656">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc841nn437og01a9fab1anb" file_variant="master" position="1">Jasminreis2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

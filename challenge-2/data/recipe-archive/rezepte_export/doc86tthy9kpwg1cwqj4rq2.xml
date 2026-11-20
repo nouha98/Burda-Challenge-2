@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86tthy9kpwg1cwqj4rq2" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-22T15:30:42+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-22T16:03:29+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <Source topic="tmt86ttx410omczshgcry5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer-Gin-Fizz","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":"1/2","amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"Gin","unit":{"name":"ml"},"prefix":null,"suffix":"gekühlt"},{"amount":120,"amountTo":null,"ingredient_name":"Himbeersirup","unit":{"name":"ml"},"prefix":null,"suffix":"kalt"},{"amount":80,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":"frisch gepresst"},{"amount":3,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":"kalt, still oder Tonic Water"},{"amount":12,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"Stück"},"prefix":"geputzte, gewaschene","suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Minzspitzen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zitrone heiß waschen, trocken tupfen, in 4 Scheiben schneiden und halbieren."},{"headline":null,"content":"Gin mit Himbeersirup und Zitronensaft in einem Shaker mit 1 Handvoll Eiswürfeln vermischen. Durch ein Barsieb in eine Flasche (ca. 700 ml) gießen und alles mit Mineralwasser auffüllen."},{"headline":null,"content":"Übrige Eiswürfel in 4 Cocktailschalen (à ca. 250 ml) verteilen. Jeweils 3 Himbeeren, Minze und ein bis zwei Zitronenhälften zufügen. Die Gin-Mischung eingießen und die Cocktails servieren."}],"recipe_tips":[{"headline":null,"content":"Der Fizz schmeckt auch mit einer alkoholfreien Gin z. B. Seedlip Garden 108 oder Gin de Cologne."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeer-Gin-Fizz</Title>
+    <Headline position="1">Himbeer-Gin-Fizz</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-22T15:30:42+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86tti11l6cz7l4wm1wj1">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1/2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6306" amount="160" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="gekühlt" plural="Gin" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6696" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="kalt" plural="Himbeersirup" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="frisch gepresst" plural="Zitronensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="3" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="kalt, still oder Tonic Water" plural="Mineralwasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="12" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="geputzte, gewaschene" plural="Himbeeren" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="8" plural="Minzblätter" suffix="Minzspitzen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86tti3j09t18e3xl1wj1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zitrone heiß waschen, trocken tupfen, in 4 Scheiben schneiden und halbieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86tti3j0deuv9btj1wj1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gin mit Himbeersirup und Zitronensaft in einem Shaker mit 1 Handvoll Eiswürfeln vermischen. Durch ein Barsieb in eine Flasche (ca. 700 ml) gießen und alles mit Mineralwasser auffüllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86tti3j0djlldcdz1wj1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Übrige Eiswürfel in 4 Cocktailschalen (à ca. 250 ml) verteilen. Jeweils 3 Himbeeren, Minze und ein bis zwei Zitronenhälften zufügen. Die Gin-Mischung eingießen und die Cocktails servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86tti3j0do8dtzwt1wj1">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Der Fizz schmeckt auch mit einer alkoholfreien Gin z. B. Seedlip Garden 108 oder Gin de Cologne.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Ein erfrischender rosafarbener Gin-Cocktail, garniert mit Minze, Himbeeren und einer Zitronenscheibe, serviert in einem stilvoll</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Addictive Stock</ImageCredit>
+      <DocumentRef doc_id="doc85j09ujpdhx1gunj8gkh" file_variant="master" position="1">Ein erfrischender rosafarbener Gin-Cocktail, garniert mit Minze, Himbeeren und einer Zitronenscheibe, serviert in einem stilvoll</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86zzsjwyjrs5bnfj8vj" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-03T15:55:50+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-03T15:59:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrb6hevkldo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt86zzu1zq9dypmdkf8wn"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Cocktail Boulevardier","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":30,"amountTo":null,"ingredient_name":"Whiskey","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Campari","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"roter Wermut","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Orangenschale","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Bio)"}]}],"preparation":[{"headline":null,"content":"Whiskey mit Campari und rotem Wermut in einen Tumbler mit Eiswürfeln gießen. Umrühren, in ein Glas füllen. Mit Orangenschale servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Cocktail Boulevardier</Title>
+    <Headline position="1">Cocktail "Boulevardier"</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-03T15:55:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86zzsmsgcfl1nf0t712wh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11161" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="Whisky"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5286" amount="20" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Campari" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11156" amount="20" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" prefix="roter" plural="Wermut"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="schale (Bio)" position="5" plural="Orangen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86zzsnuthtk18yvqc12wh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Whiskey mit Campari und rotem Wermut in einen Tumbler mit Eiswürfeln gießen. Umrühren, in ein Glas füllen. Mit Orangenschale servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aperitif: Boulevardier, Bœuf Tatar auf Graubrot; Styling: Krisztina Zombori; Rezepte &amp; Foodstyling: Susanne Walter</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Thorsten Suedfels</ImageCredit>
+      <DocumentRef doc_id="doc79fxhzj2rrd120n9hlyh" file_variant="master" position="1">Lust auf Genuss, Weihnachtsmenüs 13/20</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

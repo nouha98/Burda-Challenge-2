@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84bvwerx15k1mlw2dlje" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-28T13:50:46+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-03-17T11:55:02+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <Keywords topic="tmt6ovk4vgvuy84jf5tnug"/>
+    <Keywords topic="tmt7ddtsuqldxz1ffysh80d"/>
+    <Keywords topic="tmt6owqf4bklle16o6uo8m5"/>
+    <Provider topic="tmt7divjp9t07lfsg72yh"/>
+    <LastEditedBy topic="tmt78zftnnw5jt1j4higo6g"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Dip aus schwarzem Knoblauch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":null,"price":null,"nutritions":{"calories":145,"kilojoule":607,"carbonhydrates":5,"fat":13,"protein":4,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"fermentierte schwarze Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"frischer Meerrettich","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Estragon","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Doppelrahmfrischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitronenabrieb","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Knoblauch aus den Häutchen drücken und mit einer Gabel zermusen. Lauchzwiebeln putzen, waschen und in feine Streifen schneiden. Meerrettich schälen und reiben. Estragonblätter abzupfen und hacken. Vorbereitete Zutaten mit dem Frischkäse gut verrühren. Mit Salz und Pfeffer würzen. Mit Zitronenschale abschmecken."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Dip aus schwarzem Knoblauch</Title>
+    <CustomRecipeNutritionalValueCalories position="1">145</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">607</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">5</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">13</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0.4</CustomRecipeNutritionalBreadUnit>
+    <SubHeadline position="1">silke zander</SubHeadline>
+    <Headline position="1">Dip aus schwarzem Knoblauch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-28T13:50:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84bvwfr371xpo8so1y43">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="8" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" plural="Knoblauchzehen" suffix="(schwarze, fermentierte)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="2" unit="Stange" unit_topic="tmt_ingredient_unit_stange" plural="Lauchzwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8111" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Meerrettich"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5851" amount="0.25" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Estragon" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Doppelrahmfrischkäse" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="7" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Bio-Zitronenabrieb" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84bvwj9zkbkm1wkf1y43">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Knoblauch aus den Häutchen drücken und mit einer Gabel zermusen. Lauchzwiebeln putzen, waschen und in feine Streifen schneiden. Meerrettich schälen und reiben. Estragonblätter abzupfen und hacken. Vorbereitete Zutaten mit dem Frischkäse gut verrühren. Mit Salz und Pfeffer würzen. Mit Zitronenschale abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Dip aus schwarzem Knoblauch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">silke zander</ImageCredit>
+      <DocumentRef doc_id="doc7nyzjke7sib19q5z1mgi" file_variant="master" position="1">Dip aus schwarzem Knoblauch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

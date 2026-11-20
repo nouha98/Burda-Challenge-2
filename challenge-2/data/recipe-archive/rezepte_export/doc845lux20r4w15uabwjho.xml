@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc845lux20r4w15uabwjho" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-16T08:33:57+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-16T08:44:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_hard"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqphj3nnedo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Panna Cotta mit Erdbeeren","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Panna Cotta","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null}]},{"headline":"Für die Erdbeersauce","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"2-3","amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"Spritzer"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Panna Cotta, die Sahne in einen Topf geben. Die Vanilleschote längs aufschneiden und mit einem kleinen Küchenmesser das Mark auskratzen und zusammen mit der Schote zur Sahne geben."},{"headline":null,"content":"Den Zucker zur Sahne geben und langsam unter Rühren aufkochen und ca. 10 Minuten sanft köcheln lassen."},{"headline":null,"content":"Die Gelatine währenddessen in einer Schüssel in kaltem Wasser einweichen."},{"headline":null,"content":"Wenn die Gelatine weich ist, wird sie aus dem Wasser genommen und das restliche Wasser wird ausgedrückt. Dann die Gelatineblätter in die heiße Sahne geben und mit dem Schneebesen gut einrühren, bis sie sich aufgelöst haben. Die heiße Sahne durch ein Sieb gießen und in Gläser füllen. Im Kühlschrank für mindestens 3 Stunden kaltstellen."},{"headline":null,"content":"Für die Erdbeersauce, frische oder gefrorene bereits aufgetaute Erdbeeren verwenden. Etwa 50g der Erdbeeren fein würfeln. Die restlichen Erdbeeren mit dem Puderzucker in einen Mixbecher geben und fein pürieren. Die Erdbeerwürfel und etwas Zitronensaft einrühren."},{"headline":null,"content":"Die Erdbeersauce kühl stellen und kurz vor dem Servieren auf die Panna Cotta geben."}],"recipe_tips":[{"headline":"Panna Cotta Profi Tipp","content":"Damit sich die schwarzen Punkte der Vanille nicht auf dem Glasboden absetzen, kann die Flüssigkeit in einer Schüssel auf einer weiteren Schüssel mit Eiswürfeln und Wasser kalt gerührt werden, um die Gelatine schneller gelieren zu lassen. Diese bindet die Vanille in die Sahne ein. Die Gläser kannst du schon im Gefrierfach vorkühlen und dann die Panna Cotta einfüllen. So verkürzt sich zudem auch die Kühlzeit."}]}</CustomStructuredRecipeJson>
+    <Title>Panna Cotta mit Erdbeeren</Title>
+    <Headline position="1">Panna Cotta mit Erdbeeren</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-16T08:33:57+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="845luvatstk1fn93cjho">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Vanilleschoten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="2" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Panna Cotta</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="845luw98mowv1o0jjho">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="2" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" plural="Zitronensaft" position="3" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Erdbeersauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="845lux205eu3qnfajho">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sahne in einen Topf geben. Die Vanilleschote längs aufschneiden und mit einem kleinen Küchenmesser das Mark auskratzen und zusammen mit der Schote zur Sahne geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Panna Cotta</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845lux20hiu1ndil0jho">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Zucker zur Sahne geben und langsam unter Rühren aufkochen und ca. 10 Minuten sanft köcheln lassen. Die Gelatine währenddessen in einer Schüssel in kaltem Wasser einweichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845lux20i4l11juvqjho">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Wenn die Gelatine weich ist, wird sie aus dem Wasser genommen und das restliche Wasser wird ausgedrückt. Dann die Gelatineblätter in die heiße Sahne geben und mit dem Schneebesen gut einrühren, bis sie sich aufgelöst haben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845lux20ib5nd2gejho">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die heiße Sahne durch ein Sieb gießen und in Gläser füllen. Im Kühlschrank für mindestens 3 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845lux20ihg11zefwjho">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Frische oder gefrorene, bereits aufgetaute, Erdbeeren verwenden.  Etwa 1/5 der Erdbeeren fein würfeln. Die restlichen Erdbeeren mit dem Puderzucker in einen Mixbecher geben und fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Erdbeersauce </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6969ea8081ff1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Erdbeerwürfel und etwas Zitronensaft in das Erdbeerpüree einrühren. Die Erdbeersauce kühl stellen und kurz vor dem Servieren auf die Panna cotta geben. Lass dir die Panna cotta schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="845lux20io5ik217jho">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Gläser kannst du schon im Gefrierfach vorkühlen und dann die Panna cotta einfüllen. So verkürzt sich zudem auch die Kühlzeit.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gläser kühlen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_6969ea95e43f2">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Damit sich die schwarzen Punkte der Vanille nicht auf dem Glasboden absetzen, kann die Sahne in einer Schüssel auf einer weiteren Schüssel mit Eiswürfeln und Wasser kalt gerührt werden, um die Gelatine schneller gelieren zu lassen. Diese bindet die Vanille in die Sahne ein.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Sahne kalt rühren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8420n5tuw2u1j95pncvs" file_variant="master" position="1">PannaCottamitErdbeeren_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6969ec448e9f5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8420nsaduqo1inw29cvs" file_variant="master" position="1">PannaCottamitErdbeeren_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6969ec45e73a6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8420n4d76ldyv135cvs" file_variant="master" position="1">PannaCottamitErdbeeren_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

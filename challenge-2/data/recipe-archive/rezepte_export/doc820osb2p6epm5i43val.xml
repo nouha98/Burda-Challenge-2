@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820osb2p6epm5i43val" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T16:47:44+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-22T13:59:52+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Herzhafter French Toast","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz &amp; Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Toastscheiben","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Käse","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schinken","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":"Etwas","amountTo":null,"ingredient_name":"Fett","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Anbraten"}]}],"preparation":[{"headline":null,"content":"Eier mit Milch verquirlen, mit Salz und Pfeffer würzen. Toastscheiben nur kurz in die Mischung legen, direkt wenden. Pfanne mit etwas Fett vorheizen. Toastscheiben von beiden Seiten goldbraun braten."},{"headline":null,"content":"Käsescheiben auf jede Toastscheibe legen, während diese noch in der Pfanne sind. So schmilzt der Käse schonmal etwas an. Dann die Schinkenscheiben auf 2 der 4 Toastscheiben legen und mit einer Käse-Toast-Scheibe zusammenklappen."},{"headline":null,"content":"French-Toast diagonal halbieren und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Herzhafter French Toast</Title>
+    <Headline position="1">Herzhafter French Toast</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T16:47:44+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820os7wpbzsl90q1val">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Anbraten" plural="Fett" position="7" amount_error="1" prefix="Etwas"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="75" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" position="3" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10601" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Toastscheiben" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7116" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Käse" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9706" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Schinken" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820osb2ous4nwmsxval">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eier mit Milch verquirlen, mit Salz und Pfeffer würzen. Toastscheiben nur kurz in die Mischung legen, direkt wenden. Pfanne mit etwas Fett vorheizen. Toastscheiben von beiden Seiten goldbraun braten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820osb2p2exqs9iuval">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Käsescheiben auf jede Toastscheibe legen, während diese noch in der Pfanne sind. So schmilzt der Käse schonmal etwas an. Dann die Schinkenscheiben auf 2 der 4 Toastscheiben legen und mit einer Käse-Toast-Scheibe zusammenklappen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820osb2p2jktimphval">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">French-Toast diagonal halbieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

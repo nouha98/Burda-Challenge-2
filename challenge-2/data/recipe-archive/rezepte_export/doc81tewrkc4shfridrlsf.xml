@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81tewrkc4shfridrlsf" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-05T13:01:15+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-05T15:03:21+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rotweincreme","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Creme","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"weiße Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":"(ca. 8 g)"},{"amount":150,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":20,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Dekoration","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"rote Trauben","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Creme die Gelatine ca. 5 Min. in einer Schüssel mit kaltem Wasser einweichen. Den Rotwein in einem kleinen Topf kurz aufkochen. Die eingeweichte Gelatine vorsichtig ausdrücken, dann im warmen (nicht mehr kochenden) Rotwein auflösen."},{"headline":null,"content":"Das Ei mit dem Puderzucker und Zucker ca. 10 Minuten lang hell-cremig aufschlagen. Die Sahne in separater Schüssel cremig aufschlagen. Die Rotwein-Gelatine-Mischung abkühlen lassen, dann zur Eimasse geben und miteinander verrühren."},{"headline":null,"content":"Die Creme kühlstellen, bis sie anfängt zu gelieren, dann die aufgeschlagene Sahne unterheben. Die Creme in einen großen Spritzbeutel füllen und die Spitze davon ca. 1 cm breit aufschneiden."},{"headline":null,"content":"Sechs Dessertschälchen (à 100 ml Fassungsvermögen) bereitstellen und mithilfe des Spritzbeutels jeweils mit ca. 50 g Creme befüllen. Für die Dekoration die Sahne mit dem Vanillezucker cremig aufschlagen, anschließend in einen Spritzbeutel füllen."},{"headline":null,"content":"Den Spritzbeutel ebenfalls ca. 1 cm. breit aufschneiden und damit kleine Sahnetupfen auf die Rotweincreme spritzen. Die roten Trauben waschen und 6 Trauben halbieren. Jedes Dessertglas mit 2,5 Trauben dekorieren. Die Rotweincreme bis zum Servieren kühlstellen."}],"recipe_tips":[{"headline":"Für eine noch stärkere Färbung","content":"Wenn du die Rotweincreme gerne farblich noch etwas kräftiger haben möchtest, löse zusätzlich noch 3 EL Traubengelee im Rotwein auf, bevor du die Gelatine hinzugibst."}]}</CustomStructuredRecipeJson>
+    <Title>Rotweincreme</Title>
+    <Headline position="1">Rotweincreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-05T13:01:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81tewpconubhq50clsf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="3" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" suffix="(ca. 8 g)" position="1" prefix="weiße" plural="Gelatine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Rotwein" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81tewqtymrc165bdylsf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="0.5" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10726" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="3" prefix="rote" plural="Trauben"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81tewrkafrcet7c8lsf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Creme die Gelatine ca. 5 Min. in einer Schüssel mit kaltem Wasser einweichen. Den Rotwein in einem kleinen Topf kurz aufkochen. Die eingeweichte Gelatine vorsichtig ausdrücken, dann im warmen (nicht mehr kochenden) Rotwein auflösen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tewrkb8hip5i6mlsf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Ei mit dem Puderzucker und Zucker ca. 10 Minuten lang hell-cremig aufschlagen. Die Sahne in separater Schüssel cremig aufschlagen. Die Rotwein-Gelatine-Mischung abkühlen lassen, dann zur Eimasse geben und miteinander verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tewrkb8tdagdqxlsf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Creme kühlstellen, bis sie anfängt zu gelieren, dann die aufgeschlagene Sahne unterheben. Die Creme in einen großen Spritzbeutel füllen und die Spitze davon ca. 1 cm breit aufschneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tewrkb8xz95mwilsf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Sechs Dessertschälchen (à 100 ml Fassungsvermögen) bereitstellen und mithilfe des Spritzbeutels jeweils mit ca. 50 g Creme befüllen. Für die Dekoration die Sahne mit dem Vanillezucker cremig aufschlagen, anschließend in einen Spritzbeutel füllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tewrkb92dtahhilsf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Den Spritzbeutel ebenfalls ca. 1 cm. breit aufschneiden und damit kleine Sahnetupfen auf die Rotweincreme spritzen. Die roten Trauben waschen und 6 Trauben halbieren. Jedes Dessertglas mit 2,5 Trauben dekorieren. Die Rotweincreme bis zum Servieren kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81tewrkb96rsrl5mlsf">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du die Rotweincreme gerne farblich noch etwas kräftiger haben möchtest, löse zusätzlich noch 3 EL Traubengelee im Rotwein auf, bevor du die Gelatine hinzugibst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Für eine noch stärkere Färbung</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc818tqiai8pl1g2u1v10yn" file_variant="master" position="1">Rotweincreme2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689200ef7b8f5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc818tqo9tit51l2rra10yn" file_variant="master" position="1">Rotweincreme1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689200f15f0a3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc818tqr78yz81c8ejrzd4" file_variant="master" position="1">RotweincremeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689200f336741">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc818tqlq2do24xo6vlvb" file_variant="master" position="1">RotweincremeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689200f53a9f0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc818tqfv8e2dy8upplvb" file_variant="master" position="1">Rotweincreme3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

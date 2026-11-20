@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821661idwqw1dkluyewj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T15:20:51+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-09-24T11:04:17+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="720"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Aprikosenkompott","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":720}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Aprikosen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Schale davon)"}]}],"preparation":[{"headline":null,"content":"Aprikosen in eine Schüssel geben und mit heißem Wasser übergießen, bis die Früchte bedeckt sind. Für 5 min ziehen lassen, das Wasser abschütten und auffangen."},{"headline":null,"content":"Die Aprikosen schälen und halbieren."},{"headline":null,"content":"250 ml von dem aufgefangenen Aprikosenwasser abmessen und mit Zitronenschale und Vanilleschote (längs aufgeschnitten) aufkochen, für 10 min leicht köcheln lassen. Den Sud leicht abkühlen lassen."},{"headline":null,"content":"Die Aprikosen in einen Behälter geben und mit dem Sud übergießen. Über Nacht im Kühlschrank lassen, so können sich die Aromen gut entfalten."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Aprikosenkompott</Title>
+    <Headline position="1">Aprikosenkompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T15:20:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821660oomc4nahwcewj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Aprikosen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Schale davon)" plural="Zitronen" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821661idp2s1fj4oqewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Aprikosen in eine Schüssel geben und mit heißem Wasser übergießen, bis die Früchte bedeckt sind. Für 5 min ziehen lassen, das Wasser abschütten und auffangen. Die Aprikosen schälen und halbieren. 250 ml von dem aufgefangenen Aprikosenwasser abmessen und mit Zitronenschale und Vanilleschote (längs aufgeschnitten) aufkochen, für 10 min leicht köcheln lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821661idt6u6d0hdewj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Sud leicht abkühlen lassen. Die Aprikosen in einen Behälter geben und mit dem Sud übergießen. Über Nacht im Kühlschrank lassen, so können sich die Aromen gut entfalten. In einem geschlossenen Behälter hält sich der Kompott ca. 4-5 Tage im Kühlschrank.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

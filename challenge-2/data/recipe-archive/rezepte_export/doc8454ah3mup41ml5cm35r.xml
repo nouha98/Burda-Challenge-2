@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8454ah3mup41ml5cm35r" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-15T09:46:19+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-01-15T09:55:57+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpvd37ecdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Nudelsalat mediterran","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Salat","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Nudeln","unit":{"name":"g"},"prefix":null,"suffix":"z.B. Farfalle, Fussili"},{"amount":1,"amountTo":2,"ingredient_name":"Salz","unit":{"name":"EL"},"prefix":null,"suffix":"für das Kochwasser"},{"amount":12,"amountTo":null,"ingredient_name":"Cherrytomaten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rucola","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"getrocknete, eingelegte Tomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Bund"},"prefix":null,"suffix":null}]},{"headline":"Dressing","ingredients":[{"amount":60,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"gemahlener schwarzer Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schale von Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für das Dressing, das Tomatenmark in einer Schüssel mit dem Balsamicoessig, dem Salz, und dem Pfeffer mit einem Schneebesen verrühren und 2-3 Minuten ziehen lassen. Die Schale der Zitrone mit einer feinen Reibe abreiben und dazu geben. Das Olivenöl zuletzt einrühren."},{"headline":null,"content":"Für den Salat, die Nudeln abkochen. Dazu einen großen Topf mit Wasser aufstellen und das Wasser aufkochen. Das Salz hinzugeben und die Nudeln nach Packungsanagabe „al dente“ kochen. Auf einem Sieb abgießen und richtig gut mit kaltem Wasser abschrecken und abspülen. Gut abtropfen lassen."},{"headline":null,"content":"Die Cherrytomaten vierteln. Vom Rucola die Stiele abschneiden und die Blätter grob hacken. Die getrockneten Tomaten aus dem Öl nehmen und grob würfeln. Die Basilikumblätter vom Stiel entfernen und abzupfen. Alle vorbereiteten Zutaten mit den gekochten Nudeln vermischen, das Dressing untermischen und den Salat 10 Minuten ziehen lassen."}],"recipe_tips":[{"headline":"Leckere Variante für deinen Nudelsalat","content":"Es gibt noch viele andere leckere mediterrane Zutaten, wie z.B. Oliven, Artischocken und Zucchini, welche du an den Salat geben kannst."}]}</CustomStructuredRecipeJson>
+    <Title>Nudelsalat mediterran</Title>
+    <Headline position="1">Nudelsalat mediterran</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-15T09:46:19+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8454accwv451470zu35r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B. Farfalle, Fussili" plural="Nudeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="für das Kochwasser" plural="Salz" position="2" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5326" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Cherrytomaten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9391" amount="2" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Rucola" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" prefix="getrocknete eingelegte" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Basilikum" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8454aesesk4al8v935r">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Tomatenmark" position="1"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Balsamicoessig" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt80nfc8biukxqg4ei4dh" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="4" prefix="schwarzer" plural="Pfeffer, gemahlen"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="5" prefix="Abrieb der" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="8" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8454ah3mj4g92jt35r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Tomatenmark in einer Schüssel mit dem Balsamicoessig, dem Salz und dem Pfeffer mit einem Schneebesen verrühren und 2-3 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Dressing </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8454ah3mmqqnda9a35r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Schale der Zitrone mit einer feinen Reibe abreiben und dazugeben. Das Olivenöl zuletzt einrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8454ah3mmys1gzoeo35r">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Nudeln abkochen. Dazu einen großen Topf mit Wasser aufstellen und das Wasser aufkochen. Das Salz hinzugeben und die Nudeln nach Packungsangabe „al dente“ kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Salat </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6968aa7459432">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Nudeln in ein Sieb abgießen, gut mit kaltem Wasser abschrecken und abspülen. Gut abtropfen lassen. Die Cherrytomaten waschen, abtropfen lassen und vierteln. Den Rucola waschen und abtropfen lassen. Vom Rucola die Stiele abschneiden und die Blätter grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6968aa76eac6c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die getrockneten Tomaten aus dem Öl nehmen und grob würfeln. Die Basilikumblätter waschen, abtropfen lassen, vom Stiel entfernen und kleiner zupfen. Alle vorbereiteten Zutaten mit den gekochten Nudeln vermischen, das Dressing untermischen und den Salat mindestens 10 Minuten ziehen lassen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8454ah3mn4ke1lc935r">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Es gibt noch viele andere leckere mediterrane Zutaten, wie z. B. Oliven, Artischocken und Zucchini, die du in den Salat geben kannst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Leckere Variante für deinen Nudelsalat</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8420mpmndgj1e2acxcvs" file_variant="master" position="1">MediterranerNudelsalat_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6968ab9809f61">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8420mo2znkh1k4eapflu" file_variant="master" position="1">MediterranerNudelsalat_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6968ab9ab28e2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8420ml3truccofvhcvs" file_variant="master" position="1">MediterranerNudelsalat_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

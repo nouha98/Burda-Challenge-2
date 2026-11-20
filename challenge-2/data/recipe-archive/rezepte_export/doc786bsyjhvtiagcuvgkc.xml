@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786bsyjhvtiagcuvgkc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T17:49:41+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:32:35+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomCenshareId>420303</CustomCenshareId>
+    <Title position="1">Heart &amp; SoulCocktail</Title>
+    <Headline position="1">Heart &amp; SoulCocktail</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T23:10:55+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="f1f6b9">
+      <CustomRecipeIngredient topic="tmt786bsyisu02kcxyagkc" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt786bsyiq4g71iljbugkc" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt7869vrkhdo91cnvxcavd" amount="4" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt786bsyjcp4wannungkc" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="f1f700">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1 Apfel waschen, in dünne Scheiben schneiden. Aus den Scheiben mit einem kleinen Plätzchenausstecher Herzen formen. Mit etwas Orangensaft beträufeln. Herzen in Sektgläser legen oder an den Rand stecken. 200 ml Cranberry-Saft (ersatzweise Kirschnektar) und 4 Minzezweige in die Gläser verteilen, mit trockenem Sekt (ca. 1/2 Flasche) auffüllen und sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2eqtfp1ht2ydpbn2" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:10:55+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_420303</displayname>
+      <doc_id id="doc786bsyjhvtiagcuvgkc"/>
+      <hash>3c0daaab4b7fffb9a326f2cc3791868a</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:10:55+01:00</modified>
+      <size>2335</size>
+      <subpath>2019/12-07/38/e8/file78b2eqtfp1ht2ydpbn2.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

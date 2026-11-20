@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc857my1qpfmsgr2eudea" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-31T09:54:21+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-04-21T08:47:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4-6"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpdlry6d8do5"/>
+    <Source topic="tmt857n0wmu91g1i5cu8dg7"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <Headline position="1">Sangria</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-31T09:54:21+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(Bio)" plural="Orange"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(Bio)" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8736" position="3" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfirsiche"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11051" position="5" amount="30" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weinbrand"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8491" position="6" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Orangenlikör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="7" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" position="8" amount="750" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="spanischer" plural="Rotwein"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Orangen und Zitrone waschen, mit Schale in Scheiben schneiden, evtl. halbieren. Pfirsiche entsteinen, in Stücke schneiden. Früchte und Zucker in eine große Schüssel geben. Weinbrand, Orangenlikör, Zimtstangen und spanischen Rotwein hinzufügen. Alles durch mischen. Sangria mindestens 60 Minuten kalt stellen. Kurz vor dem Servieren Eiswürfel in die Sangria geben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsContent position="1">Crushed Ice: Eiswürfel und gestoßenes Eis zum Kühlen gibt's fertig in gut sortierten Supermärkten oder an Tankstellen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Sangria in Bechern mit Strohhalmen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Wissing, Michael</ImageCredit>
+      <DocumentRef doc_id="doc8555978mujdttlf27m" file_variant="master" position="1">Sangria in Bechern mit Strohhalmen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

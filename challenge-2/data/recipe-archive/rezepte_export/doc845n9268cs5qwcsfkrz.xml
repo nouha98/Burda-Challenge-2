@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc845n9268cs5qwcsfkrz" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-16T10:22:22+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-16T10:26:59+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="4" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tiramisu ohne Ei","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Espresso oder starker Kaffee","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":12,"amountTo":null,"ingredient_name":"Löffelbiskuit","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Von der Sahne 50 ml abmessen. Mascarpone in einer Schüssel, zusammen mit dem Puderzucker, den 50 ml Sahne und dem Amaretto mit Hilfe eines Schneebesens glattrühren."},{"headline":null,"content":"Die restliche Sahne mit dem Handrührgerät cremig schlagen und unter die Masse rühren."},{"headline":null,"content":"Den Kaffee aufbrühen und den Löffelbiskuit darin tränken und in eine Form legen. Die Mascarpone-Sahne gleichmäßig darüber geben und glattstreichen. Nun nochmals mit Löffelbiskuit, Kaffee und Mascarpone-Sahne die zweite Schicht einfüllen."},{"headline":null,"content":"Das Kakaopulver mit einem feinen Sieb darüber streuen und die Form mindestens 2 Stunden kühl stellen."}],"recipe_tips":[{"headline":"Ohne Alkohol?","content":"Statt Amaretto kannst du entweder alkoholfreien Amaretto oder auch den Saft einer Orange verwenden. So wird dein Tiramisu trotzdem sehr lecker."}]}</CustomStructuredRecipeJson>
+    <Title>Tiramisu ohne Ei</Title>
+    <Headline position="1">Tiramisu ohne Ei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-16T10:22:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="845n8zl0fx4osjz1krz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="125" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" suffix="oder starker Kaffee" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Amaretto" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Löffelbiskuits" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kakaopulver" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="845n92684891ihby1krz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Espresso oder Kaffee zubereiten, in eine weite Schüssel geben und etwas abkühlen lassen. Inzwischen Mascarpone mit 1/4 der Sahne, Puderzucker und Amaretto in einer Schüssel mit einem Schneebesen glatt rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Tiramisu ohne Ei </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845n92687oyjs46hkrz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die restliche Sahne mit den Schneebesen des Handrührgerätes cremig steif schlagen und unter die Masse heben. Eine kleine Auflaufform (ca. 15 x 11 cm) bereit stellen. Die Hälfte der Löffelbiskuits im zubereiteten Kaffee tränken und in die Form legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845n92687ubmad38krz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Hälfte der Mascarpone-Creme gleichmäßig darauf verteilen und glatt streichen. Die restlichen Löffelbiskuit tränken und darauf schichten. Die übrige Mascarpone-Sahne darauf verteilen und erneut glatt streichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="845n92687z713x318krz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kakaopulver in ein feines Sieb geben und das Tiramisu damit bestäuben. Das Tiramisu vor dem Servieren mindestens 2 Stunden kühl stellen, damit es gut durchziehen kann. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="845n926883pxr32jkrz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Amaretto kannst du alkoholfreien Amaretto verwenden. Für eine leicht fruchtige Note kannst du stattdessen den Saft einer Orange verarbeiten – super lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tiramisu ohne Alkohol</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8420w72n0tv1ivqlhimm" file_variant="master" position="1">TiramisuohneEi_3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_696a045f9410d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8420w5eq4jm1c6n6eflu" file_variant="master" position="1">TiramisuohneEi_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_696a0461270db">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc8420w2u5mnb1expviiog" file_variant="master" position="1">TiramisuohneEi_1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_696a0462809c4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc8420x0qftfkkxoe0in0" file_variant="master" position="1">TiramisuohneEi_2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

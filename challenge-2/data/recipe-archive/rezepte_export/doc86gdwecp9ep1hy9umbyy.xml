@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86gdwecp9ep1hy9umbyy" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-26T12:03:36+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-26T12:13:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsao13x8iado5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rphk12oxkodo5"/>
+    <Provider topic="tmt86ge0wowyybfmqoec1j"/>
+    <Source topic="tmt86ge0wozlo6q4hpjc1j"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pilz-Creme mit Thymian","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"gemischte Pilze","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. Austernpilze, Shiitake, Kräuterseitlinge, Champignons)"},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 200 Grad (Umluft 180 Grad) vorheizen."},{"headline":null,"content":"Gemischte Pilze mit einem Tuch abreiben. Pilze grob hacken und in eine Auflaufform geben. Knoblauchzehe abziehen, halbieren und zugeben. Thymian hinzufügen. Butter in Flöckchen daraufgeben. Mit Salz und Pfeffer würzen."},{"headline":null,"content":"Im Ofen ca. 15 Minuten rösten. Herausnehmen, Thymian entfernen und abkühlen lassen."},{"headline":null,"content":"Bio-Zitrone waschen und trocken reiben, Schale abreiben und Saft auspressen. Parmesan fein reiben."},{"headline":null,"content":"Pilze mit Zitronenschale, Zitronensaft und Parmesan fein pürieren, eventuell etwas Wasser zugeben. Creme mit Salz und Pfeffer würzen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pilz-Creme mit Thymian</Title>
+    <CustomRecipeTeaserside position="1">Artischocke</CustomRecipeTeaserside>
+    <Headline position="1">Pilz-Creme mit Thymian</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-26T12:03:36+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86gdwg17oj82eq9kj3s">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8806" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Austernpilze, Shiitake, Kräuterseitlinge, Champignons)" position="1" plural="Pilze" prefix="gemischte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="2" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Thymian" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="6"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Parmesan" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86gdwjr9tyup12zlj3s">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Gemischte Pilze mit einem Tuch abreiben. Pilze grob hacken und in eine Auflaufform geben. Knoblauchzehe abziehen, halbieren und zugeben. Thymian hinzufügen. Butter in Flöckchen daraufgeben. Mit Salz und Pfeffer würzen. Im Ofen ca. 15 Minuten rösten. Herausnehmen, Thymian entfernen und abkühlen lassen. Bio-Zitrone waschen und trocken reiben, Schale abreiben und Saft auspressen. Parmesan fein reiben. Pilze mit Zitronenschale, Zitronensaft und Parmesan fein pürieren, eventuell etwas Wasser zugeben. Creme mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gekochte Artischocke mit Dips und Vinaigrette</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / D'Angelo, Vivi</ImageCredit>
+      <DocumentRef doc_id="doc7ouvccgotztpklfu1t3" file_variant="master" position="1">Gekochte Artischocke mit Dips und Vinaigrette</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

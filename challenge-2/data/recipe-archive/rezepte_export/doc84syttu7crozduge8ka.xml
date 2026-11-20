@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84syttu7crozduge8ka" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-02T19:41:35+01:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2026-03-03T15:34:52+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-land"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <Source topic="tmt84te43k7ro382fj9fr4"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="tmt828c3lblxnd13w060gcp"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeNutritionalValueCalories position="1">940</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">16</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">98</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">50</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Marinierte Schweinerippchen </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-02T19:41:35+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9961" position="1" amount="2" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" prefix="küchenfertige" plural="Schweinerippchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4881" position="4" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Bier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7161" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Ketchup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5566" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Dijonsenf"/>
+      <CustomRecipeIngredient topic="tmt82uycnfl6pu14xrtrcbl" position="8" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Worcestershiresauce"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" position="9" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="edelsüßes Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt80lpora3c2d1cuefjrvm" position="10" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="rosenscharfes Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt7jnregc9ya8t9mqg1fy" position="11" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" plural="Pimentpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="12" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" position="13" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Rohrzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="14" amount="4" amount_max="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Schweinerippchen abbrausen, trocken tupfen und in Stücke teilen. Rippchen in einen Topf mit kochendem Wasser geben und erneut zum Kochen bringen. Die Zwiebel und Knoblauchzehe abziehen, halbieren und mit in das Wasser geben. Etwa 30 Minuten simmern lassen, dann die Rippchen herausnehmen und abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69a6ee36a4dc4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Marinade das Bier mit Tomatenmark, Ketchup, Senf und Worcestershire-Sauce in einer Schüssel gut vermischen. Das Paprikapulver, den Piment, etwas Salz und den Zucker dazugeben. Das Olivenöl zufügen und alles gut miteinander verrühren. Die Rippchen mit der Marinade rundherum einpinseln und mind. 1 Stunde im Kühlschrank ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69a6ee608756c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 210 Grad Ober- und Unterhitze vorheizen. Oder einen Grill anheizen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69a6ee7184883">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zum Garen die Rippchen auf ein Gitter setzen, ein Auffangblech darunter setzen, beides auf der mittleren Schiene in den Ofen schieben und ca. 45 Minuten garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69a6ee8d1dad0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Oder die Rippchen auf einen heißen Grill legen und 15–20 Minuten unter gelegentlichen Wenden grillen. Dabei immer wieder mit der Marinade bestreichen und wenden.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Spare Ribs in Biermarinade mit Kräutern</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc7kio66nt55v12bw0b5ew" file_variant="master" position="1">Spare Ribs in Biermarinade mit Kräutern</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69a6f186df408">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Marinierte Spareribs zubereiten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Eising Studio - Food Photo &amp; Video</ImageCredit>
+      <DocumentRef doc_id="doc7kimixk4i4hddjk65er" file_variant="master" position="1">Marinierte Spareribs zubereiten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

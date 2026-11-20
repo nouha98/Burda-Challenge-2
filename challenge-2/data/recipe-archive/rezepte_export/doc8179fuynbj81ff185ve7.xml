@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8179fuynbj81ff185ve7" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-23T10:20:00+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-07-27T13:22:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="55"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0roxe1by4tedo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pasta mit Cavolo-Nero-Misobutter","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Zubereitung","duration":55}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":60,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"gehackt"},{"amount":0.5,"amountTo":null,"ingredient_name":"Fenchelsamen","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Chiliflocken","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Cavolo nero","unit":{"name":"g"},"prefix":null,"suffix":"(Schwarzkohl)"},{"amount":100,"amountTo":null,"ingredient_name":"Brokkoli","unit":{"name":"g"},"prefix":null,"suffix":"gehackt"},{"amount":0.75,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2.5,"amountTo":null,"ingredient_name":"Shiro-Miso","unit":{"name":"EL"},"prefix":null,"suffix":"(süßes weißes Miso)"},{"amount":3,"amountTo":null,"ingredient_name":"natives Olivenöl extra","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Orecchiette","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Chiliöl oder natives Olivenöl extra","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Servieren"}]}],"preparation":[{"headline":null,"content":"Butter im Topf erhitzen. Sobald sie schäumt, Knoblauch, Fenchelsamen und Chili hineingeben, unter Rühren 2–3 Minuten braten."},{"headline":null,"content":"Cavolo nero waschen, Blätter von den Blattrippen entfernen und in Streifen schneiden. Mit Brokkoli, Salz und 250 ml Wasser in den Topf geben, verrühren, zudecken und bei mittlerer Hitze 8–10 Minuten garen. Zwischendurch umrühren, bis das Gemüse zusammengefallen und weich ist."},{"headline":null,"content":"Alles in den Mixer geben. Miso und Olivenöl hinzufügen, zu einer glatten Sauce pürieren. Falls nötig, etwas Wasser dazugeben."},{"headline":null,"content":"Pasta nach Packungsangabe ohne Salz kochen. Kurz vor Ende der Garzeit einen großen Becher des Kochwassers abnehmen. Pasta im Sieb abtropfen lassen, zurück in den Topf geben. Sauce sowie 6–8 EL Kochwasser hinzufügen und verrühren. Abschmecken und nach Belieben mit Salz nachwürzen."},{"headline":null,"content":"Auf eine Servierplatte geben und mit etwas Chili- oder Olivenöl beträufeln."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pasta mit Cavolo-Nero-Misobutter</Title>
+    <Headline position="1">Pasta mit Cavolo-Nero-Misobutter</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-23T10:20:00+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8179fx2d6gn13vh4oe0e">
+      <CustomRecipeIngredient topic="tmt7i4a2rrd5fr86eddcdo" amount="2.5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(süßes weißes Miso)" position="8" plural="Miso" prefix="Shiro"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="gehackt" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5921" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Fenchelsamen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Chiliflocken" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Schwarzkohl)" position="5" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5131" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="gehackt" plural="Brokkoli" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.75" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="9" plural="Olivenöl" prefix="natives"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8521" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Orecchiette" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5356" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="oder natives Olivenöl zum Servieren" position="11" plural="Chiliöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8179g3p4o6s16b7h4e0e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter im Topf erhitzen. Sobald sie schäumt, Knoblauch, Fenchelsamen und Chili hineingeben, unter Rühren 2–3 Minuten braten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8179g3p4oiouennee0e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Cavolo nero waschen, Blätter von den Blattrippen entfernen und in Streifen schneiden. Mit Brokkoli, Salz und 250 ml Wasser in den Topf geben, verrühren, zudecken und bei mittlerer Hitze 8–10 Minuten garen. Zwischendurch umrühren, bis das Gemüse zusammengefallen und weich ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8179g3p4oo516nmmme0e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Alles in den Mixer geben. Miso und Olivenöl hinzufügen, zu einer glatten Sauce pürieren. Falls nötig, etwas Wasser dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8179g3p4oso16x0nie0e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Pasta nach Packungsangabe ohne Salz kochen. Kurz vor Ende der Garzeit einen großen Becher des Kochwassers abnehmen. Pasta im Sieb abtropfen lassen, zurück in den Topf geben. Sauce sowie 6–8 EL Kochwasser hinzufügen und verrühren. Abschmecken und nach Belieben mit Salz nachwürzen. Auf eine Servierplatte geben und mit etwas Chili- oder Olivenöl beträufeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>72_PastamitCavolo-nero-Misobutter.tif</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">© DK Verlag/ David Loftus</ImageCredit>
+      <DocumentRef doc_id="doc7zswc3159u81c0e8jqky" file_variant="master" position="1">72_PastamitCavolo-nero-Misobutter.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

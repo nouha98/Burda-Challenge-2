@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82pqhpsb9jqn09vdgx9" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-07T10:43:33+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-07T11:01:16+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Parmesansauce","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"geriebener Käse","unit":{"name":"g"},"prefix":null,"suffix":"z.B. Parmesan"},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":"1 gute","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":{"name":"Prise"},"prefix":"1","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Knoblauch schälen und fein hacken."},{"headline":null,"content":"Das Butter in einem Topf zerlassen und die gehackte Knoblauchzehe 1 Minute darin andünsten."},{"headline":null,"content":"Das Mehl mit einem Kochlöffel hinzurühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den geriebenen Käse einrühren bis er geschmolzen ist. Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken."},{"headline":null,"content":"Die Nudeln nach Packungsangabe kochen und mit der Sauce mischen."}],"recipe_tips":[{"headline":"Welche Nudeln?","content":"Am besten passen dazu Spaghetti und du kannst nochmals Parmesan darüber hobeln."}]}</CustomStructuredRecipeJson>
+    <Title>Parmesansauce</Title>
+    <Headline position="1">Parmesansauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-07T10:43:33+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82pqhln7lrkidb9lgx9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B. Parmesan" position="6" plural="geriebener Käse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="1 gute" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8301" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="geriebener" position="9" amount="1" plural="Muskat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" position="10" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="nach Wahl (z.B. Spaghetti)" plural="Nudeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82pqhpsb83861d6egx9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Pasta ausreichend Wasser in einem Topf zum Kochen bringen und salzen. Die Nudeln nach Packungsangabe kochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhpsb8d112glmdgx9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Parmesansauce den Knoblauch abziehen und fein hacken. Parmesan fein reiben. Die Butter in einem Topf zerlassen und die gehackte Knoblauchzehe darin 1 Minute bei mittlerer Hitze andünsten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhpsb8hy183d5dgx9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Mehl mit einem Kochlöffel einrühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den geriebenen Parmesan einrühren, bis er geschmolzen ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82pqhpsb8mp1l22xxgx9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken. Nudeln auf ein Sieb abgießen, mit der Parmesansauce mischen und servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82pqhpsb8sn1e0if8gx9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Am besten passen dazu Spaghetti und du kannst nochmals Parmesan darüber hobeln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Welche Nudeln?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jll4cibq0ev04hnff" file_variant="master" position="1">Parmesansauce II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68e4d6b33d877">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jlkyc5ksg10bk8o12wd" file_variant="master" position="1">Parmesansauce II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68e4d6b5396cc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jlnpmoyqd1c1ns6123w" file_variant="master" position="1">Parmesansauce II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68e4d6b714c7f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Ben Kindler &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82jll19wzvn12iuqvy9i" file_variant="master" position="1">Parmesansauce II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

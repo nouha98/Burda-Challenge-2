@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ptdx661l4113eux20wx" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-16T14:59:38+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-17T13:32:01+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bixykcn07kg0wn93w"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Nudelauflauf mit Mozzarella","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Auflauf","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"trockene Nudeln","unit":{"name":"g"},"prefix":null,"suffix":"zum Beispiel Tortiglioni"}]},{"headline":"Für die Tomatensauce","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"gehackte Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(aus der Dose)"},{"amount":1,"amountTo":null,"ingredient_name":"getrocknete italienische Kräuter","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":null,"ingredients":[{"amount":10,"amountTo":null,"ingredient_name":"Cocktailtomaten","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Mozzarella","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"frische Basilikumblätter","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die Nudeln","content":"Wasser mit Salz in einen großen Topf geben und aufkochen, Nudeln für 8 Min. bissfest garen. Durch ein Sieb abschütten, und Nudeln kurz mit kaltem Wasser abspülen."},{"headline":"Für die Tomatensauce","content":"Zwiebel schälen und in kleine Würfel schneiden, Knoblauch schälen und pressen. Öl in einer Pfanne erwärmen, Zwiebelwürfel und Knoblauch glasig dünsten. Die gehackten Tomaten hinzugeben und die Tomatensauce für 5 Minuten einkochen lassen, Sauce mit Salz, Pfeffer und italienischen Kräuter würzen. Sahne hinzugeben und kurz umrühren. Die Nudeln mit der Tomatensauce mischen."},{"headline":null,"content":"Backofen auf 200 Grad Ober- Unterhitze (Umluft 180 Grad) vorheizen."},{"headline":null,"content":"Cocktailtomaten waschen, trocknen und halbieren, unter die Nudeln mischen. Mozzarella in kleine Stückchen zupfen und ebenfalls untermischen, alles in eine Auflaufform geben und für 25 Minuten ausbacken. Mit frischem Basilikum dekorieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Nudelauflauf mit Mozzarella</Title>
+    <Headline position="1">Nudelauflauf mit Mozzarella</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-16T14:59:38+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ptds3mp001r8eo20wx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8386" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="zum Beispiel Tortiglioni" position="3" prefix="trockene" plural="Nudeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="2" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Wasser" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Auflauf</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83ptdtrdkhtmyy5y20wx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(aus der Dose)" position="4" prefix="gehackte" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt80go4y4morkhuoatgzt" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="5" plural="getrocknete italienische Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="6"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="7" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="8" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Tomatensauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83ptdwaxv851hcsmc20wx">
+      <CustomRecipeIngredient topic="tmt80j864y9romv5h79gip" amount="10" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" plural="Cocktailtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8256" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mozzarella" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="10" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="3" prefix="frische" plural="Basilikum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ptdx65sit1n1zse20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Nudeln Wasser mit Salz in einen großen Topf geben und aufkochen. Nudeln für 8 Minuten bissfest garen. Durch ein Sieb abschütten und Nudeln kurz mit kaltem Wasser abspülen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ptdx660dc1etnbt20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Tomatensauce die Zwiebel schälen und in kleine Würfel schneiden. Den Knoblauch schälen und pressen. Öl in einer Pfanne erwärmen. Zwiebelwürfel und Knoblauch darin glasig dünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ptdx660tcwohmc20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die gehackten Tomaten hinzugeben und die Tomatensauce für 5 Minuten einkochen lassen. Sauce mit etwas Salz, Pfeffer und italienischen Kräutern würzen. Sahne hinzugeben und kurz umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ptdx660yc3z8ra20wx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Nudeln mit der Tomatensauce mischen. Backofen auf 200 Grad Ober- und Unterhitze (Umluft 180 Grad) vorheizen. Cocktailtomaten waschen, trocknen und halbieren. Die Tomatenhälften unter die Nudeln mischen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6942a298d3903">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mozzarella in kleine Stückchen zupfen und ebenfalls untermischen. Alles in eine Auflaufform geben und für 25 Minuten ausbacken. Mit frischem Basilikum dekorieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe8w2pnf61epbnwdj0" file_variant="master" position="1">Nudelauflauf Tomate-Mozzarella</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6942a2af4fd5e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe8t0tdl516o18hjfu" file_variant="master" position="1">Nudelauflauf Tomate-Mozzarella</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6942a2b17f66b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe8w2pnf61epbnwdj0" file_variant="master" position="1">Nudelauflauf Tomate-Mozzarella</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6942a2b37a529">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe8ri6i841myui8jfu" file_variant="master" position="1">Nudelauflauf Tomate-Mozzarella</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

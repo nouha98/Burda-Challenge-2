@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88bpnztizfqcavswtwl" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-04T11:48:30+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-11-04T12:02:21+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="tm_topic_default_unit" minutes="90"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <Source topic="tmt88bpu4du2eddalgju0d"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pikanter Brezel-Snack","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Backen","duration":90}],"difficulty":null,"price":null,"nutritions":{"calories":195,"kilojoule":816,"carbonhydrates":24,"fat":8,"protein":4,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Laugenbrezeln","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"mittelscharfer Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"süßer Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gemahlene Kurkuma","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"flüssiger Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 150 Grad (Umluft 130 Grad) vorheizen. Brezeln in kleine dünne Stücke schneiden, auf einem Blech verteilen und im Ofen ca. 30 Minuten backen. Nach der Hälfte der Zeit die Ofentür einmal öffnen, damit vorhandene Feuchtigkeit entweichen kann."},{"headline":null,"content":"Zwiebel abziehen und fein raspeln. Öl in einem kleinen Topf erhitzen und die Zwiebel darin 3–4 Minuten anrösten. Beide Senfsorten, Kurkuma, Essig, Honig und Salz zugeben, alles gut verrühren und erhitzen."},{"headline":null,"content":"Marinade mit den getrockneten Brezeln vermischen. Brezelstücke weitere 20–30 Minuten backen und dabei hin und wieder durchrühren."},{"headline":null,"content":"Ofentemperatur auf 100 Grad (Umluft 80 Grad) reduzieren. Brezelstücke bei leicht geöffneter Ofentür ca. 30 Minuten fertig trocknen. Auskühlen lassen und nach Belieben als Geschenk verpacken."}],"recipe_tips":[{"headline":"Haltbarkeit","content":"Trocken gelagert sind die Brezelstücke ca. 2 Wochen haltbar."}]}</CustomStructuredRecipeJson>
+    <Title>Pikanter Brezel-Snack</Title>
+    <CustomRecipeNutritionalValueCalories position="1">195</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">816</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">24</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">8</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Pikanter Brezel-Snack</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-04T11:48:30+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88bpo1me59utjl7dkdm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7676" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Laugenbrezeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="3"/>
+      <CustomRecipeIngredient topic="tmt7z8ylf3zj4ncc1ktdmu" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" plural="mittelscharfer Senf"/>
+      <CustomRecipeIngredient topic="tmt80i4rchen8mqo62n10bt" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="süßer Senf"/>
+      <CustomRecipeIngredient topic="tmt80i5sjyo92gev41s10bp" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="6" plural="gemahlene Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Apfelessig" position="7"/>
+      <CustomRecipeIngredient topic="tmt80gmyt8a6fq1bu7bpgzt" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="8" plural="flüssiger Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88bpo3cegb711lv5hkdm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 150 Grad (Umluft 130 Grad) vorheizen. Brezeln in kleine dünne Stücke schneiden, auf einem Blech verteilen und im Ofen ca. 30 Minuten backen. Nach der Hälfte der Zeit die Ofentür einmal öffnen, damit vorhandene Feuchtigkeit entweichen kann.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88bpo3cegl41h8bl3kdm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebel abziehen und fein raspeln. Öl in einem kleinen Topf erhitzen und die Zwiebel darin 3–4 Minuten anrösten. Beide Senfsorten, Kurkuma, Essig, Honig und Salz zugeben, alles gut verrühren und erhitzen. Marinade mit den getrockneten Brezeln vermischen. Brezelstücke weitere 20–30 Minuten backen und dabei hin und wieder durchrühren. Ofentemperatur auf 100 Grad (Umluft 80 Grad) reduzieren. Brezelstücke bei leicht geöffneter Ofentür ca. 30 Minuten fertig trocknen. Auskühlen lassen und nach Belieben als Geschenk verpacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="88bpo3ceh3b1nf9exkdm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Haltbarkeit: Trocken gelagert sind die Brezelstücke ca. 2 Wochen haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc79yqr5crx0k1i27redvp" file_variant="master" position="1">Sniders_02.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

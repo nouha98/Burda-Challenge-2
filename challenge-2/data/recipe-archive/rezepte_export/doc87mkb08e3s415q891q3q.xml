@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87mkb08e3s415q891q3q" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-16T14:08:09+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-09-16T15:12:21+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-wome"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="75"/>
+    <CustomRecipePreparation topic="tm_topic_default_unit" minutes="60"/>
+    <Source topic="tmt87ml4owi71gj2exbqiz"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Würziger Wildhackbraten","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":75},{"name":"Backen","duration":60}],"difficulty":null,"price":null,"nutritions":{"calories":490,"kilojoule":2051,"carbonhydrates":24,"fat":26,"protein":35,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Brötchen vom Vortag","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Speck","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Schweinehack","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Wildschweinhack","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer aus der Mühle","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Wildgewürz","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gehackte Kräuter","unit":{"name":"EL"},"prefix":null,"suffix":"(z.B. Thymian, Rosmarin &amp; Majoran)"}]}],"preparation":[{"headline":null,"content":"Brötchen würfeln. Mit der warmen Milch übergießen und abkühlen lassen."},{"headline":null,"content":"Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine Kastenform (ca. 25 cm Länge) mit Backpapier auslegen."},{"headline":null,"content":"Speck würfeln. Mit Schweine- und Wildschweinhack mischen. Eier, Salz, Pfeffer, Wildgewürz und Kräuter zufügen und verkneten."},{"headline":null,"content":"Brötchen mit Milch dazugeben und untermengen. Evtl. Semmelbrösel oder etwas Milch einarbeiten, bis der Teig bindet."},{"headline":null,"content":"Die Masse kräftig abschmecken und in die Form geben. Im Ofen auf der mittleren Schiene ca. 1 Std. backen."},{"headline":null,"content":"Den Braten kurz ruhen lassen, dann aus der Form nehmen. Evtl. mit Thymian und Rosmarin garnieren. Dazu schmeckt Preiselbeerkonfitüre."}],"recipe_tips":[{"headline":"Orientalische Variante","content":"Für eine orientalische Variante je 50 g getrocknete Aprikosen und Pistazien hacken und unter die Hackmasse heben. Als Fleisch eine Mischung aus Rinderhack und Lammhack verwenden. Mit etwas Zimt sowie Kreuzkümmel kräftig würzen."}]}</CustomStructuredRecipeJson>
+    <Title>Würziger Wildhackbraten</Title>
+    <CustomRecipeNutritionalValueCalories position="1">490</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2051</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">24</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">26</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">35</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Würziger Wildhackbraten</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-16T14:08:09+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87mkb2y6yp0opfwbpcm">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(z.B. Thymian, Rosmarin &amp; Majoran)" position="10" plural="Kräuter" prefix="gehackte "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5156" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" suffix="vom Vortag" plural="Brötchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10261" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speck" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9926" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schweinehack" position="4"/>
+      <CustomRecipeIngredient topic="tmt87ml34p95kmlwsm5qig" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Wildschweinhack"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8" suffix="aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11186" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Wildgewürz" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87mkb8pkg04kps3lpcm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Brötchen würfeln. Mit der warmen Milch übergießen. Abkühlen lassen. Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Eine Kastenform (ca. 25 cm Länge) mit Backpapier auslegen. Speck würfeln. Mit Schweine- und Wildschweinhack mischen. Eier, Salz, Pfeffer, Wildgewürz und Kräuter zufügen und verkneten. Brötchen mit Milch dazugeben und untermengen. Evtl. Semmelbrösel oder etwas Milch einarbeiten, bis der Teig bindet. Die Masse kräftig abschmecken und in die Form geben. Im Ofen auf der mittleren Schiene ca. 1 Std. backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87mkb8pkqqemrupcpcm">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Braten kurz ruhen lassen, dann aus der Form nehmen. Evtl. mit Thymian und Rosmarin garnieren. Dazu schmeckt Preiselbeerkonfitüre.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87mkb8pkr9srtgespcm">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für eine orientalische Variante je 50 g getrocknete Aprikosen und Pistazien hacken und unter die Hackmasse heben. Als Fleisch eine Mischung aus Rinderhack und Lammhack verwenden. Mit etwas Zimt sowie Kreuzkümmel kräftig würzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Orientalische Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Wildhackbraten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Winner, Katrin</ImageCredit>
+      <DocumentRef doc_id="doc7gtlwy1au5y1k0vtuo60" file_variant="master" position="1">Wildhackbraten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

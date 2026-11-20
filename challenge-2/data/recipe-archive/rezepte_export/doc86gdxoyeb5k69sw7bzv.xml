@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86gdxoyeb5k69sw7bzv" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-26T12:06:24+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-26T15:04:06+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6ssta82hc821kzpxy6v4"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="tm_topic_default_unit" minutes="720"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rphk12oxkodo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt8i81u2gdo5"/>
+    <Provider topic="tmt86gg7vaas5wyhfdmd3l"/>
+    <Source topic="tmt86gg7vaenh2gex6td3l"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Baguette mit Brandade aus Stockfisch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":50},{"name":"Ruhen/Warten","duration":720}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Stockfisch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"mehligkochende Kartoffeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Salbei","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Orangenabrieb","unit":{"name":"EL"},"prefix":"Bio","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Baguette","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"schwarze Tapenade","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Stockfisch mindestens 12 Stunden in kaltem Wasser einweichen. Dabei das Wasser mehrmals wechseln."},{"headline":null,"content":"Die Kartoffeln schälen und in Salzwasser ca. 20 Minuten kochen."},{"headline":null,"content":"Inzwischen den Stockfisch abtropfen lassen, in einen Topf geben und mit der Milch begießen. Knoblauch andrücken und zugeben. Zugedeckt 8 Minuten köcheln lassen."},{"headline":null,"content":"Den Fisch herausnehmen, entgräten, häuten und das Fleisch fein zerpflücken. Die Milch durch ein Sieb gießen und auffangen."},{"headline":null,"content":"Die Kartoffeln durch eine Presse drücken und kurz ausdampfen lassen. Mit Fisch, Olivenöl und so viel von der Kochmilch verrühren, bis eine cremige Masse entsteht. Mit Zitronensaft, Salz und Pfeffer würzen."},{"headline":null,"content":"Salbeiblätter abzupfen, in feine Streifen schneiden und mit Orangenabrieb mischen."},{"headline":null,"content":"Das Baguette schräg in Scheiben schneiden und mit der Brandade bestreichen. Etwa die Hälfte mit der Salbei-Orangen-Mischung bestreuen. Auf die übrigen Scheiben etwas Tapenade geben."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Baguette mit Brandade aus Stockfisch</Title>
+    <Headline position="1">Baguette mit Brandade aus Stockfisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-26T12:06:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86gdxrekb408u3rfs63">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10396" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Stockfisch" position="1"/>
+      <CustomRecipeIngredient topic="tmt80j860dt4auamn8mgip" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="mehligkochende Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="7" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9541" amount="4" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Salbei" position="9"/>
+      <CustomRecipeIngredient topic="tmt837av4j3tnm1l4ics1bdu" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="10" plural="Bio-Orangenabrieb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4731" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Baguette" position="11"/>
+      <CustomRecipeIngredient topic="tmt7p219mz2dkpkl9s561u" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" prefix="schwarze" plural="Tapenade"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrfzdocrqws63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Stockfisch mindestens 12 Stunden in kaltem Wasser einweichen. Dabei das Wasser mehrmals wechseln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrlqgwujp1s63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Kartoffeln schälen und in Salzwasser ca. 20 Minuten kochen. Inzwischen den Stockfisch abtropfen lassen, in einen Topf geben und mit der Milch begießen. Knoblauch andrücken und zugeben. Zugedeckt 8 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrm0518uobcs63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Fisch herausnehmen, entgräten, häuten und das Fleisch fein zerpflücken. Die Milch durch ein Sieb gießen und auffangen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrm5hg08ss63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Kartoffeln durch eine Presse drücken und kurz ausdampfen lassen. Mit Fisch, Olivenöl und so viel von der Kochmilch verrühren, bis eine cremige Masse entsteht. Mit Zitronensaft, Salz und Pfeffer abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrmb712bq77s63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Salbeiblätter abzupfen, in feine Streifen schneiden und mit Orangenabrieb mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86gdxwjrmgjsub9cs63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Das Baguette schräg in Scheiben schneiden und mit der Brandade bestreichen. Etwa die Hälfte mit der Salbei-Orangen-Mischung bestreuen. Auf die übrigen Scheiben etwas Tapenade geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Baguettescheiben mit Brandade (Stockfischpüree, Provence), Oliven, Olivenöl</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Lehmann, Joerg</ImageCredit>
+      <DocumentRef doc_id="doc7exsql3q1lh1decipc0y" file_variant="master" position="1">Baguettescheiben mit Brandade (Stockfischpüree, Provence), Oliven, Olivenöl</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7mdgxhib1b6qnrmweqc" dcx-version="6.3.1" version="1.0">
+  <created>2022-08-19T13:36:53+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2022-08-19T13:40:12+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <DateImported>2022-08-19T13:36:53+02:00</DateImported>
+    <Headline position="1">Cocktail 43</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="0" amount="2" suffix="(Bio)" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="brauner" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7736" position="2" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="43 (span. Vanillelikör)" plural="Likör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" position="3" plural="Eiswürfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6311" position="4" amount="700" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Ginger Ale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" position="5" amount="0,7" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" prefix="kohlensäurehaltiges" plural="Mineralwasser"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zum Servieren: 2 Zitronen (Bio) waschen, 8 Stück Schale abschälen, Saft auspressen, mit 2 EL braunem Zucker und 400 ml Likör 43 (span. Vanillelikör) mischen. Je 1 Stück Zitronenschale und Eiswürfel in 8 Gläser geben. Likör-Mix darauf verteilen. 700 ml Gingerale und 0,7 l kohlensäurehaltiges Mineralwasser angießen. Drink umrühren, servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cocktail 43</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotograf: Jan-Peter Westermann (JW)</ImageCredit>
+      <DocumentRef doc_id="doc7g8m66nx0gy8i7fmamd" file_variant="master" position="1">Cocktail_43</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

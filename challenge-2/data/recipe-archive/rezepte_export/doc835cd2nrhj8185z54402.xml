@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc835cd2nrhj8185z54402" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-06T18:43:58+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-07T14:15:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <City topic="tmt6pdbq2lgw2flnwrx5p6" generator="com.digicol.se" score="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Manhattan Cocktail","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":"einige","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Maraschino Kirschen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Whiskey","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":2.5,"amountTo":null,"ingredient_name":"roter Wermut","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Angostura Bitters","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":null}]}],"preparation":[{"headline":null,"content":"Cocktailschale mit einigen Eiswürfeln vorkühlen und die Kirschen auf einen Holzspieß spießen."},{"headline":null,"content":"Eine Hand voll Eiswürfel mit Whiskey, Wermut und 2 Spritzern Angostura Bitter in ein Mischglas geben und die Zutaten mit einem Barlöffel verrühren."},{"headline":null,"content":"Eiswürfel abseihen, Drink in das gekühlte Glas füllen und mit Kirschen servieren."}],"recipe_tips":[{"headline":"Mit Zitrone oder Orange","content":"Verfeinere deinen Manhattan mit einer Zitronen- oder Orangenzeste."}]}</CustomStructuredRecipeJson>
+    <Title>Manhattan Cocktail</Title>
+    <Headline position="1">Manhattan Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-06T18:43:58+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="835cd1tilw4q3h19402">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4476" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" prefix="etwas" position="5" amount="2" suffix="(Angostura Bitter)" plural="Alkohol"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="einige" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7176" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="Maraschino-" plural="Kirschen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11161" amount="6" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="3" plural="Whisky"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11156" amount="2.5" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" position="4" prefix="roter" plural="Wermut"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="835cd2nrgc9ho5o8402">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Cocktailschale mit einigen Eiswürfeln vorkühlen und die Kirschen auf einen Holzspieß spießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="835cd2nrgjc3g2kf402">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eine Hand voll Eiswürfel mit Whiskey, Wermut und 2 Spritzern Angostura Bitter in ein Mischglas geben und die Zutaten mit einem Barlöffel verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="835cd2nrgpyry5tg402">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eiswürfel abseihen, Drink in das gekühlte Glas füllen und mit Kirschen servieren. Lass es dir schmecken! 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="835cd2nrgtux4vig402">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere deinen Manhattan mit einer Zitronen- oder Orangenzeste.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mit Zitrone oder Orange</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9ze15qd516cc8aubx" file_variant="master" position="1">Manhattan Cocktail</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690df0e80e3b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zfqsgut50qz4hqv" file_variant="master" position="1">Manhattan Cocktail</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690df0e9eee78">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9zcutiw1xp34dmqi" file_variant="master" position="1">Manhattan Cocktail</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fd4f2ekmwxveo70ga1" dcx-version="6.3.1" version="1.0">
+  <created>2021-04-15T10:47:37+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Keywords topic="tmt7fd4iem901g1k0dr0gat"/>
+    <DateImported>2021-04-15T10:47:37+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">150</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">14</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Glühwein mit Craftbeer</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="1" amount="1" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="2" amount="650" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="trockener" suffix="(z.B.Weißburgunder)" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" position="3" amount="3" plural="Nelke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" position="4" amount="2" plural="Sternanis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="5" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="6" amount="2" prefix="Bio" plural="Zitronen"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6077fe68b2d2f">
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">250 ml Craftbeer (z.B. India Pale Ale)</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Zimtstange in Stücke brechen. Den Weißwein zusammen mit Bier, Nelken, Zimt-stange, Sternanisen und Zucker in einen Topf geben. Die Mischung langsam erhitzen, je-doch nicht zum Kochen bringen. Den Zucker unter Rühren auflösen. 5 Min. ziehen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6077fedc172f5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zitronen abbrausen, halbieren. Von jeder 5 Scheiben schneiden. Übrige Fruchtteile anderweitig verwenden. In 5 Gläser je 2 Zitro-nenscheiben geben. Die Wein-Bier-Mischung nach Belieben durch ein Sieb gießen oder aber samt Gewürzen auf die Gläser verteilen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc70jahgz58zn10wt411t1" file_variant="master" position="1">12090582</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6077ff16ddab3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc70jahgz58zn10wt411t1" file_variant="master" position="1">12090582</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

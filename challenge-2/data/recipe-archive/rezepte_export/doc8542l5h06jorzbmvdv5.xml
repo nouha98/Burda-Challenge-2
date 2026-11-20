@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8542l5h06jorzbmvdv5" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-24T10:21:57+01:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2026-03-31T11:31:35+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Creator topic="tmt6tnpmbuldas2ngd9eew"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_marinading" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <SubHeadline position="1">Tintenfisch-Burger mit Möhren und Limette 12453816</SubHeadline>
+    <CustomRecipeNutritionalValueCalories position="1">475</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">31</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">21</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Calamari-Burger</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-24T10:21:57+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7gnf4jilfmr3kqe3oqt" position="1" plural="Tintenfischtuben" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="1" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="3" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="4" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Tintenfisch</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69cb8c7449e9e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8101" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mayonnaise"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Naturjoghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" position="3" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="5" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="6" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_69cb8cce3988d">
+      <CustomRecipeIngredient topic="tmt7e1w8aah73b13w429inl" position="8" prefix="Bio-" suffix="zum Anrichten" plural="Limettenspalten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="1" amount="2" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt80jpt7ss7fp1i7l1223pf" position="2" amount="2" plural="Mini-Gurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="3" amount="2" prefix="grüner Teil von" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5206" position="4" amount="4" suffix="mit Sesam" plural="Burger-Brötchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="7" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tintenfisch abbrausen, trockentupfen, in größere Stücke schneiden und gitterartig einschneiden. Knoblauch abziehen, fein hacken. In einer Schüssel mit Limettensaft, 2 EL Öl, Salz und Pfeffer verrühren. Tintenfisch darin 10-15 Minuten marinieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69cb8df5e552b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für die Sauce Mayonnaise, Joghurt und die übrigen Zutaten verrühren, abschmecken und beiseitestellen. Möhren schälen, Gurken waschen und putzen. Beides in feine Scheiben hobeln. Lauchzwiebelgrün abbrausen und in sehr feine Streifen schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69cb8ea9415ae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Übriges Öl (1 EL) in einer Pfanne  erhitzen. Tintenfisch darin bei starker Hitze 2-3 Minuten anbraten, dabei einmal wenden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69cb8ed8e9b5d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Brötchen waagerecht halbieren. Hälften nach Belieben kurz toasten. Unterhälften mit Möhren- und Gurkenscheiben belegen, leicht salzen und pfeffern. Tintenfisch darauf anrichten, mit etwas Limettensaft und der Sauce beträufeln. Mit Lauchzwiebeln toppen. Brötchendeckel an- oder auflegen, Burger mit Limettenspalten servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BAUER SYNDICATION</ImageCredit>
+      <DocumentRef doc_id="doc7f1vdxoqnyd12nhzx5sw" file_variant="master" position="1">Tintenfisch-Burger mit M hren und Limette</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

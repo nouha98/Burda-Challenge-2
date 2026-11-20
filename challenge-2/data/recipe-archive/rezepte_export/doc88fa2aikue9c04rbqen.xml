@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88fa2aikue9c04rbqen" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-11T10:23:56+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-11T10:30:40+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt88fa5eq20fo3m0jb204t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wintersalat","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Feldsalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Granatapfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Orangen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Walnusskerne","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Ziegenweichkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":"(hell)"},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz mit Fluorid","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":8,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Feldsalat waschen, trockenschleudern und ggf. vom Strunk befreien. Granatapfel halbieren und in einer Schüssel mit Wasser die Kerne aus der Frucht drücken. Dann die Kerne mit dem Wasser durch ein Sieb abschütten und anschließend die weiße Haut entfernen."},{"headline":null,"content":"Orangen schälen, die weiße Haut dabei entfernen. Mit einem scharfen Messer vorsichtig die Filets zwischen den Trennhäuten herauslösen, den heraustretenden Saft dabei auffangen. Walnusskerne in einer beschichteten Pfanne goldbraun rösten und nach dem Abkühlen grob hacken. Ziegenweichkäse in Stücke schneiden."},{"headline":null,"content":"Für das Dressing Balsamico-Essig mit Honig, Senf und 4 EL Orangensaft verrühren, zuletzt das Olivenöl unterschlagen. Mit Pfeffer und etwas Salz würzen."},{"headline":null,"content":"Feldsalat mit dem Dressing anmachen und auf Tellern anrichten. Salat mit Orangenfilets, Granatapfelkernen und Ziegenweichkäse belegen. Mit den gehackten Walnusskernen bestreuen und mit dem Vollkornbrot servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Wintersalat</Title>
+    <Headline position="1">Wintersalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-11T10:23:56+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88fa26wct5cuf3rwqen">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5901" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feldsalat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6361" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Granatäpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Orangen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Walnusskerne" position="4"/>
+      <CustomRecipeIngredient topic="tmt7d8mlqeh36cfsjyb22r" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ziegenweichkäse" position="5"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(hell)" plural="Balsamicoessig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="11" suffix="mit Fluorid" plural="Jodsalz"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="88fa29xrglv12tpwlqen">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="8" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88fa2aikt851h1vyoqen">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Feldsalat waschen, trockenschleudern und ggf. vom Strunk befreien. Granatapfel halbieren und in einer Schüssel mit Wasser die Kerne aus der Frucht drücken. Dann die Kerne mit dem Wasser durch ein Sieb abschütten und anschließend die weiße Haut entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fa2aiktg91hha35qen">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Orangen schälen, die weiße Haut dabei entfernen. Mit einem scharfen Messer vorsichtig die Filets zwischen den Trennhäuten herauslösen, den heraustretenden Saft dabei auffangen. Walnusskerne in einer beschichteten Pfanne goldbraun rösten und nach dem Abkühlen grob hacken. Ziegenweichkäse in Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fa2aiktkp16k0wpqen">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für das Dressing Balsamico-Essig mit Honig, Senf und 4 EL Orangensaft verrühren, zuletzt das Olivenöl unterschlagen. Mit Pfeffer und etwas Salz würzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88fa2aiktoju3kteqen">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Feldsalat mit dem Dressing anmachen und auf Tellern anrichten. Salat mit Orangenfilets, Granatapfelkernen und Ziegenweichkäse belegen. Mit den gehackten Walnusskernen bestreuen und mit dem Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe3wo9sgx1e45cz6vb" file_variant="master" position="1">Wintersalat_2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6af435b517b1d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe43xcj3p79lzz6ve" file_variant="master" position="1">Wintersalat_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6af435b6c1bf6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe3sa3l81m0bhg6vb" file_variant="master" position="1">Wintersalat_1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

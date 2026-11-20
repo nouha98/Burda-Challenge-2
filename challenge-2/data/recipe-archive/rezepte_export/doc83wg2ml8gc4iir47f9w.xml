@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83wg2ml8gc4iir47f9w" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-29T12:40:50+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-29T13:18:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="480"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr2acq6mcdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Tiramisu","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Ruhen/Warten","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Espresso oder starker Kaffee","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":16,"amountTo":null,"ingredient_name":"Löffelbiskuit","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"dunkles Kakaopulver","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Kaffee mit dem Amaretto und dem Vanillezucker verrühren und abkühlen lassen."},{"headline":null,"content":"Die Eigelbe mit dem Zucker mit dem Handrührgerät schaumig schlagen. Mascarpone dazugeben und zu einer glatten Masse rühren."},{"headline":null,"content":"Die Sahne cremig steif schlagen und unter die Masse heben."},{"headline":null,"content":"Löffelbiskuits im abgekühlten Kaffee tränken und dicht nebeneinander in die Auflaufform setzen."},{"headline":null,"content":"Die Hälfte der Creme darüber geben und glattstreichen."},{"headline":null,"content":"Für die Zweite Schicht, nochmals Löffelbiskuits im Kaffee tränken und die Creme aufstreichen oder mit einem Spritzbeutel als Tuffs aufspritzen."},{"headline":null,"content":"Mit Kakaopulver großzügig bestäuben und für ca. 2 Stunden kaltstellen."}],"recipe_tips":[{"headline":null,"content":"Gerne gebe ich etwas Vanilleextrakt und 1-2 EL Amaretto unter die Tiramisu-Crème. So wird das Tiramisu geschmacklich noch besser. Statt Amaretto kannst du übrigens auch Orangensaft verwenden, z.B. für Kinder."}]}</CustomStructuredRecipeJson>
+    <Title>Tiramisu</Title>
+    <Headline position="1">Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-29T12:40:50+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83wg2ja2t1f369kcf9w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Amaretto" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="6" suffix="(Größe M)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kakaopulver" position="7" suffix="zum Bestreuen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml88dxfni0pf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Tiramisu eine Auflaufform (25 x 35 cm) mit einer Lage Löffelbiskuits auslegen. Espresso vorbereiten und mit Amaretto mischen. Die Löffelbiskuits mit der Hälfte der Tränke beträufeln.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8cxjh3excf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Creme den Mascarpone kurz glattrühren. Die Eier trennen, dabei alle Eigelbe in eine Schüssel und die Hälfte der Eiweiße in eine andere Schüssel geben. Die andere Eiweißhälfte kannst du für ein anderes Rezept verwenden. Den Puderzucker sieben und mit den Eigelben zu einer cremig-weißen Masse aufschlagen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8d2s13rcuif9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Eiweiße in einer separaten Schüssel zu Eischnee aufschlagen. Mascarpone in die Eigelb-Puderzucker-Masse einrühren und dann den Eischnee vorsichtig unterheben.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8d6wqhzk8f9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Hälfte der Mascarpone-Creme auf den Löffelbiskuits verteilen, dann eine weitere Schicht Löffelbiskuits darauflegen. Die restliche Espresso-Amaretto-Tränke auf den Löffelbiskuits verteilen und mit der übrigen Mascarpone-Creme abschließen, diese glattstreichen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8db611u9xef9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Den Backkakao in ein kleines Sieb geben und das Tiramisu damit bestreuen. Das Dessert über Nacht kühlstellen und dann servieren. Lass es dir schmecken!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8dg01dbw1yf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Für die Zweite Schicht, nochmals Löffelbiskuits im Kaffee tränken und die Creme aufstreichen oder mit einem Spritzbeutel als Tuffs aufspritzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83wg2ml8djq1aj6isf9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="7">Mit Kakaopulver großzügig bestäuben und für ca. 2 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="7">Schritt 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83wg2ml8do212uef4f9w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Gerne gebe ich etwas Vanilleextrakt und 1-2 EL Amaretto unter die Tiramisu-Crème. So wird das Tiramisu geschmacklich noch besser. Statt Amaretto kannst du übrigens auch Orangensaft verwenden, z.B. für Kinder.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j6xc03bc618mety9jb" file_variant="master" position="1">Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6952717749495">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j6x97iar8yl0w79b4" file_variant="master" position="1">Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_695271812dc42">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j6xfdcy3loh44ejnl" file_variant="master" position="1">Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6952718f927fc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82j6x4lhuvk15ixx69ap" file_variant="master" position="1">Tiramisu II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82bxdfiybjc7rha9gft" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-10T13:43:55+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-10T13:49:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt798u5uux10j87yu2eek"/>
+    <Creator topic="tmt798u5uux10j87yu2eek"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt798u5uux10j87yu2eek"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt82bxfte5xwkc2errggp"/>
+    <Headline position="1">Honig-Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-10T13:43:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="10" prefix="nach Belieben" suffix="zum Servieren" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Birnen"/>
+      <CustomRecipeIngredient topic="tmt7ky2rq9ivkl7kgdh4rl" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Schokoladenaufstrich"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="5" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiche" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="6" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" position="7" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Haferflocken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="8" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gemahlene" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6591" position="9" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="grob gehackte " plural="Haselnüsse"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Birnen schälen, entkernen und würfeln. Schokocreme schmelzen, mit den Birnen in einer ofenfesten Form (Ø ca. 26 cm) vermengen. Mehl, Salz, weiche Butter und Honig zu Streuseln kneten. Haferflocken, gemahlene Mandeln und grob gehackte Haselnüsse untermischen. Die Mischung in der Form auf den Birnen verteilen. Crumble im Ofen bei 180 Grad 20–25 Minuten backen. Nach Belieben mit Sahne servieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Birnen-Schokoladen-Crumble mit Sahne in kleiner Pfanne</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">The Picture Pantry</ImageCredit>
+      <DocumentRef doc_id="doc81g0aev60nm1bpc402vs" file_variant="master" position="1">Birnen-Schokoladen-Crumble mit Sahne in kleiner Pfanne</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

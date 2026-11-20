@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81wz7fwtggn1isjdn1t9h" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T11:28:51+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-12T11:34:22+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pflaumenchutney","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Kühlen","duration":null},{"name":"Garen","duration":20},{"name":"Ruhen/Warten","duration":1440}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Pflaumen oder Zwetschgen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"rote Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ca. 200 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":"walnussgroß"},{"amount":1,"amountTo":null,"ingredient_name":"kleine Chilischote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(ersatzweise 2-3 Prisen Chilipulver)"},{"amount":1,"amountTo":null,"ingredient_name":"neutrales Speiseöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Pflaumen waschen, trocken tupfen und halbieren. Steine entfernen und die Fruchthälften in kleine Würfel schneiden. In eine Schüssel geben, mit Zucker mischen und beiseitestellen."},{"headline":null,"content":"Zwiebeln abziehen, halbieren und in Würfel schneiden. Ingwer schälen und klein schneiden (ersatzweise fein reiben). Chilischote längs halbieren, Kerne herauskratzen. Chilihälften in kleine Stücke schneiden."},{"headline":null,"content":"Öl in einem Topf erhitzen. Zwiebelwürfel hineingeben und 2 Minuten unter gelegentlichem Rühren köcheln lassen."},{"headline":null,"content":"Pflaumenmix, 3 EL Wasser, Chili, Ingwer, Zimtstange, Salz und Pfeffer zugeben und verrühren. Zuletzt Essig zugeben und bei mittlerer Hitze und unter gelegentlichem Rühren ca. 20 Minuten einkochen lassen."},{"headline":null,"content":"Heißes Chutney in zwei saubere Einmachgläser (á 250 ml) füllen, verschließen und über Nacht auskühlen lassen. Geöffnete Chutney kühl lagern."}],"recipe_tips":[{"headline":"Festere Konsistenz gewünscht?","content":"Dann ersetze den Zucker durch Gelierzucker 2:1"}]}</CustomStructuredRecipeJson>
+    <Title>Pflaumenchutney</Title>
+    <Headline position="1">Pflaumenchutney</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T11:28:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81wz7by9zfn1jqfjh1t9h">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ersatzweise 2-3 Prisen Chilipulver)" position="5" plural="Chilischote" prefix="kleine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8776" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Pflaumen" suffix="oder Zwetschgen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 200 g)" plural="rote Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="walnussgroß" plural="Ingwer" position="4"/>
+      <CustomRecipeIngredient topic="tmt7zqvfhslf9d1254kb7n7" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="6" plural="Neutrales Speiseöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="7"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" position="8" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Balsamicoessig" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="11" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Wasser"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81wz7fwt39sx32vd1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pflaumen waschen, trocken tupfen und halbieren. Steine entfernen und die Fruchthälften in kleine Würfel schneiden. In eine Schüssel geben, mit Zucker mischen und beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wz7fwt9r519y2lr1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebeln abziehen, halbieren und in Würfel schneiden. Ingwer schälen und klein schneiden (ersatzweise fein reiben). Chilischote längs halbieren, Kerne herauskratzen. Chilihälften in kleine Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wz7fwt9xhjbcwl1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Öl in einem Topf erhitzen. Zwiebelwürfel hineingeben und 2 Minuten unter gelegentlichem Rühren köcheln lassen. Pflaumenmix, 3 EL Wasser, Chili, Ingwer, Zimtstange, Salz und Pfeffer zugeben und verrühren. Zuletzt Essig zugeben und bei mittlerer Hitze und unter gelegentlichem Rühren ca. 20 Minuten einkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wz7fwta8i1n9d0j1t9h">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Heißes Chutney in zwei saubere Einmachgläser (á 250 ml) füllen, verschließen und über Nacht auskühlen lassen. Geöffnete Chutney kühl lagern.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81wz7fwtah5ruo8b1t9h">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dann ersetze den Zucker durch Gelierzucker 2:1</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Festere Konsistenz gewünscht?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81ay9476bn4bopfmrql" file_variant="master" position="1">Pflaumen_Chutney_6349.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689b0a9a2669e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81ay91490itiz4ass61" file_variant="master" position="1">Pflaumen_Chutney_6229.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689b0a9b6a858">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81ay92z49d21647c2p6p" file_variant="master" position="1">Pflaumen_Chutney_6333.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

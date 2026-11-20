@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc810ub0z0w1t1czd609yq" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-10T22:26:42+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-06-11T09:52:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Keywords topic="tmt6p2ck432c8xa8x7w8ma"/>
+    <Keywords topic="tmt6p2978fgp3o1gu72g8m4"/>
+    <Keywords topic="tmt7lij8y3sbd123rmkawx"/>
+    <Keywords topic="tmt75cyjzdtkzosxodx377"/>
+    <Keywords topic="tmt6owqf5l94tw26sv8m2"/>
+    <Keywords topic="tmt6owqh3q3oau4cor98m4"/>
+    <Keywords topic="tmt8113449mqh4h6hxiep4"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pumpkin Spice Latte","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Pumpkinspiced Latte","ingredients":[{"amount":3,"amountTo":5,"ingredient_name":"Kürbispüree","unit":{"name":"EL"},"prefix":null,"suffix":"(120 g Hokkaidokürbis)"},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Pumpkin Spice","unit":{"name":"TL"},"prefix":null,"suffix":"(siehe Rezept)"},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"starker Espresso","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Vorbereitung","content":"Eine Spalte Hokkaidokürbis (120 g) in grobe Würfel schneiden und in einen kleinen Topf geben, mit Wasser bedecken und für 20 Minuten weich kochen lassen. Die weichgekochten Kürbiswürfel in einen hohen Rührbecher geben und mit einem Pürierstab zu einem feinen Mus mixen. Die Sahne mit 1 TL Puderzucker steif aufschlagen und in einen Spritzbeutel mit Sterntülle füllen. Die Sahne im Spritzbeutel bis zur Weiterverwendung kühl stellen."},{"headline":"Für den Pumpkin Spice Latte","content":"Einen starken Espresso mit Pumpkin Spice, 2 EL Zucker und 3 EL Kürbispüree mischen und nach Belieben mit etwas Wasser auffüllen. Diese Kürbis-Espresso Mischung auf 2 Gläser verteilen und 300 ml Milch erwärmen und aufschäumen. Die Milch über einen Esslöffel in das Glas laufen lassen und zuletzt ein kleines Sahnehäubchen mit dem Spritzbeutel auf jedes Glas aufspritzen. Mit etwas Pumpkin Spice die Sahnehäubchen dekorieren und warm genießen."}],"recipe_tips":[{"headline":"Wenn du kein Pumpkin Spice","content":"Wenn du kein Pumpkin Spice in deinem Gewürzregal hast, findest Du bei uns ein Rezept, in dem wir dir zeigen wie du Pumpkin Spice selbst herstellst."}]}</CustomStructuredRecipeJson>
+    <Title>Pumpkin Spice Latte</Title>
+    <Headline position="1">Pumpkin Spice Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-10T22:26:42+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="810uay7kbczj3brz9yq">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6286" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(siehe Rezept)" position="4" prefix="Pumpkin Spice" plural="Gewürzmischung"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11736" amount="3" max_amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(120 g Hokkaidokürbis)" plural="Kürbispüree" position="1" amount_max="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="6" prefix="starker" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Pumpkinspiced Latte</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="810ub0z07wi63dvf9yq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Spalte Hokkaidokürbis (120 g) in grobe Würfel schneiden und in einen kleinen Topf geben, mit Wasser bedecken und für 20 Minuten weich kochen lassen. Die weichgekochten Kürbiswürfel in einen hohen Rührbecher geben und mit einem Pürierstab zu einem feinen Mus mixen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Vorbereitung</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="810ub0z0i6s1jhhrw9yq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sahne mit 1 TL Puderzucker steif aufschlagen und in einen Spritzbeutel mit Sterntülle füllen. Die Sahne im Spritzbeutel bis zur Weiterverwendung kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6849356bd08d0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Einen starken Espresso mit Pumpkin Spice, 2 EL Zucker und 3 EL Kürbispüree mischen und nach Belieben mit etwas Wasser auffüllen. Diese Kürbis-Espresso Mischung auf 2 Gläser verteilen und 300 ml Milch erwärmen und aufschäumen. Die Milch über einen Esslöffel in das Glas laufen lassen und zuletzt ein kleines Sahnehäubchen mit dem Spritzbeutel auf jedes Glas aufspritzen. Mit etwas Pumpkin Spice die Sahnehäubchen dekorieren und warm genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Pumpkin Spice Latte</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="810ub0z0ig3g69109yq">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du kein Pumpkin Spice in deinem Gewürzregal hast, findest Du bei uns ein Rezept, in dem wir dir zeigen wie du Pumpkin Spice selbst herstellst.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Wenn du kein Pumpkin Spice</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_684935270e8ce">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Pumpkin Spice Latte ist das Trend-Getränk des Herbsts und Winters. Mit selbstgemachter Pumkin Spice Gewürzmischung schmeckt es einfach am besten. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Intro</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc80uy8jvrxmqueg9bgy7" file_variant="master" position="1">PumpkinSpiceLatte3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_684935c5ebe3d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc80uy8xqmdxlcj0boef3" file_variant="master" position="1">PumpkinSpiceLatte2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_684935c824cd9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc80uy93feb0z1mq7sdeds" file_variant="master" position="1">PumpkinSpiceLatte1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_684935c9d5b17">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc80uy8rwzd8loqn0bef3" file_variant="master" position="1">PumpkinSpiceLatteStep1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_684935cb40fde">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc80uy8f89h2d1em3jkh7p" file_variant="master" position="1">PumpkinSpiceLatteStep2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

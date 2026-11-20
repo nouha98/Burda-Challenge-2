@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85qndqhintd1w8u827w" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-07T09:56:10+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-07T10:00:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt85qnfyf4cpd1hw4cujsd"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kiwi-Smoothie","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":{"calories":180,"kilojoule":753,"carbonhydrates":35,"fat":2,"protein":6,"breadunit":3}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Kiwi","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"kleine"},{"amount":5,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Blatt"},"prefix":"frische","suffix":"(sowie optional 1 Stiel frische Minze zum Garnieren)"},{"amount":1,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"}]}],"preparation":[{"headline":null,"content":"Kiwis und Bananen schälen, dann beides in grobe Stücke schneiden."},{"headline":null,"content":"Minze waschen, grob hacken und mit vorbereitetem Obst sowie allen übrigen Zutaten in ein hohes Rührgefäß oder Standmixer geben. Alles so lange pürieren bzw. mixen, bis eine homogene Konsistenz entsteht und keine Stücke mehr übrig sind."},{"headline":null,"content":"Je nach gewünschter Konsistenz noch etwas Wasser zufügen. Zuletzt den Bananen-Kiwi-Smoothie auf zwei Gläser aufteilen, ggf. mit frischer Minze garnieren und sofort kalt genießen."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Kiwi-Smoothie</Title>
+    <CustomRecipeNutritionalValueCalories position="1">180</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">753</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">35</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">2</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Kiwi-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-07T09:56:10+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85qndo1mixebybhx27w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="5" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" prefix="frische" suffix="(sowie optional 1 Stiel frische Minze zum Garnieren)" plural="Minze" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7216" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kiwis" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2" prefix="kleine"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Joghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(optional)" plural="Eiswürfel" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85qndqhimp1107hr227w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kiwis und Bananen schälen, dann beides in grobe Stücke schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85qndqhimypswi727w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Minze waschen, grob hacken und mit vorbereitetem Obst sowie allen übrigen Zutaten in ein hohes Rührgefäß oder Standmixer geben. Alles so lange pürieren bzw. mixen, bis eine homogene Konsistenz entsteht und keine Stücke mehr übrig sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85qndqhin4313itv827w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Je nach gewünschter Konsistenz noch etwas Wasser zufügen. Zuletzt den Bananen-Kiwi-Smoothie auf zwei Gläser aufteilen, ggf. mit frischer Minze garnieren und sofort kalt genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Eatbetter-Ewelina Bialoszewska</p>
+<p>Kiwi-Smoothie</p></div>
+      </ImageCaption>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7j4sl2oh11coa88ekx9" file_variant="master" position="1">Smoothie-Kiwi-hoch-0348.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69fc46a9011c7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Eatbetter-Ewelina Bialoszewska</p>
+<p>Kiwi-Smoothie</p></div>
+      </ImageCaption>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7j4skmgb8ev1ii658kx6" file_variant="master" position="1">Smoothie-Kiwi-step2-0089.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69fc46abd8dd0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Eatbetter-Ewelina Bialoszewska</p>
+<p>Kiwi-Smoothie</p></div>
+      </ImageCaption>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7j4sa9al6uq1eeg0zkx9" file_variant="master" position="1">Smoothie-Kiwi-Step1-0077.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69fc46af0e534">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Eatbetter-Ewelina Bialoszewska</p>
+<p>Kiwi-Smoothie</p></div>
+      </ImageCaption>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7j4s3fahxvp1356vokx8" file_variant="master" position="1">Smoothie-Kiwi-quer-0340.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

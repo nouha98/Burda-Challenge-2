@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87erfe8wbxf1ncrxmsc2" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-01T09:42:25+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-09-01T09:46:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt87erhgwv1ttgzzkbf55"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Roter Heringssalat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Garen","duration":20},{"name":"Ruhen/Warten","duration":15}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Rote Bete","unit":{"name":"g"},"prefix":null,"suffix":"gekochte (vakuumiert)"},{"amount":4,"amountTo":null,"ingredient_name":"Gewürzgurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":"großer","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Matjesfilet","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Dill","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":100,"amountTo":null,"ingredient_name":"saure Sahne","unit":{"name":"g"},"prefix":null,"suffix":"(10 % Fett)"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Fluorid"}]},{"headline":"Außerdem","ingredients":[{"amount":800,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kartoffeln waschen und mit Schale in leicht gesalzenem Wasser etwa 20 Minuten kochen, bis sie gar sind. In der Zwischenzeit Zwiebel abziehen und fein würfeln. Gekochte Rote Bete abgießen, ggfs. schälen und in ca. 1 cm große Würfel schneiden."},{"headline":null,"content":"Gewürzgurken würfeln. Apfel waschen, vierteln, das Kerngehäuse entfernen und ebenfalls würfeln. Matjesfilets abbrausen, trockentupfen und in mundgerechte Stücke schneiden. Dill abbrausen, trockenschütteln, die dicken Stiele entfernen und fein hacken."},{"headline":null,"content":"Senf, Rapsöl, Apfelessig, Joghurt und saure Sahne miteinander verrühren und mit Pfeffer und wenig Salz abschmecken. Gewürfelte Zwiebel, Rote Bete, Gewürzgurken sowie Apfel- und Matjesfiletstücke unterheben und 15 Minuten ziehen lassen."},{"headline":null,"content":"In der Zwischenzeit Kartoffeln abgießen und pellen. Rote-Bete-Heringssalat und Kartoffeln auf 4 Teller verteilen, mit dem gehackten Dill bestreuen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Roter Heringssalat</Title>
+    <Headline position="1">Roter Heringssalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-01T09:42:25+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87erf93fgsl1ctisbsc2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" amount="450" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(vakuumiert)" plural="Rote Bete" position="2" prefix="gekochte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6276" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Gewürzgurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="großer" plural="Äpfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8096" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Matjesfilet" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Dill" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Senf" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Apfelessig" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Joghurt" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9656" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(10 % Fett)" position="11" plural="Saure Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Fluorid" plural="Jodsalz" position="13"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87erfdwtser1aiqrtsc2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87erfe8w1h5wiabssc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln waschen und mit Schale in leicht gesalzenem Wasser etwa 20 Minuten kochen, bis sie gar sind. In der Zwischenzeit Zwiebel abziehen und fein würfeln. Gekochte Rote Bete abgießen, ggfs. schälen und in ca. 1 cm große Würfel schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87erfe8w8yq1hz5fnsc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gewürzgurken würfeln. Apfel waschen, vierteln, das Kerngehäuse entfernen und ebenfalls würfeln. Matjesfilets abbrausen, trockentupfen und in mundgerechte Stücke schneiden. Dill abbrausen, trockenschütteln, die dicken Stiele entfernen und fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87erfe8w94pdofivsc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Senf, Rapsöl, Apfelessig, Joghurt und saure Sahne miteinander verrühren und mit Pfeffer und wenig Salz abschmecken. Gewürfelte Zwiebel, Rote Bete, Gewürzgurken sowie Apfel- und Matjesfiletstücke unterheben und 15 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87erfe8w98n137vyxsc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">In der Zwischenzeit Kartoffeln abgießen und pellen. Rote-Bete-Heringssalat und Kartoffeln auf 4 Teller verteilen, mit dem gehackten Dill bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Heringssalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7p1nqs9wyfm1k0ljnag9" file_variant="master" position="1">Rote Bete Heringssalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a9682e3e34eb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Heringssalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7p1npxnolzo7b7cnag5" file_variant="master" position="1">Rote Bete Heringssalat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a9682e5c5ee1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Rote Bete Heringssalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7p1nsswest3tj4b3f1q" file_variant="master" position="1">Rote Bete Heringssalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

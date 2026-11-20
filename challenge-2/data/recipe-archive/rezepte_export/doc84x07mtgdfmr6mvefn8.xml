@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84x07mtgdfmr6mvefn8" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-10T16:19:22+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-03-11T11:43:02+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <Source topic="tmt84x09wvz3zo1g2zqwfo6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kabeljau Piccata","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":null,"difficulty":null,"price":null,"nutritions":{"calories":535,"kilojoule":2239,"carbonhydrates":40,"fat":22,"protein":36,"breadunit":null}},"recipe_groups":[{"headline":"Aus dem Einkaufskorb","ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"tiefgekühlter Kabeljau","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"stückige Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(Dose)"},{"amount":2,"amountTo":null,"ingredient_name":"Olivenpaste","unit":{"name":"EL"},"prefix":null,"suffix":"(Tapenade; siehe Info links)"},{"amount":1,"amountTo":null,"ingredient_name":"Risotto „Funghi“","unit":{"name":"Packung"},"prefix":null,"suffix":"(210 g; z. B. von Scotti)"},{"amount":1,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"grüne Oliven","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bio-Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Kabeljau auftauen lassen. Mehl, Eier und Parmesan verrühren und salzen."},{"headline":null,"content":"Zwiebel abziehen, würfeln und in einer Pfanne mit 1 EL Öl andünsten. Tomaten, Olivenpaste zugeben, alles 10 Minuten köcheln."},{"headline":null,"content":"Risotto nach Packungsangabe zubereiten."},{"headline":null,"content":"Lauch waschen, putzen. Mit Oliven in dünne Ringe schneiden und bis auf den grünen Teil des Lauches alles zur Tomatensauce geben."},{"headline":null,"content":"Kabeljau in 8 gleich große Stücke schneiden, durch die Parmesan-Ei-Panade ziehen. Eine große Pfanne mit übrigen Öl (2 EL) erhitzen. Fisch ca. 4 Minuten von jeder Seite braten."},{"headline":null,"content":"Zitrone in Spalten schneiden. Kabeljau mit Risotto und Tomatensauce servieren, mit grünem Lauch und Zitrone garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Kabeljau Piccata</Title>
+    <CustomRecipeNutritionalValueCalories position="1">535</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2239</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">36</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3.3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Kabeljau Piccata</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-10T16:19:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84x07p0g97bb21f7bev">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6921" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="tiefgekühlter" plural="Kabeljau"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="3"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="geriebener Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt80lqhgkbmuv9zoy1lko" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Dose)" position="6" plural="stückige Tomaten"/>
+      <CustomRecipeIngredient topic="tmt84x08yramol1bniswfnq" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="Olivenpaste"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9236" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="&quot;Funghi&quot;" position="8" plural="Risottoreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Lauchzwiebeln" position="9"/>
+      <CustomRecipeIngredient topic="tmt80l6jxujdyu12rfnr908" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="grüne Oliven" position="10"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Zitronen" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Aus dem Einkaufskorb</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84x07rlizac17n9qzbev">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84x07sm0srcqrxgibev">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kabeljau auftauen lassen. Mehl, Eier und Parmesan verrühren und salzen. Zwiebel abziehen, würfeln und in einer Pfanne mit 1 EL Öl andünsten. Tomaten, Olivenpaste zugeben, alles 10 Minuten köcheln. Risotto nach Packungsangabe zubereiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84x07sm0x7ocjw9wbev">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Lauch waschen, putzen. Mit Oliven in dünne Ringe schneiden und bis auf den grünen Teil des Lauches alles zur Tomatensauce geben. Kabeljau in 8 gleich große Stücke schneiden, durch die Parmesan-Ei-Panade ziehen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84x07sm0xci14dem6bev">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eine große Pfanne mit übrigen Öl (2 EL) erhitzen. Fisch ca. 4 Minuten von jeder Seite braten. Zitrone in Spalten schneiden. Kabeljau mit Risotto und Tomatensauce servieren, mit grünem Lauch und Zitrone garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kabeljau-Piccata</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc84gn5sqm2sh1irguhp0s" file_variant="master" position="1">Kabeljau-Piccata</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87tad4udw2w1ks2t2ilz" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-29T16:11:55+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-09-29T16:48:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="25" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsw218sdv7do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrki12cchrdo5"/>
+    <Source topic="tmt87tau1ubkc41eoe5wiv6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Glühwein-Cassis-Trüffel","recipe_seo_headline":null,"servings":{"amount":25.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Kühlen","duration":240}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Glühwein","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Rotwein","unit":{"name":"ml"},"prefix":"kräftiger","suffix":null},{"amount":"abgeriebene Schale und Saft von ½","amountTo":null,"ingredient_name":"Bio-Orange","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Glühweingewürz","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"weiße Kuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":"weiche","suffix":null},{"amount":"ca. 30","amountTo":null,"ingredient_name":"Cassispulver","unit":{"name":"g"},"prefix":null,"suffix":"(siehe Tipp)"},{"amount":150,"amountTo":null,"ingredient_name":"Butterkekse","unit":{"name":"g"},"prefix":null,"suffix":"(selbst gebacken oder fertig gekauft, z. B. von Leibnitz)"}]}],"preparation":[{"headline":null,"content":"Rotwein mit abgeriebener Orangenschale und -saft sowie dem Glühweingewürz in einen Topf geben und offen bei mittlerer Hitze langsam auf ca. 75 ml einkochen lassen (ca. 5 Minuten). Im Anschluss den Glühwein durch ein feines Sieb filtern und zurück in den Topf gießen."},{"headline":null,"content":"Weiße Kuvertüre mit einem Messer hacken. Mit Butter und 1 TL Cassispulver unter den heißen, eingekochten Glühwein rühren und darin vollständig schmelzen lassen."},{"headline":null,"content":"Die Mischung in eine Schüssel umfüllen und ca. 4 Stunden kühl stellen."},{"headline":null,"content":"Die Butterkekse fein zerkrümeln und unter die fest gewordene Glühweinmasse mischen."},{"headline":null,"content":"Aus der Masse mit den Händen kleine Bällchen formen und diese im restlichen Cassispulver wälzen."}],"recipe_tips":[{"headline":"Was ist Cassispulver?","content":"Konzentriertes Fruchtpulver aus getrockneten oder gefriergetrockneten schwarzen Johannisbeeren. Erhältlich in gut sortierten Supermärkten, in Gewürzgeschäften oder online, z. B. über Amazon."},{"headline":null,"content":"Kühl aufbewahrt ca. 4 Wochen haltbar."}]}</CustomStructuredRecipeJson>
+    <Title>Glühwein-Cassis-Trüffel</Title>
+    <Headline position="1">Glühwein-Cassis-Trüffel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-29T16:11:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87tad7cc9sxcvgw6pi3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9371" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="kräftiger" plural="Rotwein" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" position="2" prefix="abgeriebene Schale und Saft von 0.5" plural="Bio-Orangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6326" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Glühweingewürz" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Glühwein</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87tad8gxtqs9rkdjpi3">
+      <CustomRecipeIngredient topic="tmt7zixv533a83hn81p9ws" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="weiße Kuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weiche" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt7jquhg82oibg7q52x9" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Cassispulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5246" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(selbst gebacken oder fertig gekauft, z. B. von Leibnitz)" plural="Butterkekse" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87tad9a94pu606ylpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Rotwein mit abgeriebener Orangenschale und -saft sowie dem Glühweingewürz in einen Topf geben und offen bei mittlerer Hitze langsam auf ca. 75 ml einkochen lassen (ca. 5 Minuten). Im Anschluss den Glühwein durch ein feines Sieb filtern und zurück in den Topf gießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87tad9a94xf62obpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Weiße Kuvertüre mit einem Messer hacken. Mit Butter und 1 TL Cassispulver unter den heißen, eingekochten Glühwein rühren und darin vollständig schmelzen lassen. Die Mischung in eine Schüssel umfüllen und ca. 4 Stunden kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87tad9a95c22hbktpi3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Butterkekse fein zerkrümeln und unter die fest gewordene Glühweinmasse mischen. Aus der Masse mit den Händen kleine Bällchen formen und diese im restlichen Cassispulver wälzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="87tad9a95ts1dsvebpi3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Was ist Cassispulver? Konzentriertes Fruchtpulver aus getrockneten oder gefriergetrockneten schwarzen Johannisbeeren. Erhältlich in gut sortierten Supermärkten, in Gewürzgeschäften oder online, z. B. über Amazon.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="87tad9a96931j4zmqpi3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Kühl aufbewahrt ca. 4 Wochen haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Glühwein-Cassis-Trüffel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc870z29fqlarzpaowbx3" file_variant="master" position="1">Glühwein-Cassis-Trüffel</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

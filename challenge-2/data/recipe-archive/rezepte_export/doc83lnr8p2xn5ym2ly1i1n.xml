@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83lnr8p2xn5ym2ly1i1n" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-08T12:51:16+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-12-08T13:32:44+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt83lo31ku4956peej1jn2"/>
+    <CustomRecipeNutritionalValueCalories position="1">105</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">25</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Beeren-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-08T12:51:16+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6091" position="1" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" prefix="kalter" plural="Früchtetee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6311" position="2" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" prefix="kaltes" plural="Ginger Ale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11366" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Flasche" plural="Zitronenlimonade"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="4" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" position="5" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="TK-" plural="Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="evtl. etwas" plural="Zucker"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einen großen Krug oder ein Bowlengefäß den kalten Früchtetee, kaltes Ginger Ale und 1 Flasche Zitronenlimonade geben. 2 Zitronen (Bio) waschen, in dünne Scheiben schneiden, zugeben. TK-Beeren (gefroren hinzufügen. Punsch umrühren, evtl. mit etwas Zucker abschmecken, servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gastlichkeit, Blitzparty</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Anke Politt</ImageCredit>
+      <DocumentRef doc_id="doc7a5f5eq0yc917n95ip9o" file_variant="master" position="1">Meine Familie &amp; ich</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

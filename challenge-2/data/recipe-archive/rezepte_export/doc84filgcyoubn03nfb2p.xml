@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84filgcyoubn03nfb2p" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-04T15:25:09+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2026-02-04T15:25:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rote-Bete-Latte mit Actimel","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Shot","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Rote Bete","unit":{"name":"g"},"prefix":"Bio","suffix":"vorgegart"},{"amount":40,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Fenchel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Preiselbeersaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":"Bio","suffix":"naturtrüb"},{"amount":4,"amountTo":null,"ingredient_name":"Pfefferkorn","unit":{"name":"(Keine Einheit)"},"prefix":"schwarz","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"Messerspitze"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Actimel","unit":{"name":"(Keine Einheit)"},"prefix":"Danone Classic","suffix":"0% Zuckerzusatz"}]}],"preparation":[{"headline":null,"content":"Für den Shot die Rote Bete klein schneiden. Ingwer schälen und fein raspeln. Fenchel waschen und klein schneiden. Alle Zutaten fein pürieren. In Flaschen füllen und gekühlt lagern (max. 4 Tage)."},{"headline":null,"content":"Einen Shot in ein Glas geben und mit Actimel auffüllen. Pur oder verrührt genießen."}],"recipe_tips":[{"headline":null,"content":"Eine mit Shot gefüllte Bügelflasche und Actimel getrennt transportieren und frisch mischen – ideal fürs Büro oder unterwegs."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Rote-Bete-Latte mit Actimel</Headline>
+    <Title>Rote-Bete-Latte mit Actimel</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-04T15:25:09+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84filbypnlz4v0i8b2p">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Bio" suffix="vorgegart" plural="Rote Bete" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="1"/>
+      <CustomRecipeIngredient topic="tmt82jnzmhnjw4974cey5n" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Fenchel" position="2"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="Bio" suffix="naturtrüb" plural="Apfelsaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8706" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="schwarz" plural="Pfefferkörner" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Zimt" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" plural="Vanilleextrakt" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader>Für den Shot</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84filfsrc884j4lyb2p">
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" amount="5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Danone Classic" suffix="0% Zuckerzusatz" position="0"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader>Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84filgcyddh11ejxab2p">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Shot die Rote Bete klein schneiden. Ingwer schälen und fein raspeln. Fenchel waschen und klein schneiden. Alle Zutaten fein pürieren. In Flaschen füllen und gekühlt lagern (max. 4 Tage).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84filgcyhj8pzg6b2p">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Einen Shot in ein Glas geben und mit Actimel auffüllen. Pur oder verrührt genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84filgcylt31jl0ebb2p">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Eine mit Shot gefüllte Bügelflasche und Actimel getrennt transportieren und frisch mischen – ideal fürs Büro oder unterwegs.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc843qgv00na0ehcy81yod" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-12T17:07:45+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-01-12T17:10:46+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="tmt81bihvl6idzs2l258wf"/>
+    <Source topic="tmt843qi9f3pozdvizo1yvd"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Grünkohl-Smoothie mit Ananas","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":135,"kilojoule":565,"carbonhydrates":27,"fat":1,"protein":2,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Ananas","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Grünkohl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Kopfsalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Kresse","unit":{"name":"Beet"},"prefix":null,"suffix":null},{"amount":"1–2","amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"TL"},"prefix":"gewürfelter","suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Ananas schälen. Fruchtfleisch mit Strunk in Stücke schneiden. Grünkohl und Salat putzen, waschen und trocken schütteln. Ananas mit Zitronensaft in den Standmixer geben. Grünkohl und Salat grob zerzupfen. Beides mit gut der Hälfte der Kresse und dem Ingwer in den Standmixer geben. 400 ml Wasser zufügen und alles cremig pürieren. Smoothie in Gläser füllen. Mit übriger Kresse bestreuen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Grünkohl-Smoothie mit Ananas</Title>
+    <CustomRecipeNutritionalValueCalories position="1">135</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">565</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">27</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Das braucht man: Standmixer</CustomRecipeNoteInformation>
+    <Headline position="1">Grünkohl-Smoothie mit Ananas</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-12T17:07:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="843qgw4yi2a108pk6193x">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Ananas" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6441" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Grünkohl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7366" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kopfsalate" position="3"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Zitronen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7486" amount="1" unit="Beet" unit_topic="tmt7e4ye8z3n8je7s21oep" plural="Kresse" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="gewürfelter" plural="Ingwer" position="6" amount_max="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="843qgxyrkd4l0bhn193x">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Ananas schälen. Fruchtfleisch mit Strunk in Stücke schneiden. Grünkohl und Salat putzen, waschen und trocken schütteln. Ananas mit Zitronensaft in den Standmixer geben. Grünkohl und Salat grob zerzupfen. Beides mit gut der Hälfte der Kresse und dem Ingwer in den Standmixer geben. Wasser zufügen und alles cremig pürieren. Smoothie in Gläser füllen. Mit übriger Kresse bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Kramp + Gölling</ImageCredit>
+      <DocumentRef doc_id="doc735tt2g3io516go8gcdh" file_variant="master" position="1">Grünkohl-Kresse-Smoothie mit Ingwer und Ananas</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

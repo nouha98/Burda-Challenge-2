@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83nr86kxiie17sudfcq2" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-12T14:46:29+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-12T14:54:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <Source topic="tmt83nrbt2yus5mv3gfcrg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeNoteInformation position="1">4 feuerfeste Förmchen (Ø 12 cm), Hitzeschild, Flammbierbrenner</CustomRecipeNoteInformation>
+    <Headline position="1">Crème Brulée mit Maracuja</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-12T14:46:29+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8596" position="2" amount="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Passionsfrucht"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8026" position="3" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Maracujasaft"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_693c1d574d804">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="1" amount="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Vanilleschoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="4" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_693c1d583d6c8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="zum Bestreuen" plural="Zucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Sauce in einem Topf den Zucker leicht karamellisieren lassen. Passionsfrüchte halbieren, Mark auslösen, mit Maracujasaft hinzufügen und Karamell damit loskochen. Bei Bedarf noch etwas Wasser hinzufügen und alles sämig einköcheln lassen. Sauce abkühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_693c1e0722a20">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Einen Kugelgrill auf 130 Grad für indirekte Hitze vorheizen. Für die Creme Eigelb und Zucker in einer Rührschüssel hellcremig rühren. Vanilleschote längs halbieren und das Mark herausschaben. Sahne in einem Topf mit Vanilleschote und -mark aufkochen, dann die Schote wieder entfernen. Nach und nach die heiße Vanillesahne zur Eigelbmischung gießen und mit dem Schneebesen gut unterrühren. Die Mischung durch ein feines Sieb passieren, um eventuell entstandene Klümpchen zu entfernen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_693c1e2a398e6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Jeweils ca. 1,5 EL Passionsfruchtsauce in 4 feuerfeste Förmchen (ca. 12 cm ø) geben und die Vanillemasse darauf vorsichtig einfüllen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_693c1e3461cc6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Hitzeschild auf den Rost legen, die Förmchen daraufstellen und die Creme indirekt 25–30 Minuten bei geschlossenem Deckel garen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_693c1e4ad9cf9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Herausnehmen, abkühlen lassen und 3–4 Stunden kalt stellen. Vor dem Servieren die Creme jeweils mit 1 EL Zucker bestreuen und mit dem Flambierbrenner goldbraun karamellisieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Creme Brulée</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Paternain, Maite</ImageCredit>
+      <DocumentRef doc_id="doc7xf7jyhsqsj91ybap5" file_variant="master" position="1">Creme Brulée</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

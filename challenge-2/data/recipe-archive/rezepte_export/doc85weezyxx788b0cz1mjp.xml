@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85weezyxx788b0cz1mjp" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-18T14:33:24+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-07-21T08:10:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="16"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <Source topic="tmt85weh92z3y01e1j5f1mvr"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeNutritionalValueCalories position="1">190</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">21</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">10</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Chocolate-Cookies</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-18T14:33:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7iti1k42wuaqr3i7aud" position="8" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="backfeste" suffix="(z. B. Chocolate Chunks von Dr. Oetker)" plural="Schokostückchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="2" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" position="3" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" position="4" amount="1" unit_topic="tmt8255nhdwwbm12e628f8n" unit="Päckchen" plural="Bourbon-Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="6" amount="1" suffix="(Größe M)" plural="Eier" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt7zfs3lryhcn1bbsaelr0" position="7" amount="175" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="oder Margarine" plural="weiche Butter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Backpulver mischen. Zucker, Vanillezucker, Salz, Ei und Butter oder Margarine hinzufügen und alles mit den Knethaken des Handrührgeräts erst auf niedrigster, dann auf höchster Stufe zu einem glatten Teig verkneten. 2 EL der Schokostücke beiseitestellen, die übrigen unterkneten. Teig 30 Minuten kalt stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a0b07d09ca9f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">4 Stücke Backpapier in der Größe des Frittierkorbs des Airfryers zurechtschneiden. Von dem Cookie-Teig esslöffelgroße Portionen abstechen und jeweils zu einer Kugel formen. 4 Kugeln auf je ein Stück Backpapier setzen, flach drücken, einige Schokostücke andrücken und im Airfryer bei 160 Grad 12–14 Minuten backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a0b0808095bc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Cookies vorsichtig aus dem Airfryer nehmen und auf einem Kuchenrost auskühlen lassen. Übrigen Teig ebenso backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1"/>
+      <CustomRecipeTippsContent position="1">Airfryer-Tipp: Da normales Backpulver in der kürzeren Backzeit oft nicht seine volle Triebkraft entwickeln kann, gibt es jetzt ein spezielles Pulver: „Airfryer-Backin“. Päckchen um 0,80 € (Oetker).</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84igpb2n4wjzse71ej3" file_variant="master" position="1">Schoko-Cookies.png</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

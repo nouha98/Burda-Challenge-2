@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86ivmy02r8n18bbzezvh" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T08:29:27+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-01T08:34:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt86ivpd0hjo32t7knn7i"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Melonen-Smoothie","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Wassermelone","unit":{"name":"g"},"prefix":null,"suffix":"(ohne Schale)"},{"amount":1,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Erdbeere","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Limettensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Wassermelone ggfs. von der Schale und den Kernen befreien und in grobe Stücke schneiden. Banane schälen und ebenfalls in grobe Stücke schneiden. Erdbeeren waschen, putzen und halbieren. Minze abbrausen, trockenschütteln und die Blätter von den Stielen zupfen."},{"headline":null,"content":"Wassermelone, Banane und Erdbeeren in einen (Hochleistungs-)Mixer geben und den Limettensaft hinzufügen. Auf hoher Stufe mindestens 1 Minute pürieren, bis eine cremige Konsistenz entsteht. Melonen-Smoothie auf 2 Gläser verteilen, mit den Minz-Blättchen dekorieren und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Melonen-Smoothie</Title>
+    <Headline position="1">Melonen-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T08:29:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86ivmwkdu341gphxbzvh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11026" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ohne Schale)" plural="Wassermelonen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="2" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Minze" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Limettensaft" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86ivmy02mr8h4i1jzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Wassermelone ggfs. von der Schale und den Kernen befreien und in grobe Stücke schneiden. Banane schälen und ebenfalls in grobe Stücke schneiden. Erdbeeren waschen, putzen und halbieren. Minze abbrausen, trockenschütteln und die Blätter von den Stielen zupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ivmy02qd32m9q1zvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Wassermelone, Banane und Erdbeeren in einen (Hochleistungs-)Mixer geben und den Limettensaft hinzufügen. Auf hoher Stufe mindestens 1 Minute pürieren, bis eine cremige Konsistenz entsteht. Melonen-Smoothie auf 2 Gläser verteilen, mit den Minz-Blättchen dekorieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Melonen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9a93pl101xggxkma" file_variant="master" position="1">MelonenSmoothie2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44b4f735811">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Melonen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9dclavb8k8l3xo2t" file_variant="master" position="1">MelonenSmoothie_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44b4f93537f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Melonen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9bd8ax5irr2a4cag" file_variant="master" position="1">MelonenSmoothie1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

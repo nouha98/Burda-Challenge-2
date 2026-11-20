@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83m3d118ey0nyyfnb85" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-09T09:06:06+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-09T09:15:37+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="360"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bärlauchaufstrich","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":360}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Bärlauch","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":"z.B. Olivenöl"},{"amount":250,"amountTo":null,"ingredient_name":"Rahmquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Schale und Saft von","suffix":null}]}],"preparation":[{"headline":null,"content":"Den Bärlauch waschen, das Wasser abklopfen und die Stiele abschneiden."},{"headline":null,"content":"Die Bärlauchblätter grob hacken und zusammen mit dem Öl in einen Mixer geben und den Bärlauch mixen."},{"headline":null,"content":"Den Rahmquark in eine Schüssel geben und mit dem Bärlauchöl, dem Salz, der abgerieben Schale der Zitrone und dem Zitronensaft verrühren."}],"recipe_tips":[{"headline":"Schmeckt sooo lecker","content":"…auf einem frischgebackenen Sauerteigbrot."}]}</CustomStructuredRecipeJson>
+    <Title>Bärlauchaufstrich</Title>
+    <Headline position="1">Bärlauchaufstrich</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-09T09:06:06+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83m3cz1egpd7f0y7b85">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4801" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Bärlauch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="z.B. Olivenöl" plural="Öl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" prefix="(Rahm-)" plural="Quark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zitronen" position="5" suffix="(Schale und Saft)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83m3d11858h2zfjob85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Bärlauch waschen, das Wasser abklopfen und die Stiele abschneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m3d11898ib6677b85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Bärlauchblätter grob hacken und zusammen mit dem Öl in einen Mixer geben und den Bärlauch mixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83m3d1189evf7xz7b85">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Rahmquark in eine Schüssel geben und mit dem Bärlauchöl, dem Salz, der abgerieben Schale der Zitrone und dem Zitronensaft verrühren. Den Aufstrich in zwei Schalen geben und im Kühlschrank abgedeckt einige Stunden lang durchziehen lassen. Servieren und genießen!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83m3d1189jo1hguimb85">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">…auf einem frischgebackenen Sauerteigbrot.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Schmeckt sooo lecker</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qerhbfj2ap803rdmh" file_variant="master" position="1">Bärlauchaufstrich</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6937daa76f056">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qerizqbs69ssrnjci" file_variant="master" position="1">Bärlauchaufstrich</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6937daa89f3fe">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qerkb6diht9j4fdkf" file_variant="master" position="1">Bärlauchaufstrich</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86e93be5w2066n7vtzi" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-22T08:24:17+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-06-22T08:30:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bijyxzclzgl9gd8xo"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt86e966w4qh5pm7fb1bcr"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Leinsamen-Pudding","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Kühlen","duration":240}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Leinsamen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Pflanzenmilch","unit":{"name":"ml"},"prefix":null,"suffix":"(Hafer-, Mandel- oder Sojamilch)"},{"amount":150,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"blütenzart","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"Stück"},"prefix":null,"suffix":"(klein, rotbackig)"},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Blaubeere","unit":{"name":"g"},"prefix":"frische","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"TL"},"prefix":null,"suffix":"zum Beträufeln"},{"amount":1,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":"gemahlener","suffix":null}]}],"preparation":[{"headline":null,"content":"Leinsamen im Multimixer oder der Getreidemühle schroten. Das Leinsamenschrot in einer Schüssel mit der Pflanzenmilch und den Haferflocken verrühren und abgedeckt und gekühlt ca. 4 Stunden, am besten über Nacht, quellen lassen."},{"headline":null,"content":"Äpfel waschen, einen Apfel halbieren und das Kerngehäuse entfernen. Einen halben Apfel in Spalten schneiden, mit Zitronensaft beträufeln und zur Seite stellen. Übrige Äpfel fein raspeln. Apfelraspel und Agavendicksaft unter die Leinsamen-Hafermischung rühren."},{"headline":null,"content":"Bananen in Scheiben schneiden, Blaubeeren verlesen und abbrausen. Pudding auf Schälchen verteilen, mit den Bananenscheiben, Apfelspalten und Blaubeeren anrichten. Mit 2 TL Agavendicksaft beträufeln und mit Zimtpulver bestäuben."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Leinsamen-Pudding</Title>
+    <Headline position="1">Leinsamen-Pudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-22T08:24:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86e934w5n1114c132tzi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Leinsamen" position="1"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(Hafer-, Mandel- oder Sojamilch)" plural="Pflanzenmilch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Haferflocken" position="3" suffix="blütenzart"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(klein, rotbackig)" plural="Äpfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Agavendicksaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4956" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Blaubeeren" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="zum Beträufeln" plural="Agavendicksaft" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="gemahlener" plural="Zimt" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86e93be5vbr1cycbbtzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Leinsamen im Multimixer oder der Getreidemühle schroten. Das Leinsamenschrot in einer Schüssel mit der Pflanzenmilch und den Haferflocken verrühren und abgedeckt und gekühlt ca. 4 Stunden, am besten über Nacht, quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e93be5vj76bcdhtzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Äpfel waschen, einen Apfel halbieren und das Kerngehäuse entfernen. Einen halben Apfel in Spalten schneiden, mit Zitronensaft beträufeln und zur Seite stellen. Übrige Äpfel fein raspeln. Apfelraspel und Agavendicksaft unter die Leinsamen-Hafermischung rühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e93be5vmx1dl5watzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Bananen in Scheiben schneiden, Blaubeeren verlesen und abbrausen. Pudding auf Schälchen verteilen, mit den Bananenscheiben, Apfelspalten und Blaubeeren anrichten. Mit 2 TL Agavendicksaft beträufeln und mit Zimtpulver bestäuben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdikxbudlkri3bmud" file_variant="master" position="1">Fruchtiger_Leinsamen_Pudding_64229.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a38d6774bbac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdnt57yqt1i6rnq2t1" file_variant="master" position="1">Fruchtiger_Leinsamen_Pudding_64115.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a38d67949aeb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdl3em5ogrl8w0mud" file_variant="master" position="1">Fruchtiger_Leinsamen_Pudding_64122.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a38d67bd832d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc79r5s497enbwdb8eb2l" file_variant="master" position="1">Fruchtiger_Leinsamen_Pudding_64234.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

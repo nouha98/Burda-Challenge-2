@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83hzoyzwhmxj58mleaz" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T09:30:27+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-01T09:39:34+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kalte Gemüsesuppe","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"rote Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Gurke","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"geschälte Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"aus der Dose"},{"amount":2,"amountTo":null,"ingredient_name":"Toastbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Schalotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Balsamicoessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"aus der Mühle","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"Blatt"},"prefix":"einige","suffix":null}]}],"preparation":[{"headline":null,"content":"Die Paprika vierteln und das Kerngehäuse herausschneiden. Die Gurke schälen, der Länge nach halbieren und mit einem Löffel entkernen. Eine Hälfte in 1 x 1 cm Würfel schneiden. Die andere Hälfte grob schneiden. Die Schalotte und den Knoblauch schälen und fein hacken. Die Zutaten mit den Dosentomaten in einen Mixbecher geben. Das Toastbrot würfeln und hinzugeben. Den Balsamicoessig, das Salz und den Pfeffer, sowie das Olivenöl dazugeben und sämig pürieren. Alles im Mixer oder mit dem Mixstab fein pürieren und ggfs. mit Salz und Pfeffer abschmecken. Die Suppe im Kühlschrank 30 Minuten kühlen."},{"headline":null,"content":"Mit Basilikumblättern, den gewürfelten Gurken sowie einigen Tropfen Olivenöl garnieren."}],"recipe_tips":[{"headline":"Eiskalt genießen","content":"Wenn es im Sommer sehr heiß ist, schmeckt diese Suppe am allerbesten, wenn sie mehrere Stunden im Kühlschrank gekühlt wurde."}]}</CustomStructuredRecipeJson>
+    <Title>Kalte Gemüsesuppe</Title>
+    <Headline position="1">Kalte Gemüsesuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T09:30:27+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83hzoupe6ljd7yrzeaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus der Dose" position="5" prefix="geschälte" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80j85stp6d2yazwzgip" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="1" plural="rote Paprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6461" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Gurken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Schalotten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" amount="2" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Toastbrote" position="6"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Balsamicoessig" position="7" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="aus der Mühle" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="10" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" prefix="einige" plural="Basilikum" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83hzoyzw9za1326rweaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Paprika waschen, vierteln und das Kerngehäuse herausschneiden. Die Gurke waschen, schälen, der Länge nach halbieren und mit einem Löffel entkernen. Die eine Hälfte von Gurke und Paprika in 1 x 1 cm große Würfel schneiden. Die andere Hälfte des Gemüses grob schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83hzoyzwd0m1fspvneaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Schalotte und den Knoblauch schälen und fein hacken. Die gehackte Schalotte, der gehackte Knoblauch, die grob geschnittene Paprikahälfte und die grob geschnittene Gurkenhälfte mit den Dosentomaten in eine Schüssel geben. Das Toastbrot würfeln und hinzugeben. Den Balsamicoessig, das Salz, den Pfeffer, sowie das Olivenöl dazugeben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_692d53c03f6f3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alles im Mixer oder mit dem Mixstab fein pürieren und eventuell mit Salz und Pfeffer nochmals abschmecken. Die Suppe im Kühlschrank 30 Minuten kühlen. Mit Basilikumblättern, den gewürfelten Gurken und der gewürfelten Paprika, sowie einigen Tropfen Olivenöl garnieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83hzoyzwd531hjvg2eaz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn es im Sommer sehr heiß ist, schmeckt diese Suppe am allerbesten, wenn sie mehrere Stunden im Kühlschrank gekühlt wurde.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Eiskalt genießen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qvh433m8213tnvl8kr" file_variant="master" position="1">Kalte Gemüsesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692d54404d6ef">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qvglgp0dsnruc691r" file_variant="master" position="1">Kalte Gemüsesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692d544221ca2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qvhy95ffaspmii9gx" file_variant="master" position="1">Kalte Gemüsesuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692d544457fb6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qvfx92izrlbbjn8qb" file_variant="master" position="1">Kalte Gemüsesuppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

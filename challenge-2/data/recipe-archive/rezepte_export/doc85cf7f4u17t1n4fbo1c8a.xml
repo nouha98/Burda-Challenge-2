@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85cf7f4u17t1n4fbo1c8a" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-09T17:24:27+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-09-23T13:38:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" plural="Personen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <Source topic="tmt85cfe0g1uea1iehmg1d3k"/>
+    <LastEditedBy topic="tmt70kwcucjxhh1bqu2d4i5"/>
+    <Headline position="1">Zucchini-Lasagne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-09T17:24:27+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="1" amount="2" suffix="(ca. 500 g)" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="2" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="3" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Gemüsenudeln</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69d7c51947ba8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="2" amount="2" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6011" position="3" amount="2" plural="Fleischtomaten"/>
+      <CustomRecipeIngredient topic="tmt824510poq4xx7f8n1yec" position="4" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Rinderhack"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rapsöl"/>
+      <CustomRecipeIngredient topic="tmt80mscfcxid1gmv8efid" position="6" plural="Salz, Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8526" position="7" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="getrockneter" plural="Oregano"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="8" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="9" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Hackfleischsauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_69d7c677d4ec2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="1" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="3" amount="350" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="4" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="5" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="6" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" position="8" plural="Muskatnuss"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die helle Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_4_69d7c6ce40b89">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6351" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="grob geriebener" plural="Gouda"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="2" amount="0.5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem </CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Gemüsenudeln Zucchini abbrausen, putzen, längs in Scheiben schneiden und salzen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d7c726d4a63">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Fleischfüllung Zwiebel und Knoblauch abziehen und fein würfeln. Von den Tomaten die Stielansätze entfernen. Tomaten kurz in kochendes Wasser tauchen, abschrecken, häuten und in Würfel schneiden. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d7c73c329e9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hack in heißem Rapsöl krümelig anbraten. Zwiebel und Knoblauch zugeben, kurz anschwitzen und alles mit Salz, Pfeffer und Oregano würzen. Tomatenmark und Tomaten zugeben. Mit 150 ml Brühe auffüllen und offen ca. 20 Min. dicklich einkochen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69d7c75572b4f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucchini trocken tupfen und in heißem Olivenöl portionsweise von beiden Seiten anbraten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69d7c763b8e08">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die helle Sauce Butter im Topf schmelzen und Mehl darin kurz anschwitzen. Mit 350 ml Brühe und Milch ablöschen und ca. 5 Min. leise kochen lassen. Parmesan unterrühren. Mit Salz, Pfeffer und Muskat würzen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_69d7c788674dc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1 Kelle der Sauce in eine Auflaufform geben, darauf die Hälfte der Zucchinischeiben legen, dann die Hackmasse darüber verteilen. Übrige Zucchini und Sauce daraufgeben und mit Gouda bestreuen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_69d7c7a7d0e6f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Im heißen Backofen bei 200 °C (Umluft 180 °C, 2. Schiene von unten) 30–40 Min. goldbraun backen. Vor dem Servieren ca. 10 Min. ruhen lassen. Petersilie abbrausen, trocken schütteln, hacken und darüberstreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">berndgolling</ImageCredit>
+      <DocumentRef doc_id="doc7jtfkuguzj81ioskwddi" file_variant="master" position="1">Zucchini nTomaten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

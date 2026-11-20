@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83cbutrl9r6akyyi1ca8" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-20T09:02:10+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-20T09:07:56+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdbeerlimonade","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Erdbeersirup","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"frische Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]},{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Saft davon)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(in Scheiben)"},{"amount":10,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":"(classic)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Bund"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Erdbeersirup","content":"Erdbeeren putzen, waschen und in grobe Stücke schneiden mit Zucker und Wasser in einer kleinen Schüssel mischen. In einen kleinen Topf umfüllen und für 5 Min. leicht köcheln lassen. Bis die Erdbeerstücke die Farbe verloren haben. Die Mischung durch ein Sieb schütten und den Erdbeersirup auffangen, den Sirup auskühlen lassen."},{"headline":null,"content":"Den Sirup in eine Karaffe füllen, die Limette auspressen und den Saft hinzugeben. Die Zitrone heiß waschen und in Scheiben schneiden, zusammen mit den Eiswürfeln in die Karaffe geben mit Mineralwasser aufgießen. Die Minze waschen, trocknen und in eine Handfläche legen mit der anderen Hand 2-3mal darauf klatschen damit die ätherischen Öle freigesetzt werden. Die Minzblätter in die Karaffe geben, die Limonade gekühlt servieren."}],"recipe_tips":[{"headline":"Du kannst die Erdbeeren auch ersetzen","content":"Die Erdbeeren können 1:1 mit Himbeeren oder gemischten Beeren ersetzt werden."}]}</CustomStructuredRecipeJson>
+    <Title>Erdbeerlimonade</Title>
+    <Headline position="1">Erdbeerlimonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-20T09:02:10+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83cbupfvx031ffdia1ca8">
+      <CustomRecipeIngredient topic="tmt80gokjjge68fpf2ggzt" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="frische Erdbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Erdbeersirup</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="83cbuql1gcglk27r1ca8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Saft davon)" plural="Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(in Scheiben)" plural="Zitronen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="10" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="750" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(classic)" plural="Mineralwasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Minze" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83cbutrjlhx117nfn1ca8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Erdbeeren putzen, waschen und in grobe Stücke schneiden mit Zucker und Wasser in einer kleinen Schüssel mischen. In einen kleinen Topf umfüllen und für 5 Min. leicht köcheln lassen, bis die Erdbeerstücke die Farbe verloren haben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Erdbeersirup</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_691ecbb29cc67">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Mischung durch ein Sieb schütten und den Erdbeersirup auffangen, den Sirup auskühlen lassen. Den Sirup in eine Karaffe füllen, die Limette auspressen und den Saft hinzugeben. Die Zitrone heiß waschen und in Scheiben schneiden, zusammen mit den Eiswürfeln in die Karaffe geben mit Mineralwasser aufgießen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83cbutrk7ax13t7781ca8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Minze waschen, trocknen und in eine Handfläche legen mit der anderen Hand 2-3mal darauf klatschen damit die ätherischen Öle freigesetzt werden. Die Minzblätter in die Karaffe geben, die Limonade gekühlt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83cbutrk7j41jhzpw1ca8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Erdbeeren auch 1:1 mit Himbeeren oder gemischten Beeren ersetzen. Schmeckt mindestens genauso gut!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Fruchtige Alternativen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms8dwomoj1mosg7mdr" file_variant="master" position="1">Erdbeer-Limonade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691ecc584dfe9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms8few33p7lrwylxg" file_variant="master" position="1">Erdbeer-Limonade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691ecc59934b9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms8h4m8b41i6b11m87" file_variant="master" position="1">Erdbeer-Limonade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691ecc5aea063">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms8k68w539t6v5m6b" file_variant="master" position="1">Erdbeer-Limonade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

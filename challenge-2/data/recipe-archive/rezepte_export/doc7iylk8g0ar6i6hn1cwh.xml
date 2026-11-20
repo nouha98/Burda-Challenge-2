@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7iylk8g0ar6i6hn1cwh" dcx-version="6.3.1" version="1.0">
+  <created>2021-12-23T09:27:24+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-07-14T11:09:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeNutritionalValueCalories position="1">290</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1210</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">12</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">9</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Mandel-Bananen-Shake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2021-12-23T09:27:24+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" position="0" amount="2" plural="Bananen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7971" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mandelmus"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="2" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="kaltes" plural="Wasser"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="3" amount="1" amount_max="2" plural="Ahornsirup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="4" plural="Zimt"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Ergibt 4 Gläser à 200 ml: </CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">2 Bananen schälen, in Scheiben schneiden. Bananen mit 150 g Mandel- mus und 600 ml kaltem Wasser fein pürieren. Nach Belieben mit 1–2 EL Ahornsirup süßen und mit etwas Zimt würzen. Mandelmilch in Gläser füllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Mandeln</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Die Samen einer Steinfrucht punkten mit Eiweiß, Kalzium, Magne- sium, Vitamin E, und B-Vitaminen. Gut für: Muskeln, Nerven, Cholesterinspiegel und Blutzucker</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Healthy breakfast. Banana almond smoothie with cinnamon and oat flakes and coconut milk in glass jars; Shutterstock ID 1154635135</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ekaterina Kondratova</ImageCredit>
+      <DocumentRef doc_id="doc781134btcx38je0ljbi" file_variant="master" position="1">1154635135</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786cn7kdvqv1277il3h3" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T18:55:06+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:36:31+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>447383</CustomCenshareId>
+    <Title position="1">Limettensauce</Title>
+    <Headline position="1">Limettensauce</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T23:49:08+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="4b4d92">
+      <CustomRecipeIngredient topic="tmt782q8h66wq8fff318gz" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt786bbl7tsv7szag7gkc" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5501" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9506" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi"/>
+      <CustomRecipeIngredient topic="tmt786cn7juc8x1cvveo3h3" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" amount="0.5" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="4b4dfa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Frischkäse mit Crme fraîche, Limettensaft und -schale glatt rühren. Chili entkernen, abbrausen, fein hacken. Gurke schälen, entkernen, fein würfeln. Schnittlauch waschen, in Röllchen teilen. Sprossen waschen, abtropfen lassen. Von allem ein wenig beiseite stellen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="4b4e0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Gurke, Chili, Schnittlauch und Sprossen mit der Creme verrüh-ren, mit Salz, Pfeffer und Zucker abschmecken. Sauce mit beiseite gestellten Zutaten bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b2wf8265i1dr5pibn4" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T23:49:08+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_447383</displayname>
+      <doc_id id="doc786cn7kdvqv1277il3h3"/>
+      <hash>26fa7762ac756a42e4da26a0cfadc746</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T23:49:08+01:00</modified>
+      <size>3230</size>
+      <subpath>2019/12-07/13/8f/file78b2wf8265i1dr5pibn4.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

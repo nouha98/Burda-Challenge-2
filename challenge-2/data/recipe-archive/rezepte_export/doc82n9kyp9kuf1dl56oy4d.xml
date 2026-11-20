@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82n9kyp9kuf1dl56oy4d" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-02T15:22:07+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-02-19T09:31:15+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-entr"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt09vvmdxdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <Source topic="tmt82oao6kzv6ts5lkci4v"/>
+    <LastEditedBy topic="tmt78zftnnw5jt1j4higo6g"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schnelle Hackfleischsuppe","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25}],"difficulty":null,"price":null,"nutritions":{"calories":670,"kilojoule":2806,"carbonhydrates":20,"fat":51,"protein":36,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Schweinehack","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Champignons","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"rote Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"in Würfeln"},{"amount":3,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Ringe)"},{"amount":140,"amountTo":null,"ingredient_name":"Maiskörner","unit":{"name":"g"},"prefix":null,"suffix":"(Dose)"},{"amount":400,"amountTo":null,"ingredient_name":"stückige Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(Dose)"},{"amount":250,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Doppelrahmfrischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gehackter Oregano","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gehackter Basilikum","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Greyerzer","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Hack ca. 5 Min. in einem Topf in Öl krümelig braten. Pilze putzen und vierteln. Hack pfeffern und salzen. Zwiebel kurz mitdünsten. Paprika, Lauchzwiebeln, Mais und Pilze zufügen. Ca. 2 Min. anbraten."},{"headline":null,"content":"Tomaten und Brühe angießen. Aufkochen. Suppe ca. 10 Min. köcheln lassen."},{"headline":null,"content":"Frischkäse mit Sahne verquirlt einrühren. Suppe mit Salz, Pfeffer und Kräutern würzen."},{"headline":null,"content":"Jede Portion mit 10 g Greyerzer und evtl. Basilikumblättchen garnieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Schnelle Hackfleischsuppe</Title>
+    <CustomRecipeNutritionalValueCalories position="1">670</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">20</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">51</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">36</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Schnelle Hackfleischsuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-02T15:22:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82n9l14dzu03bka72f2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="in Würfeln" plural="Paprika" position="6" prefix="rote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9926" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schweinehack" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Champignons" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="4"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="rote Zwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Ringe)" plural="Lauchzwiebeln" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7891" amount="140" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Dose)" plural="Maiskörner" position="8"/>
+      <CustomRecipeIngredient topic="tmt80lqhgkbmuv9zoy1lko" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Dose)" position="9" plural="stückige Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Brühe" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Doppelrahmfrischkäse" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt80lsmzcasa01k8k24rvl" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="13" plural="gehackter Oregano"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="14" plural="Basilikum" prefix="gehackter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6416" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Greyerzer" position="15"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82n9l4kiilfz0qze2f2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Hack ca. 5 Min. in einem Topf in Öl krümelig braten. Pilze putzen und vierteln. Hack pfeffern und salzen. Zwiebel kurz mitdünsten. Paprika, Lauchzwiebeln, Mais und Pilze zufügen. Ca. 2 Min. anbraten. Tomaten und Brühe angießen. Aufkochen. Suppe ca. 10 Min. köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82n9l4kikt010v5j92f2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Frischkäse mit Sahne verquirlt einrühren. Suppe mit Salz, Pfeffer und Kräutern würzen. Jede Portion mit 10 g Greyerzer und evtl. Basilikumblättchen garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Schnelle Pizzasuppe Bergsteiger, Suppe und Eintöpfe, Hauptspeise, gut vorzubereiten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Photoart GmbH</ImageCredit>
+      <DocumentRef doc_id="doc7c9pwmrjcichxtm0nh3" file_variant="master" position="1">Schnelle Pizzasuppe Bergsteiger</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6996ca47a0e6f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc84n3h5kruq01kc7f62h9" file_variant="master" position="1">ai.food_Hyperrealistic_professional_food_photography_rustic_min_0b503e14-0a25-4abe-9e41-276bda923bf01.png</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

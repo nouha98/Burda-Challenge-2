@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87esxou79dchdzblfx6" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-01T11:39:49+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-09-01T11:46:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <Source topic="tmt87eszgtmn6e1bwed8fw9"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Chocolate-Orange-Cocktail","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":{"calories":209,"kilojoule":875,"carbonhydrates":5,"fat":0,"protein":0,"breadunit":0}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":null,"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Orangensirup","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"Kakaolikör","unit":{"name":"ml"},"prefix":"weißem","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Wodka","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Orangenlikör","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schokoladenraspel","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Einen Cocktail-Shaker mit Eiswürfeln füllen, Orangensirup, weißen Kakaolikör und Wodka hinzufügen und shaken."},{"headline":null,"content":"Den Rand von 2–3 Cocktailschalen mit Orangenlikör benetzen und in Schokoladenraspel drücken."},{"headline":null,"content":"Cocktail in die Gläser abseihen und sofort servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Chocolate-Orange-Cocktail</Title>
+    <CustomRecipeNutritionalValueCalories position="1">209</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">875</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">5</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">0</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Für 2-3 Gläser</CustomRecipeNoteInformation>
+    <Headline position="1">Chocolate-Orange-Cocktail</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-01T11:39:49+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87esxqu19as1auobcsc2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt8711nhqcpnp1cmriqrx9" amount="30" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Orangensirup"/>
+      <CustomRecipeIngredient topic="tmt87esyp5l1wksu7a3fw9" amount="160" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="weißem" position="3" plural="Kakaolikör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11226" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wodka" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8491" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Orangenlikör" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9831" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="6" plural="Schokoraspel"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87esxt702k1dqudasc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Einen Cocktail-Shaker mit Eiswürfeln füllen, Orangensirup, weißen Kakaolikör und Wodka hinzufügen und shaken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87esxt707fputowwsc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Rand von 2–3 Cocktailschalen mit Orangenlikör benetzen und in Schokoladenraspel drücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87esxt707oh1c4d3zsc2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Cocktail in die Gläser abseihen und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cocktail 'Chocolate Orange' mit Wodka, Creme de Cacao und Orangensirup</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Good Food</ImageCredit>
+      <DocumentRef doc_id="doc7m88vdj70om1ixsdx5ig" file_variant="master" position="1">Cocktail 'Chocolate Orange' mit Wodka, Creme de Cacao und Orangensirup</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

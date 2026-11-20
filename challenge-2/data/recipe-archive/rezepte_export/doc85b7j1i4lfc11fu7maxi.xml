@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85b7j1i4lfc11fu7maxi" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-07T08:44:16+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-07T08:54:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bidsbjscywwlbx8ut"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegetarische Erbsensuppe","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Zubereitung","duration":null}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Kartoffel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Suppengrün","unit":{"name":"Bund"},"prefix":null,"suffix":"(bzw. 2 Möhren sowie je ein Stück Knollensellerie, Petersilienwurzel und Lauch)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Erbse","unit":{"name":"g"},"prefix":null,"suffix":"aus dem Tiefkühlregal"},{"amount":1.2,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"l"},"prefix":null,"suffix":"(am besten selbst gekocht, alternativ Bio-Instant-Brühe)"},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebel abziehen und fein würfeln. Kartoffeln schälen und in 1 cm große Würfel schneiden. Suppengrün putzen, dann enthaltenen Sellerie, Petersilienwurzel und Karotten schälen und ebenfalls würfeln. Lauch in Ringe schneiden und komplette Petersilie hacken."},{"headline":null,"content":"Das Rapsöl in einem Topf erhitzen. Zuerst die Zwiebeln 2-3 Minuten anschwitzen, dann Kartoffeln, Karotten, Petersilienwurzel, Sellerie, Lauch und Erbsen zufügen, kurz mitbraten und mit der Gemüsebrühe aufgießen. Lorbeerblatt zufügen und die Suppe aufkochen lassen."},{"headline":null,"content":"Suppe ca. 20 Minuten köcheln lassen, bis die Kartoffeln gar sind. Das Lorbeerblatt entfernen und die Hälfte der gehackten Petersilie untermischen. Suppe mit Salz, Pfeffer und Zitronensaft abschmecken, mit übriger Petersilie bestreuen und mit dem Vollkornbrot servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Vegetarische Erbsensuppe</Title>
+    <Headline position="1">Vegetarische Erbsensuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-07T08:44:16+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85b7ivc4w09177jjvaxi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kartoffeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10436" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" suffix="(bzw. 2 Möhren sowie je ein Stück Knollensellerie, Petersilienwurzel und Lauch)" plural="Suppengrün" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5756" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="aus dem Tiefkühlregal" plural="Erbsen" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1.2" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" suffix="(am besten selbst gekocht, alternativ Bio-Instant-Brühe)" plural="Gemüsebrühe" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lorbeerblätter" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="85b7j0wdlix14som3axi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85b7j1i4dkipplntaxi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und fein würfeln. Kartoffeln schälen und in 1 cm große Würfel schneiden. Suppengrün putzen, dann enthaltenen Sellerie, Petersilienwurzel und Karotten schälen und ebenfalls würfeln. Lauch in Ringe schneiden und komplette Petersilie hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85b7j1i4k44ohf00axi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Rapsöl in einem Topf erhitzen. Zuerst die Zwiebeln 2-3 Minuten anschwitzen, dann Kartoffeln, Karotten, Petersilienwurzel, Sellerie, Lauch und Erbsen zufügen, kurz mitbraten und mit der Gemüsebrühe aufgießen. Lorbeerblatt zufügen und die Suppe aufkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85b7j1i4kc2xp3htaxi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Suppe ca. 20 Minuten köcheln lassen, bis die Kartoffeln gar sind. Das Lorbeerblatt entfernen und die Hälfte der gehackten Petersilie untermischen. Suppe mit Salz, Pfeffer und Zitronensaft abschmecken, mit übriger Petersilie bestreuen und mit dem Vollkornbrot servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Erbsensuppe vegetarisch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18ftjg5yg19i02xexk" file_variant="master" position="1">1-Erbsensuppe-vegetarisch-hoch-4417.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69d4aa2c33ab2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Erbsensuppe vegetarisch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18ewc6peh125z53exj" file_variant="master" position="1">1-Erbsensuppe-Step-1-Kartoffeln4358.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69d4aa2e8595a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Erbsensuppe vegetarisch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18d639yu9ml87aexr" file_variant="master" position="1">1-Erbsensuppe-Step-2-Suppenguen4364.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69d4aa334589c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Erbsensuppe vegetarisch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7h18gw8wu0xi92u5exu" file_variant="master" position="1">1-Erbsensuppe-vegetarisch-quer-4405.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

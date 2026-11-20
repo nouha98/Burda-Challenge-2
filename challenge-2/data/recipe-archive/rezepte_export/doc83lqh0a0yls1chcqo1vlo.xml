@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83lqh0a0yls1chcqo1vlo" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-08T16:22:41+01:00</created>
+  <identifier></identifier>
+  <modcount>13</modcount>
+  <modified>2025-12-08T16:39:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-wome"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_expensive"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <Source topic="tmt83lqo8llyo910dv31wnf"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtwy19t4d8do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp53fbfjjdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeNutritionalValueCalories position="1">450</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">15</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">23</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">35</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Lammhack-Köfte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-08T16:22:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="14" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="halbierte" suffix="in verschiedenen Farben" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6461" position="15" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Snack-" plural="Gurken" suffix="in Stücken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7626" position="1" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Lammhackfleisch"/>
+      <CustomRecipeIngredient topic="tmt7vul5bj1hdycr10w1jp" position="2" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Kreuzkümmel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="3" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="gemahlener" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8576" position="4" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Paprikapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="5" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8551" position="6" amount="25" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Paniermehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" position="7" amount="1/2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" prefix="gehackte" plural="Minze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="8" amount="1/2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" prefix="gehackte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="-Kochspray" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6421" position="10" amount="140" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="griechischer Joghurt"/>
+      <CustomRecipeIngredient topic="tmt80i7h2lvqebgv4l910bp" position="11" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tahini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="12" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="13" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8196" position="16" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Minzblätter"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" position="17" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="glatte Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="18" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hack, Kümmel, Koriander, Paprika, Ei, Paniermehl und je die Hälfte der gehackten Minze und Petersilie gut mischen. Walnussgroße Bällchen formen und diese rundum mit Kochspray besprühen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6936f07116df5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eine 7-l-Heißluftfritteuse 3 Min. lang auf 180 Grad vorheizen. Den Frittierkorb mit Kochspray besprühen. Vorsichtig die Köfte in einer einzigen Schicht in den Korb legen. 8 Min. knusprig braun garen, dabei den Korb zur Hälfte der Garzeit schütteln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6936f08506181">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das grüne Tahini Joghurt, Tahini, Zitronensaft sowie die restliche gehackte Minze und Petersilie vermengen. Mit Salz und Pfeffer würzen. Für den Tomatensalat Tomaten, Gurke, Minze- und Petersilienblätter auf einer Platte vermengen. Mit Öl beträufeln und abschmecken. Köfte und grünes Tahini mit dem Tomatensalat anrichten. Evtl. mit gegrilltem Pita-Brot servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kräuter-Lammkofta mit grünem Tahini</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc7z9im6l3xw4e3mzrso6" file_variant="master" position="1">Kräuter-Lammkofta mit grünem Tahini</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6936f0d61a6c6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kräuter-Lammkofta mit grünem Tahini</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc7z9im6ex40jlckngl0n" file_variant="master" position="1">Kräuter-Lammkofta mit grünem Tahini</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

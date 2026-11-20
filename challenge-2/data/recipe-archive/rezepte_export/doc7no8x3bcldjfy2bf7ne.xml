@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7no8x3bcldjfy2bf7ne" dcx-version="6.3.1" version="1.0">
+  <created>2022-11-18T13:31:44+01:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-07-14T11:03:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeNoteInformation position="1">Haltbarkeit: gekühlt 2 Wochen.</CustomRecipeNoteInformation>
+    <CustomRecipeTeaserside position="1">Gegrillte Maiskolben, Bauernbrot.</CustomRecipeTeaserside>
+    <Headline position="1">Bärlauch-Curry-Butter</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-11-18T13:31:44+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4801" position="0" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" suffix="(50 g)" plural="Bärlauch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="1" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="weiche" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9436" position="2" suffix="von 1/2 Zitrone" plural="Saft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="3" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" position="4" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Currypulver"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1 Bund Bärlauch (50 g) fein hacken, mit 250 g weicher Butter, Saft von einer 1/2 Zitrone, Salz und 1–2 TL Currypulver aufschlagen. Butter in einen Spritzbeutel mit Sterntülle füllen und zu Tuffs spritzen oder zu einer Rolle formen, in Alufolie einschlagen. Kühl stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bärlauchbutter</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc7j8zarocn7m17etfkd5n" file_variant="master" position="1">Bärlauchbutter</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

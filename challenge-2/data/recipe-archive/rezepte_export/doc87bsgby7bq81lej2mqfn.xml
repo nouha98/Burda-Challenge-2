@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87bsgby7bq81lej2mqfn" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-26T14:54:43+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-08-26T15:04:57+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv2goi7ccdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <Source topic="tmt87bsl2d5on5akpxuqiu"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kuckis Schokopudding","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":{"calories":211,"kilojoule":883,"carbonhydrates":34,"fat":6,"protein":6,"breadunit":3}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"fettarme Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":35,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"EL"},"prefix":"ungesüßtem","suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"fettarme Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"150 ml fettarme Milch mit Speisestärke, Zucker und ungesüßtem Kakaopulver verquirlen, sodass keine Klümpchen mehr vorhanden sind."},{"headline":null,"content":"350 ml fettarme Milch in einem Topf erwärmen und den Kakao-Stärke-Mix einrühren. Alles einmal aufkochen und eine weitere Minute kochen lassen. Den Topf vom Herd ziehen."},{"headline":null,"content":"Schokolade in kleine Stücke schneiden. Nach und nach unter die heiße Milch rühren und darin schmelzen lassen. Den Pudding dann abkühlen lassen."},{"headline":null,"content":"Etwas kalten Pudding mit einem Löffel abstechen und nach Wunsch servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Kuckis Schokopudding</Title>
+    <CustomRecipeNutritionalValueCalories position="1">211</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">883</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">34</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">3</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Kuckis Schokopudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-26T14:54:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87bsgeivxk01n3ezf9jq">
+      <CustomRecipeIngredient topic="tmt808hkzinshi5rbalosa" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" plural="fettarme Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="35" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Speisestärke" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="ungesüßtes" plural="Kakaopulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schokolade" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87bsgg1gz2vdsoun9jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">150 ml fettarme Milch mit Speisestärke, Zucker und ungesüßtem Kakaopulver verquirlen, sodass keine Klümpchen mehr vorhanden sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bsgg1h29i1gjxyl9jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">350 ml fettarme Milch in einem Topf erwärmen und den Kakao-Stärke-Mix einrühren. Alles einmal aufkochen und eine weitere Minute kochen lassen. Den Topf vom Herd ziehen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87bsgg1h2eb12loeq9jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Schokolade in kleine Stücke schneiden. Nach und nach unter die heiße Milch rühren und darin schmelzen lassen. Den Pudding dann abkühlen lassen. Etwas kalten Pudding mit einem Löffel abstechen und nach Wunsch servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Klassischer Schokoladenpudding</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Eising Studio</ImageCredit>
+      <DocumentRef doc_id="doc7ku0orzj9gj5urjgkgq" file_variant="master" position="1">Klassischer Schokoladenpudding</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a8ee44db7206">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Klassischen Schokoladenpudding zubereiten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Eising Studio</ImageCredit>
+      <DocumentRef doc_id="doc7l6d4ak1vhz5fty3hzm" file_variant="master" position="1">Klassischen Schokoladenpudding zubereiten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

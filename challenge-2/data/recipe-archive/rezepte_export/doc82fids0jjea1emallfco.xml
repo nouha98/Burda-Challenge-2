@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82fids0jjea1emallfco" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-17T13:07:02+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-16T10:48:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="1" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt7efavzglihdblh9r25t"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Aufstrich mit getrockneten Tomaten","recipe_seo_headline":"Aufstrich mit getrockneten Tomaten – so einfach!","servings":{"amount":1.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":70,"amountTo":null,"ingredient_name":"Getrocknete Tomaten","unit":{"name":"g"},"prefix":null,"suffix":"(in Öl)"},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Tomatenmark","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Majoran","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":175,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"½","amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":"- ¾"},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Basilikum","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional, zum Garnieren)"}]}],"preparation":[{"headline":null,"content":"Getrocknete Tomaten sehr klein schneiden. Knoblauchzehe abziehen und pressen oder sehr fein schneiden. Lauchzwiebel waschen und in Ringe schneiden."},{"headline":null,"content":"Tomatenmark und Frischkäse in einer Schüssel verrühren. Getrocknete Tomaten, Knoblauch, Lauchzwiebeln und Majoran dazugeben und gründlich mit dem Frischkäse vermengen."},{"headline":null,"content":"Den italienischen Brotaufstrich mit Salz und Pfeffer abschmecken. Direkt servieren oder in ein Einmachglas (500 ml) geben. Luftdicht verpackt und kühl gelagert hält sich der Aufstrich ungefähr 1 Woche."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title position="1">Aufstrich mit getrockneten Tomaten</Title>
+    <CustomRecipeSeoTitle position="1">Aufstrich mit getrockneten Tomaten – so einfach!</CustomRecipeSeoTitle>
+    <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+    <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+    <CopyrightNotice position="1">einfach kochen/Brigitte Sporrer</CopyrightNotice>
+    <Headline position="1">Aufstrich mit getrockneten Tomaten</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-17T13:07:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82fidntz8flhtswxfco">
+      <CustomRecipeIngredient topic="tmt80gjcozkwdtsni8zbn8" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(in Öl)" position="1" plural="getrocknete Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lauchzwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Tomatenmark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7906" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Majoran" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="175" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Frischkäse" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0,5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="- ¾" plural="Salz" position="7" amount_error="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(optional, zum Garnieren)" plural="Basilikum" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82fids0jih2jxuzefco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Getrocknete Tomaten sehr klein schneiden. Knoblauchzehe abziehen und pressen oder sehr fein schneiden. Lauchzwiebel waschen und in Ringe schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82fids0jipclqxw3fco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Tomatenmark und Frischkäse in einer Schüssel verrühren. Getrocknete Tomaten, Knoblauch, Lauchzwiebeln und Majoran dazugeben und gründlich mit dem Frischkäse vermengen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82fids0jite16wtl5fco">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den italienischen Brotaufstrich mit Salz und Pfeffer abschmecken. Direkt servieren oder in ein Einmachglas (500 ml) geben. Luftdicht verpackt und kühl gelagert hält sich der Aufstrich ungefähr 1 Woche.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc8299wyrm6xcu8cpfmw" file_variant="master" position="1">Aufstrich_mit_getrockneten_Tomaten_3563.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68ca96b957281">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc8299wvjj5yw1cxddnpjf" file_variant="master" position="1">Aufstrich_mit_getrockneten_Tomaten_3559.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

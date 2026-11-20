@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88ar9lc2ygyas1sebey" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-02T15:10:32+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-11-02T15:16:31+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <Source topic="tmt88arcai8djri2j6fbgh"/>
+    <Headline position="1">Rosenkohl-Knödel in Rote-Bete-Sauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-02T15:10:32+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7jqfm8gvnkxiq1mhm1a" position="1" amount="12" prefix="mittelgroße " plural="Rosenkohlröschen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="2" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" position="5" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Type 550)" plural="Weizenmehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" position="6" amount="1" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9706" position="7" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="in dünnen Scheiben (z. B. Parmaschinken)" plural="Schinken"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Knödel</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6ae89a5157ebb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="4" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="eiskalte" suffix="in Stücken" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9351" position="1" amount="1" plural="Rote Bete"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6001" position="2" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="kräftige" plural="Fleischbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4751" position="3" amount="2.5" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Balsamico"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" position="7" amount="2" unit_topic="tmt71k9mrz8iyeyycjkivd" unit="Zweig" plural="Thymian"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6ae89a9414aeb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" position="1" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="grob gehackte" plural="Kürbiskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10226" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sonnenblumenkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5351" position="3" prefix="evtl. " plural="Chiliflocken"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Knödel den Rosenkohl abbrausen und putzen. Die Strünke kreuzweise einschneiden. Den Rosenkohl in Salzwasser ca. 5 Minuten blanchieren. Anschließend abgießen, abschrecken und gut abtropfen lassen.  </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6ae89ac218f8f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Milch, Öl und ½ TL Salz in einem Topf aufkochen. Dann das Mehl auf einmal zufügen. Alles rasch mit einem Schneebesen verrühren, dann bei geringer Hitze ein paar Minuten köcheln lassen, bis sich der Teig vom Topfrand löst. Den Topf vom Herd ziehen und den Teig kurz abkühlen lassen. Dann das Eigelb unterrühren </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6ae89acd70e22">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für die Sauce die Rote Bete schälen, putzen, abbrausen und fein raspeln. Mit Brühe, Balsamico sowie Thymian in einen Topf geben und ca. 10 Minuten köcheln lassen. Dann die Rote Bete abseihen – dabei die Flüssigkeit auffangen. Die Flüssigkeit sämig einköcheln, dann beiseitestellen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6ae89ad6b3b14">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Rosenkohl gut trocken tupfen. Den Schinken in Streifen schneiden und den Rosenkohl damit umwickeln. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6ae89adf04594">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Teig auf eine bemehlte Fläche geben und nur so viel Mehl unterkneten, dass er nicht mehr klebt. Dann den Teig in 12 Portionen teilen. Diese jeweils zu Kugeln formen und flach drücken. Je 1 Rosenkohl im Schinkenmantel daraufsetzen, mit dem Teig umschließen und diesen wieder zu runden Knödeln formen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_6ae89aeadcd07">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Reichlich Wasser in einem Topf aufkochen. Das Wasser salzen und die Hitze reduzieren. Die Knödel im siedenden Wasser garziehen lassen, bis sie an die Oberfläche steigen. Anschließend noch 3-4 Minuten weitergaren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_6ae89af465c81">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Sauce nochmals kurz erhitzen, salzen und pfeffern. Erst die Butter unterschlagen, dann 1–2 EL Rote-Bete-Raspel untermischen. Die Sauce abschmecken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_8_6ae89afb8b847">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 8</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Rote-Bete-Sauce auf tiefe Teller verteilen. Die Knödel mit einem Schaumlöffel aus dem Wasser heben, abtropfen lassen, evtl. halbieren und auf die Teller verteilen. Alles mit Kürbis- sowie Sonnenblumenkernen und evtl. mit Chiliflocken bestreuen, nach Wunsch mit jungem Thymian garnieren und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gefüllte Knödel mit Rosenkohl in Rote-Bete-Sauce</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Profimedia</ImageCredit>
+      <DocumentRef doc_id="doc8843kqgtoiu1dw11udtd" file_variant="master" position="1">Gefüllte Knödel mit Rosenkohl in Rote-Bete-Sauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

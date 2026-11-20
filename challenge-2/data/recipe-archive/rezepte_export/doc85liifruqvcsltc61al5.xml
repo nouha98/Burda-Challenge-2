@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85liifruqvcsltc61al5" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-27T10:04:30+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-04-27T10:10:43+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt85lilb5b59418nlfq1b6g"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Haferflocken-Smoothie","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":"reife","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"zarte","suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":"milder","suffix":"(1,5 % Fett)"},{"amount":400,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":"kalte","suffix":"(1,5 % Fett)"}]}],"preparation":[{"headline":null,"content":"Erdbeeren verlesen, waschen, vorsichtig trocken tupfen. 2 schöne Exemplare mit Grün beiseitelegen. Restliche Erdbeeren putzen, große Exemplare ggf. kleiner schneiden."},{"headline":null,"content":"Bananen schälen, grob klein schneiden. Zitrone auspressen. Erdbeeren, Bananen und Haferflocken in ein hohes Rührgefäß oder einen Standmixer geben. Zitronensaft, Joghurt und Milch hinzufügen und alles mit dem Pürierstab bzw. im Mixer cremig mixen, bis alle Stücke fein püriert sind."},{"headline":null,"content":"Smoothie gleichmäßig auf hohe Gläser verteilen. Die übrigen Erdbeeren an der Spitze leicht einschneiden und auf den Glasrand stecken. Frisch servieren."}],"recipe_tips":[{"headline":null,"content":"Wer den Smoothie ohne Joghurt zubereiten möchte, nimmt einfach ca. 100 ml mehr Milch."}]}</CustomStructuredRecipeJson>
+    <Title>Haferflocken-Smoothie</Title>
+    <Headline position="1">Haferflocken-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-27T10:04:30+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85liidcxzz8261ok1al5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="milder" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="kalte" suffix="(1,5 % Fett)" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="reife" plural="Erdbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="zarte" plural="Haferflocken" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85liifrun7p7y4xr1al5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Erdbeeren verlesen, waschen, vorsichtig trocken tupfen. 2 schöne Exemplare mit Grün beiseitelegen. Restliche Erdbeeren putzen, große Exemplare ggf. kleiner schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85liifrup791430yx1al5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Bananen schälen, grob klein schneiden. Zitrone auspressen. Erdbeeren, Bananen und Haferflocken in ein hohes Rührgefäß oder einen Standmixer geben. Zitronensaft, Joghurt und Milch hinzufügen und alles mit dem Pürierstab bzw. im Mixer cremig mixen, bis alle Stücke fein püriert sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85liifrupcj1g5s8m1al5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Smoothie gleichmäßig auf hohe Gläser verteilen. Die übrigen Erdbeeren an der Spitze leicht einschneiden und auf den Glasrand stecken. Frisch servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85liifrupht14n5ud1al5">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer den Smoothie ohne Joghurt zubereiten möchte, nimmt einfach ca. 100 ml mehr Milch.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez2y3y9ki188voj1" file_variant="master" position="1">Haferflocken_Smoothie_mit_Erdbeeren_137197.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69ef19f4794c9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez2r1v00k10ddh2j7" file_variant="master" position="1">Haferflocken_Smoothie_mit_Erdbeeren_137115.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69ef19f67117c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez312jerk1kwxr5j6" file_variant="master" position="1">Haferflocken_Smoothie_mit_Erdbeeren_137132.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69ef19f8842ae">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7dez39odfdy3ndfjj4" file_variant="master" position="1">Haferflocken_Smoothie_mit_Erdbeeren_137169.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc787wwnpskgi1m3ooqdv4" dcx-version="6.3.1" version="1.0">
+  <created>2019-12-01T19:55:00+01:00</created>
+  <identifier></identifier>
+  <modcount>26</modcount>
+  <modified>2022-04-20T16:17:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stücke" amount="12"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="27"/>
+    <LastEditedBy topic="tmt719jinjyrvk1ioi521dt"/>
+    <CustomCenshareId>1101243</CustomCenshareId>
+    <Headline position="1">Santa-Claus-Muffins</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">575</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2420</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">63</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">32</CustomRecipeNutritionalValueFat>
+    <DateImported>2020-02-07T15:39:52+01:00</DateImported>
+    <Title>Santa-Claus-Muffins</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="89a9b0">
+      <CustomRecipeIngredient topic="tmt786atpyb9f51f0lpc2mn" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt786e2tkv9j6m348lf8b" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt786egcanmd2168m6lk5h" amount="120" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt782lpwheuw91jnfgl8gz" amount="3" unit_topic="tmt71qxz4dp0wy1cok4w7e0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6041" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="weißer" suffix="(Zuckermasse; im Backregal)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7691" unit_topic="tmt71qxz4dp0wy1cok4w7e0" prefix="rote u. schwarze"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9691" amount="1" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(Abtropfgew.: 370 g)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="89ba58">
+      <CustomRecipeIngredient topic="tmt782lpuwpdwy1fs3538gz" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt782q8h66wq8fff318gz" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="89c113">
+      <CustomRecipeIngredient topic="tmt7869n207o1urwu5yavd" amount="12" unit_topic="tmt71qxz4dp0wy1cok4w7e0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6751" amount="24" unit_topic="tmt71qxz4dp0wy1cok4w7e0" prefix="kleine"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="2">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="89c164">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fondant in 2 kleinere und 1 größeres  Stück teilen. Das größere Stück rot einfärben, 1 kleineres schwarz färben. Aus weißem, schwarzem und rotem Fondant 3 gleich dicke Stränge (Ø ca. 1 cm) rollen. Schwarzen und weißen Strang in 24 ca. 1 cm breite Stücke schneiden. Roten Strang in 24 etwa 3 cm lange Stücke schneiden (siehe Foto rechts unten). Für ein Bein 1 schwarzes Stück aufstellen, darauf 1 weißes Stück setzen und zuletzt ein rotes. Stücke etwas andrücken und ein Holzspießchen hineinstecken. Auf diese Weise 24 Beine formen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="89c172">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad (Umluft: 160 Grad) heizen. Förmchen in die Mulden setzen. Kirschen in einem Sieb abtropfen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="89c182">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Mehl mit Kakao, Backpulver und Schokolade mischen. Zucker, Zimt, Sahne, Öl und Eier hinzufügen und alles glatt rühren. Kirschen dazugeben. Teig gleichmäßig auf die Förmchen verteilen. Küchlein im Ofen  ca. 27 Minuten backen. Auskühlen lassen.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="89c190">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="4">Zubereitungsschritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="4">Butter mit Käse schaumig schlagen. Puderzucker dazugeben. Creme 15 Minuten kühlen. Je 2 TL Creme auf die Muffins geben, wellen­artig verstreichen. Mit Kokos bestreuen. Kurz vorm Servieren je 2 Santa-Beine nebeneinander in die Cupcakes stecken.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="89c14a">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipp 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Nikolaus-Beine</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Sie können im Voraus modelliert und luftdicht und dunkel in einer Frischhaltebox aufbewahrt werden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="censhare_1115283_last" doc_id="doc787ww1pd91i1iwroglm8" position="1">MFI</DocumentRef>
+    </Image>
+    <Image taggroup_id="8eccf6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="2">Picture 2</ImageLabel>
+      <DocumentRef file_variant="censhare_1115284_last" doc_id="doc787ww1o4z431429ojlm7" position="2">MFI</DocumentRef>
+    </Image>
+    <Image taggroup_id="918572">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="3">Picture 3</ImageLabel>
+      <DocumentRef file_variant="censhare_1115285_last" doc_id="doc787ww1vtdxj12ekkdlm6" position="3">MFI</DocumentRef>
+    </Image>
+    <Image taggroup_id="92fcbd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="4">Picture 4</ImageLabel>
+      <DocumentRef file_variant="censhare_1115286_last" doc_id="doc787ww1x5r901dfaanlm9" position="4">MFI</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bvls37okg1ki3gz72k" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-09T13:03:43+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_1101243</displayname>
+      <doc_id id="doc787wwnpskgi1m3ooqdv4"/>
+      <hash>cbc834e2e4a9f461e354144e9d4c7bcc</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-02-07T15:39:53+01:00</modified>
+      <size>6435</size>
+      <subpath>2020/02-07/41/5a/file78bvls37okg1ki3gz72k.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

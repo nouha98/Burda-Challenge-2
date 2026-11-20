@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc825rg09ccdv10l0jknx4" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-29T13:47:17+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-01T12:31:50+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Matcha Tiramisu","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":240}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Matcha Pulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eiweiß","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":90,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":750,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Matcha Pulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"(Keine Einheit)"},"prefix":"Optional","suffix":null}]}],"preparation":[{"headline":null,"content":"Eine Auflaufform (18x25cm) mit Löffelbiskuits belegen, bis der Boden komplett bedeckt ist. Matchapulver mit 80 Grad heißem Wasser und Zucker aufgießen. Die Löffelbiskuits üppig damit tränken."},{"headline":null,"content":"Eiweiß aufschlagen, Puderzucker sieben und esslöffelweise zum Eischnee hinzugeben. Vanilleextrakt mit Mascarpone glattrühren. Den Eischnee vorsichtig unter die Mascarponecreme heben."},{"headline":null,"content":"Die Hälfte der Creme auf den Löffelbiskuits verteilen. Erneut mit Löffelbiskuits belegen und mit dem Matchasud tränken. Die restliche Creme darauf verteilen."},{"headline":null,"content":"Das Matcha Tiramisu für 4 Stunden kühl stellen. Kurz vor dem Servieren 2 TL Matchapulver in ein kleines Sieb geben und über das Tiramisu streuen, mit frischen Himbeeren dekorieren."}],"recipe_tips":[{"headline":"wer es noch fruchtiger mag","content":"Kann entweder ein paar frische Himbeeren in die Creme drücken bevor sie weiter geschichtet wird, oder optional unser Himbeerkompott dazu servieren! Himbeere und Matcha lässt sich optimal kombinieren."}]}</CustomStructuredRecipeJson>
+    <Title>Matcha Tiramisu</Title>
+    <Headline position="1">Matcha Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-29T13:47:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="825rfx22tahpq7n6nx4">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Löffelbiskuits" position="1"/>
+      <CustomRecipeIngredient topic="tmt7kyjzrrlxv445nyb1qm" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" plural="Matchapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eiweiß" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="90" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="750" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="8"/>
+      <CustomRecipeIngredient topic="tmt7kyjzrrlxv445nyb1qm" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="9" plural="Matchapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Optional" plural="Himbeeren" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="825rg09cbdl1iqsdsnx4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Auflaufform (18 x 25 cm) mit etwa der Hälfte der Löffelbiskuits belegen, bis der Boden komplett bedeckt ist. Matchapulver und Zucker in einer Tasse mischen und mit 80 Grad heißem Wasser aufgießen. Mit Hilfe eines Löffels die Biskuits üppig mit etwa der Hälfte des Suds tränken.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rg09cbl51hkovenx4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eiweiß aufschlagen, Puderzucker sieben und esslöffelweise zum Eischnee hinzugeben. Vanilleextrakt mit Mascarpone glattrühren. Den Eischnee vorsichtig unter die Mascarponecreme heben.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rg09cbol10g924nx4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Hälfte der Creme auf den Löffelbiskuits verteilen. Mit den übrigen Löffelbiskuits belegen und mit dem restlichen Matchasud tränken. Die restliche Creme darauf verteilen. Das Matcha-Tiramisu für mindestens 4 Stunden kühl stellen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="825rg09cbroebvu2nx4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Kurz vor dem Servieren 2 TL Matchapulver in ein kleines Sieb geben und über das Tiramisu streuen. Du kannst das Tiramisu für mindestens 2 Tage abgedeckt im Kühlschrank aufbewahren und wunderbar vorbereiten. Das Rezept ergibt ca. 12 Stücke.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="825rg09cbv9vrvevnx4">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer es fruchtiger mag, kann entweder ein paar frische Himbeeren in die Creme drücken bevor sie weiter geschichtet wird oder unser Himbeerkompott dazu servieren! Himbeere und Matcha lässt sich optimal kombinieren.
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mit Himbeeren kombinieren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2irqeqt7kxjt9ik" file_variant="master" position="1">MatchaTiramisu2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b575ed1d3e9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2k6vgfb14ugyp9ik" file_variant="master" position="1">MatchaTiramisu_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b575eedf876">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2n3nfwg1g6jxvg1i" file_variant="master" position="1">MatchaTiramisu1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b575f0d00c7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2oio7jn1nikxsftj" file_variant="master" position="1">MatchaTiramisu3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

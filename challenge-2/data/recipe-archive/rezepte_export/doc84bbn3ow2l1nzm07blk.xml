@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84bbn3ow2l1nzm07blk" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-27T11:33:41+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-01-27T13:02:08+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_garen" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt84bbpdeclkyk636mbmb"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomRecipeNoteInformation position="1">Für 4 Gläser à ca. 300 ml</CustomRecipeNoteInformation>
+    <Headline position="1">Möhrenkonfitüre</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-27T11:33:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" position="1" amount="1.2" unit_topic="tmt71k9kp8159fev62ddbf" unit="kg" prefix="ca." suffix="(z.B. Pariser Markt, geputzt und geschält 1 kg)" plural="Möhren"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="2" amount="3" prefix="fein abgerieb. Schale und Saft von" plural="Bio-Zitronen"/>
+      <CustomRecipeIngredient topic="tmt80lb3kjewbmoog2j1ybk" position="3" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Gelierzucker (2:1)"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Möhren schälen, putzen, klein schneiden. 125 ml Wasser mit Zitronenschale und ca. 125 ml Zitronensaft in einen Topf geben. Die Möhren darin zugedeckt in ca. 15 Minuten weich dünsten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69789538a0375">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Anschließend den Topf vom Herd ziehen und die Möhren mit einem Pürierstab fein pürieren. Dann den Gelierzucker untermischen und die Masse ca. 1 Stunde ziehen lassen. 
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6978954fc30fd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Möhrenmasse aufkochen und unter ständigem Rühren ca. 4 Minuten sprudelnd kochen lassen. Die Konfitüre heiß in saubere Gläser füllen, diese gut verschließen und die Konfitüre auskühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Karottenmarmelade</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Meliukh, Irina</ImageCredit>
+      <DocumentRef doc_id="doc7nbcza1phjb3hsta1sp" file_variant="master" position="1">Karottenmarmelade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

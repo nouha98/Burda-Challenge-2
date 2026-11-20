@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e9p14m7ayp1essx8l71" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-28T16:11:26+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:36+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7dzalnxydm1127neb3nk"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <Keywords topic="tmt7e9p38epwc91k2rp9674"/>
+    <DateImported>2021-01-28T16:11:26+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">305</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">2</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">27</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">21</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kabeljau en Pappilote</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="1" amount="2" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5571" position="2" amount="4" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" plural="Dill"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7156" position="3" amount="8" unit_topic="tmt78awc7b61w36c313ajd" unit="Stiel" plural="Kerbel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6926" position="4" amount="4" plural="Kabeljaufilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="5" amount="8" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="7" amount="8" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8701" position="8" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="rosa" plural="Pfefferbeere"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 195 Grad Ober-/Unterhitze heizen.
+Schalotten schälen, fein hacken. Kräuterblätter
+abzupfen, hacken. 4 große Bogen
+Backpapier nebeneinanderlegen. Filets
+waschen
+und trocken tupfen, mit etwas Öl
+beträufeln, pfeffern.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6013e8ccc59c7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Je 1 Fischfilet mittig auf ein 1 Bogen
+Backpapier setzen. Übriges Öl, Schalotten,
+Saft, die Hälfte der Kräuter und der Pfefferbeeren
+darauf verteilen. Papier jeweils über
+dem Fisch zusammenfalten, Enden mit
+Küchengarn
+zubinden. 15–20 Min. im Ofen
+garen. Mit übrigen Kräutern und Pfefferbeeren
+anrichten.
+Dazu schmeckt Reis.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cod,lime and pink peppercorn ,mixed rice</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">PhotoCuisine / Berru , Eric</ImageCredit>
+      <DocumentRef doc_id="doc7c2g5s288mr1juuz2cel" file_variant="master" position="1">Kabeljau mit Limette und rosa Pfeffer, dazu gemischter Reis</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

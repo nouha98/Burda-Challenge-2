@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc849fwp8hfyo15thpicbk" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-23T19:40:48+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-01-23T20:01:23+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <Source topic="tmt849g5rs76wmdf3btcc7"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt81bie203ibk1jcght8v7"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruztbwiw1do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Linsensalat mit Feta","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":null,"price":null,"nutritions":{"calories":575,"kilojoule":2408,"carbonhydrates":30,"fat":36,"protein":26,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"vorgegarte Linsen","unit":{"name":"Dose"},"prefix":null,"suffix":"(Abtropfgewicht: ca. 240 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Endiviensalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"süßer Senf","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"mittelscharfer Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Linsen abgießen, abbrausen und abtropfen lassen. Zwiebel abziehen und klein würfeln. Endiviensalat putzen, waschen, trocken schütteln und klein schneiden. Petersilie abbrausen, trocken schütteln, Blätter abzupfen und fein schneiden."},{"headline":"Dressing zubereiten","content":"Für das Dressing Zitronensaft, beide Senfsorten, und Ahornsirup verrühren, abschmecken. Öl unterschlagen. Mit Salz und Pfeffer würzen."},{"headline":null,"content":"Linsen mit Endiviensalat, Petersilie und dem Dressing vermischen. Feta zerteilen. Salat mit Feta bestreuen und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Linsensalat mit Feta</Title>
+    <CustomRecipeNutritionalValueCalories position="1">575</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">30</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">36</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">26</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Linsensalat mit Feta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-23T19:40:48+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="849fwqb5cxzyrti1jpi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7791" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(Abtropfgewicht: ca. 240 g)" position="1" prefix="vorgegarte" plural="Linsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5736" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Endiviensalat" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1/2" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="4"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="5" suffix="Saft davon"/>
+      <CustomRecipeIngredient topic="tmt80i4rchen8mqo62n10bt" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="6" plural="süßer Senf"/>
+      <CustomRecipeIngredient topic="tmt7z8ylf3zj4ncc1ktdmu" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="7" plural="mittelscharfer Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="10"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="11" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feta" position="12"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="849fws0bf9z13oeztjpi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Linsen abgießen, abbrausen und abtropfen lassen. Zwiebel abziehen und klein würfeln. Endiviensalat putzen, waschen, trocken schütteln und klein schneiden. Petersilie abbrausen, trocken schütteln, Blätter abzupfen und fein schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="849fws0bitt1433e9jpi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für das Dressing Zitronensaft, beide Senfsorten, und Ahornsirup verrühren, abschmecken. Öl unterschlagen. Mit Salz und Pfeffer würzen. Linsen mit Endiviensalat, Petersilie und dem Dressing vermischen. Feta zerteilen. Salat mit Feta bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Lauwarmer Linsensalat mit Feta, Zwiebeln, Ahornsirup-Senf-Dressing und Endiviensalatblättern</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc82vk5u49jlilzzmrm4f" file_variant="master" position="1">Lauwarmer Linsensalat mit Feta, Zwiebeln, Ahornsirup-Senf-Dressing und Endiviensalatblättern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

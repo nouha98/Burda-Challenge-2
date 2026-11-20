@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86iwvk76kl26u6trzvh" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T10:05:56+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-01T10:12:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Keywords topic="tmt6owhjosjxg2vwqabkmb"/>
+    <Source topic="tmt86iwyt8tkwj2tywjnvi"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Müsli-Bowl","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Backen","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Granola","ingredients":[{"amount":60,"amountTo":null,"ingredient_name":"Kerne","unit":{"name":"g"},"prefix":"gemischte","suffix":"(z. B. Cashewkerne, Mandeln, Haselnüsse)"},{"amount":100,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":"kernige","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":"flüssiger","suffix":"(alternativ: Ahornsirup oder Agavendicksaft)"}]},{"headline":"Zum Anrichten","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Vanilleschote","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":"milder","suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":"flüssiger","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":"frische","suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"g"},"prefix":"frische","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":"frische","suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Kerne/Nüsse grob hacken, mit Haferflocken, Rapsöl und Honig mischen. Masse auf einem mit Backpapier belegten Backblech gleichmäßig verteilen. Masse im Ofen ca. 15–20 Minuten backen, dabei gelegentlich wenden, damit das Granola von allen Seiten knusprig wird. Fertiges Granola herausnehmen und vollständig auskühlen lassen."},{"headline":null,"content":"Vanilleschote der Länge nach mit einem scharfen Messer aufritzen, Vanillemark herausschaben. Joghurt mit Vanillemark, Honig und Zitronensaft verrühren. Joghurt auf Müsli-Schüsseln verteilen."},{"headline":null,"content":"Beeren waschen. Himbeeren und Heidelbeeren verlesen. Erdbeeren putzen, halbieren, große Exemplare ggf. kleiner schneiden. Beeren und Granola auf dem Vanille-Joghurt anrichten, direkt servieren."}],"recipe_tips":[{"headline":null,"content":"Wer mag, kann das Granola auch in größeren Mengen vorbereiten. Granola vollständig abgekühlt in eine Blechdose oder Einmachgläser umfüllen. Trocken und gut verschlossen gelagert hält es sich ca. 10 Tage."}]}</CustomStructuredRecipeJson>
+    <Title>Müsli-Bowl</Title>
+    <Headline position="1">Müsli-Bowl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T10:05:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86iwvi51c3s191rirzvh">
+      <CustomRecipeIngredient topic="tmt7dvbsst35k617wx7d1sb" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gemischte" suffix="(z. B. Cashewkerne, Mandeln, Haselnüsse)" plural="Kerne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="flüssiger" suffix="(alternativ: Ahornsirup oder Agavendicksaft)" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="kernige" plural="Haferflocken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Granola</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="86iwviuy90m16890pzvh">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="milder" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10826" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vanilleschoten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="flüssiger" plural="Honig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronensaft" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Himbeeren" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Heidelbeeren" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="frische" plural="Erdbeeren" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Anrichten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86iwvk76ear4djonzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Kerne/Nüsse grob hacken, mit Haferflocken, Rapsöl und Honig mischen. Masse auf einem mit Backpapier belegten Backblech gleichmäßig verteilen. Masse im Ofen ca. 15–20 Minuten backen, dabei gelegentlich wenden, damit das Granola von allen Seiten knusprig wird. Fertiges Granola herausnehmen und vollständig auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwvk76iokavphzzvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Vanilleschote der Länge nach mit einem scharfen Messer aufritzen, Vanillemark herausschaben. Joghurt mit Vanillemark, Honig und Zitronensaft verrühren. Joghurt auf Müsli-Schüsseln verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwvk76itjljet1zvh">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Beeren waschen. Himbeeren und Heidelbeeren verlesen. Erdbeeren putzen, halbieren, große Exemplare ggf. kleiner schneiden. Beeren und Granola auf dem Vanille-Joghurt anrichten, direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86iwvk76iy110a21yzvh">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer mag, kann das Granola auch in größeren Mengen vorbereiten. Granola vollständig abgekühlt in eine Blechdose oder Einmachgläser umfüllen. Trocken und gut verschlossen gelagert hält es sich ca. 10 Tage.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">eatbetter/Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7cvs9nz4lkp1k5rydzc" file_variant="master" position="1">Muesli_Bowl_124719.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44cbfd17815">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">eatbetter/Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7cvsa8svll5wrv0wizu" file_variant="master" position="1">Muesli_Bowl_124603.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44cbff79bec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">eatbetter/Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7cvs9r3t0i810zubzdzc" file_variant="master" position="1">Muesli_Bowl_125347.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a44cc01dcaed">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">eatbetter/Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7cvs9uilmgnvprchdcf" file_variant="master" position="1">Muesli_Bowl_124708.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7l9ymgcwij4epek6jqc" dcx-version="6.3.1" version="1.0">
+  <created>2022-06-03T16:13:27+02:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2022-06-03T16:28:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <DateImported>2022-06-03T16:13:27+02:00</DateImported>
+    <Headline position="1">Paprika-Hummus</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7166" position="0" amount="2" unit_topic="tmt71k9lavq8xsgd6tlive" unit="Dose" plural="Kichererbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6566" position="1" amount="3" amount_max="4" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Harissa"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4466" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(Paprikapaste)" plural="Ajvar"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="3" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="5" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Walnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="7" plural="Petersilie"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag: 2 Dosen Kichererbsen (Abtropfgewicht: à 265 g) abgießen, abspülen, in ein hohes Gefäß geben. 3–4 TL Harissa und 200 g Ajvar (Paprikapaste) dazugeben. Mit ca. 60 ml warmem Wasser und 50 ml Olivenöl zu einer Paste pürieren, mit Salz und Pfeffer würzen. Hummus zugedeckt kalt stellen. Zum Servieren: Dip mit 2 EL Walnusskernen und Petersilie bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BERND GÖLLING</ImageCredit>
+      <DocumentRef doc_id="doc7doli5d7k878ybu0ctx" file_variant="master" position="1">Hummus_Co.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

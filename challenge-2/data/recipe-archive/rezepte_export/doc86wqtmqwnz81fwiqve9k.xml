@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86wqtmqwnz81fwiqve9k" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-28T08:09:58+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-07-28T08:19:36+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <Source topic="tmt86wqy34p12v178pmaebu"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bananen-Pudding","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":620,"kilojoule":2595,"carbonhydrates":71,"fat":34,"protein":7,"breadunit":6}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Vanillepudding","unit":{"name":"g"},"prefix":null,"suffix":"(Kühlregal)"},{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Eier-Plätzchen","unit":{"name":"g"},"prefix":null,"suffix":"(ersatzweise Butterkekse)"},{"amount":4,"amountTo":null,"ingredient_name":"Karamellsauce","unit":{"name":"EL"},"prefix":null,"suffix":"(Fertigprodukt)"}]}],"preparation":[{"headline":null,"content":"Sahne mit Salz und Vanillezucker steif schlagen. Unter den Pudding heben."},{"headline":null,"content":"Bananen schälen und in Scheiben schneiden."},{"headline":null,"content":"Puddingcreme mit Banane und Eierplätzchen bis auf zwei Kekse in Schalen schichten."},{"headline":null,"content":"Übrige Kekse darüberbröseln. Mit Karamellsauce beträufelt servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Bananen-Pudding</Title>
+    <CustomRecipeNutritionalValueCalories position="1">620</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">2595</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">71</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">34</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">6</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Bananen-Pudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-28T08:09:58+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86wqtoraxnomlat5ajo">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7151" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(ersatzweise Butterkekse)" position="6" prefix="Eier-" plural="Kekse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Bourbon-Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10801" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Kühlregal)" plural="Vanillepudding" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="5"/>
+      <CustomRecipeIngredient topic="tmt7g19swcv55213pac038h" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(Fertigprodukt)" plural="Karamellsauce" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86wqtr0y4x4l3cjmajo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sahne mit Salz und Vanillezucker steif schlagen. Unter den Pudding heben. Bananen schälen und in Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86wqtr0y89s1l3m0oajo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Puddingcreme mit Banane und Eierplätzchen bis auf zwei Kekse in Schalen schichten. Übrige Kekse darüberbröseln. Mit Karamellsauce beträufelt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananapudding mit Salzkaramell</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc82vk42azb8p98eyalt0" file_variant="master" position="1">Bananapudding mit Salzkaramell</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

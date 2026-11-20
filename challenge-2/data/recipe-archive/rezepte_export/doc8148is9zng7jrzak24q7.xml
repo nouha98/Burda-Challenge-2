@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8148is9zng7jrzak24q7" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-17T13:00:54+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-07-14T11:10:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Creator topic="tmt80npsojpfw2q0y6s9qu"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsz6pnxr5do5"/>
+    <Headline position="1">Flammkuchen mit Apfel, Pflaumen und Honig (vegetarisch) </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-17T13:00:54+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5981" position="1" amount="1" prefix="Rolle " suffix="Kühlregal" plural="Flammkuchenteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="2" amount="2" prefix="rot" suffix="säuerlich" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8776" position="3" amount="2" plural="Pflaumen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9646" position="4" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Sauerrahm"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="5" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" position="6" amount="0,5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimtpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" position="7" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="gehackt" plural="Pistazien"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="8" amount="2" amount_max="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Honig"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 °C Ober- und Unterhitze vorheizen. Ein Backblech mit Backpapier belegen. Den Flammkuchenteig auf dem Papier entrollen und mit einem gewellten Teigrädchen in 8-12 Rechtecke (ca. 8 x 15 cm) schneiden. Äpfel und Pflaumen waschen und trockentupfen. Die Äpfel vierteln, vom Kerngehäuse befreien und in schmale Spalten schneiden. Die Pflaumen halbieren, entsteinen und in feine Spalten schneiden. Sauerrahm und Zucker glatt rühren. Die Teigrechtecke auf das Blech legen und mit Sauerrahm bestreichen. Fächerartig mit Pflaumen- und Apfelspalten belegen, leicht mit Zimtpulver bestäuben und mit Pistazien bestreuen. Im Ofen 15-20 Minuten backen, bis die Ränder goldbraun sind. Die Flammkuchen mit Honig beträufeln und nach Belieben noch warm oder abgekühlt servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Flammkuchen mit Apfel, Pflaumen und Honig</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Przibylla, Dirk</ImageCredit>
+      <DocumentRef doc_id="doc80j8jjkywdegnmdhanh" file_variant="master" position="1">Flammkuchen mit Apfel, Pflaumen und Honig</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

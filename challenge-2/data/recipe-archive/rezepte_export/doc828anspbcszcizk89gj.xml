@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc828anspbcszcizk89gj" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-03T12:08:17+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-17T15:01:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt6om86fvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Avocado Pudding","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Avocado Pudding","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Avocado","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(auch Pflanzenmilch geeignet)"},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"gehackte Nüsse","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"2 Dessertgläser bereitstellen."},{"headline":null,"content":"Die Milch in einen Messbecher geben, eine reife Avocado halbieren und das Fruchtfleisch zur Milch geben. Alles mit dem Pürierstab fein mixen."},{"headline":null,"content":"Zitronensaft und Ahornsirup zum Pudding hinzugeben. Den Avocadopudding auf 2 Dessertgläser verteilen und mit gehackten Nüssen dekorieren. Sofort servieren."}],"recipe_tips":[{"headline":"Vegane Version","content":"Die Milch durch Nussmilch ersetzen schon hast du ein wunderbares veganes Dessert."}]}</CustomStructuredRecipeJson>
+    <Title>Avocado Pudding</Title>
+    <Headline position="1">Avocado Pudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-03T12:08:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="828anqtyx1k164z1v9gj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Avocados" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(auch Pflanzenmilch geeignet)" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8396" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" prefix="gehackte" plural="Nüsse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Avocado Pudding</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="828ansparrmb5j559gj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwei Dessertgläser (à 150 ml) bereitstellen. Die Milch in einen Messbecher geben, eine reife Avocado halbieren und das Fruchtfleisch zur Milch geben. Alles mit dem Pürierstab fein mixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="828anspb12t8zeal9gj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zitronensaft und Ahornsirup zum Pudding hinzugeben. Den Avocadopudding auf die Dessertgläser verteilen und mit gehackten Nüssen dekorieren. Sofort servieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="828anspb1mt1lm4u19gj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Milch durch Nussmilch ersetzen schon hast du ein wunderbares veganes Dessert.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegane Version</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7luuu4ysohb8a3qm" file_variant="master" position="1">AvocadoPudding2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68cab0f67bb25">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7ltn1g5l1fvg2a2u6" file_variant="master" position="1">AvocadoPuddingStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68cab0f8414d7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7ls52s5fr6yi62u6" file_variant="master" position="1">AvocadoPuddingStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68cab0f9e6209">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7lwfimg16qsx61fgi" file_variant="master" position="1">AvocadoPudding1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

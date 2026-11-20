@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc850z9nn4jk61cmw28oc9" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-18T09:55:59+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-03-18T10:08:32+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="tmt828c3lblxnd13w060gcp"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Skyr-Pancakes","recipe_seo_headline":"Skyr-Pancakes – das luftigste Rezept","servings":{"amount":8.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Backen","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Eier (Größe M)","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Skyr","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Weizenmehl (Type 405)","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Öl zum Ausbacken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für den Teig Eier mit Skyr und Milch schaumig rühren. Mehl, Backpulver und Salz mischen und dazugeben. Alles zu einem glatten Teig verrühren."},{"headline":null,"content":"In einer Pfanne etwas Öl heiß werden lassen. Jeweils eine kleine Schöpfkelle voll in die Pfanne geben (bei einer großen Pfanne, kannst du auch mehrere Pancakes aufeinmal backen). Für ca. 2-3 Minuten ausbacken, dann wenden und 1-2 Minuten fertigbacken. Mit dem restlichen Teig ebenso verfahren."},{"headline":null,"content":"Seviere die Pancakes am besten frisch. Du kannst sie aber auch abkühlen lassen und luftdicht verpackt mindestens 3 Tage im Kühlschrank aufbewahren. Vor dem Servieren einfach kurz im Toaster aufwärmen."}],"recipe_tips":[{"headline":"Wenn es etwas süßer sein soll","content":"Für eine leichte Süße füge ich dem Teig gerne noch 2 EL Ahornsirup oder Honig hinzu."}]}</CustomStructuredRecipeJson>
+    <Title>Skyr-Pancakes</Title>
+    <CustomRecipeSeoTitle position="1">Skyr-Pancakes – das luftigste Rezept</CustomRecipeSeoTitle>
+    <CustomRecipeNoteInformation position="1">Du benötigst: Schüssel, Rührgerät, Pfanne, Pfannenwender</CustomRecipeNoteInformation>
+    <Headline position="1">Skyr-Pancakes</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-18T09:55:59+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="850z9lb8pmf1gkmdfoc9">
+      <CustomRecipeIngredient topic="tmt7zfs3ls179yitds7lr0" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="Eier (Gr. M)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt7e0w3ns0zf4t23kelzs" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Skyr" position="3"/>
+      <CustomRecipeIngredient topic="tmt8047u3ei4j71inoxofdv" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Weizenmehl (Type 405)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69ba6a187a556">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="zum Ausbacken" plural="Öl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="850z9nn3zuf6cbpzoc9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Teig Eier und Milch verrühren, Skyr hinzugeben und ebenfalls unterrühren. Mehl, Backpulver und Salz mischen und dazugeben. Alles zu einem glatten Teig verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850z9nn4bps1kyyjqoc9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">In einer Pfanne etwas Öl heiß werden lassen. Jeweils eine kleine Schöpfkelle voll in die Pfanne geben (bei einer großen Pfanne, kannst du auch mehrere Pancakes aufeinmal backen). Für ca. 2-3 Minuten ausbacken, dann wenden und 1-2 Minuten fertigbacken. Mit dem restlichen Teig ebenso verfahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="850z9nn4bya8extkoc9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Serviere die Pancakes am besten frisch. Du kannst sie aber auch abkühlen lassen und luftdicht verpackt mindestens 3 Tage im Kühlschrank aufbewahren. Vor dem Servieren einfach kurz im Toaster aufwärmen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="850z9nn4c2pr0tw8oc9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für eine leichte Süße füge ich dem Teig gerne noch 2 EL Ahornsirup oder Honig hinzu.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Wenn es etwas süßer sein soll</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bez2beziu1c87ztap7" file_variant="master" position="1">Skyr-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69ba6b55c0d8d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84beyyxpd2sbi4ltaem" file_variant="master" position="1">Skyr-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69ba6b590ed26">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84bez4w24ht1lo5k1kpf" file_variant="master" position="1">Skyr-Pancakes</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69ba6b59470d0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc84beywbu08211rqx0anw" file_variant="master" position="1">Skyr-Pancakes</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

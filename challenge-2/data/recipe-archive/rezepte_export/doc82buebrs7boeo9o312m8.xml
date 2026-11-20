@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82buebrs7boeo9o312m8" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-10T09:52:19+02:00</created>
+  <identifier></identifier>
+  <modcount>11</modcount>
+  <modified>2025-09-10T10:02:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Mousse au Chocolat","recipe_seo_headline":"Vegane Mousse au Chocolat – mit Aquafaba","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Kichererbsenwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(optional)"},{"amount":150,"amountTo":null,"ingredient_name":"Vegane Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":"(60 – 70% Kakaoanteil)"}]},{"headline":"Zum Servieren","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Schokoraspel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Dose oder Glas Kichererbsen durch ein Sieb abgießen und die Flüssigkeit dabei auffangen. Das ist Aquafaba – dein veganer Eischnee. Aquafaba in eine große Schüssel füllen und mit dem Schneebesen-Aufsatz einer Küchenmaschine oder dem elektrischen Handrührgerät aufschlagen. Sobald die Masse cremig ist, Backpulver, Puderzucker und Vanillezucker dazugeben und weiterrühren, bis der Schaum feste Spitzen bekommt. Das dauert ungefähr 5-8 Minuten. Veganen Eischnee zur Seite stellen."},{"headline":null,"content":"Schokolade in kleine Stücke brechen oder hacken und in einem Wasserbad oder in der Mikrowelle bei geringer Hitze schmelzen. Ab und an umrühren. Die geschmolzene Schokolade vom Herd nehmen und etwas abkühlen lassen."},{"headline":null,"content":"Geschmolzene Schokolade nach und nach vorsichtig mit einem Schneebesen unter den Aquafaba-Schnee heben. Keine Sorge, wenn die Masse etwas zusammenfällt – das ist ganz normal! Es ist allerdings wichtig, dass die Schokolade nicht zu heiß ist und portionsweise untergehoben wird."},{"headline":null,"content":"Die Creme in Dessertgläser oder Schälchen füllen und für 3-4 Stunden oder über Nacht in den Kühlschrank stellen. Vor dem Servieren mit geraspelter Schokolade bestreuen."}],"recipe_tips":[{"headline":null,"content":"Die Zartbitterschokolade sorgt dafür, dass die fluffige Mousse lecker-schokoladig schmeckt und vertreibt so die kleinste Note Kichererbse. Daher ist es wichtig, hochwertige Zartbitterschokolade zu verwenden. Je weniger Kakaoanteil die Schokolade hat, desto dezenter ist auch ihr Geschmack."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Mousse au Chocolat</Title>
+    <CustomRecipeSeoTitle position="1">Vegane Mousse au Chocolat – mit Aquafaba</CustomRecipeSeoTitle>
+    <Headline position="1">Vegane Mousse au Chocolat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-10T09:52:19+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82bue9hniw8ke6zb12m8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7166" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="1" suffix="-Wasser" plural="Kichererbsen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="3" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(optional)" plural="Vanillezucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt80lrczrxn1l1b3c0yrvm" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(60 – 70% Kakaoanteil)" position="5" plural="Zartbitterschokolade (vegan)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82bueb5l4covrmv12m8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9831" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Schokoraspel" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82buebrs0na21abu12m8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Dose oder Glas Kichererbsen durch ein Sieb abgießen und die Flüssigkeit dabei auffangen. Das ist Aquafaba – dein veganer Eischnee. Aquafaba in eine große Schüssel füllen und mit dem Schneebesen-Aufsatz einer Küchenmaschine oder dem elektrischen Handrührgerät aufschlagen. Sobald die Masse cremig ist, Backpulver, Puderzucker und Vanillezucker dazugeben und weiterrühren, bis der Schaum feste Spitzen bekommt. Das dauert ungefähr 5-8 Minuten. Veganen Eischnee zur Seite stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Veganer Eischnee aus Aquafaba</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82buebrs4no1acfzz12m8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schokolade in kleine Stücke brechen oder hacken und in einem Wasserbad oder in der Mikrowelle bei geringer Hitze schmelzen. Ab und an umrühren. Die geschmolzene Schokolade vom Herd nehmen und etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Schokolade schmelzen</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82buebrs4sn1dihxb12m8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Geschmolzene Schokolade nach und nach vorsichtig mit einem Schneebesen unter den Aquafaba-Schnee heben. Keine Sorge, wenn die Masse etwas zusammenfällt – das ist ganz normal! Es ist allerdings wichtig, dass die Schokolade nicht zu heiß ist und portionsweise untergehoben wird.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Mousse fertigstellen</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82buebrs4wp1cfwh612m8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Creme in Dessertgläser oder Schälchen füllen und für 3-4 Stunden oder über Nacht in den Kühlschrank stellen. Vor dem Servieren mit geraspelter Schokolade bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82buebrs50h1kklle12m8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Zartbitterschokolade sorgt dafür, dass die fluffige Mousse lecker-schokoladig schmeckt und vertreibt so die kleinste Note Kichererbse. Daher ist es wichtig, hochwertige Zartbitterschokolade zu verwenden. Je weniger Kakaoanteil die Schokolade hat, desto dezenter ist auch ihr Geschmack.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Die richtige Schokolade</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68c12fdb8d6d3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Menge Kichererbsenwasser in einer Dose oder einem Glas unterscheidet sich stark von Hersteller zu Hersteller. Wir haben die besten Erfahrungen mit Kichererbsen aus dem Glas gemacht. Hier haben die kleinen Hülsenfrüchte häufig am meisten Flüssigkeit.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Aquafaba</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7f1yuxu5ehv11ixf95tg" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c130a356af5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7f1yuvgw16e1fiuiu5ta" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c130ad5d959">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7f1yutf6m2suk9kc5t9" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c130af287c5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7f1yv1ianh510vb185td" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68c130b0bfe84">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCaption position="5" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mousse au chocolat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="5">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7f1yuqc3plu6c5j15ta" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86ix8lbzvaa13h4ic9v8" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T10:34:07+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-01T10:42:01+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Source topic="tmt86ixc8pxs78entabo2a"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Müsli ohne Zucker","recipe_seo_headline":null,"servings":null,"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Grundrezept Müslimischung","ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":"(nach Belieben halb/halb zarte und kernige Haferflocken)"},{"amount":100,"amountTo":null,"ingredient_name":"Kokosraspel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Nuss","unit":{"name":"g"},"prefix":null,"suffix":"gehackte (z. B. Haselnüsse, Walnüsse) oder Mandeln"},{"amount":100,"amountTo":null,"ingredient_name":"Trockenfrucht","unit":{"name":"g"},"prefix":null,"suffix":"ungesüßte (z. B. Datteln, Aprikosen, Cranberries)"},{"amount":4,"amountTo":null,"ingredient_name":"Kokosöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"EL"},"prefix":null,"suffix":"(optional)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Vanille","unit":{"name":"TL"},"prefix":null,"suffix":"gemahlene Bourbon- (vegan)"}]},{"headline":"Für die fertige Zubereitung außerdem (pro Portion)","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Sojadrink","unit":{"name":"ml"},"prefix":null,"suffix":"oder Haferdrink"},{"amount":100,"amountTo":null,"ingredient_name":"Obst","unit":{"name":"g"},"prefix":null,"suffix":"frisches nach Belieben (z. B. Beeren, Weintrauben, kleingeschnittene Äpfel, Bananen oder Birnen)"}]}],"preparation":[{"headline":null,"content":"Haferflocken mit Kokosraspeln und gehackten Nüssen vermischen. Trockenfrüchte fein hacken."},{"headline":null,"content":"Kokosöl in einer weiten, beschichteten Pfanne erhitzen, ggfs. den Agavendicksaft einrühren. Nun die Haferflocken-Mischung hinzufügen und alles bei mittlerer Hitze ca. 5 Minuten kräftig anrösten. Gehackte Trockenfrüchte, Zimt und Vanille hinzufügen und nochmals ca. 2 Minuten weiterrösten. Fertige Müslimischung gut auskühlen lassen."},{"headline":null,"content":"Die ausgekühlte Müsli-Mischung in einen luftdichtverschließbaren Behälter oder ein Einmachglas füllen, damit sie schön knusprig bleibt. Die Müslimischung hält sich trocken gelagert ca. 4 Wochen und kann portionsweise entnommen werden."},{"headline":null,"content":"Für die fertige Zubereitung je ca. 75 g Müslimischung mit Pflanzendrink vermischen, nach Belieben frisches Obst unterheben."}],"recipe_tips":[{"headline":null,"content":"Die Grundmischung kann auch beliebig mit Dinkel- oder anderen Vollkornflocken variiert werden. Statt gehackter Nüsse können z. B. auch Sonnenblumenkerne verwendet werden. Für eine nicht vegane Zubereitung der Grundmischung kann auch Honig statt Agavendicksaft verwendet werden."}]}</CustomStructuredRecipeJson>
+    <Title>Müsli ohne Zucker</Title>
+    <Headline position="1">Müsli ohne Zucker</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T10:34:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86ix8hczrs71xkdo9v8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8396" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Haselnüsse, Walnüsse) oder Mandeln" plural="Nüsse" position="3" prefix="gehackte "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10751" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(z. B. Datteln, Aprikosen, Cranberries)" plural="Trockenfrüchte" position="4" prefix="ungesüßte "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10771" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(vegan)" plural="Vanille" position="8" prefix="gemahlene Bourbon- "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(nach Belieben halb/halb zarte und kernige Haferflocken)" plural="Haferflocken" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosraspeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kokosöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(optional)" plural="Agavendicksaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zimt" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Grundrezept Müslimischung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="86ix8km4ny1gwrdt9v8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8421" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="nach Belieben (z. B. Beeren, Weintrauben, kleingeschnittene Äpfel, Bananen oder Birnen)" plural="Obst" position="2" prefix="frisches "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10181" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="oder Haferdrink" plural="Sojadrinks" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die fertige Zubereitung außerdem (pro Portion)</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86ix8lbz67qrs5x99v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Haferflocken mit Kokosraspeln und gehackten Nüssen vermischen. Trockenfrüchte fein hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ix8lbzeomlz9p19v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Kokosöl in einer weiten, beschichteten Pfanne erhitzen, ggfs. den Agavendicksaft einrühren. Nun die Haferflocken-Mischung hinzufügen und alles bei mittlerer Hitze ca. 5 Minuten kräftig anrösten. Gehackte Trockenfrüchte, Zimt und Vanille hinzufügen und nochmals ca. 2 Minuten weiterrösten. Fertige Müslimischung gut auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ix8lbzev9pdult9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die ausgekühlte Müsli-Mischung in einen luftdichtverschließbaren Behälter oder ein Einmachglas füllen, damit sie schön knusprig bleibt. Die Müslimischung hält sich trocken gelagert ca. 4 Wochen und kann portionsweise entnommen werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86ix8lbzezd1enac29v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Für die fertige Zubereitung je ca. 75 g Müslimischung mit Pflanzendrink vermischen, nach Belieben frisches Obst unterheben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86ix8lbzf35jjw569v8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Grundmischung kann auch beliebig mit Dinkel- oder anderen Vollkornflocken variiert werden. Statt gehackter Nüsse können z. B. auch Sonnenblumenkerne verwendet werden. Für eine nicht vegane Zubereitung der Grundmischung kann auch Honig statt Agavendicksaft verwendet werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd2ll6i521cg0191id" file_variant="master" position="1">MusliohneZucker0384.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44d2c13976b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd0mocqcjfqxmk1if" file_variant="master" position="1">MusliohneZucker_0330.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44d2c3de21c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd5oicxogflb31ig" file_variant="master" position="1">MusliohneZucker0394.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a44d2c80150f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd2hjai89mmu1d1id" file_variant="master" position="1">MusliohneZucker_0327.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6a44d2ca1428f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd7p2n6924i6zs1ib" file_variant="master" position="1">MusliohneZucker0364.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_6a44d2cc1fb49">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCredit position="6">Andreas Hantschke</ImageCredit>
+      <DocumentRef doc_id="doc79yd0ulcuit1dagam1ib" file_variant="master" position="1">MusliohneZucker0380.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

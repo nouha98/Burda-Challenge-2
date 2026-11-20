@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81qtfsd5u02u3mwz3ka" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-31T11:44:41+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-07-31T11:53:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="360"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrki12cchrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsw218sdv7do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsk0wz1eido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtut1hcf7ndo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spekulatius Torte","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Kühlen","duration":360}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Keksboden","ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Spekulatiusbrösel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":"geschmolzen"}]},{"headline":"Für die Füllung","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":"natur, doppelrahmstufe"},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Spekulatiusgewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Mandarinen","unit":{"name":"Dose"},"prefix":"kleine","suffix":null}]},{"headline":"Für die Dekoration","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Spekulatiusbrösel","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Spekulatiuskekse","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Boden","content":"Die Spekulatiuskekse in einen Gefrierbeutel geben und mit einem Wellholz zu feinen Bröseln zerkleinern. 2 EL Brösel für die Dekoration zurückhalten. Butter schmelzen und mit den Bröseln mischen, die Bröselmischung in eine Springform 26 cm Durchmesser geben und mit einem Löffel festdrücken."},{"headline":"Für die Füllung","content":"4 Blatt Gelatine in kaltem Wasser einweichen. Schmand mit Frischkäse und Zucker glattrühren, während dem Rühren die Sahne langsam einfließen lassen. Mit Spekulatiusgewürz und Vanilleextrakt aromatisieren. Die Gelatine gut ausdrücken und über dem heißen Wasserbad auflösen, esslöffelweise die Creme darunterziehen. Die Mandarinen durch ein Sieb schütten und mit einem Küchenkrepp trocken tupfen. Die Mandarinen auf dem Boden verteilen, dann die Spekulatiuscreme auf dem Boden verteilen und glattstreichen. Die Torte für 6 Stunden Kühlstellen und den Rand mit den Bröseln dekorieren und 12 halbe Spekulatiuskekse in den Rand stecken."}],"recipe_tips":[{"headline":"Gelatine darf nicht zu heiß werden","content":"Das Wasser muss nicht sprudelnd kochen, es reicht wenn es gut dampft, um die Gelatine aufzulösen."}]}</CustomStructuredRecipeJson>
+    <Title>Spekulatius Torte</Title>
+    <Headline position="1">Spekulatius Torte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-31T11:44:41+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81qtfpu4c8w16pzji3ka">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10306" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" suffix="Brösel" plural="Spekulatius"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="geschmolzen" plural="Butter" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Keksboden</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81qtfq5njolr96da3ka">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="natur, doppelrahmstufe" plural="Frischkäse" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10311" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Spekulatiusgewürz" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7931" amount="2" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" prefix="kleine" plural="Mandarinen" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81qtfrv23l0dor633ka">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10306" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" suffix="Brösel" plural="Spekulatius"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10306" amount="6" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="2" plural="Spekulatius"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81qtfsd5sgh11hvuk3ka">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Spekulatiuskekse in einen Gefrierbeutel geben und mit einem Wellholz zu feinen Bröseln zerkleinern. 2 EL Brösel für die Dekoration zurückhalten. Butter schmelzen und mit den Bröseln mischen, die Bröselmischung in eine Springform 26 cm Durchmesser geben und mit einem Löffel festdrücken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Boden</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81qtfsd5t43140tgh3ka">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">4 Blatt Gelatine in kaltem Wasser einweichen. Schmand mit Frischkäse und Zucker glattrühren, während dem Rühren die Sahne langsam einfließen lassen. Mit Spekulatiusgewürz und Vanilleextrakt aromatisieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für die Füllung</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_688b3bac09970">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Gelatine gut ausdrücken und über dem heißen Wasserbad auflösen, esslöffelweise die Creme darunterziehen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_688b3bc157770">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Mandarinen durch ein Sieb schütten und mit einem Küchenkrepp trocken tupfen. Die Mandarinen auf dem Boden verteilen, dann die Spekulatiuscreme auf dem Boden verteilen und glattstreichen. Die Torte für 6 Stunden Kühlstellen und den Rand mit den Bröseln dekorieren und 12 halbe Spekulatiuskekse in den Rand stecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81qtfsd5tcx1jlkr63ka">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Das Wasser muss nicht sprudelnd kochen, es reicht wenn es gut dampft, um die Gelatine aufzulösen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gelatine darf nicht zu heiß werden</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814paondaa1ol8k9coq" file_variant="master" position="1">SpekulatiusTorteohneBacken2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688b3d087c629">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814pat0voiv1g8au6cos" file_variant="master" position="1">SpekulatiusTorteohneBackenStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688b3d09d86b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814paw6pcc411s61tfs2" file_variant="master" position="1">SpekulatiusTorteohneBackenStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688b3d0b3699b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814payspjd2vv7l3coq" file_variant="master" position="1">SpekulatiusTorteohneBacken1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

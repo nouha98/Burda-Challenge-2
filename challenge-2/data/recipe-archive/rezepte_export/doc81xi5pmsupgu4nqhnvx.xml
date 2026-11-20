@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81xi5pmsupgu4nqhnvx" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-13T12:04:13+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-08-13T12:10:09+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Maracuja Limonade","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Ruhen/Warten","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Sirup","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Maracujas","unit":{"name":"Stück"},"prefix":null,"suffix":"(Fruchtfleisch und Kerne)"},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Orangen","unit":{"name":"Stück"},"prefix":null,"suffix":"(100 ml Saft davon)"}]},{"headline":"Zum Servieren","ingredients":[{"amount":16,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Minze","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":null}]}],"preparation":[{"headline":null,"content":"Für den Sirup die Maracujas in der Mitte halbieren, mit einem Löffel die Kerne und das Fruchtfleisch herausholen und zusammen mit Zucker, Wasser in einen Topf geben. Die Mischung zum Kochen bringen."},{"headline":null,"content":"Währenddessen die Orangen auspressen, sodass 100 ml Saft aufgefangen wird, diesen zum Sirup geben. Den Sirup sprudelig aufkochen, dann vom Herd nehmen und ca. 5 Min. ziehen lassen."},{"headline":null,"content":"Den Sirup vollständig auskühlen lassen, dann zum Servieren zwei Gläser (à 300 ml Fassungsvermögen) mit je 8 Eiswürfeln füllen. Den Maracuja-Sirup darüber gießen und die Gläser mit Mineralwasser auffüllen. Die Limonade mit frischer Minze garnieren und direkt servieren."}],"recipe_tips":[{"headline":"So erkennst du eine reife Maracuja","content":"Wenn Maracujas reif sind, ist die Haut der Frucht meist schon etwas schrumpelig und mit kleinen Dellen übersäht. Die Maracuja duftet außerdem kräftig."}]}</CustomStructuredRecipeJson>
+    <Title>Maracuja Limonade</Title>
+    <Headline position="1">Maracuja Limonade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-13T12:04:13+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81xi5n3kch415a7scnvx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8016" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Fruchtfleisch und Kerne)" plural="Maracujas" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="2" max_amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(100 ml Saft davon)" position="4" amount_max="3" plural="Orangen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Sirup</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81xi5o5pxycpr000nvx">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="16" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas frische" position="3" plural="Minze"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Zum Servieren</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81xi5pmsna1rwty4nvx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Maracujas in der Mitte halbieren, mit einem Löffel die Kerne und das Fruchtfleisch herausholen und zusammen mit Zucker, Wasser in einen Topf geben. Die Mischung zum Kochen bringen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Sirup </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81xi5pmsqurws1nsnvx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Währenddessen die Orangen auspressen, sodass 100 ml Saft aufgefangen wird, diesen zum Sirup geben. Den Sirup sprudelig aufkochen, dann vom Herd nehmen und ca. 5 Min. ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81xi5pmsr0mvs2hcnvx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Sirup vollständig auskühlen lassen, dann zum Servieren zwei Gläser (à 300 ml Fassungsvermögen) mit je 8 Eiswürfeln füllen. Den Maracuja-Sirup darüber gießen und die Gläser mit Mineralwasser auffüllen. Die Limonade mit frischer Minze garnieren und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81xi5pmsr51nhmounvx">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn Maracujas reif sind, ist die Haut der Frucht meist schon etwas schrumpelig und mit kleinen Dellen übersäht. Die Maracuja duftet außerdem kräftig.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">So erkennst du eine reife Maracuja</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81b07ydrc051howm1rru" file_variant="master" position="1">MaracujaLimonade3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689c645314047">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81b08aksev6b0le9s61" file_variant="master" position="1">MaracujaLimonadeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_689c64593dabf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81b087jf4c1yike3rr2" file_variant="master" position="1">MaracujaLimonadeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_689c646c7269a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81b07vsw83ke9xeeos7" file_variant="master" position="1">MaracujaLimonade1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_689c646eded45">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81b07mv5znmfz08pos7" file_variant="master" position="1">MaracujaLimonade2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

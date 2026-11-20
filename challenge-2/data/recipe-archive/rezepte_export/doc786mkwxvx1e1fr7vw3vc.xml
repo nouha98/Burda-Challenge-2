@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786mkwxvx1e1fr7vw3vc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T07:48:36+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:54:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomCenshareId>732288</CustomCenshareId>
+    <Title position="1">Mangosauce mit Curry</Title>
+    <Headline position="1">Mangosauce mit Curry</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">65</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">280</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">11</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T14:55:14+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="27007b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs"/>
+      <CustomRecipeIngredient topic="tmt786c2j82tpgnwt0w3h3" amount="2" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782q7wepzmge93tw8gz" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782p5vkyenl1976718gz" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="2" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="2700cb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mangos schälen, das Fruchtfleisch von Stein schneiden und würfeln. Chilischote längs halbieren, entkernen, abbrausen und würfeln. 2/3 der Mango mit 1 EL Currypulver, Chilischote, 2 TL Honig und Saft von 2 Zitronen im Mixer fein pürieren. Lauchzwiebeln waschen, putzen, in feine Ringe schneiden. Mit den restlichen Mangowürfeln unter die Sauce mischen, mit Salz, Pfeffer und Currypulver abschmecken.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bejfrj9ah17byk772b" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T14:55:14+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_732288</displayname>
+      <doc_id id="doc786mkwxvx1e1fr7vw3vc"/>
+      <hash>f3a842e92555d02640df8d94b922a83b</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T14:55:14+01:00</modified>
+      <size>3044</size>
+      <subpath>2019/12-08/48/40/file78bejfrj9ah17byk772b.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

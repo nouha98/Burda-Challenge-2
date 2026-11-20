@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87btcq62phk1kj7u7qx2" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-26T16:04:46+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-08-26T17:06:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="8" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt87bu5hmpwkywnr59rc6"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pumpkin-Mandel-Spice Latte","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":{"calories":215,"kilojoule":900,"carbonhydrates":10,"fat":18,"protein":4,"breadunit":1}},"recipe_groups":[{"headline":"Am Vortag","ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Hokkaido-Kürbis","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Zum Servieren","ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"gehackte Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"geröstete Mandelmilch","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Pumpkin-Spice","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"heißer Espresso","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Mandelmilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pumpkin-Spice","unit":null,"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":"Am Vortag","content":"Hokkaido-Kürbis waschen, putzen und würfeln. In wenig Wasser ca. 20 Minuten weichkochen. Abgießen, fein pürieren und kalt stellen."},{"headline":"Zum Servieren","content":"Schlagsahne mit Bourbon-Vanillezucker steif schlagen und in einen Spritzbeutel mit Sterntülle geben. Gehackte Mandeln rösten. Geröstete Mandelmilch mit dem Kürbispüree erhitzen und mit Pumpkin-Spice und braunem Zucker abschmecken. Heißen Espresso auf 8 Gläser verteilen. Milch-Mix darauf verteilen. Mandelmilch erwärmen, aufschäumen und darauf verteilen. Mit Sahnetuffs, Mandeln und Pumpkin-Spice garnieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Pumpkin-Mandel-Spice Latte</Title>
+    <CustomRecipeNutritionalValueCalories position="1">215</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">900</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">10</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">18</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Pumpkin-Mandel-Spice Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-26T16:04:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87btcuhfgwova3h19jq">
+      <CustomRecipeIngredient topic="tmt827rk1rt1rk17z44o21rq" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Hokkaido-Kürbise" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" position="2" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" position="3" amount="1" unit_topic="tmt8255nhdwwbm12e628f8n" unit="Päckchen" plural="Bourbon-Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="4" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gehackte" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" position="5" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg" unit="l" prefix="geröstete" plural="Mandeldrink"/>
+      <CustomRecipeIngredient topic="tmt8455m3mszt11afisfpwf" position="6" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Pumpkin-Spice-Gewürzmischung"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" position="7" amount="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" position="8" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="heißer" plural="Espressi"/>
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" position="9" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Mandeldrink"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87btcz5wfmb1nab289jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Am Vortag Hokkaido-Kürbis waschen, putzen und würfeln. In wenig Wasser ca. 20 Minuten weichkochen. Abgießen, fein pürieren und kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87btcz5wfww14lcv49jq">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zum Servieren Schlagsahne mit Bourbon-Vanillezucker steif schlagen und in einen Spritzbeutel mit Sterntülle geben. Gehackte Mandeln rösten. Geröstete Mandelmilch mit dem Kürbispüree erhitzen und mit Pumpkin-Spice und braunem Zucker abschmecken. Heißen Espresso auf 8 Gläser verteilen. Milch-Mix darauf verteilen. Mandelmilch erwärmen, aufschäumen und darauf verteilen. Mit Sahnetuffs, Mandeln und Pumpkin-Spice garnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Spiced Kürbis-Mandel-Latte macchiato</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc86ojnspm7k34rk9ukml" file_variant="master" position="1">Spiced Kürbis-Mandel-Latte macchiato</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

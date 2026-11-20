@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2jcq84rslijhbgeo" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T15:50:17+02:00</created>
+  <identifier></identifier>
+  <modcount>13</modcount>
+  <modified>2024-12-03T09:13:22+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <Creator topic="tmt6uapossyr5ddl3oeepl" position="1"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="8"/>
+    <CustomBlpId position="1">37223</CustomBlpId>
+    <Headline position="1">Gurken-Mojito</Headline>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:Importiert</CustomBlpDataField>
+    <Title>Gurken-Mojito</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2018-05-04T00:00:00+02:00</DateCreated>
+    <DateImported>2020-08-27T15:50:17+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="99a67f">
+      <CustomRecipeIngredient topic="tmt782lpzvcmc4141jwo8gz" amount="5" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt78664mvdrfn2ezuwidm" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt796n3vpzmwh18xikuffs" amount="1" unit_topic="tmt71k9kl5192ql9oe2dbg"/>
+      <CustomRecipeIngredient topic="tmt796n3yiwuf8hwmisffs" amount="0.5" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt782p5vwquibt9l698gz" amount="5" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt796n3r6glio173y0ffr" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt7869n1nd2z8uu4vzavd" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="99a6dc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Salatgurke waschen, in dünne Scheiben schneiden. Limetten heiß waschen, mit einem Sparschäler 8 Schalenstücke abschälen. Limetten auspressen. Saft mit braunem Zucker und weißem Rum gut verrühren. In Cocktailgläsern mit Eiswürfel verteilen. Gurkenscheiben, Limettenschale und Zitronenmelisseblättchen dazugeben, mit Mineralwasser auffüllen und umrühren. Gurken-Mojito servieren.
+I</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef file_variant="master" doc_id="blpbild-3094658" position="1">Gurken-Mojito
+mit Ambiente
+</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jcqgzz611jm1lngeo" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:50:18+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jcq84rslijhbgeo"/>
+      <hash>34f0d0ae23ddf6334ed6ce5097d7fa41</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T15:50:18+02:00</modified>
+      <size>8012</size>
+      <subpath>2020/08-27/88/4c/file7c2jcqgzz611jm1lngeo.xml</subpath>
+      <type>original</type>
+      <variant>image_metadata_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jcqilanm12r2c5geo" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:50:18+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jcq84rslijhbgeo"/>
+      <hash>c859402132822acb7fe47a8529b0928e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T15:50:18+02:00</modified>
+      <size>2934</size>
+      <subpath>2020/08-27/d4/01/file7c2jcqilanm12r2c5geo.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2jcqff81f1e7fb2geo" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T15:50:18+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2jcq84rslijhbgeo"/>
+      <hash>862d9b7cccd5b28d54ddb9642cf5e28c</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>4</modcount>
+      <modified>2020-08-27T15:50:18+02:00</modified>
+      <size>769</size>
+      <subpath>2020/08-27/69/65/file7c2jcqff81f1e7fb2geo.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

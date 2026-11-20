@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8740ak8afkxgwcz4fea" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-11T11:24:51+02:00</created>
+  <identifier></identifier>
+  <modcount>14</modcount>
+  <modified>2026-08-11T11:38:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt8740gnweeubw7n2cfhi"/>
+    <CustomRecipeNutritionalValueKilojoule position="1">235</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">23</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">12</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">11</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kurkuma-Soja-Latte mit Zimt</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-11T11:24:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7ftmf6pepev1a6juq50l" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kurkumapulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="2" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" suffix="(ca. 30-40g)" plural="Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" position="3" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" prefix="geriebene" plural="Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10181" position="4" amount="700" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="ungesüßten" plural="Sojadrinks"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" position="5" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Agavendicksaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="6" amount="2" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" prefix="gemahlender" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="(zum Garnieren)" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" position="8" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kokosöl"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kurkuma mit 120 ml Wasser vertühren und erhitzen. Ingwer schälen und dazureiben, dann mit Muskat würzen. Flüssigkeit unter Rühren köcheln lassen, bis sich eine duftende Paste bildet. Diese von der Hitze nehmen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a7aebf64894d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Sojadrink erhitzen. Paste mit Agavendicksaft, Zimt und Kokosöl einrühren. 2 Minuten köcheln lassen. Kurkuma-Latte in Gläser füllen und mit Zimt bestäubt heiß servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Statt Sojadrink kann man auch ungesüßten Cashew-, Mandel- oder Haferdrink verwenden.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Firmston, Victoria</ImageCredit>
+      <DocumentRef doc_id="doc7ab5ir9txg4a99sj307" file_variant="master" position="1">Kurkuma Latte mit Zimt und Kardamom (vegan)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

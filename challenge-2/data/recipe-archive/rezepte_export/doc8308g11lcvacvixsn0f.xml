@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8308g11lcvacvixsn0f" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-27T20:06:22+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-30T12:16:42+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="240"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrohi5msvdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Toblerone Mousse","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":240}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Mousse","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Toblerone Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Toblerone fein hacken, Milch in einem kleinen Topf erwärmen und die Toblerone darin auflösen."},{"headline":null,"content":"Die Tobleronemilch für 1 Stunde kühl stellen, dabei gelegentlich umrühren."},{"headline":null,"content":"Sahne in einem hohen Rührbecher cremig aufschlagen lassen und vorsichtig unter die Schokomilch unterheben, die Mousse in die Dessertschälchen umfüllen und für min. 3 Stunden kühl stellen."},{"headline":null,"content":"Mit etwas gehackter Toblerone dekorieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Toblerone Mousse</Title>
+    <Headline position="1">Toblerone Mousse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-27T20:06:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8308g0g73086if1tn0f">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="Toblerone-" plural="Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Mousse</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8308g11l63mw5xf7n0f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Mousse die Toblerone fein hacken. Etwa 30 g der Schokolade (bei 4 Portionen) zum Dekorieren beiseitestellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8308g11l93l16mofjn0f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Milch in einem kleinen Topf erwärmen und die Toblerone darin auflösen. Die Tobleronemilch für 1 Stunde kühl stellen, dabei gelegentlich umrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8308g11l9956ad4dn0f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Sahne in einem hohen Rührbecher cremig aufschlagen, dann vorsichtig unter die abgekühlte Schokomilch heben. Die Mousse in die Dessertschälchen füllen und mindestens 3 Stunden kühl stellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8308g11l9cg526lqn0f">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Desserts kurz vor dem Servieren mit der gehackten Toblerone-Schokolade dekorieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mnrt70j08njgujfap" file_variant="master" position="1">Toblerone Mousse</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690348faa23eb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mnrwe4l8k89488hvo" file_variant="master" position="1">Toblerone Mousse</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690348fcd7397">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mnrooce4w7ygsdfb8" file_variant="master" position="1">Toblerone Mousse</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690348ff008ea">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Franziska Klausmann &amp; Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mnrlqie5k1f6mhuhzb" file_variant="master" position="1">Toblerone Mousse</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

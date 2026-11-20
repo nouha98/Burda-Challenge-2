@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83sxh6jiqsn1kdfbedsc" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-22T16:25:38+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-12-22T16:25:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" name="Vorbereitung" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="5"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zwetschgenmarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwetschgen","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"2:1"},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":"groß"}]}],"preparation":[{"headline":null,"content":"Die Zwetschgen waschen, halbieren, entkernen und würfeln. Die gewürfelten Zwetschgen mit dem Zucker und dem Saft der Zitrone in den Topf geben."},{"headline":null,"content":"Den Topf langsam erhitzen und unter ständigem Rühren aufkochen und die Zwetschgen verkochen lassen. Mit dem Pürierstab einmal durchmixen. Es dürfen noch leichte Stücke vorhanden sein. Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert."},{"headline":null,"content":"In heiß ausgespülte Gläser füllen und auf den Kopf stellen."}],"recipe_tips":[{"headline":"Mehr Gewürze","content":"Gib Zimt, Vanilleextrakt, Nelken oder Sternanis an deine Zwetschgenmarmelade um sie zu verfeinern."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Zwetschgenmarmelade</Headline>
+    <Title>Zwetschgenmarmelade</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-22T16:25:38+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83sxh5jh83bb5x52dsc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11491" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Zwetschgen" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="2:1" plural="Gelierzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" suffix="groß" plural="Zitronen" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83sxh6ji5f8ppfcwdsc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwetschgen waschen, halbieren, entkernen und würfeln. Die gewürfelten Zwetschgen mit dem Zucker und dem Saft der Zitrone in den Topf geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83sxh6jic9g4m88bdsc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Topf langsam erhitzen und unter ständigem Rühren aufkochen und die Zwetschgen verkochen lassen. Mit dem Pürierstab einmal durchmixen. Es dürfen noch leichte Stücke vorhanden sein. Die Marmelade sollte mindestens 5 Minuten kochen, damit sie geliert.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83sxh6jicfd16pa96dsc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In heiß ausgespülte Gläser füllen und auf den Kopf stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83sxh6jicjbw0r13dsc">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Gib Zimt, Vanilleextrakt, Nelken oder Sternanis an deine Zwetschgenmarmelade um sie zu verfeinern.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Mehr Gewürze</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84arlz1wlqqv48bltfd" dcx-version="6.3.1" version="1.0">
+  <created>2026-01-26T09:34:18+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-01-26T09:45:07+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv1lm3bbndo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Marzipan Pralinen","recipe_seo_headline":null,"servings":{"amount":30.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":90},{"name":"Backen","duration":8}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Marzipan Pralinen","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Marzipanrohmasse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Walnüsse","unit":{"name":"g"},"prefix":"fein gemahlen und geröstet","suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":"gesiebt","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rum","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Zartbitterkuvertüre","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Walnusshälften","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gemahlene Walnüsse auf ein Backblech streuen und bei 200 Grad Ober-/Unterhitze oder 180 Grad Umluft für 8 Minuten rösten. Die Nüsse vollständig auskühlen lassen."},{"headline":null,"content":"Die Marzipanrohmasse in einer Schüssel so lange kneten, bis sie weich und geschmeidig wird. Danach die gemahlenen Walnüsse und den Puderzucker untermischen. Mit etwas Rum verfeinern. Alles gut durchkneten, bis eine gleichmäßige Masse entsteht."},{"headline":null,"content":"Etwas Puderzucker auf die Arbeitsfläche geben, aus der Marzipanmasse eine 1 cm dicke Platte ausrollen."},{"headline":null,"content":"2x3,5 cm breite Rechtecke zuschneiden, mit etwas Abstand zueinander für 15 Minuten tiefgefrieren."},{"headline":null,"content":"Die Zartbitterkuvertüre fein hacken, im Wasserbad schmelzen. Dabei darauf achten, dass die Schokolade nicht zu heiß wird und zwischendurch gut umrühren."},{"headline":null,"content":"Die Marzipanpralinen in die geschmolzene Zartbitterkuvertüre tauchen, sodass sie rundum gut bedeckt sind, überschüssige Schokolade abtropfen lassen."},{"headline":null,"content":"Die Pralinen auf ein Gitter setzen, und kurz bevor sie anziehen, auf Backpapier legen und abkühlen lassen, jede Praline mit einer Walnusshälfte dekorieren und sie so lange anziehen lassen, bis die Schokolade fest geworden ist."},{"headline":null,"content":"Sobald die Schokolade vollständig ausgehärtet ist, sind die Marzipanpralinen mit Walnüssen bereit zum Genießen. In einer luftdichten Dose aufbewahren."}],"recipe_tips":[{"headline":"Mit etwas Orangenabrieb oder gefriergetrockneten Himbeeren","content":"Eine fruchtige Note verleihen. Jeweils 2 TL von oben genannten Zutaten zugeben und bei der Orangenvariante den Rum durch Cointreau und bei der Himbeervariante den Rum durch Himbeergeist ersetzen."}]}</CustomStructuredRecipeJson>
+    <Title>Marzipan Pralinen</Title>
+    <Headline position="1">Marzipan Pralinen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-01-26T09:34:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84arlwp0bh1ltiuxtfd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11001" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnusskerne" position="1" suffix="oder gemahlene Walnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8081" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Marzipanrohmasse" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gesiebt" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9396" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rum" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterkuvertüre" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Pralinen aus Marzipan</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6977281f0327d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zartbitterkuvertüre"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10996" position="2" amount="30" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Walnusskernhälften"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Dekoration</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6977284b64db0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="etwas" suffix="für die Arbeitsfläche" plural="Puderzucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1wdgo4sssatfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Walnüsse in einem Mixer fein mahlen. Die gemahlenen Walnüsse auf ein Backblech streuen und bei 200 Grad Ober-/Unterhitze (180 Grad Umluft) für 8 Minuten rösten. Die Nüsse vollständig auskühlen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Marzipanpralinen </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1wgoh15y7ettfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Marzipanrohmasse in einer Schüssel so lange kneten, bis sie weich und geschmeidig wird. Danach die gemahlenen Walnüsse dazugeben und den Puderzucker in die Schüssel sieben. Mit etwas Rum verfeinern. Alles gut durchkneten, bis eine gleichmäßige Masse entsteht.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1wgv6smjtttfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Etwas Puderzucker auf die Arbeitsfläche geben, die Marzipanmasse zu einer ca. 1 cm dicken, möglichst rechteckigen Platte ausrollen. Die Platte in ca. 2 cm dicke Streifen schneiden, jeden Streifen in ca. 3,5 cm lange Pralinen-Stücke schneiden. Pralinen mit etwas Abstand zueinander auf ein Brett und Tortenplatte legen und für 15 Minuten tiefgefrieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1wh0z14p9iitfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Zartbitterkuvertüre fein hacken, in einer Edelstahlschüssel im heißen Wasserbad eines Kochtopfs schmelzen. Dabei darauf achten, dass die Schokolade nicht zu heiß wird und zwischendurch gut umrühren. Die Marzipanpralinen in die geschmolzene Zartbitterkuvertüre tauchen, sodass sie rundum gut bedeckt sind, überschüssige Schokolade abtropfen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Dekoration </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1wh6hbk7j7tfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die Pralinen auf ein Gitter setzen und kurz bevor sie anziehen (die Schokolade fest wird), auf Backpapier legen. Jede Praline mit einer Walnusshälfte dekorieren und sie so lange abkühlen lassen, bis die Schokolade fest geworden ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84arlz1whbmpjc6gtfd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Sobald die Schokolade vollständig ausgehärtet ist, sind die Marzipanpralinen mit Walnüssen bereit zum Genießen. In einer luftdichten Dose halten sich die Pralinen mit Marzipan für mehrere Wochen. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84arlz1whshyvu6qtfd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst den Pralinen mit etwas Orangenabrieb oder gefriergetrockneten Himbeeren eine fruchtige Note verleihen: Jeweils dem Marzipan 2 TL von den oben genannten Zutaten zugeben und bei den Marzipan-Orangen-Pralinen den Rum durch Cointreau und bei der Himbeervariante den Rum durch Himbeergeist ersetzen. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Fruchtige Note</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8412e590hvo15axepdb5" file_variant="master" position="1">Marzipan-Pralinen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6977298ec7978">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8412e21da6117ac3aavk" file_variant="master" position="1">Marzipan-Pralinen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69772990adddd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8412dv14k47c9r7ob4m" file_variant="master" position="1">Marzipan-Pralinen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69772992261ba">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8412dzn75wjdl2ppdb5" file_variant="master" position="1">Marzipan-Pralinen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7dbmysxk7896eu4uhpz" dcx-version="6.3.1" version="1.0">
+  <created>2020-11-23T09:25:00+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2022-04-20T15:32:56+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <Keywords topic="tmt7dbn0ssmaeo8l236hq1"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <DateImported>2020-11-23T09:25:00+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">90</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">13</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">2</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">4</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Lebkuchen Grundrezept</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="0" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="3" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="4" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="abgezogene, gemahlene" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7716" position="5" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Lebkuchengewürz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8896" position="6" amount="5" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Pottasche"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Honig, Zucker und Butter in einem Topf unter Rühren so lange erhitzen, bis sich der Zucker vollständig aufgelöst hat. An­schließend abkühlen lassen. Mehl mit Mandeln und Gewürzmischung vermengen. Pottasche in 1 EL Wasser anrühren. Mit der Honigmasse zum Mehl geben und alles zu einem glatten Teig verkneten. Den Teig in Folie gewickelt ca. 12 Std. kühlen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_5fbb724a1ce1e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Den Teig 5 mm dick ausrollen. Plätzchen ausstechen. Auf 2 mit Back­papier belegten Blechen je 10 Min. backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Hendey, Magdalena</ImageCredit>
+      <DocumentRef doc_id="doc7bq2eu6ya6cvqcxie6j" file_variant="master" position="1">Lebkuchenteig mit Ausstechformen und Teigroller</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84yemnfqogivx85njyg" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-13T09:44:14+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-13T09:56:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rupw15cny7do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apfel-Bananen-Smoothie","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":null}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Vanillepulver","unit":{"name":"Messerspitze"},"prefix":null,"suffix":"(alternativ: Zimt)"},{"amount":150,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Banane von der Spitze nach unten hin schälen und grob zerteilen."},{"headline":null,"content":"Apfel waschen, vierteln und entkernen. Zwei dünne Scheiben abschneiden und zum Garnieren beiseitelegen."},{"headline":null,"content":"Alle Zutaten in ein hohes Gefäß füllen und mit einem Pürierstab zu einer homogenen Konsistenz verarbeiten."},{"headline":null,"content":"Smoothie auf zwei Gläser aufteilen, mit den Apfelschnitzen garnieren und mit Trinkhalm genießen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Apfel-Bananen-Smoothie</Title>
+    <Headline position="1">Apfel-Bananen-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-13T09:44:14+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84yemlpdi8x16andsjyg">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10811" amount="1" unit="Messerspitze" unit_topic="tmt71k9ly2ap5f1c6vo2ive" suffix="(alternativ: Zimt)" plural="Vanillepulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84yemnfqlgobsfr1jyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Banane von der Spitze nach unten hin schälen und grob zerteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yemnfqnpi1che09jyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Apfel waschen, vierteln und entkernen. Zwei dünne Scheiben abschneiden und zum Garnieren beiseitelegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yemnfqntz1l2h4zjyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Alle Zutaten in ein hohes Gefäß füllen und mit einem Pürierstab zu einer homogenen Konsistenz verarbeiten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84yemnfqnxzwepjkjyg">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Smoothie auf zwei Gläser aufteilen, mit den Apfelschnitzen garnieren und mit Trinkhalm genießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apfel-Bananen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7muvbwgq4thsrv662lt" file_variant="master" position="1">Apfel-Bananen-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69b3d141ebd44">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apfel-Bananen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7muv61g1ajai5jak47n" file_variant="master" position="1">Apfel-Bananen-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69b3d143b680d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apfel-Bananen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7muv2vklcglqf55u47n" file_variant="master" position="1">Apfel-Bananen-Smoothie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69b3d1456e4c5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Apfel-Bananen-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Hans Gerlach</ImageCredit>
+      <DocumentRef doc_id="doc7muv9watuvshen9e2nj" file_variant="master" position="1">Apfel-Bananen-Smoothie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

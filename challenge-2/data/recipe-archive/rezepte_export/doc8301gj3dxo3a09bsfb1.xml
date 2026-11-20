@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8301gj3dxo3a09bsfb1" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-27T11:02:31+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-27T11:05:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kirschsoße","recipe_seo_headline":"Kirschsoße -","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Sauerkirschen","unit":{"name":"Glas"},"prefix":null,"suffix":"(720 ml)"},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":"3-4","amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Kirschsoße die Sauerkirschen in einem Sieb abtropfen lassen und dabei den Kirschsaft auffangen. Etwa 6 EL Kirschsaft abnehmen, in einer Schüssel mit der Speisestärke glatt rühren und beiseitestellen."},{"headline":null,"content":"Die Sauerkirschen zusammen mit dem restlichen Kirschsaft in einen kleinen Topf geben, mit Zucker und einer Prise Zimt vermengen und bei niedriger Hitze kurz aufkochen lassen. Die Speisestärke-Saft-Mischung einrühren und unter ständigem Rühren erneut aufkochen."},{"headline":null,"content":"Die Soße leise köcheln lassen, bis sie eindickt und die gewünschte Konsistenz erreicht ist. Nach Wunsch sofort servieren oder abkühlen lassen. Die Kirschsoße hält sich im Kühlschrank etwa 5 Tage. Lass es dir schmecken!"}],"recipe_tips":[{"headline":"Kirschsoße würzen","content":"Du kannst unser Grundrezept für Kirschsoße ganz nach deinem Geschmack und mit unterschiedlichen Aromen variieren! Koche die Sauerkirschen doch mal mit etwas Zitronen- oder Orangenzeste, Nelken oder einer Vanilleschote."}]}</CustomStructuredRecipeJson>
+    <Title>Kirschsoße</Title>
+    <CustomRecipeSeoTitle position="1">Kirschsoße -</CustomRecipeSeoTitle>
+    <Headline position="1">Kirschsoße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-27T11:02:31+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8301ghxkbfr1jsphdfb1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9636" amount="1" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(720 ml)" plural="Sauerkirschen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Speisestärke" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="3" amount_max="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="4" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8301gj3de81ghx99fb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Sauerkirschen in einem Sieb abtropfen lassen und dabei den Kirschsaft auffangen. Etwa 6 EL Kirschsaft abnehmen, in einer Schüssel mit der Speisestärke glatt rühren und beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Kirschsoße </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8301gj3dn6flu5upfb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Sauerkirschen zusammen mit dem restlichen Kirschsaft in einen kleinen Topf geben, mit Zucker und einer Prise Zimt vermengen und bei niedriger Hitze kurz aufkochen lassen. Die Speisestärke-Saft-Mischung einrühren und unter ständigem Rühren erneut aufkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8301gj3dncmcexxyfb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Soße leise köcheln lassen, bis sie eindickt und die gewünschte Konsistenz erreicht ist. Nach Wunsch sofort servieren oder abkühlen lassen. Die Kirschsoße hält sich im Kühlschrank etwa 5 Tage. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8301gj3dngw10qak3fb1">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst unser Grundrezept für Kirschsoße ganz nach deinem Geschmack und mit unterschiedlichen Aromen variieren! Koche die Sauerkirschen doch mal mit etwas Zitronen- oder Orangenzeste, Nelken oder einer Vanilleschote.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Kirschsoße würzen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7d600nt9rywbpk2j1st" dcx-version="6.3.1" version="1.0">
+  <created>2020-11-12T10:05:55+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <Keywords topic="tmt7d6023gnlybg51td1sk"/>
+    <DateImported>2020-11-12T10:05:55+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">280</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">2</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">19</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">21</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Zwiebel-Champignon-Rührei</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5311" position="0" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="braune" plural="Champignons"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="2" amount="8" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="3" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="4" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="5" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="6" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="7" amount="2" prefix="Handvoll frische" plural="Kräuter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Champignons putzen, bei Bedarf abreiben  und  in  Scheiben  schnei-den.   Zwiebel   abziehen,   in   sehr   feine Scheiben schneiden. Eier mit dem  Rührgerät  oder  Schneebesen  verquirlen.  Milch  unterrühren  und  die  Eimasse  mit  Salz  und  Pfeffer  abschmecken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_5facfb5361a3b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Öl in einer großen Pfanne erhit-zen. Zwiebelringe darin kurz glasig andünsten,   dann   Pilze   zugeben   und     ebenfalls     anbraten.     Ei- Mischung  dazugeben  und  kurz  in  der  Pfanne  stocken  lassen.  Dann  vorsichtig     verrühren,     bis     die     gesamte Eimasse fest ist. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_5facfb5487578">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Kräuter waschen, trocken tupfen in   grobe   Streifen   hacken.   Das   Rührei noch mal abschmecken und mit Kräutern servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Omelet with champignons on wooden board</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">gbh007</ImageCredit>
+      <DocumentRef doc_id="doc7cursg0ezkz2ois87wd" file_variant="master" position="1">Omelette with mushrooms on wooden board</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

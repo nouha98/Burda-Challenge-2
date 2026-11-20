@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82diighftcm1h9n1jeit" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-13T15:52:07+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-09-13T16:03:18+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="1" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bigunreuho4y438w0"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnk1rdflido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganes Low Carb Brot","recipe_seo_headline":"Veganes Low Carb Brot – gesund &amp; lecker!","servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5},{"name":"Backen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Geschrotete Leinsamen","unit":{"name":"EL"},"prefix":null,"suffix":"(ca. 40 g)"},{"amount":4,"amountTo":null,"ingredient_name":"Gemahlene Flohsamenschalen","unit":{"name":"EL"},"prefix":null,"suffix":"(ca. 25 g)"},{"amount":200,"amountTo":null,"ingredient_name":"Gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Sonnenblumenkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Kürbiskerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":"(ca. 4g)"},{"amount":280,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":"warm","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Alle Zutaten gründlich in einer großen Schüssel vermengen. Abdecken und 10 Minuten bei Raumtemperatur ziehen lassen. Dadurch entsteht ein formbarer Teig. Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen."},{"headline":null,"content":"Ein Backblech mit Backpapier belegen. Die Hände etwas anfeuchten und aus dem Teig einen länglichen Brotlaib formen. Optional mit einigen Kürbiskernen und Sonnenblumenkernen bestreuen. Alternativ kannst du eine Kastenform mit Backpapier auslegen und den geformten Brotlaib in die Form legen."},{"headline":null,"content":"Das Low Carb Brot 60-70 Minuten auf der mittleren Schiene backen. Wenn an einem Holzstäbchen, das du in die Mitte des Brotlaibs steckst beim Herausziehen nur noch vereinzelt Krümel hängen bleiben, ist das Brot fertig. Aus dem Ofen nehmen und ca. 20 Minuten auf einem Kuchengitter abkühlen lassen."}],"recipe_tips":[{"headline":"Haltbarkeit","content":"Statt Guarkernmehl kann man natürlich auch Flohsamenschalen, Johannisbrotkernmehl oder Xanthan verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Veganes Low Carb Brot</Title>
+    <CustomRecipeSeoTitle position="1">Veganes Low Carb Brot – gesund &amp; lecker!</CustomRecipeSeoTitle>
+    <Headline position="1">Veganes Low Carb Brot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-13T15:52:07+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82diicdmoki165tdmeit">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ca. 40 g)" position="1" plural="Leinsamen" prefix="geschrotete"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6021" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ca. 25 g)" position="2" plural="Flohsamenschalen" prefix="gemahlene"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="gemahlene Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10226" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sonnenblumenkerne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7556" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kürbiskerne" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(ca. 4g)" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="280" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="warmes" plural="Wasser" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82diighcob65vzhneit">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten gründlich in einer großen Schüssel vermengen. Abdecken und 10 Minuten bei Raumtemperatur ziehen lassen. Dadurch entsteht ein formbarer Teig. Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82diighexczrp4hveit">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ein Backblech mit Backpapier belegen. Die Hände etwas anfeuchten und aus dem Teig einen länglichen Brotlaib formen. Optional mit einigen Kürbiskernen und Sonnenblumenkernen bestreuen. Alternativ kannst du eine Kastenform mit Backpapier auslegen und den geformten Brotlaib in die Form legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82diighexidm3j74eit">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das Low Carb Brot 60-70 Minuten auf der mittleren Schiene backen. Wenn an einem Holzstäbchen, das du in die Mitte des Brotlaibs steckst, beim Herausziehen nur noch vereinzelt Krümel hängen bleiben, ist das Brot fertig. Aus dem Ofen nehmen und ca. 20 Minuten auf einem Kuchengitter abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82diighexrcdkp3aeit">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Statt Guarkernmehl kann man natürlich auch Flohsamenschalen, Johannisbrotkernmehl oder Xanthan verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_68c5779c958be">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Backe direkt zwei Laibe und friere eine Hälfte in Scheiben ein. So hast du immer eine schnelle Low Carb Mahlzeit parat – perfekt für stressige Tage.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Meal-Prep leicht gemacht</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299q75q0ev1k2cjap7n" file_variant="master" position="1">Low_Carb_Brot_25718.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c57996df2e6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299qa87uwm1mtpbfka" file_variant="master" position="1">Veganes_Low_Carb_Brot_25544.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c5799833516">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299qbpk3551l3ws8fka" file_variant="master" position="1">Veganes_Low_Carb_Brot_25571.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c5799994dab">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc8299q8ojymqtti4bfmw" file_variant="master" position="1">Low_Carb_Brot_25705.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

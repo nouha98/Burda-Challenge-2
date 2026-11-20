@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7lcdg4ao40pzyii5dwc" dcx-version="6.3.1" version="1.0">
+  <created>2022-06-08T08:52:31+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-04T15:44:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ronk18emtgdo5"/>
+    <Keywords topic="tmt7lcdgtyxhpd19ofindko"/>
+    <Keywords topic="tmt7lcdgtz0b9he86wrdko"/>
+    <Keywords topic="tmt6owb9xuhjzl2714e8m0"/>
+    <Keywords topic="tmt6owqh3q3oau4cor98m4"/>
+    <Keywords topic="tmt6qzy2diyrmx9jf1s2w9"/>
+    <Keywords topic="tmt6owqjhp48pynxfuh8m7"/>
+    <Source topic="tmt7lcdgtz2fl117x5cudko"/>
+    <City topic="tmt6pczgfmelkjj53u6ebw" generator="com.digicol.se" score="1"/>
+    <SubHeadline position="1">Okonomiyaki (herzhafte Pfannkuchen, Japan)</SubHeadline>
+    <CustomRecipeNutritionalValueCalories position="1">650</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">53</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">29</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">35</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Kohl-Omelett "Osaka"-Style</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2022-06-08T08:52:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="1" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="2" amount="1" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6786" position="3" amount="125" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="kalte" plural="Hühnerbrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10216" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sojasauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10326" position="5" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spitzkohl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9151" position="6" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="rohe" plural="Riesengarnelen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="7" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="8" amount="60" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10261" position="9" amount="5" prefix="Streifen durchwachsener" plural="Speck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10636" position="10" amount="6" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenketchup"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11231" position="11" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Worcestersauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9126" position="12" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Reiswein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="13" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" position="14" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Senf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7236" position="15" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Knoblauchpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="16" prefix="je 1 EL eingelegter" suffix="&amp; Sesamsamen" plural="Ingwer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Mehl in eine Schüssel sieben. Mit Ei, Brühe, 1 EL Sojasoße zu einem Teig verarbeiten. Kohl fein hobeln. Die Garnelen schälen, entdarmen, fein hacken. Zwiebeln putzen, das Weiße fein hacken, das Grün in feine Ringe schneiden. Alles bis auf Zwiebelgrün unter den Teig rühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_62a0485b8e3a7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Öl in einer Pfanne (Ø 24 cm) erhitzen. Teig gleichmäßig darin verteilen. Bei mittlerer Hitze braten, bis die Unterseite goldbraun durchgegart ist. Mit den Speckstreifen belegen. Wenden, etwas nach unten drücken, fertig braten.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_62a04875c5555">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen Ketchup, Worcestersoße, Wein, Puderzucker, Senf, Knoblauch, 1 EL Sojasoße zu einer Soße verquirlen. Omelett (Speckseite oben) auf eine Platte geben. Soße aufträufeln, Ingwer abgetropft fein schneiden, mit Sesam, Zwiebelringen aufstreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Extra-Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Eingelegter Ingwer – auch Pickled Ingwer – rundet das Gericht mit aromatischer Schärfe ab.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Okonomiyaki (herzhafte Pfannkuchen, Japan)</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Immediate Media / Olive</ImageCredit>
+      <DocumentRef doc_id="doc7i2t7qc8g4nili35cyz" file_variant="master" position="1">Okonomiyaki (herzhafte Pfannkuchen, Japan)</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

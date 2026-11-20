@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85mi9f1f2cl13z9z58cd" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-29T08:27:31+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-29T08:35:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeer-Smoothie","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":"reif"},{"amount":2,"amountTo":null,"ingredient_name":"Bananen","unit":{"name":"Stück"},"prefix":null,"suffix":"reif"},{"amount":500,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"kalt (1,5 % Fett)"},{"amount":150,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Agavendicksaft","unit":{"name":"TL"},"prefix":null,"suffix":"(alternativ: Honig)"},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"nach Belieben frische","suffix":"zum Dekorieren"}]}],"preparation":[{"headline":null,"content":"Himbeeren waschen, abtropfen lassen und verlesen. Bananen schälen und in grobe Stücke schneiden. Beides in ein hohes Rührgefäß oder einen Mixer geben."},{"headline":null,"content":"Kalte Milch angießen und mit dem Pürierstab bzw. dem Mixer fein pürieren, bis die Mischung schön cremig ist. Zum Schluss Joghurt, Zitronensaft und Agavendicksaft zugeben und noch einmal kurz mixen."},{"headline":null,"content":"Auf Gläser verteilen und nach Belieben mit ein paar frischen Minzeblättchen dekorieren."}],"recipe_tips":[{"headline":null,"content":"Keine frischen Himbeeren zur Hand? Einfach 400 g Tiefkühlbeeren verwenden, diese ca. 5 Minuten antauen lassen und dann wie im Rezept beschrieben verarbeiten."}]}</CustomStructuredRecipeJson>
+    <Title>Himbeer-Smoothie</Title>
+    <Headline position="1">Himbeer-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-29T08:27:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85mi9desifrp8xr48cd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(1,5 % Fett)" plural="Milch" position="3" prefix="kalte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="nach Belieben frische" suffix="zum Dekorieren" plural="Minze" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="1" prefix="reife"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2" prefix="reife"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Naturjoghurt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4456" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(alternativ: Honig)" plural="Agavendicksaft" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85mi9f1expgw4k088cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Himbeeren waschen, abtropfen lassen und verlesen. Bananen schälen und in grobe Stücke schneiden. Beides in ein hohes Rührgefäß oder einen Mixer geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85mi9f1f0g58pv0k8cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Kalte Milch angießen und mit dem Pürierstab bzw. dem Mixer fein pürieren, bis die Mischung schön cremig ist. Zum Schluss Joghurt, Zitronensaft und Agavendicksaft zugeben und noch einmal kurz mixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85mi9f1f0kw10kv658cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Auf Gläser verteilen und nach Belieben mit ein paar frischen Minzeblättchen dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85mi9f1f0pf92ypc8cd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Keine frischen Himbeeren zur Hand? Einfach 400 g Tiefkühlbeeren verwenden, diese ca. 5 Minuten antauen lassen und dann wie im Rezept beschrieben verarbeiten.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7b2z9x2b1g913pxnwd9m" file_variant="master" position="1">Himbeer_Smoothie_80095.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69f1a69532c34">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdrk244kz25zyx3nv" file_variant="master" position="1">Himbeer_Smoothie_80023.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69f1a69703f19">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czd89gdtp31jteh8ich" file_variant="master" position="1">Himbeer_Smoothie_80033.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69f1a698e68cb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc7czdnlzpcs31ld3ls5gz" file_variant="master" position="1">Himbeer_Smoothie_80089.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

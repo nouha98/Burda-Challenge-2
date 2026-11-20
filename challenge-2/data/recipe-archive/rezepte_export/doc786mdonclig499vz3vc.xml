@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786mdonclig499vz3vc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T07:32:58+01:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2024-12-03T10:00:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <LastEditedBy topic="tmt789qccd71ewy1bqne88"/>
+    <CustomCenshareId>728361</CustomCenshareId>
+    <Title position="1">Bananen-Kirsch-Smoothie
+</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">180</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">760</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">40</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Bananen-Kirsch-Smoothie
+</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T14:28:56+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87eae4">
+      <CustomRecipeIngredient topic="tmt786c233k6r6ukog43h3" amount="400" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt7869vohw6vm1c6zajavd" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt786c233nmi11hbivo3h3" amount="2" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt786avtamr94vurj52mn" amount="1" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt786a2mmzbnseeq11avd" amount="1" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87eb33">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kirschen (TK-Ware auftauen lassen) und Puderzucker in einen elektrischen Mixer geben und sehr fein pürieren. Kirschpüree bis zur Hälfte in Gläser füllen. Bananen schälen, in Stücke schneiden und mit Vanillemark, Limettensaft und Kokosmilch im Mixer ebenfalls fein pürieren. Den schaumigen Bananen-Vanille-Smoothie auf das Kirschpüree in die Gläser gießen und mit einem Löffel marmorieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Bananen-Kirsch-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Michael Wissing</ImageCredit>
+      <DocumentRef doc_id="doc7a6sulsa9m915akw594m" file_variant="master" position="1">StockFood_11246521 V</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78be79xtz6o1f9dg472k" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T14:28:56+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_728361</displayname>
+      <doc_id id="doc786mdonclig499vz3vc"/>
+      <hash>62e41eac64e4f67d0f62719a1ca51019</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T14:28:56+01:00</modified>
+      <size>2825</size>
+      <subpath>2019/12-08/a1/ba/file78be79xtz6o1f9dg472k.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

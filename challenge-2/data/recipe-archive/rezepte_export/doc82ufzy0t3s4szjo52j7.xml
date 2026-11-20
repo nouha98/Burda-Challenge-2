@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ufzy0t3s4szjo52j7" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-16T14:39:15+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-10-16T14:43:33+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Ingwer-Spritz","recipe_seo_headline":"Ingwer-Spritz – prickelnd &amp; so lecker","servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Ingwer-Zitronen-Sirup","ingredients":[{"amount":2,"amountTo":3,"ingredient_name":"Bio-Zitronen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Prosecco oder Weißwein","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Sprudelwasser","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"(Keine Einheit)"},"prefix":"etwas","suffix":"zur Dekoration (optional)"}]}],"preparation":[{"headline":null,"content":"Zitronen abschälen. Zitronen halbieren und 150 ml Zitronensaft auspressen. Ingwer schälen und in Scheiben schneiden. Wasser, Zitronenschale und Ingwer in einem Topf erhitzen und 10 Minuten kochen lassen. Anschließend durch ein feines Sieb abgießen."},{"headline":null,"content":"Zitronen-Ingwer-Wasser erneut in einen Topf füllen. Zitronensaft und Zucker hinzufügen und weitere 5 Minuten kochen lassen. Sirup vom Herd nehmen."},{"headline":null,"content":"Eiswürfel auf 4 Gläser aufteilen. 20-40 ml (2-4 cl) Zitronen-Ingwer-Sirup in ein Glas geben. Mit ca. 100 ml Prosecco und einem Schluck Sprudelwasser aufgießen. Ginger-Spritz optional mit einigen Minzblättern garnieren. Cheers!"}],"recipe_tips":[{"headline":"Haltbarkeit","content":"Luftdicht verpackt und kühl gelagert hält sich der Sirup mindestens 4 Wochen. Plus: Unser Sirup schmeckt nicht nur in Kombi mit Prosecco und Wasser, sondern mit heißem Wasser aufgegossen auch als Zitronen-Ingwer-Tee!"}]}</CustomStructuredRecipeJson>
+    <Title>Ingwer-Spritz</Title>
+    <CustomRecipeSeoTitle position="1">Ingwer-Spritz – prickelnd &amp; so lecker</CustomRecipeSeoTitle>
+    <Headline position="1">Ingwer-Spritz</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-16T14:39:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ufzv67q5ec3avk2j7">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="2" max_amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ingwer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Ingwer-Zitronen-Sirup</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="82ufzw8o8q914pkhh2j7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="etwas" suffix="zur Dekoration (optional)" plural="Minze" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8931" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" suffix="oder Weiswein" plural="Prosecco"/>
+      <CustomRecipeIngredient topic="tmt7o0issoqvjklx1y1v0" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Sprudelwasser" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ufzy0t0jk7owpw2j7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Sirup Zitronen abschälen. Zitronen halbieren und 150 ml Zitronensaft auspressen. Ingwer schälen und in Scheiben schneiden. Wasser, Zitronenschale und Ingwer in einem Topf erhitzen und 10 Minuten kochen lassen. Anschließend durch ein feines Sieb abgießen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ufzy0t0zaevmb92j7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zitronen-Ingwer-Wasser erneut in einen Topf füllen. Zitronensaft und Zucker hinzufügen und weitere 5 Minuten kochen lassen. Sirup vom Herd nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ufzy0t15x9whot2j7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eiswürfel auf 4 Gläser aufteilen. 20-40 ml (2-4 cl) Zitronen-Ingwer-Sirup in ein Glas geben. Mit ca. 100 ml Prosecco und einem Schluck Sprudelwasser aufgießen. Ginger-Spritz optional mit einigen Minzblättern garnieren. Cheers!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82ufzy0t1bpybc852j7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Luftdicht verpackt und kühl gelagert hält sich der Sirup mindestens 4 Wochen. Plus: Unser Sirup schmeckt nicht nur in Kombi mit Prosecco und Wasser, sondern mit heißem Wasser aufgegossen auch als Zitronen-Ingwer-Tee!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82llyo5xeafbxddmuyp" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f0e85f7b2ee">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82llyh44i1dfji8kmwa" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f0e86136ba9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82llylnw2hibjuvlmwa" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f0e8630e4dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82llyg37yps1b1lgsmwa" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68f0e86548238">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82llyo5xeafbxddmuyp" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

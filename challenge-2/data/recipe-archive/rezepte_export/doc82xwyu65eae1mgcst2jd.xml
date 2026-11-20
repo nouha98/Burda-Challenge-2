@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82xwyu65eae1mgcst2jd" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-23T08:47:50+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-01-29T10:20:29+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Erdnuss-Dip","recipe_seo_headline":"Erdnuss-Dip – cremige Sauce","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"g"},"prefix":"Kleines Stück","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Cremige Erdnussbutter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Reisessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sesamöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für den Erdnuss-Dip Knoblauch abziehen und hacken. Ingwer schälen und in kleine Stücke schneiden. Limette fein abreiben und den Saft auspressen."},{"headline":null,"content":"Knoblauch, Ingwer, Limettensaft und -schale zusammen mit den restlichen Zutaten in ein hohes Gefäß geben. Mit dem Pürierstab gründlich mixen, bis eine homogene, dickflüssige Sauce entsteht. Nach Belieben abschmecken und als Dip oder Dressing servieren. Guten Appetit!"}],"recipe_tips":[{"headline":"Erdnuss-Sauce zum Dippen oder als Dressing","content":"Unser Rezept ergibt einen cremigen Dip, der ideal zu frischen Sommerrollen oder knackigem Gemüse passt. Mit 2-4 EL mehr Wasser wird daraus im Handumdrehen ein leckeres Dressing für asiatische Salate oder Nudelpfannen, auch zu gebratenem Fleisch passt die Sauce hervorragend."}]}</CustomStructuredRecipeJson>
+    <Title>Erdnuss-Dip</Title>
+    <CustomRecipeSeoTitle position="1">Erdnuss-Dip – cremige Sauce</CustomRecipeSeoTitle>
+    <Headline position="1">Erdnuss-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-23T08:47:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82xwyssfcvqsrxqa2jd">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="10" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Kleines Stück" plural="Ingwer" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5801" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Erdnussbutter" prefix="cremige"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9111" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Reisessig" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10111" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sesamöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Wasser" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82xwyu651qejuqbw2jd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Knoblauch abziehen und hacken. Ingwer schälen und in kleine Stücke schneiden. Limette fein abreiben und den Saft auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Erdnuss-Dip </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82xwyu6571t1ij4uf2jd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauch, Ingwer, Limettensaft und -schale zusammen mit den restlichen Zutaten in ein hohes Gefäß geben. Mit dem Pürierstab gründlich mixen, bis eine homogene, dickflüssige Sauce entsteht. Nach Belieben abschmecken und als Dip oder Dressing servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82xwyu657cgfjn092jd">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Unser Rezept ergibt einen cremigen Dip, der ideal zu frischen Sommerrollen oder knackigem Gemüse passt. Mit 2-4 EL mehr Wasser wird daraus im Handumdrehen ein leckeres Dressing für asiatische Salate oder Nudelpfannen, auch zu gebratenem Fleisch passt die Sauce hervorragend.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Erdnuss-Sauce zum Dippen oder als Dressing</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpnkxw8o7sqi70f4c" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68f9d0d621536">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpnby3ne8ltnucdg2" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68f9d0d78902e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpngcbzrk8tzimf4c" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68f9d0d952421">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Sara Dehghani &amp; Katrin Winner</ImageCredit>
+      <DocumentRef doc_id="doc82lpn7p5klv1fcnv2iee" file_variant="master" position="1">Einfach kochen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

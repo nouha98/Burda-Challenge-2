@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82btyiqv6xgkt8ar12m7" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-10T09:18:08+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-09-10T09:34:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="40" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Spitzbuben","recipe_seo_headline":null,"servings":{"amount":40.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":25},{"name":"Backen","duration":10},{"name":"Kühlen","duration":60}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Gemahlene Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":240,"amountTo":null,"ingredient_name":"Pflanzliche Butter / Margarine","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Marmelade","unit":{"name":"g"},"prefix":null,"suffix":"(z. B. Johannisbeergelee)"},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Weizenmehl, gemahlene Mandeln, Zucker, Vanillezucker und Salz vermengen. Kalte pflanzliche Butter in Stücke schneiden und dazugeben. Mit dem Knethaken oder den Händen zu einem glatten Teig kneten. Zugedeckt oder in einem Behälter 60 Minuten kühl stellen."},{"headline":null,"content":"Backofen auf 175 Grad Ober-/Unterhitze vorheizen. Ein Backblech mit Backpapier belegen. Teig auf einer bemehlten Arbeitsfläche ca. 3 mm dünn ausrollen. Mit einem runden Ausstecher Kreise ausstechen. Eine Hälfte der Plätzchen auf das Backblech legen."},{"headline":null,"content":"Bei der anderen Hälfte mit einem kleineren Ausstecher kleine Kreise in die Teigkreise stechen – sodass ein Ring entsteht. Die Plätzchen ebenfalls auf das Backblech legen und 8-10 Minuten auf der mittleren Schiene backen. Sie sollten nicht zu braun werden und dürfen noch etwas weich sein, wenn du sie aus dem Ofen nimmst. Vollständig auskühlen lassen."},{"headline":null,"content":"Marmelade in einem kleinen Topf erhitzen, dadurch wird sie flüssiger und lässt sich leichter verstreichen. Auf die Kekse ohne Loch einen kleinen Klecks Marmelade geben und diesen etwas verstreichen. Dann die obere Hälfte – mit Loch – daraufsetzen und leicht andrücken. Mit allen weiteren Keksen wiederholen. Abschließend mit etwas Puderzucker bestreuen."}],"recipe_tips":[{"headline":"Tipp","content":"Du kannst die untere Seite der Spitzbuben gemeinsam auf einem Backblech backen und die Ringe auf einem anderen. Denn die Ringe brauchen etwas weniger Backzeit als die Kekse ohne Loch."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Spitzbuben</Title>
+    <Headline position="1">Vegane Zimtsterne</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-10T09:18:08+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82btyfojkxd1aw23012m7">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt7zqvfhsits345kbd7n7" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" plural="gemahlene Haselnüsse"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="gemahlene Mandeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" amount="10" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zimt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="90" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="6" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt837av4j3tnm1l4ics1bdu" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Orangenabrieb" position="7" amount_max="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_68c128bdbdbb9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Puderzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" position="2" amount="15" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Wasser"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Zuckerguss</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82btyiquzt54mqx412m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Puderzucker, gemahlene Nüsse, Zimt, Wasser, Zitronensaft und Orangenabrieb zu einem klebrigen, aber homogenen Teig kneten. In Folie einwickeln oder in einen verschließbaren Behälter legen und für 60 Minuten kühlen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82btyiqv2y01ajo2p12m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backofen auf 175 Grad Ober-/Unterhitze vorheizen. Arbeitsfläche mit Puderzucker bestreuen und Teig etwa 1 cm dünn ausrollen. Mit einem Plätzchenstecher Sterne ausstechen. Auf ein mit Backpapier belegtes Backblech legen. Plätzchen für 8-10 Minuten backen. Noch etwas weich Herausnehmen und vollständig auskühlen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82btyiqv31u4sz0e12m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Puderzucker mit Wasser verrühren. Gerade so viel Wasser verwenden, bis eine dickflüssige Masse entsteht. Wenn die Glasur zu dünnflüssig geworden ist, einfach etwas mehr Puderzucker hinzugeben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82btyiqv35xxzwya12m7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die ausgekühlten Zimtsterne damit bestreichen und trocknen lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82btyiqv3au1gi6fz12m7">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Falls die Sterne beim Backen zu hart geworden sind, kannst du sie gemeinsam mit einem Apfel oder einer Scheibe Toastbrot in eine Dose legen. So werden sie wieder etwas weicher. Gut verpackt in einer Dose halten sich die Zimtsterne mehrere Wochen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tipp</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc827qglptz3s1hje28gsd" file_variant="master" position="1">Zimtsterne_118337.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c12a0379a2a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc827qghe18cn16ugq9gsd" file_variant="master" position="1">Zimtsterne_118316.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c12a049ab9c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc827qgiujmc11mk4ppkxh" file_variant="master" position="1">Zimtsterne_118302.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

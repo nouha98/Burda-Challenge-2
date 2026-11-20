@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7kg37kk6f4z1cna9t6gp" dcx-version="6.3.1" version="1.0">
+  <created>2022-04-06T12:54:53+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2022-04-20T15:28:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fodl"/>
+    <ImportedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <Creator topic="tmt7439seh3a2c1iczjrcl"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7439seh3a2c1iczjrcl"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <DateImported>2022-04-06T12:54:53+02:00</DateImported>
+    <Headline position="1">Nougat-Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="0" amount="300" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8401" position="1" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Nuss-Nugat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5821" position="2" amount="160" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" prefix="frisch gebrühter" plural="Espresso"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7291" position="3" amount="1" amount_max="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kokosblütenzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" position="4" amount="1/4" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kakaopulver"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einem Topf 300 ml Milch erhitzen. 2 EL Nuss­Nougat dazugeben und unterrüh- ren, bis es geschmolzen ist. Dann 160 ml frisch gebrühten Espresso mit 1–2 TL Kokosblütenzucker süßen. Milch mit dem Pürierstab aufmixen und in Gläser füllen. Espresso langsam am Glasrand in die Milch geben, sodass sich zwei Schichten bilden. Mit 1⁄2 TL Kakaopulver bestäuben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Gr fe &amp; Unzer Verlag / Kramp + G lling</ImageCredit>
+      <DocumentRef doc_id="doc7d63vdbpv01uw8hr2f6" file_variant="master" position="1">Latte Nougato</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821otu43x9smbmho2h8" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-21T15:33:34+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-24T11:22:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="70"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsl49ioisdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zebrakuchen mit Kirschen","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":45},{"name":"Backen","duration":70}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Teig","ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":225,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":375,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sauerkirschen","unit":{"name":"Glas"},"prefix":null,"suffix":"(Abtropfgewicht 350g)"},{"amount":null,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"für die Form"},{"amount":null,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"für die Form"}]}],"preparation":[{"headline":null,"content":"Den Backofen auf 180°C (Umluft 160°C) vorheizen, eine Springform (Ø 26 cm) mit Butter einfetten und Mehl bestäuben. Eier mit Zucker und Vanillezucker schaumig rühren, Sahne und Öl in einem dünnen Strahl einfließen lassen."},{"headline":null,"content":"Mehl mit Backpulver mischen, und sieben. Unter den Teig rühren."},{"headline":null,"content":"Kakaopulver mit Milch und Zucker in einer kleinen Schüssel vermischen, darauf achten, dass keine Klümpchen entstehen."},{"headline":null,"content":"Die Hälfte des Teiges in eine Schüssel füllen, die andere Hälfte mit der Kakaomasse vermischen. Kirschen abschütten und gut abtropfen lassen."},{"headline":null,"content":"Mit dem hellen Teig beginnend immer abwechselnd Löffelweise Teig in die Mitte füllen. Sobald der Boden einmal mit den Teigschichten bedeckt ist, die Kirschen auf dem Teig verteilen, den Teig weiter schichten bis er komplett aufgebraucht ist."},{"headline":null,"content":"Den Kuchen für 70 min backen lassen. Stäbchenprobe nicht vergessen."},{"headline":null,"content":"Nach dem auskühlen den Zebrakuchen mit etwas Puderzucker bestreuen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Zebrakuchen mit Kirschen</Title>
+    <Headline position="1">Zebrakuchen mit Kirschen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-21T15:33:34+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821ots49jzaelc882h8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="für die Form" plural="Butter" position="12"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="für die Form" plural="Mehl" position="13"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="225" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Sonnenblumenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="375" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Backpulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Kakaopulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Milch" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9636" amount="1" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(Abtropfgewicht 350g)" plural="Sauerkirschen" position="11"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821otu43hme15dp4o2h8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Eine Springform (Ø 26 cm) mit Butter einfetten und Mehl bestäuben. Eier mit Zucker und Vanillezucker schaumig rühren, Sahne und Öl in einem dünnen Strahl einfließen lassen. Mehl mit Backpulver mischen und sieben, dann unter den Teig rühren. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821otu43k3rmvzqt2h8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Backkakao mit Milch und Zucker in einer kleinen Schüssel vermischen, darauf achten, dass keine Klümpchen entstehen. Die Hälfte des Teiges in der Schüssel lassen, die andere Hälfte in einer zweiten Schüssel mit der Kakaomasse vermischen. Kirschen abgießen und gut abtropfen lassen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821otu43k923uq092h8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit dem hellen Teig beginnend immer abwechselnd Löffelweise Teig in die Mitte füllen. Sobald der Boden einmal mit den Teigschichten bedeckt ist, die Kirschen auf dem Teig verteilen, den Teig weiter schichten bis er komplett aufgebraucht ist. Den Kuchen für 70 Min. backen lassen. Stäbchenprobe nicht vergessen. Wer möchte, kann den Zebrakuchen nach dem Auskühlen mit etwas Puderzucker bestreuen. Der Kuchen ergibt ca. 12 Stücke.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

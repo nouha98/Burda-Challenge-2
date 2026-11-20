@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc824p0vidt3t142zs91xlk" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-27T11:56:21+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-27T12:07:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Blaubeer Pfannkuchen","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Backen","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"frische Heidelbeeren","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"Type 630 (alt. Weizenmehl Typ 405)"},{"amount":1,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Größe: M)"},{"amount":3,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":"und Öl für die Pfanne"},{"amount":null,"amountTo":null,"ingredient_name":"Beeren und Ahornsirup","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Ausgarnieren"}]}],"preparation":[{"headline":null,"content":"Heidelbeeren waschen und trocken tupfen. Beiseite stellen. Mehl mit Backpulver, Zucker und Salz mischen. Milch zugeben und kurz glatt rühren. Eier und Öl zufügen und verrühren. Zuletzt Beeren zugeben. Pfanne erhitzen, etwas Öl zugeben. Ca. 4 EL des Teiges in die heiße Pfanne geben und die Blaubeer-Pfannkuchen bei mittlerer Hitze 2-3 Minuten von beiden Seiten goldbraun backen. Pfannkuchen mit Ahornsirup und weiteren Beeren servieren."}],"recipe_tips":[{"headline":"Vegane Variante","content":"Verwende statt Eiern 100 ml Mineralwasser und eine Milchdrink-Alternative."}]}</CustomStructuredRecipeJson>
+    <Title>Blaubeer Pfannkuchen</Title>
+    <Headline position="1">Blaubeer Pfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-27T11:56:21+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="824p0sbrn9yy03711xlk">
+      <CustomRecipeIngredient topic="tmt7zg4v2sfcjq1fb8ajbqf" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." position="1" plural="frische Heidelbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="Type 630 (alt. Weizenmehl Typ 405)" plural="Dinkelmehl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe: M)" plural="Eier" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="und Öl für die Pfanne" plural="Öl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Ausgarnieren" position="9" plural="Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="10" suffix="zum Ausgarnieren" plural="Ahornsirup"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="824p0vidcih3cvbw1xlk">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Heidelbeeren waschen und trocken tupfen. Beiseite stellen. Mehl mit Backpulver, Zucker und Salz mischen. Milch zugeben und kurz glatt rühren. Eier und Öl zufügen und verrühren. Zuletzt Beeren zugeben. Pfanne erhitzen, etwas Öl zugeben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Pfannkuchen</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_68aed8577f4f7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Ca. 4 EL des Teiges in die heiße Pfanne geben und die Blaubeer-Pfannkuchen bei mittlerer Hitze 2-3 Minuten von beiden Seiten goldbraun backen. Pfannkuchen mit Ahornsirup und weiteren Beeren servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="824p0vidnv91hstku1xlk">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verwende statt Eiern 100 ml Mineralwasser und eine Milchdrink-Alternative.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegane Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81mowf7sorl12g7sffte" file_variant="master" position="1">Blaubeer-Pfannkuchen-quer-4920.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68aed8c0566bb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81mowjhg577t886dfps" file_variant="master" position="1">Blaubeer-Pfannkuchen-step1-4007.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68aed8c1dc6bc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81mowkyp2ao3p9jrg1i" file_variant="master" position="1">Blaubeer-Pfannkuchen-step2-4014.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68aed8c5c1d38">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81mowgem49u1lwtidfte" file_variant="master" position="1">Blaubeer-Pfannkuchen-quer-4891-sosse_Ausschnitt.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_68aed8c7a0d6c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81mowo1wv8i1arvon9gc" file_variant="master" position="1">Blaubeer-Pfannkuchen-quer-4891-sosse.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

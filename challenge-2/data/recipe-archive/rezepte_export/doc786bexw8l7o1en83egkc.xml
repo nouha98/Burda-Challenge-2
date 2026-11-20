@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786bexw8l7o1en83egkc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T17:19:22+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2024-12-03T10:00:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <LastEditedBy topic="tmt789qccd71ewy1bqne88"/>
+    <CustomCenshareId>405055</CustomCenshareId>
+    <Title position="1">Kiwi-Shake
+</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">155</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">660</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">30</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <CustomCenshareImportIssue>invalid ingredient unit 'Kugeln'</CustomCenshareImportIssue>
+    <Headline position="1">Kiwi-Shake
+</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-09T18:11:21+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="96ce1f">
+      <CustomRecipeIngredient topic="tmt786bexw18kzgw64ngkc" amount="4" unit_topic="tmt_invalid_ingredient_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="400" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt786bexw3u8562lkjgkc" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7216" amount="4" unit_topic="tm_topic_default_unit"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="2" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="96ce5c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">4 Kiwis und 2 Bananen schälen, in Scheiben schneiden. 4 kleine Scheiben Kiwi beiseite legen. Früchte, 400 ml Buttermilch, 4 Kugeln Fruchteis (z.B. Zitroneneis) im Mixer oder mit dem Pürierstab pürieren. In vier Gläser füllen, mit je 1 Kiwischeibe und etwas Minze verzieren und sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kiwi-Shake. Cocktails ohne Alkohol, Getr‰nke, Obst, Fr¸chte, Fruchtsaft, Rezept, Kiwis, Bananen, Buttermilch, Fruchteis. MFI 08/05 S.45.</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">M. Finley</ImageCredit>
+      <DocumentRef doc_id="doc7a6sh8sdmk41gsuw994m" file_variant="master" position="1">Frisch &amp; Fruchtig: Sommer-Drinks.</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b1ouxhgdd1ic3qvbn3" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T22:14:56+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_405055</displayname>
+      <doc_id id="doc786bexw8l7o1en83egkc"/>
+      <hash>48e6e8ff6f1f4352fc09965f88ce0919</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2019-12-09T18:11:21+01:00</modified>
+      <size>2281</size>
+      <subpath>2019/12-09/73/f5/file78b1ouxhgdd1ic3qvbn3.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fy7r7py8l871mp293" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-27T10:10:20+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-27T10:15:49+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schinken-Sahne-Soße","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Kochschinken","unit":{"name":"Scheibe"},"prefix":null,"suffix":"(ca. 150 g)"},{"amount":400,"amountTo":null,"ingredient_name":"Tortellini","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":"(30 % Fett)"},{"amount":150,"amountTo":null,"ingredient_name":"Kräuterschmelzkäse","unit":{"name":"g"},"prefix":null,"suffix":"(Rahmstufe)"},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zwiebel abziehen und fein würfeln. Schinken der Länge nach vierteln und in Stücke schneiden."},{"headline":null,"content":"Pasta nach Packungsanweisung in Salzwasser garen, abgießen und warmstellen."},{"headline":null,"content":"Zwiebelwürfel in einer großen Pfanne in Olivenöl 1-2 Minuten dünsten. Schinkenstücke zugeben, 1-2 Minuten bräunen, mit Milch ablöschen und mit Sahne auffüllen."},{"headline":null,"content":"Schmelzkäse in die warme Soße einrühren. Tortellini zugeben, aufkochen und mit Salz, Pfeffer und Muskatnuss abschmecken."},{"headline":null,"content":"Auf 4 Tellern verteilen und nach Wunsch mit frischen Basilikumblättern servieren."}],"recipe_tips":[{"headline":"al farno","content":"Bestreue Deine Tortellini in Schinken-Sahne-Soße mit 100 g geriebenem Käse und gratiniere sie in einer Auflaufform im Backofen, bis der Käse goldgelb geschmolzen ist."}]}</CustomStructuredRecipeJson>
+    <Title>Schinken-Sahne-Soße</Title>
+    <Headline position="1">Schinken-Sahne-Soße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-27T10:10:20+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fy7nb0pv9yieb6293">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9741" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Rahmstufe)" position="8" prefix="Kräuter-" plural="Schmelzkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" amount="5" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" suffix="(ca. 150 g)" plural="Kochschinken" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10701" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Tortellini" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(3,5 % Fett)" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(30 % Fett)" position="7" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="9" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" prefix="geriebene" plural="Muskatnuss"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fy7r7ppgz1ejfa2293">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel abziehen und fein würfeln. Schinken der Länge nach vierteln und in Stücke schneiden. Tortellini nach Packungsanweisung in Salzwasser garen, durch ein Sieb abgießen und warmstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fy7r7ptgn14kg2k293">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebelwürfel in einer großen Pfanne in Olivenöl 1-2 Minuten dünsten. Schinkenstücke zugeben und 1-2 Minuten bräunen. Mit Milch ablöschen und mit Sahne auffüllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fy7r7ptpc1kfo60293">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Schmelzkäse in die warme Soße einrühren. Tortellini zugeben, aufkochen und mit Salz, Pfeffer und Muskatnuss abschmecken. Auf 4 Tellern verteilen und nach Wunsch mit frischen Basilikumblättern servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83fy7r7pu423guzd293">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Bestreue Deine Tortellini in Schinken-Sahne-Soße mit 100 g geriebenem Käse und gratiniere sie in einer Auflaufform im Backofen, bis der Käse goldgelb geschmolzen ist.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tortellini al farno</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n93u42nuxtnwqi1dlg" file_variant="master" position="1">Schinken-Sahne-Soße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692816c0f11ec">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n94mfje1gbtoot83b" file_variant="master" position="1">Schinken-Sahne-Soße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692816c25d3dd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n94dwljqvvox4k1fhm" file_variant="master" position="1">Schinken-Sahne-Soße</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_692816c3b5377">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n943gjkvs1d96of8ht" file_variant="master" position="1">Schinken-Sahne-Soße</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

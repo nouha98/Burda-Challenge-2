@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86e97w9r6o31m3mjhtzi" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-22T08:34:11+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-06-22T08:42:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="105"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtko8acludo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt86e9bq080szvzlk51c2o"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Leinsamenbrot","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Ruhen/Warten","duration":45},{"name":"Ruhen/Warten","duration":15},{"name":"Ruhen/Warten","duration":15},{"name":"Backen","duration":50},{"name":"Kühlen","duration":30}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Leinsamen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Hefe","unit":{"name":"Würfel"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":"flüssiger","suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Weizenvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Typ 405)"},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"TL"},"prefix":null,"suffix":"mit Fluorid"},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Leinsamen und Wasser in einem Topf mit Deckel erhitzen. Sobald das Wasser anfängt zu kochen, Topf von der heißen Herdplatte ziehen und alles 45 Minuten quellen sowie abkühlen lassen."},{"headline":null,"content":"Hefe zu den gequollenen Leinsamen samt Einweichwasser bröckeln, Honig zufügen und alles umrühren. Mehle und Salz in einer Schüssel mischen, mittig eine große Kuhle formen und Leinsamen-Hefe-Mix hineingießen. Von außen etwas Mehl in die Mulde schieben, dann alles mit einem Küchentuch bedeckt 15 Minuten gehen lassen."},{"headline":null,"content":"Eine Kastenform (Länge ca. 25 cm) mit Öl bepinseln. Nach Ende der Gehzeit mithilfe der Hände, einer Küchenmaschine oder eines Handrührgeräts mit Knethaken alles zu einem geschmeidigen Teig verarbeiten und diesen in die vorbereitete Backform füllen. Brotteig erneut abgedeckt 15 Minuten gehen lassen."},{"headline":null,"content":"Eine hitzebeständige Schale mit Wasser auf den Backofenboden stellen und den Ofen auf 200 Grad (Ober-/Unterhitze) vorheizen. Brot nach Ende der zweiten Gehzeit mittig flach einschneiden. Wasserschale aus dem Ofen nehmen und das Brot auf einem Rost auf mittlerer Schiene platzieren. Brot 50 Minuten backen."},{"headline":null,"content":"Mithilfe eines hölzernen Schaschlik-Spießes kontrollieren, ob das Brot gar ist und ggf. noch 5 Minuten weiterbacken. Anschließend Brot aus dem Ofen holen, kurz auskühlen lassen, dann aus der Form auf einen Rost stürzen und dort ca. 30 Minuten auskühlen lassen, bevor es angeschnitten und verzehrt wird."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Leinsamenbrot</Title>
+    <Headline position="1">Leinsamenbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-22T08:34:11+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86e97rkkvyxq42aotzi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Leinsamen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="450" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6626" amount="0.5" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" plural="Hefe" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" prefix="flüssiger" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11146" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenvollkornmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Typ 405)" plural="Weizenmehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="mit Fluorid" plural="Jodsalz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Rapsöl" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86e97w9r5q9196yd6tzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Leinsamen und Wasser in einem Topf mit Deckel erhitzen. Sobald das Wasser anfängt zu kochen, Topf von der heißen Herdplatte ziehen und alles 45 Minuten quellen sowie abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e97w9r5ww14fvnttzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Hefe zu den gequollenen Leinsamen samt Einweichwasser bröckeln, Honig zufügen und alles umrühren. Mehle und Salz in einer Schüssel mischen, mittig eine große Kuhle formen und Leinsamen-Hefe-Mix hineingießen. Von außen etwas Mehl in die Mulde schieben, dann alles mit einem Küchentuch bedeckt 15 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e97w9r60mlwiqytzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eine Kastenform (Länge ca. 25 cm) mit Öl bepinseln. Nach Ende der Gehzeit mithilfe der Hände, einer Küchenmaschine oder eines Handrührgeräts mit Knethaken alles zu einem geschmeidigen Teig verarbeiten und diesen in die vorbereitete Backform füllen. Brotteig erneut abgedeckt 15 Minuten gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e97w9r6401kbeptzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eine hitzebeständige Schale mit Wasser auf den Backofenboden stellen und den Ofen auf 200 Grad (Ober-/Unterhitze) vorheizen. Brot nach Ende der zweiten Gehzeit mittig flach einschneiden. Wasserschale aus dem Ofen nehmen und das Brot auf einem Rost auf mittlerer Schiene platzieren. Brot 50 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86e97w9r683gjlt9tzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Mithilfe eines hölzernen Schaschlik-Spießes kontrollieren, ob das Brot gar ist und ggf. noch 5 Minuten weiterbacken. Anschließend Brot aus dem Ofen holen, kurz auskühlen lassen, dann aus der Form auf einen Rost stürzen und dort ca. 30 Minuten auskühlen lassen, bevor es angeschnitten und verzehrt wird.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Leinsamenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mqa24qibartxr3pnab" file_variant="master" position="1">Leinsamenbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a38d946c003f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Leinsamenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mq9xnmja8zd6t9bhts" file_variant="master" position="1">Leinsamenbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a38d948a9ba6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Leinsamenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mq9zrr38u9b4481ou5" file_variant="master" position="1">Leinsamenbrot</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6a38d94ab0d6e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Leinsamenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7mqa11wzn4pp1v4ufa9" file_variant="master" position="1">Leinsamenbrot</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

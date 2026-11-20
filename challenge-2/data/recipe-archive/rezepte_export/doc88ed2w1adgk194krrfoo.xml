@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88ed2w1adgk194krrfoo" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-09T15:36:15+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-11-09T15:53:08+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="480"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="tmt81bvfsw0p3ctgpxfe8c"/>
+    <Source topic="tmt88edap4rfn4hv5j1fs3"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Amarena-Parfait","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":480}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"Stück"},"prefix":null,"suffix":"(Eier Größe M)"},{"amount":250,"amountTo":null,"ingredient_name":"Ricotta","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Amarenakirschen in Sirup","unit":{"name":"Glas"},"prefix":null,"suffix":"(Abtropfgewicht à 240 g)"},{"amount":null,"amountTo":null,"ingredient_name":"Kakaopulver","unit":null,"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Rosmarinzweige","unit":null,"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":null,"prefix":null,"suffix":"zum Garnieren"},{"amount":null,"amountTo":null,"ingredient_name":"große rote Zuckerkugeln","unit":null,"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Eine Springform (Ø 24 cm) mit Frischhaltefolie auslegen und kalt stellen. Limette waschen und trocken tupfen. Schale fein abreiben und Saft auspressen."},{"headline":null,"content":"Puderzucker mit Eigelben, Limettenschale und Limettensaft in eine große Schüssel geben. Über einem heißen Wasserbad mit den Schneebesen des Handrührgeräts auf höchster Stufe 5 Minuten dickcremig schlagen. Schüssel vom Wasserbad nehmen."},{"headline":null,"content":"Ricotta unter die Masse ziehen. Sahne steif schlagen und unter die Creme heben."},{"headline":null,"content":"Amarenakirschen abtropfen lassen und den Sirup auffangen. Kirschen grob hacken und unter die Creme heben. Parfaitmasse in die vorbereitete Form geben und glatt streichen. Im Tiefkühlfach mindestens 8 Stunden, besser über Nacht, gefrieren lassen."},{"headline":null,"content":"Zum Servieren Tannen als Schablonen auf Papier zeichnen und ausschneiden. Parfait herausnehmen und ca. 20 Minuten antauen lassen. Auf eine Platte stürzen und die Folie entfernen. Mit den Tannenschablonen belegen und mit Kakao bestäuben. Schablonen entfernen. Rosmarinzweige mit etwas Puderzucker bestäuben, an den Rand legen, mit Zuckerkugeln garnieren und den Amarenasirup dazu reichen."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Amarena-Parfait</Title>
+    <Headline position="1">Amarena-Parfait</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-09T15:36:15+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88ed2xsho7r74cu5js6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4486" amount="2" unit="Glas" unit_topic="tmt71k9lflm0ntja06zdbl" suffix="(Abtropfgewicht à 240 g)" position="6" plural="Amarenakirschen" prefix="in Sirup eingelegte"/>
+      <CustomRecipeIngredient topic="tmt7umfbg6vinntuqcsn47" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" position="10" plural="Zuckerkugeln" prefix="große rote"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bio-Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Eier Größe M)" position="3" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9146" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Ricotta" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" plural="Kakaopulver" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9336" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" plural="Rosmarinzweige" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Garnieren" plural="Puderzucker" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88ed30l64w2x9j7cjs6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">1 bis 3 Tage vorher: Eine Springform (Ø 24 cm) mit Frischhaltefolie auslegen und kalt stellen. Limette waschen und trocken tupfen. Schale fein abreiben und Saft auspressen. Puderzucker mit Eigelben, Limettenschale und Limettensaft in eine große Schüssel geben. Über einem heißen Wasserbad mit den Schneebesen des Handrührgeräts auf höchster Stufe 5 Minuten dickcremig schlagen. Schüssel vom Wasserbad nehmen. Ricotta unter die Masse ziehen. Sahne steif schlagen und unter die Creme heben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88ed30l65393bpn9js6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Amarenakirschen abtropfen lassen und den Sirup auffangen. Kirschen grob hacken und unter die Creme heben. Parfaitmasse in die vorbereitete Form geben und glatt streichen. Im Tiefkühlfach mindestens 8 Stunden, besser über Nacht, gefrieren lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88ed30l656s13o6o9js6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zum Servieren Tannen als Schablonen auf Papier zeichnen und ausschneiden. Parfait herausnehmen und ca. 20 Minuten antauen lassen. Auf eine Platte stürzen und die Folie entfernen. Mit den Tannenschablonen belegen und mit Kakao bestäuben. Schablonen entfernen. Rosmarinzweige mit etwas Puderzucker bestäuben, an den Rand legen, mit Zuckerkugeln garnieren und den Amarenasirup dazu reichen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cremiges Amarena-Ricotta-Parfait mit Limette, verziert mit Kakao-Tannenbäumen und zuckrigem Rosmarinkranz, dazu Amarena-Sirup</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc86yu95nh8zp19r434zud" file_variant="master" position="1">Cremiges Amarena-Ricotta-Parfait mit Limette, verziert mit Kakao-Tannenbäumen und zuckrigem Rosmarinkranz, dazu Amarena-Sirup</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

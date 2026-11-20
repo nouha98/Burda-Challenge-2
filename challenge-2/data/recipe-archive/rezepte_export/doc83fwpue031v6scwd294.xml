@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fwpue031v6scwd294" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-27T08:13:45+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-27T08:22:27+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <City topic="tmt6pnzafxpwaf2unh7cwz" generator="com.digicol.se" score="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pisco Sour","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Limetten","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":10,"amountTo":null,"ingredient_name":"Pisco","unit":{"name":"cl"},"prefix":null,"suffix":"(Traubenbrand)"},{"amount":5,"amountTo":null,"ingredient_name":"Zuckersirup","unit":{"name":"cl"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eiklar","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":12,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bitterlikör","unit":{"name":"Spritzer"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Limetten heiß abwaschen, trocken tupfen und 2 Zesten aus der Schale schneiden. Limetten halbieren und den Saft auspressen (ca. 6 cl Limettensaft)."},{"headline":null,"content":"Pisco, Zuckersirup, Eiklar, 8 Eiswürfel und Limettensaft in einen Shaker geben und 1-2 Minuten schütteln, bis das Eiklar hörbar cremig ist."},{"headline":null,"content":"2 Gläser mit den restlichen Eiswürfeln vorkühlen, Eiswürfel entfernen, Pisco Sour abseihen und gleichmäßig auf die Gläser verteilen. Mit Limettenzesten und je einem Spritzer Bitterlikör servieren."}],"recipe_tips":[{"headline":"Zuckersirup selber kochen","content":"Zuckersirup oder auch Barsirup genannt, kannst Du schnell selber machen: koche Wasser und Zucker im Verhältnis 1:1 auf und rühre bis der Zucker sich aufgelöst hat."}]}</CustomStructuredRecipeJson>
+    <Title>Pisco Sour</Title>
+    <Headline position="1">Pisco Sour</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-27T08:13:45+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fwpsg04l3q03o294">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Limetten" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10726" amount="10" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" suffix="-Brand (Pisco)" position="2" plural="Trauben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11481" amount="5" unit="cl" unit_topic="tmt71k9kgf101fmu53civ9" plural="Zuckersirup" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5726" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" position="4" plural="Eiweiß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="12" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eiswürfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7736" amount="2" unit="Spritzer" unit_topic="tmt71k9mmbwn5g16y47yive" position="6" prefix="Bitter-" plural="Likör"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fwpudzvtc1heza0294">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limetten heiß abwaschen, trocken tupfen und 2 Zesten aus der Schale schneiden. Limetten halbieren und den Saft auspressen (ca. 6 cl Limettensaft).</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Pisco Sour</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fwpudzzc8cy9sb294">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Pisco, Zuckersirup, Eiklar, 8 Eiswürfel und Limettensaft in einen Shaker geben und 1-2 Minuten schütteln, bis das Eiklar hörbar cremig ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fwpudzzgi14wwte294">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">2 Gläser mit den restlichen Eiswürfeln vorkühlen, Eiswürfel entfernen, Pisco Sour abseihen und gleichmäßig auf die Gläser verteilen. Mit Limettenzesten und je einem Spritzer Bitterlikör servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83fwpudzzkl1fyund294">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Zuckersirup oder auch Barsirup genannt, kannst Du schnell selber machen: koche Wasser und Zucker im Verhältnis 1:1 auf und rühre bis der Zucker sich aufgelöst hat.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Zuckersirup selber kochen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9139gjetxo5591fhm" file_variant="master" position="1">Pisco Sour II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6927fc2f42f30">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n911q7s1s11kdaz8wp" file_variant="master" position="1">Pisco Sour II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6927fc30a5d81">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n90ygmqmhz4vna8ul" file_variant="master" position="1">Pisco Sour II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6927fc3286eeb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n90x2gt9k5wxk90y" file_variant="master" position="1">Pisco Sour II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81wgvuinbmxmyk2ymvj" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-11T11:42:31+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-11T16:02:55+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pink Latte","recipe_seo_headline":"Pink Latte – das beste Blitzrezept","servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(alternativ: Mandelmilch)"},{"amount":1,"amountTo":null,"ingredient_name":"Rote Bete Pulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Auf zwei Gläser Rote-Bete-Pulver, Vanilleextrakt, Honig und Zimt aufteilen und mit etwas Wasser auflösen."},{"headline":null,"content":"Milch in einem kleinen Topf erwärmen und aufschäumen. (Alternativ direkt im Milchaufschäumer erhitzen). Milch über die Rote-Bete-Mischung gießen und direkt servieren."}],"recipe_tips":[{"headline":"Nach deinem Geschmack","content":"Wenn du es noch würziger magst, kannst du statt dem Zimt auch eine Prise Lebkuchengewürz in deinen Pink Latte mischen."}]}</CustomStructuredRecipeJson>
+    <Title>Pink Latte</Title>
+    <CustomRecipeSeoTitle position="1">Pink Latte – das beste Blitzrezept</CustomRecipeSeoTitle>
+    <Headline position="1">Pink Latte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-11T11:42:31+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81wgvtbd8g712mk5emvj">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(alternativ: Mandelmilch)" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="2" plural="!!!! Fehlerhafte Zutat!"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81wgvuinant1akbr1mvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für den Latte Rote-Bete-Pulver, Vanilleextrakt, Honig und Zimt aufteilen und mit etwas Wasser auflösen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wgvuinavo1g8cd5mvj">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Milch in einem kleinen Topf erwärmen und aufschäumen. (Alternativ direkt im Milchaufschäumer erhitzen). Milch über die Rote-Bete-Mischung gießen und direkt servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81wgvuinb0lpuoxxmvj">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wenn du es noch würziger magst, kannst du statt dem Zimt auch eine Prise Lebkuchengewürz in deinen Pink Latte mischen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Nach deinem Geschmack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81axqgfne9y1b53gfsmy" file_variant="master" position="1">PinkLatte2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6899f7e63a05b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81axqc1uj1yz0bzorql" file_variant="master" position="1">PinkLatteStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6899f7e8160c0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81axq7lqxco15v4fdrry" file_variant="master" position="1">PinkLatteStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6899f7ea5fff6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81axqfboyljeu27sos7" file_variant="master" position="1">PinkLatte1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6899f7ecd4826">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <DocumentRef doc_id="doc81axq6oh16b5mtkbos7" file_variant="master" position="1">PinkLatte3.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

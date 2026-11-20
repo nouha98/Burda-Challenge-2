@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786nkjbzvoi3csmo3vc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T09:05:38+01:00</created>
+  <identifier></identifier>
+  <modcount>19</modcount>
+  <modified>2026-05-27T10:45:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="10"/>
+    <Classification topic="dc_se_thesterm_6on9dzuhvh4d37u3bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="38" score="0.99601"/>
+    <Classification topic="dc_se_thesterm_6on9dzukjqv12bdxsbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="34" score="0.878434"/>
+    <Classification topic="dc_se_thesterm_6on9dzulav51m39qtbw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="28" score="0.733333"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen"/>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <CustomCenshareId>746597</CustomCenshareId>
+    <Title position="1">Gegrillter Blumenkohl mit Haselnusspesto und Tomatencouscous</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareImportIssue>non numeric serving amount ' Portionen'</CustomCenshareImportIssue>
+    <CustomCenshareImportIssue>empty ingredient</CustomCenshareImportIssue>
+    <CustomRecipeNutritionalValueCalories position="1">850</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">54</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">17</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">62</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>914165</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Gegrillter Blumenkohl mit Haselnusspesto und Tomatencouscous</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T15:20:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="1899b2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5461" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Couscous"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="120" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" unit="g" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" unit="EL" plural="Tomatenmark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="7" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4981" position="9" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Blumenkohl"/>
+      <CustomRecipeIngredient topic="tmt7dr3m7gpn3dzwxh2dd6" position="10" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Haselnusskerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7371" position="12" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Koriander"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8611" position="13" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Pecorino"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="14" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" position="15" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="Koriander und Chili zum Garnieren" plural="Basilikum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="18b6ae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Couscous</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="1">Couscous in einer Schüssel mit kochendem Wasser übergießen bis es bedeckt ist, mit Klarsichtfolie abgedeckt ca. 10 Minuten ziehen lassen.
+In der Zwischenzeit Zwiebeln und Knoblauch abziehen und fein hacken, Stielansätze der Tomaten herausschneiden und die Tomaten klein würfeln. Olivenöl in einer Pfanne erhitzen, Knoblauch und Zwiebeln darin bei mittlerer bis starker Hitze goldbraun anrösten, Tomatenmark, Tomatenwürfel und  Gemüsebrühe dazugeben, gut durchrühren und 1 Minuten köcheln lassen, Couscous mit einer Gabel auflockern, die heiße Tomatenmischung darübergießen und gut durchmischen, mit Salz und Pfeffer würzen und zur Seite stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="18b6c4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für den Blumenkohl</CustomRecipePreparationsStepsHeader>
+      <CustomRecipePreparationsStepsContent position="2">Blumenkohlblätter entfernen, den Kohl in kochendem gesalzenem Wasser 10 Minuten köcheln, herausnehmen und abschrecken.
+In der Zwischenzeit Haselnüsse grob hacken und in einer Pfanne ohne Öl goldbraun anrösten. Knoblauch abziehen und mit dem Koriander grob hacken, Pecorino fein reiben, mit den Nüssen, Olivenöl, Knoblauch und Koriander grob pürieren</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="18b6d4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Blumenkohlscheiben auf dem Grill bei mittlerer Hitze von jeder Seite ca. 2 Minuten rösten. Dann mit Couscous 
+auf Teller verteilen, Nuss­Pesto darüberträufeln und alles mit frischem Basilikum, Koriander und Chiliflocken bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc786njt6lpqxh6jte7t3" file_variant="censhare_814838_last" position="1">814838-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="1ec59b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="2">Picture 2</ImageLabel>
+      <DocumentRef doc_id="doc786njteykp01dr34g7t2" file_variant="censhare_814839_last" position="2">814839-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_8de334">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef doc_id="doc787rb80putw1bra87lm9" file_variant="censhare_914164_last" position="1">914164-master-first.jpg</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bev9uyyra13g2m772f" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T15:20:50+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_746597</displayname>
+      <doc_id id="doc786nkjbzvoi3csmo3vc"/>
+      <hash>139968bb046e964d4b7f7dec0defe3fb</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T15:20:50+01:00</modified>
+      <size>5854</size>
+      <subpath>2019/12-08/e5/7b/file78bev9uyyra13g2m772f.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

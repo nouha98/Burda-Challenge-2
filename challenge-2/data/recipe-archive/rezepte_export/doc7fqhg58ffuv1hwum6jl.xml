@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fqhg58ffuv1hwum6jl" dcx-version="6.3.1" version="1.0">
+  <created>2021-05-11T10:54:44+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:31:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Keywords topic="tmt7fqhi5ywbky1ddq476ay"/>
+    <DateImported>2021-05-11T10:54:44+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">230</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">27</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">16</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">6</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Quark-Grieß-Schnitten</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="1" amount="3" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="2" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="3" amount="1" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8996" position="4" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Quark"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6426" position="5" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Grieß"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="6" amount="0,5" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="7" amount="20" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Butter"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Ofen auf 180 Grad Ober- und Unterhitze vorheizen. Eier trennen. Eiweiße steif schlagen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_609a46dabc478">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucker und Vanillezucker zum Quark geben. So lange rühren, bis sich der Zucker aufgelöst hat. Eigelbe unterrühren. Grieß und Backpulver mischen, nach und nach zur Masse geben.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_609a46e7446d3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eischnee unter die Quarkmischung heben. Masse in eine gefettete Auflaufform geben. Die Butter daraufraspeln. 30 Min. backen. Dazu Schlagsahne und Früchte nach Wahl servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Meliukh, Irina</ImageCredit>
+      <DocumentRef doc_id="doc7c8l2oebe5v1d8lh4n2s" file_variant="master" position="1">H ttenk seauflauf mit Griess</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7c2k3svip9lqkai9cpz" dcx-version="6.3.1" version="1.0">
+  <created>2020-08-27T16:48:50+02:00</created>
+  <identifier></identifier>
+  <modcount>12</modcount>
+  <modified>2025-09-11T12:12:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-cafo"/>
+    <Keywords topic="tmt6p28njitjf76p3768m7" position="1"/>
+    <Keywords topic="tmt6ow9eajbcmv2l2v78m9" position="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium" position="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv" position="1"/>
+    <Creator topic="tmt7227qo31caggkepem67" position="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="50"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomBlpId position="1">45571</CustomBlpId>
+    <SubHeadline position="1"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomBlpDataField position="1">Status:In Arbeit</CustomBlpDataField>
+    <CustomBlpDataField position="1">Notiz:StockFood
+Titel 	12346396
+Kartoffel-Pilz-Suppe</CustomBlpDataField>
+    <CustomRecipeNutritionalValueCalories position="1">400</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">24</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">7</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">30</CustomRecipeNutritionalValueFat>
+    <Title>Kartoffel-Pilz-Suppe</Title>
+    <Headline position="1">Kartoffel-Pilz-Suppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateCreated>2020-01-21T00:00:00+01:00</DateCreated>
+    <DateImported>2020-08-27T16:48:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="24dd1e">
+      <CustomRecipeIngredient topic="tmt78669yvkxr9wu6b7idm" amount="15" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="getrocknete Steinpilze"/>
+      <CustomRecipeIngredient topic="tmt7865q2cq86cpy1j8idm" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" unit="ml" plural="trockener Weißwein"/>
+      <CustomRecipeIngredient topic="tmt7c10xqmvyzldk1pvnwz" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Pilze (Steinpilze, Kräuterseitlinge, braune Champignons)"/>
+      <CustomRecipeIngredient topic="tmt796mn8nxz7s16qcqf70c" amount="2" unit_topic="tm_topic_default_unit" position="4" unit="(Keine Einheit)" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt796mn8o1yfc13uqc970c" amount="1" unit_topic="tm_topic_default_unit" position="5" unit="(Keine Einheit)" plural="Knoblauchzehe"/>
+      <CustomRecipeIngredient topic="tmt794qf8zd552r01wue46" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" unit="g" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt794qf1aw8hwk36b5e46" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt794qf1ftjavs1u17e45" amount="600" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="8" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt794qf1b11uc89kp5e46" unit_topic="tm_topic_default_unit" position="9" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt794qf1b46nqdjltve46" unit_topic="tm_topic_default_unit" position="10" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt782q8lw28yc1k9vc18gz" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" position="11" unit="Prise" plural="geriebene Muskatnuss"/>
+      <CustomRecipeIngredient topic="tmt796nnqe88601jyohhffs" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="12" unit="g" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt7869oo5paig1bczx1avd" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="13" unit="EL" plural="gehackte Petersilie"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="24dd96">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Getrocknete Pilze 30 Min. in Wein einweichen. Frische Pilze putzen, evtl. kleiner schneiden. Schalotten und Knoblauch abziehen, würfeln. Die Kartoffeln waschen, schälen und würfeln. In einem Topf 2 EL Öl erhitzen. Schalotten und Knoblauch darin glasig dünsten. Die Hälfte der frischen Pilze zufügen, kurz mitdünsten. Eingeweichte Pilze samt Sud, Brühe und Kartoffeln zugeben. 20 Min. köcheln. Suppe pürieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="24dda7">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">2 EL Öl in einer Pfanne erhitzen. Restliche Pilze darin anbraten. Mit Salz, Pfeffer, Muskat würzen. Sahne halbsteif schlagen, unter die Suppe ziehen. Suppe auf tiefe Teller verteilen. Gebratene Pilze daraufgeben. Mit Petersilie bestreuen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">f r ZS Verlag / Pranschke, Rafael</ImageCredit>
+      <DocumentRef doc_id="doc76l7jdit5jm10fx7hh22" file_variant="master" position="1">Kartoffel-Pilz-Suppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k3t62ipx1j013cpz" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:48:51+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k3svip9lqkai9cpz"/>
+      <hash>c4b4421aab94f14309f90f33191346fb</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>2</modcount>
+      <modified>2020-08-27T16:48:51+02:00</modified>
+      <size>5257</size>
+      <subpath>2020/08-27/fe/af/file7c2k3t62ipx1j013cpz.xml</subpath>
+      <type>original</type>
+      <variant>input_file_xml</variant>
+      <version>1</version>
+    </file>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file7c2k3t3h41jzmslkcpz" dcx-version="6.3.1" version="1.0">
+      <created>2020-08-27T16:48:51+02:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname></displayname>
+      <doc_id id="doc7c2k3svip9lqkai9cpz"/>
+      <hash>4515b9d0bc4c157ae4d160c76e7750e3</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>3</modcount>
+      <modified>2020-08-27T16:48:51+02:00</modified>
+      <size>421</size>
+      <subpath>2020/08-27/9f/66/file7c2k3t3h41jzmslkcpz.xml</subpath>
+      <type>original</type>
+      <variant>issue_xml</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

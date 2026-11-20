@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc867l7trfsmx1lhb3hcuq" dcx-version="6.3.1" version="1.0">
+  <created>2026-06-09T09:10:33+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-09T09:26:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" plural="Stücke" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="75"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="tmt81bj4727yxs10ckoo96d"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <Source topic="tmt867lf2dh1rc1h36ogcyj"/>
+    <CustomRecipeNutritionalValueCalories position="1">375</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">46</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">6</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">18</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Marmorierter Kürbisgugelhupf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-06-09T09:10:33+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7551" position="1" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kürbisfruchtfleisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" position="2" amount="120" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Orangensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Semmelbrösel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="4" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eier"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="6" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" position="7" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Vanillezucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" position="8" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt80i7h2llr8jc2l6i10bp" position="9" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="gemahlener Kardamom"/>
+      <CustomRecipeIngredient topic="tmt80msctpjgpkbzeplfid" position="10" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="gemahlener Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" position="11" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zimt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8811" position="12" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" unit="Messerspitze" prefix="gemahlener" plural="Piment"/>
+      <CustomRecipeIngredient topic="tmt7tb8az1lhgx8ub5wmvp" position="13" amount="0.5" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="abgeriebene" plural="Bio-Orangenschale"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="14" amount="300" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" position="15" amount="1" unit_topic="tmt8255nhdwwbm12e628f8n" unit="Päckchen" plural="Backpulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" position="16" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Kakaopulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7516" position="17" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="dunkle" plural="Kuchenglasur"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Kürbisfleisch würfeln und mit 100 ml Orangensaft in einen Topf geben und weich köcheln. Den Topfinhalt abkühlen lassen. Pürieren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a27bef0bda74">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen auf 200 Grad Ober-/ Unterhitze vorheizen. Eine Gugelhupfform (Ø 24 cm) fetten und mit Semmelbröseln ausstreuen. Die Eier mit 1 Prise Salz in einer Rührschüssel schaumig schlagen, dabei Zucker und Vanillezucker nach und nach unter die Masse schlagen, bis diese cremig und hellgelb wird. Das Kürbispüree mit Öl, Kardamom, Ingwer, Zimt, Piment und Orangenschale unterrühren. Das Mehl mit Backpulver mischen und zufügen. Alles glatt verrühren. Die Hälfte des Teigs in die Form geben. Kakao und 20 ml Orangensaft unter den übrigen Teig rühren. Diesen auf den hellen Teig geben. Die Teige mithilfe einer Gabel marmorieren. Auf der unteren Ofenschiene ca. 45 Min. backen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a27befcb614c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Form herausnehmen. Den Gugelhupf ausgedampft daraus stürzen. Die Glasur nach Packungsangabe in einem warmen Wasserbad erwärmen. Auf den Gugelhupf träufeln und fest werden lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Schall, Ewgenija</ImageCredit>
+      <DocumentRef doc_id="doc78cxtka70tkww13pjp4" file_variant="master" position="1">Marmor-K rbis-Gugelhupf mit Schokoladenglasur</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

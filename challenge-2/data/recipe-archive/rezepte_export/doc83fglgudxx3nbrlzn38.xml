@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fglgudxx3nbrlzn38" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-26T11:18:44+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2026-04-17T13:13:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_grilling" minutes="15"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrpeethwqdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rob8cxtohdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <Source topic="tmt83fgq4sicqhvrv11n5l"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <LastEditedBy topic="tmt84hz4j262xe1mvi2g1fxm"/>
+    <CustomRecipeNoteInformation position="1"/>
+    <Headline position="1">Garnelenspieße mit Sesam und Chilisauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-26T11:18:44+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9151" position="1" amount="20" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="küchenfertige" suffix="mit Schale" plural="Riesengarnelen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" position="2" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" suffix="für den Rost" plural="Pflanzenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Spieße</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6926d469065a9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" position="2" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Ingwer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="3" amount="4" amount_max="5" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10111" position="4" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sesamöl"/>
+      <CustomRecipeIngredient topic="tmt7g5w9bxzkwi1ihljo1h3" position="5" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Reisweinessig"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" position="6" amount="75" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5971" position="7" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Fischsauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10101" position="8" amount="1" amount_max="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sesam"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Sauce</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_6926d46a6b97b">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Lauchzwiebeln"/>
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="in Stücken" plural="Bio-Limetten"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Einen Grill anheizen. Spieße in kaltes Wasser legen. Für die Sauce Zwiebel abziehen und Ingwer schälen. Chilischoten waschen und putzen, dann alles grob zerkleinern und mit dem Sesamöl im Blitzhacker fein zerkleinern. Essig, Zucker und Fischsauce unterrühren und alles in einem Topf erhitzen, bis der Zucker sich aufgelöst hat. Sauce 2 Minuten köcheln lassen, dann vom Herd nehmen. Chilisauce kurz abkühlen lassen und den Sesam untermischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6926d5948eedd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Die Garnelen längs auf die gewässerten Spieße stecken und mit der Sauce bestreichen. Den Grillrost leicht ölen, die Spieße portionsweise auflegen und auf jeder Seite 2–3 Minuten grillen. Dabei wiederholt mit Chilisauce bestreichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6926d5a511c5b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Die Garnelen auf einer Platte oder auf Tellern anrichten, mit Lauch-zwiebel-ringen bestreuen und mit Limettenstücken servieren.  Die übrige Chilisauce separat dazu reichen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Garnelenspieße mit Sesam und Chilisauce</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Great Stock!</ImageCredit>
+      <DocumentRef doc_id="doc82tdlz4ecg31lg3d41jk9" file_variant="master" position="1">Garnelenspieße mit Sesam und Chilisauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

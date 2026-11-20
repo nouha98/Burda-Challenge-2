@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80ymd1osk01pgkm9b82" dcx-version="6.3.1" version="1.0">
+  <created>2025-06-06T14:43:15+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-04T15:44:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt80npsojpfw2q0y6s9qu"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Dorade, Kirschtomaten und Artischocken aus dem Ofen","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":20}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Mini-Artischocken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Doradenfilets","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(à ca. 150 g, mit Haut und ohne Gräten)"},{"amount":800,"amountTo":null,"ingredient_name":"bunte Kirschtomaten","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Thymian","unit":{"name":"Stiel"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Meersalzflocken","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Eine Schüssel mit 500 ml Wasser und Zitronensaft bereitstellen. Die Artischocken putzen, äußeren harten Blätter entfernen, Spitzen abschneiden, halbieren und evtl. Heu entfernen. Artischocken in Zitronenwasser legen, um Verfärbungen zu verhindern."},{"headline":null,"content":"Backofen auf 200 Grad Ober- und Unterhitze vorheizen. Doradenfilets trocken tupfen und halbieren oder dritteln. Kirschtomaten nach Belieben von den Rispen zupfen. Thymianstiele grob zerzupfen."},{"headline":null,"content":"Artischocken aus dem Wasser nehmen und abtropfen lassen. Fischstücke, Kirschtomaten, Artischocken und Thymian vorsichtig mit Olivenöl, Salz und Pfeffer vermengen. Auf einem mit Backpapier belegten Blech verteilen. Fischstücke mit Hautseite nach oben auf Blech legen."},{"headline":null,"content":"Im Ofen ca. 20 Minuten backen. Auf einer Platte oder auf Tellern anrichten, mit Salzflocken bestreuen und servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Dorade, Kirschtomaten und Artischocken aus dem Ofen</Title>
+    <SubHeadline position="1">Doradenfilets mit Artischocken und geschmorten Kirschtomaten</SubHeadline>
+    <Headline position="1">Dorade, Kirschtomaten und Artischocken aus dem Ofen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-06-06T14:43:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80ymd3i3zj56j3uzlb1">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4631" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="2" prefix="Mini" suffix="(oder 4 große)" plural="Artischocken"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt7hqiyb8f5hk1d3dmcm9z" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(à ca. 150 g, mit Haut und ohne Gräten)" plural="Doradenfilets" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" amount="800" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" prefix="bunte" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10561" amount="5" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Thymian" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt7k5cj5vexs8dj2erds9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Meersalzflocken" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80ymd6djcts1kdsznlb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Schüssel mit 500 ml Wasser und Zitronensaft bereitstellen. Die Artischocken putzen. Dafür die äußeren harten Blätter der Artischocken entfernen. Die Spitzen abschneiden, die Artischocken halbieren und evtl. das sogenannte Heu entfernen (je nach Größe der Artischocken; kleine Exemplare bilden noch kein Heu aus). Die Artischocken sofort in das Zitronenwasser legen, um Verfärbungen zu verhindern. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80ymd6djl4h199nedlb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen. Doradenfilets trocken tupfen und halbieren oder dritteln. Kirschtomaten nach Belieben von den Rispen zupfen. Thymianstiele grob zerzupfen. Die Artischocken aus dem Wasser nehmen und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80ymd6djlbn1kmep2lb1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Fischstücke, Kirschtomaten, Artischocken und Thymian vorsichtig mit Olivenöl, Salz und Pfeffer vermengen. Auf einem mit Backpapier belegten Blech verteilen. Die Fischstücke sollten mit Hautseite nach oben auf dem Blech liegen. Das Ganze im Ofen ca. 20 Minuten backen. Auf einer Platte oder auf Tellern anrichten, mit Salzflocken bestreuen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Doradenfilets mit Artischocken und geschmorten Kirschtomaten</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc7xrch9kllkxa4t41f63" file_variant="master" position="1">Doradenfilets mit Artischocken und geschmorten Kirschtomaten</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

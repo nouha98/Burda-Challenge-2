@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827amn1pj031ic6dzpvu" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T13:23:15+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-01T15:04:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="6"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="1440"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Karamellpudding","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":30},{"name":"Kühlen","duration":1440}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für das Karamell","ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Für den Pudding","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Gr. M)"},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"6 Metall Puddingförmchen mit etwas Butter ausreiben."},{"headline":null,"content":"Zucker mit Wasser in einem kleinen Topf karamellisieren lassen. An und zu leicht den Topf schwenken um das Karamell zu mischen, ca. 1 EL der Karamellsoße in jedes Förmchen gießen."},{"headline":null,"content":"Die Eier in eine Schüssel geben und glatt rühren. In einem Topf, Milch mit Sahne und Zucker verrühren und zum Kochen bringen. Die heiße Milch schluckweise zu den Eiern geben und währenddessen gut umrühren."},{"headline":null,"content":"Eier-Milch-Mischung durch ein Sieb gießen und in die Puddingförmchen gießen."},{"headline":null,"content":"Backofen auf 160 Grad Ober-/Unterhitze (Umluft 140 Grad) vorheizen. Eine Auflaufform bis zu 2/3 mit heißem Wasser füllen und die Förmchen hineinstellen. Die Förmchen für 30 Minuten in den Ofen geben, der Pudding sollte komplett durchgestockt sein."},{"headline":null,"content":"Die Förmchen vorsichtig aus der Auflaufform heben und über Nacht im Kühlschrank kühlen."},{"headline":null,"content":"Vor dem Servieren jedes einzelne Förmchen kurz in heißes Wasser tauchen, mit einem spitzen Messer den Rand lösen und den Pudding auf einen kleinen Teller stürzen. Sofort servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Karamellpudding</Title>
+    <Headline position="1">Karamellpudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T13:23:15+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827amlujy7d6cujwpvu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Wasser" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Karamell</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="827amm4fvyd1jyuc5pvu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Pudding</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827amn1phlz1htlf1pvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">6 Puddingförmchen (⌀ 7-8 cm, à 100 ml) aus Metall mit etwas Butter ausreiben. Für das Karamell Zucker mit Wasser in einem kleinen Topf bei mittlerer Hitze so lange köcheln lassen, bis sich der Zucker löst und langsam hellbraun karamellisiert. Dieser Vorgang kann einige Minuten dauern. Ab und zu den Topf leicht schwenken, um das Karamell zu mischen, jedoch nicht durchrühren. Ca. 1 EL der Karamellsoße in jedes Förmchen gießen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827amn1phs21815qepvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für den Pudding die Eier in eine Schüssel geben und glattrühren. In einem Topf die Milch mit Sahne und Zucker verrühren und zum Kochen bringen. Die heiße Milch schluckweise zu den Eiern geben und währenddessen gut umrühren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827amn1phw9qbgi7pvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Eier-Milch Mischung durch einen Sieb in die Puddingförmchen gießen. Den Backofen auf 160 Grad Ober-/Unterhitze (Umluft: 140 Grad) vorheizen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827amn1pi0615k9pbpvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eine Auflaufform (ca. 20 x 30 cm) bis zu 2/3 mit heißem Wasser füllen und die Förmchen hineinstellen. Die Förmchen für ca. 30 Minuten in den vorgeheizten Ofen geben. Der Pudding sollte komplett gestockt sein. Die Förmchen vorsichtig aus der Auflaufform heben und über Nacht im Kühlschrank kühlen.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827amn1pi39y9hugpvu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Vor dem Servieren jedes einzelne Förmchen kurz in heißes Wasser tauchen. Mit einem spitzen Messer den Rand lösen. Den Pudding auf einen kleinen Teller stürzen und sofort servieren. Du kannst den Pudding mindestens 2 Tage im Kühlschrank aufbewahren. Das Rezept ergibt 6 Puddings. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Noch mehr Karamell!</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Serviere deine feinen Puddings mit einer leckeren Karamell-Sauce. Mit unserem Rezept kannst du sie ganz einfach selber machen. Perfekt für alle Karamell-Fans!
+
+</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n66l3b10i12d9qz2u6" file_variant="master" position="1">Karamellpudding2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b599c5a5970">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n66o70rd5g6xs12u3" file_variant="master" position="1">Karamellpudding3.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b599c8419c3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n66m9pbo31l961a3r5" file_variant="master" position="1">Karamellpudding1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

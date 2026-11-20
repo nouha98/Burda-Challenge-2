@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc873lxoklbadq287y88o" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-10T16:47:08+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-08-10T16:55:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <Creator topic="tmt79660cjf1xeiiteq3o6"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt79660cjf1xeiiteq3o6"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="tmt81buxloktro7uj9xe0p"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt873m17rvaoy1ddcv78ay"/>
+    <CustomRecipeNutritionalValueCalories position="1">395</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">39</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Guacamole und Nachos</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-10T16:47:08+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="1" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9676" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Schalotten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7381" position="4" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Koriandergrün"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5381" position="5" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="grüne" plural="Chilischoten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4661" position="6" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="genussreife" plural="Avocados"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Saft von 1" plural="Limetten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt7jdgy1i2rr88klijemq" position="10" amount="1" amount_max="2" unit_topic="tmt733d3znh64n1c9wecjrs" unit="Packung" plural="Nachos"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" position="11" ingredient_error="1" amount="4" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="-Spalten (Bio)" plural="Limetten"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten waschen, vierteln, entkernen und klein würfeln. Schalotte und Knoblauch schälen, sehr fein würfeln. Korianderblättchen abzupfen und fein hacken. Chilischote waschen, putzen und fein würfeln. Avocados halbieren, entkernen und das Fruchtfleisch auslösen. Die Hälfte davon mit einer Gabel fein zerdrücken, den Rest sehr fein würfeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a79e5d4a6845">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Alles mit Schalotte, Knoblauch, Koriander, Tomaten, Chili, Öl, Salz und Pfeffer in einer Schüssel gründlich mischen. Guacamole abschmecken, in Schälchen füllen und mit Nacho-Tortillachips und Limettenspalten servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc7cc981nouvs52fr0h14" file_variant="master" position="1">Nachos und Guacamole</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

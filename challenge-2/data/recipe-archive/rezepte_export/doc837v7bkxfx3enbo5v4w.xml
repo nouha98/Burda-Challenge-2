@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc837v7bkxfx3enbo5v4w" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-11T16:35:41+01:00</created>
+  <identifier></identifier>
+  <modcount>2</modcount>
+  <modified>2025-11-11T16:35:41+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" name="Zubereitung" minutes="5"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Sarti Spritz","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Bio-Limette","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":"einige","amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Sarti Rosa","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Prosecco","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Limette heiß abwaschen, trocken tupfen und halbieren. 2 Scheiben abschneiden, die übrige Limette entsaften und für eine andere Verwendung kaltstellen."},{"headline":null,"content":"2 Weingläser zu 2/3 mit Eis befüllen, Sarti und Mineralwasser gleichmäßig auf die Gläser verteilen. Mit Prosecco aufgießen und mit je 1 Scheibe Limette garniert servieren."}],"recipe_tips":[{"headline":"Mit Maracuja","content":"Verfeinere den Sarti Spritz mit etwas frischer Maracuja und einem Spritzer Limettensaft."}]}</CustomStructuredRecipeJson>
+    <Headline position="1">Sarti Spritz</Headline>
+    <Title>Sarti Spritz</Title>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-11T16:35:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="837v79wom8ki9zl7v4w">
+      <CustomRecipeIngredient topic="tmt7t97s9cm1ms1brj5o1vp" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Limetten" position="0"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="einige" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eiswürfel" position="1"/>
+      <CustomRecipeIngredient topic="tm_topic_invalid_ingredient" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="60" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mineralwasser" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8931" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Prosecco" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="837v7bkxaatrqavov4w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Limette heiß abwaschen, trocken tupfen und halbieren. 2 Scheiben abschneiden, die übrige Limette entsaften und für eine andere Verwendung kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="837v7bkxaippolpsv4w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">2 Weingläser zu 2/3 mit Eis befüllen, Sarti und Mineralwasser gleichmäßig auf die Gläser verteilen. Mit Prosecco aufgießen und mit je 1 Scheibe Limette garniert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="837v7bkxamw1csonxv4w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent>Verfeinere den Sarti Spritz mit etwas frischer Maracuja und einem Spritzer Limettensaft.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader>Mit Maracuja</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

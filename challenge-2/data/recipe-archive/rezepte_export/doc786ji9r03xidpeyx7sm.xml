@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786ji9r03xidpeyx7sm" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T03:49:21+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2024-12-03T09:17:24+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>593097</CustomCenshareId>
+    <Title position="1">Pflaumenkonfitüre</Title>
+    <Headline position="1">Pflaumenkonfitüre</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T10:39:37+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="921558">
+      <CustomRecipeIngredient topic="tmt786a1ry1cdk1ldpl8avd" amount="1.5" unit_topic="tmt71k9kp8159fev62ddbf"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="500" unit_topic="tmt71k9kn9q8q8hixpkdbg"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="2" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="9215ae">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">1,5 kg blaue Pflaumen waschen, entsteinen, klein schneiden. 10 Pflaumensteine in ein Säckchen füllen, dieses zubinden. Früchte mit 100 ml Apfelsaft, 2 Zimtstangen, 1 EL Zitronensaft und dem Steinsäckchen in einem großen Topf bei kleiner Hitze 30 Minuten köcheln, vom Herd nehmen. 3 Stunden ziehen lassen. Säckchen und Zimt entfernen. 500 g Gelierzucker (3:1) untermischen. Aufkochen, 3-4 Minuten sprudelnd kochen, dabei immer wieder umrühren. Topf vom Herd nehmen, Konfitüre in heiß ausgespülte Gläser füllen. Diese verschließen, umgedreht 5 Minuten auf ein Küchentuch stellen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78bb987plf52n5it3ao" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T10:39:37+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_593097</displayname>
+      <doc_id id="doc786ji9r03xidpeyx7sm"/>
+      <hash>b9935cc85792f3fbd7264d8d41da1277</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T10:39:37+01:00</modified>
+      <size>2298</size>
+      <subpath>2019/12-08/de/f3/file78bb987plf52n5it3ao.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

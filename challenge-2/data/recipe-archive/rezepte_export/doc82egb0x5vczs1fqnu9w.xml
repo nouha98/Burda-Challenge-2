@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82egb0x5vczs1fqnu9w" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-15T11:42:52+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-15T11:50:02+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="4" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Wirsingeintopf vegetarisch","recipe_seo_headline":"Vegetarischer Wirsingeintopf – so lecker &amp; einfach","servings":{"amount":4.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Kartoffeln","unit":{"name":"g"},"prefix":"vorwiegend festkochend","suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Karotte","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Lauchstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Wirsing","unit":{"name":"Kopf"},"prefix":"kleiner","suffix":"(600-700 g)"},{"amount":"2-3","amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1.4,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"l"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"EL"},"prefix":null,"suffix":"(oder Crème fraîche)"}]}],"preparation":[{"headline":null,"content":"Kartoffeln und Karotten schälen. Kartoffeln in mundgerechte Würfel schneiden. Karotte in Scheiben schneiden. Lauch waschen und in Ringe schneiden. Zwiebel abziehen und fein würfeln. Wirsing waschen, halbieren und den Strunk herausschneiden. In dünne Streifen schneiden."},{"headline":null,"content":"Olivenöl in einem hohen Topf erhitzen. Kartoffeln, Karotten, Lauch und Zwiebel bei mittlerer Hitze 5 Minuten anbraten. Wirsing dazugeben und alles mit Gemüsebrühe aufgießen. Bei mittlerer Hitze ungefähr 30 Minuten leicht köcheln lassen, bis die Kartoffeln weich sind."},{"headline":null,"content":"Vor dem Servieren mit Salz und Pfeffer abschmecken. Anschließend auf 4 tiefe Teller verteilen und mit je einem Klecks Schmand garnieren. Guten Appetit!"}],"recipe_tips":[{"headline":"Vegane Variante","content":"Dafür kannst du den Schmand weglassen und schon ist der leckere Eintopf vegan. Alternativ einfach durch vegane Crème fraîche oder auch einen Klecks veganen Joghurt ersetzen."}]}</CustomStructuredRecipeJson>
+    <Title>Wirsingeintopf vegetarisch</Title>
+    <CustomRecipeSeoTitle position="1">Vegetarischer Wirsingeintopf – so lecker &amp; einfach</CustomRecipeSeoTitle>
+    <Headline position="1">Wirsingeintopf vegetarisch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-15T11:42:52+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82egaxp56cl1ejjv6u9w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11211" amount="1" unit="Kopf" unit_topic="tmt71k9ljlmkndtru6gdbf" prefix="kleiner" suffix="(600-700 g)" plural="Wirsing" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" amount="600" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="vorwiegend festkochend" plural="Kartoffeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt808hl36v7fqw3rg8vbq" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="2" plural="Karotte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7666" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Lauchstangen" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="6" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="1.4" unit="l" unit_topic="tmt71k9kl5192ql9oe2dbg" plural="Gemüsebrühe" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(oder Crème fraîche)" plural="Schmand" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82egb0x5n5c4eeb7u9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln und Karotten schälen. Kartoffeln in mundgerechte Würfel schneiden. Karotte in Scheiben schneiden. Lauch waschen und in Ringe schneiden. Zwiebel abziehen und fein würfeln. Wirsing waschen, halbieren und den Strunk herausschneiden. In dünne Streifen schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82egb0x5q6qmq2sbu9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Olivenöl in einem hohen Topf erhitzen. Kartoffeln, Karotten, Lauch und Zwiebel bei mittlerer Hitze 5 Minuten anbraten. Wirsing dazugeben und alles mit Gemüsebrühe aufgießen. Bei mittlerer Hitze ungefähr 30 Minuten leicht köcheln lassen, bis die Kartoffeln weich sind.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82egb0x5qb61i11ibu9w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vor dem Servieren mit Salz und Pfeffer abschmecken. Anschließend auf 4 tiefe Teller verteilen und mit je einem Klecks Schmand garnieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82egb0x5qfb1gh5y3u9w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dafür kannst du den Schmand weglassen und schon ist der leckere Eintopf vegan. Alternativ einfach durch vegane Crème fraîche oder auch einen Klecks veganen Joghurt ersetzen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Vegane Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbmgdp71a1lg30ae4a" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c7e146bc267">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbmg5siklebeldue49" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Wirsingeintopfp5</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_68c7e1483b969">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbmg03mopu16s670e47" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c7e14981826">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7jbmg9rf6oz39r6ne46" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

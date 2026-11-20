@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83ikejsqakwqs3r8ayu" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-02T12:22:43+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-02T12:26:18+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bijyxzclzgl9gd8xo"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Smoothie mit Spinat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":80,"amountTo":100,"ingredient_name":"frischer Blattspinat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sellerie","unit":{"name":"Stange"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroßer","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Hafer- oder Mandelmilch","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Banane schälen und in dünne Scheiben schneiden. Den Spinat waschen und die Stiele abzupfen."},{"headline":null,"content":"Die Selleriestange in 1 cm Stücke schneiden. Den Apfel vierteln, das Kerngehäuse herausschneiden und in 1-2 cm Stücke schneiden."},{"headline":null,"content":"Den Saft der Orange gut auspressen."},{"headline":null,"content":"Alle Zutaten in den Mixer geben und mit Hafer- oder Mandelmilch auffüllen und ca. 3-5 Minuten fein pürieren."}],"recipe_tips":[{"headline":"Fruchtvarianten","content":"Natürlich können alle beliebigen Früchte mit dem Spinat kombiniert oder ersetzt werden. Falls der Smoothie etwas zu dickflüssig ist, kann er mit kaltem Wasser verdünnt werden."}]}</CustomStructuredRecipeJson>
+    <Title>Smoothie mit Spinat</Title>
+    <Headline position="1">Smoothie mit Spinat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-02T12:22:43+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83ikehvi8zk13azkmayu">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4951" amount="80" max_amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" amount_max="100" prefix="frischer" plural="Blattspinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10021" amount="1" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Sellerie" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroßer" plural="Äpfel" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Orange" position="5"/>
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="6" prefix="Hafer- oder" plural="Mandelmilch"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83ikejsq3vk1kb52rayu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Banane schälen und in dünne Scheiben schneiden. Den Spinat waschen und die Stiele abzupfen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ikejsq439e0n01ayu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Selleriestange in 1 cm große Stücke schneiden. Den Apfel vierteln, das Kerngehäuse herausschneiden und in 1-2 cm große Stücke schneiden. Den Saft der Orange gut auspressen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83ikejsq4app4qd9ayu">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Alle Zutaten in den Mixer geben und mit Hafer- oder Mandelmilch auffüllen und ca. 3-5 Minuten fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83ikejsq4et3u507ayu">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Natürlich können alle beliebigen Früchte mit dem Spinat kombiniert oder ersetzt werden. Falls der Smoothie etwas zu dickflüssig ist, kann er mit kaltem Wasser verdünnt werden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Fruchtvarianten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82suvyqqm1d1d1afgpcx" file_variant="master" position="1">Smoothie mit Spinat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_692eccd7c37af">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82suvlzrvp0ggpflrmo" file_variant="master" position="1">Smoothie mit Spinat</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_692eccd8d34b8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82suwa0kgpxjfigcrkd" file_variant="master" position="1">Smoothie mit Spinat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

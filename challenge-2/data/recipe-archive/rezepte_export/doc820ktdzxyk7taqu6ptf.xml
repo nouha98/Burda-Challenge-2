@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc820ktdzxyk7taqu6ptf" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-19T11:38:41+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-09-22T13:39:45+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Käsekuchenmuffins ohne Boden","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":500,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":130,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Bourbon-Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronenabrieb","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Speiseöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillepuddingpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"gemischte Beeren","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Muffinform (12 Mulden) fetten oder mit Papierförmchen auslegen."},{"headline":null,"content":"Quark mit Zucker, Vanillezucker und Zitronenabrieb glatt rühren. Sahne, Öl und Puddingpulver zugeben und verrühren."},{"headline":null,"content":"Quarkcreme gleichmäßig auf die 12 Muffinmulden verteilen. Nach Belieben mit einigen Beeren belegen und im Backofen ca. 25 Minuten backen. Auskühlen lassen."},{"headline":null,"content":"Küchlein aus der Form lösen. Nach Belieben mit Beeren garnieren und kurz vor dem Servieren mit etwas Puderzucker bestreuen."}],"recipe_tips":[{"headline":null,"content":"Auch gefrorene Beeren eignen sich super zum Mitbacken, ganz ohne Auf- bzw. Antauen der Früchte."}]}</CustomStructuredRecipeJson>
+    <Title>Käsekuchenmuffins ohne Boden</Title>
+    <Headline position="1">Käsekuchenmuffins ohne Boden</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-19T11:38:41+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="820ktb3yf2h7b32bptf">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Bourbon-Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt82cww4esueqarrbpa4t" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Zitronenabrieb" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10291" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Speiseöl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10806" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillepuddingpulver" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="820ktdlvj8y73ycnptf">
+      <CustomRecipeIngredient topic="tmt80io8k4j6m91h0ut8ofv" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." position="1" plural="gemischte Beeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Bestreuen" plural="Puderzucker" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="820ktdzxhe912h1niptf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Muffinform (12 Mulden) fetten oder mit Papierförmchen auslegen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktdzxnbt1mncveptf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Quark mit Zucker, Vanillezucker und Zitronenabrieb glatt rühren. Sahne, Öl und Puddingpulver zugeben und verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktdzxnjs11z6rnptf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Quarkcreme gleichmäßig auf die 12 Muffinmulden verteilen. Nach Belieben mit einigen Beeren belegen und im Backofen ca. 25 Minuten backen. Auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="820ktdzxnnp1b1maqptf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Küchlein aus der Form lösen. Nach Belieben mit Beeren garnieren und kurz vor dem Servieren mit etwas Puderzucker bestreuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="820ktdzxnsgnf4hsptf">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Auch gefrorene Beeren eignen sich super zum Mitbacken, ganz ohne Auf- bzw. Antauen der Früchte.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

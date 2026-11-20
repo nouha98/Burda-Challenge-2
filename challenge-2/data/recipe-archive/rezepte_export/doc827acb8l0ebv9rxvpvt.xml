@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827acb8l0ebv9rxvpvt" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-01T13:00:55+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-01T13:08:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="14"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Mandarinen Tiramisu","recipe_seo_headline":null,"servings":{"amount":14.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Mandarinen","unit":{"name":"Dose"},"prefix":null,"suffix":"(Abtropfgewicht ca. 480 g)"},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"(Bio)"},{"amount":300,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":"zum Bestäuben"}]}],"preparation":[{"headline":null,"content":"Mandarinen auf einem Sieb abtropfen lassen, den Saft dabei auffangen. 1/3 zum Garnieren beiseite stellen. Orange heiß abwaschen, trocken tupfen und die Schale fein abreiben. Orange halbieren und auspressen. 200 ml des aufgefangenen Safts mit dem Orangenabrieb und -saft mischen."},{"headline":null,"content":"Den Boden der Auflaufform (25 x 30 cm) mit Löffelbiskuits auslegen und die Hälfte der Tränke und die Hälfte der Mandarinen darauf verteilen."},{"headline":null,"content":"Quark mit Zucker verrühren. Mascarpone zugeben und glatt rühren. Schlagsahne steif schlagen und unter die Creme heben. Die Hälfte der Creme auf den Löffelbiskuits glatt streichen. Eine weitere Schicht Löffelbiskuits in die Auflaufform legen und mit der übrigen Tränke bestreichen. Mit den übrigen Früchten bestreuen. Mascarponecreme darauf geben und glatt streichen. Mindestens 1 Stunde kühlstellen."},{"headline":null,"content":"Kurz vor dem Servieren mit Kakao bestäuben."}],"recipe_tips":[{"headline":"Statt der Auflaufform?","content":"Kannst du Creme, Tränke, Früchte und Creme auch auf 6-8 Dessertgläser (á 200 ml) füllen."}]}</CustomStructuredRecipeJson>
+    <Title>Mandarinen Tiramisu</Title>
+    <Headline position="1">Mandarinen Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-01T13:00:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827ac90cgp315mg8fpvt">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7931" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(Abtropfgewicht ca. 480 g)" plural="Mandarinen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Bio)" plural="Orange" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." plural="Löffelbiskuits" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1" max_amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Bestäuben" plural="Backkakao" position="8" amount_max="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827acb8kvc746k2mpvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mandarinen auf einem Sieb abtropfen lassen, den Saft dabei auffangen. 1/3 zum Garnieren beiseite stellen. Orange heiß abwaschen, trocken tupfen und die Schale fein abreiben. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827acb8kvifvvn85pvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Orange halbieren und auspressen. 200 ml des aufgefangenen Safts mit dem Orangenabrieb und -saft mischen. Den Boden der Auflaufform (25 x 30 cm) mit Löffelbiskuits auslegen und die Hälfte der Tränke und die Hälfte der Mandarinen darauf verteilen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827acb8kvmbzcchwpvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Quark mit Zucker verrühren. Mascarpone zugeben und glatt rühren. Schlagsahne steif schlagen und unter die Creme heben. Die Hälfte der Creme auf den Löffelbiskuits glatt streichen. Eine weitere Schicht Löffelbiskuits in die Auflaufform legen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827acb8kvq9hfcilpvt">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Mit der übrigen Tränke bestreichen und mit den übrigen Früchten bestreuen. Mascarponecreme darauf geben und glatt streichen. Mindestens 1 Stunde kühlstellen.Kurz vor dem Servieren mit Kakao bestäuben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="827acb8kvufbkua8pvt">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Kannst du Creme, Tränke, Früchte und Creme auch in 6-8 Dessertgläser (á 200 ml) füllen. Eignet sich auch perfekt zum Vorbereiten: Abgedeckt im Kühlschrank kannst du das Dessert mindestens 2 Tage aufbewahren. Erst zum Servieren mit Kakao bestäuben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Statt der Auflaufform?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7a6xt3ugn1owu1flx" file_variant="master" position="1">Mandarinen_Tiramisu_3192.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b57eb1554b2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7a442ht2sb2fy2u3" file_variant="master" position="1">Mandarinen_Tiramisu_2328.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b57eb2a5a55">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7a8bscx21fdwoz1flx" file_variant="master" position="1">Mandarinen_Tiramisu_2595.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b57eb47ed89">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7a2s1uo31921812u3" file_variant="master" position="1">Mandarinen_Tiramisu_3187.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

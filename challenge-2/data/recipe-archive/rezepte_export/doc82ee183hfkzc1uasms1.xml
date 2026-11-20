@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82ee183hfkzc1uasms1" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-15T08:45:59+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-15T08:51:37+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruxxo20krdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Veganer Schokopudding","recipe_seo_headline":"Veganer Schokopudding – so cremig wie das Original!","servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":180}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Brauner Zucker","unit":{"name":"EL"},"prefix":null,"suffix":"(oder Kokosblütenzucker)"},{"amount":1,"amountTo":null,"ingredient_name":"Kakaopulver","unit":{"name":"EL"},"prefix":null,"suffix":"(ungesüßt)"},{"amount":2,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"EL"},"prefix":null,"suffix":"(ca. 25 g)"},{"amount":500,"amountTo":null,"ingredient_name":"Pflanzendrink","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. Hafermilch)"},{"amount":60,"amountTo":null,"ingredient_name":"Vegane Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zucker, Kakaopulver und Speisestärke in eine kleine Schüssel geben. Mit 5-6 EL Pflanzendrink zu einer klümpchenfreien Masse verrühren. Die Zartbitterschokolade grob hacken."},{"headline":null,"content":"Die restliche pflanzliche Milch in einen Topf geben und bei mittlerer Hitze einmal aufkochen lassen. Die angerührte Stärke hinzufügen und mit einem Schneebesen unterrühren. Ungefähr 1-2 Minute leicht köcheln lassen, bis der Pudding andickt."},{"headline":null,"content":"Topf vom Herd nehmen und die gehackte Schokolade dazugeben. Mit dem Schneebesen umrühren, bis sie vollständig geschmolzen ist. Veganen Schokoladenpudding auf Dessertgläser aufteilen und mit Frischhaltefolie bedecken. Für 2-3 Stunden im Kühlschrank festwerden lassen. Servieren und genießen!"}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Veganer Schokopudding</Title>
+    <CustomRecipeSeoTitle position="1">Veganer Schokopudding – so cremig wie das Original!</CustomRecipeSeoTitle>
+    <Headline position="1">Veganer Schokopudding</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-15T08:45:59+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82ee16spu8n1g60cbms1">
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(oder Kokosblütenzucker)" position="1" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6966" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ungesüßt)" plural="Kakaopulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(ca. 25 g)" plural="Speisestärke" position="3"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="500" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. Hafermilch)" plural="Pflanzendrink" position="4"/>
+      <CustomRecipeIngredient topic="tmt80lrczrxn1l1b3c0yrvm" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" plural="Zartbitterschokolade (vegan)"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82ee183h5p2uwq89ms1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zucker, Kakaopulver und Speisestärke in eine kleine Schüssel geben. Mit 5-6 EL Pflanzendrink zu einer klümpchenfreien Masse verrühren. Die Zartbitterschokolade grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ee183h8t1soymtms1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die restliche pflanzliche Milch in einen Topf geben. Angerührte Speisestärke dazugeben und alles mit dem Schneebesen verrühren. Bei mittlerer Hitze und unter ständigem Rühren erwärmen und aufkochen lassen. Hitze etwas reduzieren und ungefähr 1 Minute leicht köcheln lassen, bis der Pudding andickt. Topf vom Herd nehmen und die gehackte Schokolade unterrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82ee183h8yw1jwbjtms1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit dem Schneebesen umrühren, bis sie vollständig geschmolzen ist. Veganen Schokoladenpudding auf 4 Dessertgläser aufteilen und mit Frischhaltefolie bedecken. Für 2-3 Stunden im Kühlschrank festwerden lassen oder warm genießen. Vor dem Servieren optional mit Schokoraspeln garnieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Pudding ohne Haut</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Lege ein Stück Frischhaltefolie direkt und lückenlos auf die Oberfläche des Puddings und drücke es leicht est. So kann während des Abkühlens keine Haut entstehen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganer Schokopudding</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7hkum9uuj4p1gk68wkn6" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68c7b77582d3f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganer Schokopudding</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7hkum686vjl1kgp15kn8" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68c7b776c0d2f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganer Schokopudding</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7hkumeaav6po7dbkkn3" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68c7b778244d3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Veganer Schokopudding</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Fotografie Katrin Winner Food Still life</ImageCredit>
+      <DocumentRef doc_id="doc7hkum1cdb6qxogotkn5" file_variant="master" position="1">Slowly Veggie</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

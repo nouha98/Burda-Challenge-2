@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83i5vxa5s1c1esguf20p0" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T17:32:34+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-12-02T18:55:03+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-fols"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rov9hj1lodo5"/>
+    <Source topic="tmt83ipfxjsbicdqwjlgr1"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Deftiger Fleischsalat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":850,"kilojoule":3570,"carbonhydrates":4,"fat":80,"protein":27,"breadunit":null}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Fleischwurst","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Radieschen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Gewürzgurken","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Silberzwiebeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Brühe","unit":{"name":"EL"},"prefix":null,"suffix":"(instant)"},{"amount":2,"amountTo":null,"ingredient_name":"Essig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Fleischwurst in Streifen schneiden. Radieschen waschen, putzen, in Scheiben hobeln. Gurken und Silberzwiebeln abtropfen lassen, Gurken in Stifte schneiden."},{"headline":null,"content":"Senf mit Brühe, Essig, Öl, Salz und Pfeffer verrühren. Salat damit mischen."},{"headline":null,"content":"Nach Belieben mit Schnittlauch garnieren, servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Deftiger Fleischsalat</Title>
+    <CustomRecipeNutritionalValueCalories position="1">850</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3570</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">4</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">80</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">27</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <Headline position="1">Deftiger Fleischsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T17:32:34+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83i5vyd4do41m5lixeaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6016" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Fleischwurst" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9031" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Radieschen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6276" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Gewürzgurken" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10151" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Silberzwiebeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5171" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(instant)" plural="Brühe" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5831" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Essig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Öl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz und Pfeffer" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="zum Garnieren" plural="Schnittlauch" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83i5w1l20nlrgl3leaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Fleischwurst in Streifen schneiden. Radieschen waschen, putzen, in Scheiben hobeln. Gurken und Silberzwiebeln abtropfen lassen, Gurken in Stifte schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83i5w1l24fp8pohheaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Senf mit Brühe, Essig, Öl, Salz und Pfeffer verrühren. Salat damit mischen. Nach Belieben mit Schnittlauch garnieren, servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fleischsalat mit Gewürzgurken, Essig &amp; Öl</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Grossmann.Schuerle</ImageCredit>
+      <DocumentRef doc_id="doc7l9fv7wun0p10jva61t8" file_variant="master" position="1">Fleischsalat mit Gewürzgurken, Essig &amp; Öl</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

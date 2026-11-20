@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88cef84n0v78sxinaze" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-05T19:55:44+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-11-05T21:00:09+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <Source topic="tmt88cf1qxqypc40gf1beq"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Orange Sour","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":null,"price":null,"nutritions":{"calories":110,"kilojoule":460,"carbonhydrates":20,"fat":0,"protein":0,"breadunit":2}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Bio-Orangen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"alkoholfreier veganer Weißwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Eiswürfel","unit":null,"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"veganer Grenadinesirup","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"1 Orange heiß abbrausen und trocken tupfen. Schale mit dem Sparschäler dünn abschälen, in vier Stücke schneiden und diese leicht eindrehen."},{"headline":null,"content":"Alle Früchte auspressen und 300 ml Saft abmessen. Orangensaft mit Zitronensaft, Weißwein, Ahornsirup und Eiswürfeln vermischen."},{"headline":null,"content":"Jeweils einige Eiswürfel in die Gläser geben. Orange Sour in die Gläser verteilen und mit Grenadine beträufeln. Mit Orangenschale verziert servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Orange Sour</Title>
+    <CustomRecipeNutritionalValueCalories position="1">110</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">460</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">20</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">2</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Zutaten für 4 Gläser (à ca. 250 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Orange Sour</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-05T19:55:44+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88cef9h6c691f5h8020dx">
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Orangen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Zitronensaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="3" prefix="alkoholfreier veganer" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Eiswürfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6411" amount="4" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="6" prefix="veganer" plural="Grenadinesirup"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88cefacdl351naidq20dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">1 Orange heiß abbrausen und trocken tupfen. Schale mit dem Sparschäler dünn abschälen, in vier Stücke schneiden und diese leicht eindrehen. Alle Früchte auspressen und 300 ml Saft abmessen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88cefacdlap17otdb20dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Orangensaft mit Zitronensaft, Weißwein, Ahornsirup und Eiswürfeln vermischen. Jeweils einige Eiswürfel in die Gläser geben. Orange Sour in die Gläser verteilen und mit Grenadine beträufeln. Mit Orangenschale verziert servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Vier vegane Aperitiv</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">für ZS Verlag / Sagon, Anja</ImageCredit>
+      <DocumentRef doc_id="doc86wf2esf1vp14nkxmtq" file_variant="master" position="1">Vier vegane Aperitiv</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

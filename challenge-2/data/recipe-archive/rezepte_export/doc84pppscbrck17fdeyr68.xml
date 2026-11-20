@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84pppscbrck17fdeyr68" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-24T11:44:39+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-02-24T11:56:08+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="8" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="4"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Bienenstich Tiramisu","recipe_seo_headline":null,"servings":{"amount":8.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":70},{"name":"Garen","duration":5}],"difficulty":"mittel","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Creme","ingredients":[{"amount":600,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanille-Kaltcreme","unit":{"name":"Packung"},"prefix":null,"suffix":"(für je 300 ml Milch)"},{"amount":250,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Zwischenschicht","ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"Löffelbiskuits","unit":{"name":"g"},"prefix":"Ca.","suffix":null},{"amount":350,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Amaretto","unit":{"name":"EL"},"prefix":null,"suffix":"nach Belieben"}]},{"headline":"Für das Bienenstich-Krokant","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"gehobelte Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für die Creme Milch und Vanillecreme zum kalten Anrühren zugeben. Mit den Schneebesen des Handrührgerätes 2 Minuten auf höchster Stufe aufschlagen bis die Creme fester wird. Mascarpone zugeben und kurz unterrühren. Beiseitestellen."},{"headline":null,"content":"Milch in eine Schüssel geben, nach Belieben Amaretto zufügen. Etwa die Hälfte der Löffelbiskuits nacheinander in die Milch tauchen und den Boden der Auflaufform (20 x 25 cm) damit auslegen. Die Hälfte der Vanillecreme darauf verteilen und mit einem Tortenheber glattstreichen. Übrige Löffelbiskuits in der Milch tauchen und eine weitere Schicht in der Form einlegen. Restliche Creme darauf geben und glattstreichen. Auflaufform kaltstellen."},{"headline":null,"content":"Für die Florentinerschicht Mandeln in eine große Pfanne geben und unter gelegentlichem Rühren so lange rösten, bis diese eine schöne Bräunung haben. Auf ein Stück Backpapier geben und auskühlen lassen. Butter, Zucker, Honig und Sahne in einen kleinen Topf geben und aufkochen. Zutaten 3 Minuten sprudelnd kochen, danach geröstete Mandeln zugeben und unter Rühren 1 Minute weiterkochen. Masse 10 Minuten etwas auskühlen lassen."},{"headline":null,"content":"Auflaufform aus dem Kühlschrank nehmen. Esslöffelweise die noch lauwarme und klebrige Mandelmasse darauf verteilen. Mindestens 60 Minuten kaltstellen."}],"recipe_tips":[{"headline":"Lieber ein Pudding?","content":"Koche aus 1 Pck. Vanille-Puddingpulver, 70 g Zucker und 500 ml Milch einen Pudding und lasse diesen 1 Stunde auskühlen. Rühre dann die Mascarpone unter und schichte wie oben beschrieben ein."}]}</CustomStructuredRecipeJson>
+    <Title>Bienenstich Tiramisu</Title>
+    <Headline position="1">Bienenstich Tiramisu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-24T11:44:39+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84pppql8yvpu9384r68">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10811" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" suffix="(Kaltcreme, für je 300 ml Milch)" position="2" plural="Vanillepulver"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84pppr20fuu7n1pfr68">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="350" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4496" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="nach Belieben" plural="Amaretto" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7796" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="Ca." plural="Löffelbiskuits" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Zwischenschicht</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="84ppprrml43m12i0r68">
+      <CustomRecipeIngredient topic="tmt808hl3jyfo720g75vbq" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="gehobelte Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Mandelschicht</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84pppscbld013xa7r68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Creme Milch und Vanillecreme zum kalten Anrühren in eine Schüssel geben. Mit den Schneebesen des Handrührgeräts wird die Mischung 2 Minuten lang auf höchster Stufe aufgeschlagen, bis die Creme fester wird. Mascarpone wird hinzugefügt und kurz untergerührt. Die fertige Creme beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84pppscbodu10hbc4r68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für die Biskuitschicht Milch in eine Schüssel geben, Amaretto zufügen. Etwa die Hälfte der Löffelbiskuits nacheinander in die Milch tauchen und den Boden der Auflaufform (20 x 25 cm) damit auslegen. Die Hälfte der Vanillecreme darauf verteilen und mit einem Tortenheber glattstreichen. Übrige Löffelbiskuits in die Milch tauchen und eine weitere Schicht in die Form einlegen. Restliche Creme darauf geben, glattstreichen und dann kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84pppscbojkvlj4wr68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Für die Mandelschicht Mandeln in eine große Pfanne geben und unter gelegentlichem Rühren so lange rösten, bis diese eine schöne Bräunung haben. Auf einen Teller geben und auskühlen lassen. Butter, Zucker, Honig und Sahne in einen kleinen Topf geben und aufkochen. Zutaten 3 Minuten sprudelnd kochen, danach geröstete Mandeln zugeben und unter Rühren 1 Minute weiterkochen. Masse 10 Minuten etwas auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84pppscboo61cb5u1r68">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Auflaufform aus dem Kühlschrank nehmen. Esslöffelweise die noch lauwarme und klebrige Mandelmasse darauf verteilen. Mindestens 60 Minuten kaltstellen. Das Bienenstich-Tiramisu ergibt ca. 8 Portionen und hält sich mindestens 2 Tage im Kühlschrank.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84pppscbos053q0wr68">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für eine feine Variante koche ich 1 Päckchen Vanille-Puddingpulver mit 70 g Zucker und 500 ml Milch nach Packungsanweisung und lasse den Pudding 1 Stunde auskühlen. Anschließend rühre ich die Mascarpone unter und schichte alles, wie oben beschrieben.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Cremige Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844rlcbkd151ddrrv9xl" file_variant="master" position="1">Bienenstich-Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_699d83c2e0895">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844rlav1m05d9acmm9f" file_variant="master" position="1">Bienenstich-Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_699d83c48fa83">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844rle1wykp6ptah9pg" file_variant="master" position="1">Bienenstich-Tiramisu II</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_699d83c6752f7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc844rlalexpgo8ff19pg" file_variant="master" position="1">Bienenstich-Tiramisu II</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

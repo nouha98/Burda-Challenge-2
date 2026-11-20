@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84n36us0e6u19pxba2h0" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-19T09:06:01+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-19T09:17:25+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp6b3kmm9do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Paprika Feta Dip","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Backen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"rote Paprika","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Feta","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprikapulver","unit":{"name":"TL"},"prefix":"optional","suffix":"(edelsüß), optional geräuchertes Paprikapulver"},{"amount":100,"amountTo":null,"ingredient_name":"Joghurt natur","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frischer Basilikum","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Gemüse","unit":{"name":"(Keine Einheit)"},"prefix":"z.B.","suffix":"Paprika, Karotten, Radieschen, Stangensellerie"}]}],"preparation":[{"headline":null,"content":"Die Paprika in drei-4 Teile schneiden und die weißen Häute und die Kerne entfernen. In eine Auflaufform geben und mit Olivenöl einreiben, Salz und Zucker würzen. Im Backofen bei 200 Grad Umluft ca. 25 Minuten garen, bis die Haut der Paprika dunkel wird."},{"headline":null,"content":"Die Paprika dann erkalten lassen und die Haut abziehen, die Paprika in Würfel schneiden. Den Feta in einen Mixbecher bröseln, die Paprika und die weiteren Zutaten wie Zitronensaft, Salz, Pfeffer, Paprikapulver und Joghurt dazugeben und cremig pürieren."},{"headline":null,"content":"Mit Basilikum oder anderen Kräutern servieren. Das Gemüse in Sticks schneiden und dazu servieren."}],"recipe_tips":[{"headline":"Paprika häuten","content":"Sollte die Haut sich schwierig ablösen, lege ich gerne ein nasses kaltes Geschirrtuch auf die Paprika und lasse es einige Minuten drauf liegen."}]}</CustomStructuredRecipeJson>
+    <Title>Paprika Feta Dip</Title>
+    <Headline position="1">Paprika Feta Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-19T09:06:01+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84n36rkhmk5nfzxx2h0">
+      <CustomRecipeIngredient topic="tmt80j85stp6d2yazwzgip" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="1" plural="rote Paprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3" amount="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zucker" position="4" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feta" position="5"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="7" amount="1"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="optional geräuchertes Paprikapulver" plural="Paprikapulver (edelsüß)" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="9" suffix="(natur)" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt80j864zbw0819ytswgip" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="10" suffix="zum Dekorieren" plural="Frischer Basilikum"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Paprika-Feta-Aufstrich</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6996c641c9bd3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6226" position="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="frisches" suffix="(z. B. Paprika, Karotten, Radieschen, Stangensellerie)" plural="Gemüse"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84n36uryxh5ipkns2h0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Paprika waschen, in 3–4 Teile schneiden, weiße Häute und das Kerngehäuse entfernen. Anschließend in eine Auflaufform geben und mit Olivenöl einreiben, mit Salz und Zucker würzen. Im Backofen bei 200 Grad Umluft (220 Grad Ober-/Unterhitze) ca. 25 Minuten garen, bis die Haut der Paprika dunkel wird. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84n36urzfk33lxs12h0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Paprika aus dem Ofen herausnehmen, erkalten lassen und die Haut mit einem Messer vorsichtig abziehen. Paprikastücke in grobe Würfel schneiden. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84n36urzfpzhtijj2h0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Feta in einen Mixbecher bröseln. Zitrone auspressen. Paprikastücke, Zitronensaft, Salz, Pfeffer, Paprikapulver und Joghurt dazugeben. Alles cremig pürieren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6996c67755af1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Paprika-Schafskäse-Dip in eine Schale geben und mit Basilikum oder anderen Kräutern dekorieren. Das Gemüse waschen, gegebenenfalls putzen und schälen, in gleichmäßige Sticks schneiden und dazu servieren. Der Dip hält sich im Kühlschrank 2-3 Tage. Lass es dir schmecken! </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84n36urzfthgu2rk2h0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Sollte sich die Haut schwierig ablösen, lege ich gerne ein nasses, kaltes Geschirrtuch auf die Paprika und lasse es einige Minuten darauf liegen. Danach geht es leichter. Wahlweise kannst du gehäutete Paprika aus dem Glas verwenden, wenn du einen schnellen Dip benötigst. </CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Paprika häuten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444ajpa9t1yekbrjm7" file_variant="master" position="1">Paprika-Feta-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6996c71052c76">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444ago5wmrgnazijm7" file_variant="master" position="1">Paprika-Feta-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6996c711eccdc">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444amf6pdk1eryn612bk" file_variant="master" position="1">Paprika-Feta-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6996c71415648">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc8444adlfr42cqjeujm7" file_variant="master" position="1">Paprika-Feta-Dip</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

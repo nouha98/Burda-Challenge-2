@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8377lpb5wkp30hmsies" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-10T09:58:26+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-11-10T10:04:39+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Feldsalat mit Erdbeeren","recipe_seo_headline":"Feldsalat mit Erdbeeren – sommerlich &amp; so lecker!","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Salat","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Feldsalat","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Erdbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"4-5","amountTo":null,"ingredient_name":"Walnüsse","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rosa Pfeffer","unit":{"name":"EL"},"prefix":null,"suffix":"(optional)"}]},{"headline":"Für das Dressing","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Balsamico-Essig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":"(oder Agavendicksaft)"},{"amount":"0.25-0.5","amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Olivenöl oder Walnussöl","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Feldsalat waschen und trocknen. Erdbeeren waschen, das Grün entfernen und sie vierteln. Walnüsse grob hacken und in einer beschichteten Pfanne ohne Öl 2-3 Minuten bei geringer Hitze anrösten."},{"headline":null,"content":"Feldsalat, Erdbeeren, Walnüsse und optional etwas Rosa Pfeffer in eine große Schüssel geben."},{"headline":null,"content":"Für das Dressing Balsamico-Essig, Honig und Salz verrühren. Olivenöl dazugeben und so lange rühren, bis ein sämiges Dressing entsteht. Dressing über den Salat geben und alles gründlich vermengen. Guten Appetit!"}],"recipe_tips":[{"headline":"Lust auf Feta oder Mozzarella?","content":"Beide Käsesorten sind aromatisch, cremig und passen einfach perfekt zu fruchtigen Erdbeeren und dem leicht süßen Balsamico-Dressing. Du kannst entweder 100 g gewürfelten Feta oder 150 g kleine Mozzarella-Kugeln dazugeben. Einfach lecker!"}]}</CustomStructuredRecipeJson>
+    <Title>Feldsalat mit Erdbeeren</Title>
+    <CustomRecipeSeoTitle position="1">Feldsalat mit Erdbeeren – sommerlich &amp; so lecker!</CustomRecipeSeoTitle>
+    <Headline position="1">Feldsalat mit Erdbeeren</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-10T09:58:26+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8377llogu4k6rcrjies">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(optional)" position="4" prefix="rosa" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5901" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Feldsalat" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5766" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Erdbeeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Walnüsse" position="3" amount_max="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8377lnkbai11brg3hies">
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="1" plural="Balsamico-Essig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(oder Agavendicksaft)" plural="Honig" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="3" amount_max="0.5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" suffix="oder Walnussöl" plural="Olivenöl"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Dressing</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8377lpb5ac61moqgzies">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Feldsalat waschen und trocknen. Erdbeeren waschen, das Grün entfernen und vierteln. Walnüsse grob hacken und in einer beschichteten Pfanne ohne Öl 2-3 Minuten bei geringer Hitze anrösten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8377lpb5g3mlme4ries">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Feldsalat, Erdbeeren, Walnüsse und optional etwas Rosa Pfeffer in eine große Schüssel geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8377lpb5gaemj8fhies">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Balsamico-Essig, Honig und Salz verrühren. Olivenöl dazugeben und so lange rühren, bis ein sämiges Dressing entsteht. Dressing über den Salat geben und alles gründlich vermengen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für das Dressing </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="8377lpb5ges70zimies">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Beide Käsesorten sind aromatisch, cremig und passen einfach perfekt zu fruchtigen Erdbeeren und dem leicht süßen Balsamico-Dressing. Du kannst entweder 100 g gewürfelten Feta oder 150 g kleine Mozzarella-Kugeln dazugeben. Einfach lecker!</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Lust auf Feta oder Mozzarella?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82m81b4kx78k9chms4q" file_variant="master" position="1">Feldsalat mit Erdbeeren</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6911aaa17c096">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82m816pm9xfm1cjt1j5l" file_variant="master" position="1">Feldsalat mit Erdbeeren</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6911aaa455021">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82m8156n25he66ky1jgp" file_variant="master" position="1">Feldsalat mit Erdbeeren</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6911aaa5a7089">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Brigitte Sporrer</ImageCredit>
+      <DocumentRef doc_id="doc82m8186x91g50gfqsmn" file_variant="master" position="1">Feldsalat mit Erdbeeren</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

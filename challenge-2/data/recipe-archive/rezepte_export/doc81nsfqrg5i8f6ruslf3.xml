@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81nsfqrg5i8f6ruslf3" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-25T14:19:11+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-07-25T14:37:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="1" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Amaranth Porridge","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":15},{"name":"Ruhen/Warten","duration":15}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":250,"amountTo":null,"ingredient_name":"Mandeldrink","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":75,"amountTo":null,"ingredient_name":"Amaranth","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"kleine Birne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Heidelbeeren","unit":{"name":"(Keine Einheit)"},"prefix":"Ein paar","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mandeldrink in einen kleinen Topf geben und leicht erwärmen."},{"headline":null,"content":"Den Amaranth einrühren und für 4 Minuten sprudelnd kochen lassen, dabei ständig umrühren. Dann die Hitze auf kleinste Stufe stellen und den Amaranth Porridge für 15 Min. quellen lassen."},{"headline":null,"content":"Mit einer Prise Zimt würzen."},{"headline":null,"content":"Die Birne in feine Spalten schneiden, Banane in Scheiben schneiden, den Porridge in einen tiefen Teller füllen, das Obst darauf anrichten und mit Ahornsirup beträufeln."}],"recipe_tips":[{"headline":"Pimp my Porridge","content":"Für noch mehr Geschmack &amp; gesundes Fett, gebe 2 TL Mandelmus über den Porridge."}]}</CustomStructuredRecipeJson>
+    <Title>Amaranth Porridge</Title>
+    <Headline position="1">Amaranth Porridge</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-25T14:19:11+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81nsfpd8bt180cn3lf3">
+      <CustomRecipeIngredient topic="tmt7v0ennp1mwl12ttiyazt" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Mandeldrink" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4481" amount="75" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Amaranth" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4891" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="4" prefix="kleine" plural="Birnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="5"/>
+      <CustomRecipeIngredient topic="tmt7zg4v2sfcjq1fb8ajbqf" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Ein paar" position="6" plural="frische Heidelbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Ahornsirup" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81nsfqrfvtg1hh11ylf3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mandeldrink in einen kleinen Topf geben und leicht erwärmenDen Amaranth einrühren und für 4 Minuten sprudelnd kochen lassen, dabei ständig umrühren. Dann die Hitze auf kleinste Stufe stellen und den Amaranth Porridge für 15 Min. quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81nsfqrfzr7etac3lf3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Mit einer Prise Zimt würzenDie Birne in feine Spalten schneiden, Banane in Scheiben schneiden, den Porridge in einen tiefen Teller füllen, das Obst darauf anrichten und mit Ahornsirup beträufeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81nsfqrg00phad56lf3">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für noch mehr Geschmack &amp; gesundes Fett, gebe 2 TL Mandelmus über den Porridge.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Pimp my Porridge</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814bz825gbqy28dz1v4e" file_variant="master" position="1">AmaranthPorridge2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68837a5516e62">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814bzao4vvr1gijlleg4" file_variant="master" position="1">AmaranthPorridgeStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68837a591298a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814bzdgixjl1sb6eefx" file_variant="master" position="1">AmaranthPorridgeStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68837a5bb6c98">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814bzh08she1bzixf1xmh" file_variant="master" position="1">AmaranthPorridge1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

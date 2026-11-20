@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81tum6e1l781sxqj1k7w" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-06T09:23:55+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-07T16:40:17+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="15"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Marzipan Panna Cotta","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":15},{"name":"Kühlen","duration":120},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Creme","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Marzipan","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Tonkabohne","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"},{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"TK-Sauerkirschen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Marzipan klein würfeln, alternativ über einer Haushaltsreibe grob raspeln. Sahne, Milch, Zucker und Marzipanstücke in einem Topf aufkochen, dabei gelegentlich umrühren. 1 Minute sprudelnd kochen lassen. Topf von der Herdplatte ziehen und die Flüssigkeit einmal mit einem Pürierstab klumpenfrei durchmixen."},{"headline":null,"content":"Gelatine in kaltem Wasser einweichen. Eingeweichte Gelatine ausdrücken, in die heiße Marzipansahne geben und auflösen lassen. Panna Cotta auf die Dessertgläser (á 200 ml) verteilen. Im Kühlschrank mindestens 2 Stunden kaltstellen."},{"headline":null,"content":"Gefrorene Kirschen, 3 EL Wasser und Vanillinzucker in einem Topf zum Kochen bringen und 2-3 Minuten köcheln lassen. Stärke mit 2 EL des entstandenen Kirschsafts und nach Belieben aus dem Topf glatt rühren. Stärkemix in die Kirschen rühren, eine weitere Minute köcheln lassen. In eine Schüssel umfüllen und abgedeckt auskühlen lassen."},{"headline":null,"content":"Festgewordene Panna Cotta mit Kirschragout ausgarnieren. Alternativ Desserts mit einem Tafelmesser aus den Gläsern lösen und auf Dessertgläser stürzen."}],"recipe_tips":[{"headline":"statt das Kirschkomplott selbst zu kochen","content":"kannst du auch fertiges rote Grütze oder Kirschgrütze aus dem Kühlregal verwenden."}]}</CustomStructuredRecipeJson>
+    <Title>Marzipan Panna Cotta</Title>
+    <Headline position="1">Marzipan Panna Cotta</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-06T09:23:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81tum37sds42rvhg1k7w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8071" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Marzipan" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10691" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" plural="Tonkabohnen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81tum5b1yl5vlwqf1k7w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9636" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="Tiefkühl" plural="Sauerkirschen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="2" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="0.5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Speisestärke" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81tum6e1g9j4sbk81k7w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Marzipan klein würfeln, alternativ über einer Haushaltsreibe grob raspeln. Sahne, Milch, Zucker und Marzipanstücke in einem Topf aufkochen, dabei gelegentlich umrühren. 1 Minute sprudelnd kochen lassen. Topf von der Herdplatte ziehen und die Flüssigkeit einmal mit einem Pürierstab klumpenfrei durchmixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tum6e1imt1d6puk1k7w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gelatine in kaltem Wasser einweichen. Eingeweichte Gelatine ausdrücken, in die heiße Marzipansahne geben und auflösen lassen. Panna Cotta auf die Dessertgläser (á 200 ml) verteilen. Im Kühlschrank mindestens 2 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tum6e1iuq1c1s761k7w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Gefrorene Kirschen, 3 EL Wasser und Vanillinzucker in einem Topf zum Kochen bringen und 2-3 Minuten köcheln lassen. Stärke mit 2 EL des entstandenen Kirschsafts und nach Belieben aus dem Topf glatt rühren. Stärkemix in die Kirschen rühren, eine weitere Minute köcheln lassen. In eine Schüssel umfüllen und abgedeckt auskühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81tum6e1j01180ara1k7w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Festgewordene Panna Cotta mit Kirschragout ausgarnieren. Alternativ Desserts mit einem Tafelmesser aus den Gläsern lösen und auf Dessertgläser stürzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81tum6e1j6w1i4srf1k7w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">kannst du auch fertiges rote Grütze oder Kirschgrütze aus dem Kühlregal verwenden.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">statt das Kirschkomplott selbst zu kochen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81au63fgb7szji4qo52" file_variant="master" position="1">Marzipan_Panna_Cotta_8060.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6894baa9aa2c3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81au60i3axlg879so1f" file_variant="master" position="1">Marzipan_Panna_Cotta_7418.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6894baab57def">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81au657vooj15u1h5o1f" file_variant="master" position="1">Marzipan_Panna_Cotta_7887.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6894baad48abf">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81au60prokh17lc7jltz" file_variant="master" position="1">Marzipan_Panna_Cotta_8079.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_6894baaea51e6">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81au623oeaqp0o1glvc" file_variant="master" position="1">Marzipan_Panna_Cotta_8026.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83fwveicena13624c29e" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-27T08:25:46+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-27T08:30:53+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp2o81vtfdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pistaziencreme","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":10},{"name":"Ruhen/Warten","duration":60}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"weiße Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":50,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"geschälte Pistazien","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Schokolade grob hacken. Milch mit Butter in einem Topf erwärmen, Schokolade darin schmelzen und glattrühren."},{"headline":null,"content":"Pistazien in einem Standmixer oder einer Mühle zu feinem Staub mixen. Pistazienmehl in den Topf geben, umrühren und vom Herd nehmen."},{"headline":null,"content":"Pistaziencreme bei Zimmertemperatur unter gelegentlichem Umrühren auskühlen lassen, noch einmal gut durchrühren, in Schraubgläser füllen und fest verschlossen im Kühlschrank aufbewahren."}],"recipe_tips":[{"headline":"Aufstrich Vielfalt","content":"Sei kreativ und probiere den Aufstrich mit unterschiedlichen Nüssen und Kernen aus oder verfeinere ihn mit getrockneten Beeren."}]}</CustomStructuredRecipeJson>
+    <Title>Pistaziencreme</Title>
+    <Headline position="1">Pistaziencreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-27T08:25:46+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83fwvcobwdc15u0p129e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9796" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="weiße" plural="Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(3,5 % Fett)" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8836" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" prefix="geschälte" plural="Pistazien"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83fwveic4vk1h2lvo29e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Schokolade grob hacken. Milch mit Butter in einem Topf erwärmen, Schokolade darin schmelzen und glattrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fwveic94i130v5j29e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Pistazien in einem Standmixer oder einer Mühle zu feinem Staub mixen. Pistazienmehl in den Topf geben, umrühren und vom Herd nehmen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83fwveic9agxhiiy29e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Pistaziencreme bei Zimmertemperatur unter gelegentlichem Umrühren auskühlen lassen, noch einmal gut durchrühren, in Schraubgläser füllen und fest verschlossen im Kühlschrank aufbewahren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6927fd73bd1c9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pistaziencreme portionsweise entnehmen und nach Wunsch mit Quarkbrötchen genießen. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83fwveic9efijh6229e">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Sei kreativ und probiere den Aufstrich mit unterschiedlichen Nüssen und Kernen aus oder verfeinere ihn mit getrockneten Beeren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Aufstrich Vielfalt</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9d0bb8pyw9spu1dlg" file_variant="master" position="1">Pistaziencreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6927fe275cc64">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9cyph7iezi08q8ht" file_variant="master" position="1">Pistaziencreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6927fe290cedb">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9cvog3j9cxqv88g4" file_variant="master" position="1">Pistaziencreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6927fe2ad46ac">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82n9cu66mi01dxcod8ht" file_variant="master" position="1">Pistaziencreme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

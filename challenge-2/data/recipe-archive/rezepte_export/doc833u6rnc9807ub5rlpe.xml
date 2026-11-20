@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc833u6rnc9807ub5rlpe" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-03T20:26:33+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-11-03T21:05:42+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="16"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Eierlikör Eis","recipe_seo_headline":null,"servings":{"amount":16.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":10},{"name":"Kühlen","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Zartbitterschokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":"(3,5 % Fett)"},{"amount":180,"amountTo":null,"ingredient_name":"Eierlikör","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":160,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":4,"amountTo":null,"ingredient_name":"Eigelbe","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":"(30 % Fett)"}]}],"preparation":[{"headline":null,"content":"Schokolade mit einem Messer grob hacken. Milch und Zucker in einen Topf geben, aufkochen, Eierlikör zugeben, erwärmen und vom Herd nehmen."},{"headline":null,"content":"Eier und Eigelbe in einer Schüssel mit einem Schneebesen schaumig schlagen. Milch noch einmal aufkochen und in einem dünnen Strahl unter die Eimasse rühren. Alles zusammen zurück in den Topf geben und unter ständigem Rühren bei mittlerer Hitze auf ca. 75 Grad erhitzen, bis die Masse leicht bindet."},{"headline":null,"content":"Sahne unterrühren, die Eismasse wieder zurück in die Schüssel geben und über einer weiteren Schüssel mit kaltem Wasser – am besten mit Eiswürfeln – kalt rühren. Anschließend in einer Eismaschine ca. 45 Minuten gefrieren lassen. Sobald das Eis fest wird, gehackte Schokolade unterheben."},{"headline":null,"content":"Eierlikör Eis in einem verschlossenen Behälter im Gefrierfach aufbewahren, Kugeln abstechen und im Hörnchen oder einer Schale servieren."}],"recipe_tips":[{"headline":"Heiße (Eierlikör-)Liebe","content":"Serviere das Eierlikör Eis mit geschlagener Sahne und heißen Himbeeren."}]}</CustomStructuredRecipeJson>
+    <Title>Eierlikör Eis</Title>
+    <Headline position="1">Eierlikör Eis</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-03T20:26:33+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="833u6ol7qlt1air8slpe">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zartbitterschokolade" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(3,5 % Fett)" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5676" amount="180" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Eierlikör" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="160" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" position="6" plural="Eigelbe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(30 % Fett)" position="7" plural="Sahne"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="833u6rnbvjd1hheiolpe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für das Eierlikör-Eis Schokolade mit einem Messer grob hacken. Zur Seite stellen. Milch und Zucker in einem Topf aufkochen, Eierlikör zugeben, kurz erwärmen und vom Herd nehmen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6rnbzb413fgwxlpe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Eier und Eigelbe in einer Schüssel mit einem Schneebesen schaumig schlagen. Milch noch einmal aufkochen und in einem dünnen Strahl unter die Eimasse rühren. Alles zusammen zurück in den Topf geben und unter ständigem Rühren bei mittlerer Hitze auf ca. 75 Grad erhitzen, bis die Masse leicht bindet.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6rnbzgltpq0slpe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Sahne unterrühren, die Eismasse wieder zurück in die Schüssel geben und über einer weiteren Schüssel mit kaltem Wasser – am besten mit Eiswürfeln – kalt rühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="833u6rnbzk812z70vlpe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Anschließend in einer Eismaschine ca. 45 Minuten gefrieren lassen. Sobald das Eis fest wird, gehackte Schokolade unterheben. Eierlikör-Eis in einem verschlossenen Behälter im Gefrierfach aufbewahren, Kugeln abstechen und im Hörnchen oder einer Schale servieren. Lass es dir schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="833u6rnbzo21e1v5flpe">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Serviere das Eierlikör Eis mit geschlagener Sahne und heißen Himbeeren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Heiße (Eierlikör-)Liebe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9pwbrkhul895hu5y" file_variant="master" position="1">Eierlikör Eis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69090af430a10">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9q0st7a91347vpmp2" file_variant="master" position="1">Eierlikör Eis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69090af9d2c2f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9pz0nh3s8puh7hqv" file_variant="master" position="1">Eierlikör Eis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69090afed2478">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9puv4xbm3zcgsmp2" file_variant="master" position="1">Eierlikör Eis</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_69090b010f631">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82p9q3l5lnbgjkdcu4b" file_variant="master" position="1">Eierlikör Eis</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

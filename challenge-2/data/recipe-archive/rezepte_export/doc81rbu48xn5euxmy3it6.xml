@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81rbu48xn5euxmy3it6" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-01T11:36:56+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-01T14:11:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="135"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsk0wz1eido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitronentorte ohne Backen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Kühlen","duration":135}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Boden","ingredients":[{"amount":70,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Butterkekse","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Für die Creme","ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Zitronen","unit":{"name":"(Keine Einheit)"},"prefix":"Bio","suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Doppelrahmfrischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"}]}],"preparation":[{"headline":null,"content":"Butter schmelzen. Kekse in einem Alleszerkleinerer mahlen oder in einem Gefrierbeutel zerbröseln. Brösel mit der Butter mischen."},{"headline":null,"content":"Springformboden (Ø 20 cm) mit Backpapier belegen. Bröselmix auf dem Boden verteilen und zu einem Boden festdrücken. Kühlstellen."},{"headline":null,"content":"Zitronen heiß abwaschen. Von zwei der Zitronen die Schale fein abreiben. Von der dritten Zitrone Zesten herunterreißen und die Zesten beiseite stellen. Zitronen halbieren und auspressen. Gelatine nach Packungsangabe in kaltem Wasser einweichen. Zitronensaft in einem Topf erwärmen, Gelatine ausdrücken und im warmen Zitronensaft auflösen. Beiseitestellen."},{"headline":null,"content":"Frischkäse, Zucker und Zitronenabrieb glatt rühren. Buttermilch zugeben. Warmen Gelatinemix einrühren. 15 Minuten kaltstellen."},{"headline":null,"content":"Schlagsahne steif schlagen und unter die Creme heben. Zitronencreme in die Form einfüllen. Torte mindestens 2 Stunden kaltstellen."},{"headline":null,"content":"Festgewordene Torte aus der Form lösen und auf eine Tortenplatte umsetzen. Mit den beiseite gestellten Zitronenzesten und nach Belieben weiteren Zitronenscheiben ausgarnieren."}],"recipe_tips":[{"headline":"Größere Form","content":"Du kannst die Torte auch in einer klassischen 26 cm Springform machen. Erhöhe hierfür alle Zutaten um die Hälfte (z.B. 225 g Butterkekse)."}]}</CustomStructuredRecipeJson>
+    <Title>Zitronentorte ohne Backen</Title>
+    <Headline position="1">Zitronentorte ohne Backen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-01T11:36:56+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81rbu1ahqk51r9trit6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5246" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butterkekse" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Boden</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81rbu1nk42a4u9c7it6">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Bio" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="8" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5616" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Doppelrahmfrischkäse" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buttermilch" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81rbu3fv6eempzxfit6">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="1"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" plural="Zitronen" position="2"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48xcoz361jbit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Butter schmelzen. Kekse in einem Alleszerkleinerer mahlen oder in einem Gefrierbeutel zerbröseln. Brösel mit der Butter mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48xi9k12jwjjit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Springformboden (Ø 20 cm) mit Backpapier belegen. Bröselmix auf dem Boden verteilen und zu einem Boden festdrücken. Kühlstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48xif7zuk2sit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zitronen heiß abwaschen. Von zwei der Zitronen die Schale fein abreiben. Von der dritten Zitrone Zesten herunterreißen und die Zesten beiseite stellen. Zitronen halbieren und auspressen. Gelatine nach Packungsangabe in kaltem Wasser einweichen. Zitronensaft in einem Topf erwärmen, Gelatine ausdrücken und im warmen Zitronensaft auflösen. Beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48xij9wdmg8it6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Frischkäse, Zucker und Zitronenabrieb glatt rühren. Buttermilch zugeben. Warmen Gelatinemix einrühren. 15 Minuten kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48ximqe8z8it6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Schlagsahne steif schlagen und unter die Creme heben. Zitronencreme in die Form einfüllen. Torte mindestens 2 Stunden kaltstellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81rbu48xiqphomhcit6">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="6">Festgewordene Torte aus der Form lösen und auf eine Tortenplatte umsetzen. Mit den beiseite gestellten Zitronenzesten und nach Belieben weiteren Zitronenscheiben ausgarnieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="6">Schritt 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81rbu48xiufjscfgit6">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst die Torte auch in einer klassischen 26 cm Springform machen. Erhöhe hierfür alle Zutaten um die Hälfte (z.B. 225 g Butterkekse).</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Größere Form</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814psfstoetw4ju6hma" file_variant="master" position="1">Zitronentorte_ohne_Backen_1211.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688caec7c0e7d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pskdp1xf19ba6rhwq" file_variant="master" position="1">Zitronentorte_ohne_Backen_0705.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688caec91e74a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pslv14i9yykqhhwq" file_variant="master" position="1">Zitronentorte_ohne_Backen_0791.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688caecb41d6f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814pshbijmtan8okhwq" file_variant="master" position="1">Zitronentorte_ohne_Backen_0761.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_688caeccce02e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc814psijac8311s9c5cos" file_variant="master" position="1">Zitronentorte_ohne_Backen_1196.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

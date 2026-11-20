@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81pan5es8i8r4m9pau0" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-28T12:38:59+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-07-28T12:50:41+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="35"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="tmt7gnir5ilravwe3mxopy"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqvb1a5f2wdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rhabarber Crumble","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":30},{"name":"Backen","duration":35}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Streusel","ingredients":[{"amount":80,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":"(type 405)"},{"amount":60,"amountTo":null,"ingredient_name":"Kokosblütenzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimt","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":60,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":null,"ingredients":[{"amount":400,"amountTo":null,"ingredient_name":"frischen Rhabarber","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Stärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":"tiefgekühlt","suffix":"(Tipp)"}]}],"preparation":[{"headline":null,"content":"Eine Auflaufform 15x20 cm mit Butter ausfetten."},{"headline":"Für die Streusel","content":"Mehl mit Zucker und Zimt in eine Rührschüssel geben. Butter in kleine Würfel schneiden und zusammen mit Zimt und Salz zu den Zutaten geben. Die Zutaten gut mischen und zwischen den Händen zerrreiben bis sich Streusel bilden. Bis zur Weiterverwendung kühl stellen."},{"headline":null,"content":"Den Rhabarber waschen und trocknen, den Rhabarber in 2 cm große Stücke schneiden, in eine Schüssel geben und mit Zucker und Stärke mischen, auf den Boden der Auflaufform verteilen. Die gekühlten Streusel auf dem Rhabarber verteilen und in den Ofen geben, für 35 Min goldbraun backen lassen."},{"headline":null,"content":"Das Dessert lauwarm mit Vanilleeis oder Vanillesauce servieren."}],"recipe_tips":[{"headline":"Tiefkühl Himbeeren für die rote Farbe &amp; Geschmack","content":"Mische unter den frischen Rhabarber 80 g tiefgekühlte Himbeeren."}]}</CustomStructuredRecipeJson>
+    <Title>Rhabarber Crumble</Title>
+    <Headline position="1">Rhabarber Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-28T12:38:59+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81pan271a7qmq77lau0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(type 405)" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7291" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Kokosblütenzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11306" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Zimt" position="3" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="5" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Streusel</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81pan43tbpvekoquau0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9141" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="frischer" plural="Rhabarber"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="40" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10356" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Stärke" position="3"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_688753d71c947">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" position="1" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="tiefgekühlt" plural="Himbeeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Tipp</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81pan5es4t21kpr6qau0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Eine Auflaufform 15x20 cm mit Butter ausfetten. Backofen auf 180 Grad Ober-/ Unterhitze (Umluft: 160 Grad) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81pan5es52gce2tmau0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mehl mit Zucker und Zimt in eine Rührschüssel geben. Butter in kleine Würfel schneiden und zusammen mit Zimt und Salz zu den Zutaten geben. Die Zutaten gut mischen und zwischen den Händen zerrreiben bis sich Streusel bilden. Bis zur Weiterverwendung kühl stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für die Streusel</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81pan5es7lz1bgr6rau0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Den Rhabarber waschen und trocknen, den Rhabarber in 2 cm große Stücke schneiden, in eine Schüssel geben und mit Zucker und Stärke mischen, auf den Boden der Auflaufform verteilen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Füllung</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81pan5es7qvg3r7gau0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die gekühlten Streusel auf dem Rhabarber verteilen und in den Ofen geben, für 35 Min goldbraun backen lassen. Das Dessert lauwarm mit Vanilleeis oder Vanillesauce servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81pan5es7v9nukcgau0">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Mische unter den frischen Rhabarber 80 g tiefgekühlte Himbeeren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Tiefkühl Himbeeren für die rote Farbe &amp; Geschmack</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc814c3bwmpp1khwm9eub" file_variant="master" position="1">RhabarberCrumble1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_688755f55d9e8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc814c37fp74p18fecq1tao" file_variant="master" position="1">RhabarberCrumbleStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_688755f79f8a3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc814c32ul5kz1m49dfes4" file_variant="master" position="1">RhabarberCrumbleStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_688755fa4b1f9">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc814c38lfioi1f9z88eub" file_variant="master" position="1">RhabarberCrumble2.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

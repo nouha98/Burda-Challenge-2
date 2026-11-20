@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83srs2qmxnltc8qh1o2d" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-22T09:02:07+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-12-22T09:05:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Himbeercreme","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Kühlen","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Himbeercreme","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Himbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2.5,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frische Himbeeren","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zitronenmelisse","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für die Himbeercreme","content":"6 Dessertgläser à 250 ml Fassungsvermögen bereitstellen. Himbeeren in einem hohen Gefäß pürieren, mit Zitronensaft und Puderzucker mischen. Den Magerquark unterrühren. Die Sahne in einen Rührbecher geben und steif aufschlagen, die Sahne unter die Quarkmasse unterheben. Die Himbeercreme in einen Spritzbeutel geben und ca. 1 cm unten aufschneiden. Jedes Dessertglas bis zu 2/3 mit der Creme befüllen und mit frischen Himbeeren und etwas Zitronenmelisse dekorieren. Das Dessert für 30 Minuten kühl stellen und gekühlt servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Himbeercreme</Title>
+    <Headline position="1">Himbeercreme</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-22T09:02:07+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83srs0ev2xh1ko59r1o2d">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6656" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Himbeeren" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2.5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt803gypox7k815tn3w14fg" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" position="7" amount="1" plural="frische Himbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11371" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zitronenmelisse" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Himbeercreme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83srs2qmurmqbzd41o2d">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Dessertgläser à 250 ml Fassungsvermögen bereitstellen. Himbeeren in einem hohen Gefäß pürieren. Mit Vanillezucker, Zitronensaft und Puderzucker mischen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für die Himbeercreme</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6948fb5d812cf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Magerquark unterrühren. Die Sahne in einen Rührbecher geben und steif aufschlagen. Die geschlagene Sahne unter die Quarkmasse heben. Die Himbeercreme in einen Spritzbeutel geben und ca. 1 cm unten aufschneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6948fb66efe80">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Jedes Dessertglas bis zu 2/3 mit der Creme befüllen und mit frischen Himbeeren und etwas Zitronenmelisse dekorieren. Das Dessert für 30 Minuten kühl stellen und gekühlt servieren. Lass dir die Himbeercreme schmecken!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe250bxci1eo8eldqm" file_variant="master" position="1">Himbeercreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6948fbd6e32c7">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe26ghfaa6q1midmh" file_variant="master" position="1">Himbeercreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6948fbd86d7db">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe27vibmp1nb1dpddv" file_variant="master" position="1">Himbeercreme</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6948fbda258b4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82qe23kf3pl10k03tdmh" file_variant="master" position="1">Himbeercreme</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

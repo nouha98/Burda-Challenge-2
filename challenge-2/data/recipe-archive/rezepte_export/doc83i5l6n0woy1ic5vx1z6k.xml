@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83i5l6n0woy1ic5vx1z6k" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-01T17:09:21+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-12-03T16:39:11+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpwpyk7b6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrb6hevkldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtdvqlmgtdo5"/>
+    <Source topic="tmt83i5o403uiopd9sf1zkq"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Apple-Crumble","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":35}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"brauner Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":900,"amountTo":null,"ingredient_name":"Äpfel","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Orange","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Nelkenpulver","unit":{"name":"(Keine Einheit)"},"prefix":"je 1 kräftige Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Kardamompulver","unit":{"name":"(Keine Einheit)"},"prefix":"je 1 kräftige Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Zimtpulver","unit":{"name":"(Keine Einheit)"},"prefix":"je 1 kräftige Prise","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"getrocknete Cranberrys","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Am Vortag","content":"Das Mehl mit Butter und 150 g Zucker und 1 Prise Salz krümelig kneten. Äpfel schälen, halbieren, entkernen und in dünne Spalten schneiden. Mit Orangensaft, restlichem Zucker (30 g), den Gewürzen und getrockneten Cranberrys aufkochen. Alles zugedeckt kalt stellen."},{"headline":"Für die Pfännchen","content":"Etwas Apfel in die Pfännchen geben, darauf die Streusel verteilen. Unter dem Grill 10 Minuten backen."}],"recipe_tips":[{"headline":null,"content":"Dazu passt: Vanilleeis oder geschlagene Sahne."}]}</CustomStructuredRecipeJson>
+    <Title>Apple-Crumble</Title>
+    <CustomRecipeNoteInformation position="1">(à 2 Pfännchen)</CustomRecipeNoteInformation>
+    <Headline position="1">Apple-Crumble</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-01T17:09:21+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83i5l911o8212awz6eaz">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="2"/>
+      <CustomRecipeIngredient topic="tmt7zg51d7hndz16b5ocq09" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" plural="brauner Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="900" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Äpfel" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8461" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Saft von" plural="Orange" position="6"/>
+      <CustomRecipeIngredient topic="tmt83i5mreuwqao58z11zfv" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="je 1 kräftige Prise" position="7" plural="Nelkenpulver"/>
+      <CustomRecipeIngredient topic="tmt7hvj7e7lppu1ms8mza4o" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="je 1 kräftige Prise" plural="Kardamompulver" position="8"/>
+      <CustomRecipeIngredient topic="tmt7zg83hkpnqhwwh6o1xb1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="je 1 kräftige Prise" plural="Zimtpulver" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5466" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="10" plural="Cranberrys" prefix="getrocknete"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83i5lcquxls1grsjteaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Mehl mit Butter und 150 g Zucker und 1 Prise Salz krümelig kneten. Äpfel schälen, halbieren, entkernen und in dünne Spalten schneiden. Mit Orangensaft, restlichem Zucker (30 g), den Gewürzen und getrockneten Cranberrys aufkochen. Alles zugedeckt kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Am Vortag</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83i5lcqvt0g1los25eaz">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Etwas Apfel in die Pfännchen geben, darauf die Streusel verteilen. Unter dem Grill 10 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2">Für die Pfännchen</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83i5lcqvtc3ar9jweaz">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Dazu passt: Vanilleeis oder geschlagene Sahne.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>4x süßes Raclette - Fruit-Froster, Schoko-Himbeer-Meringue, Apple-Crumble, Bunte Plinsen-mit-Vanillesauce</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Jan-Peter Westermann</ImageCredit>
+      <DocumentRef doc_id="doc82fiu286lua1jlg61hn5" file_variant="master" position="1">4x süßes Raclette - Fruit-Froster, Schoko-Himbeer-Meringue, Apple-Crumble, Bunte Plinsen-mit-Vanillesauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

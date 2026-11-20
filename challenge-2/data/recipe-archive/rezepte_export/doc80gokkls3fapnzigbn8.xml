@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc80gokkls3fapnzigbn8" dcx-version="6.3.1" version="1.0">
+  <created>2025-05-02T16:49:50+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-05-06T14:54:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="5"/>
+    <LastEditedBy topic="tmt7ujawqxmrna1fkfgbm5i"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnic168vmrdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <Keywords topic="tmt6owqr1ttj1tqsxh48m0"/>
+    <Keywords topic="tmt6p3f8mtmovk1hr2y48ly"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vegane Buchweizenpfannkuchen","recipe_seo_headline":null,"servings":{"amount":20.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Ruhen/Warten","duration":5}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":300,"amountTo":null,"ingredient_name":"Buchweizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":"(z. B. Kokosblütenzucker)"},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"Pflanzendrink","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"ml"},"prefix":null,"suffix":"mit Kohlensäure"},{"amount":null,"amountTo":null,"ingredient_name":"Vegane Butter","unit":null,"prefix":"Außerdem","suffix":"zum Ausbacken"},{"amount":125,"amountTo":null,"ingredient_name":"Heidelbeeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":2,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Buchweizenmehl, Backpulver, Zucker und Salz mischen. Pflanzendrink zugeben und glattrühren, ca. 5 Min. ruhen lassen. Eine Pfanne erhitzen, vegane Butter darin schmelzen lassen."},{"headline":null,"content":"Mineralwasser zum Teig geben und nur kurz einrühren. Den Teig portionsweise mit einer kleinen Kelle in die heiße Pfanne geben und von beiden Seiten goldbraun ausbacken. Mit dem restlichen Teig ebenso fortfahren. Buchweizenpfannkuchen übereinander stapeln, so halten sie sich warm. Nach Belieben mit frischen Beeren und Ahornsirup servieren. Ergibt ca. 20 kleine Pfannkuchen."}],"recipe_tips":[{"headline":"Frisch zubereiten","content":"Die Buchweizenpfannkuchen schmecken am besten frisch gebacken. Du kannst sie luftdicht verpackt aufbewahren."}]}</CustomStructuredRecipeJson>
+    <Title>Vegane Buchweizenpfannkuchen</Title>
+    <Headline position="1">Vegane Buchweizenpfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-05-02T16:49:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="80gokhiaql414gtvabn8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5191" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Buchweizenmehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(z. B. Kokosblütenzucker)" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt7ikp8gacyxwdwkohi63" amount="400" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Pflanzendrink" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="mit Kohlensäure" plural="Mineralwasser" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_681a05e7f3b35">
+      <CustomRecipeIngredient topic="tmt7zien2vv4lcr03p1c5x" position="1" suffix="zum Ausbacken" plural="vegane Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6646" position="2" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Heidelbeeren"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" position="3" amount="2" amount_max="3" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Ahornsirup"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="80gokklritezjdrmbn8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Buchweizenmehl, Backpulver, Zucker und Salz mischen. Pflanzendrink zugeben und glattrühren, ca. 5 Min. ruhen lassen. Eine Pfanne erhitzen, vegane Butter darin schmelzen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="80gokklrny81gx0phbn8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Mineralwasser zum Teig geben und nur kurz einrühren. Den Teig portionsweise mit einer kleinen Kelle in die heiße Pfanne geben und von beiden Seiten goldbraun ausbacken. Mit dem restlichen Teig ebenso fortfahren. Buchweizenpfannkuchen übereinander stapeln, so halten sie sich warm. Nach Belieben mit frischen Beeren und Ahornsirup servieren. Ergibt ca. 20 kleine Pfannkuchen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="80gokklro61qpnafbn8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Die Buchweizenpfannkuchen schmecken am besten frisch gebacken. Du kannst sie luftdicht verpackt aufbewahren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Frisch zubereiten</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_2_681a05c3243a8">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">3 Tage gekühlt</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit </CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d5xx0ls6b7aztakk" file_variant="master" position="1">Bananenbrot_vegan_0082.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_681a068630689">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d70ehv7bga0kakf" file_variant="master" position="1">Bananenbrot_vegan_0086.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_681a0687b9b63">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d714u286sc1ivilt" file_variant="master" position="1">Bananenbrot_vegan_0081.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_681a068971c20">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d716qu077b5jgi90" file_variant="master" position="1">Bananenbrot_vegan_0085.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_5_681a068b29a66">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 5</ImageLabel>
+      <ImageCredit position="5">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d71o36qa1a7ebzijn" file_variant="master" position="1">Bananenbrot_vegan_0091.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_6_681a068c8f4d5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 6</ImageLabel>
+      <ImageCredit position="6">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d7286yiw71vqalb" file_variant="master" position="1">Bananenbrot_vegan_0092.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_7_681a068e411a2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 7</ImageLabel>
+      <ImageCredit position="7">ANDREAS THUMM</ImageCredit>
+      <DocumentRef doc_id="doc808d72eo5j61mwji7ia1" file_variant="master" position="1">Bananenbrot_vegan_0084.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_8_681a068fc5bdd">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 8</ImageLabel>
+      <ImageCredit position="8">Andreas_Thumm</ImageCredit>
+      <DocumentRef doc_id="doc808d7037ze146zy4ipw" file_variant="master" position="1">Buchweizenpfannkuchen_vegan.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_9_681a069195a03">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 9</ImageLabel>
+      <ImageCredit position="9">Andreas_Thumm</ImageCredit>
+      <DocumentRef doc_id="doc808d71t4js49mzuzilt" file_variant="master" position="1">Buchweizenpfannkuchen_vegan-2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc835ntq1omi92zv5rlk2" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-07T09:36:18+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-11-07T09:42:56+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Kräuter-Quark Dip","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Dip","ingredients":[{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Schnittlauch","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Lauchzwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Mineralwasser","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Paprika edelsüß","unit":null,"prefix":null,"suffix":null}]}],"preparation":[{"headline":"Für den Kräuter-Quark Dip","content":"Petersilie, Schnittlauch, Lauchzwiebeln waschen, trocknen und fein hacken. Zwiebel und Knoblauch waschen, trocknen und feinste Würfel hacken. Magerquark mit Joghurt und Mineralwasser zu einem glatten Quark rühren. Die Kräutermischung unter den Quark rühren und erneut mit den Gewürzen abschmecken. Der Quark passt am besten zu frischen Ofenkartoffeln oder Gemüsesticks, kann aber so auch als Dip gereicht werden."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Kräuter-Quark Dip</Title>
+    <Headline position="1">Kräuter-Quark Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-07T09:36:18+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="835ntmwt7ba17bapilk2">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9756" amount="2" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Schnittlauch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="4" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Lauchzwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="0.5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zwiebeln" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Naturjoghurt" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8181" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Mineralwasser" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="10" suffix="frisch gemahlen, schwarz" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt80j6clxk17tgptt6gip" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="11" plural="Paprika edelsüß"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Dip</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="835ntq1oid41dlhunlk2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Petersilie, den Schnittlauch und die Frühlingszwiebeln waschen, putzen, trocknen und fein hacken. Die Zwiebel und den Knoblauch abziehen und in feinste Würfel hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Kräuter-Quark Dip</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_690db0992d234">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Magerquark mit dem Joghurt und dem Mineralwasser zu einem glatten Quark rühren. Die Kräuter, Zwiebel- und Knoblauchwürfel unter den Quark rühren und den Kräuterquark mit den Gewürzen abschmecken. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Dazu passt:</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Der cremige Kräuter-Quark-Dip passt am besten zu frischen Ofenkartoffeln oder Gemüsesticks. So lecker!</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m47q5wkuprfsrilz6" file_variant="master" position="1">Kräuter-Quark-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_690db0fdc518b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m47n5k6d2jeuk5lv4" file_variant="master" position="1">Kräuter-Quark-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_690db0ff4ffe2">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m47lwj5b41bg3milv4" file_variant="master" position="1">Kräuter-Quark-Dip</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_690db10064c93">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82m47rnsvki158ssalv2" file_variant="master" position="1">Kräuter-Quark-Dip</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

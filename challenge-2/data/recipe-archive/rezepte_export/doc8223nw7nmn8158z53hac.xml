@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8223nw7nmn8158z53hac" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-22T10:48:26+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-22T10:54:03+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="45"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zitronenmarmelade","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":45}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":5,"amountTo":null,"ingredient_name":"Zitronen","unit":{"name":"Stück"},"prefix":null,"suffix":"Saft und Abrieb"},{"amount":250,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ingwer","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1000,"amountTo":null,"ingredient_name":"Gelierzucker","unit":{"name":"g"},"prefix":null,"suffix":"1:1"}]}],"preparation":[{"headline":null,"content":"Die Gläser heiß ausspülen und gut abtrocknen lassen."},{"headline":null,"content":"Die Zitronen dünn schälen, Zitronenschalen in einen Topf geben und Zitronen auspressen. Zitronensaft zu der Schale geben und mit 250 ml Wasser aufschütten. Alles zusammen aufkochen lassen und für 10 min einkochen."},{"headline":null,"content":"Ein Stück Ingwer schälen und zu dem Zitronensud hinzugeben. Den Gelierzucker in einem einrühren und alles für 10 min einkochen lassen, vor dem Abfüllen nochmals sprudelnd aufkochen lassen."},{"headline":null,"content":"Die Zitronenmarmelade in die Gläser füllen und den Deckel aufschrauben."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Zitronenmarmelade</Title>
+    <Headline position="1">Zitronenmarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-22T10:48:26+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8223nv7ol4x19099uhac">
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="Saft und Abrieb" plural="Zitronen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6826" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Ingwer" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="1000" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="1:1" plural="Gelierzucker" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8223nw7ne03mypnshac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Gläser heiß ausspülen und gut abtrocknen lassen. Die Zitronen dünn schälen, Zitronenschalen in einen Topf geben und Zitronen auspressen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8223nw7niw3o92dhhac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zitronensaft zu der Schale geben und mit 250 ml Wasser aufschütten. Alles zusammen aufkochen lassen und für 10 min einkochen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8223nw7njbnv6un1hac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Ein Stück Ingwer schälen und zu dem Zitronensud hinzugeben. Den Gelierzucker in einem einrühren und alles für 10 min einkochen lassen, vor dem Abfüllen nochmals sprudelnd aufkochen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8223nw7njhg16tt37hac">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Die Zitronenmarmelade in die Gläser füllen und den Deckel aufschrauben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2grsodu123qe1ftj" file_variant="master" position="1">Zitronenmarmelade_2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a830285b3f5">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2fulqqapjzjd9gc" file_variant="master" position="1">Zitronenmarmelade_Step.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a83029b3000">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81mr2dwxhqpyjz84ftj" file_variant="master" position="1">Zitronenmarmelade1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85bu8do7e54kglp9n8u" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-08T14:11:43+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-08T14:18:53+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="45"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <Source topic="tmt85buboywgigjsiaena3"/>
+    <Headline position="1">Mit Reis gefülltes Gemüse aus dem Ofen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-08T14:11:43+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10611" position="1" amount="4" prefix="große" suffix="(z.B. Fleischtomaten, Ochsenherzen)" plural="Tomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="2" amount="3" prefix="runde" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4641" position="3" amount="1" prefix="runde" plural="Auberginen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7651" position="4" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Langkornreis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="5" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="6" amount="1" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" position="7" amount="3" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8806" position="8" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(z.B. Champignons, Kräuterseitlinge)" plural="Pilze"/>
+      <CustomRecipeIngredient topic="tmt80gjcozkwdtsni8zbn8" position="9" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="in Öl" plural="getrocknete Tomaten"/>
+      <CustomRecipeIngredient topic="tmt80j89pdgoz41naj6ugip" position="10" amount="2" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" plural="Baby-Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5931" position="11" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Feta"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" position="12" amount="1" unit_topic="tmt7e8m63qi1ztu53r11ng" unit="Handvoll" suffix="(z.B. Thymian, Basilikum, Rosmarin)" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="13" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="14" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4871" position="15" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Bergkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9066" position="16" amount="80" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gewürfelter" plural="Räucherspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" position="17" amount="250" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11111" position="18" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Weißwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10641" position="19" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Tomatenmark"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Tomaten, Zucchini sowie Aubergine abbrausen und putzen. Von den Tomaten und Zucchini jeweils einen Deckel abschneiden, das Fruchtfleisch mit einem Löffel auslösen und beiseitestellen. Die Aubergine quer halbieren und ebenfalls aushöhlen. Das ausgelöste Zucchini- und Auberginenfruchtfleisch fein würfeln. Das Tomatenfruchtfleisch separat klein würfeln und beiseitestellen.  </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d6474b312e8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Reis in Salzwasser nach Packungsangabe kochen. Reichlich Salzwasser in einem Topf aufkochen und die ausgehöhlten Zucchini und Aubergine darin 4–5 Minuten blanchieren.  </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d6475c205cf">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zwiebel und Knoblauch abziehen und fein würfeln. Die Pilze putzen und klein schneiden. Die getrockneten Tomaten abtropfen lassen, dann klein würfeln. Den Spinat verlesen, waschen und trockenschleudern. Den Feta klein würfeln. Die Kräuter abbrausen und trocken schütteln. Blätter bzw. Nadeln abzupfen und fein hacken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_69d64767a2b96">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Olivenöl in einer Pfanne erhitzen. Zwiebel und Knoblauch darin hell anschwitzen. Die Zucchini-, Auberginenfruchtfleisch sowie Pilze zufügen und ca. 5 Minuten anbraten. Tomatenfruchtfleisch, getrocknete Tomaten sowie in die Pfanne geben und kurz mitgaren. Dann Feta und 2/3 der Kräuter untermischen. Zum Schluss den Reis unterheben und alles kräftig mit Salz sowie Pfeffer abschmecken. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_69d647715fa60">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Backofen auf 200 Grad Ober-/Unterhitze vorheizen. Eine große ofenfeste Form (ca. 24 x 36 cm) mit Öl ausstreichen.   </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_69d6477bb77cd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das ausgehöhlte Gemüse in die Form setzen und mit der Reismischung füllen. Alles mit geriebenem Käse und Speck bestreuen, dann die „Deckel“ auflegen. Brühe, Wein und Tomatenmark verrühren. Den Sud mit Salz sowie Pfeffer würzen und angießen. Die übrigen Kräuter in der Form verteilen. Alles mit etwas Olivenöl beträufeln und im Ofen ca. 35 Minuten garen, bis das Gemüse leicht gebräunt ist.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Veggie-Variante</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Wer auf Fleisch verzichten möchte, lässt den Speck einfach weg oder ersetzt ihn durch klein gewürfelten geräucherten Tofu. </CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mit Reis gefülltes Gemüse aus dem Ofen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Nadja Hudovernik Food Photography</ImageCredit>
+      <DocumentRef doc_id="doc7mez1pv1pco1821a26vm" file_variant="master" position="1">Mit Reis gefülltes Gemüse aus dem Ofen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7ef7xlafvf41ek4w5nx8" dcx-version="6.3.1" version="1.0">
+  <created>2021-02-08T10:15:30+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7ddcpxd417s194j5t1qs"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7ddcpxd417s194j5t1qs"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Keywords topic="tmt7ef84kngob8fpi0i3hz"/>
+    <DateImported>2021-02-08T10:15:30+01:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">320</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">44</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">4</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">15</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Eisbecher mit Kompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" position="1" amount="4" plural="Äpfel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9271" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rohrzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="3" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7151" position="4" amount="4" prefix="Ingwer-Nuss" plural="Kekse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10781" position="5" amount="4" prefix="Kugeln" plural="Vanilleeis"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Äpfel waschen oder nach Belieben schälen. Die Äpfel vierteln, das Kerngehäu-se entfernen und die Apfelviertel würfeln. Die Butter In einer kleinen Pfanne erhitzen und die Äpfel darin 5 Min. dünsten. Mit Zimt und Zucker bestreuen. Den Limetten-saft zufügen und kurz weiterdünsten, bis sich der Zucker aufgelöst hat.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_60210393b7a3b">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die Kekse zerbröseln. Die Hälfte des Apfelkompotts und der Kekskrümel in 4 Dessertgläser füllen. Je 1 Kugel Vanilleeis daraufgeben und mit übrigem Kompott und restlichen Bröseln anrichten.
+</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Good Food</ImageCredit>
+      <DocumentRef doc_id="doc7c978thma911ks3eiole" file_variant="master" position="1">Winterlicher Eisbecher mit Apfel und Keks-Crumbles</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

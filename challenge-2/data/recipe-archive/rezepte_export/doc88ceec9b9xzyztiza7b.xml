@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88ceec9b9xzyztiza7b" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-05T19:53:49+01:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-11-06T11:19:17+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="6" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <Source topic="tmt88ceqpsxyxk6tam3b5x"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Weihnachts-Bellini","recipe_seo_headline":null,"servings":{"amount":6.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":180}],"difficulty":null,"price":null,"nutritions":{"calories":36,"kilojoule":151,"carbonhydrates":8,"fat":0,"protein":0,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"weißes Pfirsichpüree","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rosmarin","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Limette","unit":{"name":"Stück"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"trockener alkoholfreier Sekt","unit":{"name":"(Keine Einheit)"},"prefix":"eisgekühlte Flasche","suffix":null}]}],"preparation":[{"headline":null,"content":"Das Pfirsichpüree mit Zimt und Rosmarin in einem kleinen Topf verrühren. Kurz erhitzen und die Mischung ca. 20 Minuten ziehen lassen."},{"headline":null,"content":"Fruchtmischung durch ein feines Sieb passieren, dann mit Limettensaft verrühren. In eine flache Schale, am besten aus Metall oder Glas, umfüllen und für mindestens 3 Stunden ins Tiefkühlfach stellen."},{"headline":null,"content":"Sobald die Flüssigkeit zu gefrieren beginnt, mit einem Schneebesen oder Löffel mehrmals gut durchrühren, damit sich keine großen Eiskristalle bilden können."},{"headline":null,"content":"Das gefrorene Granité portionsweise mit einem Löffel abschaben oder mit einer Gabel abkratzen. In gekühlte Sektgläser verteilen, mit alkoholfreiem Sekt aufgießen und sofort servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Weihnachts-Bellini</Title>
+    <CustomRecipeNutritionalValueCalories position="1">36</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">151</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">8</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Fruchtmischung muss 3 Stunden gefrieren; Zutaten für 6 Gläser à ca. 250 ml</CustomRecipeNoteInformation>
+    <Headline position="1">Weihnachts-Bellini</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-05T19:53:49+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88ceedhtcuaa8lsq20dx">
+      <CustomRecipeIngredient topic="tmt88ceos2qt9zvyjwlb57" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="weißes" plural="Pfirsichpüree"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Zimtstangen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" plural="Rosmarin" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7746" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="Saft von" plural="Limetten" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10016" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Flasche eisgekühlter, trockener alkoholfreier" position="5" plural="Sekt"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88ceeexle55pz16h20dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Pfirsichpüree mit Zimt und Rosmarin in einem kleinen Topf verrühren. Kurz erhitzen und die Mischung ca. 20 Minuten ziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88ceeexlgqssg3y120dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Fruchtmischung durch ein feines Sieb passieren, dann mit Limettensaft verrühren. In eine flache Schale, am besten aus Metall oder Glas, umfüllen und für mindestens 3 Stunden ins Tiefkühlfach stellen. Sobald die Flüssigkeit zu gefrieren beginnt, mit einem Schneebesen oder Löffel mehrmals gut durchrühren, damit sich keine großen Eiskristalle bilden können.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88ceeexlgw6rl1co20dx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Das gefrorene Granité portionsweise mit einem Löffel abschaben oder mit einer Gabel abkratzen. In gekühlte Sektgläser verteilen. Mit alkoholfreiem Sekt aufgießen und sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Pfirsichpüree</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Für einen klassischen Bellini sorgt Püree aus weißen Pfirsichen für das besonders fruchtige Aroma. Fertiges Pfirsichpüree gibt es gelegentlich zu kaufen, es lässt sich aber auch ganz einfach selbst machen: 2–3 Pfirsiche mit kochendem Wasser überbrühen, häuten, entsteinen und das Fruchtfleisch pürieren. Für eine besonders feine Konsistenz anschließend durch ein Sieb streichen. Alternativ einfach Pfirsichsaft verwenden. Tipp: Das Pfirsichpüree gut kühlen bzw. gefrieren und erst kurz vor dem Servieren mit dem gut gekühlten Prosecco mischen – so bleibt der Bellini schön frisch und spritzig.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc787qt5cyjn7kf8p3lm5" file_variant="master" position="1">Weihnachts-Bellini_0005</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

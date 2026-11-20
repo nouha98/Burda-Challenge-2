@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86iwlc9l4z4zdnrv9v8" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-01T09:43:50+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-07-01T09:51:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="8"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="105"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtko8acludo5"/>
+    <Source topic="tmt86iwp0aj97c1273rjnq5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Möhrenbrot","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Ruhen/Warten","duration":10},{"name":"Ruhen/Warten","duration":60},{"name":"Ruhen/Warten","duration":45},{"name":"Backen","duration":50}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Möhrensaft","unit":{"name":"ml"},"prefix":null,"suffix":"(ungesüßt)"},{"amount":0.5,"amountTo":null,"ingredient_name":"Hefe","unit":{"name":"Würfel"},"prefix":null,"suffix":null},{"amount":125,"amountTo":null,"ingredient_name":"Sonnenblumenkerne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Dinkelmehl","unit":{"name":"g"},"prefix":null,"suffix":"(Typ 630)"},{"amount":200,"amountTo":null,"ingredient_name":"Dinkelvollkornmehl","unit":{"name":"g"},"prefix":null,"suffix":"und etwas Mehl zum Verarbeiten"},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"TL"},"prefix":null,"suffix":"mit Fluorid (gehäuft)"}]}],"preparation":[{"headline":null,"content":"Möhrensaft lauwarm erhitzen, die Hefe darin auflösen und etwa 10 Minuten stehen lassen. In der Zwischenzeit Sonnenblumenkerne in einer Pfanne ohne Öl goldgelb rösten und beiseitestellen. Möhren schälen, putzen, waschen und grob raspeln."},{"headline":null,"content":"Die Mehle und das Salz in einer großen Rührschüssel mischen, die geraspelten Möhren, die Sonnenblumenkerne sowie den Hefe-Sud hinzugeben. Mindestens 15 Minuten mit den Händen, den Knethaken eines Handmixers oder mit Hilfe einer Küchenmaschine kneten, bis ein geschmeidiger Teig entsteht. Diesen mindestens 1 Stunde, aber am besten 3-4 Stunden, abgedeckt bei Raumtemperatur gehen lassen."},{"headline":null,"content":"Nach Ende der Gehzeit den Teig kurz durchkneten und zu einem runden Laib formen. Auf ein mit Backpapier ausgelegtes Backblech legen und zugedeckt nochmals 45 Minuten gehen lassen. Backofen auf 220 Grad Celsius (Ober-/Unterhitze) vorheizen."},{"headline":null,"content":"Eine feuerfeste Form gefüllt mit Wasser in den Backofen stellen. Das Brot auf mittlerer Schiene 50-60 Minuten backen; dabei die Temperatur zweimal nach jeweils 20 Minuten um 20 Grad Celsius reduzieren. Wenn es die Klopfprobe besteht und beim Klopfen hohl klingt, ist es gar."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Möhrenbrot</Title>
+    <Headline position="1">Möhrenbrot</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-01T09:43:50+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86iwla3ik081uldb9v8">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8231" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(ungesüßt)" plural="Möhrensaft" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6626" amount="0.5" unit="Würfel" unit_topic="tmt7domm3x9duhskfqwfif" plural="Hefe" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10226" amount="125" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Sonnenblumenkerne" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Typ 630)" plural="Dinkelmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5596" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="und etwas Mehl zum Verarbeiten" plural="Dinkelvollkornmehl" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="mit Fluorid (gehäuft)" plural="Jodsalz" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86iwlc9koph68vdw9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Möhrensaft lauwarm erhitzen, die Hefe darin auflösen und etwa 10 Minuten stehen lassen. In der Zwischenzeit Sonnenblumenkerne in einer Pfanne ohne Öl goldgelb rösten und beiseitestellen. Möhren schälen, putzen, waschen und grob raspeln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwlc9kvqvs5u729v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Mehle und das Salz in einer großen Rührschüssel mischen, die geraspelten Möhren, die Sonnenblumenkerne sowie den Hefe-Sud hinzugeben. Mindestens 15 Minuten mit den Händen, den Knethaken eines Handmixers oder mit Hilfe einer Küchenmaschine kneten, bis ein geschmeidiger Teig entsteht. Diesen mindestens 1 Stunde, aber am besten 3-4 Stunden, abgedeckt bei Raumtemperatur gehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwlc9kw2abv1pe9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Nach Ende der Gehzeit den Teig kurz durchkneten und zu einem runden Laib formen. Auf ein mit Backpapier ausgelegtes Backblech legen und zugedeckt nochmals 45 Minuten gehen lassen. Backofen auf 220 Grad Celsius (Ober-/Unterhitze) vorheizen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86iwlc9kw6d10vqwh9v8">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eine feuerfeste Form gefüllt mit Wasser in den Backofen stellen. Das Brot auf mittlerer Schiene 50-60 Minuten backen; dabei die Temperatur zweimal nach jeweils 20 Minuten um 20 Grad Celsius reduzieren. Wenn es die Klopfprobe besteht und beim Klopfen hohl klingt, ist es gar.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiym18l8jb1ehzwl3ek" file_variant="master" position="1">Moehrenbrot2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a44c6f0b9b96">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrenbrot Step</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiymn04xx3nh4xep90" file_variant="master" position="1">Moehrenbrot_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a44c6f35d72f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Möhrenbrot</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7eiym79wdc5e4v4n3ek" file_variant="master" position="1">Moehrenbrot1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

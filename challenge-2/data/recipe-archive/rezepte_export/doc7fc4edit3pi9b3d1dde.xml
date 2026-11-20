@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fc4edit3pi9b3d1dde" dcx-version="6.3.1" version="1.0">
+  <created>2021-04-13T12:03:36+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2022-04-20T15:32:07+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Keywords topic="tmt7fc4jwh0fau10iftedfe"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <DateImported>2021-04-13T12:03:36+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">250</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">22</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">5</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">22</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Tropisches Trifle</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7991" position="1" amount="1" suffix="(200g)" plural="Mangos"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7346" position="2" amount="40" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kokosraspeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" position="3" amount="250" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(3,5% Fett)" plural="Joghurt"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10691" position="4" amount="0,25" plural="Tonkabohnen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7331" position="5" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="Fleisch" plural="Kokosnüsse"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_60756e94db45b">
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">4 Tamarillo à 40 g</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_3_60756ed4cce2a">
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">1 Karambole</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Mango schälen, Fruchtfleisch vom Kern schneiden, in einem Rührbecher pürieren. Kokosraspel unter den Joghurt rühren. Tonkabohnehineinreiben, unterrühren. Tamarillos längs halbieren. Fruchtfleisch aus der Schale löffeln und pürieren. Das Püree durch ein Sieb streichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_60756e10baa2c">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Das Mangopüree auf 4 Gläser bzw. Dessertbecher aus Kunststoff ver-teilen. Den Kokos-Joghurt darauf verteilen. Darauf das Tamarillopüree über einen Löffelrücken vorsichtig so einfüllen, dass es als Schicht auf dem Joghurt liegt, ohne sich mit diesem zu verbinden. Kokosfleisch und Karambole in Spalten schneiden. Das Dessert damit garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">PhotoCuisine / Radvaner, Bernard</ImageCredit>
+      <DocumentRef doc_id="doc7cvt4p67dyc6mo98hq0" file_variant="master" position="1">Cremedessert mit exotischen Fr chten in Gl sern</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

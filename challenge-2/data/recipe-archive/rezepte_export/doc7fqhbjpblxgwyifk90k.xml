@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7fqhbjpblxgwyifk90k" dcx-version="6.3.1" version="1.0">
+  <created>2021-05-11T10:44:48+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:31:58+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <Keywords topic="tmt7fqhehi7638uycoo939"/>
+    <DateImported>2021-05-11T10:44:48+02:00</DateImported>
+    <CustomRecipeNutritionalValueCalories position="1">400</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">9</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">49</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">19</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Brokkoli-Thunfisch-Auflauf</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" position="1" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="im eigenen Saft (Dose)" plural="Thunfisch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5131" position="2" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Brokkoli"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7206" position="3" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Kirschtomaten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" position="4" amount="125" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Frischkäse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4846" position="5" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Béchamelsauce"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5921" position="6" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Fenchelsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="7" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6351" position="8" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Gouda"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4811" position="9" amount="0,5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Basilikum"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Thunfisch abtropfen lassen. Brokkoli waschen, putzen, in Röschen teilen. Tomaten waschen, halbieren. Frischkäse, Soße und Fenchel verrühren. Salzen und pfeffern.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_609a44d401ee1">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 200 Grad (Umluft 180 Grad) vorheizen. Brokkoli 3–5 Min. in Salzwasser kochen. Abschrecken, abtropfen lassen. Mit den Tomaten in die Soße geben. In eine gefettete Auflaufform füllen. Fisch darauf verteilen. Gouda aufstreuen. 15–20 Min. backen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_609a4515f030a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1"> Basilikum abbrausen, trocken tupfen, Blättchen abzupfen. Auflauf mit Pfeffer bestreuen. Mit Basilikum garniert sofort servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Arras, Klaus</ImageCredit>
+      <DocumentRef doc_id="doc75joiqo3kif15qx0qmo0" file_variant="master" position="1">Brokkoli-Thunfisch-Auflauf mit Basilikum</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

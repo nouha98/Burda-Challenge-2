@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81z1wyl75f91ba49if1w" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-16T12:24:46+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-16T12:36:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Baileys Mousse","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":120}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Creme","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Zartbitter-Schokolade","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Irish Cream Likör","unit":{"name":"ml"},"prefix":null,"suffix":"(z.B. Baileys)"},{"amount":1,"amountTo":null,"ingredient_name":"Backkakao","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":250,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":100,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":8,"amountTo":null,"ingredient_name":"Schoko-Waffelröllchen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"nach Belieben"},{"amount":1,"amountTo":null,"ingredient_name":"geraspelte Zartbitter oder Kaffeeschokolade","unit":{"name":"EL"},"prefix":null,"suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Schokolade fein hacken. Likör in einem Topf erwärmen. Gehackte Schokolade zugeben und unter ständigem Rühren bei niedriger Hitze schmelzen. Topf von der Herdplatte ziehen. Kakao einrühren, beiseitestellen."},{"headline":null,"content":"Schlagsahne mit den Schneebesen des Handrührgerätes so lange schlagen bis diese leicht fest wird. Nicht zu steif schlagen da diese beim Unterrühren der Schokolade sonst anfangen kann zu „grieseln“. Den noch lauwarmen Schokomix zügig unter die Sahne heben. Mousse gleichmäßig auf vier Dessertgläser (á 100 ml) füllen. Im Kühlschrank zwei Stunden durchkühlen lassen."},{"headline":null,"content":"Vor dem Servieren übrige Sahne leicht aufschlagen. Nach Belieben in einen Spritzbeutel mit Sterntülle füllen und die Gläser damit garnieren. Ersatzweise mit einem Esslöffel auf der festgewordenen Baileysmousse verteilen. Nach Belieben mit Schoko-Waffelröllchen und geraspelter Schokolade ausgarnieren und servieren."}],"recipe_tips":[{"headline":"Backkakao weglassen","content":"Du kannst den Kakao auch weglassen. Er dient dazu die Mousse etwas weniger süß zu machen."}]}</CustomStructuredRecipeJson>
+    <Title>Baileys Mousse</Title>
+    <Headline position="1">Baileys Mousse</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-16T12:24:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81z1ww9173d1mwxmcf1w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7736" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z.B. Baileys)" position="2" prefix="Irish Cream" plural="Likör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4686" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Backkakao" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Creme</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="81z1wxb6zxt11a7spf1w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11696" amount="8" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="nach Belieben" position="2" prefix="Schoko-" plural="Waffelröllchen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11286" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="zum Garnieren" position="3" prefix="geraspelte Kaffee- oder" plural="Zartbitter-Schokolade"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81z1wyl6vrqzix0nf1w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Für die Creme Schokolade fein hacken und den Likör in einem Topf erwärmen. Sobald der Likör warm ist, die gehackte Schokolade hinzufügen und unter ständigem Rühren bei niedriger Hitze schmelzen. Den Topf vom Herd nehmen, den Kakao einrühren und die Mischung beiseitestellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81z1wyl6zavfxubwf1w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Schlagsahne mit den Schneebesen des Handrührgerätes so lange schlagen bis diese leicht fest wird. Nicht zu steif schlagen da diese beim Unterrühren der Schokolade sonst anfangen kann zu „grieseln“. Den noch lauwarmen Schokomix zügig unter die Sahne heben. Mousse gleichmäßig auf vier Dessertgläser (á 100 ml) füllen. Im Kühlschrank zwei Stunden durchkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81z1wyl6zg51k0qgkf1w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vor dem Servieren übrige Sahne leicht aufschlagen. Nach Belieben in einen Spritzbeutel mit Sterntülle füllen und die Gläser damit garnieren. Ersatzweise mit einem Esslöffel auf der festgewordenen Baileysmousse verteilen. Nach Belieben mit Schoko-Waffelröllchen und geraspelter Schokolade ausgarnieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="81z1wyl6zk5gqwfhf1w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst den Kakao auch weglassen. Er dient dazu die Mousse etwas weniger süß zu machen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Backkakao weglassen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81fko9h69lkj2frkgnn" file_variant="master" position="1">Baileys_Mousse_29050.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a05ef6bf06c">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81fko5zt12118o0sdj2o" file_variant="master" position="1">Baileys_Mousse_28421.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68a05ef93d639">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81fko60x5rq1n23xdvao" file_variant="master" position="1">Baileys_Mousse_28641.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68a05efb80cb1">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81fko7gw9vb6vfxiveh" file_variant="master" position="1">Baileys_Mousse_29042.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

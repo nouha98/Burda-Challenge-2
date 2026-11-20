@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81jma3cn542uw6b4obu" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-17T11:29:48+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2026-05-20T08:32:46+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp6b3kmm9do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Source topic="tmt85xas2526vsqhz3hloj"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Joghurt-Mousse mit Aprikosenkompott","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":40},{"name":"Kühlen","duration":180}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Gelatine","unit":{"name":"Blatt"},"prefix":null,"suffix":null},{"amount":400,"amountTo":null,"ingredient_name":"griechischer Joghurt","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Aprikosen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"(Keine Einheit)"},"prefix":"Saft von","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zimtstange","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Gelatineblätter nach Packungsangabe in kaltem Wasser einweichen. Inzwischen Joghurt mit Honig und Vanilleextrakt glatt verrühren. Sahne steif schlagen."},{"headline":null,"content":"Etwa 4 EL der Joghurtmischung in einem kleinen Topf erwärmen, aber nicht kochen lassen. Eingeweichte Gelatineblätter gut ausdrücken und im warmen Joghurt auflösen (mit dem Schneebesen rühren). Etwas von der Joghurtmischung unter die Gelatinemischung rühren, dann diesen Mix mit dem Schneebesen zügig unter die restliche Joghurtmischung rühren. Sahne vorsichtig unterheben (evtl. mit dem Küchenspatel). Creme zugedeckt in mind. 3 Stunden im Kühlschrank fest werden lassen."},{"headline":null,"content":"Inzwischen für das Kompott Aprikosen waschen, entsteinen, in Spalten schneiden. In einem Topf Zucker, Zitronensaft, Zimtstange sowie 50 ml Wasser aufkochen und auf die Hälfte einkochen. Aprikosen zugeben und bei mittlerer Hitze ca. 8 Minuten köcheln lassen, bis die Aprikosen weich sind und die Flüssigkeit etwas eingedickt ist. Kompott abkühlen lassen, Zimtstange entfernen."},{"headline":null,"content":"Von der gekühlten Joghurt-Mousse mit einem Esslöffel Nocken abstechen und diese mit etwas Kompott auf Tellern anrichten."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Joghurt-Mousse mit Aprikosenkompott</Title>
+    <SubHeadline position="1">Griechisches Joghurtmousse mit Aprikosenkompott </SubHeadline>
+    <Headline position="1">Joghurt-Mousse mit Aprikosenkompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-17T11:29:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81jma61xx5e17psnk54x">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6211" amount="4" unit="Blatt" unit_topic="tmt71k9l2t09xx1jfg9ydbs" plural="Gelatine" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="400" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Joghurt" position="2" prefix="griechischer "/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Aprikosen" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="7"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zitronen" position="8" suffix="(Saft)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zimtstangen" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81jma8kkfmtln0pt54x">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Gelatineblätter nach Packungsangabe in kaltem Wasser einweichen. Inzwischen Joghurt mit Honig und Vanilleextrakt glatt verrühren. Sahne steif schlagen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81jma8kknfl1ib2wz54x">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Etwa 4 EL der Joghurtmischung in einem kleinen Topf erwärmen, aber nicht kochen lassen. Eingeweichte Gelatineblätter gut ausdrücken und im warmen Joghurt auflösen (mit dem Schneebesen rühren). </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81jma8kknlicb9mf54x">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Etwas von der Joghurtmischung unter die Gelatinemischung rühren, dann diesen Mix mit dem Schneebesen zügig unter die restliche Joghurtmischung rühren. Sahne vorsichtig unterheben (evtl. mit dem Küchenspatel). Creme zugedeckt in mind. 3 Stunden im Kühlschrank fest werden lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81jma8kknpgaonbg54x">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Inzwischen für das Kompott Aprikosen waschen, entsteinen, in Spalten schneiden. In einem Topf Zucker, Zitronensaft, Zimtstange sowie 50 ml Wasser aufkochen und auf die Hälfte einkochen. Aprikosen zugeben und bei mittlerer Hitze ca. 8 Minuten köcheln lassen, bis die Aprikosen weich sind und die Flüssigkeit etwas eingedickt ist. Kompott abkühlen lassen, Zimtstange entfernen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6878c2e013d86">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Von der gekühlten Joghurt-Mousse mit einem Esslöffel Nocken abstechen und diese mit etwas Kompott auf Tellern anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Griechisches Joghurtmousse mit Aprikosenkompott</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios/Jorma Gottwald</ImageCredit>
+      <DocumentRef doc_id="doc7xrcak1u4jb19e1zukuf" file_variant="master" position="1">Griechisches Joghurtmousse mit Aprikosenkompott</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

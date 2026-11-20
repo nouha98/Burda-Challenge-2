@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc84r73k66da0110xypl0a" dcx-version="6.3.1" version="1.0">
+  <created>2026-02-27T09:00:22+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-02-27T09:10:26+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="18"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bj0hvqkf7xfvsd94f"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Buttermilchmuffins","recipe_seo_headline":null,"servings":{"amount":12.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":25},{"name":"Backen","duration":18}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für die Muffins","ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":120,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Öl","unit":{"name":"ml"},"prefix":"neutrales","suffix":"(z. Bsp. Sonnenblumenöl)"},{"amount":250,"amountTo":null,"ingredient_name":"Weizenmehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2.5,"amountTo":null,"ingredient_name":"Backpulver","unit":{"name":"TL"},"prefix":"gestrichene","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Natron","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Zitrone","unit":{"name":"Stück"},"prefix":null,"suffix":"(Abrieb davon)"},{"amount":150,"amountTo":null,"ingredient_name":"Buttermilch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"TL"},"prefix":null,"suffix":"zum Bestäuben"}]}],"preparation":[{"headline":"Vorbereitungen","content":"Den Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen und ein Muffinbackblech mit 12 Papierförmchen auslegen."},{"headline":"Für den Teig","content":"Eier mit Zucker und Vanillezucker in einer Schüssel schaumig rühren. Öl hinzufügen und gut vermischen. In einer separaten Schüssel Mehl, Backpulver, Natron und Zitronenabrieb vermengen. Die trockenen Zutaten nach und nach unter die feuchten Zutaten rühren, bis ein glatter Teig entsteht. Zuletzt die Buttermilch zum Teig geben und alles gut umrühren. Den Teig gleichmäßig auf die Muffinförmchen verteilen und im vorgeheizten Ofen ca. 18 Minuten backen, bis die Muffins goldgelb gebacken sind. Die Muffins kurz in der Form abkühlen lassen, dann auf ein Kuchengitter setzen und vollständig auskühlen lassen. Nach Belieben mit Puderzucker bestäuben."}],"recipe_tips":[{"headline":"Gleichmäßige Teigmenge","content":"Du kannst den Muffinteig auch gut mit einem Eisportionierer einfüllen, dann hast du in jedem Förmchen die gleichmäßige Teigmenge."}]}</CustomStructuredRecipeJson>
+    <Title>Buttermilchmuffins</Title>
+    <CustomRecipeNoteInformation position="1">Du benötigst: Muffinbackblech mit 12 Mulden, Muffinförmchen, Rührschüsseln, Handrührgerät mit Schneebesen, Teigschaber oder Löffel zum Portionieren, Kuchengitter</CustomRecipeNoteInformation>
+    <Headline position="1">Buttermilchmuffins</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-02-27T09:00:22+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="84r73hhngtlo5s5fl0a">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" prefix="neutrales" suffix="(z. B. Sonnenblumenöl)" plural="Öl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Gr. M)" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Vanillezucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11131" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Weizenmehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4721" amount="2.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Backpulver" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Natron" position="7"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(Abrieb davon)" plural="Zitronen" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5251" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Buttermilch" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Muffins</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_69a150ae49b39">
+      <CustomRecipeIngredient topic="tmt7zien51ky8xzlwaeifb" position="1" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" suffix="nach Belieben" plural="Puderzucker zum Bestäuben"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Ausserdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="84r73k65wlz6b2fl0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen und ein Muffinbackblech mit 12 Papierförmchen auslegen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="84r73k666qhqpy1jl0a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Für den Teig Eier mit Zucker und Vanillezucker in einer Schüssel schaumig rühren. Öl zufügen und weiter rühren. In einer separaten Schüssel Mehl, Backpulver, Natron und Zitronenabrieb vermengen. Die trockenen Zutaten nach und nach unter die feuchten Zutaten rühren, bis ein glatter Teig entsteht. Zuletzt die Buttermilch zum Teig geben und alles gut umrühren. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="2"/>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69a150ef717c4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Teig gleichmäßig auf die Muffinförmchen verteilen und im vorgeheizten Ofen ca. 18 Minuten backen, bis die Muffins goldgelb gebacken sind. Danach kurz in der Form abkühlen lassen, dann auf ein Kuchengitter setzen und vollständig auskühlen lassen. Nach Belieben mit Puderzucker bestäuben. Luftdicht verpackt halten sich die Muffins rund 2 Tage.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="84r73k6671tzdu0zl0a">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Ich nehme dafür gern einen Eisportionierer – so kann ich die Teigmenge ganz einfach gleichmäßig auf die Förmchen verteilen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Gleichmäßig portionieren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844ro4gk14nz59139xl" file_variant="master" position="1">Buttermilchmuffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69a1516e09a6f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844rubctv4oiqge39xl" file_variant="master" position="1">Buttermilchmuffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69a1516f57cb4">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844ru7bvasl104lsqe2f" file_variant="master" position="1">Buttermilchmuffins</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69a15170d3771">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc844ro07983q14tn3m9xl" file_variant="master" position="1">Buttermilchmuffins</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

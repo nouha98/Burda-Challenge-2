@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83mosq1n85umblej1zll" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-10T12:54:51+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-12-10T12:58:58+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="30"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Zwiebelmarmelade","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Vorbereitung","duration":5},{"name":"Zubereitung","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":350,"amountTo":null,"ingredient_name":"rote Zwiebeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Rosmarin und Thymian","unit":{"name":"Zweig"},"prefix":"einige","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Rohrohrzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Portwein","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":40,"amountTo":null,"ingredient_name":"Balsamicoessig","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Lorbeerblatt","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Sternanis","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Speisestärke","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"frisch gemahlener Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"EL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"2 Schraubgläser mit Deckel (à ca. 180 ml) mit kochend heißem Wasser ausspülen und abtropfen lassen. Zwiebeln und Knoblauch abziehen, Zwiebeln fein würfeln und Knoblauchzehe mit dem Messerrücken andrücken. Kräuter waschen und abtropfen lassen."},{"headline":null,"content":"Olivenöl in einem Topf erhitzen, Zwiebel und Knoblauch zugeben und bei mittlerer Hitze ca. 5 Minuten anschwitzen. Zucker zugeben und unter Rühren hell karamellisieren."},{"headline":null,"content":"Mit Portwein, Balsamico und 100 ml Wasser ablöschen, Kräuter und Gewürze zugeben und ca. 20 Minuten bei geschlossenem Deckel köcheln lassen. Dabei gelegentlich umrühren."},{"headline":null,"content":"Knoblauch, Kräuter und Gewürze mit einer Gabel entfernen. Speisestärke mit restlichem kaltem Wasser glattrühren und die Marmelade nach Packungsanweisung abbinden."},{"headline":null,"content":"Zwiebelmarmelade mit Salz, Pfeffer und Honig abschmecken, noch einmal aufkochen, heiß in die ausgekochten Gläser abfüllen, verschließen und mit dem Deckel nach unten auskühlen lassen."}],"recipe_tips":[{"headline":"Mit schwarzer Johannisbeere","content":"Verfeinere die Zwiebelmarmelade mit ca. 50 ml Cassislikör (statt Portwein) und 50 g schwarzen Johannisbeeren und genieße sie zu Wild oder auch zu würzigem Käse."}]}</CustomStructuredRecipeJson>
+    <Title>Zwiebelmarmelade</Title>
+    <Headline position="1">Zwiebelmarmelade</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-10T12:54:51+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83moski3y2019w52r1zll">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" prefix="einige" position="3" suffix="und Thymian" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="350" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="rote Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11814" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rohrohrzucker" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8891" amount="80" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Portwein" position="6"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" amount="40" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Balsamicoessig" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7816" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Lorbeerblätter" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Sternanis" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10301" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Speisestärke" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="12"/>
+      <CustomRecipeIngredient topic="tmt80lb2rmcyfp8gi1j1ybl" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" position="13" plural="frisch gemahlener Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Honig" position="14"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83mosq1my0o16o8b11zll">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">2 Schraubgläser mit Deckel (à ca. 180 ml) mit kochend heißem Wasser ausspülen und abtropfen lassen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mosq1n1xv1dw5931zll">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Zwiebeln und Knoblauch abziehen, Zwiebeln fein würfeln und Knoblauchzehe mit dem Messerrücken andrücken. Kräuter waschen und abtropfen lassen. 
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mosq1n22skttmy1zll">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Olivenöl in einem Topf erhitzen, Zwiebel und Knoblauch zugeben und bei mittlerer Hitze ca. 5 Minuten anschwitzen. Rohrohrzucker zugeben und unter Rühren hell karamellisieren. Mit Portwein, Balsamico und Wasser ablöschen, Kräuter und Gewürze zugeben und ca. 20 Minuten bei geschlossenem Deckel köcheln lassen. Dabei gelegentlich umrühren.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mosq1n26g75gn91zll">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Knoblauch, Kräuter und Gewürze mit einer Gabel entfernen. Speisestärke mit restlichem kaltem Wasser glattrühren und die Marmelade nach Packungsanweisung abbinden.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83mosq1n29i59nb41zll">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Zwiebelmarmelade mit Salz, Pfeffer und Honig abschmecken, noch einmal aufkochen, heiß in die ausgekochten Gläser abfüllen, verschließen und mit dem Deckel nach unten auskühlen lassen. Die Zwiebelmarmelade ist kühl und dunkel gelagert etwa 6 Monate haltbar. Lass es dir schmecken!
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83mosq1n2e1miqiq1zll">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere die Zwiebelmarmelade mit ca. 50 ml Cassislikör (statt Portwein) und 50 g schwarzen Johannisbeeren und genieße sie zu Wild oder auch zu würzigem Käse.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Mit schwarzer Johannisbeere</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pagfei88618b4v2jx5" file_variant="master" position="1">Zwiebelmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69396060a2580">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pagiklw5y5rgwkp8z" file_variant="master" position="1">Zwiebelmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69396063bd47b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pagd4lp2g1huomrp8z" file_variant="master" position="1">Zwiebelmarmelade</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69396066b4d81">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Rebecca &amp; Mark Kipson</ImageCredit>
+      <DocumentRef doc_id="doc82pagbaolj81059ljp9c" file_variant="master" position="1">Zwiebelmarmelade</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86upsxrr0pk1wkj7b5e" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-24T09:25:35+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2026-07-24T09:42:27+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <Creator topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeServing topic="tmt81mb06zhac013huiz9o3" amount="10-12"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="65"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rswx1fccondo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="tmt7hmfjgli24mvngtkkyx"/>
+    <Source topic="tmt86uq0qnwqq0kvsjuba0"/>
+    <CustomRecipeNutritionalValueCalories position="1">250</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">35</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">9</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">7</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Brotrolle mit Schinken, Käse und Zucchini</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-24T09:25:35+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt7e4z7t1e7lupfff2oes" position="1" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="flüssiger" plural="Natursauerteig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9261" position="2" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Roggenschrot"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5591" position="3" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Dinkelmehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9256" position="4" amount="350" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Roggenmehl"/>
+      <CustomRecipeIngredient topic="tmt7zien42m8s01jtiotifb" position="5" amount="350" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="lauwarmes Wasser"/>
+      <CustomRecipeIngredient topic="tmt7zg4j024otz1i5j3jbqf" position="6" amount="30" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="frische Hefe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="7" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" position="9" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Sonnenblumenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10126" position="10" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" suffix="zum Bestreuen" plural="Sesamsamen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Teig</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6a6316ad69dd5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11421" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zucchini"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" position="2" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(am Stück)" plural="Kochschinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6351" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="(am Stück)" plural="Gouda"/>
+      <CustomRecipeIngredient topic="tmt85vckpixpnt1iv04ju0" position="4" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Frühlingszwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" position="5" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rapsöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="6" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Füllung</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Beutel mit Sauerteig ca. 20 Minuten in lauwarmes Wasser legen. Schrot und Mehle in einer Schüssel mischen. 175 ml lauwarmes Wasser mit der Hefe glatt rühren und mit dem Sauerteig zum Mehl geben. Den Zucker, Salz und Öl unterkneten, dabei nur so viel Wasser (ca. 175 ml) dazugeben, wie der Teig aufnehmen kann. Teig auf bemehlter Fläche mit den Händen ca. 10 Minuten kneten. Abgedeckt 1 Stunde gehen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6a631625d2e23">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Inzwischen für die Füllung die Zucchini abbrausen, putzen und in 2 cm große Stücke schneiden. Den Schinkenwürfeln, den Käse reiben. Frühlingszwiebeln putzen, abbrausen und in feine Ringe schneiden. Die Frühlingszwiebeln in heißem Öl andünsten, Schinken und Zucchini zugeben und mitdünsten. Mit Pfeffer würzen und abkühlen lassen. Dann den Käse untermischen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6a63163288564">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Teig auf wenig Dinkelmehl möglichst rechteckig (ca. 30 x 25 cm) ausrollen. Mit der Füllung belegen und von der kurzen Seite aufrollen. Die Teigrolle mit dem Schluss nach unten auf ein mit Backpapier belegtes Blech setzen, dann den Laib in der Länge ein wenig zusammenstauchen und zugedeckt noch einmal 1 Stunde gehen lassen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6a63163b18626">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Ofen mit einem Brotbackstein und einem ofenfesten Schälchen Wasser auf 240 Grad Ober- und Unter hitze vorheizen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6a631649c50ab">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Den Teigling mit Wasser bestreichen und mit Sesam bestreuen. Mithilfe des Backpapiers auf den heißen Backstein ziehen und ca. 15 Minuten anbacken. Dann die Hitze reduzieren und das Brot bei 180 Grad in ca. 50 Minuten fertig backen. Vom Stein nehmen und auskühlen lassen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Mit Schinken, Käse &amp; Zucchini gefüllte Brotrolle</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Gräfe &amp; Unzer Verlag / Rynio, Jörn</ImageCredit>
+      <DocumentRef doc_id="doc7h19k52yikn10qwlkexu" file_variant="master" position="1">Mit Schinken, Käse &amp; Zucchini gefüllte Brotrolle</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7e64cdn1h032ze33ya" dcx-version="6.3.1" version="1.0">
+  <created>2021-01-21T17:13:24+01:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2022-04-20T15:32:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <Creator topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt77hlfxepdgh14aj4z1hh"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" amount="12"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <DateImported>2021-01-21T17:13:24+01:00</DateImported>
+    <Headline position="1">Käse-Plätzchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9596" position="1" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Sandwichtoasts"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" position="3" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Mehl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" position="4" amount="100" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Milch"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5321" position="5" amount="150" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="fein geriebener" plural="Cheddar"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="6" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="gehackte" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" plural="Pfeffer"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">4 Scheiben Sandwichtoast rösten. 1 EL Butter erhitzen, 1 EL Mehl einrühren, anschwitzen. 100 ml Milch, 150 g fein ger. Cheddar, 1 EL geh. Petersilie und Pfeffer einrühren. Die Masse dünn auf die Brotscheiben streichen, Toasts unterm Backofengrill goldgelb rösten. Mit Ausstechern Hasen und Eier daraus ausstechen und aufs Buffet legen. Reste würfeln und z. B. als Croûtons zum Salat reichen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption type="xhtml" position="1">
+        <div xmlns="http://www.w3.org/1999/xhtml"><p>Käse-Plätzchen</p>
+<p>Käseplätzchen</p></div>
+      </ImageCaption>
+      <ImageCredit position="1">Mathias Neubauer</ImageCredit>
+      <DocumentRef doc_id="doc7a6qn1pgnbaom0r894h" file_variant="master" position="1">MFI_WELSH_RAREBIT</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

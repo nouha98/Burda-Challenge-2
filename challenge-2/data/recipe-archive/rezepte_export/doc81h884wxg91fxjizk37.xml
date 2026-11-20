@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81h884wxg91fxjizk37" dcx-version="6.3.1" version="1.0">
+  <created>2025-07-12T19:50:39+02:00</created>
+  <identifier></identifier>
+  <modcount>15</modcount>
+  <modified>2025-07-14T11:07:23+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-fols"/>
+    <ImportedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Creator topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt7x0qw4p8qkyfa1grjue"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="20"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpzd3r694do5"/>
+    <CustomRecipeNutritionalValueCalories position="1">815</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">49</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">42</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">48</CustomRecipeNutritionalValueFat>
+    <SubHeadline position="1">13261310 Gebackener Fisch mit Kruste und Fenchelsalat</SubHeadline>
+    <Headline position="1">Backfisch mit Röstkartoffeln und Fenchelsalat </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-07-12T19:50:39+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7091" position="12" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="kleine" suffix="(z.B. Drillinge) vom Vortag" plural="Kartoffeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="13" amount="2" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="grüner" suffix="(Glas)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9996" position="1" amount="600" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Seelachsfilet"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" position="2" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="flüssige" plural="Butter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9561" position="3" plural="Salz und Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10596" position="4" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" suffix="(ohne Rinde)" plural="Toastbrote"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5796" position="5" amount="60" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geröstete" plural="Erdnüsse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="6" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt80j89pdm7qa1jpv74gip" position="7" amount="0,5" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="glatte Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" position="8" amount="7" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Olivenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10316" position="9" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Spinat"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5911" position="10" amount="1,5" plural="Fenchelknollen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" position="11" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Zitronensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" position="14" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Rapsöl"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Fisch abbrausen, trockentupfen und in acht Stücke schneiden. Auf einem Backblech mit Backpapier mit der Butter bepinseln und mit Salz und Pfeffer würzen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_6872b63ed16da">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Toast würfeln, Nüsse hacken. Beides mit dem Parmesan in einem Blitzhacker zu Bröseln zermahlen. Petersilie waschen, trockenschütteln und die Blätter abzupfen, ½ Handvoll Petersilie hacken und mit 1 EL Olivenöl unter die Brösel mengen. Auf dem Fisch verteilen, leicht andrücken</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6872b6698dc05">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Ofen auf 180 Grad Umluft heizen. Spinat waschen und trockenschleudern. Fenchel waschen, putzen und in Streifen hobeln. Zitronensaft mit übrigem Olivenöl (6 EL) und grünem Pfeffer verrühren. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_6872b688d3f73">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Kartoffeln mit dem Rapsöl vermengen und zwischen dem Fisch verteilen. Im Ofen 15–20 Minuten backen. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_5_6872b698d2550">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 5</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Spinat, Fenchel und übrige Petersilie mischen, mit dem Dressing beträufeln. Backfisch mit den Kartoffeln und dem Fenchelsalat servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Gebackener Fisch mit Kruste und Fenchelsalat</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Wallace, Ian</ImageCredit>
+      <DocumentRef doc_id="doc7xi93dene0932ii2cue" file_variant="master" position="1">Gebackener Fisch mit Kruste und Fenchelsalat</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

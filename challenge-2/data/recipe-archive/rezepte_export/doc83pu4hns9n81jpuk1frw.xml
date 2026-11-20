@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83pu4hns9n81jpuk1frw" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-16T15:57:05+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-06-12T10:49:13+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt827vcrqlfqvk6rwx91o"/>
+    <Creator topic="tmt827vcrqlfqvk6rwx91o"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs5jvwd5cdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq8g1dsn2odo5"/>
+    <Source topic="tmt83pu83n63741a5rjrfue"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeNoteInformation position="1">Grill, Feuerfeste Pfanne</CustomRecipeNoteInformation>
+    <Headline position="1">Kartoffelsalat mit Zwiebel-Speck-Dressing und Jalapeno-Relish</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-16T15:57:05+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="1" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" position="2" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="grüne" plural="Paprika"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8636" position="3" amount="1" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="rote" plural="Peperoni"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6276" position="4" amount="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Gewürzgurken"/>
+      <CustomRecipeIngredient topic="tmt81nr11bne2u1kdjb3bws" position="5" amount="50" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Balsamicoessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="6" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt837ax15cu5w16uqy11brm" position="7" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" prefix="grüne eingelegte" plural="Jalapeño-Ringe"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für das Relish</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_2_6941738001e03">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8621" position="1" amount="800" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" suffix="vom Vortag" plural="Pellkartoffel" prefix="gekochte"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6121" position="3" amount="100" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Frühstücksspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" position="4" amount="1" unit_topic="tmt71k9l7ulc0y1015s16vi" unit="Bund" plural="Petersilie"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" position="5" amount="40" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Apfelessig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" position="6" amount="40" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Rapsöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="7" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="8" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Kartoffelsalat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für das Relish Zwiebel abziehen, würfeln. Paprika und Peperoni entkernen, waschen und ebenfalls würfeln. Gurken fein würfeln. Alles mit Essig und Honig unter Rühren aufkochen. Bei mittlerer Hitze einköcheln lassen. Jalapeños untermischen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_694174879245a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Einen Grill vorheizen. Pfanne auf dem Grill vorheizen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_6941749ec7544">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Für den Salat Kartoffeln pellen, in Scheiben schneiden. Zwiebeln abziehen, würfeln, Speck würfeln. Petersilie hacken. Bacon in Pfanne bei geschlossenem Deckel in 3–5 Minuten grillen, wenden. Zwiebeln zugeben, 2–3 Minuten mitbraten. Beides mit Essig und Öl unter die Kartoffeln heben, salzen, pfeffern. Salat mit Relish und Petersilie garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Kartoffelsalat mit Zwiebel-Speck-Dressing und Jalapeno-Relish</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Neubauer, Mathias</ImageCredit>
+      <DocumentRef doc_id="doc82pqxglfqad1bk1wff2s" file_variant="master" position="1">Kartoffelsalat mit Zwiebel-Speck-Dressing und Jalapeno-Relish</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

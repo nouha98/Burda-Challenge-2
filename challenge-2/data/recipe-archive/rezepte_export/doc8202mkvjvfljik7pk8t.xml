@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc8202mkvjvfljik7pk8t" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-18T12:02:42+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-08-18T12:06:30+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnmoy2246do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Frühstücksshake","recipe_seo_headline":"Frühstücksshake – Blitzrezept zum selber machen","servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Shake","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Beeren","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Naturjoghurt","unit":{"name":"EL"},"prefix":null,"suffix":"(3,5% Fett)"},{"amount":250,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":6,"amountTo":null,"ingredient_name":"Haferflocken","unit":{"name":"EL"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Leinsamen, Chiasamen oder Haferflocken","unit":{"name":"(Keine Einheit)"},"prefix":"Nach Belieben","suffix":"zum Garnieren"}]}],"preparation":[{"headline":null,"content":"Banane in Scheiben schneiden. Mit den Beeren, Joghurt und der Milch in den Mixer geben."},{"headline":null,"content":"Haferflocken hinzufügen und für 3 Minuten auf mittlerer Stufe mixen. Alternativ kannst du alle Zutaten in einen Rührbecher geben und mit dem Pürierstab durchmixen."},{"headline":null,"content":"Frühstücksshake auf 2 Gläser verteilen und nach Belieben mit Chiasamen, Leinsamen oder Haferflocken garnieren. Sofort servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Frühstücksshake</Title>
+    <CustomRecipeSeoTitle position="1">Frühstücksshake – Blitzrezept zum selber machen</CustomRecipeSeoTitle>
+    <Headline position="1">Frühstücksshake</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-18T12:02:42+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8202mip932rq5zl8k8t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bananen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4851" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Beeren" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8336" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(3,5% Fett)" plural="Naturjoghurt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="250" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" amount="6" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Haferflocken" position="5"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Shake</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="8202mkf85ia1f5sj4k8t">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7726" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Nach Belieben" suffix="zum Garnieren" position="1" plural="Leinsamen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5331" position="2" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Nach Belieben" suffix="zum Garnieren" plural="Chia-Samen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6496" position="3" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" prefix="Nach Belieben" suffix="zum Garnieren" plural="Haferflocken"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="8202mkvjmuc19t7erk8t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Banane in Scheiben schneiden. Mit den Beeren, Joghurt und der Milch in den Mixer geben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8202mkvjrztivneck8t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Haferflocken hinzufügen und für 3 Minuten auf mittlerer Stufe mixen. Alternativ kannst du alle Zutaten in einen Rührbecher geben und mit dem Pürierstab durchmixen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="8202mkvjs5k5u7jjk8t">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Frühstücksshake auf 2 Gläser verteilen und nach Belieben mit Chiasamen, Leinsamen oder Haferflocken garnieren. Sofort servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc81f4imzmk78oimvha4m" file_variant="master" position="1">Fruhstucksshake2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a2fb0982ee0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc81f4iqpc509gwnijpsx" file_variant="master" position="1">FruhstucksshakeStep1.tiff</DocumentRef>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Banane schneiden</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_3_68a2fb0b8c79d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc81f4ihlywx51jn2gqptx" file_variant="master" position="1">FruhstucksshakeStep2.tiff</DocumentRef>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Haferflocken hinzufügen</p>
+        </div>
+      </ImageCaption>
+    </Image>
+    <Image taggroup_id="image_4_68a2fb0d1a742">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <DocumentRef doc_id="doc81f4ik7sovkyqqcz9vh" file_variant="master" position="1">Fruhstucksshake1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

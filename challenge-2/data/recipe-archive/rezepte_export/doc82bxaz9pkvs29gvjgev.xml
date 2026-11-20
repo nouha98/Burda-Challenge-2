@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82bxaz9pkvs29gvjgev" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-10T13:38:37+02:00</created>
+  <identifier></identifier>
+  <modcount>3</modcount>
+  <modified>2025-09-10T13:43:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt798u5uux10j87yu2eek"/>
+    <Creator topic="tmt798u5uux10j87yu2eek"/>
+    <StoryType topic="storytype-recipe"/>
+    <LastEditedBy topic="tmt798u5uux10j87yu2eek"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqwwl8lrddo5"/>
+    <Source topic="tmt82bxd1jz4c3sxbnagfn"/>
+    <Headline position="1">Honig-Cocktail </Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-10T13:38:37+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7751" position="1" amount="1" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Limettensaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="2" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Honig"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" position="3" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" prefix="brauner" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4901" position="4" amount="20" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" suffix="oder -saft " plural="Birnengeist"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6311" position="5" amount="150" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Ginger Ale"/>
+      <CustomRecipeIngredient topic="tmt7jodmsarcevy6uh12v8" position="6" suffix="zum Garnieren " plural="Birnenscheiben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10571" position="7" suffix="zum Garnieren " plural="Thymianzweige"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">In einem Glas Limettensaft mit Honig und braunem Zucker verrühren. Birnenbrand oder -saft und Ginger Ale dazugießen. Den Cocktail mit Eiswürfeln auffüllen. Mit Birnenschnitzen und Thymianzweigen garniert servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">The Picture Pantry</ImageCredit>
+      <DocumentRef doc_id="doc7ffa79uef5gs3648efq" file_variant="master" position="1">Birnen-Honig-Cocktail mit Thymian</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

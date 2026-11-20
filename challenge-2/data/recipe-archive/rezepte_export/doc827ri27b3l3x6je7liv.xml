@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc827ri27b3l3x6je7liv" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-02T11:16:46+02:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2025-09-02T11:22:40+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="50"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="60"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrma18g2a1do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsuaj4l7bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqnrijw0odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Vanillekipferl ohne Mandeln","recipe_seo_headline":null,"servings":{"amount":50.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":60},{"name":"Backen","duration":10},{"name":"Kühlen","duration":60}],"difficulty":"einfach","price":"Preiswert","nutritions":null},"recipe_groups":[{"headline":"Für die Vanillekipferl","ingredients":[{"amount":200,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Eigelb","unit":{"name":"Stück"},"prefix":null,"suffix":"(Gr. M)"},{"amount":2,"amountTo":null,"ingredient_name":"Vanilleextrakt","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null}]},{"headline":"Für den Vanillepuderzucker","ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Bourbon Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Mehl mit Puderzucker in eine Schüssel sieben, Butter in kleinen Stücken hinzugeben. Die Zutaten miteinander verkneten. Sobald der Teig krümelig ist, das Eigelb und das Vanilleextrakt unterkneten. Den Teig zu einer langen Schlange formen, einwickeln und für 1 Stunde kühlen."},{"headline":null,"content":"Ein Backblech 30x40cm mit Backpapier auslegen. Aus dem Teig 20 g-Portionen schneiden. Jede Teigportion zu einem Kipferl formen und mit etwas Abstand zueinander auf ein Backblech setzen. Das Backblech im Kühlschrank aufbewahren, bis der Backofen vorgeheizt ist."},{"headline":null,"content":"Puderzucker sieben und mit Vanillezucker mischen, um den Vanillepuderzucker herzustellen."},{"headline":null,"content":"Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Die Vanillekipferl für 10 Minuten goldbraun backen. Die Spitzen dürfen leicht braun sein."},{"headline":null,"content":"Die heißen Vanillekipferl in dem Vanillepuderzucker wälzen und auf einem Blech kalt werden lassen. Die Kipferl in eine Blechdose verpacken und kühl lagern. Nach einigen Tagen sind sie schön mürbe und weich."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Vanillekipferl ohne Mandeln</Title>
+    <Headline position="1">Vanillekipferl ohne Mandeln</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-02T11:16:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="827rhzueyqb11dzwnliv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="70" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5691" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Gr. M)" position="4" plural="Eigelb"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10786" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Vanilleextrakt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für die Vanillekipferl</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="827ri1rb7ur1k3jbjliv">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5051" amount="3" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" position="2" plural="Bourbon Vanillezucker"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Vanillepuderzucker</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="827ri27ars26re98liv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Mehl mit Puderzucker und Salz in eine Schüssel sieben, Butter in kleinen Stücken hinzugeben. Die Zutaten miteinander verkneten. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_6_68b6b656c8c25">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Sobald der Teig krümelig ist, das Eigelb und das Vanilleextrakt unterkneten. Den Teig zu einer langen Schlange formen, einwickeln und für 1 Stunde kühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 6</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827ri27awms1dsu9fliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ein Backblech 30x40cm mit Backpapier auslegen. Aus dem Teig 20 g-Portionen schneiden. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827ri27awuojj020liv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Jede Teigportion zu einem Kipferl formen und mit etwas Abstand zueinander auf ein Backblech setzen. Das Backblech im Kühlschrank aufbewahren, bis der Backofen vorgeheizt ist. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827ri27awyqz1bneliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Puderzucker sieben und mit Vanillezucker mischen, um den Vanillepuderzucker herzustellen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_7_68b6b696697b4">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen. Die Vanillekipferl für 10 Minuten goldbraun backen. Die Spitzen dürfen leicht braun sein.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 7</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="827ri27ax2ajisffliv">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die heißen Vanillekipferl in dem Vanillepuderzucker wälzen und auf einem Blech kalt werden lassen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Lang genießen</CustomRecipeTippsHeader>
+      <CustomRecipeTippsContent position="1">Verpacke die Kipferl in einer Blechdose und lagere sie kühl. Nach einigen Tagen sind sie schön mürbe und weich. So aufbewahrt halten sich die Vanillekipferl ca. 4 Wochen.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7e5hklo2irxr32u9" file_variant="master" position="1">VanillekipferlohneMandeln2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b6b75c6935d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7dznvolk22pco3r5" file_variant="master" position="1">VanillekipferlohneMandelnStep1.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b6b75db3006">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7e0xqt9e14itc719tl" file_variant="master" position="1">VanillekipferlohneMandelnStep2.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b6b75eb6e12">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc81n7e3wu5fnkgn4819tl" file_variant="master" position="1">VanillekipferlohneMandeln1.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

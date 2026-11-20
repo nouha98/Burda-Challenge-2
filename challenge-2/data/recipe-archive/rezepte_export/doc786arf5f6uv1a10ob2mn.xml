@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786arf5f6uv1a10ob2mn" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-28T16:28:30+01:00</created>
+  <identifier></identifier>
+  <modcount>16</modcount>
+  <modified>2025-10-22T15:52:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="30"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_medium"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <Source topic="tmt82xjxj9npaf35adzmy1"/>
+    <LastEditedBy topic="tmt7f92dy41bd3kuwjo9r9"/>
+    <CustomCenshareId>378034</CustomCenshareId>
+    <Title position="1">Koteletts im Speckmantel</Title>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomRecipeNutritionalValueCalories position="1">790</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">3320</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">23</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">63</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">50</CustomRecipeNutritionalValueFat>
+    <CustomCenshareRecipeRelationshipParentOf>527114</CustomCenshareRecipeRelationshipParentOf>
+    <CustomCenshareRecipeRelationshipParentOf>747088</CustomCenshareRecipeRelationshipParentOf>
+    <Headline position="1">Koteletts im Speckmantel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-07T20:43:41+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="db1216">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" unit="g" plural="Zucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8331" amount="1" unit_topic="tmt71k9ly2ap5f1c6vo2ive" position="2" unit="Messerspitze" plural="Natron"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10226" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="3" unit="g" plural="Sonnenblumenkerne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8771" amount="4" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="4" unit="EL" plural="Pflanzenöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9331" amount="4" unit_topic="tmt71k9mrz8iyeyycjkivd" position="5" unit="Zweig" plural="Rosmarin"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6121" amount="8" unit_topic="tmt789aavw7pipy9pfg5b1" suffix="(Bacon)" position="6" unit="Scheibe" plural="Frühstücksspeck"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(instant)" position="7" unit="ml" plural="Gemüsebrühe"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="8" unit="g" plural="Schlagsahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="geriebener" position="9" unit="g" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt786arek4vjqa774t2mn" amount="4" unit_topic="tm_topic_default_unit" suffix="(à 220 g)" position="10" unit="(Keine Einheit)" plural="Stielkoteletts vom Schwein"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" position="11" unit="(Keine Einheit)" plural="Salz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" unit_topic="tm_topic_default_unit" suffix="zum Bestreichen" position="12" unit="(Keine Einheit)" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" position="13" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit_topic="tm_topic_default_unit" position="14" unit="(Keine Einheit)" plural="Knoblauchzehen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7666" amount="2" unit_topic="tm_topic_default_unit" position="15" unit="(Keine Einheit)" plural="Lauchstangen"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="db12dd">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Zucker und 1 Prise Salz im Topf goldgelb schmelzen, Natron dazugeben, aufschäumen lassen. Sonnenblumenkerne unterheben. Masse auf ein Stück geölte Alufolie streichen, auskühlen lassen. Koteletts abbrausen, trocken tupfen, leicht salzen und pfeffern. Mit je 1 Rosmarinzweig belegen, mit Speck umwickeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="db12f2">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="2">Zubereitungsschritt 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="2">Knoblauch abziehen, fein hacken. Lauch putzen, längs halbieren, waschen. Lauch schräg in 3 cm große Stücke schneiden. 2 EL Öl in einem großen Topf erhitzen, Knoblauch und Lauch darin andünsten, salzen, pfeffern. Brühe und Sahne angießen und alles ca. 5 Minuten köcheln lassen. Parmesan unterrühren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="db1301">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="3">Zubereitungsschritt 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="3">Inzwischen übriges Öl (2 EL) in einer großen, weiten Pfanne erhitzen. Koteletts leicht salzen, pfeffern, ca. 15 Minuten braten, dabei einmal wenden. Karamell ­hacken. Koteletts mit Lauch anrichten, mit Karamell und evtl. Rosmarin garnieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc786aqq3bwmd3wy7oavt" file_variant="censhare_382864_last" position="1">382864-master-first.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_cb234b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef doc_id="doc786nm43hj7rkahd07t3" file_variant="censhare_747090_last" position="1">747090-master-first.jpg</DocumentRef>
+    </Image>
+    <Image taggroup_id="merger_fd5c95">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild aus Variante</ImageLabel>
+      <DocumentRef doc_id="doc786gpzgawp4f5kcuavs" file_variant="censhare_527116_last" position="1">527116-master-first.psd</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78b0inw3ilse9jmubn2" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-07T20:43:41+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_378034</displayname>
+      <doc_id id="doc786arf5f6uv1a10ob2mn"/>
+      <hash>8b86e5e23abc47d7240ae73f398eac7b</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-07T20:43:41+01:00</modified>
+      <size>5415</size>
+      <subpath>2019/12-07/c8/42/file78b0inw3ilse9jmubn2.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

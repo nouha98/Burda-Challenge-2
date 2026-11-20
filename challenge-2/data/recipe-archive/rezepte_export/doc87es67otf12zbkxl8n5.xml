@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc87es67otf12zbkxl8n5" dcx-version="6.3.1" version="1.0">
+  <created>2026-09-01T10:40:24+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-09-01T10:45:05+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="120"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs9hv5f4ldo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruyqsdl9ddo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnoo1d30bfdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt87es8dl4ftfkhldafjs"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Rotkohlsalat","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Kühlen","duration":120}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":"Für den Salat","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Rotkohl","unit":{"name":"kg"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Ahornsirup","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"TL"},"prefix":null,"suffix":"mit Fluorid"},{"amount":1,"amountTo":null,"ingredient_name":"Lauchzwiebel","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Olivenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"TL"},"prefix":null,"suffix":"schwarz"}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrötchen","unit":{"name":"Stück"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die äußeren Blätter des Rotkohls entfernen, den Kohl halbieren, vierteln und den Strunk vorsichtig mit einem scharfen Messer hinausschneiden. Die Kohlviertel mit einem Gemüsehobel in feine Streifen hobeln oder in der Küchenmaschine mit einem entsprechenden Aufsatz fein raspeln. Alternativ kann der Kohl auch mit einem scharfen Küchenmesser in ganz schmale Streifen geschnitten werden."},{"headline":null,"content":"Rotkohlstreifen in eine Schüssel geben, mit Apfelessig, Ahornsirup und 1 TL Salz vermengen. Mit den Händen 5-10 Minuten durchkneten, bis der Zellsaft austritt."},{"headline":null,"content":"Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Orangensaft, Olivenöl und Pfeffer zum Rotkohl geben und gut vermengen. Den Krautsalat abgedeckt und gekühlt 2-3 Stunden durchziehen lassen."},{"headline":null,"content":"Lauchzwiebelringe zu dem Salat geben und nochmals gut vermengen. Salat auf 4 Teller verteilen. Mit jeweils einem Vollkornbrötchen servieren."}],"recipe_tips":[]}</CustomStructuredRecipeJson>
+    <Title>Rotkohlsalat</Title>
+    <Headline position="1">Rotkohlsalat</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-09-01T10:40:24+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="87es65m99k21k2ewx8n5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9361" amount="1" unit="kg" unit_topic="tmt71k9kp8159fev62ddbf" plural="Rotkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Apfelessig" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4461" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Ahornsirup" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="mit Fluorid" plural="Jodsalz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7671" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Lauchzwiebeln" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Orangensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8456" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Olivenöl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="schwarz" plural="Pfeffer" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Für den Salat</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="87es67klqi91mx5ll8n5">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10881" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vollkornbrötchen" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="87es67ot71udp5pu8n5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die äußeren Blätter des Rotkohls entfernen, den Kohl halbieren, vierteln und den Strunk vorsichtig mit einem scharfen Messer hinausschneiden. Die Kohlviertel mit einem Gemüsehobel in feine Streifen hobeln oder in der Küchenmaschine mit einem entsprechenden Aufsatz fein raspeln. Alternativ kann der Kohl auch mit einem scharfen Küchenmesser in ganz schmale Streifen geschnitten werden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87es67ota4p99r7b8n5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Rotkohlstreifen in eine Schüssel geben, mit Apfelessig, Ahornsirup und 1 TL Salz vermengen. Mit den Händen 5-10 Minuten durchkneten, bis der Zellsaft austritt.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87es67ota8w199w148n5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Orangensaft, Olivenöl und Pfeffer zum Rotkohl geben und gut vermengen. Den Krautsalat abgedeckt und gekühlt 2-3 Stunden durchziehen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="87es67otad32h1vl8n5">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Lauchzwiebelringe zu dem Salat geben und nochmals gut vermengen. Salat auf 4 Teller verteilen. Mit jeweils einem Vollkornbrötchen servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe4dqhpa91k3ayvc6a" file_variant="master" position="1">Rotkohlsalat_3.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a9690877dd7a">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe3ijsyfay1l5e6vc" file_variant="master" position="1">Rotkohlsalat_1.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a96908915f02">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7dhe49l7jtt7ao1ac6a" file_variant="master" position="1">Rotkohlsalat_2.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

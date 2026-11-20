@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85bqy1ziultouhzjsjc" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-08T09:55:51+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-04-08T10:05:25+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Fenchelsalat mit Apfel","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Fenchelknolle","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Apfel","unit":{"name":"Stück"},"prefix":null,"suffix":"(z. B. Elstar)"},{"amount":150,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":3,"amountTo":null,"ingredient_name":"Apfelessig","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Honig","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Jodsalz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"mit Fluorid"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Walnuss","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":4,"amountTo":null,"ingredient_name":"Vollkornbrot","unit":{"name":"Scheibe"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Fenchel und Äpfel waschen. Beides halbieren. Fenchel entwurzeln und den Rest in feine Streifen schneiden. Falls am oberen Ende noch Fenchelkraut vorhanden ist, dieses fein hacken. Äpfel entkernen und in feine Scheiben schneiden."},{"headline":null,"content":"Joghurt mit Apfelessig, Senf sowie Honig zu einem Dressing vermischen und mit Salz und Pfeffer abschmecken. Walnüsse in einer Pfanne ohne Fett rösten, abkühlen lassen und grob hacken."},{"headline":null,"content":"Fenchel- und Apfel-Streifen in einer großen Schüssel mit dem Dressing vorsichtig vermengen und mit Walnüssen sowie Fenchelkraut toppen. Das Vollkornbrot zu dem Fenchelsalat mit Apfel und Walnüssen servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Fenchelsalat mit Apfel</Title>
+    <Headline position="1">Fenchelsalat mit Apfel</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-08T09:55:51+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85bqxzd2wpw1bjzbksjc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5911" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Fenchelknollen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="(z. B. Elstar)" plural="Äpfel" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Joghurt" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4561" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Apfelessig" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Honig" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6871" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="mit Fluorid" plural="Jodsalz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10986" amount="50" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Walnüsse" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipeIngredients taggroup_id="85bqy1rwmvd64woosjc">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10876" amount="4" unit="Scheibe" unit_topic="tmt789aavw7pipy9pfg5b1" plural="Vollkornbrote" position="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1">Außerdem</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85bqy1zitep1f6e0qsjc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Fenchel und Äpfel waschen. Beides halbieren. Fenchel entwurzeln und den Rest in feine Streifen schneiden. Falls am oberen Ende noch Fenchelkraut vorhanden ist, dieses fein hacken. Äpfel entkernen und in feine Scheiben schneiden.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85bqy1zitna15h7c5sjc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Joghurt mit Apfelessig, Senf sowie Honig zu einem Dressing vermischen und mit Salz und Pfeffer abschmecken. Walnüsse in einer Pfanne ohne Fett rösten, abkühlen lassen und grob hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85bqy1zitrr84w9ksjc">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Fenchel- und Apfel-Streifen in einer großen Schüssel mit dem Dressing vorsichtig vermengen und mit Walnüssen sowie Fenchelkraut toppen. Das Vollkornbrot zu dem Fenchelsalat mit Apfel und Walnüssen servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fenchelsalat mit Apfel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj4nl0zsl1kkg8x2rg" file_variant="master" position="1">Fenchel-Apfel-Salat-hoch-7264.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69d60c3f8b60b">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fenchelsalat mit Apfel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqjb47ez3k14kmml2rg" file_variant="master" position="1">Fenchel-Apfel-Salat-step1-7103.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69d60c410e20f">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fenchelsalat mit Apfel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj6xa35epbtn607zw" file_variant="master" position="1">Fenchel-Apfel-Salat-step2-7107.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_69d60c42c1725">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCaption position="4" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Fenchelsalat mit Apfel</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="4">Ewelina Bialoszewska</ImageCredit>
+      <DocumentRef doc_id="doc7iqj5evd2jp1hjc9z2rg" file_variant="master" position="1">Fenchel-Apfel-Salat-quer-7252.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

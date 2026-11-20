@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821llvm8pc916f4vn28e" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-21T11:22:48+02:00</created>
+  <identifier></identifier>
+  <modcount>9</modcount>
+  <modified>2025-09-24T10:33:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt71fqtup5fzt12wc96df6" plural="Stück" amount="5"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_waiting" minutes="30"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rrqwmlxahdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rtc11jd7nzdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsjddqs1bdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <LastEditedBy topic="tmt6zkdmfn1tihis01rfph"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Schoko-Pfannkuchen","recipe_seo_headline":null,"servings":{"amount":5.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Ruhen/Warten","duration":30}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":60,"amountTo":null,"ingredient_name":"Zartbitterkuvertüre","unit":{"name":"g"},"prefix":"gehackt","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":130,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":"etwas","amountTo":null,"ingredient_name":"Öl","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"zum Ausbacken"},{"amount":3,"amountTo":null,"ingredient_name":"Schokosauce","unit":{"name":"EL"},"prefix":"fertige","suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"gemischte rote Beeren","unit":{"name":"g"},"prefix":null,"suffix":"(Himbeeren, Erdbeeren, Heidelbeeren)"}]}],"preparation":[{"headline":null,"content":"120 ml Milch mit Mehl und Zucker zu einem glatten Teig verrühren."},{"headline":null,"content":"100 ml Milch in einem kleinen Topf kurz aufkochen und die gehackte Kuvertüre darin schmelzen, diese Milch etwas abkühlen lassen."},{"headline":null,"content":"Zuerst die Eier unter den Teig rühren und danach die Schokomilch mit dem Teig vermischen. Diesen Schokoteig für 30 Minuten quellen lassen."},{"headline":null,"content":"Eine beschichtete Pfanne auf mittlerer Stufe erwärmen und mit etwas Öl ausreiben. Aus dem Teig fünf Pfannkuchen ausbacken."},{"headline":null,"content":"Die Pfannkuchen stapeln und mit 3 Esslöffel Schokosauce und frischen Beeren dekorieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Schoko-Pfannkuchen</Title>
+    <Headline position="1">Schoko-Pfannkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-21T11:22:48+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="821llsmznn4ommlk28e">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11281" amount="60" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="gehackt" plural="Zartbitterkuvertüre" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="130" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="3" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Eier" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillezucker" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8446" position="9" prefix="etwas" suffix="zum Ausbacken" plural="Öl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9836" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="fertige" plural="Schokosauce" position="10"/>
+      <CustomRecipeIngredient topic="tmt80io8k4j6m91h0ut8ofv" amount="120" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(Himbeeren, Erdbeeren, Heidelbeeren)" position="11" plural="gemischte Beeren"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821llvm8ntd1jc2cg28e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">120 ml Milch mit Mehl und Zucker zu einem glatten Teig verrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Teig</CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821llvm8o4o2qjf228e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">100 ml Milch in einem kleinen Topf kurz aufkochen und die gehackte Kuvertüre darin schmelzen, diese Milch etwas abkühlen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821llvm8o9v2djh928e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Zuerst die Eier unter den Teig rühren und danach die Schokomilch mit dem Teig vermischen. Diesen Schokoteig für 30 Minuten quellen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821llvm8oex1iuk4v28e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Eine beschichtete Pfanne auf mittlerer Stufe erwärmen und mit etwas Öl ausreiben. Aus dem Teig fünf Pfannkuchen ausbacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821llvm8okllgwv228e">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="5">Die Pfannkuchen stapeln und mit 3 Esslöffel Schokosauce und frischen Beeren dekorieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="5">Schritt 5</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

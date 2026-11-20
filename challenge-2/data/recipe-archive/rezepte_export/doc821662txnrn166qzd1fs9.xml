@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc821662txnrn166qzd1fs9" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-20T15:20:55+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-08-21T12:47:28+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt80teorexivd1bj0vwno1" amount="350"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Karamellsoße","recipe_seo_headline":null,"servings":{"amount":350.0,"unit":"other"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":230,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"Schlagsahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"kalte Butter","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Zucker in einen Topf geben und den Topf auf höchster Stufe auf die Herdplatte setzen. Gelegentlich den Topf etwas rütteln damit sich der noch nicht aufgelöste Zucker auf dem Topfboden verteilt. So lange kochen bis der Zucker komplett geschmolzen ist und eine goldene Karamellfarbe hat."},{"headline":null,"content":"Topf sofort von der Herdplatte ziehen und die Sahne auf einmal zugeben. Bei mittlerer Hitze erneut 2-3 Minuten einköcheln lassen bis der Zucker wieder komplett gelöst ist und die Sahne sich mit dem Karamell verbunden hat."},{"headline":null,"content":"Topf von dem Herd nehmen und die kalte Butter in kleinen Stücken einrühren. Etwas auskühlen und nach Belieben in ein Vorratsglas füllen."}],"recipe_tips":[{"headline":null,"content":"Im Kühlschrank aufbewahrt hält sich die Karamellsauce etwa 4 Wochen."}]}</CustomStructuredRecipeJson>
+    <Title>Karamellsoße</Title>
+    <Headline position="1">Karamellsoße</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-20T15:20:55+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="8216625wfba10zg431fs9">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="230" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schlagsahne" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="2" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="3"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc7o0ldwlvgifb" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="4" plural="kalte Butter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="821662txksmw4x4z1fs9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Zucker in einen Topf geben und den Topf auf höchster Stufe auf die Herdplatte setzen. Gelegentlich den Topf etwas rütteln damit sich der noch nicht aufgelöste Zucker auf dem Topfboden verteilt. So lange kochen bis der Zucker komplett geschmolzen ist und eine goldene Karamellfarbe hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821662txkzssihtn1fs9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Topf sofort von der Herdplatte ziehen und die Sahne auf einmal zugeben. Bei mittlerer Hitze erneut 2-3 Minuten einköcheln lassen bis der Zucker wieder komplett gelöst ist und die Sahne sich mit dem Karamell verbunden hat.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="821662txl3kmdpoe1fs9">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Topf von dem Herd nehmen und die kalte Butter in kleinen Stücken einrühren. Etwas auskühlen und nach Belieben in ein Vorratsglas füllen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="821662txl7p6gpi31fs9">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Im Kühlschrank aufbewahrt hält sich die Karamellsauce etwa 4 Wochen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81prlc26o20l4o8umfz" file_variant="master" position="1">Karamellsosse_84892.tiff</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68a6f92c750e3">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81prldij2g61mbv2mm9r" file_variant="master" position="1">Karamellsosse_84905.tiff</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

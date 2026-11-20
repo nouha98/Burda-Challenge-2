@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc851z4rh54zqdxb72jjx" dcx-version="6.3.1" version="1.0">
+  <created>2026-03-20T08:27:55+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-03-20T08:37:16+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Balsamico-Linsen","recipe_seo_headline":null,"servings":null,"preparation_times":null,"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Belugalinsen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Möhre","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Rapsöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":70,"amountTo":null,"ingredient_name":"Aceto Balsamico","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Belugalinsen auf ein Sieb geben, abbrausen und abtropfen lassen. Zwiebel abziehen und fein würfeln. Möhre schälen, putzen und ebenfalls sehr fein würfeln. Petersilie abbrausen, trockenschütteln und hacken."},{"headline":null,"content":"Rapsöl in einem Topf erhitzen und Zwiebel- sowie Möhrenwürfel darin 1-2 Minuten anbraten, dann die Belugalinsen dazugeben und kurz mitanbraten. Topfinhalt mit 450 ml Wasser ablöschen, einmal aufkochen lassen und bei kleiner bis mittlerer Hitze zugedeckt etwa 10-15 Minuten garen."},{"headline":null,"content":"In der Zwischenzeit Zucker und Aceto Balsamico in einen zweiten Topf geben und unter Rühren aufkochen lassen. So lange einkochen lassen, bis etwa 2 EL Sirup übrigbleiben."},{"headline":null,"content":"Linsen ggfs. abgießen und anschließend mit dem Sirup vermengen. Balsamico-Linsen mit Pfeffer und Salz abschmecken und mit der gehackten Petersilie bestreut servieren."}],"recipe_tips":[{"headline":null,"content":"Schmeckt besonders gut mit einem Rucola-Salat zu gebratenem Fisch oder Garnelen!"}]}</CustomStructuredRecipeJson>
+    <Title>Balsamico-Linsen</Title>
+    <Headline position="1">Balsamico-Linsen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-03-20T08:27:55+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="851z4pk7mhk1j6apxjjx">
+      <CustomRecipeIngredient topic="tmt7e8isb4r5xc6l1u7gki" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Belugalinsen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8226" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Möhren" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="0.5" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9051" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Rapsöl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zucker" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4446" amount="70" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Aceto Balsamico" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Salz" position="9"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="851z4rh4twz10702ljjx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Belugalinsen auf ein Sieb geben, abbrausen und abtropfen lassen. Zwiebel abziehen und fein würfeln. Möhre schälen, putzen und ebenfalls sehr fein würfeln. Petersilie abbrausen, trockenschütteln und hacken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851z4rh4w788zqdjjx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Rapsöl in einem Topf erhitzen und Zwiebel- sowie Möhrenwürfel darin 1-2 Minuten anbraten, dann die Belugalinsen dazugeben und kurz mitanbraten. Topfinhalt mit 450 ml Wasser ablöschen, einmal aufkochen lassen und bei kleiner bis mittlerer Hitze zugedeckt etwa 10-15 Minuten garen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851z4rh4wcx1i6kixjjx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">In der Zwischenzeit Zucker und Aceto Balsamico in einen zweiten Topf geben und unter Rühren aufkochen lassen. So lange einkochen lassen, bis etwa 2 EL Sirup übrigbleiben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="851z4rh4whx6y72qjjx">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Linsen ggfs. abgießen und anschließend mit dem Sirup vermengen. Balsamico-Linsen mit Pfeffer und Salz abschmecken und mit der gehackten Petersilie bestreut servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="851z4rh4wn5dt5iojjx">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Schmeckt besonders gut mit einem Rucola-Salat zu gebratenem Fisch oder Garnelen!</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Balsamico-Linsen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5rfxvprq0e8c0kbni" file_variant="master" position="1">BalsamicoLinsen2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69bcf92815b85">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Balsamico-Linsen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5rk3lucd5z1bbbbng" file_variant="master" position="1">BalsamicoLinsenStep.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_69bcf92ab591e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Balsamico-Linsen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7m5rfr870mfv8wu1bng" file_variant="master" position="1">BalsamicoLinsen1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

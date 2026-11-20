@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83st3lobe3m3oaam8xb" dcx-version="6.3.1" version="1.0">
+  <created>2025-12-22T10:44:53+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2025-12-22T10:50:04+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt71fqtxulord1hrqa5aw1" amount="2" plural="Personen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs8o1id8ygdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rp6b3kmm9do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Gyrossuppe","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Personen"},"preparation_times":[{"name":"Vorbereitung","duration":20},{"name":"Zubereitung","duration":20}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"mittelgroße","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":"rote","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Paprika","unit":{"name":"(Keine Einheit)"},"prefix":"gelbe","suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Schweinegeschnetzeltes","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Gyros – oder Bratengewürz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Sonnenblumenöl","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":600,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":"natur","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"getrocknete Kräuter","unit":{"name":"TL"},"prefix":null,"suffix":"wie, z.B.: Thymian oder Majoran"},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":"aus der Mühle","suffix":null},{"amount":0.25,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Zwiebel und die Knoblauchzehen schälen und fein hacken. Die Paprika putzen, entkernen und fein würfeln."},{"headline":null,"content":"Das Fleisch mit dem Gyrosgewürz würzen und mit Mehl bestäuben. Das Sonnenblumenöl in einem Topf erhitzen und das Fleisch darin für ca. 2 Minuten scharf anbraten, dann wieder herausnehmen. Die Zwiebeln und den Knoblauch im Topf ca. 2 Minuten glasig schwitzen. Die Paprikawürfel hinzugeben und weitere 2 Minuten mit anschwitzen. Die Gemüsebrühe aufgießen und die Suppe einmal aufkochen lassen. Frischkäse und Sahne hinzugeben und ca. 5 Minuten köcheln lassen. Die Suppe sollte eine leicht sämige Konsistenz haben. Mit getrockneten Kräutern, Salz und Pfeffer abschmecken. Zuletzt das Fleisch hinzugeben und kurz ziehen lassen."}],"recipe_tips":[{"headline":null,"content":"Verfeinere die Suppe mit etwas Chili, um sie etwas pikanter zu machen."}]}</CustomStructuredRecipeJson>
+    <Title>Gyrossuppe</Title>
+    <Headline position="1">Gyrossuppe</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-12-22T10:44:53+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83st3esy9pw1b77ek8xb">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="wie, z.B.: Thymian oder Majoran" position="12" prefix="getrocknete" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="mittelgroße" plural="Zwiebeln" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="rote" plural="Paprika" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8566" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" prefix="gelbe" plural="Paprika" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9916" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="5" suffix="(Geschnetzeltes)" plural="Schweinefleisch"/>
+      <CustomRecipeIngredient topic="tmt7oxfeavnw7sd0xikjst" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="6" prefix="Braten- oder" plural="Gyrosgewürz"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10231" amount="4" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Sonnenblumenöl" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="600" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" prefix="natur" plural="Frischkäse" position="10"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="11" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="13" amount="1" suffix="aus der Mühle"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.25" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="14"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83st3lob42v1n53qx8xb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Zwiebel und die Knoblauchzehen schälen und fein hacken. Die Paprika waschen, putzen, entkernen und fein würfeln. Das Fleisch mit dem Gyrosgewürz würzen und mit Mehl bestäuben.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83st3lobax413a3ee8xb">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Sonnenblumenöl in einem Topf erhitzen und das Fleisch darin für ca. 2 Minuten scharf (mit hoher Hitze) anbraten, dann wieder herausnehmen. Die Zwiebeln und den Knoblauch im Topf ca. 2 Minuten glasig anschwitzen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_694913c3ce342">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Paprikawürfel hinzugeben und weitere 2 Minuten mit anschwitzen. Die Gemüsebrühe aufgießen und die Suppe einmal aufkochen lassen. Frischkäse und Sahne hinzugeben und ca. 5 Minuten köcheln lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_4_694913cd7845a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Suppe sollte jetzt eine leicht sämige Konsistenz haben. Mit getrockneten Kräutern, Salz und Pfeffer abschmecken. Zuletzt das Fleisch hinzugeben und kurz ziehen lassen. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83st3lobbb8140p028xb">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Verfeinere die Suppe mit etwas Chili, um sie etwas pikanter zu machen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsHeader position="1">Verfeinern der Suppe</CustomRecipeTippsHeader>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quua8bq87c618k9zh" file_variant="master" position="1">Gyrossuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_69491447ad20e">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quv4cxx3o1gyb8d8kr" file_variant="master" position="1">Gyrossuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_694914492b050">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quvh7gbtf1et7e99gx" file_variant="master" position="1">Gyrossuppe</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_6949144ac35e0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82quuiuoilg11kpta902" file_variant="master" position="1">Gyrossuppe</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

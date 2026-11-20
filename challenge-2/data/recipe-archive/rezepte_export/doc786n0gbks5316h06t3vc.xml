@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc786n0gbks5316h06t3vc" dcx-version="6.3.1" version="1.0">
+  <created>2019-11-29T08:22:12+01:00</created>
+  <identifier></identifier>
+  <modcount>8</modcount>
+  <modified>2024-12-03T09:17:47+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <StoryType topic="storytype-recipe"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <LastEditedBy topic="tmt6p8smznwdye6wa9fn1c"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" plural="Gläser" amount="1"/>
+    <Meta topic="taskstatus-new" name="dcx:on_create:story:for_task" tag="TaskStatus"/>
+    <CustomCenshareId>741197</CustomCenshareId>
+    <Title position="1">Caipirinha-Cocktail</Title>
+    <Headline position="1">Caipirinha-Cocktail</Headline>
+    <CustomRecipeNoteInformation position="1"/>
+    <CustomCenshareImportIssue>invalid ingredient unit 'Tasse'</CustomCenshareImportIssue>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2019-12-08T15:14:26+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="2a4b45">
+      <CustomRecipeIngredient topic="tmt782lpzvcmc4141jwo8gz" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs"/>
+      <CustomRecipeIngredient topic="tmt786cnvgwdrm1k2gtg3h3" amount="4" amount_max="5" unit_topic="tmt71k9kgf101fmu53civ9"/>
+      <CustomRecipeIngredient topic="tmt786cl5i0uiofz06g3h3" amount="0.5" unit_topic="tmt_invalid_ingredient_unit"/>
+      <CustomRecipeIngredient topic="tmt786cnvgr7rc1hoqil3h3" amount="1" unit_topic="tm_topic_default_unit"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="0">Zutaten</CustomRecipeIngredientsHeader>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="2a4b8a">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Limettenstücke und Zucker in ein Glas geben, mit einem Stößel zerstoßen. Zuckerrohrschnaps zufügen und mit Eis auffüllen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files>
+    <file xmlns="http://www.digicol.com/xmlns/dcx" id="file78besbgis2o112e7z72j" dcx-version="6.3.1" version="1.0">
+      <created>2019-12-08T15:14:26+01:00</created>
+      <current>1</current>
+      <derivedfrom id=""/>
+      <dev_id id="dev1o"/>
+      <displayname>censhare_original_xml_741197</displayname>
+      <doc_id id="doc786n0gbks5316h06t3vc"/>
+      <hash>24fbd5e260747929c6ed704401a4227e</hash>
+      <identifier></identifier>
+      <info/>
+      <mimetype>application/xml</mimetype>
+      <modcount>1</modcount>
+      <modified>2019-12-08T15:14:26+01:00</modified>
+      <size>1620</size>
+      <subpath>2019/12-08/5d/c4/file78besbgis2o112e7z72j.xml</subpath>
+      <type>censhare_xml</type>
+      <variant>master</variant>
+      <version>1</version>
+    </file>
+  </files>
+  <parent_story readonly="1"/>
+</document>

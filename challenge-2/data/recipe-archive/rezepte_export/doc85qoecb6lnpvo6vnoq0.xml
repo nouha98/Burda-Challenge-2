@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85qoecb6lnpvo6vnoq0" dcx-version="6.3.1" version="1.0">
+  <created>2026-05-07T11:15:20+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-05-07T11:23:19+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-entr"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt828c22261dx6a6augbn" amount="16" plural="Stücke"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="35"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="60"/>
+    <Source topic="tmt85qoi1aulhtzbl27p6m"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Beschwipste Tiramisu-Apfeltorte","recipe_seo_headline":null,"servings":{"amount":16.0,"unit":"Stücke"},"preparation_times":[{"name":"Zubereitung","duration":35},{"name":"Kühlen","duration":60}],"difficulty":null,"price":null,"nutritions":{"calories":390,"kilojoule":1633,"carbonhydrates":50,"fat":17,"protein":8,"breadunit":4}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":6,"amountTo":null,"ingredient_name":"Äpfel","unit":{"name":"Stück"},"prefix":"große","suffix":null},{"amount":450,"amountTo":null,"ingredient_name":"Apfelsaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":180,"amountTo":null,"ingredient_name":"Zucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillepuddingpulver","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Apfellikör","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Magerquark","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":500,"amountTo":null,"ingredient_name":"Mascarpone","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillezucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Biskuitboden","unit":{"name":"Stück"},"prefix":null,"suffix":"vom Konditor (ca. 450 g, Ø 26 cm)"},{"amount":80,"amountTo":null,"ingredient_name":"Amarettini","unit":{"name":"g"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"5 Äpfel schälen, vierteln, entkernen, klein würfeln. 300 ml Apfelsaft mit 80 g Zucker aufkochen. Apfelwürfel ca. 5 Minuten darin garen. Herausheben. Puddingpulver mit 50 ml Apfelsaft anrühren, in den Apfelsud geben, aufkochen. Apfelwürfel zufügen, abkühlen lassen."},{"headline":null,"content":"1 Apfel vierteln, entkernen, in 16 Spalten schneiden. 100 ml Apfelsaft mit Apfellikör aufkochen, Apfelspalten ca. 3 Minuten darin garen. Herausheben, abkühlen lassen."},{"headline":null,"content":"Quark mit Mascarpone, 100 g Zucker und Vanillezucker glatt rühren."},{"headline":null,"content":"Biskuit waagerecht halbieren, Böden mit dem Likör-Mix beträufeln. Unteren Boden in einen Tortenring setzen. Darauf 1/3 der Quarkcreme, das Apfelkompott, weiteres 1/3 der Creme und den Biskuitdeckel schichten. Darauf die übrige Creme streichen. Torte ca. 60 Minuten kühlen."},{"headline":null,"content":"Torte mit Apfelspalten und 16 Amarettini garnieren. Übrige Amarettini zerbröselt an den Tortenrand drücken und auf die Torte streuen."}],"recipe_tips":[{"headline":null,"content":"Amarettini peppen die Torte mit Mandel-Aroma und Knusper auf. Nussfans können alternativ zur Keksgarnitur auch Mandelkerne in der Pfanne rösten und diese mittelfein gehackt auf die Torte streuen bzw. deren Rand damit garnieren."},{"headline":null,"content":"Soll die Torte alkoholfrei bleiben, ist Apfelsirup ein feiner Likör-Ersatz."}]}</CustomStructuredRecipeJson>
+    <Title>Beschwipste Tiramisu-Apfeltorte</Title>
+    <CustomRecipeNutritionalValueCalories position="1">390</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">1633</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">50</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">17</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">8</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">4</CustomRecipeNutritionalBreadUnit>
+    <Headline position="1">Beschwipste Tiramisu-Apfeltorte</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-05-07T11:15:20+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="85qoehl1mpi1buz0v27w">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4551" amount="6" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="große" plural="Äpfel" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" amount="450" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Apfelsaft" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11426" amount="180" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Zucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10806" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Vanillepuddingpulver" position="4"/>
+      <CustomRecipeIngredient topic="tmt85qof7otb5vwlx4voia" amount="5" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="5" plural="Apfellikör"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7856" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Magerquark" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8086" amount="500" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mascarpone" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10841" amount="1" unit="Päckchen" unit_topic="tmt8255nhdwwbm12e628f8n" plural="Vanillezucker" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4916" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="vom Konditor (ca. 450 g, Ø 26 cm)" plural="Biskuitböden" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4491" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Amarettini" position="10"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="85qoek32hurklim127w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">5 Äpfel schälen, vierteln, entkernen, klein würfeln. 300 ml Apfelsaft mit 80 g Zucker aufkochen. Apfelwürfel ca. 5 Min. darin garen. Herausheben. Puddingpulver mit 50 ml Apfelsaft anrühren, in den Apfelsud geben, aufkochen. Apfelwürfel zufügen, abkühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85qoek32mlxdi1lc27w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">1 Apfel vierteln, entkernen, in 16 Spalten schneiden. 100 ml Apfelsaft mit Likör aufkochen, Apfelspalten ca. 3 Min. darin garen. Herausheben, abkühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85qoek32mq86qz7b27w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Quark mit Mascarpone, 100 g Zucker und Vanillezucker glatt rühren. Biskuit waagerecht halbieren, Böden mit dem Likör-Mix beträufeln. Unteren Boden in einen Ring setzen. Darauf 1/3 der Quarkcreme, Kompott, 1/3 der Creme, Biskuitdeckel schichten. Darauf übrige Creme streichen. Torte ca. 60 Min. kühlen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="85qoek32mu0z3wwz27w">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Torte mit Apfelspalten und 16 Amarettini garnieren. Übrige Amarettini zerbröselt an den Tortenrand drücken, auf die Torte streuen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="85qoek32n1hfr4z227w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Amarettini peppen die Torte mit Mandel-Aroma und Knusper auf. Nussfans können alternativ zur Keksgarnitur auch Mandelkerne in der Pfanne rösten und diese mittelfein gehackt auf die Torte streuen bzw. deren Rand damit garnieren.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="85qoek32obr8xeu327w">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Soll die Torte alkoholfrei bleiben, ist Apfelsirup ein feiner Likör-Ersatz.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc70ryndxp32u10c93i39q" file_variant="master" position="1">Tiramisu-Apfeltorte</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

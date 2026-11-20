@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82yghzuuqw43j1jsk09" dcx-version="6.3.1" version="1.0">
+  <created>2025-10-24T10:08:22+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-10-24T10:10:59+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="6" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rr081uo6do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rt7q8ialmdo5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Dattel-Curry-Dip","recipe_seo_headline":"Dattel-Curry-Dip -","servings":{"amount":6.0,"unit":"Portionen"},"preparation_times":[{"name":"Zubereitung","duration":5}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":150,"amountTo":null,"ingredient_name":"Entsteinte Datteln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Knoblauchzehen","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Frischkäse","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Schmand","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Currypulver","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"Prise"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Für den Dattel-Curry-Dip die Datteln grob schneiden und in einen hohen Mixbecher oder Blitzmixer geben. Knoblauchzehen abziehen, hacken und zusammen mit Frischkäse und Schmand zu den Datteln geben. Alles zusammen zu einer feinen Masse pürieren."},{"headline":null,"content":"Die Creme mit Curry sowie Salz und Pfeffer vermengen und abschmecken. Curry-Dattel-Dip in eine Schüssel umfüllen und mit Brot oder Gemüsesticks servieren. Guten Appetit!"}],"recipe_tips":[{"headline":"Welche Datteln für den Dip?","content":"Für den Dattel-Curry-Aufstrich kannst du sowohl frische Medjool-Datteln als auch getrocknete Datteln verwenden – je nachdem, was du gerade da hast! Sehr harte Früchte solltest du jedoch vorher in etwas heißem Wasser einweichen – so lassen sie sich leichter zerkleinern."}]}</CustomStructuredRecipeJson>
+    <Title>Dattel-Curry-Dip</Title>
+    <CustomRecipeSeoTitle position="1">Dattel-Curry-Dip -</CustomRecipeSeoTitle>
+    <Headline position="1">Dattel-Curry-Dip</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-10-24T10:08:22+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82yghxdwivbty3wjk09">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5551" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="entsteinte" plural="Datteln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6066" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Frischkäse" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9736" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Schmand" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5546" amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Currypulver" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="6" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="7" amount="1"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82yghzuuq2c171sesk09">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Datteln grob schneiden und in einen hohen Mixbecher oder Blitzmixer geben. Knoblauchzehen abziehen, hacken und zusammen mit Frischkäse und Schmand zu den Datteln geben. Alles zusammen zu einer feinen Masse pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsHeader position="1">Für den Dattel-Curry-Dip </CustomRecipePreparationsStepsHeader>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82yghzuuq8z18z48nk09">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Die Creme mit Curry sowie Salz und Pfeffer vermengen und abschmecken. Curry-Dattel-Dip in eine Schüssel umfüllen und mit Brot oder Gemüsesticks servieren. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82yghzuuqd31fvuwok09">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Für den Dattel-Curry-Aufstrich kannst du sowohl frische Medjool-Datteln als auch getrocknete Datteln verwenden – je nachdem, was du gerade da hast! Sehr harte Früchte solltest du jedoch vorher in etwas heißem Wasser einweichen – so lassen sie sich leichter zerkleinern.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Welche Datteln für den Dip?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

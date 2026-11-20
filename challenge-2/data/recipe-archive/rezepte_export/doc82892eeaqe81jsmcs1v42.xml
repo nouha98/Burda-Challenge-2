@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc82892eeaqe81jsmcs1v42" dcx-version="6.3.1" version="1.0">
+  <created>2025-09-03T10:04:10+02:00</created>
+  <identifier></identifier>
+  <modcount>4</modcount>
+  <modified>2025-09-03T11:39:20+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="30"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="40"/>
+    <LastEditedBy topic="tmt81k2vfif63m1f9xnn9cl"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsl49ioisdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rs2af8suido5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Spanischer Orangenkuchen","recipe_seo_headline":null,"servings":{"amount":1.0,"unit":"Stücke"},"preparation_times":[{"name":"Vorbereitung","duration":30},{"name":"Backen","duration":40}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":2,"amountTo":null,"ingredient_name":"Bio-Orangen","unit":{"name":"Stück"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Vanillinzucker","unit":{"name":"Packung"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"Prise"},"prefix":null,"suffix":null},{"amount":5,"amountTo":null,"ingredient_name":"Eier","unit":{"name":"Stück"},"prefix":null,"suffix":"(Größe M)"},{"amount":250,"amountTo":null,"ingredient_name":"gemahlene, blanchierte Mandeln","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":3,"amountTo":null,"ingredient_name":"gehobelte Mandeln","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"(Keine Einheit)"},"prefix":"Etwas","suffix":"zum Bestreuen"}]}],"preparation":[{"headline":null,"content":"Orangen heiß abwaschen und trocken reiben. Orangen samt der Schale halbieren und in ca. 2 cm große Stücke schneiden. In einen kleinen Topf mit 100 ml Wasser und Vanillinzucker geben. Topf mit einem Deckel verschließen und 20 Minuten bei mittlerer Hitze köcheln lassen. Eingekochte Orangen mit einem Stabmixer oder einem Multizerkleinerer zu einem feinen Mus pürieren."},{"headline":null,"content":"Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen. Springformboden (Ø 26 cm) mit Backpapier belegen."},{"headline":null,"content":"Eier trennen. Eiweiße mit Salz und ca. 3 EL des Puderzuckers zu einem stabilen Eischnee schlagen. Das kann bis zu 5 Minuten dauern."},{"headline":null,"content":"Eigelbe mit dem übrigen Zucker in einer weiteren Rührschüssel 2 Minuten schaumig schlagen. Orangenpüree und gemahlene Mandeln unterrühren. Im Anschluss den Eischnee unterheben. Teig in die Form füllen und glatt streichen. Mit gehobelten Mandeln bestreuen. Im unteren Drittel des Ofens ca. 40 Minuten backen. Komplett erkalten lassen."},{"headline":null,"content":"Nach Belieben mit Puderzucker bestreuen und servieren."}],"recipe_tips":[{"headline":"Bitterstoffe","content":"Möchtest du auf die Bitterstoffe der Schale verzichten, dann schäle 3 Orangen, schneide das Fruchtfleisch in kleine Stücke. Püriere sie ohne Kochen und verwende das Püree laut Rezeptangabe weiter."}]}</CustomStructuredRecipeJson>
+    <Title>Spanischer Orangenkuchen</Title>
+    <Headline position="1">Spanischer Orangenkuchen</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-09-03T10:04:10+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="82892b9tf68ogvt1v42">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="Etwas" suffix="zum Bestreuen" plural="Puderzucker" position="8"/>
+      <CustomRecipeIngredient topic="tmt7t7myy802jc6il8fbj" amount="2" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Bio-Orangen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10846" amount="1" unit="Packung" unit_topic="tmt733d3znh64n1c9wecjrs" plural="Vanillinzucker" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="200" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="1" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Salz" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="5" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(Größe M)" plural="Eier" position="5"/>
+      <CustomRecipeIngredient topic="tmt7zi4hhc2hllmuxjzifb" amount="250" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="6" plural="gemahlene Mandeln"/>
+      <CustomRecipeIngredient topic="tmt808hl3jyfo720g75vbq" amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" position="7" plural="gehobelte Mandeln"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="82892eea4xu127a831v42">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Orangen heiß abwaschen und trocken reiben. Orangen samt der Schale halbieren und in ca. 2 cm große Stücke schneiden. In einen kleinen Topf mit 100 ml Wasser und Vanillinzucker geben. Topf mit einem Deckel verschließen und 20 Minuten bei mittlerer Hitze köcheln lassen. Eingekochte Orangen mit einem Stabmixer oder einem Multizerkleinerer zu einem feinen Mus pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82892eeagb51ffm0g1v42">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Den Boden einer Springform (Ø 26 cm) mit Backpapier auslegen. Eier trennen. Eiweiße mit ca. 3 EL des Puderzuckers und Salz zu einem stabilen Eischnee schlagen. Das kann bis zu 5 Minuten dauern.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82892eeagklqiqoe1v42">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Eigelbe mit dem restlichen Zucker in einer weiteren Rührschüssel ca. 2 Minuten schaumig schlagen. Orangenpüree und gemahlene Mandeln unterrühren. Im Anschluss den Eischnee unterheben.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="82892eeagqx17c1aq1v42">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Teig in die vorbereitete Form füllen, glattstreichen und mit den gehobelten Mandeln bestreuen. Spanischen Orangen-Mandel-Kuchen im unteren Drittel des vorgeheizten Ofens ca. 40 Minuten backen. Komplett erkalten lassen. Nach Belieben mit Puderzucker bestreuen und servieren. Der spanische Orangenkuchen ohne Mehl ergibt ca. 12 Stücke und hält sich luftdicht verpackt bei Raumtemperatur mindestens 3 Tage.
+
+</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="82892eeah1t3d1o01v42">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du möchtest du auf die Bitterstoffe der Schale in deinem spanischen Mandel-Orangen-Kuchen verzichten? Dann verwende 3 statt 2 Orangen und schäle sie. Schneide das Fruchtfleisch in kleine Stücke und püriere es ohne Kochen, bevor du das Püree laut Rezeptangabe im spanischen Orangenkuchen mit Mandeln weiterverwendest.
+
+</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Ohne Bitterstoffe</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7h6ursj6jryyz19tl" file_variant="master" position="1">Spanischer_Orangenkuchen_6351.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_68b80cadc93d0">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7h8hpubm6ad433qv" file_variant="master" position="1">Spanischer_Orangenkuchen_5998.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_68b80caf91f65">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7hbby5ew8basj1gqh" file_variant="master" position="1">Spanischer_Orangenkuchen_5497.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_68b80cb168381">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">BRIGITTE SPORRER</ImageCredit>
+      <DocumentRef doc_id="doc81n7h8k2aac8orls1gqh" file_variant="master" position="1">Spanischer_Orangenkuchen_6364.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

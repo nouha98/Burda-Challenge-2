@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88cefe1nziai0j40b02" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-05T19:56:05+01:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2026-11-06T11:25:59+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt8589me6ytdz910vuoh5"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fols"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="4" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="20"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_cooling" minutes="180"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqxsoki1mdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnnt1a37sxdo5"/>
+    <Source topic="tmt88cfd5zwbc6rpchjbeq"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Earl-Grey-Punsch","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":20},{"name":"Kühlen","duration":180}],"difficulty":null,"price":null,"nutritions":{"calories":46,"kilojoule":193,"carbonhydrates":11,"fat":0,"protein":0,"breadunit":1}},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Earl-Grey-Tee","unit":{"name":"Beet"},"prefix":null,"suffix":null},{"amount":2,"amountTo":3,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Puderzucker","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":120,"amountTo":null,"ingredient_name":"alkoholfreier Aperol","unit":{"name":"ml"},"prefix":null,"suffix":"(z. B. von Laøri)"},{"amount":120,"amountTo":null,"ingredient_name":"alkoholfreie Gin-Alternative","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Eiswürfel","unit":{"name":"Handvoll"},"prefix":null,"suffix":null},{"amount":1,"amountTo":2,"ingredient_name":"getrocknete Rosenblütenblätter","unit":{"name":"TL"},"prefix":null,"suffix":"(erhältlich in der Drogerie oder Apotheke)"},{"amount":2,"amountTo":null,"ingredient_name":"Minze","unit":{"name":"Stiel"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Die Teebeutel in eine Kanne geben und mit 500 ml kochendem Wasser übergießen. Den Tee ziehen lassen. Die Beutel entfernen, Tee abkühlen lassen und 3 Stunden kalt stellen."},{"headline":null,"content":"Earl-Grey-Tee mit Zitronensaft und Puderzucker in einem Glaskrug verrühren. Aperol und Gin-Alternative unterrühren."},{"headline":null,"content":"Die Eiswürfel auf Gläser verteilen. Tee-Punsch einfüllen und mit Rosenblättern und frischer Minze servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Earl-Grey-Punsch</Title>
+    <CustomRecipeNutritionalValueCalories position="1">46</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1">193</CustomRecipeNutritionalValueKilojoule>
+    <CustomRecipeNutritionalValueCarbs position="1">11</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">0</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">0</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1">1</CustomRecipeNutritionalBreadUnit>
+    <CustomRecipeNoteInformation position="1">Zutaten für 4 Gläser (à ca. 250 ml)</CustomRecipeNoteInformation>
+    <Headline position="1">Earl-Grey-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-05T19:56:05+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88ceffjwbvtau4t6dj0">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4546" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" suffix="(z. B. von Laøri)" position="4" prefix="alkoholfreier" plural="Aperol"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9306" amount="1" max_amount="2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" suffix="(erhältlich in der Drogerie oder Apotheke)" position="7" amount_max="2" prefix="getrocknete" plural="Rosenblütenblatt"/>
+      <CustomRecipeIngredient topic="tmt88cfc19gmah10z4vpbgy" amount="3" unit="Beet" unit_topic="tmt7e4ye8z3n8je7s21oep" position="1" prefix="Teebeutel" plural="Earl-Grey-Tee"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" max_amount="3" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="2" amount_max="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8946" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Puderzucker" position="3"/>
+      <CustomRecipeIngredient topic="tmt85w143u654jfe8t7vub" amount="120" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="5" prefix="alkoholfreie" plural="Gin-Alternativen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5721" amount="2" unit="Handvoll" unit_topic="tmt7e8m63qi1ztu53r11ng" plural="Eiswürfel" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8201" amount="2" unit="Stiel" unit_topic="tmt78awc7b61w36c313ajd" plural="Minze" position="8"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88cefh7gps31i0rkedj0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Die Teebeutel in eine Kanne geben und mit 500 ml kochendem Wasser übergießen. Den Tee 3–4 Minuten ziehen lassen. Die Beutel entfernen, Tee abkühlen lassen und 2–3 Stunden kalt stellen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88cefh7gpz5ip31pdj0">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Earl-Grey-Tee mit Zitronensaft und Puderzucker in einem Glaskrug verrühren. Aperol und Gin-Alternative unterrühren. Die Eiswürfel in Gläser verteilen. Tee-Punsch einfüllen. Mit Rosenblättern und frischer Minze servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Tee-Punsch</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Are Media / Are Media</ImageCredit>
+      <DocumentRef doc_id="doc86wrk3bqtcx24tesajl" file_variant="master" position="1">Tee-Punsch</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

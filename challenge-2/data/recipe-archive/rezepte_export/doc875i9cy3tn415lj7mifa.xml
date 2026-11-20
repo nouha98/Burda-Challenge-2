@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc875i9cy3tn415lj7mifa" dcx-version="6.3.1" version="1.0">
+  <created>2026-08-14T09:26:02+02:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2026-08-14T09:34:38+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="5"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsghiz2crdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <Source topic="tmt875idc5ehc95ev26b7g"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Pfirsich-Smoothie","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":3,"amountTo":null,"ingredient_name":"Pfirsich","unit":{"name":"(Keine Einheit)"},"prefix":"reife","suffix":null},{"amount":0.5,"amountTo":null,"ingredient_name":"Banane","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":50,"amountTo":null,"ingredient_name":"Orangensaft","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Wasser","unit":{"name":"ml"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Pfirsiche waschen, halbieren, vom Kern befreien und grob schneiden. Banane ggfs. schälen."},{"headline":null,"content":"Pfirsich-Stücke und halbe Banane in einen (Hochleistungs-) Mixer geben, Orangensaft und Wasser dazugeben und fein pürieren."},{"headline":null,"content":"Pfirsich-Smoothie auf 2 Gläser verteilen und servieren."}],"recipe_tips":[{"headline":null,"content":"Wir empfehlen, ein paar Eiswürfel in die Gläser zu füllen, bevor der Smoothie eingefüllt wird. Alternativ kannst du auch die halbe Banane ein paar Stunden vor der Zubereitung in das Eisfach legen."}]}</CustomStructuredRecipeJson>
+    <Title>Pfirsich-Smoothie</Title>
+    <Headline position="1">Pfirsich-Smoothie</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-08-14T09:26:02+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="875i9bs0hljdz9k0ifa">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8736" amount="3" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="reife" plural="Pfirsiche" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4776" amount="0.5" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Bananen" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8501" amount="50" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Orangensaft" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11021" amount="100" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Wasser" position="4"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="875i9cy3hz87z2ypifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Pfirsiche waschen, halbieren, vom Kern befreien und grob schneiden. Banane ggfs. schälen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875i9cy3nfd52bgqifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Pfirsich-Stücke und halbe Banane in einen (Hochleistungs-) Mixer geben, Orangensaft und Wasser dazugeben und fein pürieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="875i9cy3nl119wziqifa">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Pfirsich-Smoothie auf 2 Gläser verteilen und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="875i9cy3np5hctwiifa">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wir empfehlen, ein paar Eiswürfel in die Gläser zu füllen, bevor der Smoothie eingefüllt wird. Alternativ kannst du auch die halbe Banane ein paar Stunden vor der Zubereitung in das Eisfach legen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pfirsich-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9e4kuyqbs2b8xno0" file_variant="master" position="1">PfirsichSmoothie2.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6a7ec5059c734">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pfirsich-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9boxmysi4xfx688g" file_variant="master" position="1">PfirsichSmoothie_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6a7ec50795106">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCaption position="3" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pfirsich-Smoothie</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc7gf9digk9ihuzlh1ngi" file_variant="master" position="1">PfirsichSmoothie1.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

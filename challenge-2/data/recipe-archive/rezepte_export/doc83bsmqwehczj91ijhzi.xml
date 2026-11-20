@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc83bsmqwehczj91ijhzi" dcx-version="6.3.1" version="1.0">
+  <created>2025-11-19T08:05:35+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2025-11-19T08:10:36+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="2" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_prearranging" minutes="10"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="10"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rnf81fkbcido5"/>
+    <CustomRecipeThesaurs topic="tmt82m41oor82v18kykd1wy9"/>
+    <CustomRecipeThesaurs topic="tmt7hmfgf5z6tt12fk4skxr"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Farfalle mit Käse-Kräuter-Sauce","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Portionen"},"preparation_times":[{"name":"Vorbereitung","duration":10},{"name":"Zubereitung","duration":10}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Knoblauchzehe","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":20,"amountTo":null,"ingredient_name":"Mehl","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":200,"amountTo":null,"ingredient_name":"Sahne","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":150,"amountTo":null,"ingredient_name":"geriebener Käse","unit":{"name":"g"},"prefix":null,"suffix":"z.B. Parmesan, Pecorino oder Blauschimmelkäse"},{"amount":0.5,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":{"name":"(Keine Einheit)"},"prefix":"eine gute Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"geriebene Muskatnuss","unit":{"name":"(Keine Einheit)"},"prefix":"eine Prise","suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Frische Kräuter","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":"wie z.B.: Schnittlauch, Dill oder Petersilie"},{"amount":300,"amountTo":null,"ingredient_name":"Farfalle","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Salz","unit":{"name":"TL"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Den Knoblauch schälen und fein hacken."},{"headline":null,"content":"Das Butter in einem Topf zerlassen und die gehackte Knoblauchzehe 1 Minute darin andünsten."},{"headline":null,"content":"Das Mehl mit einem Kochlöffel hinzurühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den geriebenen Käse einrühren bis er geschmolzen ist. Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken."},{"headline":null,"content":"Die Farfalle nach Packungsangabe kochen und mit der Sauce mischen."},{"headline":null,"content":"Die Kräuter fein hacken und kurz vor dem Servieren über die Nudeln geben."}],"recipe_tips":[{"headline":"Welcher Käse?","content":"Du kannst alle Arten von Käse für die Sauce nehmen. Praktisch, um Käsereste aus dem Kühlschrank zu verwerten. Einfach mit der Reibe fein raspeln oder fein bröseln."}]}</CustomStructuredRecipeJson>
+    <Title>Farfalle mit Käse-Kräuter-Sauce</Title>
+    <Headline position="1">Farfalle mit Käse-Kräuter-Sauce</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-11-19T08:05:35+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="83bsmm0iu48190t3fhzi">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7436" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" suffix="wie z.B.: Schnittlauch, Dill oder Petersilie" position="12" prefix="frische" plural="Kräuter"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7256" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" plural="Knoblauchzehen" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" position="2" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" prefix="mittelgroße" plural="Zwiebeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5876" amount="300" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Farfalle" position="3"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Butter" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8121" amount="20" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Mehl" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9721" amount="200" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="7" plural="Sahne"/>
+      <CustomRecipeIngredient topic="tmt808hl7wvd02j5rscvbq" amount="150" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="z.B. Parmesan, Pecorino oder Blauschimmelkäse" position="8" plural="geriebener Käse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" amount="0.5" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" plural="Pfeffer" position="10" amount="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8316" unit="Prise" unit_topic="tmt71k9maoh1nkpxt4dbo" prefix="geriebene" position="11" amount="1" plural="Muskatnuss"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="83bsmqweaxi10hnauhzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Den Knoblauch abziehen und fein hacken. Die Zwiebel ebenfalls abziehen und klein würfeln. In einem Topf die Farfalle nach Packungsangabe kochen. Die Butter in einem kleineren Topf zerlassen. Die gehackte Knoblauchzehe und die Zwiebel darin 1 Minute bei mittlerer Hitze andünsten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83bsmqwed91dfh5zhzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Das Mehl mit einem Kochlöffel hinzurühren und mit der Milch und der Sahne ablöschen. Die Sauce einmal aufkochen lassen und den geriebenen Käse einrühren bis er geschmolzen ist.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="83bsmqwedd0prtizhzi">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Die Sauce mit Salz, Pfeffer und geriebener Muskatnuss abschmecken. Die Farfalle abgießen und mit der Sauce mischen. Die Kräuter waschen, abtropfen lassen, fein hacken und kurz vor dem Servieren über die Nudeln geben. Guten Appetit!</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="83bsmqwedn5ojdbhhzi">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Du kannst alle Arten von Käse für die Sauce nehmen. Praktisch, um Käsereste aus dem Kühlschrank zu verwerten. Einfach mit der Reibe fein raspeln oder fein bröseln.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Welcher Käse?</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82ms3422rkyn5j19mk3" file_variant="master" position="1">Farfalle mit Käse-Kräuter-Sauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_691d6d6848848">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCredit position="2">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mrz4qlsjrxiufrm7f" file_variant="master" position="1">Farfalle mit Käse-Kräuter-Sauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_691d6d69d199d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <ImageCredit position="3">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mrz2oevmskrpntm87" file_variant="master" position="1">Farfalle mit Käse-Kräuter-Sauce</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_4_691d6d6b0c738">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 4</ImageLabel>
+      <ImageCredit position="4">Maria Panzer</ImageCredit>
+      <DocumentRef doc_id="doc82mrz77rczc72oqem8o" file_variant="master" position="1">Farfalle mit Käse-Kräuter-Sauce</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

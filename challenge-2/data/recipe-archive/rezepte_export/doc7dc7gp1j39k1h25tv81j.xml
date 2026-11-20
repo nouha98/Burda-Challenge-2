@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc7dc7gp1j39k1h25tv81j" dcx-version="6.3.1" version="1.0">
+  <created>2020-11-24T12:00:39+01:00</created>
+  <identifier></identifier>
+  <modcount>5</modcount>
+  <modified>2022-04-20T15:32:54+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Status topic="docstatus-index-skip"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c5h5dz0xsmxbwtlel4"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="burda_recipe_price_cheap"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <Keywords topic="tmt7dc7i9ieshfmz3481z"/>
+    <Keywords topic="tmt7imfw2tqv2hjdkjfmja"/>
+    <Source topic="tmt7imfw2tuw371f85g7mja"/>
+    <LastEditedBy topic="tmt7854w740dq1f24rgf5j"/>
+    <DateImported>2020-11-24T12:00:39+01:00</DateImported>
+    <CustomRecipeNoteInformation position="1">Für 1 Liter. Nährwertangaben für 50 ml.</CustomRecipeNoteInformation>
+    <CustomRecipeNutritionalValueCalories position="1">50</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">8</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">1</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">1</CustomRecipeNutritionalValueFat>
+    <Headline position="1">Blutorangen-Kurkuma-Punsch</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5001" position="1" amount="6" prefix="Bio-" plural="Blutorangen"/>
+      <CustomRecipeIngredient topic="tmt7t7myu4eagn18pbarfb9" position="2" amount="1" plural="Zitronen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" position="3" amount="1" unit_topic="tmt77yyrrbzgkn162wur1qu" unit="Stück" plural="Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6291" position="4" amount="4" plural="Nelke"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10391" position="5" amount="1" plural="Sternanis"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11331" position="6" amount="1" plural="Zimtstangen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="7" amount="1" unit_topic="tmt71k9maoh1nkpxt4dbo" unit="Prise" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7341" position="8" amount="1" unit_topic="tmt71k9kxzgczs14qz55dbs" unit="TL" plural="Kokosöl"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4581" position="9" amount="200" unit_topic="tmt71k9kj4jryb1c5ozqdbg" unit="ml" plural="Apfelsaft"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6756" position="10" amount="2" unit_topic="tmt71k9l0iwtqu1gbohwdbs" unit="EL" plural="Honig"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Orangen abbrausen und trocken tupfen. 1 Orange in Scheiben schneiden. Von 1 Orange die Schale fein abreiben, dann den Saft wie von den übrigen Orangen sowie der Zitrone auspressen. Kurkuma schälen und fein raspeln.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_5fbce84ca8d04">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Alle Zutaten in einen Topf geben. 200 ml Wasser zugießen, alles aufkochen und zu-gedeckt bei kleiner Hitze 10 Min. köcheln lassen. Punsch evtl. durch ein Sieb in hitze-beständige Gläser füllen und servieren.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCredit position="1">Gr fe &amp; Unzer Verlag / Kramp + G lling</ImageCredit>
+      <DocumentRef doc_id="doc7bmgpmwandw1lsw4gk1s" file_variant="master" position="1">Blutorangen-Kurkuma-Punsch mit Honig</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

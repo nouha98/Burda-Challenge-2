@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc88an1ugugoootuv1cq3" dcx-version="6.3.1" version="1.0">
+  <created>2026-11-02T09:42:23+01:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-11-02T09:48:21+01:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <Owner topic="owner-fooddigital"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="2"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <LastEditedBy topic="tmt81k2vblyfnn1fz2o9ck"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rsac1fjvvydo5"/>
+    <Source topic="tmt88an4lulernfngyt94o"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Thunfisch-Sandwich","recipe_seo_headline":null,"servings":null,"preparation_times":[{"name":"Garen","duration":10}],"difficulty":null,"price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Ei","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Zwiebel","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"eingelegte Gurken","unit":{"name":"(Keine Einheit)"},"prefix":"kleine","suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Thunfisch","unit":{"name":"Dose"},"prefix":null,"suffix":"(im eigenen Saft; Abtropfgewicht je Dose: ca. 140 g)"},{"amount":100,"amountTo":null,"ingredient_name":"Joghurt","unit":{"name":"g"},"prefix":null,"suffix":"(1,5 % Fett)"},{"amount":2,"amountTo":null,"ingredient_name":"Salatmayonnaise","unit":{"name":"EL"},"prefix":null,"suffix":"(fettreduziert)"},{"amount":1,"amountTo":null,"ingredient_name":"Senf","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"Salz","unit":null,"prefix":null,"suffix":null},{"amount":4,"amountTo":null,"ingredient_name":"Vollkorntoast","unit":{"name":"Scheibe"},"prefix":null,"suffix":"große Scheiben"},{"amount":1,"amountTo":null,"ingredient_name":"Strauchtomate","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Kopfsalat","unit":{"name":"Blatt"},"prefix":null,"suffix":"große Blätter"}]}],"preparation":[{"headline":null,"content":"Das Ei in 8–10 Minuten hart kochen. In der Zwischenzeit Zwiebel abziehen und fein würfeln. Eingelegte Gurken abtropfen lassen und ebenfalls in kleine Würfel schneiden. Thunfisch auf ein Sieb geben und abtropfen lassen."},{"headline":null,"content":"Joghurt, Salatmayonnaise und Senf miteinander verquirlen. Das hartgekochte Ei pellen und fein würfeln. Ei, Zwiebel, Gurken und Thunfisch unterrühren und die Creme mit Pfeffer und wenig Salz abschmecken."},{"headline":null,"content":"Vollkorntoastscheiben toasten. Strauchtomate abbrausen und den Stielansatz entfernen, dann in dünne Scheiben schneiden. Salatblätter ebenfalls abbrausen und abtropfen lassen."},{"headline":null,"content":"Jeweils 2 Scheiben Toast mit einem Salatblatt belegen und mit der Thunfischcreme bestreichen. Die Tomatenscheiben darauf verteilen und mit der zweiten Toastscheibe belegen. Das Thunfisch-Sandwich schräg halbieren und servieren."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Thunfisch-Sandwich</Title>
+    <Headline position="1">Thunfisch-Sandwich</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-11-02T09:42:23+01:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="88an1qkvxix1kov0ccq3">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Eier" position="1"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11501" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine" plural="Zwiebeln" position="2"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6461" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" prefix="kleine eingelegte" position="3" plural="Gurken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10551" amount="1" unit="Dose" unit_topic="tmt71k9lavq8xsgd6tlive" suffix="(im eigenen Saft; Abtropfgewicht je Dose: ca. 140 g)" plural="Thunfisch" position="4"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6876" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" suffix="(1,5 % Fett)" plural="Joghurt" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9521" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" suffix="(fettreduziert)" plural="Salatmayonnaise" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10066" amount="1" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" plural="Senf" position="7"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Salz" position="9"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10901" amount="4" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Vollkorntoast" position="10" prefix="große Scheiben"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10406" amount="1" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Strauchtomaten" position="11"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7366" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="Kopfsalate" position="12" prefix="große Blätter"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="88an1ugtf2vqgb4lcq3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Das Ei in 8–10 Minuten hart kochen. In der Zwischenzeit Zwiebel abziehen und fein würfeln. Gurken abtropfen lassen und ebenfalls in kleine Würfel schneiden. Thunfisch auf ein Sieb geben und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88an1ugticx1bsxs3cq3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Joghurt, Mayo und Senf miteinander verquirlen. Das hartgekochte Ei pellen und fein würfeln. Ei, Zwiebel, Gurken und Thunfisch unterrühren und die Creme mit Pfeffer und wenig Salz abschmecken.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88an1ugtihsvzczocq3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Vollkorntoastscheiben toasten. Strauchtomate abbrausen und in dünne Scheiben schneiden, dabei den Stielansatz entfernen. Salatblätter ebenfalls abbrausen und abtropfen lassen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="88an1ugtil3qvlcrcq3">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="4">Jeweils 2 Scheiben Toast mit einem Salatblatt belegen und mit der Thunfischcreme bestreichen. Die Tomatenscheiben darauf verteilen und mit der zweiten Toastscheibe belegen. Das Thunfisch-Sandwich schräg halbieren und servieren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="4">Schritt 4</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc7rcaymkn6korya5e66k" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Sandwich_hoch.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_6ae84e4ced1c8">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <DocumentRef doc_id="doc7rcayk3cy6df9ldg66j" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Sandwich_Step.tif</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_3_6ae84e4ecee31">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 3</ImageLabel>
+      <DocumentRef doc_id="doc7rcayhleguamukdy66h" file_variant="master" position="1">eatbetter_Mai2023_Thunfisch-Sandwich_quer.tif</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

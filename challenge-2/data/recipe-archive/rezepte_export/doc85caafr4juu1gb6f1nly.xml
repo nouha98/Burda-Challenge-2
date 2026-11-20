@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc85caafr4juu1gb6f1nly" dcx-version="6.3.1" version="1.0">
+  <created>2026-04-09T11:01:44+02:00</created>
+  <identifier></identifier>
+  <modcount>10</modcount>
+  <modified>2026-08-05T11:34:10+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <Status topic="docstatus-draft"/>
+    <Type topic="documenttype-story"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-hbm"/>
+    <Owner topic="owner-burdalife"/>
+    <Owner topic="owner-burdahome"/>
+    <ImportedBy topic="tmt7c1w8af9tf782g0w5r8"/>
+    <Creator topic="tmt7c1w8af9tf782g0w5r8"/>
+    <StoryType topic="storytype-recipe"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" plural="Portionen" amount="4"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="40"/>
+    <CustomRecipeThesaurs topic="tmt81byksj1ga017fxndfjz"/>
+    <CustomRecipeThesaurs topic="tmt7gnisovf4qxoarxeopg"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0ruds18czicdo5"/>
+    <Source topic="tmt85cajek00s3521qcosz"/>
+    <LastEditedBy topic="tmt6zw4fpzkaya1gbwcj9jl"/>
+    <CustomRecipeNutritionalValueCalories position="1">320</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueCarbs position="1">5</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueProtein position="1">45</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalValueFat position="1">12</CustomRecipeNutritionalValueFat>
+    <CustomRecipeTeaserside position="1">frischer Gurkensalat mit Joghurt-Dressing</CustomRecipeTeaserside>
+    <Headline position="1">Hähnchen-Cordon-bleu</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-04-09T11:01:44+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="customrecipeingredients_primary">
+      <CustomRecipeIngredient topic="tmt80lqy2e2mrb109ll7rvm" position="1" amount="4" suffix="(à 160 g)" plural="Hähnchenbrustfilets" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7281" position="2" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" plural="Kochschinken"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7116" position="3" amount="4" unit_topic="tmt789aavw7pipy9pfg5b1" unit="Scheibe" suffix="(z.B. Gouda)" plural="Käse"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5656" position="4" amount="2" plural="Eier" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7941" position="5" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="gemahlene" plural="Mandeln"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8591" position="6" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" prefix="geriebener" plural="Parmesan"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10051" position="7" amount="50" unit_topic="tmt71k9kn9q8q8hixpkdbg" unit="g" plural="Semmelbrösel"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_9556" position="8" plural="Salz" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8686" position="9" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" plural="Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5936" position="10" suffix="oder Öl zum Braten" plural="Fett" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)"/>
+      <TagGroupConfig/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_primary">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 1</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Hähnchenbrustfilets abtupfen, dann waagerecht der Länge nach einschneiden, sodass eine Tasche entsteht. Jeweils 1 Scheibe Schinken und 1 Scheibe Käse in die Tasche legen. Mit Zahnstochern verschließen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_2_69d76bc6202fe">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 2</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Eier in einem tiefen Teller verquirlen. Mandeln, Parmesan, Brösel, Salz und Pfeffer auf einem zweiten Teller vermengen.</CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="customrecipepreparationsteps_3_69d76be0d4043">
+      <TagGroupConfig/>
+      <CustomRecipePreparationStepsLabel position="1">Zubereitungsschritte 3</CustomRecipePreparationStepsLabel>
+      <CustomRecipePreparationsStepsContent position="1">Die gefüllte Hähnchenbrust zuerst im Ei wenden, dann in der Mandelpanade. Brösel etwas andrücken. Mit Fett besprühen oder etwas Öl beträufeln. Die Cordon bleus in den Airfryer-Korb legen. Bei 180 Grad 20 Minuten braten. </CustomRecipePreparationsStepsContent>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+      <CustomRecipeTippsContent position="1">Airfryer-Tipp: Panaden von Schnitzeln oder Fischstäbchen mit etwas Fett besprühen. Da sie nicht mit Öl frittiert werden, aber etwas Fett zur Knusprigkeit brauchen, hilft der dünnen Film.</CustomRecipeTippsContent>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <DocumentRef doc_id="doc84ejy1ly9rr1cwfhqrtv" file_variant="master" position="1">Cordonbleu.png</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

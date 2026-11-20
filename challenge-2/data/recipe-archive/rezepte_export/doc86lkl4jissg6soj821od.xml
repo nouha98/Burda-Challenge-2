@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc86lkl4jissg6soj821od" dcx-version="6.3.1" version="1.0">
+  <created>2026-07-06T14:16:46+02:00</created>
+  <identifier></identifier>
+  <modcount>6</modcount>
+  <modified>2026-07-06T14:35:31+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <CustomRecipeServing topic="tmt71fqtwgcc7d6ppm8aw1" amount="2" plural="Gläser"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="25"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq7s1lnm2odo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqw01963n0do5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rpxu15nd7xdo5"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rqn7vcrftdo5"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Aprikosen-Holunder-Kompott","recipe_seo_headline":null,"servings":{"amount":2.0,"unit":"Gläser"},"preparation_times":[{"name":"Zubereitung","duration":25}],"difficulty":"einfach","price":null,"nutritions":null},"recipe_groups":[{"headline":null,"ingredients":[{"amount":700,"amountTo":null,"ingredient_name":"reife Aprikosen","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":100,"amountTo":null,"ingredient_name":"Gelierzucker 3:1","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":"1/2","amountTo":null,"ingredient_name":"gemahlener Kurkuma","unit":{"name":"TL"},"prefix":null,"suffix":null},{"amount":null,"amountTo":null,"ingredient_name":"schwarzer Pfeffer","unit":null,"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Holunderblütenzweig","unit":{"name":"Zweig"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Zitronensaft","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"Bio-Zitronenschale","unit":{"name":"EL"},"prefix":"fein abgeriebene","suffix":null}]}],"preparation":[{"headline":null,"content":"Aprikosen waschen, entsteinen und das Fruchtfleisch halbieren oder vierteln."},{"headline":null,"content":"Gelierzucker mit Kurkuma und 1 Prise Pfeffer mischen."},{"headline":null,"content":"Aprikosen in einen großen Topf geben, mit der Zuckermischung verrühren und langsam zum Kochen bringen. Dabei immer wieder umrühren."},{"headline":null,"content":"Holunderblüten abzupfen, zu den Aprikosen geben und kurz aufkochen. Dann Zitronensaft und -schale untermischen."},{"headline":null,"content":"Kompott in saubere, heiß ausgespülte Gläser füllen und verschließen."}],"recipe_tips":[{"headline":null,"content":"Passt zu Waffeln oder Pfannkuchen."},{"headline":"Haltbarkeit","content":"Im Kühlschrank 12 Wochen haltbar."},{"headline":"Einfrieren","content":"Wer viele Früchte hat und das Kompott länger lagern möchte, kann es abgekühlt im Glas einfrieren. Bei Bedarf am Vortag bei Zimmertemperatur auftauen lassen."}]}</CustomStructuredRecipeJson>
+    <Title>Aprikosen-Holunder-Kompott</Title>
+    <CustomRecipeNoteInformation position="1">Für 2 Gläser (à 350 ml Inhalt)</CustomRecipeNoteInformation>
+    <Headline position="1">Aprikosen-Holunder-Kompott</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2026-07-06T14:16:46+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="86lkl6hsgqecj4qemuo">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_4601" amount="700" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="1" prefix="reife" plural="Aprikosen"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6221" amount="100" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="2" suffix="3:1" plural="Gelierzucker"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_7566" amount="1/2" unit="TL" unit_topic="tmt71k9kxzgczs14qz55dbs" position="3" prefix="gemahlener" plural="Kurkuma"/>
+      <CustomRecipeIngredient topic="tmt7zi4he1fgl514nb3vjs0" unit_topic="tm_topic_default_unit" unit="(Keine Einheit)" position="4" plural="schwarzer Pfeffer"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6731" amount="1" unit="Zweig" unit_topic="tmt71k9mrz8iyeyycjkivd" position="5" plural="Holunderblüten"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_11386" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Zitronensaft" position="6"/>
+      <CustomRecipeIngredient topic="tmt7tb9s8afldxz06c3mvf" amount="2" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" prefix="fein abgeriebene" plural="Bio-Zitronenschale" position="7"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="86lkl8u21t51f2x34muo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Aprikosen waschen, entsteinen und das Fruchtfleisch halbieren oder vierteln.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86lkl8u2235267owmuo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Gelierzucker mit Kurkuma und 1 Prise Pfeffer mischen. Aprikosen in einen großen Topf geben, mit der Zuckermischung verrühren und langsam zum Kochen bringen. Dabei immer wieder umrühren.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="86lkl8u227m14snrlmuo">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Holunderblüten abzupfen, zu den Aprikosen geben und kurz aufkochen. Dann Zitronensaft und -schale untermischen. Kompott in saubere, heiß ausgespülte Gläser füllen und verschließen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="86lkl8u22md18bu2zmuo">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Passt zu Waffeln oder Pfannkuchen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="86lkl8u22pzrli87muo">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Im Kühlschrank 12 Wochen haltbar.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Haltbarkeit</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 2</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <CustomRecipeTipps taggroup_id="86lkl8u22v41btwc2muo">
+      <TagGroupConfig/>
+      <CustomRecipeTippsContent position="1">Wer viele Früchte hat und das Kompott länger lagern möchte, kann es abgekühlt im Glas einfrieren. Bei Bedarf am Vortag bei Zimmertemperatur auftauen lassen.</CustomRecipeTippsContent>
+      <CustomRecipeTippsHeader position="1">Einfrieren</CustomRecipeTippsHeader>
+      <CustomRecipeTippsLabel position="1">Tipps 3</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Aprikosenkompott mit Holunderblüten, dazu Waffeln</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">Oliver Brachat</ImageCredit>
+      <DocumentRef doc_id="doc85wwxvuf41smqco6nhr" file_variant="master" position="1">Aprikosenkompott mit Holunderblüten, dazu Waffeln</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>

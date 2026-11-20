@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://www.digicol.com/xmlns/dcx" id="doc81wxfjo4gd5zfhgvulm" dcx-version="6.3.1" version="1.0">
+  <created>2025-08-12T09:10:41+02:00</created>
+  <identifier></identifier>
+  <modcount>7</modcount>
+  <modified>2025-08-12T09:24:42+02:00</modified>
+  <pool_id id="story"/>
+  <restore_pool_id></restore_pool_id>
+  <restore_unique></restore_unique>
+  <unique></unique>
+  <head>
+    <LastEditedBy topic="tmt6tnpmbuldas2ngd9eew"/>
+    <Owner topic="owner-default"/>
+    <Owner topic="owner-fodl"/>
+    <Owner topic="owner-burdahome"/>
+    <Owner topic="owner-burdalife"/>
+    <Classification topic="dc_se_thesterm_6on9dzulvuh3z0l7bw1" generator="com.digicol.se" listid="dc_se_thesterm" percent="100" score="1"/>
+    <CustomRecipeServing topic="tmt782lpxzovw368o368gz" amount="4" plural="Portionen"/>
+    <ImportedBy topic="tmt7z8ylf42f5c195hswdmu"/>
+    <StoryType topic="storytype-recipe"/>
+    <Type topic="documenttype-story"/>
+    <RecipeStyleguide topic="tmt7zfk5d7kez91hj713139t"/>
+    <CustomRecipeDifficulty topic="burda_recipe_difficulty_easy"/>
+    <CustomRecipePrice topic="tmt80imllns71whhqklofv"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_baking" minutes="25"/>
+    <CustomRecipePreparation topic="burda_recipe_preparation_preparation" minutes="15"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rv0publ04do5"/>
+    <CustomRecipeThesaurs topic="tmt81bif8hqa7dqd3de8vs"/>
+    <CustomRecipeThesaurs topic="burda_recipe_thesaurus_7f2dfe0rq0114bjq3do5"/>
+    <CustomRecipeThesaurs topic="tmt81buxloktro7uj9xe0p"/>
+    <CustomStructuredRecipeJson>{"recipe_header":{"recipe_headline":"Marinierter Spitzkohl","recipe_seo_headline":null,"servings":{"amount":4.0,"unit":"Portionen"},"preparation_times":[{"name":"Backen","duration":25}],"difficulty":null,"price":null,"nutritions":{"calories":550,"kilojoule":2302,"carbonhydrates":50,"fat":30,"protein":20,"breadunit":null}},"recipe_groups":[{"headline":"Aus dem Einkaufskorb","ingredients":[{"amount":1,"amountTo":null,"ingredient_name":"Spitzkohl","unit":{"name":"Stück"},"prefix":null,"suffix":"(ca. 600 g)"},{"amount":150,"amountTo":null,"ingredient_name":"Barbecuesauce","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":2,"amountTo":null,"ingredient_name":"rote Zwiebeln","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Gemüsebrühe","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":300,"amountTo":null,"ingredient_name":"Milch","unit":{"name":"ml"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Butter","unit":{"name":"EL"},"prefix":null,"suffix":null},{"amount":80,"amountTo":null,"ingredient_name":"Polentagrieß","unit":{"name":"g"},"prefix":null,"suffix":null},{"amount":1,"amountTo":null,"ingredient_name":"Petersilie","unit":{"name":"Bund"},"prefix":null,"suffix":null},{"amount":30,"amountTo":null,"ingredient_name":"geriebener Parmesan","unit":{"name":"g"},"prefix":null,"suffix":null}]},{"headline":"Außerdem","ingredients":[{"amount":null,"amountTo":null,"ingredient_name":"Fett für die Form","unit":{"name":"(Keine Einheit)"},"prefix":null,"suffix":null}]}],"preparation":[{"headline":null,"content":"Backofen auf 200 Grad (Umluft 180 Grad) heizen. Spitzkohl waschen, vierteln und mit 80 ml Barbecuesauce rundum bepinseln. Zwiebeln abziehen und vierteln. Kohl und Zwiebeln in einer gefetteten Auflaufform verteilen und ca. 25 Minuten backen."},{"headline":null,"content":"Brühe mit Milch und Butter aufkochen und Polenta darin nach Packungsangabe garen. Petersilie hacken und mit dem Parmesan in die Polenta rühren."},{"headline":null,"content":"Restliche Barbecuesauce erhitzen. Spitzkohl aus dem Ofen nehmen und mit Petersilien-Polenta und Barbecuesauce anrichten."}],"recipe_tips":null}</CustomStructuredRecipeJson>
+    <Title>Marinierter Spitzkohl</Title>
+    <CustomRecipeNutritionalValueCalories position="1">550</CustomRecipeNutritionalValueCalories>
+    <CustomRecipeNutritionalValueKilojoule position="1"/>
+    <CustomRecipeNutritionalValueCarbs position="1">50</CustomRecipeNutritionalValueCarbs>
+    <CustomRecipeNutritionalValueFat position="1">30</CustomRecipeNutritionalValueFat>
+    <CustomRecipeNutritionalValueProtein position="1">20</CustomRecipeNutritionalValueProtein>
+    <CustomRecipeNutritionalBreadUnit position="1"/>
+    <SubHeadline position="1">Marinierter BBQ-Spitzkohl aus dem Ofen 14453485</SubHeadline>
+    <Headline position="1">Marinierter Spitzkohl</Headline>
+    <WordCount source="com.digicol.dcx">0</WordCount>
+    <CharCount source="com.digicol.dcx">0</CharCount>
+    <DateImported>2025-08-12T09:10:41+02:00</DateImported>
+    <CustomRecipeIngredients taggroup_id="81wxflwafrlzyklq1t9g">
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_10326" amount="1" unit="Stück" unit_topic="tmt77yyrrbzgkn162wur1qu" suffix="(ca. 600 g)" plural="Spitzkohl" position="1"/>
+      <CustomRecipeIngredient topic="tmt7cv77ixo0pw1k2bnk1ql" amount="150" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" position="2" plural="Barbecue-Sauce"/>
+      <CustomRecipeIngredient topic="tmt80n8lyitnl4wn62gm6n" amount="2" unit="(Keine Einheit)" unit_topic="tm_topic_default_unit" plural="rote Zwiebeln" position="3"/>
+      <CustomRecipeIngredient topic="tmt803grcvcliwkuwm614fg" position="4" plural="Fett für die Form"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_6236" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Gemüsebrühe" position="5"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8171" amount="300" unit="ml" unit_topic="tmt71k9kj4jryb1c5ozqdbg" plural="Milch" position="6"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_5216" amount="1" unit="EL" unit_topic="tmt71k9l0iwtqu1gbohwdbs" plural="Butter" position="7"/>
+      <CustomRecipeIngredient topic="tmt7hja9qut9me1db78xf0v" amount="80" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" plural="Polentagrieß" position="8"/>
+      <CustomRecipeIngredient topic="tmt_ingredient_food_multisite_8661" amount="1" unit="Bund" unit_topic="tmt71k9l7ulc0y1015s16vi" plural="Petersilie" position="9"/>
+      <CustomRecipeIngredient topic="tmt808hl954rhe1mzwqfvbp" amount="30" unit="g" unit_topic="tmt71k9kn9q8q8hixpkdbg" position="10" plural="geriebener Parmesan"/>
+      <TagGroupConfig/>
+      <CustomRecipeIngredientsHeader position="1"/>
+    </CustomRecipeIngredients>
+    <CustomRecipePreparationSteps taggroup_id="81wxfo5qkfn117wi81t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="1">Backofen auf 200 Grad (Umluft 180 Grad) heizen. Spitzkohl waschen, vierteln und mit 80 ml Barbecuesauce rundum bepinseln. Zwiebeln abziehen und vierteln. Kohl und Zwiebeln in einer gefetteten Auflaufform verteilen und ca. 25 Minuten backen.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="1">Schritt 1</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wxfo5qoo7p75r1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="2">Brühe mit Milch und Butter aufkochen und Polenta darin nach Packungsangabe garen. Petersilie hacken und mit dem Parmesan in die Polenta rühren. Restliche Barbecuesauce erhitzen. </CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="2">Schritt 2</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipePreparationSteps taggroup_id="81wxfo5qotlwjffn1t9g">
+      <TagGroupConfig/>
+      <CustomRecipePreparationsStepsContent position="3">Spitzkohl aus dem Ofen nehmen und mit Petersilien-Polenta und Barbecuesauce anrichten.</CustomRecipePreparationsStepsContent>
+      <CustomRecipePreparationStepsLabel position="3">Schritt 3</CustomRecipePreparationStepsLabel>
+    </CustomRecipePreparationSteps>
+    <CustomRecipeTipps taggroup_id="customrecipetipps_primary">
+      <TagGroupConfig/>
+      <CustomRecipeTippsLabel position="1">Tipps 1</CustomRecipeTippsLabel>
+    </CustomRecipeTipps>
+    <Image taggroup_id="image_primary">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Primäres Bild</ImageLabel>
+      <ImageCaption position="1" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Marinierter BBQ-Spitzkohl aus dem Ofen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="1">StockFood Studios / Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc80qudisraph4zyck12mz" file_variant="master" position="1">Marinierter BBQ-Spitzkohl aus dem Ofen</DocumentRef>
+    </Image>
+    <Image taggroup_id="image_2_689aea37ba45d">
+      <TagGroupConfig document_mode="single"/>
+      <ImageLabel position="1">Bild 2</ImageLabel>
+      <ImageCaption position="2" type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Zutaten für marinierten BBQ-Spitzkohl aus dem Ofen</p>
+        </div>
+      </ImageCaption>
+      <ImageCredit position="2">StockFood Studios / Brachat, Oliver</ImageCredit>
+      <DocumentRef doc_id="doc80qudm4hfdfi3jr314mr" file_variant="master" position="1">Zutaten für marinierten BBQ-Spitzkohl aus dem Ofen</DocumentRef>
+    </Image>
+  </head>
+  <body xmlns="http://www.w3.org/1999/xhtml"/>
+  <files/>
+  <parent_story readonly="1"/>
+</document>
