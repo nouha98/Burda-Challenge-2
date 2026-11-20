@@ -21,7 +21,9 @@ def _summary(data: dict, revival_id: str) -> str:
              f"- **Seed:** `{data.get('seed')}` (gleicher Lauf: `python -m agents.revival_agent --seed {data.get('seed')}`)",
              f"- **Trenddaten:** {ctx.get('trends_generated_at')} · **Saison:** {ctx['reason']}",
              f"- **Suche:** {data['method'].get('retrieval')}",
-             f"- **Ablauf:** {data['method'].get('pipeline')}", ""]
+             f"- **Ablauf:** {data['method'].get('pipeline')}",
+             "- **Trendkarte (A4, ohne Bild):** [TREND-KARTE.html](TREND-KARTE.html) – Top-3-Trends mit Trend-Score, "
+             "Google-Anstieg, Suchinteresse, Wikipedia-Aufrufen und den gezogenen Rezepten", ""]
     rounds = data.get("rounds", [])
     replaced = [r for rnd in rounds for r in (rnd.get("action") or {}).get("replaced", [])]
     lines.append(f"**Review:** {len(rounds)} Runde(n)" + (f"; ersetzt: {'; '.join(replaced)}" if replaced else "; nichts ersetzt") + "\n")
@@ -62,17 +64,19 @@ def export(revival_id: str | None = None) -> Path:
     src = runs.RUNS / revival_id
     data = runs.read_json(src / "revival.json")
     out = RESULTS / revival_id
-    if out.exists():
-        shutil.rmtree(out)
-    out.mkdir(parents=True)
+    # Overwrite files in place; never delete the folder (OneDrive/Explorer can lock folders on Windows)
+    out.mkdir(parents=True, exist_ok=True)
     for f in src.iterdir():
         if f.suffix in (".jpg", ".html") or f.name == "revival.json":
             shutil.copy2(f, out / f.name)
+    from rendering.trend_card import build as build_trend_card
+    (out / "TREND-KARTE.html").write_text(build_trend_card(revival_id), encoding="utf-8")
     (out / "RESULTS.md").write_text(_summary(data, revival_id), encoding="utf-8")
     index = sorted(p.name for p in RESULTS.iterdir() if p.is_dir())
     (RESULTS / "README.md").write_text(
         "# Results\n\nArchiv-Revival runs for the current top trends (newest last). Each folder: `RESULTS.md` "
-        "(summary), images, A4 cards (`.html`) and `revival.json` (full trace incl. seed, pools and review rounds).\n\n"
+        "(summary), `TREND-KARTE.html` (A4 trend overview without image), images, A4 recipe cards (`.html`) and "
+        "`revival.json` (full trace incl. seed, pools and review rounds).\n\n"
         + "\n".join(f"- [{n}]({n}/RESULTS.md)" for n in index) + "\n", encoding="utf-8")
     return out
 

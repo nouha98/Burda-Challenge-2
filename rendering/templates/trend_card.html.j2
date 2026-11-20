@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Top-3-Food-Trends – das schmeckt!</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#e7ebe5;color:#28332d;font-family:Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.toolbar{max-width:210mm;margin:22px auto 16px;display:flex;justify-content:space-between;align-items:center}
+.toolbar h1{font-size:16px;font-weight:500;margin:0;color:#183e30}
+.toolbar button{font:700 13px Helvetica,Arial,sans-serif;background:#006642;color:#fff;padding:10px 17px;border:0;cursor:pointer}
+.page{position:relative;width:210mm;height:297mm;margin:0 auto 22px;background:#fcfbf7;box-shadow:0 3px 24px #183e3020;overflow:hidden}
+.hdr{position:absolute;left:34pt;right:34pt;top:24pt}
+.hdr .bar{height:2.2pt;background:#006642}
+.hdr .row{display:flex;justify-content:space-between;align-items:center;height:47pt}
+.hdr img{height:30.9pt;display:block}
+.hdr .tag{font-size:8.3pt;color:#647169}
+.hdr .rule{height:.6pt;background:#d8ded5}
+.body{position:absolute;left:34pt;right:34pt;top:86pt;bottom:52pt}
+h1.title{font-size:27pt;line-height:30pt;font-weight:700;color:#183e30;margin:0}
+.sub{font-size:9.5pt;line-height:13pt;margin:6pt 0 0;color:#28332d}
+.meta{font-size:8pt;line-height:11pt;color:#647169;margin:6pt 0 0}
+.badge{display:inline-block;margin-top:7pt;padding:3pt 7pt;font-size:8pt;font-weight:700;color:#183e30;background:#fff04b}
+.trend{margin-top:12pt;border-top:2.2pt solid #006642;background:#edf2e9;padding:9pt 12pt 10pt}
+.trend .head{display:flex;align-items:baseline;gap:10pt}
+.rank{flex:none;width:24pt;height:24pt;border-radius:50%;background:#fff04b;color:#183e30;font-weight:700;font-size:12pt;
+      display:flex;align-items:center;justify-content:center}
+.trend h2{font-size:17pt;line-height:20pt;margin:0;color:#183e30}
+.score{margin-left:auto;font-size:9pt;color:#183e30}
+.score b{font-size:15pt}
+.why{font-size:9pt;line-height:12.5pt;margin:5pt 0 6pt 34pt}
+.kpis{display:flex;gap:6pt;margin-left:34pt}
+.kpi{flex:1;background:#fcfbf7;padding:5pt 7pt}
+.kpi .v{font-size:12.5pt;font-weight:700;color:#183e30;line-height:15pt}
+.kpi .l{font-size:7.2pt;line-height:9.5pt;color:#647169}
+.recipes{margin:7pt 0 0 34pt}
+.recipes .l{font-size:7.6pt;color:#647169;margin-bottom:2pt}
+.recipes ul{margin:0;padding-left:12pt;font-size:9pt;line-height:12.5pt}
+.recipes li span{color:#647169}
+.note{font-size:7.4pt;line-height:10pt;color:#647169;margin-top:10pt}
+.ftr{position:absolute;left:34pt;right:34pt;top:801pt}
+.ftr .rule{height:.6pt;background:#d8ded5}
+.ftr .row{display:flex;justify-content:space-between;font-size:7.5pt;line-height:10pt;color:#647169;margin-top:8.4pt}
+@page{size:A4 portrait;margin:0}
+@media print{html,body{margin:0!important;background:#fff!important}.toolbar{display:none!important}
+ .page{margin:0!important;box-shadow:none!important;height:296.5mm!important;print-color-adjust:exact;-webkit-print-color-adjust:exact}}
+</style></head><body>
+<div class="toolbar"><h1>Top-3-Food-Trends · Trendkarte</h1><button type="button" onclick="window.print()">Drucken / PDF</button></div>
+<main><article class="page" aria-label="Trendkarte">
+ <header class="hdr"><div class="bar"></div>
+  <div class="row"><img src="{{ logo }}" alt="das schmeckt!"><span class="tag">Gut einkaufen. Mit Freude kochen.</span></div>
+  <div class="rule"></div></header>
+ <div class="body">
+  <h1 class="title">Was Deutschland gerade kocht</h1>
+  <p class="sub">Die drei stärksten steigenden Food-Trends – und passende Rezepte aus dem <i>das schmeckt!</i>-Archiv.</p>
+  <p class="meta">{{ season }} · Google Trends DE {{ google_period }} · Wikipedia-Aufrufe {{ wiki_latest }} vs. {{ wiki_previous }} · Seed {{ seed }}</p>
+  <span class="badge">KI-gestützte Trendauswertung</span>
+  {% for t in trends %}
+  <section class="trend">
+   <div class="head"><div class="rank">{{ loop.index }}</div><h2>{{ t.name }}</h2>
+    <div class="score">Trend-Score <b>{{ t.T }}</b> / 100</div></div>
+   <p class="why">{{ t.why }}</p>
+   <div class="kpis">
+    <div class="kpi"><div class="v">+{{ t.growth }} %</div><div class="l">Google-Suchanstieg<br>(stärkster Suchbegriff)</div></div>
+    <div class="kpi"><div class="v">{{ t.interest }}</div><div class="l">Google-Suchinteresse<br>(relativ, 0–100)</div></div>
+    <div class="kpi"><div class="v">{{ t.views }}</div><div class="l">Wikipedia-Aufrufe<br>letzte 7 Tage</div></div>
+    <div class="kpi"><div class="v">{{ t.change }}</div><div class="l">Wikipedia ggü. Vorwoche<br>({{ t.wiki_label }})</div></div>
+   </div>
+   <div class="recipes"><div class="l">Aus dem Archiv (zufällig aus den 10 relevantesten Rezepten gezogen):</div>
+    <ul>{% for r in t.recipes %}<li>{{ r.title }} <span>· {{ r.category }}</span></li>{% endfor %}</ul></div>
+  </section>
+  {% endfor %}
+  <p class="note">Trend-Score T = 100 × (0,65 × Google-Signal + 0,35 × Wikipedia-Signal), relativ innerhalb des Datensatzes –
+   keine absoluten Suchmengen. Der November-Anstieg ist teils saisonal. Archiv = Stichprobe von 5.000 der 81.798 Rezepte.</p>
+ </div>
+ <footer class="ftr"><div class="rule"></div>
+  <div class="row"><span>das schmeckt! · Mit Freude kochen. · Trendkarte · Stand {{ generated }}</span><span>Seite 1 von 1</span></div></footer>
+</article></main></body></html>

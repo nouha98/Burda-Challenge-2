@@ -5,6 +5,7 @@
 - **Trenddaten:** 2026-11-20T13:46:55 · **Saison:** Datum 20.11.2026: Herbst, Advent ab 29.11.; 23% der steigenden Trend-Punkte sind Weihnachtsspezialitäten
 - **Suche:** hybrid (embeddings + title/ingredient)
 - **Ablauf:** top 3 trends → 10 most relevant archive recipes per trend → random draw of 3 per trend (seed 385792274) → review agent (max. 2 correction rounds, replacements drawn from the same pool) → FLUX image → vision check → cards
+- **Trendkarte (A4, ohne Bild):** [TREND-KARTE.html](TREND-KARTE.html) – Top-3-Trends mit Trend-Score, Google-Anstieg, Suchinteresse, Wikipedia-Aufrufen und den gezogenen Rezepten
 
 **Review:** 2 Runde(n); ersetzt: Cremiger Kasseler-Eintopf → Winter-Minestrone mit Grünkohl
 
