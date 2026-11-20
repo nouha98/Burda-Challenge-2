@@ -36,6 +36,8 @@ h1.title{font-size:27pt;line-height:30pt;font-weight:700;color:#183e30;margin:0}
 .recipes .l{font-size:7.6pt;color:#647169;margin-bottom:2pt}
 .recipes ul{margin:0;padding-left:12pt;font-size:9pt;line-height:12.5pt}
 .recipes li span{color:#647169}
+.recipes a{color:#183e30;text-decoration:underline;text-decoration-color:#006642;text-underline-offset:2pt}
+.recipes a:hover{color:#006642}
 .note{font-size:7.4pt;line-height:10pt;color:#647169;margin-top:10pt}
 .ftr{position:absolute;left:34pt;right:34pt;top:801pt}
 .ftr .rule{height:.6pt;background:#d8ded5}
@@ -55,7 +57,7 @@ h1.title{font-size:27pt;line-height:30pt;font-weight:700;color:#183e30;margin:0}
   <p class="meta">{{ season }} · Google Trends DE {{ google_period }} · Wikipedia-Aufrufe {{ wiki_latest }} vs. {{ wiki_previous }} · Seed {{ seed }}</p>
   <span class="badge">KI-gestützte Trendauswertung</span>
   {% for t in trends %}
-  <section class="trend">
+  <section class="trend" id="trend-{{ loop.index }}">
    <div class="head"><div class="rank">{{ loop.index }}</div><h2>{{ t.name }}</h2>
     <div class="score">Trend-Score <b>{{ t.T }}</b> / 100</div></div>
    <p class="why">{{ t.why }}</p>
@@ -65,8 +67,8 @@ h1.title{font-size:27pt;line-height:30pt;font-weight:700;color:#183e30;margin:0}
     <div class="kpi"><div class="v">{{ t.views }}</div><div class="l">Wikipedia-Aufrufe<br>letzte 7 Tage</div></div>
     <div class="kpi"><div class="v">{{ t.change }}</div><div class="l">Wikipedia ggü. Vorwoche<br>({{ t.wiki_label }})</div></div>
    </div>
-   <div class="recipes"><div class="l">Aus dem Archiv (zufällig aus den 10 relevantesten Rezepten gezogen):</div>
-    <ul>{% for r in t.recipes %}<li>{{ r.title }} <span>· {{ r.category }}</span></li>{% endfor %}</ul></div>
+   <div class="recipes"><div class="l">Aus dem Archiv (zufällig aus den 10 relevantesten Rezepten gezogen){% if linked %} – Titel anklicken für die Rezeptkarte{% endif %}:</div>
+    <ul>{% for r in t.recipes %}<li>{% if r.href %}<a href="{{ r.href }}">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %} <span>· {{ r.category }}</span></li>{% endfor %}</ul></div>
   </section>
   {% endfor %}
   <p class="note">Trend-Score T = 100 × (0,65 × Google-Signal + 0,35 × Wikipedia-Signal), relativ innerhalb des Datensatzes –

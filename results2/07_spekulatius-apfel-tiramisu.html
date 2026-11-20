@@ -10,6 +10,11 @@ body{margin:0;background:#e7ebe5;color:#28332d;font-family:Helvetica,Arial,sans-
 .toolbar p{font-size:12px;color:#526057;margin:4px 0 0}
 .toolbar button{font:700 13px Helvetica,Arial,sans-serif;background:#006642;color:#fff;padding:10px 17px;border:0;cursor:pointer;white-space:nowrap}
 .print-help{max-width:210mm;margin:0 auto 18px;font-size:12px;line-height:1.5;color:#526057}
+.nav{max-width:210mm;margin:16px auto 0;display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:13px}
+.nav a{color:#006642;font-weight:700;text-decoration:none;padding:7px 12px;background:#fcfbf7;border:1px solid #d8ded5}
+.nav a:hover{background:#edf2e9}
+.nav .pos{color:#526057}
+.nav .off{visibility:hidden}
 .pages{padding:0 12px 25px}
 .page{position:relative;width:210mm;height:297mm;margin:0 auto 22px;background:#fcfbf7;box-shadow:0 3px 24px #183e3020;overflow:hidden}
 .hdr{position:absolute;left:34pt;right:34pt;top:24pt}
@@ -60,7 +65,7 @@ h2.small{font-size:11pt;line-height:14pt;margin:14pt 0 6pt}
 @page{size:A4 portrait;margin:0}
 @media print{
  html,body{margin:0!important;padding:0!important;background:#fff!important}
- .toolbar,.print-help{display:none!important}
+ .toolbar,.print-help,.nav{display:none!important}
  .pages{padding:0!important}
  .page{margin:0!important;box-shadow:none!important;height:296.5mm!important;break-after:page;page-break-after:always;print-color-adjust:exact;-webkit-print-color-adjust:exact}
  .page:last-child{break-after:auto;page-break-after:auto}
@@ -68,6 +73,12 @@ h2.small{font-size:11pt;line-height:14pt;margin:14pt 0 6pt}
  .ing input{appearance:none;border:.6pt solid #647169;background:none}
 }
 </style></head><body>
+<nav class="nav" aria-label="Navigation">
+ <a href="TREND-KARTE.html#trend-3">← Trendkarte</a>
+ <span class="pos">Rezept 7 von 9 · Tiramisu</span>
+ <span><a href="06_schweine-rahm-gulasch.html" title="Schweine-Rahm-Gulasch">‹ Vorheriges</a>
+ <a href="08_spekulatius-tiramisu.html" title="Spekulatius-Tiramisu">Nächstes ›</a></span>
+</nav>
 <div class="toolbar"><div><h1>Spekulatius-Apfel-Tiramisu</h1><p>DIN A4 · 1 Seite · aus dem Archiv</p></div>
 <button type="button" onclick="window.print()">Drucken / PDF</button></div>
 <p class="print-help">Druckeinstellung: A4, Skalierung 100 %, keine Ränder und die Kopf- und Fußzeilen des Browsers ausschalten. Die Rezeptseiten enthalten eigene Kopf- und Fußzeilen.</p>

@@ -51,3 +51,13 @@ def test_archive_card_keeps_values_and_states_missing_reference():
                  "Bezugsmenge nicht angegeben", "XML-Archivexport"):
         assert part in html, part
     assert AI_LABEL not in html
+
+
+def test_navigation_bar_is_screen_only_and_links_neighbours():
+    nav = {"back": "TREND-KARTE.html#trend-2", "index": 4, "total": 9, "trend": "Gulasch",
+           "prev": "03_x.html", "prev_title": "X", "next": None, "next_title": None}
+    html = render(card_from_generated(recipe(), NUT), nav=nav)
+    assert 'href="TREND-KARTE.html#trend-2"' in html and 'href="03_x.html"' in html and "Rezept 4 von 9" in html
+    assert ".toolbar,.print-help,.nav{display:none!important}" in html   # hidden when printing
+    assert "Nächstes" not in html.split('class="nav"')[1].split("</nav>")[0] or 'class="off"' in html
+    assert 'class="nav"' not in render(card_from_generated(recipe(), NUT))  # no nav unless requested

@@ -67,6 +67,8 @@ def run(revival_id: str, out_dir: Path, check: bool = True, only: set | None = N
                "source_seed": data.get("seed"), "image_model": "flux-3-image-klein", "image_check": check,
                "total_credits": round(credits, 1), "items": rows}
     (out_dir / "images.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
+    from rendering.linked_results import link_folder
+    link_folder(revival_id, out_dir)  # trend card ↔ recipe cards (reuses the images, no new FLUX calls)
     lines = [f"# Bilder + Karten – Top-3-Trends ({revival_id})", "",
              f"- **Rezepte:** aus `results/{revival_id}` (Seed `{data.get('seed')}`), je Trend 3 zufällig gezogene Archivrezepte",
              f"- **Bildmodell:** FLUX 3 Image Klein (`flux-3-image-klein`), 1 Bild je Rezept",
@@ -80,6 +82,7 @@ def run(revival_id: str, out_dir: Path, check: bool = True, only: set | None = N
                          + f" | " + (f"[Karte]({r['card']})" if r["card"] else "–")
                          + f" | {r['status']}{(' – ' + r['error']) if r['error'] else ''} |")
         lines.append("")
+    lines.insert(5, "- **Trendkarte:** [TREND-KARTE.html](TREND-KARTE.html) – von dort zu jeder Rezeptkarte und zurück")
     lines += ["Die Bilder sind KI-Illustrationen (keine Originalfotos); Rezeptinhalte auf den Karten sind unverändert aus dem Archiv."]
     (out_dir / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     return summary

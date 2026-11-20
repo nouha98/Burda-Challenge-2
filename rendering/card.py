@@ -214,5 +214,6 @@ def paginate(card: dict) -> list[dict]:
             for k in range(n)]
 
 
-def render(card: dict) -> str:
-    return ENV.get_template("card.html.j2").render(card=card, pages=paginate(card), logo=LOGO)
+def render(card: dict, nav: dict | None = None) -> str:
+    """nav (optional, screen only): back, prev, next, index, total, trend, prev_title, next_title."""
+    return ENV.get_template("card.html.j2").render(card=card, pages=paginate(card), logo=LOGO, nav=nav)

@@ -69,8 +69,8 @@ def export(revival_id: str | None = None) -> Path:
     for f in src.iterdir():
         if f.suffix in (".jpg", ".html") or f.name == "revival.json":
             shutil.copy2(f, out / f.name)
-    from rendering.trend_card import build as build_trend_card
-    (out / "TREND-KARTE.html").write_text(build_trend_card(revival_id), encoding="utf-8")
+    from rendering.linked_results import link_folder
+    link_folder(revival_id, out)  # trend card with clickable recipes + navigation bar on every recipe card
     (out / "RESULTS.md").write_text(_summary(data, revival_id), encoding="utf-8")
     index = sorted(p.name for p in RESULTS.iterdir() if p.is_dir())
     (RESULTS / "README.md").write_text(

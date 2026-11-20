@@ -16,7 +16,8 @@ def _date(iso: str) -> str:
     return f"{d}.{m}.{y}"
 
 
-def build(revival_id: str) -> str:
+def build(revival_id: str, links: dict | None = None) -> str:
+    """links: recipe_id -> relative href of its recipe card (makes titles clickable)."""
     data = runs.read_json(runs.RUNS / revival_id / "revival.json")
     trends = runs.read_json(runs.TRENDS)
     by_id = {c["id"]: c for c in trends["candidates"]}
@@ -34,10 +35,11 @@ def build(revival_id: str) -> str:
             "views": f"{w.get('latest_7d_views', 0):,}".replace(",", "."),
             "change": f"{change * 100:+.0f} %".replace("+", "+ ").replace("-", "− ") if change is not None else "–",
             "wiki_label": {"growing": "steigend", "stable": "stabil", "declining": "fallend"}.get(s.get("wikipedia_trend"), "unbekannt"),
-            "recipes": [{"title": i["title"], "category": i["category"]} for i in data["items"] if i.get("trend_id") == tid],
+            "recipes": [{"title": i["title"], "category": i["category"], "href": (links or {}).get(i["recipe_id"])}
+                        for i in data["items"] if i.get("trend_id") == tid],
         })
     return ENV.get_template("trend_card.html.j2").render(
-        logo=LOGO, trends=rows, seed=data.get("seed"), season=data["season_context"]["reason"].split(";")[0],
+        logo=LOGO, trends=rows, linked=bool(links), seed=data.get("seed"), season=data["season_context"]["reason"].split(";")[0],
         google_period=f"{_date(period['start'])}–{_date(period['end'])}",
         wiki_latest=f"{_date(window['latest'][0])}–{_date(window['latest'][1])}",
         wiki_previous=f"{_date(window['previous'][0])}–{_date(window['previous'][1])}",
