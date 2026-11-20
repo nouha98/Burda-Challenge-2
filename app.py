@@ -69,8 +69,8 @@ with st.sidebar:
                 st.rerun()
 
 run_id = st.session_state.run_id
-tab_trends, tab_props, tab_recipes, tab_review, tab_nutri, tab_cards = st.tabs(
-    ["Trends", "Vorschläge & Auswahl", "Rezepte", "Review", "Nährwerte", "Rezeptkarten"])
+tab_trends, tab_props, tab_recipes, tab_review, tab_nutri, tab_cards, tab_revival = st.tabs(
+    ["Trends", "Vorschläge & Auswahl", "Rezepte", "Review", "Nährwerte", "Rezeptkarten", "Archiv-Revival"])
 
 # ---------- Trends ----------
 with tab_trends:
@@ -442,3 +442,58 @@ with tab_cards:
             st.iframe(html, height=html.count('class="page"') * 1160 + 160)
         elif query:
             st.caption("Kein Treffer.")
+
+
+# ---------- Archiv-Revival (second mode) ----------
+with tab_revival:
+    from agents import revival_agent
+    st.markdown("**Archiv-Revival:** Welche vorhandenen *das schmeckt!*-Rezepte passen zu den aktuell steigenden Trends "
+                "und zur Saison- bzw. Feiertagsstimmung? Top 10 aus dem Archiv, je mit neuem KI-Bild und A4-Karte "
+                "(Rezeptinhalt unverändert).")
+    if not trends:
+        st.info("Zuerst Trends recherchieren (Seitenleiste).")
+    else:
+        ctx_preview, _ = revival_agent.rank_now()
+        st.caption(f"Saison-Kontext: {ctx_preview['reason']} · Gewichte: "
+                   + ", ".join(f"{k} {v:g}" for k, v in ctx_preview["weights"].items())
+                   + " · außer Saison: " + ", ".join(ctx_preview["off_season"]))
+        c1, c2 = st.columns([1, 3])
+        n_images = c2.number_input("Anzahl KI-Bilder (FLUX, je ca. 0,9 Credits; Testlimit)", 0, 10,
+                                   revival_agent.MAX_IMAGES)
+        if c1.button("Top 10 aus dem Archiv holen", type="primary"):
+            box = st.empty()
+            with st.spinner("Archiv durchsuchen, bewerten" + (f", {n_images} Bilder erzeugen" if n_images else "") + " …"):
+                name = revival_agent.run(images=n_images > 0, max_images=int(n_images), progress=lambda m: box.info(m))
+            st.session_state.revival = name
+            st.rerun()
+        revivals = revival_agent.list_revivals()
+        if revivals:
+            current = st.session_state.get("revival") if st.session_state.get("revival") in revivals else revivals[0]
+            current = st.selectbox("Ergebnis", revivals, index=revivals.index(current))
+            data = runs.read_json(runs.RUNS / current / "revival.json")
+            st.caption(f"{data['method']['score']} · {data['method']['trend_relevance']} · {data['method']['diversity']}")
+            for item in data["items"]:
+                with st.container(border=True):
+                    img_col, txt_col = st.columns([1, 3])
+                    img = runs.RUNS / current / item["image"] if item.get("image") else None
+                    if img and img.exists():
+                        img_col.image(str(img), caption="KI-generierte Illustration")
+                    else:
+                        img_col.caption(item.get("image_error") or "Kein Bild")
+                    txt_col.markdown(f"**{item['rank']}. {item['title']}** · {item['score']:.1f} Punkte")
+                    txt_col.markdown(
+                        f"Trend: **{item['trend']}** (T {item['trend_T']:.0f}, Treffer im "
+                        f"{'Titel' if item['match'] == 'title' else 'Zutaten'}) · Saison: "
+                        f"{', '.join(item['season_labels']) or 'ohne Saison-Label'} (Fit {item['season_fit']:g}) · "
+                        f"{item['category']} · im Archiv seit {item['date_imported']}")
+                    card = runs.RUNS / current / item["card"] if item.get("card") else None
+                    if card is None:
+                        txt_col.caption("Bild und Karte werden noch erzeugt …")
+                    elif card.exists():
+                        html = card.read_text(encoding="utf-8")
+                        txt_col.download_button("Karte (HTML) herunterladen", html, file_name=item["card"],
+                                                mime="text/html", key=f"rv_{current}_{item['rank']}")
+                        with txt_col.expander("Rezeptkarte anzeigen"):
+                            st.iframe(html, height=html.count('class="page"') * 1160 + 160)
+            for lim in data["limitations"]:
+                st.caption("⚠️ " + lim)

@@ -83,7 +83,7 @@ def card_from_generated(recipe: dict, nutrition: dict | None, image_src: str | N
     }
 
 
-def card_from_archive(r: dict) -> dict:
+def card_from_archive(r: dict, image_src: str | None = None) -> dict:
     """Archive XML record (ingest/archive.py). Values are shown as stored; missing optional fields are omitted."""
     groups = []
     for g in r.get("ingredient_groups") or []:
@@ -115,9 +115,10 @@ def card_from_archive(r: dict) -> dict:
         "tip": " ".join(r.get("tips") or []) or None,
         "nutrition": {"rows": rows, "note": "Angaben aus dem Archiv; Bezugsmenge nicht angegeben." if rows
                       else "Keine Nährwertangaben im Archivdatensatz.", "source": f"Rezeptquelle: XML-Archivexport ({r['id']})."},
-        "image_src": None, "image_alt": r.get("title"),
+        "image_src": image_src, "image_alt": r.get("title"),
         "image_placeholder": "Kein Bild im Archivexport enthalten",
-        "image_caption": None, "source_label": "aus dem Archiv",
+        "image_caption": "KI-generierte Illustration · kein Originalfoto" if image_src else None,
+        "source_label": "aus dem Archiv",
     }
 
 

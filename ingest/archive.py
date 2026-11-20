@@ -15,7 +15,7 @@ ARCHIVE_DIR = ROOT / "challenge-2" / "data" / "recipe-archive"
 XML_DIR = ARCHIVE_DIR / "rezepte_export"
 MANIFEST = ARCHIVE_DIR / "auswahl_manifest.json"
 TOPIC_SQL = ARCHIVE_DIR / "rezepte_export_topicmap.sql"
-CACHE = ROOT / "runs" / "cache" / "archive_index.json"
+CACHE = ROOT / "runs" / "cache" / "archive_index_v2.json"  # v2: + labels
 NS = "{http://www.digicol.com/xmlns/dcx}"
 
 _STR = r"'((?:[^'\\]|\\.)*)'"
@@ -98,7 +98,8 @@ def parse_recipe(path: Path, names: dict) -> dict:
         "steps": steps,
         "tips": [t for t in (_text(x) for x in h.iter(NS + "CustomRecipeTippsContent")) if t],
         "nutrition_raw": nutrition or None,  # reference quantity not established (README)
-        "keywords": sorted({names.get(k.get("topic"), "") for k in h.findall(NS + "Keywords")} - {""}),
+        # Editorial category labels (season, holiday, mood, course). Keywords refs do not resolve and are not used.
+        "labels": sorted({names.get(k.get("topic"), "").strip() for k in h.iter(NS + "CustomRecipeThesaurs")} - {""}),
     }
 
 
