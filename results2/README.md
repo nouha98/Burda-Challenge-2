@@ -4,6 +4,7 @@
 - **Bildmodell:** FLUX 3 Image Klein (`flux-3-image-klein`), 1 Bild je Rezept
 - **Bildprüfung:** **aus** – Bilder sind ungeprüft (auf Wunsch übersprungen)
 - **Credits:** 8.1
+- **Trendkarte (A4, ohne Bild):** [TREND-KARTE.html](TREND-KARTE.html) – Top-3-Trends mit Trend-Score, Google-Anstieg, Suchinteresse, Wikipedia-Aufrufen und den Rezepten
 
 ## Grünkohl
 
