@@ -1,0 +1,1052 @@
+{
+  "generated_at": "2026-11-20T16:51:10",
+  "seed": 385792274,
+  "season_context": {
+    "date": "2026-11-20",
+    "season": "Herbst",
+    "weights": {
+      "Herbst": 1.0,
+      "Winter": 1.0,
+      "Advent": 1.0,
+      "Weihnachten": 1.0,
+      "Geschenke aus der Küche": 0.6,
+      "Silvester/ Neujahr": 0.3
+    },
+    "off_season": [
+      "Eis",
+      "Frühling",
+      "Grillen",
+      "Grillparty/ BBQ",
+      "Ostern",
+      "Sommer",
+      "Sommerparty"
+    ],
+    "trend_christmas_share": 0.23,
+    "reason": "Datum 20.11.2026: Herbst, Advent ab 29.11.; 23% der steigenden Trend-Punkte sind Weihnachtsspezialitäten",
+    "trends_generated_at": "2026-11-20T13:46:55",
+    "rising_trends": 50,
+    "retrieval": "hybrid (embeddings + title/ingredient)"
+  },
+  "method": {
+    "pipeline": "top 3 trends → 10 most relevant archive recipes per trend → random draw of 3 per trend (seed 385792274) → review agent (max. 2 correction rounds, replacements drawn from the same pool) → FLUX image → vision check → cards",
+    "retrieval": "hybrid (embeddings + title/ingredient)",
+    "score": "pool ranking: 100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
+    "trend_relevance": "trend score T/100 × hybrid relevance (0.6 × semantic + 0.4 × lexical)",
+    "randomness": "uniform draw without replacement from the pool; reproduce with --seed 385792274"
+  },
+  "candidate_pool": {
+    "t6": {
+      "trend": "Grünkohl",
+      "description": "Grünkohl – krauses Wintergemüse mit dunkelgrünen, gefrorenen Blättern, klassisch mit Pinkel, Kassler und Kartoffeln geschmort, auch Braunkohl oder Blattkohl genannt.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc7mtvkm060czh1apgky9",
+          "title": "Winter-Minestrone mit Grünkohl",
+          "category": "Suppen und Eintöpfe",
+          "score": 84.5,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc8894f1dit1ly0hw9ctv",
+          "title": "Grünkohl-Gnocchi-Auflauf",
+          "category": "Pasta und Nudelgerichte",
+          "score": 82.1,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc82xd5x9k6k61n102sjp7",
+          "title": "Grünkohlsalat mit Grapefruit und Granatapfelkernen",
+          "category": "Salate",
+          "score": 68.7,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc8204uav4ze155e8s22k6",
+          "title": "Grünkohl-Gratin mit Rösti-Kruste",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 68.2,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc87xethdm577ib2t2scu",
+          "title": "Cremiger Kasseler-Eintopf",
+          "category": "Suppen und Eintöpfe",
+          "score": 63.2,
+          "match": "semantic",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc85jzorxwnpc1kx8zdilr",
+          "title": "Vegetarischer Grünkohl",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 61.5,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc85jzk7guddx1i5rpldnl",
+          "title": "Grünkohlpfanne",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte",
+          "score": 61.0,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc87and9yn07khet7p1nib",
+          "title": "Rosenkohl-Eintopf",
+          "category": "Suppen und Eintöpfe",
+          "score": 60.7,
+          "match": "semantic",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc84brqxjdr614mr7rf93",
+          "title": "Grünkohl Pasta",
+          "category": "Pasta und Nudelgerichte",
+          "score": 56.1,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+          "title": "Grünkohl Quiche",
+          "category": "Brot, Pizza und herzhaftes Gebäck",
+          "score": 53.8,
+          "match": "title",
+          "season_labels": []
+        }
+      ]
+    },
+    "t37": {
+      "trend": "Gulasch",
+      "description": "Gulasch – würziges Ragout aus geschmortem Rind- oder Schweinefleisch mit Zwiebeln, Paprika und Kümmel, typisch als Eintopf, Szegediner Art oder Gulaschsuppe.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc860ijq7sc1h1kh03sfub",
+          "title": "Schweine-Rahm-Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 77.5,
+          "match": "title",
+          "season_labels": [
+            "Winter",
+            "Herbst"
+          ]
+        },
+        {
+          "recipe_id": "doc849bil1f8ow1bfefb9w4",
+          "title": "Filet-Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 69.9,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc81jo3l83ws36crtvw63",
+          "title": "Szegediner Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 67.7,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc828ducbje4k19jp2jh3n",
+          "title": "Weißkohl-Gulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 67.0,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc838w1a8sz6cy6exq18w2",
+          "title": "Pilzgulasch mit Perlzwiebeln in Biersauce mit Zwiebelfladen",
+          "category": "Fleisch und Geflügel",
+          "score": 62.5,
+          "match": "title",
+          "season_labels": [
+            "Winter"
+          ]
+        },
+        {
+          "recipe_id": "doc827s22gh6b91552vj241p",
+          "title": "Quitten-Wildgulasch",
+          "category": "Fleisch und Geflügel",
+          "score": 62.5,
+          "match": "title",
+          "season_labels": [
+            "Herbst"
+          ]
+        },
+        {
+          "recipe_id": "doc81m9rcaub0lezqk194m",
+          "title": "Rindergulasch-Eintopf",
+          "category": "Suppen und Eintöpfe",
+          "score": 60.6,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc83cbmhv90e814bnxd3ym",
+          "title": "Ungarische Gulaschsuppe",
+          "category": "Suppen und Eintöpfe",
+          "score": 60.5,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc7p7s0ng94zs1nd1a5n70",
+          "title": "Gulasch-Suppe",
+          "category": "Suppen und Eintöpfe",
+          "score": 60.1,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc7c2jzzdw38w16nplwai4",
+          "title": "Pichelsteiner Eintopf mit Steakwürfeln",
+          "category": "Suppen und Eintöpfe",
+          "score": 60.0,
+          "match": "ingredient",
+          "season_labels": [
+            "Winter"
+          ]
+        }
+      ]
+    },
+    "t38": {
+      "trend": "Tiramisu",
+      "description": "Tiramisu – italienisches Dessert aus Schichten von mascarponehaltiger Sahnecreme und mit Espresso getränkten Löffelbiskuits, mit Kakaopulver bestäubt, typischerweise in Glas oder Form geschichtet.",
+      "widened": false,
+      "candidates": [
+        {
+          "recipe_id": "doc88asjcvvmp517s66zc39",
+          "title": "Italienisches Tiramisu",
+          "category": "Desserts und Süßspeisen",
+          "score": 85.8,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2ist52x6anrakb695",
+          "title": "Tiramisu mit Lebkuchen",
+          "category": "Weihnachten",
+          "score": 81.8,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7k58th3z48g1e5x0xdu0",
+          "title": "Tiramisu mit Granatapfelkernen",
+          "category": "Desserts und Süßspeisen",
+          "score": 70.7,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc835cd7gsi34b88w43yk",
+          "title": "Lebkuchen Tiramisu",
+          "category": "Weihnachten",
+          "score": 69.9,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7iu115bi28y5pqnrp02",
+          "title": "Lebkuchen-Tiramisu zu Weihnachten",
+          "category": "Weihnachten",
+          "score": 69.7,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc7c2hzg1adxd1f3d1n6qz",
+          "title": "Lebkuchen-Tiramisu mit Mandarinen",
+          "category": "Weihnachten",
+          "score": 67.8,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc83wg2ml8gc4iir47f9w",
+          "title": "Tiramisu",
+          "category": "Desserts und Süßspeisen",
+          "score": 66.5,
+          "match": "title",
+          "season_labels": []
+        },
+        {
+          "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+          "title": "Spekulatius-Tiramisu",
+          "category": "Weihnachten",
+          "score": 63.2,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc82jmzcg087ruiehctrd",
+          "title": "Spekulatius-Apfel-Tiramisu",
+          "category": "Weihnachten",
+          "score": 62.0,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten"
+          ]
+        },
+        {
+          "recipe_id": "doc88fcdvyr79fb5gydixz",
+          "title": "Spekulatius-Tiramisu-Schnitten",
+          "category": "Weihnachten",
+          "score": 62.0,
+          "match": "title",
+          "season_labels": [
+            "Weihnachten",
+            "Winter"
+          ]
+        }
+      ]
+    }
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "selection": [
+        {
+          "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+          "title": "Grünkohl Quiche",
+          "trend": "Grünkohl",
+          "category": "Brot, Pizza und herzhaftes Gebäck"
+        },
+        {
+          "recipe_id": "doc85jzk7guddx1i5rpldnl",
+          "title": "Grünkohlpfanne",
+          "trend": "Grünkohl",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte"
+        },
+        {
+          "recipe_id": "doc87xethdm577ib2t2scu",
+          "title": "Cremiger Kasseler-Eintopf",
+          "trend": "Grünkohl",
+          "category": "Suppen und Eintöpfe"
+        },
+        {
+          "recipe_id": "doc81jo3l83ws36crtvw63",
+          "title": "Szegediner Gulasch",
+          "trend": "Gulasch",
+          "category": "Fleisch und Geflügel"
+        },
+        {
+          "recipe_id": "doc7c2jzzdw38w16nplwai4",
+          "title": "Pichelsteiner Eintopf mit Steakwürfeln",
+          "trend": "Gulasch",
+          "category": "Suppen und Eintöpfe"
+        },
+        {
+          "recipe_id": "doc860ijq7sc1h1kh03sfub",
+          "title": "Schweine-Rahm-Gulasch",
+          "trend": "Gulasch",
+          "category": "Fleisch und Geflügel"
+        },
+        {
+          "recipe_id": "doc82jmzcg087ruiehctrd",
+          "title": "Spekulatius-Apfel-Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        },
+        {
+          "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+          "title": "Spekulatius-Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        },
+        {
+          "recipe_id": "doc835cd7gsi34b88w43yk",
+          "title": "Lebkuchen Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        }
+      ],
+      "review": {
+        "items": [
+          {
+            "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Grünkohl ist Kern der Quiche und als Wintergemüse im November voll im Saisonfenster.",
+            "title": "Grünkohl Quiche"
+          },
+          {
+            "recipe_id": "doc85jzk7guddx1i5rpldnl",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Die Grünkohlpfanne stellt das Wintergemüse in den Mittelpunkt und ist alltagstauglich für das gehobene Kochniveau.",
+            "title": "Grünkohlpfanne"
+          },
+          {
+            "recipe_id": "doc87xethdm577ib2t2scu",
+            "trend_match": "none",
+            "season_ok": true,
+            "verdict": "replace",
+            "reason_de": "Der Kasseler-Eintopf enthält gar keinen Grünkohl (nur Steckrübe, Sellerie, Grünkern), der zugewiesene Trend fehlt völlig.",
+            "title": "Cremiger Kasseler-Eintopf"
+          },
+          {
+            "recipe_id": "doc81jo3l83ws36crtvw63",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Szegediner Gulasch ist ein klassisches Gulaschgericht mit Sauerkraut, das in der kalten Jahreszeit gut funktioniert.",
+            "title": "Szegediner Gulasch"
+          },
+          {
+            "recipe_id": "doc7c2jzzdw38w16nplwai4",
+            "trend_match": "weak",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Der Pichelsteiner nutzt zwar Gulaschfleisch, ist aber kein Paprika-Kümmel-Ragout – als deftiger Wintereintopf trotzdem brauchbar.",
+            "title": "Pichelsteiner Eintopf mit Steakwürfeln"
+          },
+          {
+            "recipe_id": "doc860ijq7sc1h1kh03sfub",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Schweine-Rahm-Gulasch trifft den Trend mit Paprika und Kümmel und ist mit Saison-Label Herbst/Winter korrekt verortet.",
+            "title": "Schweine-Rahm-Gulasch"
+          },
+          {
+            "recipe_id": "doc82jmzcg087ruiehctrd",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Tiramisu ist Kern des Desserts, die Spekulatius-Apfel-Variante passt zum nahenden Advent.",
+            "title": "Spekulatius-Apfel-Tiramisu"
+          },
+          {
+            "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Tiramisu-Variante mit Spekulatius und Orange, weihnachtlich stimmig und saisonal passend.",
+            "title": "Spekulatius-Tiramisu"
+          },
+          {
+            "recipe_id": "doc835cd7gsi34b88w43yk",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Lebkuchen-Tiramisu trifft Trend und Weihnachtssaison, ist aber mit 15 Zutaten am oberen Rand der gewünschten Kürze.",
+            "title": "Lebkuchen Tiramisu"
+          }
+        ],
+        "variety_ok": false,
+        "variety_reason_de": "Zwischen den Trends ist herzhaft/süß zwar ausgewogen, doch drei sehr ähnliche Mascarpone-Tiramisu und zwei Schweine-Gulaschs wiederholen sich innerhalb der Trends zu stark.",
+        "retrieve_again": [],
+        "all_ok": false,
+        "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+      },
+      "excluded_before": [],
+      "action": {
+        "replaced": [
+          "Cremiger Kasseler-Eintopf → Winter-Minestrone mit Grünkohl"
+        ],
+        "retrieve_again": []
+      }
+    },
+    {
+      "round": 2,
+      "selection": [
+        {
+          "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+          "title": "Grünkohl Quiche",
+          "trend": "Grünkohl",
+          "category": "Brot, Pizza und herzhaftes Gebäck"
+        },
+        {
+          "recipe_id": "doc85jzk7guddx1i5rpldnl",
+          "title": "Grünkohlpfanne",
+          "trend": "Grünkohl",
+          "category": "Gemüse-, Kartoffel- und Reisgerichte"
+        },
+        {
+          "recipe_id": "doc7mtvkm060czh1apgky9",
+          "title": "Winter-Minestrone mit Grünkohl",
+          "trend": "Grünkohl",
+          "category": "Suppen und Eintöpfe"
+        },
+        {
+          "recipe_id": "doc81jo3l83ws36crtvw63",
+          "title": "Szegediner Gulasch",
+          "trend": "Gulasch",
+          "category": "Fleisch und Geflügel"
+        },
+        {
+          "recipe_id": "doc7c2jzzdw38w16nplwai4",
+          "title": "Pichelsteiner Eintopf mit Steakwürfeln",
+          "trend": "Gulasch",
+          "category": "Suppen und Eintöpfe"
+        },
+        {
+          "recipe_id": "doc860ijq7sc1h1kh03sfub",
+          "title": "Schweine-Rahm-Gulasch",
+          "trend": "Gulasch",
+          "category": "Fleisch und Geflügel"
+        },
+        {
+          "recipe_id": "doc82jmzcg087ruiehctrd",
+          "title": "Spekulatius-Apfel-Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        },
+        {
+          "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+          "title": "Spekulatius-Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        },
+        {
+          "recipe_id": "doc835cd7gsi34b88w43yk",
+          "title": "Lebkuchen Tiramisu",
+          "trend": "Tiramisu",
+          "category": "Weihnachten"
+        }
+      ],
+      "review": {
+        "items": [
+          {
+            "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Grünkohl ist Hauptzutat der Quiche und das herzhafte Gebäck passt als winterliches Ofengericht in den November.",
+            "title": "Grünkohl Quiche"
+          },
+          {
+            "recipe_id": "doc85jzk7guddx1i5rpldnl",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Grünkohl trägt das Gericht, die Kombination mit Kartoffeln und Feta ist alltagstauglich und saisonal stimmig.",
+            "title": "Grünkohlpfanne"
+          },
+          {
+            "recipe_id": "doc7mtvkm060czh1apgky9",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Grünkohl ist Kern der Minestrone, das Winter-Label passt exakt zum Ausgabezeitpunkt und die Suppe sättigt.",
+            "title": "Winter-Minestrone mit Grünkohl"
+          },
+          {
+            "recipe_id": "doc81jo3l83ws36crtvw63",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Szegediner Art ist eine klassische Gulasch-Variante und Sauerkraut plus Schweinefleisch passen in die kalte Jahreszeit.",
+            "title": "Szegediner Gulasch"
+          },
+          {
+            "recipe_id": "doc7c2jzzdw38w16nplwai4",
+            "trend_match": "weak",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Gulaschfleisch ist hier nur Zutat eines klassischen Eintopfs, doch das Gericht ist saisonal, sättigend und für die Zielgruppe gut nachkochbar.",
+            "title": "Pichelsteiner Eintopf mit Steakwürfeln"
+          },
+          {
+            "recipe_id": "doc860ijq7sc1h1kh03sfub",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Rahm-Gulasch ist ein klassisches Fleischgericht mit Herbst-/Winter-Label und trifft damit Trend und Saison gleichermaßen.",
+            "title": "Schweine-Rahm-Gulasch"
+          },
+          {
+            "recipe_id": "doc82jmzcg087ruiehctrd",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Die Apfel-Spekulatius-Variante ist klar als Tiramisu erkennbar und bedient die voradventszeitliche Weihnachtsspezialität.",
+            "title": "Spekulatius-Apfel-Tiramisu"
+          },
+          {
+            "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Spekulatius-Tiramisu ist ein eindeutiger Trendtreffer und mit Quark statt reiner Sahne etwas leichter für die Alltagsküche.",
+            "title": "Spekulatius-Tiramisu"
+          },
+          {
+            "recipe_id": "doc835cd7gsi34b88w43yk",
+            "trend_match": "strong",
+            "season_ok": true,
+            "verdict": "keep",
+            "reason_de": "Lebkuchen-Tiramisu bedient den Tiramisu-Trend weihnachtlich, die Zutatenliste bleibt trotz Amaretto überschaubar.",
+            "title": "Lebkuchen Tiramisu"
+          }
+        ],
+        "variety_ok": false,
+        "variety_reason_de": "Zwischen den Trends ist die Bandbreite (Gemüse, Fleisch, Süßes) gut, doch drei Mascarpone-Schichtdesserts mit Spekulatius/Lebkuchen sind sich zu ähnlich und Süßes läuft laut Cover-Hypothese schwächer.",
+        "retrieve_again": [],
+        "all_ok": true,
+        "model": "tesseracted-labs-gmbh/deepseek-ai/DeepSeek-V4.1-Flash"
+      },
+      "excluded_before": [
+        "doc87xethdm577ib2t2scu"
+      ]
+    }
+  ],
+  "limitations": [
+    "Archive = 5,000-recipe sample of 81,798; category labels exist for 3,354 recipes.",
+    "The pool is ranked by relevance; the draw within it is random by design.",
+    "Images are AI illustrations of archive recipes; the export contains no original photos.",
+    "The image check compares a text description of the image with the recipe; it can miss details."
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+      "title": "Grünkohl Quiche",
+      "category": "Brot, Pizza und herzhaftes Gebäck",
+      "date_imported": "2025-10-16",
+      "labels": [
+        "Einfach",
+        "Quiche"
+      ],
+      "trend": "Grünkohl",
+      "trend_id": "t6",
+      "trend_T": 80.4,
+      "match": "title",
+      "semantic": 0.459,
+      "hybrid_relevance": 0.675,
+      "trend_relevance": 0.543,
+      "season_fit": 0.4,
+      "season_labels": [],
+      "completeness": 1.0,
+      "score": 53.8,
+      "pool_rank": 10,
+      "review": {
+        "recipe_id": "doc82ufgk7c4xwgxmw52j7",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Grünkohl ist Hauptzutat der Quiche und das herzhafte Gebäck passt als winterliches Ofengericht in den November.",
+        "title": "Grünkohl Quiche"
+      },
+      "status": "approved",
+      "file_stem": "01_gr-nkohl-quiche",
+      "image": "01_gr-nkohl-quiche.jpg",
+      "image_error": null,
+      "image_check": {
+        "status": "needs_editor_review",
+        "attempts": [
+          {
+            "attempt": 1,
+            "verdict": "mismatch",
+            "summary_de": "Die Quiche zeigt statt Grünkohl Spinat als grüne Komponente, daher passt das Bild nicht zum Rezept.",
+            "missing": [],
+            "wrong": [
+              "Die grüne Füllung wird als gegarter Spinat beschrieben, das Rezept verlangt jedoch Grünkohl."
+            ],
+            "extra": [],
+            "rejected_file": "01_gr-nkohl-quiche_rejected1.jpg",
+            "image_description": "Das Foto zeigt eine herzhafte Quiche auf einem flachen, weißen Teller. Die Quiche ist in acht Stücke geschnitten, wobei ein Stück leicht nach vorne verschoben ist.\n\nSie besteht aus einem goldbraunen, gebackenen Mürbeteigboden mit erhöhtem Rand. Die Füllung setzt sich aus einer gelblichen, gestockten Ei-Käse-Masse und dunkelgrünen, gegarten Spinatblättern zusammen. Kleine, weißlich-transparente Würfel (Zwiebeln) sind in der Masse verteilt. Auf jedem Stück liegt zentral eine hellbraune, ganze Walnusskern-Hälfte. Die Oberfläche ist stellenweise goldbraun überbacken.\n\nEs ist kein Besteck sichtbar. Die Konsistenz der Füllung wirkt fest und kompakt. Es sind keine Personen, Hände, Texte oder Bildfehler erkennbar. Der Teller steht auf einer hellen Holzoberfläche."
+          },
+          {
+            "attempt": 2,
+            "verdict": "mismatch",
+            "summary_de": "Die Quiche zeigt zwar Grünkohl und Walnüsse, aber der geriebene Käse fehlt und die Schichtung ist falsch, da der Grünkohl offen obenauf liegt.",
+            "missing": [
+              "geriebener Käse (in der Füllung und als Topping)"
+            ],
+            "wrong": [
+              "Grünkohl liegt sichtbar obenauf, statt unter der restlichen Schmandmischung und Käse zu sein",
+              "weiße Zwiebelwürfel in der Eimasse statt gegarte Zwiebeln mit Grünkohl"
+            ],
+            "extra": [],
+            "rejected_file": null,
+            "image_description": "Das Foto zeigt eine Quiche auf einem runden, weißen Teller, die in sechs Stücke geschnitten ist. Die Quiche besitzt einen hellbraunen, gebackenen Mürbeteigboden mit gewelltem Rand.\n\nDie Füllung besteht aus einer hellgelben, festen Eimasse, in die kleine, weiße, würfelig geschnittene Zwiebelstücke eingearbeitet sind. Auf der Oberfläche befinden sich dunkelgrüne, krause Grünkohlblätter in unregelmäßigen Stücken, die gebacken sind. Zusätzlich liegen über die gesamte Oberfläche verteilt goldbraune, ganze Walnusskerne.\n\nDie Stücke sind leicht voneinander getrennt, wobei die Anschnittflächen die homogene Konsistenz der Füllung zeigen. Es ist kein Besteck sichtbar. Es gibt keine Personen, keinen Text und keine Bildfehler; die Darstellung ist logisch und konsistent."
+          }
+        ]
+      },
+      "card": "01_gr-nkohl-quiche.html"
+    },
+    {
+      "rank": 2,
+      "recipe_id": "doc85jzk7guddx1i5rpldnl",
+      "title": "Grünkohlpfanne",
+      "category": "Gemüse-, Kartoffel- und Reisgerichte",
+      "date_imported": "2026-04-24",
+      "labels": [
+        "Einfach",
+        "Hauptgericht",
+        "Herzhaft"
+      ],
+      "trend": "Grünkohl",
+      "trend_id": "t6",
+      "trend_T": 80.4,
+      "match": "title",
+      "semantic": 0.728,
+      "hybrid_relevance": 0.837,
+      "trend_relevance": 0.673,
+      "season_fit": 0.4,
+      "season_labels": [],
+      "completeness": 1.0,
+      "score": 61.0,
+      "pool_rank": 7,
+      "review": {
+        "recipe_id": "doc85jzk7guddx1i5rpldnl",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Grünkohl trägt das Gericht, die Kombination mit Kartoffeln und Feta ist alltagstauglich und saisonal stimmig.",
+        "title": "Grünkohlpfanne"
+      },
+      "status": "approved",
+      "file_stem": "02_gr-nkohlpfanne",
+      "image": "02_gr-nkohlpfanne.jpg",
+      "image_error": null,
+      "image_check": {
+        "status": "needs_editor_review",
+        "attempts": [
+          {
+            "attempt": 1,
+            "verdict": "mismatch",
+            "summary_de": "Das Bild zeigt fast alle Komponenten, aber die Kartoffeln haben die falsche Schnittform: runde Scheiben statt halbierte Drillinge.",
+            "missing": [],
+            "wrong": [
+              "Kartoffeln sind als runde Scheiben dargestellt, statt als halbierte kleine Kartoffeln (Drillinge)."
+            ],
+            "extra": [],
+            "rejected_file": "02_gr-nkohlpfanne_rejected1.jpg",
+            "image_description": "Das Foto zeigt eine gebratene Speise in einer schwarzen Pfanne mit Metallgriff, daneben stehen drei weiße, leere Teller und eine weiße Schale mit einer weißlichen, krümeligen Masse in einer flüssigen weißen Basis.\n\nIn der Pfanne befinden sich:\n- Etwa 14 goldbraun angebratene, runde Kartoffelscheiben (ca. 1–2 cm dick), verteilt über das Gericht.\n- Dunkelgrünes, gegartes Blattgemüse mit Stielen, das den Boden der Pfanne ausfüllt.\n- Etwa 15 kleine, rosa-rote, würfelförmig geschnittene Schinkenstücke, zwischen Gemüse und Kartoffeln verteilt.\n- Kleine, beige, gehackte Knoblauchstückchen.\n\nDas Ganze liegt in einer dünnflüssigen, bräunlichen Soße. Über der Pfanne ist weißer Dampf sichtbar. Das Gericht steht auf einem hellbraunen Holztisch. Es sind keine Personen, Hände oder Texte sichtbar."
+          },
+          {
+            "attempt": 2,
+            "verdict": "mismatch",
+            "summary_de": "Die Grünkohlpfanne mit Speck, Kartoffeln und Feta-Joghurt ist grundsätzlich erkennbar, doch die Kartoffeln sind in Scheiben statt halbiert und es sind nicht im Rezept enthaltene Zwiebelwürfel zu sehen.",
+            "missing": [],
+            "wrong": [
+              "Kartoffeln liegen als runde Scheiben in der Pfanne, laut Rezept sollen die Drillinge aber nur halbiert und dann goldbraun gebraten werden"
+            ],
+            "extra": [
+              "kleine weiße gewürfelte Stücke, die als Zwiebeln beschrieben sind – Zwiebeln stehen nicht im Rezept (gemeint sein dürfte der Knoblauch, dann aber falsch benannt/dargestellt)"
+            ],
+            "rejected_file": null,
+            "image_description": "Das Bild zeigt eine schwarze Pfanne auf einer hellen Holzoberfläche sowie eine weiße Schale daneben.\n\nIn der Pfanne befindet sich grüner, gegarter Grünkohl mit einer flüssigen, glänzenden Soße am Boden. Darauf liegen acht kreisrunde, goldbraun gebratene Kartoffelscheiben und ca. 20 kleine, rosafarbene, würfelig geschnittene Schinkenstücke. Vereinzelt sind kleine, weiße, gewürfelte Stücke (Zwiebeln) sichtbar. Über dem Gericht steigt weißer Dampf auf.\n\nDie weiße Schale enthält eine weiße, cremige Masse, auf der kleine, beige-weiße Stückchen streuen.\n\nEs ist kein Besteck zu sehen. Personen, Hände oder Text sind nicht im Bild. Es gibt keine erkennbaren Bildfehler oder unlogischen Details."
+          }
+        ]
+      },
+      "card": "02_gr-nkohlpfanne.html"
+    },
+    {
+      "rank": 3,
+      "recipe_id": "doc7mtvkm060czh1apgky9",
+      "title": "Winter-Minestrone mit Grünkohl",
+      "category": "Suppen und Eintöpfe",
+      "date_imported": "2022-09-20",
+      "labels": [
+        "Einfach",
+        "Einfrieren",
+        "Familie",
+        "Hauptgericht",
+        "Winter",
+        "Würstchen"
+      ],
+      "trend": "Grünkohl",
+      "trend_id": "t6",
+      "trend_T": 80.4,
+      "match": "title",
+      "semantic": 0.822,
+      "hybrid_relevance": 0.893,
+      "trend_relevance": 0.718,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 84.5,
+      "pool_rank": 1,
+      "review": {
+        "recipe_id": "doc7mtvkm060czh1apgky9",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Grünkohl ist Kern der Minestrone, das Winter-Label passt exakt zum Ausgabezeitpunkt und die Suppe sättigt.",
+        "title": "Winter-Minestrone mit Grünkohl"
+      },
+      "status": "approved",
+      "file_stem": "03_winter-minestrone-mit-gr-nkohl",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "03_winter-minestrone-mit-gr-nkohl.html"
+    },
+    {
+      "rank": 4,
+      "recipe_id": "doc81jo3l83ws36crtvw63",
+      "title": "Szegediner Gulasch",
+      "category": "Fleisch und Geflügel",
+      "date_imported": "2025-07-17",
+      "labels": [
+        "Omas/ Großmutters Küche"
+      ],
+      "trend": "Gulasch",
+      "trend_id": "t37",
+      "trend_T": 79.4,
+      "match": "title",
+      "semantic": 1.0,
+      "hybrid_relevance": 1.0,
+      "trend_relevance": 0.794,
+      "season_fit": 0.4,
+      "season_labels": [],
+      "completeness": 1.0,
+      "score": 67.7,
+      "pool_rank": 3,
+      "review": {
+        "recipe_id": "doc81jo3l83ws36crtvw63",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Szegediner Art ist eine klassische Gulasch-Variante und Sauerkraut plus Schweinefleisch passen in die kalte Jahreszeit.",
+        "title": "Szegediner Gulasch"
+      },
+      "status": "approved",
+      "file_stem": "04_szegediner-gulasch",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "04_szegediner-gulasch.html"
+    },
+    {
+      "rank": 5,
+      "recipe_id": "doc7c2jzzdw38w16nplwai4",
+      "title": "Pichelsteiner Eintopf mit Steakwürfeln",
+      "category": "Suppen und Eintöpfe",
+      "date_imported": "2020-08-27",
+      "labels": [
+        "Klassiker",
+        "Suppe",
+        "Winter"
+      ],
+      "trend": "Gulasch",
+      "trend_id": "t37",
+      "trend_T": 79.4,
+      "match": "ingredient",
+      "semantic": 0.305,
+      "hybrid_relevance": 0.343,
+      "trend_relevance": 0.272,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter"
+      ],
+      "completeness": 1.0,
+      "score": 60.0,
+      "pool_rank": 10,
+      "review": {
+        "recipe_id": "doc7c2jzzdw38w16nplwai4",
+        "trend_match": "weak",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Gulaschfleisch ist hier nur Zutat eines klassischen Eintopfs, doch das Gericht ist saisonal, sättigend und für die Zielgruppe gut nachkochbar.",
+        "title": "Pichelsteiner Eintopf mit Steakwürfeln"
+      },
+      "status": "approved",
+      "file_stem": "05_pichelsteiner-eintopf-mit-stea",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "05_pichelsteiner-eintopf-mit-stea.html"
+    },
+    {
+      "rank": 6,
+      "recipe_id": "doc860ijq7sc1h1kh03sfub",
+      "title": "Schweine-Rahm-Gulasch",
+      "category": "Fleisch und Geflügel",
+      "date_imported": "2026-05-26",
+      "labels": [
+        "Deutschland",
+        "Familie",
+        "Hauptgericht",
+        "Herbst",
+        "Herzhaft",
+        "Landhausküche",
+        "Landküche",
+        "Schmoren",
+        "Winter"
+      ],
+      "trend": "Gulasch",
+      "trend_id": "t37",
+      "trend_T": 79.4,
+      "match": "title",
+      "semantic": 0.575,
+      "hybrid_relevance": 0.745,
+      "trend_relevance": 0.592,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Winter",
+        "Herbst"
+      ],
+      "completeness": 1.0,
+      "score": 77.5,
+      "pool_rank": 1,
+      "review": {
+        "recipe_id": "doc860ijq7sc1h1kh03sfub",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Rahm-Gulasch ist ein klassisches Fleischgericht mit Herbst-/Winter-Label und trifft damit Trend und Saison gleichermaßen.",
+        "title": "Schweine-Rahm-Gulasch"
+      },
+      "status": "approved",
+      "file_stem": "06_schweine-rahm-gulasch",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "06_schweine-rahm-gulasch.html"
+    },
+    {
+      "rank": 7,
+      "recipe_id": "doc82jmzcg087ruiehctrd",
+      "title": "Spekulatius-Apfel-Tiramisu",
+      "category": "Weihnachten",
+      "date_imported": "2025-09-25",
+      "labels": [
+        "Dessert/ Nachtisch",
+        "Gastlichkeit/ Für Gäste",
+        "Weihnachten"
+      ],
+      "trend": "Tiramisu",
+      "trend_id": "t38",
+      "trend_T": 77.3,
+      "match": "title",
+      "semantic": 0.0,
+      "hybrid_relevance": 0.4,
+      "trend_relevance": 0.309,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 62.0,
+      "pool_rank": 9,
+      "review": {
+        "recipe_id": "doc82jmzcg087ruiehctrd",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Die Apfel-Spekulatius-Variante ist klar als Tiramisu erkennbar und bedient die voradventszeitliche Weihnachtsspezialität.",
+        "title": "Spekulatius-Apfel-Tiramisu"
+      },
+      "status": "approved",
+      "file_stem": "07_spekulatius-apfel-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "07_spekulatius-apfel-tiramisu.html"
+    },
+    {
+      "rank": 8,
+      "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+      "title": "Spekulatius-Tiramisu",
+      "category": "Weihnachten",
+      "date_imported": "2020-08-27",
+      "labels": [],
+      "trend": "Tiramisu",
+      "trend_id": "t38",
+      "trend_T": 77.3,
+      "match": "title",
+      "semantic": 0.048,
+      "hybrid_relevance": 0.429,
+      "trend_relevance": 0.332,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 63.2,
+      "pool_rank": 8,
+      "review": {
+        "recipe_id": "doc7c2jon5ryhtwc0nrcq0",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Spekulatius-Tiramisu ist ein eindeutiger Trendtreffer und mit Quark statt reiner Sahne etwas leichter für die Alltagsküche.",
+        "title": "Spekulatius-Tiramisu"
+      },
+      "status": "approved",
+      "file_stem": "08_spekulatius-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "08_spekulatius-tiramisu.html"
+    },
+    {
+      "rank": 9,
+      "recipe_id": "doc835cd7gsi34b88w43yk",
+      "title": "Lebkuchen Tiramisu",
+      "category": "Weihnachten",
+      "date_imported": "2025-11-06",
+      "labels": [
+        "Einfach",
+        "Süß"
+      ],
+      "trend": "Tiramisu",
+      "trend_id": "t38",
+      "trend_T": 77.3,
+      "match": "title",
+      "semantic": 0.309,
+      "hybrid_relevance": 0.585,
+      "trend_relevance": 0.452,
+      "season_fit": 1.0,
+      "season_labels": [
+        "Weihnachten"
+      ],
+      "completeness": 1.0,
+      "score": 69.9,
+      "pool_rank": 4,
+      "review": {
+        "recipe_id": "doc835cd7gsi34b88w43yk",
+        "trend_match": "strong",
+        "season_ok": true,
+        "verdict": "keep",
+        "reason_de": "Lebkuchen-Tiramisu bedient den Tiramisu-Trend weihnachtlich, die Zutatenliste bleibt trotz Amaretto überschaubar.",
+        "title": "Lebkuchen Tiramisu"
+      },
+      "status": "approved",
+      "file_stem": "09_lebkuchen-tiramisu",
+      "image": null,
+      "image_error": "kein Bild (Testlimit: 2 Bilder)",
+      "card": "09_lebkuchen-tiramisu.html"
+    }
+  ]
+}
