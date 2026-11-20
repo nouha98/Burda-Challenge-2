@@ -23,6 +23,7 @@ Tasks run **one after another**. Each block ends with something that works and i
       → they're reasoning models: set `max_tokens` to at least 2000, otherwise the reasoning uses up the budget
 
 - [x] **Block 1 done:** `python -m agents.trend_agent` → `runs/trends.json` (150 Google records → 94 topics, live Wikimedia for all 94, LLM classification, 70 eligible / 24 excluded, ~80 s)
+- [x] **Block 2 done:** `python -m agents.proposal_agent` → `runs/proposals.json` (archive index of 5,000 recipes, Brave context, brand agent, 5 proposals with 2 recipe directions each, ~2 min 15 s)
 
 ## Timeline
 
