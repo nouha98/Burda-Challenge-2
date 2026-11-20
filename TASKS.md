@@ -22,6 +22,8 @@ Tasks run **one after another**. Each block ends with something that works and i
 - [x] Gateway: GLM-5.3-Flash, Kimi-K3.1-Pro and DeepSeek-V4.1-Flash all return valid JSON in about 2 s
       → they're reasoning models: set `max_tokens` to at least 2000, otherwise the reasoning uses up the budget
 
+- [x] **Block 1 done:** `python -m agents.trend_agent` → `runs/trends.json` (150 Google records → 94 topics, live Wikimedia for all 94, LLM classification, 70 eligible / 24 excluded, ~80 s)
+
 ## Timeline
 
 | # | Time | Build step (laptop) | Done when | Editor / Presenter meanwhile |
