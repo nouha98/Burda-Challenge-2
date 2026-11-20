@@ -1,6 +1,9 @@
 from pathlib import Path
 
+import random
+
 from agents import image_agent, revival_editors
+from scoring.revival import draw
 
 
 def cand(rid, trend_id, cat, score=80):
@@ -21,26 +24,6 @@ def pool_of(spec):
 POOL = pool_of([("a1", "t1", "Suppen", 90), ("a2", "t1", "Suppen", 80), ("b1", "t2", "Suppen", 88),
                 ("c1", "t3", "Suppen", 87), ("d1", "t4", "Desserts", 86), ("e1", "t5", "Fleisch", 85),
                 ("f1", "t6", "Gebäck", 70)])
-
-
-def test_selector_rejects_rule_breaks_and_fills(monkeypatch):
-    answer = {"selection": [{"recipe_id": "a1"}, {"recipe_id": "a2"},  # same trend twice
-                            {"recipe_id": "b1"}, {"recipe_id": "c1"},  # 3rd soup -> category limit
-                            {"recipe_id": "zz"}]}                      # unknown id
-    monkeypatch.setattr(revival_editors, "chat_json", lambda *a, **k: (answer, {"model": "m"}))
-    sel = revival_editors.select(POOL, "Winter", excluded=set(), feedback=[])
-    ids = [s["recipe"]["id"] for s in sel["selection"]]
-    assert len(ids) == 5 and len({s["trend_id"] for s in sel["selection"]}) == 5
-    cats = [s["recipe"]["category"] for s in sel["selection"]]
-    assert max(cats.count(c) for c in set(cats)) <= revival_editors.MAX_PER_CATEGORY
-    assert "a2" not in ids and "zz" not in ids and len(sel["validation_notes"]) == 3
-    assert any(s["picked_by"] == "fallback" for s in sel["selection"])
-
-
-def test_selector_respects_exclusions(monkeypatch):
-    monkeypatch.setattr(revival_editors, "chat_json", lambda *a, **k: ({"selection": [{"recipe_id": "a1"}]}, {"model": "m"}))
-    sel = revival_editors.select(POOL, "Winter", excluded={"a1"}, feedback=["a1 ersetzen"])
-    assert "a1" not in [s["recipe"]["id"] for s in sel["selection"]]
 
 
 def test_review_forces_replace_when_trend_does_not_match(monkeypatch):
@@ -91,3 +74,18 @@ def test_image_regeneration_is_bounded(monkeypatch, tmp_path):
     monkeypatch.setattr(image_agent.runs, "write_json", lambda *a, **k: None)
     info = image_agent.generate_validated({"title": "t"}, tmp_path / "y.jpg", progress=lambda m: None)
     assert n["gen"] == image_agent.MAX_REGENERATIONS + 1 and info["status"] == "needs_editor_review"
+
+
+def test_draw_is_random_per_seed_but_reproducible():
+    pool = [cand(f"r{k}", "t1", "Suppen") for k in range(10)]
+    a = [s["recipe"]["id"] for s in draw(pool, 3, random.Random(1))]
+    b = [s["recipe"]["id"] for s in draw(pool, 3, random.Random(1))]
+    others = {tuple(s["recipe"]["id"] for s in draw(pool, 3, random.Random(seed))) for seed in range(2, 12)}
+    assert a == b and len(set(a)) == 3                # same seed -> same picks, no duplicates
+    assert len(others) > 5                            # different seeds -> different picks
+
+
+def test_draw_respects_exclusions_and_small_pools():
+    pool = [cand(f"r{k}", "t1", "Suppen") for k in range(4)]
+    picks = draw(pool, 3, random.Random(7), exclude={"r0", "r1"})
+    assert {s["recipe"]["id"] for s in picks} == {"r2", "r3"}

@@ -1,21 +1,23 @@
-"""Archiv-Revival: 5 existing archive recipes for the current trends and season, chosen by a multi-agent loop.
+"""Archiv-Revival: existing archive recipes for the current top trends, drawn at random from the most relevant ones.
 
-  1. Retrieval   – per rising trend the best archive recipes (hybrid search: embeddings + title/ingredient,
-                   scored with season fit); top 12 trends × 3 candidates
-  2. Selector    – editor agent picks 5: different trends, max. 2 per category, a varied mix (agents/revival_editors)
-  3. Review      – review agent checks trend match, season and variety; rejected picks are replaced by the
-                   selector (with the reasons), "retrieve_again" widens the search for a trend; max. 2 rounds
-  4. Images      – FLUX image → vision model turns it into text → review model compares it with the recipe →
+  1. Trends      – the top 3 rising trends (by trend score T)
+  2. Retrieval   – per trend the 10 most relevant archive recipes (hybrid search: embeddings + title/ingredient,
+                   scored with season fit) = the relevant pool
+  3. Random draw – 3 recipes per trend, uniformly from the pool, with a recorded seed: the same trend gives
+                   different recipes on every run; `--seed N` reproduces a run exactly
+  4. Review      – review agent checks trend match and season; a rejected recipe is replaced by another random
+                   draw from the same trend's pool; "retrieve_again" widens that trend's pool; max. 2 rounds
+  5. Images      – FLUX image → vision model turns it into text → review model compares it with the recipe →
                    one regeneration with concrete fixes if it does not match (agents/image_agent.generate_validated)
-  5. Cards       – archive card with image (content unchanged)
+  6. Cards       – archive card with image (content unchanged)
 
-Run:  python -m agents.revival_agent           -> runs/revival_<time>/
-      python -m agents.revival_agent --no-images
-Images only for the first `revival_max_images` picks (config/models.json; currently 2 for testing).
+Run:  python -m agents.revival_agent [--seed N] [--no-images]   -> runs/revival_<time>/
+Images only for the first `revival_max_images` recipes (config/models.json; currently 2 for testing).
 """
 import base64
 import datetime as dt
 import json
+import random
 import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -33,10 +35,14 @@ from services import embeddings
 from storage import runs
 
 ROOT = Path(__file__).resolve().parents[1]
+CONFIG = json.loads((ROOT / "config" / "models.json").read_text(encoding="utf-8"))
 IMAGE_WORKERS = 2
-MAX_IMAGES = json.loads((ROOT / "config" / "models.json").read_text(encoding="utf-8")).get("revival_max_images", 10)
+MAX_IMAGES = CONFIG.get("revival_max_images", 10)
+N_TRENDS = CONFIG.get("revival_trends", 3)
+PER_TREND = CONFIG.get("revival_per_trend", 3)
+POOL_SIZE = CONFIG.get("revival_pool_size", revival.POOL_SIZE)
 MAX_REVIEW_ROUNDS = 2      # correction rounds after the first review
-WIDER_PER_TREND = 8        # candidates per trend when the reviewer asks to search again
+WIDER_POOL = 20            # pool size when the reviewer asks to search a trend again
 
 
 def list_revivals() -> list[str]:
@@ -70,59 +76,68 @@ def prepare(day: dt.date | None = None, semantic: bool = True, build_vectors: bo
             "descriptions": descriptions}
 
 
+def top_trends(rising: list[dict], n: int = N_TRENDS) -> list[dict]:
+    return sorted(rising, key=lambda c: -c["scores"]["T"])[:n]
+
+
 def rank_now(day: dt.date | None = None, semantic: bool = True, progress=print) -> tuple[dict, list[dict]]:
-    """Deterministic top 5 (no agents) – used for the quick preview in the app."""
+    """Deterministic list (no agents, no randomness) – used for the quick preview in the app."""
     p = prepare(day, semantic=semantic, build_vectors=False, progress=progress)
     return p["ctx"], revival.rank(p["rising"], p["recipes"], p["ctx"], vectors=p["vectors"], query_vecs=p["query_vecs"])
 
 
-def select_and_review(p: dict, progress=print) -> tuple[list[dict], list[dict], dict]:
-    """Selector ↔ review loop. Returns (final selection, round log, candidate pool)."""
-    ctx = p["ctx"]
-    pool = revival.candidates_per_trend(p["rising"], p["recipes"], ctx, p["vectors"], p["query_vecs"])
-    for tid, entry in pool.items():
-        entry["description"] = p["descriptions"].get(tid)
-    season = ctx["reason"]
-    excluded, feedback, rounds = set(), [], []
+def sample_and_review(p: dict, seed: int, progress=print) -> tuple[list[dict], list[dict], dict]:
+    """Random draw per trend ↔ review loop. Returns (final picks, round log, pools)."""
+    ctx, rng = p["ctx"], random.Random(seed)
+    pools = {}
+    for c in top_trends(p["rising"]):
+        qv = (p["query_vecs"] or {}).get(c["id"])
+        pools[c["id"]] = {"trend": c, "description": p["descriptions"].get(c["id"]),
+                          "candidates": revival.candidates_for_trend(c, p["recipes"], ctx, p["vectors"], qv, POOL_SIZE)}
+    picks = {tid: revival.draw(e["candidates"], PER_TREND, rng) for tid, e in pools.items()}
+    excluded, rounds = set(), []
     for rnd in range(MAX_REVIEW_ROUNDS + 1):
-        progress(f"Runde {rnd + 1}: Auswahl-Agent wählt 5 aus {sum(len(e['candidates']) for e in pool.values())} Kandidaten …")
-        sel = revival_editors.select(pool, season, excluded, feedback)
-        progress(f"Runde {rnd + 1}: Review-Agent prüft die Auswahl …")
-        rev = revival_editors.review(sel["selection"], pool, season)
-        rounds.append({"round": rnd + 1, "selection": [{"recipe_id": s["recipe"]["id"], "title": s["recipe"]["title"],
-                                                        "trend": s["trend"], "category": s["recipe"]["category"],
-                                                        "why_de": s.get("why_de"), "picked_by": s.get("picked_by")}
-                                                       for s in sel["selection"]],
-                       "variety_de": sel.get("variety_de"), "validation_notes": sel["validation_notes"],
+        selection = [s for tid in pools for s in picks[tid]]
+        progress(f"Runde {rnd + 1}: Review-Agent prüft {len(selection)} zufällig gezogene Rezepte …")
+        rev = revival_editors.review(selection, pools, ctx["reason"])
+        rounds.append({"round": rnd + 1,
+                       "selection": [{"recipe_id": s["recipe"]["id"], "title": s["recipe"]["title"], "trend": s["trend"],
+                                      "category": s["recipe"]["category"]} for s in selection],
                        "review": rev, "excluded_before": sorted(excluded)})
         if rev["all_ok"] or rnd == MAX_REVIEW_ROUNDS:
             break
-        rejected = [v for v in rev["items"] if v.get("verdict") == "replace"]
-        for v in rejected:
-            excluded.add(v["recipe_id"])
-            feedback.append(f'„{v["title"]}" ersetzen: {v.get("reason_de")}')
-        if not rev.get("variety_ok", True):
-            feedback.append(f'Mischung verbessern: {rev.get("variety_reason_de")}')
+        rejected = {v["recipe_id"] for v in rev["items"] if v.get("verdict") == "replace"}
+        excluded |= rejected
         for tid in rev.get("retrieve_again", []):
-            wider = revival.candidates_for_trend(pool[tid]["trend"], p["recipes"], ctx, p["vectors"],
-                                                 (p["query_vecs"] or {}).get(tid), WIDER_PER_TREND, exclude=excluded)
-            pool[tid]["candidates"] = wider
-            pool[tid]["widened"] = True
-            progress(f"Retrieval: Trend {pool[tid]['trend']['classification']['name_de']} breiter gesucht ({len(wider)} Kandidaten)")
-        rounds[-1]["action"] = {"replaced": [v["title"] for v in rejected], "retrieve_again": rev.get("retrieve_again", [])}
-    final = sel["selection"]
+            if tid in pools:
+                c = pools[tid]["trend"]
+                pools[tid]["candidates"] = revival.candidates_for_trend(
+                    c, p["recipes"], ctx, p["vectors"], (p["query_vecs"] or {}).get(c["id"]), WIDER_POOL)
+                pools[tid]["widened"] = True
+        replaced = []
+        for tid in pools:
+            keep = [s for s in picks[tid] if s["recipe"]["id"] not in rejected]
+            taken = excluded | {s["recipe"]["id"] for s in keep}
+            new = revival.draw(pools[tid]["candidates"], PER_TREND - len(keep), rng, exclude=taken)
+            replaced += [(old["recipe"]["title"], n["recipe"]["title"])
+                         for old, n in zip([s for s in picks[tid] if s["recipe"]["id"] in rejected], new)]
+            picks[tid] = keep + new
+        rounds[-1]["action"] = {"replaced": [f"{a} → {b}" for a, b in replaced],
+                                "retrieve_again": rev.get("retrieve_again", [])}
     verdicts = {v["recipe_id"]: v for v in rev["items"]}
-    for s in final:
-        v = verdicts.get(s["recipe"]["id"], {})
-        s["review"] = v
-        s["status"] = "approved" if v.get("verdict", "keep") == "keep" else "needs_editor_review"
-    return final, rounds, pool
+    final = []
+    for tid in pools:
+        for s in picks[tid]:
+            v = verdicts.get(s["recipe"]["id"], {})
+            final.append(dict(s, review=v, status="approved" if v.get("verdict", "keep") == "keep" else "needs_editor_review"))
+    return final, rounds, pools
 
 
-def run(images: bool = True, max_images: int | None = None, progress=print) -> str:
+def run(images: bool = True, max_images: int | None = None, seed: int | None = None, progress=print) -> str:
+    seed = seed if seed is not None else random.SystemRandom().randrange(2 ** 32)
     p = prepare(progress=progress)
     ctx = p["ctx"]
-    final, rounds, pool = select_and_review(p, progress)
+    final, rounds, pools = sample_and_review(p, seed, progress)
     out = runs.RUNS / f"revival_{dt.datetime.now():%Y%m%d_%H%M%S}"
     out.mkdir(parents=True)
     items = []
@@ -130,37 +145,40 @@ def run(images: bool = True, max_images: int | None = None, progress=print) -> s
         r = t["recipe"]
         items.append({"rank": n, "recipe_id": r["id"], "title": r["title"], "category": r["category"],
                       "date_imported": r["date_imported"], "labels": r["labels"], "trend": t["trend"],
-                      "trend_T": t["trend_T"], "match": t["match"], "semantic": t["semantic"],
+                      "trend_id": t["trend_id"], "trend_T": t["trend_T"], "match": t["match"], "semantic": t["semantic"],
                       "hybrid_relevance": t["hybrid_relevance"], "trend_relevance": round(t["trend_relevance"], 3),
                       "season_fit": t["season_fit"], "season_labels": t["season_labels"],
-                      "completeness": t["completeness"], "score": t["score"], "why_de": t.get("why_de"),
-                      "picked_by": t.get("picked_by"), "review": t.get("review"), "status": t.get("status"),
+                      "completeness": t["completeness"], "score": t["score"],
+                      "pool_rank": next(k for k, s in enumerate(pools[t["trend_id"]]["candidates"], 1)
+                                        if s["recipe"]["id"] == r["id"]),
+                      "review": t.get("review"), "status": t.get("status"),
                       "file_stem": f"{n:02d}_{_slug(r['title'])}"})
 
-    def save(extra=None):
+    def save():
         runs.write_json(out / "revival.json", {
-            "generated_at": dt.datetime.now().isoformat(timespec="seconds"), "season_context": ctx,
-            "method": {"pipeline": "retrieval per trend → selector agent → review agent (max. "
-                                   f"{MAX_REVIEW_ROUNDS} correction rounds) → FLUX image → vision check → cards",
+            "generated_at": dt.datetime.now().isoformat(timespec="seconds"), "seed": seed, "season_context": ctx,
+            "method": {"pipeline": f"top {N_TRENDS} trends → {POOL_SIZE} most relevant archive recipes per trend → "
+                                   f"random draw of {PER_TREND} per trend (seed {seed}) → review agent (max. "
+                                   f"{MAX_REVIEW_ROUNDS} correction rounds, replacements drawn from the same pool) → "
+                                   "FLUX image → vision check → cards",
                        "retrieval": ctx["retrieval"],
-                       "score": "100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
+                       "score": "pool ranking: 100 × (0.55 × trend relevance + 0.35 × season fit + 0.10 × completeness)",
                        "trend_relevance": "trend score T/100 × hybrid relevance (0.6 × semantic + 0.4 × lexical)",
-                       "diversity": f"5 different trends, max. {revival_editors.MAX_PER_CATEGORY} per archive category; "
-                                    "publication date ignored"},
+                       "randomness": f"uniform draw without replacement from the pool; reproduce with --seed {seed}"},
             "candidate_pool": {tid: {"trend": e["trend"]["classification"]["name_de"], "description": e.get("description"),
                                      "widened": e.get("widened", False),
                                      "candidates": [{"recipe_id": s["recipe"]["id"], "title": s["recipe"]["title"],
                                                      "category": s["recipe"]["category"], "score": s["score"],
                                                      "match": s["match"], "season_labels": s["season_labels"]}
-                                                    for s in e["candidates"]]} for tid, e in pool.items()},
+                                                    for s in e["candidates"]]} for tid, e in pools.items()},
             "rounds": rounds,
             "limitations": ["Archive = 5,000-recipe sample of 81,798; category labels exist for 3,354 recipes.",
-                            "Semantic similarity ranks candidates; trend fit is judged by the review agent, not proven.",
+                            "The pool is ranked by relevance; the draw within it is random by design.",
                             "Images are AI illustrations of archive recipes; the export contains no original photos.",
                             "The image check compares a text description of the image with the recipe; it can miss details."],
-            "items": items, **(extra or {})})
+            "items": items})
     save()
-    progress(f"Auswahl fertig nach {len(rounds)} Runde(n): " + ", ".join(i["title"] for i in items))
+    progress(f"Gezogen (Seed {seed}) nach {len(rounds)} Runde(n): " + ", ".join(i["title"] for i in items))
 
     index = {r["id"]: r for r in p["recipes"]}
 
@@ -202,16 +220,22 @@ def run(images: bool = True, max_images: int | None = None, progress=print) -> s
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
-    name = run(images="--no-images" not in sys.argv)
+    args = sys.argv[1:]
+    seed_arg = int(args[args.index("--seed") + 1]) if "--seed" in args else None
+    name = run(images="--no-images" not in args, seed=seed_arg)
     data = runs.read_json(runs.RUNS / name / "revival.json")
-    print(f"\n-> runs/{name}\n{data['season_context']['reason']}\n")
+    print(f"\n-> runs/{name}   Seed: {data['seed']}\n{data['season_context']['reason']}\n")
     for rnd in data["rounds"]:
-        print(f"Runde {rnd['round']}: " + " | ".join(s["title"][:30] for s in rnd["selection"]))
-        for v in rnd["review"]["items"]:
-            print(f"   {v.get('verdict', '?'):7} {v.get('trend_match', '?'):6} {v['title'][:40]} – {v.get('reason_de')}")
-        print(f"   Vielfalt ok: {rnd['review'].get('variety_ok')} – {rnd['review'].get('variety_reason_de')}")
-    print()
-    for i in data["items"]:
-        chk = (i.get("image_check") or {}).get("status")
-        print(f"{i['rank']} {i['title'][:44]:44} | {i['trend']} | {i['category']} | {i['status']} | "
-              f"image: {i.get('image') or i.get('image_error')} ({chk})")
+        bad = [v for v in rnd["review"]["items"] if v.get("verdict") != "keep"]
+        if rnd.get("action"):
+            print(f"Runde {rnd['round']}: {len(rnd['selection'])} geprüft, {len(bad)} ersetzt: "
+                  + "; ".join(rnd["action"]["replaced"]))
+        else:
+            print(f"Runde {rnd['round']}: {len(rnd['selection'])} geprüft, "
+                  + (f"{len(bad)} offen (Rundenlimit erreicht → Redaktion prüfen)" if bad else "alle bestätigt"))
+    for tid, pool in data["candidate_pool"].items():
+        print(f"\n{pool['trend']} – Pool {len(pool['candidates'])}:")
+        for i in [x for x in data["items"] if x["trend_id"] == tid]:
+            chk = (i.get("image_check") or {}).get("status")
+            print(f"   #{i['pool_rank']:2} im Pool | {i['title'][:46]:46} | {i['category']} | {i['status']}"
+                  + (f" | Bild: {chk}" if chk else ""))

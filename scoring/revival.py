@@ -4,9 +4,12 @@ score = 100 * (0.55 * trend relevance + 0.35 * season fit + 0.10 * completeness)
 trend relevance = trend score T/100 * hybrid relevance (scoring/hybrid.py: semantic + title/ingredient match);
 without vectors it falls back to lexical matching only. Publication date is deliberately ignored.
 
-`candidates_per_trend` feeds the selector agent (top N per trend); `rank` is the deterministic fallback
-(top 5 overall, max. 1 per trend) used when the selector agent is unavailable.
+`candidates_per_trend` builds the relevant pool per trend (top POOL_SIZE by score); `draw` then picks recipes
+from that pool at random with a recorded seed, so the same trend gives different recipes on every run but a run
+can be reproduced. `rank` is the deterministic top list (used for the quick preview).
 """
+import random
+
 import numpy as np
 
 from scoring.hybrid import retrieve
@@ -17,6 +20,7 @@ TOP_N = 5
 MAX_PER_TREND = 1
 PER_TREND = 3
 MAX_TRENDS = 12
+POOL_SIZE = 10
 
 
 def completeness(r: dict) -> float:
@@ -85,3 +89,9 @@ def rank(trend_candidates: list[dict], recipes: list[dict], ctx: dict, top_n: in
         if len(top) == top_n:
             break
     return top
+
+
+def draw(pool: list[dict], k: int, rng: random.Random, exclude: set | None = None) -> list[dict]:
+    """Uniform random draw of k recipes from a trend's relevant pool, without replacement."""
+    available = [s for s in pool if s["recipe"]["id"] not in (exclude or set())]
+    return rng.sample(available, min(k, len(available)))
