@@ -27,6 +27,7 @@ Tasks run **one after another**. Each block ends with something that works and i
 - [x] **Block 3 done:** `streamlit run app.py` → tabs Trends / Vorschläge & Auswahl / Rezepte; editor selection saved in `runs/<run_id>/`; recipe agent (Kimi, 2 parallel streamed calls, ~100 s) writes recipes A and B
 - [x] **Block 4 done:** Review tab → code checks + DeepSeek review (8 criteria + culinary plausibility, 100-point score) → recipe agent revises, max. 2 revisions; minor findings get one polishing revision; changes v1 → v2 shown in the app (~1–3 min)
 - [x] **Block 5 done:** Nährwerte tab → ingredients matched to real Swiss database IDs (exact / Swiss name / closest substitute, with confidence), grams via `config/unit_weights.json` rules, per-serving kcal/kJ/fat/carbs/protein computed in code, unresolved items listed (~15–20 s)
+- [x] **Block 6 done:** Rezeptkarten tab → A4 cards in the das schmeckt! design (logo, colours, layout from the salmon example), „KI-generierter Rezeptentwurf“, nutrition per serving, image placeholder, multi-page with header/footer/„Seite x von y“; same renderer shows archive XML recipes; print-to-PDF page count verified
 
 ## Timeline
 

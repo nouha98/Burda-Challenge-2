@@ -378,5 +378,52 @@ with tab_nutri:
                         st.markdown(f"- {'🔴' if u['major'] else '🟡'} {u['display']} ({u['weight_share']:.1%} des Gewichts): {u['reason']}")
                 st.caption(f"{n['source']}, {n['basis']}. {n['note_de']}")
 
+
+# ---------- Recipe cards ----------
+
 with tab_cards:
-    st.info("Folgt in Block 6.")
+    recipes = runs.latest_recipes(run_id) if run_id else {}
+    if not recipes:
+        st.info("Zuerst zwei Rezepte entwickeln (Tab „Rezepte“).")
+    else:
+        from rendering import export
+        block = export.blockers(run_id)
+        for slot, reasons in block.items():
+            if reasons:
+                st.warning(f"Rezept {slot}: " + "; ".join(reasons))
+        ready = not any(block.values())
+        existing = {s: export.card_path(run_id, r) for s, r in recipes.items()}
+        have_all = all(p.exists() for p in existing.values())
+        if st.button("Rezeptkarten erzeugen" if not have_all else "Rezeptkarten neu erzeugen",
+                     type="primary" if not have_all else "secondary", disabled=not ready):
+            export.export_cards(run_id)
+            st.rerun()
+        if not ready:
+            st.caption("Karten werden erst erzeugt, wenn Review und Nährwerte für die aktuelle Version vorliegen.")
+        for slot, path in existing.items():
+            if not path.exists():
+                continue
+            html = path.read_text(encoding="utf-8")
+            pages = html.count('class="page"')
+            c1, c2 = st.columns([4, 1])
+            c1.markdown(f"### Rezept {slot}: {recipes[slot].get('title')}  \n"
+                        f"<span style='color:#647169'>Version {recipes[slot]['version']} · {pages} Seite(n) A4 · `{path.name}`</span>",
+                        unsafe_allow_html=True)
+            c2.download_button("HTML herunterladen", html, file_name=f"das-schmeckt_{slot}_{path.stem}.html",
+                               mime="text/html", key=f"dl_{slot}")
+            st.iframe(html, height=pages * 1160 + 160)
+
+    st.divider()
+    with st.expander("Vorlage mit Archivrezepten testen (Wiederverwendbarkeit)"):
+        st.caption("Die Vorlage muss auch Archivrezepte im XML-Format darstellen – Inhalte werden unverändert übernommen.")
+        from ingest.archive import build_index
+        from rendering.card import card_from_archive, render as render_card
+        index = build_index()
+        query = st.text_input("Archivrezept suchen (Titel)", "Rosenkohl")
+        hits = [r for r in index if query and query.lower() in (r["title"] or "").lower()][:30]
+        if hits:
+            pick = st.selectbox("Rezept", hits, format_func=lambda r: f"{r['title']} ({r['date_imported']})")
+            html = render_card(card_from_archive(pick))
+            st.iframe(html, height=html.count('class="page"') * 1160 + 160)
+        elif query:
+            st.caption("Kein Treffer.")

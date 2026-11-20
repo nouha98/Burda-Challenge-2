@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ card.title }} – das schmeckt!</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#e7ebe5;color:#28332d;font-family:Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.toolbar{max-width:210mm;margin:22px auto 16px;display:flex;justify-content:space-between;align-items:center;gap:20px}
+.toolbar h1{font-size:16px;font-weight:500;margin:0;color:#183e30}
+.toolbar p{font-size:12px;color:#526057;margin:4px 0 0}
+.toolbar button{font:700 13px Helvetica,Arial,sans-serif;background:#006642;color:#fff;padding:10px 17px;border:0;cursor:pointer;white-space:nowrap}
+.print-help{max-width:210mm;margin:0 auto 18px;font-size:12px;line-height:1.5;color:#526057}
+.pages{padding:0 12px 25px}
+.page{position:relative;width:210mm;height:297mm;margin:0 auto 22px;background:#fcfbf7;box-shadow:0 3px 24px #183e3020;overflow:hidden}
+.hdr{position:absolute;left:34pt;right:34pt;top:24pt}
+.hdr .bar{height:2.2pt;background:#006642}
+.hdr .row{display:flex;justify-content:space-between;align-items:center;height:47pt}
+.hdr img{height:30.9pt;display:block}
+.hdr .tag{font-size:8.3pt;color:#647169}
+.hdr .rule{height:.6pt;background:#d8ded5}
+.body{position:absolute;left:34pt;right:34pt;top:86pt;bottom:52pt}
+.hero{display:flex;gap:22pt;align-items:flex-start}
+.hero .txt{flex:1}
+.hero h1{font-size:29pt;line-height:31pt;font-weight:700;color:#183e30;margin:0}
+.hero .sub{font-size:11pt;line-height:14pt;color:#183e30;margin:4pt 0 0}
+.hero .meta{font-size:9.2pt;line-height:13pt;font-weight:700;color:#183e30;margin:10pt 0 0}
+.hero .intro{font-size:9.5pt;line-height:13pt;margin:8pt 0 0}
+.ai{display:inline-block;margin-top:9pt;padding:3pt 7pt;font-size:8pt;line-height:10pt;font-weight:700;color:#183e30;background:#fff04b}
+.hero figure{margin:0;width:174pt;flex:none}
+.hero figure img{width:174pt;height:174pt;object-fit:cover;display:block}
+.placeholder{width:174pt;height:174pt;display:flex;align-items:center;justify-content:center;text-align:center;font-size:9pt;line-height:13pt;padding:15pt;color:#647169;background:#edf2e9}
+.hero figcaption{font-size:7pt;line-height:9pt;color:#647169;margin-top:5pt}
+.cont{font-size:16pt;line-height:20pt;font-weight:700;color:#183e30;margin:0}
+.cont small{font-size:9pt;font-weight:400;color:#647169}
+.divider{height:.6pt;background:#d8ded5;margin:12pt 0 7pt}
+.cols{display:flex;gap:23pt;align-items:flex-start}
+.side{width:158pt;flex:none;background:#edf2e9;border-top:2.2pt solid #006642;padding:11pt 12pt 12pt;align-self:stretch}
+.main{flex:1}
+h2{font-size:16pt;line-height:20pt;font-weight:700;color:#183e30;margin:0 0 9pt}
+h2.small{font-size:11pt;line-height:14pt;margin:14pt 0 6pt}
+.serv{font-size:9.2pt;line-height:12.5pt;color:#647169;margin:-4pt 0 8pt}
+.ghead{font-size:9.2pt;line-height:12pt;font-weight:700;color:#183e30;margin:8pt 0 4pt}
+.ing{display:block;position:relative;font-size:9.7pt;line-height:13.5pt;margin:0 0 6pt;padding-left:16pt;cursor:pointer}
+.ing input{position:absolute;top:2pt;left:0;width:9pt;height:9pt;margin:0;accent-color:#006642}
+.ing input:checked~span{text-decoration:line-through;color:#768176}
+.nnote{font-size:7.7pt;line-height:10.3pt;color:#647169;margin:0 0 6pt}
+.nval{font-size:8.7pt;line-height:12pt;margin:0}
+.nsrc{font-size:7.5pt;line-height:10pt;color:#647169;margin:6pt 0 0}
+.step{display:flex;gap:8pt;margin:0 0 9pt}
+.num{flex:none;width:22pt;height:22pt;border-radius:50%;background:#fff04b;color:#183e30;font-weight:700;font-size:10pt;display:flex;align-items:center;justify-content:center}
+.step p{margin:0;font-size:10.2pt;line-height:14.2pt}
+.step .temp{color:#647169}
+.shead{font-size:10.2pt;line-height:14pt;font-weight:700;color:#183e30;margin:4pt 0 6pt 30pt}
+.tip{background:#edf2e9;border-left:2pt solid #006642;padding:10pt 12pt;margin-top:4pt}
+.tip h3{font-size:9.2pt;line-height:12pt;font-weight:700;color:#183e30;margin:0 0 4pt}
+.tip p{font-size:9.4pt;line-height:13.3pt;margin:0}
+.ftr{position:absolute;left:34pt;right:34pt;top:801pt}
+.ftr .rule{height:.6pt;background:#d8ded5}
+.ftr .row{display:flex;justify-content:space-between;font-size:7.5pt;line-height:10pt;color:#647169;margin-top:8.4pt}
+@page{size:A4 portrait;margin:0}
+@media print{
+ html,body{margin:0!important;padding:0!important;background:#fff!important}
+ .toolbar,.print-help{display:none!important}
+ .pages{padding:0!important}
+ .page{margin:0!important;box-shadow:none!important;height:296.5mm!important;break-after:page;page-break-after:always;print-color-adjust:exact;-webkit-print-color-adjust:exact}
+ .page:last-child{break-after:auto;page-break-after:auto}
+ .ing input:checked~span{text-decoration:none;color:inherit}
+ .ing input{appearance:none;border:.6pt solid #647169;background:none}
+}
+</style></head><body>
+<div class="toolbar"><div><h1>{{ card.title }}</h1><p>DIN A4 · {{ pages|length }} Seite{{ "n" if pages|length > 1 }} · {{ card.source_label }}</p></div>
+<button type="button" onclick="window.print()">Drucken / PDF</button></div>
+<p class="print-help">Druckeinstellung: A4, Skalierung 100 %, keine Ränder und die Kopf- und Fußzeilen des Browsers ausschalten. Die Rezeptseiten enthalten eigene Kopf- und Fußzeilen.</p>
+<main class="pages">
+{% for page in pages %}
+<article class="page" aria-label="Rezeptseite {{ loop.index }} von {{ pages|length }}">
+ <header class="hdr"><div class="bar"></div>
+  <div class="row"><img src="{{ logo }}" alt="das schmeckt!"><span class="tag">Gut einkaufen. Mit Freude kochen.</span></div>
+  <div class="rule"></div></header>
+ <div class="body">
+ {% if loop.first %}
+  <div class="hero">
+   <div class="txt">
+    <h1>{{ card.title }}</h1>
+    {% if card.subtitle %}<p class="sub">{{ card.subtitle }}</p>{% endif %}
+    {% if card.meta %}<p class="meta">{{ card.meta }}</p>{% endif %}
+    {% if card.introduction %}<p class="intro">{{ card.introduction }}</p>{% endif %}
+    {% if card.ai_label %}<span class="ai">{{ card.ai_label }}</span>{% endif %}
+   </div>
+   <figure>
+    {% if card.image_src %}<img src="{{ card.image_src }}" alt="{{ card.image_alt }}">
+    {% else %}<div class="placeholder">{{ card.image_placeholder }}</div>{% endif %}
+    {% if card.image_caption %}<figcaption>{{ card.image_caption }}</figcaption>{% endif %}
+   </figure>
+  </div>
+ {% else %}
+  <p class="cont">{{ card.title }} <small>· Fortsetzung</small></p>
+ {% endif %}
+  <div class="divider"></div>
+  <div class="cols">
+   <aside class="side"{% if not page.side %} style="background:none;border:0"{% endif %}>
+   {% for b in page.side %}
+    {% if b.kind == "ing_title" %}<h2>Zutaten{{ " (Forts.)" if b.cont }}</h2>{% if card.servings_label and not b.cont %}<p class="serv">{{ card.servings_label }}</p>{% endif %}
+    {% elif b.kind == "ing_group" %}<p class="ghead">{{ b.text }}</p>
+    {% elif b.kind == "ing" %}<label class="ing"><input type="checkbox"><span>{{ b.text }}</span></label>
+    {% elif b.kind == "nutrition" %}<h2 class="small">Nährwerte</h2>
+     <p class="nnote">{{ card.nutrition.note }}</p>
+     {% for label, value in card.nutrition.rows %}<p class="nval">{{ label }}: {{ value }}</p>{% endfor %}
+     {% if card.nutrition.source %}<p class="nsrc">{{ card.nutrition.source }}</p>{% endif %}
+    {% endif %}
+   {% endfor %}
+   </aside>
+   <section class="main">
+   {% for b in page.main %}
+    {% if b.kind == "steps_title" %}<h2>Zubereitung{{ " (Forts.)" if b.cont }}</h2>
+    {% elif b.kind == "step_group" %}<p class="shead">{{ b.text }}</p>
+    {% elif b.kind == "step" %}<div class="step"><div class="num" aria-label="Schritt {{ b.number }}">{{ b.number }}</div><p>{{ b.text }}{% if b.temp %} <span class="temp">({{ b.temp }})</span>{% endif %}</p></div>
+    {% elif b.kind == "tip" %}<div class="tip"><h3>Unser Tipp</h3><p>{{ b.text }}</p></div>
+    {% endif %}
+   {% endfor %}
+   </section>
+  </div>
+ </div>
+ <footer class="ftr"><div class="rule"></div>
+  <div class="row"><span>das schmeckt! · Mit Freude kochen.{% if card.ai_label %} · {{ card.ai_label }}{% endif %} · {{ card.title }}</span><span>Seite {{ loop.index }} von {{ pages|length }}</span></div></footer>
+</article>
+{% endfor %}
+</main></body></html>
