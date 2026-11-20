@@ -1,4 +1,7 @@
 """Write the HTML recipe cards for a run (only for the current recipe versions)."""
+import base64
+
+from agents.image_agent import image_path
 from agents.nutrition_agent import latest_nutrition
 from rendering.card import card_from_generated, paginate, render
 from storage import runs
@@ -25,7 +28,9 @@ def blockers(run_id: str) -> dict:
 def export_cards(run_id: str) -> dict:
     result = {}
     for slot, r in runs.latest_recipes(run_id).items():
-        card = card_from_generated(r, latest_nutrition(run_id, r))
+        img = image_path(run_id, r)  # only an image made for this exact recipe version
+        src = "data:image/jpeg;base64," + base64.b64encode(img.read_bytes()).decode() if img.exists() else None
+        card = card_from_generated(r, latest_nutrition(run_id, r), image_src=src)
         path = card_path(run_id, r)
         path.write_text(render(card), encoding="utf-8")
         result[slot] = {"path": str(path), "pages": len(paginate(card)), "version": r["version"]}
