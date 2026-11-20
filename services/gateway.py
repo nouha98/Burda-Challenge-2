@@ -24,6 +24,8 @@ class GatewayError(RuntimeError):
 
 
 def _post(model: str, messages: list, max_tokens: int, timeout: int) -> dict:
+    """Streams the completion: the gateway's proxy closes connections that stay silent for ~100 s
+    (HTTP 524), and long reasoning + recipe generation exceeds that without streaming."""
     base = os.environ["TESSERACT_BASE_URL"].rstrip("/")
     resp = requests.post(
         f"{base}/v1/chat/completions",
@@ -33,12 +35,31 @@ def _post(model: str, messages: list, max_tokens: int, timeout: int) -> dict:
             "messages": messages,
             "response_format": {"type": "json_object"},
             "max_tokens": max_tokens,
+            "stream": True,
+            "stream_options": {"include_usage": True},
         },
-        timeout=timeout,
+        timeout=(30, timeout),
+        stream=True,
     )
     if resp.status_code != 200:
         raise GatewayError(f"HTTP {resp.status_code}: {resp.text[:300]}")
-    return resp.json()
+    content, finish, usage = [], None, {}
+    resp.encoding = "utf-8"
+    for line in resp.iter_lines(decode_unicode=True):
+        if not line or not line.startswith("data:"):
+            continue
+        payload = line[5:].strip()
+        if payload == "[DONE]":
+            break
+        chunk = json.loads(payload)
+        if chunk.get("usage"):
+            usage = chunk["usage"]
+        for ch in chunk.get("choices", []):
+            piece = (ch.get("delta") or {}).get("content")
+            if piece:
+                content.append(piece)
+            finish = ch.get("finish_reason") or finish
+    return {"choices": [{"message": {"content": "".join(content)}, "finish_reason": finish}], "usage": usage}
 
 
 def _parse_json(text: str):

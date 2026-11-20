@@ -1,0 +1,236 @@
+"""das schmeckt! – editorial workflow app.
+
+Run:  streamlit run app.py
+"""
+import json
+
+import pandas as pd
+import streamlit as st
+
+from storage import runs
+
+st.set_page_config(page_title="das schmeckt! – Trend-zu-Rezept", page_icon="🥘", layout="wide")
+GREEN = "#006642"
+
+
+def fmt_score(v):
+    return "–" if v is None else f"{v:.0f}"
+
+
+def load_proposals():
+    return runs.read_json(runs.PROPOSALS)
+
+
+# ---------- Sidebar: pipeline + run selection ----------
+with st.sidebar:
+    st.markdown(f"<h2 style='color:{GREEN};margin-bottom:0'>das schmeckt!</h2>"
+                "<div style='color:#555'>Trend-zu-Rezept-Workflow</div>", unsafe_allow_html=True)
+    st.divider()
+    st.subheader("Daten")
+    trends = runs.read_json(runs.TRENDS)
+    proposals = load_proposals()
+    st.caption(f"Trends: {trends['generated_at'] if trends else 'fehlt'}  \n"
+               f"Vorschläge: {proposals['generated_at'] if proposals else 'fehlt'}")
+    if st.button("1 · Trends neu recherchieren (~1,5 Min.)"):
+        from agents import trend_agent
+        with st.spinner("Trend-Agent: Google Trends + Wikimedia + Klassifikation …"):
+            trend_agent.main()
+        st.rerun()
+    if st.button("2 · Fünf Vorschläge erstellen (~2,5 Min.)", disabled=trends is None):
+        from agents import proposal_agent
+        with st.spinner("Archiv-Check, Brand-Agent, Proposal-Agent …"):
+            proposal_agent.main()
+        st.rerun()
+    st.divider()
+    st.subheader("Redaktionslauf")
+    all_runs = runs.list_runs()
+    if "run_id" not in st.session_state:
+        st.session_state.run_id = all_runs[0] if all_runs else None
+    if all_runs:
+        st.session_state.run_id = st.selectbox(
+            "Lauf", all_runs, index=all_runs.index(st.session_state.run_id) if st.session_state.run_id in all_runs else 0)
+        st.caption(f"Status: **{runs.state(st.session_state.run_id)['status']}**")
+    else:
+        st.caption("Noch keine Auswahl getroffen.")
+
+run_id = st.session_state.run_id
+tab_trends, tab_props, tab_recipes, tab_review, tab_nutri, tab_cards = st.tabs(
+    ["Trends", "Vorschläge & Auswahl", "Rezepte", "Review", "Nährwerte", "Rezeptkarten"])
+
+# ---------- Trends ----------
+with tab_trends:
+    if not trends:
+        st.info("Noch keine Trenddaten – links „Trends neu recherchieren“ starten.")
+    else:
+        wm = trends["sources"]["wikimedia"]["live_window"]
+        st.markdown(f"**Quellen:** Google Trends DE {trends['sources']['google_trends']['period']['start']} – "
+                    f"{trends['sources']['google_trends']['period']['end']} · Wikipedia-Aufrufe (live) "
+                    f"{wm['latest'][0]} – {wm['latest'][1]} vs. Vorwoche")
+        rows = []
+        for c in trends["candidates"]:
+            s, w = c["scores"], c["wikimedia"] or {}
+            rows.append({"Thema": c["classification"]["name_de"], "Art": c["classification"]["kind"],
+                         "Trend-Score T": s["T"], "Google-Wachstum %": s["best_google_growth_percent"],
+                         "Wikipedia 7 Tage": w.get("latest_7d_views"),
+                         "Wikipedia Δ": f"{s['wikipedia_change']:+.0%}" if s["wikipedia_change"] is not None else "–",
+                         "Hinweise": ", ".join(s["flags"]), "Relevanz": c["classification"]["relevance_de"]})
+        st.dataframe(pd.DataFrame(rows), width="stretch", hide_index=True, height=420)
+        with st.expander(f"Ausgeschlossen ({len(trends['excluded'])})"):
+            st.dataframe(pd.DataFrame([{"Thema": t["classification"].get("name_de"), "Grund": ", ".join(t["excluded_because"]),
+                                        "Suchbegriffe": ", ".join(t["terms"])} for t in trends["excluded"]]),
+                         width="stretch", hide_index=True)
+        st.caption(trends["method"]["score"])
+        for lim in trends["limitations"]:
+            st.caption("⚠️ " + lim)
+
+# ---------- Proposals + editorial selection ----------
+with tab_props:
+    if not proposals:
+        st.info("Noch keine Vorschläge – links „Fünf Vorschläge erstellen“ starten.")
+    else:
+        st.markdown("Die Redaktion wählt **einen** Vorschlag. Daraus entstehen zwei unterschiedliche Rezepte.")
+        for p in proposals["proposals"]:
+            sc = p["scores"]
+            comp = sc["components"]
+            ev = p["evidence"]
+            arch = ev["archive"]
+            with st.container(border=True):
+                head, score = st.columns([5, 2])
+                head.markdown(f"#### {p['proposal_id']} · {p.get('title_de', p['topic'])}")
+                head.caption(f"Thema: {p['topic']} ({p['kind']})")
+                score.metric("Vorschlags-Score", f"{sc['P']:.1f} / {sc['available_maximum']:.0f}")
+                st.markdown(p.get("teaser_de", ""))
+                m1, m2, m3, m4 = st.columns(4)
+                m1.metric("Trend (35 %)", fmt_score(comp["T"]))
+                m2.metric("Marke (30 %)", fmt_score(comp["B"]))
+                m3.metric("Archiv-Lücke (20 %)", fmt_score(comp["N"]))
+                m4.metric("Machbarkeit (15 %)", fmt_score(comp["F"]))
+                c1, c2 = st.columns(2)
+                with c1:
+                    st.markdown(f"**Trendsignal:** {p.get('trend_signal_de', '')}")
+                    st.markdown(f"**Markenfit:** {p.get('brand_fit_de', '')}")
+                    st.markdown(f"**Content-Lücke:** {p.get('content_gap_de', '')}")
+                    st.markdown(f"**Wiederholungsrisiko:** {p.get('repetition_risk_de', '')}")
+                with c2:
+                    latest = arch.get("most_recent_comparable")
+                    st.markdown(f"**Archiv (Stichprobe 5.000):** {arch['title_matches']} Rezepte im Titel, "
+                                f"{arch['title_matches_recent']} in 24 Monaten")
+                    if latest:
+                        st.markdown(f"**Jüngstes vergleichbares Rezept:** „{latest['title']}“ ({latest['date_imported']})")
+                    st.markdown("**Rezeptideen:**")
+                    for d in p.get("recipe_directions", []):
+                        st.markdown(f"- **{d.get('title_de')}** – {d.get('idea_de')} *({d.get('format')})*")
+                with st.expander("Evidenz & offene Fragen"):
+                    st.markdown("**Offene Fragen:** " + " · ".join(p.get("open_questions_de", [])))
+                    st.markdown("**Google Trends**")
+                    st.dataframe(pd.DataFrame([{k: r[k] for k in ("term", "signal_type", "source_kind", "search_interest",
+                                                                  "increase_raw", "source_file")} for r in ev["google_records"]]),
+                                 hide_index=True, width="stretch")
+                    w = ev["wikimedia"] or {}
+                    st.markdown(f"**Wikipedia** ({w.get('source')}, {w.get('traffic_filter')}): "
+                                f"{w.get('previous_7d_views')} → {w.get('latest_7d_views')} Aufrufe "
+                                f"({w.get('previous_period')} → {w.get('latest_period')})")
+                    st.markdown("**Ähnliche Archivrezepte**")
+                    for r in arch["closest_recipes"]:
+                        st.markdown(f"- „{r['title']}“ – {r['date_imported']} – {r['category']} (`{r['id']}`)")
+                    if ev["brave"].get("results"):
+                        st.markdown("**Aktueller Web-Kontext (Brave, letzter Monat)**")
+                        for b in ev["brave"]["results"][:5]:
+                            st.markdown(f"- [{b['title']}]({b['url']})")
+                    ba = ev["brand_assessment"]
+                    if ba:
+                        st.markdown("**Brand-Agent-Bewertung (0–5)**")
+                        st.dataframe(pd.DataFrame(
+                            [{"Bereich": grp, "Kriterium": k, "Wert": v.get("score"), "Begründung": v.get("reason")}
+                             for grp in ("brand", "feasibility") for k, v in ba.get(grp, {}).items()]
+                            + [{"Bereich": "archive", "Kriterium": "gap_fit", "Wert": ba.get("archive", {}).get("gap_fit", {}).get("score"),
+                                "Begründung": ba.get("archive", {}).get("gap_fit", {}).get("reason")}]),
+                            hide_index=True, width="stretch")
+
+        st.divider()
+        st.subheader("Redaktionelle Auswahl")
+        with st.form("selection"):
+            options = {f"{p['proposal_id']} · {p.get('title_de', p['topic'])}": p for p in proposals["proposals"]}
+            choice = st.radio("Vorschlag", list(options), index=None)
+            c1, c2, c3 = st.columns(3)
+            servings = c1.number_input("Portionen", 1, 8, 2, help="Zielgruppe: häufig 2-Personen-Haushalte")
+            max_minutes = c2.number_input("Max. Gesamtzeit (Min., 0 = egal)", 0, 240, 0, step=5)
+            editor = c3.text_input("Redakteur*in", "")
+            notes = st.text_area("Hinweise an den Rezept-Agenten (optional)", placeholder="z. B. eine Variante vegetarisch")
+            if st.form_submit_button("Auswahl bestätigen", type="primary"):
+                if not choice or not editor.strip():
+                    st.error("Bitte einen Vorschlag wählen und den Namen eintragen.")
+                else:
+                    new_id = runs.create_run(options[choice], {"servings": int(servings),
+                                                               "max_total_minutes": int(max_minutes) or None,
+                                                               "notes": notes.strip()},
+                                             editor.strip(), proposals["generated_at"])
+                    st.session_state.run_id = new_id
+                    st.success(f"Auswahl gespeichert ({new_id}). Weiter im Tab „Rezepte“.")
+                    st.rerun()
+
+
+# ---------- Recipes ----------
+def render_recipe(r: dict):
+    st.markdown(f"### {r.get('title')}")
+    if r.get("subtitle"):
+        st.caption(r["subtitle"])
+    st.markdown(r.get("introduction", ""))
+    t = r.get("times", {})
+    st.markdown(f"**{r.get('servings')} {r.get('servings_unit', 'Portionen')}** · Zubereitung {t.get('prep_minutes')} Min. · "
+                f"Garen {t.get('cook_minutes')} Min. · Gesamt {t.get('total_minutes')} Min.")
+    st.markdown("**Zutaten**")
+    group = object()
+    for i in r.get("ingredients", []):
+        if i.get("group") != group:
+            group = i.get("group")
+            if group:
+                st.markdown(f"*{group}*")
+        qty = f"{i['quantity']:g} " if isinstance(i.get("quantity"), (int, float)) else ""
+        note = f", {i['note']}" if i.get("note") else ""
+        opt = " (optional)" if i.get("optional") else ""
+        st.markdown(f"- {qty}{i.get('unit') or ''} {i.get('name')}{note}{opt}")
+    st.markdown("**Zubereitung**")
+    group = object()
+    for s in r.get("steps", []):
+        if s.get("group") != group:
+            group = s.get("group")
+            if group:
+                st.markdown(f"*{group}*")
+        temp = f" *({s['temperature']})*" if s.get("temperature") else ""
+        st.markdown(f"{s.get('number')}. {s.get('text')}{temp}")
+    if r.get("serving_tip"):
+        st.markdown(f"**Unser Tipp:** {r['serving_tip']}")
+    st.caption(f"Version {r['version']} · {r.get('origin')} · {r.get('model', '').split('/')[-1]}")
+
+
+with tab_recipes:
+    if not run_id:
+        st.info("Zuerst im Tab „Vorschläge & Auswahl“ einen Vorschlag auswählen.")
+    else:
+        sel = runs.selection(run_id)
+        st.markdown(f"**Auswahl:** {sel['proposal_id']} · {sel['proposal'].get('title_de')} — von {sel['editor']} "
+                    f"am {sel['selected_at'].replace('T', ' ')} · {sel['spec']['servings']} Portionen")
+        recipes = runs.latest_recipes(run_id)
+        if not recipes:
+            if st.button("Zwei Rezepte entwickeln (Rezept-Agent, ~2 Min.)", type="primary"):
+                from agents import recipe_agent
+                with st.spinner("Rezept-Agent (Kimi-K3.1-Pro) schreibt Rezept A und B …"):
+                    try:
+                        recipe_agent.create_recipes(run_id)
+                    except Exception as exc:
+                        st.error(f"Rezept-Agent fehlgeschlagen: {exc}")
+                st.rerun()
+        else:
+            cols = st.columns(2)
+            for col, (slot, r) in zip(cols, recipes.items()):
+                with col, st.container(border=True):
+                    st.markdown(f"<span style='color:{GREEN};font-weight:bold'>Rezept {slot}</span>", unsafe_allow_html=True)
+                    render_recipe(r)
+        with st.expander("Verlauf"):
+            for e in runs.state(run_id)["events"]:
+                st.markdown(f"- `{e['at']}` **{e['status']}** {e['detail']}")
+
+for tab, block in ((tab_review, "Block 4"), (tab_nutri, "Block 5"), (tab_cards, "Block 6")):
+    with tab:
+        st.info(f"Folgt in {block}.")

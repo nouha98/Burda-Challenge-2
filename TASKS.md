@@ -24,6 +24,7 @@ Tasks run **one after another**. Each block ends with something that works and i
 
 - [x] **Block 1 done:** `python -m agents.trend_agent` → `runs/trends.json` (150 Google records → 94 topics, live Wikimedia for all 94, LLM classification, 70 eligible / 24 excluded, ~80 s)
 - [x] **Block 2 done:** `python -m agents.proposal_agent` → `runs/proposals.json` (archive index of 5,000 recipes, Brave context, brand agent, 5 proposals with 2 recipe directions each, ~2 min 15 s)
+- [x] **Block 3 done:** `streamlit run app.py` → tabs Trends / Vorschläge & Auswahl / Rezepte; editor selection saved in `runs/<run_id>/`; recipe agent (Kimi, 2 parallel streamed calls, ~100 s) writes recipes A and B
 
 ## Timeline
 
