@@ -80,3 +80,18 @@ The BFL API runs the prompt upsampler automatically; it cannot be switched off v
   recipe). Keyword match counts stay lexical so repetition statistics remain comparable.
 - **Fallback:** without the vector index everything falls back to keyword matching (labelled in the output).
 - **Build time:** ~40–50 min once at current gateway speed (slower than the 3 s/32 texts measured in the first test).
+
+## Multi-agent loop (added 2026-11-20)
+
+1. **Retrieval** – per rising trend the best archive recipes (hybrid search + season scoring): top 12 trends × 3 candidates.
+2. **Selector agent** (GLM-5.3-Flash, editor role) – picks 5: different trends, max. 2 per archive category, a varied
+   mix of dish types. Code validates IDs and rules and fills gaps deterministically.
+3. **Review agent** (DeepSeek-V4.1-Flash) – per pick: trend match (strong/weak/none), season ok, keep/replace; set: variety.
+   `none` always means replace. Rejected picks are excluded and the selector gets the reasons; `retrieve_again`
+   widens the search for a trend (8 candidates). Max. 2 correction rounds, then open points are marked
+   „Redaktion prüfen“.
+4. **Image check** – FLUX image → vision model (gemma-4-31B-it, ~4 s; Qwen3-VL fallback) describes the image *without*
+   seeing the recipe → review model compares the description with ingredients and steps → on mismatch one
+   regeneration with concrete fix instructions; rejected images are kept (`*_rejected1.jpg`).
+5. Live test (`runs/revival_20261120_162027`): 5 trends / 5 categories, review accepted round 1, both images matched.
+   Check against a known faulty Tiramisu image: correctly "mismatch" (ladyfingers on top instead of cocoa-dusted cream).

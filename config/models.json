@@ -8,5 +8,9 @@
   "fallback": "tesseracted-labs-gmbh/zai-org/GLM-5.3",
   "max_tokens": 4000,
   "image": "flux-3-image-klein",
-  "revival_max_images": 2
+  "revival_max_images": 2,
+  "vision": "tesseracted-labs-gmbh/google/gemma-4-31B-it",
+  "vision_fallback": "tesseracted-labs-gmbh/Qwen/Qwen3-VL-235B-A22B-Instruct-FP8",
+  "embedding": "tesseracted-labs-gmbh/Qwen/Qwen3-Embedding-8B",
+  "revival_selector": "tesseracted-labs-gmbh/zai-org/GLM-5.3-Flash"
 }

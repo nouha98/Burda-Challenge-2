@@ -7,9 +7,11 @@ import json
 import sys
 from pathlib import Path
 
-from services import flux
+from services import flux, vision
 from services.gateway import chat_json
 from storage import runs
+
+MAX_REGENERATIONS = 1
 
 SYSTEM = """You are a food stylist and photographer briefing an image model for the German food magazine "das schmeckt!".
 You know exactly how German and regional ingredients look in real life, raw and after cooking.
@@ -96,11 +98,39 @@ def view_from_archive(r: dict) -> dict:
             "tip": " ".join(r.get("tips") or []) or "–"}
 
 
-def generate_image(view: dict, path, agent: str = "image_brief") -> dict:
+CHECK_SYSTEM = """Du bist Bildredakteurin bei "das schmeckt!". Du prüfst, ob ein KI-Rezeptbild zum Rezept passt.
+Grundlage ist eine neutrale Bildbeschreibung (die Bildbeschreibung kennt das Rezept nicht). Antworte nur mit JSON."""
+
+CHECK_USER = """Rezept: {title}
+Zutaten: {ingredients}
+Zubereitung: {steps}
+
+Bildbeschreibung (aus dem Bild erzeugt):
+{description}
+
+Prüfe streng, ob das Bild das fertige Gericht so zeigt, wie es nach diesem Rezept aussieht:
+- fehlen wichtige sichtbare Komponenten?
+- sind Komponenten falsch (andere Zutat, falscher Garzustand, falsche Schnittform, falsche Schichtung/Anordnung)?
+- sind Zutaten zu sehen, die nicht im Rezept stehen?
+- Bildfehler, Text, Personen?
+Kleinigkeiten (Geschirr, Hintergrund) sind kein Grund für "mismatch".
+
+Format: {{"verdict": "match|mismatch", "missing": ["..."], "wrong": ["..."], "extra": ["..."],
+          "summary_de": "1 Satz", "fix_instructions_en": "concrete instructions for the next image prompt, or empty"}}"""
+
+CORRECTION = """
+
+The previous image for this recipe was rejected by the photo editor. Fix these points in the new prompt:
+{fix}"""
+
+
+def generate_image(view: dict, path, agent: str = "image_brief", corrections: str | None = None) -> dict:
     """Brief (recipe model) -> FLUX -> image at `path` plus a .json with prompt and provenance."""
-    brief, meta = chat_json("recipe_author", SYSTEM, USER_TEMPLATE.format(
-        title=view["title"], servings=view["servings"], ingredients=view["ingredients"], steps=view["steps"],
-        tip=view["tip"]), max_tokens=8000, agent=agent)
+    user = USER_TEMPLATE.format(title=view["title"], servings=view["servings"], ingredients=view["ingredients"],
+                                steps=view["steps"], tip=view["tip"])
+    if corrections:
+        user += CORRECTION.format(fix=corrections)
+    brief, meta = chat_json("recipe_author", SYSTEM, user, max_tokens=8000, agent=agent)
     job = flux.submit(brief["prompt"])
     # Save the job before polling so an interrupted generation can be resumed instead of paid for twice
     runs.write_json(path.with_suffix(".pending.json"), {"job": job, "prompt": brief["prompt"], "model": flux.MODEL})
@@ -111,6 +141,47 @@ def generate_image(view: dict, path, agent: str = "image_brief") -> dict:
             "cost_credits": result.get("cost_credits"), "seconds": result["seconds"], "prompt": brief["prompt"],
             "visible_ingredients": brief.get("visible_ingredients"), "prompt_model": meta["model"],
             "created_at": dt.datetime.now().isoformat(timespec="seconds")}
+    runs.write_json(path.with_suffix(".json"), info)
+    return info
+
+
+def validate_image(path, view: dict) -> dict:
+    """Image -> text (vision model, recipe-blind) -> comparison with the recipe (review model)."""
+    desc = vision.describe_image(path)
+    data, meta = chat_json("reviewer", CHECK_SYSTEM, CHECK_USER.format(
+        title=view["title"], ingredients=view["ingredients"], steps=view["steps"][:1500],
+        description=desc["description"]), max_tokens=6000, agent="image_check")
+    return {"verdict": data.get("verdict", "mismatch"), "missing": data.get("missing", []),
+            "wrong": data.get("wrong", []), "extra": data.get("extra", []), "summary_de": data.get("summary_de"),
+            "fix_instructions_en": data.get("fix_instructions_en") or "",
+            "image_description": desc["description"], "vision_model": desc["model"], "check_model": meta["model"]}
+
+
+def generate_validated(view: dict, path, max_regenerations: int = MAX_REGENERATIONS, agent: str = "image_brief",
+                       progress=print) -> dict:
+    """Generate, check against the recipe, regenerate with concrete fixes if it does not match (bounded)."""
+    attempts, corrections = [], None
+    for attempt in range(max_regenerations + 1):
+        info = generate_image(view, path, agent=agent, corrections=corrections)
+        try:
+            check = validate_image(path, view)
+        except Exception as exc:  # validation unavailable: keep the image, say so
+            check = {"verdict": "unchecked", "summary_de": f"Bildprüfung nicht verfügbar: {str(exc)[:150]}"}
+        attempts.append({"attempt": attempt + 1, "prompt": info["prompt"], "seed": info.get("seed"),
+                         "cost_credits": info.get("cost_credits"), "check": check})
+        progress(f"Bildprüfung {view['title'][:40]} – Versuch {attempt + 1}: {check['verdict']}")
+        if check["verdict"] != "mismatch" or attempt == max_regenerations:
+            break
+        rejected = path.with_name(f"{path.stem}_rejected{attempt + 1}{path.suffix}")
+        path.replace(rejected)
+        attempts[-1]["rejected_file"] = rejected.name
+        corrections = "; ".join(x for x in [check.get("fix_instructions_en"),
+                                            "Missing: " + ", ".join(check.get("missing") or []) if check.get("missing") else "",
+                                            "Wrong: " + ", ".join(check.get("wrong") or []) if check.get("wrong") else "",
+                                            "Remove: " + ", ".join(check.get("extra") or []) if check.get("extra") else ""] if x)
+    final = attempts[-1]["check"]["verdict"]
+    info.update({"validation": final, "attempts": attempts,
+                 "status": {"match": "ok", "unchecked": "unchecked"}.get(final, "needs_editor_review")})
     runs.write_json(path.with_suffix(".json"), info)
     return info
 

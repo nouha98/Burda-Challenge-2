@@ -448,8 +448,10 @@ with tab_cards:
 with tab_revival:
     from agents import revival_agent
     st.markdown("**Archiv-Revival:** Welche vorhandenen *das schmeckt!*-Rezepte passen zu den aktuell steigenden Trends "
-                "und zur Saison- bzw. Feiertagsstimmung? Hybride Suche (Embeddings + Titel/Zutaten), Top 5 aus dem Archiv – "
-                "je ein Rezept pro Trend, mit neuem KI-Bild und A4-Karte (Rezeptinhalt unverändert).")
+                "und zur Saison- bzw. Feiertagsstimmung? **Ablauf:** Retrieval je Trend (hybride Suche) → Auswahl-Agent wählt 5 "
+                "abwechslungsreiche Rezepte → Review-Agent prüft Trend, Saison und Vielfalt (bei Bedarf neue Auswahl oder "
+                "breitere Suche, max. 2 Runden) → KI-Bild → Bildprüfung (Bild → Text → Abgleich mit dem Rezept, "
+                "bei Abweichung 1 Neugenerierung) → A4-Karte (Rezeptinhalt unverändert).")
     if not trends:
         st.info("Zuerst Trends recherchieren (Seitenleiste).")
     else:
@@ -462,7 +464,7 @@ with tab_revival:
                                    revival_agent.MAX_IMAGES)
         if c1.button("Top 5 aus dem Archiv holen", type="primary"):
             box = st.empty()
-            with st.spinner("Archiv durchsuchen, bewerten" + (f", {n_images} Bilder erzeugen" if n_images else "") + " …"):
+            with st.spinner("Agenten arbeiten (Auswahl, Review" + (f", {n_images} Bilder mit Prüfung" if n_images else "") + ") …"):
                 name = revival_agent.run(images=n_images > 0, max_images=int(n_images), progress=lambda m: box.info(m))
             st.session_state.revival = name
             st.rerun()
@@ -473,6 +475,29 @@ with tab_revival:
             data = runs.read_json(runs.RUNS / current / "revival.json")
             st.caption(f"Suche: {data['method'].get('retrieval', 'lexical')} · {data['method']['score']} · "
                        f"{data['method']['trend_relevance']} · {data['method']['diversity']}")
+            if data.get("candidate_pool"):
+                with st.expander(f"Kandidaten je Trend ({len(data['candidate_pool'])} Trends)"):
+                    for tid, e in data["candidate_pool"].items():
+                        st.markdown(f"**{e['trend']}**" + (" · *breiter gesucht*" if e.get("widened") else "")
+                                    + (f" – {e['description']}" if e.get("description") else ""))
+                        for c in e["candidates"]:
+                            st.markdown(f"- {c['title']} · {c['category']} · {c['match']} · Score {c['score']:.0f}")
+            if data.get("rounds"):
+                with st.expander(f"Auswahl & Review – {len(data['rounds'])} Runde(n)", expanded=len(data["rounds"]) > 1):
+                    for rnd in data["rounds"]:
+                        rv = rnd["review"]
+                        st.markdown(f"**Runde {rnd['round']}** – Vielfalt: {'✅' if rv.get('variety_ok') else '❌'} "
+                                    f"{rv.get('variety_reason_de') or ''}")
+                        verdicts = {v["recipe_id"]: v for v in rv.get("items", [])}
+                        for sel_item in rnd["selection"]:
+                            v = verdicts.get(sel_item["recipe_id"], {})
+                            icon = "✅" if v.get("verdict", "keep") == "keep" else "↩️"
+                            st.markdown(f"- {icon} **{sel_item['title']}** ({sel_item['trend']}, {sel_item['category']}) – "
+                                        f"Auswahl: {sel_item.get('why_de') or '–'} · Review: {v.get('trend_match', '?')}, "
+                                        f"{v.get('reason_de') or ''}")
+                        if rnd.get("action"):
+                            st.caption(f"→ ersetzt: {', '.join(rnd['action']['replaced']) or '–'} · breiter gesucht: "
+                                       f"{', '.join(rnd['action']['retrieve_again']) or '–'}")
             for item in data["items"]:
                 with st.container(border=True):
                     img_col, txt_col = st.columns([1, 3])
@@ -481,7 +506,24 @@ with tab_revival:
                         img_col.image(str(img), caption="KI-generierte Illustration")
                     else:
                         img_col.caption(item.get("image_error") or "Kein Bild")
-                    txt_col.markdown(f"**{item['rank']}. {item['title']}** · {item['score']:.1f} Punkte")
+                    status = {"approved": "✅ vom Review bestätigt", "needs_editor_review": "⚠️ Redaktion prüfen"}.get(item.get("status"), "")
+                    txt_col.markdown(f"**{item['rank']}. {item['title']}** · {item['score']:.1f} Punkte · {status}")
+                    if item.get("why_de"):
+                        txt_col.caption(f"Auswahl: {item['why_de']} · Review: {(item.get('review') or {}).get('reason_de') or '–'}")
+                    chk = item.get("image_check")
+                    if chk:
+                        last = chk["attempts"][-1]
+                        txt_col.caption(f"Bildprüfung: {'✅ passt' if chk['status'] == 'ok' else '⚠️ ' + chk['status']} nach "
+                                        f"{len(chk['attempts'])} Versuch(en) – {last.get('summary_de') or ''}")
+                        with txt_col.expander("Bildprüfung im Detail"):
+                            for a in chk["attempts"]:
+                                st.markdown(f"**Versuch {a['attempt']}: {a['verdict']}** – {a.get('summary_de') or ''}")
+                                for key, label in (("missing", "fehlt"), ("wrong", "falsch"), ("extra", "zu viel")):
+                                    if a.get(key):
+                                        st.markdown(f"- {label}: {', '.join(a[key])}")
+                                st.caption("Bildbeschreibung (Vision-Modell): " + (a.get("image_description") or "–"))
+                                if a.get("rejected_file") and (runs.RUNS / current / a["rejected_file"]).exists():
+                                    st.image(str(runs.RUNS / current / a["rejected_file"]), caption="verworfenes Bild", width=220)
                     txt_col.markdown(
                         f"Trend: **{item['trend']}** (T {item['trend_T']:.0f}, Treffer: "
                         f"{ {'title': 'Titel', 'ingredient': 'Zutaten', 'semantic': 'inhaltlich ähnlich (Embedding)'}.get(item['match'], item['match']) }"
