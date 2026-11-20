@@ -30,9 +30,11 @@ def _headers() -> dict:
     return {"x-key": key, "accept": "application/json"}
 
 
-def submit(prompt: str, width: int = 1024, height: int = 1024) -> dict:
-    resp = requests.post(f"{API}/{MODEL}", headers=_headers(), timeout=30,
-                         json={"prompt": prompt, "width": width, "height": height, "output_format": "jpeg"})
+def submit(prompt: str, width: int = 1024, height: int = 1024, output_format: str | None = "jpeg") -> dict:
+    payload = {"prompt": prompt, "width": width, "height": height}
+    if output_format is not None:
+        payload["output_format"] = output_format
+    resp = requests.post(f"{API}/{MODEL}", headers=_headers(), timeout=30, json=payload)
     if resp.status_code != 200:
         raise FluxError(f"submit HTTP {resp.status_code}: {resp.text[:300]}")
     return resp.json()

@@ -16,7 +16,7 @@ MAX_REGENERATIONS = 1
 SYSTEM = """You are a food stylist and photographer briefing an image model for the German food magazine "das schmeckt!".
 You know exactly how German and regional ingredients look in real life, raw and after cooking.
 The image model does NOT reliably know German or regional food names, so you describe appearance instead of naming.
-The magazine's best-selling covers define the photo style – follow this style guide:
+The magazine's best-selling covers define the photo style – follow this style guide without changing the recipe:
 
 """ + (Path(__file__).resolve().parents[1] / "config" / "image_style.md").read_text(encoding="utf-8") + """
 
@@ -26,76 +26,156 @@ USER_TEMPLATE = """Brief a photo of this finished recipe as it really looks when
 
 Recipe (German): {title}
 Servings: {servings}
-Ingredients: {ingredients}
+Ingredients with recipe quantities and deterministic per-serving amounts where known: {ingredients}
 All preparation steps: {steps}
 Serving tip: {tip}
 
-Step 1 – for every ingredient that is VISIBLE in the finished dish, describe its real-life appearance in the state the
-steps leave it in (raw, braised, roasted, mashed, melted …): colour (precise, e.g. "dark olive green", "greyish brown"),
-surface and texture, shape, cut size in cm, how many pieces per portion, and what typically distinguishes it from
-similar-looking foods (e.g. a coarse grain sausage is NOT a smooth frankfurter; smoked cured pork loin is NOT boiled ham).
-Ingredients dissolved in the sauce or used only for seasoning are not visible – leave them out.
+Work in this order so photography never changes the meaning of the recipe.
 
-Step 2 – write the image prompt.
-PRIORITY: realism comes before appeal. Appeal must never change how an ingredient really looks. For every component,
-reuse the colour, texture and shape from your step-1 description word for word (e.g. braised kale stays very dark,
-almost black-green and soft – never light green; a sausage keeps its real casing colour). Use the most specific
-English food term or a plain description; never substitute a different vegetable or meat (kale is not "cabbage").
-Consistency must match the steps (a stew thickened with crushed potatoes is thick and spoonable, not a soup).
-- Start with the camera view and the vessel (e.g. "High-angle view of … in a white gratin dish"), then each visible
-  component using your appearance descriptions – no German food names, no brand names.
-- Where texture identifies a food, show it (e.g. one sausage cut open to reveal its interior).
-- Style = the top covers in the style guide: hearty and generous, golden-brown roasted/seared/crisp surfaces where the
-  steps produce them, visible sauce, every component recognisable, warm palette (golden, brown, cream, red) with green
-  only as an accent where the recipe allows. Achieve appeal through styling, not adjectives: freshly served and hot
-  (a little steam where it is hot), natural sheen from fat or sauce, the most attractive components on top facing the
-  camera, a generous but realistic amount for {servings}. Sauce as thick or thin as the steps make it; no garnish and
-  nothing that is not in the recipe.
-- Vessel: show the food in the vessel it is cooked or served in, as on the top covers – roasting dish, gratin or baking
-  dish, frying pan, enamel or cast-iron pot, or a large white serving bowl/platter – with a serving spoon, fork or cake
-  server resting in the food. Everyday German home tableware, ingredients as in German supermarkets. Viewers are
-  German home cooks (mostly women around 56, two-person households).
-- Framing: high camera angle about 60–75° (or top-down if the dish is flat), the food fills most of the square frame
-  and the vessel's edges may be cut off by the frame. Background calm, light or warm neutral (light wood, white, pale
-  grey or soft grey-blue); at most a linen napkin edge or a small side bowl partly in frame. Bright soft natural
-  daylight, crisp detail, true-to-life colours, professional magazine cover food photo.
-- Avoid what the low covers show: large green areas, strongly coloured backgrounds (purple, turquoise, pink, red),
-  dark moody scenes, pale unbrowned food, busy props.
-- Avoid words that make images look artificial: perfect, flawless, plastic, 8k, hyperrealistic, CGI, render.
-- No text, no logos, no hands, no people.
+Step 1 – define the finished recipe result.
+Read the title, cooking steps and final serving step first. State in one English sentence what complete food the viewer
+must see at the end: its main components, their cooked states and whether the image shows one plated serving or a whole
+family-style dish. Do not begin with camera settings, table decorations or an attractive generic dish name.
+
+Step 2 – describe the visible ingredients and their proportions.
+For every visually distinct ingredient, give its real-life appearance after following the steps: exact colour, surface,
+texture, shape and cut size in cm when explicitly stated. Distinguish skin-on wedges from cubes, lengthwise carrot pieces
+from slices, and braised leafy greens from roasted crisp leaves. Do not invent piece counts, cut sizes or preparation details.
+Use the supplied total and per-serving quantities as authoritative anchors for visual proportions; all division is already
+done in code where source quantities and servings are numeric. Give larger recipe quantities more visual presence and keep
+accompaniments at their actual portion size. Translate quantities through the method: leafy greens reduce when roasted or
+braised, while legumes and grains may swell. Recipe quantities are starting amounts, not cooked weights, and must never appear
+as text in the image. Never invent cooked weights or make all components equal merely for symmetry. Ingredients dissolved in
+a sauce are texture within that sauce, not extra components. Favour vibrant, appetizing but true-to-life ingredient colours:
+rich cooked greens, golden starches and rosy or browned meat where the method creates them. Do not mute or replace a recipe's
+colours merely to fit a generic warm palette.
+
+Step 3 – establish the recipe's final plating.
+Extract the base, toppings and any separately served accompaniment from the last steps, including vessel and layer order.
+For {servings} total servings, show one plated serving only when the recipe plates individual portions. Preserve every
+food's cut and cooked state from step 2 while describing exactly where it sits. Styling may create natural asymmetry,
+visible browned surfaces and a modest clean plate rim, but may not reverse layers, move sauce onto the food or add garnish.
+Every sauce has the consistency and service format produced by the recipe.
+
+Step 4 – write the prompt in this exact information order: finished recipe result → ingredients with proportions and
+cooked appearance → final plating → photographic light, composition and setting. The first three parts carry the content;
+the photographic part only records them clearly. Start with "Close-up of". Use the branch's cover style only after recipe
+fidelity is established: hearty generous food, a suitable cooking or serving vessel from the recipe, clear components, a high
+camera angle around 60–75 degrees or top-down when appropriate, bright soft natural daylight, crisp detail and true-to-life
+colours. Let the food fill most of the square frame against a calm light or warm-neutral background. Use realistic steam,
+sheen, roasted or seared surfaces only where the recipe supports them. Everyday German tableware and restrained props are
+secondary to the food. Avoid artificial quality tags such as perfect, hyperrealistic, 8k, CGI or render. Keep unsupported
+food and props out by describing only the recipe components and a clean unmarked setting. Returned image text, logos, hands
+and people are unwanted.
+
+The returned prompt is a positive full-scene caption for FLUX 3 Klein, which performs its own prompt upsampling. Use a
+caption rather than a negative-exclusion list; describe exactly what occupies the finished photograph.
 
 Format:
-{{"visible_ingredients": [{{"name_de": "...", "real_life_appearance": "..."}}],
-  "prompt": "English prompt, max. 140 words"}}"""
+{{"recipe_result": "one sentence describing the finished dish and servings shown",
+  "visible_ingredients": [{{"name_de": "...", "recipe_quantity_and_visual_proportion": "supplied quantity plus cooked-volume explanation", "real_life_appearance": "..."}}],
+  "final_plating_from_recipe": "base, toppings and separately served accompaniments with reference to the relevant step",
+  "prompt": "English positive full-scene caption ordered as recipe result, ingredients, final plating, then photography; max. 220 words"}}"""
 
 
 def image_path(run_id: str, recipe: dict):
     return runs.run_dir(run_id) / f"image_{recipe['slot']}_v{recipe['version']}.jpg"
 
 
+def _format_quantity(value) -> str:
+    if isinstance(value, float):
+        return f"{value:.3f}".rstrip("0").rstrip(".")
+    return str(value)
+
+
+def _can_divide(servings, quantity) -> bool:
+    return (isinstance(servings, (int, float)) and not isinstance(servings, bool) and servings > 0
+            and isinstance(quantity, (int, float)) and not isinstance(quantity, bool))
+
+
+def ingredient_context(recipe: dict) -> str:
+    """Preserve display quantities and calculate one-serving anchors in code for visual proportions."""
+    servings = recipe.get("servings")
+    lines = []
+    for ingredient in recipe.get("ingredients") or []:
+        name = ingredient.get("name") or "Unbenannte Zutat"
+        note = f' ({ingredient["note"]})' if ingredient.get("note") else ""
+        quantity = ingredient.get("quantity")
+        unit = ingredient.get("unit") or ""
+        if quantity is None:
+            lines.append(f"{name}{note}: quantity not specified")
+            continue
+        total = f"{_format_quantity(quantity)} {unit}".strip()
+        if _can_divide(servings, quantity):
+            portion = f"{_format_quantity(quantity / servings)} {unit}".strip()
+            lines.append(f"{name}{note}: {total} total; {portion} per serving")
+        else:
+            lines.append(f"{name}{note}: {total} total; per-serving quantity unavailable")
+    return "; ".join(lines)
+
+
+def archive_ingredient_context(recipe: dict) -> str:
+    """Use the same deterministic scaling for archive XML amounts; ranges and unknown servings stay explicit."""
+    servings = (recipe.get("servings") or {}).get("amount")
+    lines = []
+    for group in recipe.get("ingredient_groups") or []:
+        for item in group.get("items") or []:
+            label = " ".join(str(value).strip() for value in
+                             (item.get("prefix"), item.get("name"), item.get("suffix"))
+                             if value is not None and str(value).strip()) or "Unbenannte Zutat"
+            amount, maximum, unit = item.get("amount"), item.get("amount_max"), item.get("unit") or ""
+            if amount is None:
+                lines.append(f"{label}: quantity not specified")
+                continue
+            amount_text = _format_quantity(amount)
+            if maximum is not None:
+                amount_text += f"–{_format_quantity(maximum)}"
+            total = f"{amount_text} {unit}".strip()
+            if maximum is None and _can_divide(servings, amount):
+                portion = f"{_format_quantity(amount / servings)} {unit}".strip()
+                lines.append(f"{label}: {total} total; {portion} per serving")
+            else:
+                lines.append(f"{label}: {total} total; per-serving quantity unavailable")
+    return "; ".join(lines)
+
+
+def recipe_instruction_evidence(recipe: dict) -> list[dict]:
+    return [{"number": step.get("number"), "instruction": step.get("text") or "",
+             "duration_minutes": step.get("duration_minutes"), "temperature": step.get("temperature")}
+            for step in recipe.get("steps") or []]
+
+
+def _step_texts(recipe: dict) -> list[str]:
+    return [step.get("text") or "" for step in recipe.get("steps") or []]
+
+
 def view_from_generated(recipe: dict) -> dict:
     """Common text view of a generated recipe for the image brief."""
+    instructions = recipe_instruction_evidence(recipe)
     return {
         "title": recipe.get("title"), "servings": recipe.get("servings"),
-        "ingredients": ", ".join(
-            f"{i.get('quantity') if i.get('quantity') is not None else ''} {i.get('unit') or ''} {i.get('name')}".strip()
-            for i in recipe.get("ingredients") or []),
+        "ingredients": ingredient_context(recipe),
         "steps": " ".join(f"{s.get('number')}. {s.get('text', '')}" for s in recipe.get("steps") or []),
         "tip": recipe.get("serving_tip"),
+        "recipe_instructions": instructions,
+        "final_plating_instruction": instructions[-1]["instruction"] if instructions else None,
     }
 
 
-def view_from_archive(r: dict) -> dict:
-    """Common text view of an archive XML recipe (values as stored)."""
-    items = []
-    for g in r.get("ingredient_groups") or []:
-        for i in g["items"]:
-            items.append(" ".join(str(x) for x in [i.get("amount") if i.get("amount") is not None else "", i.get("unit") or "",
-                                                   i.get("prefix") or "", i.get("name") or ""] if x != ""))
-    return {"title": r.get("title"), "servings": (r.get("servings") or {}).get("amount") or 4,
-            "ingredients": ", ".join(items),
-            "steps": " ".join(f"{n}. {s['text']}" for n, s in enumerate(r.get("steps") or [], start=1)),
-            "tip": " ".join(r.get("tips") or []) or "–"}
+def view_from_archive(recipe: dict) -> dict:
+    """Common text view of an archive XML recipe, retaining quantities and complete instructions."""
+    steps = _step_texts(recipe)
+    instructions = [{"number": number, "instruction": text, "duration_minutes": None, "temperature": None}
+                    for number, text in enumerate(steps, start=1)]
+    return {
+        "title": recipe.get("title"),
+        "servings": (recipe.get("servings") or {}).get("amount") or 4,
+        "ingredients": archive_ingredient_context(recipe),
+        "steps": " ".join(f"{number}. {text}" for number, text in enumerate(steps, start=1)),
+        "tip": " ".join(recipe.get("tips") or []) or "–",
+        "recipe_instructions": instructions,
+        "final_plating_instruction": steps[-1] if steps else None,
+    }
 
 
 CHECK_SYSTEM = """Du bist Bildredakteurin bei "das schmeckt!". Du prüfst, ob ein KI-Rezeptbild zum Rezept passt.
@@ -120,26 +200,30 @@ Format: {{"verdict": "match|mismatch", "missing": ["..."], "wrong": ["..."], "ex
 
 CORRECTION = """
 
-The previous image for this recipe was rejected by the photo editor. Fix these points in the new prompt:
+The previous image for this recipe was rejected by the photo editor. Fix these points in the new prompt without changing
+recipe quantities, cooked states, cuts or final plating:
 {fix}"""
 
 
 def generate_image(view: dict, path, agent: str = "image_brief", corrections: str | None = None) -> dict:
-    """Brief (recipe model) -> FLUX -> image at `path` plus a .json with prompt and provenance."""
+    """Brief (recipe model) -> configured FLUX model -> image plus prompt and recipe provenance."""
     user = USER_TEMPLATE.format(title=view["title"], servings=view["servings"], ingredients=view["ingredients"],
                                 steps=view["steps"], tip=view["tip"])
     if corrections:
         user += CORRECTION.format(fix=corrections)
     brief, meta = chat_json("recipe_author", SYSTEM, user, max_tokens=8000, agent=agent)
     job = flux.submit(brief["prompt"])
-    # Save the job before polling so an interrupted generation can be resumed instead of paid for twice
+    # Save the job before polling so an interrupted generation can be resumed instead of paid for twice.
     runs.write_json(path.with_suffix(".pending.json"), {"job": job, "prompt": brief["prompt"], "model": flux.MODEL})
     result = flux.wait(job)
     path.write_bytes(result["bytes"])
     path.with_suffix(".pending.json").unlink(missing_ok=True)
     info = {"file": path.name, "image_model": result["model"], "job_id": result["job_id"], "seed": result.get("seed"),
             "cost_credits": result.get("cost_credits"), "seconds": result["seconds"], "prompt": brief["prompt"],
-            "visible_ingredients": brief.get("visible_ingredients"), "prompt_model": meta["model"],
+            "visible_ingredients": brief.get("visible_ingredients"), "recipe_result": brief.get("recipe_result"),
+            "ingredient_context": view["ingredients"], "final_plating_from_recipe": brief.get("final_plating_from_recipe"),
+            "recipe_instructions": view.get("recipe_instructions") or [],
+            "final_plating_instruction": view.get("final_plating_instruction"), "prompt_model": meta["model"],
             "created_at": dt.datetime.now().isoformat(timespec="seconds")}
     runs.write_json(path.with_suffix(".json"), info)
     return info
