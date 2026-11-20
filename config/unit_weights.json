@@ -1,0 +1,48 @@
+{
+  "_doc": "Documented conversion rules for the nutrition calculation. Weights are assumed edible weights; values are kitchen conventions, not measurements. Matched by keyword in the ingredient name (first match wins).",
+  "spoon_ml": {"EL": 15, "TL": 5},
+  "spoon_grams": [
+    {"keywords": ["öl"], "EL": 13.8, "TL": 4.6, "rule": "15 ml bzw. 5 ml × Dichte 0,92 g/ml (Speiseöl)"},
+    {"keywords": ["butterschmalz", "schmalz"], "EL": 13, "TL": 4, "rule": "Streichfett, gestrichen"},
+    {"keywords": ["butter", "margarine"], "EL": 15, "TL": 5, "rule": "Butter, gestrichen"},
+    {"keywords": ["mehl", "stärke", "speisestärke", "grieß", "haferflocken", "semmelbrösel", "paniermehl"], "EL": 10, "TL": 3, "rule": "Pulver/Flocken, gestrichen"},
+    {"keywords": ["zucker", "salz"], "EL": 15, "TL": 5, "rule": "Kristallzucker/Salz, gestrichen"},
+    {"keywords": ["honig", "sirup", "dicksaft", "senf", "tomatenmark", "meerrettich", "schmand", "joghurt", "quark", "crème fraîche", "creme fraiche", "frischkäse", "mayonnaise", "pesto", "marmelade", "konfitüre", "gelee"], "EL": 15, "TL": 5, "rule": "Paste/Creme, gestrichen"},
+    {"keywords": ["pulver", "paprika", "zimt", "kreuzkümmel", "curry", "kurkuma", "piment", "muskat", "oregano", "thymian", "majoran", "kümmel", "nelken", "chili", "gewürz", "pfeffer"], "EL": 6, "TL": 2, "rule": "Gewürz gemahlen/getrocknet"},
+    {"keywords": ["essig", "saft", "brühe", "wein", "milch", "sahne", "wasser", "sauce", "soße", "sojasoße"], "ml_density": 1.0, "rule": "Flüssigkeit, Dichte 1,0 g/ml angenommen (falls Datenbank keine Dichte hat)"}
+  ],
+  "piece_grams": [
+    {"keywords": ["knoblauchzehe", "zehe"], "g": 4},
+    {"keywords": ["lauchzwiebel", "frühlingszwiebel"], "g": 15},
+    {"keywords": ["schalotte"], "g": 30},
+    {"keywords": ["zwiebel"], "g": 80},
+    {"keywords": ["kartoffel"], "g": 100},
+    {"keywords": ["möhre", "karotte"], "g": 80},
+    {"keywords": ["apfel"], "g": 150},
+    {"keywords": ["birne"], "g": 150},
+    {"keywords": ["zitrone", "limette"], "g": 100},
+    {"keywords": ["orange"], "g": 180},
+    {"keywords": ["tomate"], "g": 80},
+    {"keywords": ["paprikaschote", "paprika"], "g": 150},
+    {"keywords": ["ei"], "g": 55, "exact": true},
+    {"keywords": ["eier", "eigelb"], "g": 55},
+    {"keywords": ["lorbeerblatt", "lorbeer"], "g": 0.2},
+    {"keywords": ["pinkel"], "g": 125},
+    {"keywords": ["mettwurst", "mettenden", "würstchen", "wurst"], "g": 100},
+    {"keywords": ["chilischote", "chili"], "g": 10},
+    {"keywords": ["zucchini"], "g": 200},
+    {"keywords": ["aubergine"], "g": 250},
+    {"keywords": ["gurke"], "g": 400},
+    {"keywords": ["avocado"], "g": 150},
+    {"keywords": ["banane"], "g": 120}
+  ],
+  "other_units": {
+    "Prise": {"g": 0.5, "rule": "1 Prise ≈ 0,5 g"},
+    "Bund": {"g": 30, "rule": "1 Bund Kräuter ≈ 30 g", "overrides": {"lauchzwiebel": 100, "frühlingszwiebel": 100, "radieschen": 150, "suppengrün": 300}},
+    "Zweig": {"g": 1, "rule": "1 Zweig Kräuter ≈ 1 g"},
+    "Stiel": {"g": 2, "rule": "1 Stiel Kräuter ≈ 2 g"},
+    "Handvoll": {"g": 20, "rule": "1 Handvoll Blätter ≈ 20 g"},
+    "Dose": {"g": 400, "rule": "1 Dose ≈ 400 g Inhalt (Abtropfgewicht nicht angegeben)"},
+    "Scheibe": {"g": 25, "rule": "1 Scheibe ≈ 25 g"}
+  }
+}

@@ -26,6 +26,7 @@ Tasks run **one after another**. Each block ends with something that works and i
 - [x] **Block 2 done:** `python -m agents.proposal_agent` → `runs/proposals.json` (archive index of 5,000 recipes, Brave context, brand agent, 5 proposals with 2 recipe directions each, ~2 min 15 s)
 - [x] **Block 3 done:** `streamlit run app.py` → tabs Trends / Vorschläge & Auswahl / Rezepte; editor selection saved in `runs/<run_id>/`; recipe agent (Kimi, 2 parallel streamed calls, ~100 s) writes recipes A and B
 - [x] **Block 4 done:** Review tab → code checks + DeepSeek review (8 criteria + culinary plausibility, 100-point score) → recipe agent revises, max. 2 revisions; minor findings get one polishing revision; changes v1 → v2 shown in the app (~1–3 min)
+- [x] **Block 5 done:** Nährwerte tab → ingredients matched to real Swiss database IDs (exact / Swiss name / closest substitute, with confidence), grams via `config/unit_weights.json` rules, per-serving kcal/kJ/fat/carbs/protein computed in code, unresolved items listed (~15–20 s)
 
 ## Timeline
 

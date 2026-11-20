@@ -320,6 +320,63 @@ with tab_review:
                         for line in recipe_changes(old, new) or ["Keine inhaltlichen Änderungen."]:
                             st.markdown("- " + line)
 
-for tab, block in ((tab_nutri, "Block 5"), (tab_cards, "Block 6")):
-    with tab:
-        st.info(f"Folgt in {block}.")
+
+# ---------- Nutrition ----------
+MATCH_LABEL = {"exact": "exakt", "equivalent": "gleiches Lebensmittel", "closest": "nächster Ersatz", "unmatched": "nicht zugeordnet"}
+
+with tab_nutri:
+    recipes = runs.latest_recipes(run_id) if run_id else {}
+    if not recipes:
+        st.info("Zuerst zwei Rezepte entwickeln (Tab „Rezepte“).")
+    else:
+        from agents.nutrition_agent import latest_nutrition
+        st.markdown("**Ablauf:** Zutat → Eintrag der *Schweizer Nährwertdatenbank V 7.1* (exakt → Schweizer Bezeichnung → "
+                    "nächster Ersatz, Auswahl nur aus echten Datenbank-IDs durch den Nährwert-Agenten) → Menge in Gramm nach "
+                    "dokumentierter Regel → Berechnung im Code: Σ (Gramm × Wert pro 100 g) ÷ Portionen.")
+        current = {s: latest_nutrition(run_id, r) for s, r in recipes.items()}
+        not_final = [s for s, r in recipes.items() if r.get("status") not in ("approved", "needs_editor_review")]
+        if not_final:
+            st.warning(f"Rezept {', '.join(not_final)} ist noch nicht durch das Review gelaufen.")
+        stale = [s for s, n in current.items() if n is None]
+        if st.button("Nährwerte berechnen (~20 Sek.)" if stale else "Nährwerte neu berechnen",
+                     type="primary" if stale else "secondary"):
+            from agents import nutrition_agent
+            with st.spinner("Nährwert-Agent ordnet Zutaten zu …"):
+                try:
+                    nutrition_agent.run_nutrition(run_id)
+                except Exception as exc:
+                    st.error(f"Nährwertberechnung fehlgeschlagen: {exc}")
+            st.rerun()
+        cols = st.columns(2)
+        for col, (slot, r) in zip(cols, recipes.items()):
+            n = current[slot]
+            with col:
+                st.markdown(f"### Rezept {slot}: {r.get('title')}")
+                if not n:
+                    st.info(f"Für Version {r['version']} noch nicht berechnet.")
+                    continue
+                ps = n["per_serving"]
+                st.markdown(f"**Pro Portion** ({n['servings']} Portionen, Version {n['recipe_version']})")
+                m = st.columns(5)
+                m[0].metric("Energie", f"{ps['kcal']} kcal")
+                m[1].metric("Energie", f"{ps['kj']} kJ")
+                m[2].metric("Fett", f"{ps['fat_g']:.0f} g")
+                m[3].metric("Kohlenhydr.", f"{ps['carbs_g']:.0f} g")
+                m[4].metric("Eiweiß", f"{ps['protein_g']:.0f} g")
+                cov = n["weight_coverage"]
+                st.markdown(("✅ Vollständig" if n["complete"] else "⚠️ Unvollständig – wesentliche Zutat ohne Zuordnung")
+                            + (f" · Gewichtsabdeckung {cov:.0%}" if cov is not None else ""))
+                st.dataframe(pd.DataFrame([{
+                    "Zutat": l["display"], "Gramm": l["grams"], "Datenbankeintrag": l["db_name"] or "–",
+                    "Zuordnung": MATCH_LABEL.get(l["match_type"], l["match_type"]), "Konfidenz": l["match_confidence"],
+                    "Umrechnung": l["conversion_rule"], "kcal": (l.get("contribution") or {}).get("kcal"),
+                    "Annahme / Begründung": l["assumption_de"]} for l in n["lines"]]),
+                    hide_index=True, width="stretch")
+                if n["unresolved"]:
+                    st.markdown("**Nicht berechnet:**")
+                    for u in n["unresolved"]:
+                        st.markdown(f"- {'🔴' if u['major'] else '🟡'} {u['display']} ({u['weight_share']:.1%} des Gewichts): {u['reason']}")
+                st.caption(f"{n['source']}, {n['basis']}. {n['note_de']}")
+
+with tab_cards:
+    st.info("Folgt in Block 6.")
